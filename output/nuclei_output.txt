@@ -1,7 +1,0 @@
-[CVE-2017-5487:usernames] [http] [medium] https://crm.brainstormforce.com/wp-json/wp/v2/users/ [pratikcbrainstormforce-com,pratikc@brainstormforce.com]
-[CVE-2017-5487:usernames] [http] [medium] https://forms.brainstormforce.com/wp-json/wp/v2/users/ [deepalik,manjushan,priyankap,sujay,Priti,anchals,pritis,rohitt,Anchal,Deepali Khadye,Priyanka Poojary]
-[CVE-2017-5487:usernames] [http] [medium] https://learn.brainstormforce.com/wp-json/wp/v2/users/ [anchals,deepalikbsf-io,pratikcbrainstormforce-com,priyankapbsf-io,Anchal Sharma,Deepali Khadey,pratikc@brainstormforce.com,priyankap@bsf.io]
-[CVE-2017-5487:usernames] [http] [medium] https://support.brainstormforce.com/wp-json/wp/v2/users/ [brainstormforce,pratikc,sujay-2-2-2,Brainstorm Force,Pratik,Sujay]
-[CVE-2017-5487:usernames] [http] [medium] https://translate.brainstormforce.com/wp-json/wp/v2/users/ [navanathb,pratikc,vikasp]
-[CVE-2017-5487:usernames] [http] [medium] https://ultimate.brainstormforce.com/wp-json/wp/v2/users/ [xml-exporter,hemantk,navanathb,rohitt,Export Pages,brainstormforce,elvinag,saurabhw,sonalib,anjalic,rishabhm]
-[CVE-2017-5487:usernames] [http] [medium] https://www.brainstormforce.com/wp-json/wp/v2/users/ [anchals,deepalik,ramak,rohitt,Anchal Sharma,Deepali Khadye,aadityas,akashp,harshadd,pritis,priyankap,rishabhm,Priyanka Poojary]

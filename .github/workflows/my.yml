@@ -14,9 +14,13 @@ jobs:
         run: |
           pwd
         shell: bash
+      - name: List Directory
+        run: |
+          ls -lt
+        shell: bash
       - name: Notify Start Status
         run: |
-          sh ./scripts/notify/discordNotify.sh start
+          sh /home/runner/work/pd-actions/pd-actions/scripts/notify/discordNotify.sh start
         shell: bash
 
       - name: Checkout Repo
@@ -101,7 +105,7 @@ jobs:
 
       - name: Notify Status End
         run: |
-          sh ./scripts/notify/discordNotify.sh end
+          sh /home/runner/work/pd-actions/pd-actions/scripts/notify/discordNotify.sh end
         shell: bash
 
       - name: Sorting the output results

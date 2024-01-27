@@ -1,0 +1,138 @@
+# This is a basic workflow that is manually triggered
+
+name: Manual workflow
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      name:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Person to greet'
+        # Default value if no value is explicitly provided
+        default: 'World'
+        # Input has to be provided for the workflow to run
+        required: true
+        # The data type of the input
+        type: string
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "greet"
+  greet:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Runs a single command using the runners shell
+    - name: Send greeting
+      run: echo "Hello ${{ inputs.name }}"
+      
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+
+      - name: Setup golang
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.14
+
+      - name: Setup Dependencies
+        run: sudo apt-get install libpcap-dev # Required for Naabu
+
+      - name: Cache Go
+        id: cache-go
+        uses: actions/cache@v2
+        with:
+          path: /home/runner/go
+          key: ${{ runner.os }}-go
+
+      - name: Setting up ProjectDiscovery tools
+        if: steps.cache-go.outputs.cache-hit != 'true'
+        env:
+          GO111MODULE: on
+        run: |
+          go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+          go get -v github.com/projectdiscovery/dnsx/cmd/dnsx
+          go get -v github.com/projectdiscovery/naabu/v2/cmd/naabu
+          go get -v github.com/projectdiscovery/httpx/cmd/httpx
+          go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
+         go get -v github.com/projectdiscovery/notify/cmd/notify
+        shell: bash
+
+      - name: Running SubFinder for passive DNS enumeration
+        run: |
+          subfinder -dL input/domains.txt -config config/subfinder-config.yaml -o output/passive_subdomains.txt
+        shell: bash
+
+      - name: Running dnsx for valid DNS filtering 
+        run: |
+          dnsx -l output/passive_subdomains.txt -t 50 | tee output/active_subdomains.txt
+        shell: bash
+
+      - name: Running naabu to check top 100 ports
+        run: |
+          naabu -iL output/active_subdomains.txt  -rate 10000 -top-ports 100 | tee output/active_ports.txt
+        shell: bash
+
+#      For running vulnerability assessment of cloud assets.
+#      - name: Enumerating hosts from Cloud with Cloudlist
+#        run: |
+#          cloudlist -config config/cloudlist-config.yaml -ip | tee output/cloud_hosts.txt >> output/active_ports.txt
+#        shell: bash
+
+      - name: Running httpx for HTTP webservers probbing
+        run: |
+          httpx -l output/active_ports.txt | tee output/active_urls.txt
+        shell: bash
+
+      - name: Downloading Nuclei Templates
+        run: |
+          nuclei -update-templates
+        shell: bash
+
+      - name: Running Nuclei for vulnerability assessment
+        run: |
+          nuclei -t cves/ -l output/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee output/nuclei_output.txt
+        shell: bash
+
+   # For posting results to slack/discord/telegram
+         #notify -slack -slack-webhook-url ${{ secrets.WEB_HOOK_URL_SLACK }} -slack-username notify
+       - name: CURL NOTIFY
+        run: |
+          curl -X POST -H 'Content-type: application/json' --data '{"text":"COMPLETED"}' ${{ secrets.WEB_HOOK_URL_SLACK }}
+        shell: bash
+
+      - name: Sorting the output results
+        run: |
+          find output -type f -exec sort {} -o {} \;
+        shell: bash
+
+      - name: Create local changes
+        run: |
+          git add output/passive_subdomains.txt
+          git add output/active_subdomains.txt
+          git add output/active_ports.txt
+          git add output/active_urls.txt
+          git add output/nuclei_output.txt
+ #         git add output/cloud_hosts.txt
+
+      - name: Commit results to Github
+        run: |
+          git config --local user.email "vskrishnan27@gmail.com"
+          git config --global user.name "vskrishnan27"
+          git commit -m "PD-Actions report" -a --allow-empty
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.G_TOKEN }}
+          branch: ${{ github.ref }}      
+      
+
+      

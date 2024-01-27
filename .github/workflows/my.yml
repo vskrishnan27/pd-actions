@@ -10,6 +10,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Current Directory path
+        run: |
+          pwd
+        shell: bash
       - name: Notify Start Status
         run: |
           sh ./scripts/notify/discordNotify.sh start

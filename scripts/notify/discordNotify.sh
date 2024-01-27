@@ -9,8 +9,7 @@ if [ "$1" == "start" ]; then
 elif [ "$1" == "end" ]; then
   MESSAGE="End"
 else
-  echo "Usage: $0 [start|end]"
-  exit 1
+  MESSAGE="Unknown"
 fi
 
 # Define the JSON data using the parsed message

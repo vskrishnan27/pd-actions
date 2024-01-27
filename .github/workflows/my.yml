@@ -56,12 +56,6 @@ jobs:
           naabu -iL output/active_subdomains.txt  -rate 10000 -top-ports 100 | tee output/active_ports.txt
         shell: bash
 
-#      For running vulnerability assessment of cloud assets.
-#      - name: Enumerating hosts from Cloud with Cloudlist
-#        run: |
-#          cloudlist -config config/cloudlist-config.yaml -ip | tee output/cloud_hosts.txt >> output/active_ports.txt
-#        shell: bash
-
       - name: Running httpx for HTTP webservers probbing
         run: |
           httpx -l output/active_ports.txt | tee output/active_urls.txt
@@ -94,7 +88,6 @@ jobs:
           git add output/active_ports.txt
           git add output/active_urls.txt
           git add output/nuclei_output.txt
- #         git add output/cloud_hosts.txt
 
       - name: Commit results to Github
         run: |

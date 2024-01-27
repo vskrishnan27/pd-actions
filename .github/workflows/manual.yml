@@ -51,8 +51,8 @@ jobs:
         with:
           path: /home/runner/go
           key: ${{ runner.os }}-go
-
-      - name: Setting up ProjectDiscovery tools
+#test
+      - name: Setting up ProjectDiscovery tool
         if: steps.cache-go.outputs.cache-hit != 'true'
         env:
           GO111MODULE: on

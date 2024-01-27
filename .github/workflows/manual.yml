@@ -50,8 +50,8 @@ jobs:
         uses: actions/cache@v2
         with:
           path: /home/runner/go
-          key: ${{ runner.os }} -go
-#test
+          key: ${{ runner.os }}-go
+          
       - name: Setting up ProjectDiscovery tool
         if: steps.cache-go.outputs.cache-hit != 'true'
         env:

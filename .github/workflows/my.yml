@@ -10,15 +10,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: notifcation
-        run: |
-          curl -X POST -H 'Content-type: application/json' --data '{"text":"STARTED SCANNING ...."}' https://hooks.slack.com/services/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
-        shell: bash
-
       - name: Notify Status
         uses: satak/webrequest-action@master
         with:
-          url: https://hooks.slack.com/services/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
+          url: https://webhook.site/49955390-8244-4c21-ba0f-f01bc5d6e3e5
           method: POST
           payload: '{"text":"Started "}'
 
@@ -105,7 +100,7 @@ jobs:
       - name: Notify Status End
         uses: satak/webrequest-action@master
         with:
-          url: https://hooks.slack.com/services/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
+          url: https://webhook.site/49955390-8244-4c21-ba0f-f01bc5d6e3e5
           method: POST
           payload: '{"text":"Completed "}'
       

@@ -10,12 +10,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Notify Status
-        uses: satak/webrequest-action@master
-        with:
-          url: https://webhook.site/49955390-8244-4c21-ba0f-f01bc5d6e3e5
-          method: POST
-          payload: '{"text":"Started "}'
+      - name: Notify Start Status
+        run: |
+          sh ./scripts/notify/discordNotify.sh start
+        shell: bash
 
       - name: Checkout Repo
         uses: actions/checkout@master
@@ -98,12 +96,9 @@ jobs:
         shell: bash
 
       - name: Notify Status End
-        uses: satak/webrequest-action@master
-        with:
-          url: https://webhook.site/49955390-8244-4c21-ba0f-f01bc5d6e3e5
-          method: POST
-          payload: '{"text":"Completed "}'
-      
+        run: |
+          sh ./scripts/notify/discordNotify.sh end
+        shell: bash
 
       - name: Sorting the output results
         run: |

@@ -41,6 +41,11 @@ jobs:
           go install github.com/projectdiscovery/notify/cmd/notify@latest
         shell: bash
       
+      - name: notifcation
+        run: |
+         curl -X POST -H 'Content-type: application/json' --data '{"text":"STARTED SCANNING ...."}' ${{ secrets.WEB_HOOK_URL_SLACK }}
+        shell: bash
+      
       - name: Current Directory path
         run: |
           pwd

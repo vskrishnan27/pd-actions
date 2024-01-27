@@ -10,6 +10,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Echo ...
+        run: |
+          echo ${{ secrets.WEB_HOOK_URL_SLACK }}
+        shell: bash
+
       - name: Notify Status
         uses: satak/webrequest-action@master
         with:

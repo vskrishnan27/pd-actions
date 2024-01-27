@@ -12,15 +12,15 @@ jobs:
     steps:
       - name: notifcation
         run: |
-          curl -X POST -H 'Content-type: application/json' --data '{"text":"STARTED SCANNING ...."}' https://webhook.site/49955390-8244-4c21-ba0f-f01bc5d6e3e5
+          curl -X POST -H 'Content-type: application/json' --data '{"text":"STARTED SCANNING ...."}' https://hooks.slack.com/services/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
         shell: bash
 
       - name: Notify Status
         uses: satak/webrequest-action@master
         with:
-          url: https://webhook.site/49955390-8244-4c21-ba0f-f01bc5d6e3e5
+          url: https://hooks.slack.com/services/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
           method: POST
-          payload: '{"text":"Started at ${{ steps.time.outputs.now }}"}'
+          payload: '{"text":"Started "}'
 
       - name: Checkout Repo
         uses: actions/checkout@master
@@ -102,12 +102,12 @@ jobs:
           nuclei -t cves/ -l output/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee output/nuclei_output.txt
         shell: bash
 
-      - name: End Notifcation
+      - name: Notify Status End
         uses: satak/webrequest-action@master
         with:
-          url: ${{ secrets.WEB_HOOK_URL_SLACK }}
+          url: https://hooks.slack.com/services/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
           method: POST
-          payload: '{"text":"Completed at ${{ steps.time.outputs.now }}"}'
+          payload: '{"text":"Completed "}'
       
 
       - name: Sorting the output results

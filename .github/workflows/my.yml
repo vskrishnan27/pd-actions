@@ -67,7 +67,7 @@ jobs:
 
       - name: Running naabu to check top 100 ports
         run: |
-          naabu -i /home/runner/work/pd-actions/pd-actions/output/active_subdomains.txt -rate 10000 -top-ports 100 | tee /home/runner/work/pd-actions/pd-actions/output/active_ports.txt
+          naabu -l /home/runner/work/pd-actions/pd-actions/output/active_subdomains.txt -rate 10000 -top-ports 100 | tee /home/runner/work/pd-actions/pd-actions/output/active_ports.txt
         shell: bash
 
       - name: Running httpx for HTTP webservers probbing

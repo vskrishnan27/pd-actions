@@ -11,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set execute permission for the script
-        run: chmod +x ./scripts/notify/discordNotify.sh
+        run: chmod +x $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh
 
       - name: Notify Start Status
         run: |
-          sh ./scripts/notify/discordNotify.sh start
+          sh $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh start
         shell: bash
 
       - name: Checkout Repo

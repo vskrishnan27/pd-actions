@@ -10,15 +10,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Echo ...
+      - name: notifcation
         run: |
-          echo ${{ secrets.WEB_HOOK_URL_SLACK }}
+          curl -X POST -H 'Content-type: application/json' --data '{"text":"STARTED SCANNING ...."}' https://webhook.site/49955390-8244-4c21-ba0f-f01bc5d6e3e5
         shell: bash
 
       - name: Notify Status
         uses: satak/webrequest-action@master
         with:
-          url: ${{ secrets.WEB_HOOK_URL_SLACK }}
+          url: https://webhook.site/49955390-8244-4c21-ba0f-f01bc5d6e3e5
           method: POST
           payload: '{"text":"Started at ${{ steps.time.outputs.now }}"}'
 

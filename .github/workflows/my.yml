@@ -10,6 +10,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+      
       - name: Set execute permission for the script
         run: chmod +x $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh
 
@@ -17,10 +20,7 @@ jobs:
         run: |
           sh $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh start
         shell: bash
-
-      - name: Checkout Repo
-        uses: actions/checkout@master
-
+      
       - name: Setup golang
         uses: actions/setup-go@v2
         with:
@@ -100,7 +100,7 @@ jobs:
 
       - name: Notify Status End
         run: |
-          sh /home/runner/work/pd-actions/pd-actions/scripts/notify/discordNotify.sh end
+          sh $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh end
         shell: bash
 
       - name: Sorting the output results

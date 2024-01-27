@@ -80,7 +80,7 @@ jobs:
    # For posting results to slack/discord/telegram
          #notify -slack -slack-webhook-url ${{ secrets.WEB_HOOK_URL_SLACK }} -slack-username notify
        - name: CURL NOTIFY
-        run: |
+         run: |
           curl -X POST -H 'Content-type: application/json' --data '{"text":"COMPLETED"}' ${{ secrets.WEB_HOOK_URL_SLACK }}
         shell: bash
 

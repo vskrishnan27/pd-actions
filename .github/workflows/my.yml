@@ -10,6 +10,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Notify Status
+        uses: satak/webrequest-action@master
+        with:
+          url: ${{ secrets.WEB_HOOK_URL_SLACK }}
+          method: POST
+          payload: '{"text":"Started at ${{ steps.time.outputs.now }}"}'
+
       - name: Checkout Repo
         uses: actions/checkout@master
 
@@ -40,13 +47,6 @@ jobs:
           go install github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
           go install github.com/projectdiscovery/notify/cmd/notify@latest
         shell: bash
-      
-      - name: notifcation
-        uses: satak/webrequest-action@master
-        with:
-          url: ${{ secrets.WEB_HOOK_URL_SLACK }}
-          method: POST
-          payload: '{"text":":"Started at ${{ steps.time.outputs.now }}"}'
       
       - name: Current Directory path
         run: |

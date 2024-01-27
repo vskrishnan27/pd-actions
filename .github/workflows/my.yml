@@ -10,18 +10,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Current Directory path
-        run: |
-          pwd
-        shell: bash
-      - name: List Directory
-        run: |
-          ls -lt
-        shell: bash
+      - name: Set execute permission for the script
+        run: chmod +x ./scripts/notify/discordNotify.sh
+
       - name: Notify Start Status
         run: |
           sh ./scripts/notify/discordNotify.sh start
-        shell: shell
+        shell: bash
 
       - name: Checkout Repo
         uses: actions/checkout@master

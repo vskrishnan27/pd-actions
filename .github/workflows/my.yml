@@ -20,8 +20,8 @@ jobs:
         shell: bash
       - name: Notify Start Status
         run: |
-          sh /home/runner/work/pd-actions/pd-actions/scripts/notify/discordNotify.sh start
-        shell: bash
+          sh ./scripts/notify/discordNotify.sh start
+        shell: shell
 
       - name: Checkout Repo
         uses: actions/checkout@master

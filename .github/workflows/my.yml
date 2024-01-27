@@ -80,6 +80,11 @@ jobs:
           nuclei -update-templates
         shell: bash
 
+      - name: List Nuclei Templates
+        run: |
+          ls -lt /home/runner/nuclei-templates
+        shell: bash
+
       - name: Running Nuclei for vulnerability assessment
         run: |
           nuclei -t cves/ -l output/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee output/nuclei_output.txt

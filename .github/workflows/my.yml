@@ -46,7 +46,7 @@ jobs:
         with:
           url: ${{ secrets.WEB_HOOK_URL_SLACK }}
           method: POST
-          payload: '{"name": "${{ env.MY_NAME }}","Status":"Started at ${{ steps.time.outputs.now }}"}'
+          payload: '{"text":":"Started at ${{ steps.time.outputs.now }}"}'
       
       - name: Current Directory path
         run: |
@@ -102,7 +102,7 @@ jobs:
         with:
           url: ${{ secrets.WEB_HOOK_URL_SLACK }}
           method: POST
-          payload: '{"name": "${{ env.MY_NAME }}","Status":"Completed at ${{ steps.time.outputs.now }}"}'
+          payload: '{"text":"Completed at ${{ steps.time.outputs.now }}"}'
       
 
       - name: Sorting the output results

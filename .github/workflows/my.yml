@@ -42,9 +42,11 @@ jobs:
         shell: bash
       
       - name: notifcation
-        run: |
-         curl -X POST -H 'Content-type: application/json' --data '{"text":"STARTED SCANNING ...."}' ${{ secrets.WEB_HOOK_URL_SLACK }}
-        shell: bash
+        uses: satak/webrequest-action@master
+        with:
+          url: ${{ secrets.WEB_HOOK_URL_SLACK }}
+          method: POST
+          payload: '{"name": "${{ env.MY_NAME }}","Status":"Started at ${{ steps.time.outputs.now }}"}'
       
       - name: Current Directory path
         run: |
@@ -95,10 +97,13 @@ jobs:
           nuclei -t cves/ -l output/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee output/nuclei_output.txt
         shell: bash
 
-      - name: notifcation
-        run: |
-          curl -X POST -H 'Content-type: application/json' --data '{"text":"COMPLETED"}' ${{ secrets.WEB_HOOK_URL_SLACK }}
-        shell: bash
+      - name: End Notifcation
+        uses: satak/webrequest-action@master
+        with:
+          url: ${{ secrets.WEB_HOOK_URL_SLACK }}
+          method: POST
+          payload: '{"name": "${{ env.MY_NAME }}","Status":"Completed at ${{ steps.time.outputs.now }}"}'
+      
 
       - name: Sorting the output results
         run: |
@@ -122,5 +127,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.G_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}

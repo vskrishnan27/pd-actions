@@ -1,4 +1,4 @@
-name: pd-actions
+name: my
 
 on:
 #    schedule:
@@ -20,13 +20,6 @@ jobs:
 
       - name: Setup Dependencies
         run: sudo apt-get install libpcap-dev # Required for Naabu
-
-      - name: Cache Go
-        id: cache-go
-        uses: actions/cache@v2
-        with:
-          path: /home/runner/go
-          key: ${{ runner.os }}-go
 
       - name: Setting up ProjectDiscovery tools
         if: steps.cache-go.outputs.cache-hit != 'true'

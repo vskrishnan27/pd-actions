@@ -58,7 +58,7 @@ jobs:
       
       - name: List output directry
         run: |
-          ls -lt
+          ls -lt output/
         shell: bash  
 
       - name: Running naabu to check top 100 ports

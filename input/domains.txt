@@ -1,15 +1,6 @@
-swiggy.com
 bankera.com
 tether.to
-tesla.com
-apple.com
-google.com
-zoho.com
-snapchat.com
-netflix.com
-microsoft.com
 komoot.com
-zerodha.com
 paytmmall.com
 xrex.io
 printreach.com
@@ -24,6 +15,3 @@ plisio.net
 loginradius.com
 atherenergy.com
 spectrocoin.com
-facebook.com
-intel.com
-ola.com

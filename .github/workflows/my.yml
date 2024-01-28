@@ -9,6 +9,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 3600
     steps:
       - name: Checkout Repo
         uses: actions/checkout@master
@@ -18,8 +19,7 @@ jobs:
 
       - name: Notify Start Status
         run: |
-          sh $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh start
-        shell: bash
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh start
       
       - name: Setup golang
         uses: actions/setup-go@v2
@@ -100,8 +100,7 @@ jobs:
 
       - name: Notify Status End
         run: |
-          sh $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh end
-        shell: bash
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh end
 
       - name: Sorting the output results
         run: |

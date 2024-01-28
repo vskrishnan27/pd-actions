@@ -1,0 +1,6 @@
+[CVE-2017-5487:usernames] [http] [medium] http://press.atherenergy.com/wp-json/wp/v2/users/ [atherpress,anna johnson,Ramesh Naidu,anna]
+[CVE-2017-5487:usernames] [http] [medium] http://support.atherenergy.com/wp-json/wp/v2/users/ [athersupport,Ramesh Naidu,nishanth]
+[CVE-2017-5487:usernames] [http] [medium] https://blog.achievable.me/wp-json/wp/v2/users/ [brandonrith,juliamkowalski,leiayun-s,nicolemoughrabigmailcom,Jeysen Freedman,Nicole Moughrabi,jstod23,tylerachievable,Belen Saldana,Jasper Stoddard,Leia Yun,Sophie Walzer,Tyler York,belengarciasaldana,taerix,sophiewalzer,Brandon Rith,jeysenfreedman,Justin]
+[CVE-2017-5487:usernames] [http] [medium] https://press.atherenergy.com/wp-json/wp/v2/users/ [anna,atherpress,anna johnson,Ramesh Naidu]
+[CVE-2017-5487:usernames] [http] [medium] https://support.atherenergy.com/wp-json/wp/v2/users/ [Ramesh Naidu,nishanth,athersupport]
+[CVE-2021-39327] [http] [medium] https://www.loginradius.com/wp-content/bps-backup/logs/db_backup_log.txt

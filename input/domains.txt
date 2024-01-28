@@ -1,3 +1,9 @@
+magiceden.io
+fireblocks.com
+six-group.com
+launchdarkly.com
+superbet.ro
+zomato.com
 bankera.com
 tether.to
 komoot.com
@@ -15,7 +21,5 @@ plisio.net
 loginradius.com
 atherenergy.com
 spectrocoin.com
-yahoo.com
-apple.com
 tesla.com
 zoho.com

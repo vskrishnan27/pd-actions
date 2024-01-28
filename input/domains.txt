@@ -15,3 +15,7 @@ plisio.net
 loginradius.com
 atherenergy.com
 spectrocoin.com
+yahoo.com
+apple.com
+tesla.com
+zoho.com

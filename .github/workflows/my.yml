@@ -109,11 +109,13 @@ jobs:
 
       - name: Create local changes
         run: |
+          git pull
           git add output/passive_subdomains.txt
           git add output/active_subdomains.txt
           git add output/active_ports.txt
           git add output/active_urls.txt
           git add output/nuclei_output.txt
+          git add input/
 
       - name: Commit results to Github
         run: |

@@ -25,7 +25,6 @@ achievable-blue--uat.achievable.me
 achievable-blue.achievable.me
 achievable.me
 adhoc.coda.io
-admin.bmefx.es.six-group.com
 admin.coda.io
 admin.dev.coda.io
 admin.head.coda.io
@@ -64,6 +63,7 @@ api-preprod.np.fip.six-group.com
 api-preprod.np.p2p.six-group.com
 api-preprod.np.six-group.com
 api-qa.np.fip.six-group.com
+api-qa.np.p2p.six-group.com
 api-qa.np.six-group.com
 api-test-cert.six-group.com
 api-test.np.six-group.com
@@ -757,7 +757,6 @@ offer-server.prod.incubator.superbet.ro
 ondemandlegal.hub.loginradius.com
 openapi.agicap.com
 opensource.loginradius.com
-orders.account-prov.prod.tools.launchdarkly.com
 orders.bmefx.es.six-group.com
 orders.test-bmefx.es.six-group.com
 orgman.lab.six-group.com
@@ -902,7 +901,6 @@ slack.launchdarkly.com
 smart.launchdarkly.com
 sme.six-group.com
 smtp.gslb.six-group.com
-smtp.six-group.com
 smtp01.plisio.net
 soap-cert-etu.p2p.six-group.com
 soap-cert-etu.six-group.com
@@ -1123,8 +1121,6 @@ web.api.six-group.com
 web.apiportal.six-group.com
 web.banking-services.six-group.com
 webapp-int.np.six-group.com
-webapp-preprod.np.fip.six-group.com
-webapp-preprod.np.p2p.six-group.com
 webapp-preprod.np.six-group.com
 webapp-qa.np.fip.six-group.com
 webapp-qa.np.p2p.six-group.com

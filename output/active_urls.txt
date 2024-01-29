@@ -17,7 +17,6 @@ http://achievable-blue.achievable.me
 http://achievable-blue.achievable.me:8080
 http://achievable.me
 http://achievable.me:8443
-http://admin.bmefx.es.six-group.com
 http://adminconsole.loginradius.com
 http://adminconsole.loginradius.com:8080
 http://adminconsole.loginradius.com:8443
@@ -123,11 +122,8 @@ http://blog.magiceden.io:8080
 http://blog.paytmmall.com
 http://blog.spectrocoin.com
 http://blog.spectrocoin.com:8080
-http://blog.spectrocoin.com:8443
 http://blog.xrex.io
-http://blog.xrex.io:443
 http://blog.xrex.io:8080
-http://blog.xrex.io:8443
 http://blog.zomato.com
 http://blogas.spectrocoin.com
 http://blogas.spectrocoin.com:8080
@@ -193,6 +189,7 @@ http://clientstream-stg.intuit.launchdarkly.com
 http://clientstream-stg.launchdarkly.com
 http://clientstream-use1.launchdarkly.com
 http://clientstream-use2.intuit.launchdarkly.com
+http://clientstream.intuit.launchdarkly.com
 http://clientstream.launchdarkly.com
 http://cloud-api.loginradius.com
 http://club.dev.superbet.ro
@@ -216,7 +213,6 @@ http://content.agicap.com
 http://content.agicap.com:8080
 http://contenthub-backend.magiceden.io
 http://contenthub-backend.magiceden.io:8080
-http://contenthub-backend.magiceden.io:8443
 http://contenthub.magiceden.io
 http://contenthub.magiceden.io:8080
 http://corporate.zomato.com
@@ -225,6 +221,7 @@ http://cpcdm.marrow.com
 http://creators.magiceden.io
 http://creators.magiceden.io:8080
 http://cs.tether.to
+http://cs.tether.to:8443
 http://cts1-eventdiary-etu.six-group.com
 http://culture.zomato.com
 http://custom.coda.io
@@ -253,8 +250,6 @@ http://developers.fireblocks.com
 http://developers.fireblocks.com:8080
 http://developers.launchdarkly.com
 http://developers.zomato.com
-http://devnet.magiceden.io
-http://devnet.magiceden.io:8080
 http://devrjloebu3hnj.hub.loginradius.com
 http://devsite.printreach.com
 http://devsite.printreach.com:8443
@@ -389,7 +384,6 @@ http://hola-auth.hub.loginradius.com
 http://hvl1-eventdiary-etu.six-group.com
 http://ib.bankera.com
 http://ib.bankera.com:8080
-http://ib.bankera.com:8443
 http://ibt-test.six-group.com
 http://ibt.six-group.com
 http://impaqt.six-group.com
@@ -398,6 +392,7 @@ http://info-sandbox.six-group.com:8080
 http://info.fireblocks.com
 http://info.fireblocks.com:8080
 http://info.six-group.com
+http://info.six-group.com:443
 http://info.six-group.com:8080
 http://insta.superbet.ro
 http://insta.superbet.ro:443
@@ -481,7 +476,6 @@ http://new.xrex.io
 http://newsroom.komoot.com
 http://next.achievable.me
 http://nodes-b-l.plisio.net
-http://nodes-b-l.plisio.net:443
 http://nodes-b-l.plisio.net:8080
 http://nodes-b-l.plisio.net:8443
 http://ocp.magiceden.io
@@ -501,6 +495,7 @@ http://partner.loginradius.com
 http://partners.proton.me
 http://partnersupport.launchdarkly.com
 http://partnersupport.launchdarkly.com:8080
+http://partnersupport.launchdarkly.com:8443
 http://passwordless.hub.loginradius.com
 http://payments-preprod.zomato.com
 http://payments.agicap.com
@@ -516,7 +511,6 @@ http://plisio.net:8443
 http://pnl.agicap.com
 http://polygon.magiceden.io
 http://polygon.magiceden.io:8080
-http://portal-services-int.np.six-group.com:443
 http://portal.six-group.com
 http://positions.bmefx.es.six-group.com
 http://ppscservice.spectrocoin.com
@@ -559,9 +553,7 @@ http://remote-config.magiceden.io
 http://remote-config.magiceden.io:8080
 http://reports.six-group.com
 http://research.xrex.io
-http://research.xrex.io:443
 http://research.xrex.io:8080
-http://research.xrex.io:8443
 http://resources.launchdarkly.com
 http://retail.offer-display.live.stage.superbet.ro
 http://retail.offer-display.live.superbet.ro
@@ -570,7 +562,6 @@ http://rfq.bmefx.es.six-group.com
 http://roomzz.hub.loginradius.com
 http://rpc.infra.magiceden.io
 http://sandbox.status.fireblocks.com
-http://sdk-stg.launchdarkly.com
 http://sdk.dev.launchdarkly.com:8443
 http://sdk.dr.launchdarkly.com
 http://sdk.launchdarkly.com
@@ -601,6 +592,9 @@ http://solana.magiceden.io:8080
 http://solutions.xrex.io
 http://space.atherenergy.com
 http://spacecamp.launchdarkly.com
+http://spectrocoin.com
+http://spectrocoin.com:8080
+http://spectrocoin.com:8443
 http://sport.superbet.ro
 http://sportbuzzer.hub.loginradius.com
 http://srdr1-eventdiary-etu.six-group.com
@@ -641,6 +635,9 @@ http://support.atherenergy.com:8080
 http://support.komoot.com
 http://support.komoot.com:8080
 http://support.komoot.com:8443
+http://support.launchdarkly.com
+http://support.launchdarkly.com:8080
+http://support.launchdarkly.com:8443
 http://support.loginradius.com
 http://support.loginradius.com:8080
 http://support.loginradius.com:8443
@@ -686,7 +683,6 @@ http://trustandsafety.magiceden.io:8080
 http://trxtraining-dev.hub.loginradius.com
 http://trxtraining.hub.loginradius.com
 http://tw.xrex.io
-http://tw.xrex.io:443
 http://tw.xrex.io:8080
 http://tw.xrex.io:8443
 http://twg.blink.azure.six-group.com
@@ -790,6 +786,7 @@ http://www.zomato.com
 http://www2.launchdarkly.com
 http://xrex.io
 http://zepter.hub.loginradius.com
+http://zomato.com
 http://zpay.zomato.com
 http://zwstatic.zomato.com
 https://10feb.hub.loginradius.com
@@ -815,10 +812,10 @@ https://achievable-blue.achievable.me
 https://achievable-blue.achievable.me:8443
 https://achievable.me
 https://adhoc.coda.io
-https://admin.bmefx.es.six-group.com
 https://admin.coda.io
 https://admin.head.coda.io
 https://admin.staging.coda.io
+https://admin.test-bmefx.es.six-group.com
 https://adminconsole.loginradius.com
 https://adminhub.magiceden.io
 https://adminhub.magiceden.io:8443
@@ -840,7 +837,6 @@ https://api-i0.marrow.com
 https://api-mainnet.magiceden.io
 https://api-mainnet.magiceden.io:8443
 https://api-preprod.np.six-group.com
-https://api-qa.np.six-group.com
 https://api-test.np.six-group.com
 https://api.bmefx.es.six-group.com
 https://api.comolho.com
@@ -854,6 +850,7 @@ https://apibeta.zomato.com
 https://apidocs.launchdarkly.com
 https://apidocs.loginradius.com
 https://apimail.zomato.com
+https://apiportal.six-group.com
 https://app--uat.achievable.me
 https://app-east.intuit.launchdarkly.com
 https://app-gateway.bankera.com
@@ -885,7 +882,6 @@ https://atherenergy.com:8443
 https://auroramj-dev.hub.loginradius.com
 https://auroramj-stag.hub.loginradius.com
 https://auroramj.hub.loginradius.com
-https://auth.bmefx.es.six-group.com
 https://auth.spectrocoin.com
 https://authenticate.loginradius.com
 https://authentication1.six-group.com
@@ -916,6 +912,9 @@ https://blog.magiceden.io
 https://blog.magiceden.io:8443
 https://blog.paytmmall.com
 https://blog.spectrocoin.com
+https://blog.spectrocoin.com:8443
+https://blog.xrex.io
+https://blog.xrex.io:8443
 https://blog.zomato.com
 https://blogas.spectrocoin.com
 https://blogas.spectrocoin.com:8443
@@ -960,7 +959,6 @@ https://chat.cfosba.azure.six-group.com
 https://chat.qrbill.azure.six-group.com
 https://chat.zomato.com
 https://checkout.fireblocks.com
-https://clearing.six-group.com
 https://client-events-frontend.dev.intracmc.azure.six-group.com
 https://client-events-node.dev.intracmc.azure.six-group.com
 https://client-events.dev.intracmc.azure.six-group.com
@@ -1000,7 +998,6 @@ https://community.zomato.com
 https://compliance.cfosba.azure.six-group.com
 https://condenastsso.hub.loginradius.com
 https://confidential.agicap.com
-https://connexor-int.np.six-group.com
 https://connexor-int.six-group.com
 https://connexor-test.six-group.com
 https://connexor.six-group.com
@@ -1008,6 +1005,7 @@ https://contact.xrex.io
 https://content.agicap.com
 https://content.agicap.com:8443
 https://contenthub-backend.magiceden.io
+https://contenthub-backend.magiceden.io:8443
 https://contenthub.magiceden.io
 https://contenthub.magiceden.io:8443
 https://corporate.zomato.com
@@ -1016,7 +1014,6 @@ https://cpcdm.marrow.com
 https://creators.magiceden.io
 https://creators.magiceden.io:8443
 https://cs.tether.to
-https://cs.tether.to:8443
 https://cts1-eventdiary-etu.six-group.com
 https://culture.zomato.com
 https://cyber.comolho.com
@@ -1044,8 +1041,6 @@ https://developers.fireblocks.com
 https://developers.fireblocks.com:8443
 https://developers.launchdarkly.com
 https://developers.zomato.com
-https://devnet.magiceden.io
-https://devnet.magiceden.io:8443
 https://devrjloebu3hnj.hub.loginradius.com
 https://devsite.printreach.com
 https://devy9rfgezxndi.hub.loginradius.com
@@ -1107,7 +1102,6 @@ https://exchange.xrex.io
 https://explore.xrex.io
 https://explorer.spectrocoin.com
 https://explorer.spectrocoin.com:8443
-https://ext-jira.six-group.com
 https://fantasticduels.stage.superbet.ro
 https://fantasticduels.superbet.ro
 https://farmmedia-dev.hub.loginradius.com
@@ -1172,6 +1166,7 @@ https://hola-auth.hub.loginradius.com
 https://hvl1-eventdiary-etu.six-group.com
 https://hybrid.six-group.com
 https://ib.bankera.com
+https://ib.bankera.com:8443
 https://ibt-test.six-group.com
 https://ibt.six-group.com
 https://impaqt.six-group.com
@@ -1180,7 +1175,6 @@ https://info-sandbox.six-group.com
 https://info-sandbox.six-group.com:8443
 https://info.fireblocks.com
 https://info.fireblocks.com:8443
-https://info.six-group.com
 https://info.six-group.com:8443
 https://integrations-stg.launchdarkly.com
 https://integrations.launchdarkly.com
@@ -1265,13 +1259,13 @@ https://ncw-developers.fireblocks.com:8443
 https://new.xrex.io
 https://newsroom.komoot.com
 https://next.achievable.me
+https://nodes-b-l.plisio.net
 https://ocp.magiceden.io
 https://ocp.magiceden.io:8443
 https://offer-server.prod.incubator.superbet.ro
 https://ondemandlegal.hub.loginradius.com
 https://openapi.agicap.com
 https://opensource.loginradius.com
-https://orders.account-prov.prod.tools.launchdarkly.com
 https://orders.test-bmefx.es.six-group.com
 https://origin.coda.io
 https://origin.head.coda.io
@@ -1284,7 +1278,6 @@ https://pages.magiceden.io:8443
 https://partner.loginradius.com
 https://partners.proton.me
 https://partnersupport.launchdarkly.com
-https://partnersupport.launchdarkly.com:8443
 https://passwordless.hub.loginradius.com
 https://payments-preprod.zomato.com
 https://payments.agicap.com
@@ -1346,6 +1339,8 @@ https://remote-config.magiceden.io
 https://remote-config.magiceden.io:8443
 https://reports.proton.me
 https://reports.six-group.com
+https://research.xrex.io
+https://research.xrex.io:8443
 https://resources.launchdarkly.com
 https://retail.offer-display.live.stage.superbet.ro
 https://retail.offer-display.live.superbet.ro
@@ -1354,7 +1349,6 @@ https://rfq.bmefx.es.six-group.com
 https://roomzz.hub.loginradius.com
 https://rpc.infra.magiceden.io
 https://sandbox.status.fireblocks.com
-https://sdk-stg.launchdarkly.com
 https://sdk.dev.launchdarkly.com
 https://sdk.dr.launchdarkly.com
 https://sdk.launchdarkly.com
@@ -1393,6 +1387,7 @@ https://solana.magiceden.io:8443
 https://solutions.xrex.io
 https://space.atherenergy.com
 https://spacecamp.launchdarkly.com
+https://spectrocoin.com
 https://sport.superbet.ro
 https://sportbuzzer.hub.loginradius.com
 https://srdr1-eventdiary-etu.six-group.com
@@ -1441,6 +1436,7 @@ https://suport.superbet.ro
 https://support.atherenergy.com
 https://support.atherenergy.com:8443
 https://support.komoot.com
+https://support.launchdarkly.com
 https://support.loginradius.com
 https://support.printreach.com
 https://support.xrex.io
@@ -1482,6 +1478,7 @@ https://trustandsafety.magiceden.io
 https://trustandsafety.magiceden.io:8443
 https://trxtraining-dev.hub.loginradius.com
 https://trxtraining.hub.loginradius.com
+https://tw.xrex.io
 https://twg.blink.azure.six-group.com
 https://ucc.six-group.com
 https://uccweb.six-group.com
@@ -1584,8 +1581,8 @@ https://www.twg.blink.azure.six-group.com
 https://www.xrex.io
 https://www.zomato.com
 https://www2.launchdarkly.com
-https://xml-etu.np.six-group.com
 https://xrex.io
 https://zepter.hub.loginradius.com
+https://zomato.com
 https://zpay.zomato.com
 https://zwstatic.zomato.com

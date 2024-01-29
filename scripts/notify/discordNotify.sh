@@ -9,7 +9,7 @@ if [ "$1" == "start" ]; then
 elif [ "$1" == "end" ]; then
   MESSAGE="End"
 else
-  MESSAGE="Unknown"
+  MESSAGE="$1"
 fi
 
 # Define the JSON data using the parsed message

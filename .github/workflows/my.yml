@@ -3,13 +3,12 @@ name: my
 on:
 #    schedule:
 #      - cron: '0 0 * * *'
-# Remove both comments to run this action on daily basis.
     workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 3600
+    timeout-minutes: 36000
     steps:
       - name: Checkout Repo
         uses: actions/checkout@master
@@ -59,10 +58,18 @@ jobs:
           subfinder -dL input/domains.txt -config config/subfinder-config.yaml -o output/passive_subdomains.txt
         shell: bash
 
+      - name: Notify Passive Domains Count  
+        run: |
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Passive Subdomains : $($GITHUB_WORKSPACE/output/passive_subdomains.txt |wc -l)"
+
       - name: Running dnsx for valid DNS filtering 
         run: |
           dnsx -l output/passive_subdomains.txt -t 50 | tee output/active_subdomains.txt
         shell: bash
+        
+      - name: Notify Active Sub Domains Count  
+        run: |
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Subdomains : $($GITHUB_WORKSPACE/output/active_subdomains.txt |wc -l)"  
       
       - name: List output directry
         run: |
@@ -78,11 +85,19 @@ jobs:
           naabu -l /home/runner/work/pd-actions/pd-actions/output/active_subdomains.txt -rate 10000 | tee /home/runner/work/pd-actions/pd-actions/output/active_ports.txt
         shell: bash
 
+      - name: Notify Active Ports Count  
+        run: |
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Ports : $($GITHUB_WORKSPACE/output/active_ports.txt |wc -l)"      
+
       - name: Running httpx for HTTP webservers probbing
         run: |
           httpx -l output/active_ports.txt | tee output/active_urls.txt
         shell: bash
 
+      - name: Notify Active urls Count  
+        run: |
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Urls : $($GITHUB_WORKSPACE/output/active_urls.txt |wc -l)"      
+    
       - name: Downloading Nuclei Templates
         run: |
           nuclei -update-templates

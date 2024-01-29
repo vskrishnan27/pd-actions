@@ -60,7 +60,7 @@ jobs:
 
       - name: Notify Passive Domains Count  
         run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Passive Subdomains : $($GITHUB_WORKSPACE/output/passive_subdomains.txt |wc -l)"
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Passive Subdomains : $(cat $GITHUB_WORKSPACE/output/passive_subdomains.txt |wc -l)"
 
       - name: Running dnsx for valid DNS filtering 
         run: |
@@ -69,7 +69,7 @@ jobs:
         
       - name: Notify Active Sub Domains Count  
         run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Subdomains : $($GITHUB_WORKSPACE/output/active_subdomains.txt |wc -l)"  
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Subdomains : $(cat $GITHUB_WORKSPACE/output/active_subdomains.txt |wc -l)"  
       
       - name: List output directry
         run: |
@@ -87,7 +87,7 @@ jobs:
 
       - name: Notify Active Ports Count  
         run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Ports : $($GITHUB_WORKSPACE/output/active_ports.txt |wc -l)"      
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Ports : $(cat $GITHUB_WORKSPACE/output/active_ports.txt |wc -l)"      
 
       - name: Running httpx for HTTP webservers probbing
         run: |
@@ -96,7 +96,7 @@ jobs:
 
       - name: Notify Active urls Count  
         run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Urls : $($GITHUB_WORKSPACE/output/active_urls.txt |wc -l)"      
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Urls : $(cat $GITHUB_WORKSPACE/output/active_urls.txt |wc -l)"      
     
       - name: Downloading Nuclei Templates
         run: |

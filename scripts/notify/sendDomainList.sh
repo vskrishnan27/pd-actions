@@ -17,7 +17,7 @@ if [ ! -f "$input_file" ]; then
 fi
 
 # Initialize a variable to store all the domains
-all_domains=""
+all_domains="List of Domains : \n"
 
 while IFS= read -r domain; do
   if [ -z "$domain" ]; then

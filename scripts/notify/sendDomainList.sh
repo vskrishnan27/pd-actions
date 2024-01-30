@@ -1,10 +1,18 @@
 #!/bin/bash
 
+# Check if the GITHUB_WORKSPACE variable is available
+if [ -z "$GITHUB_WORKSPACE" ]; then
+  echo "GITHUB_WORKSPACE is not set."
+  exit 1
+fi
+
+# Set the input file path relative to the GITHUB_WORKSPACE
+input_file="$GITHUB_WORKSPACE/input/domains.txt"
+
 # Check if the input file exists
-input_file="../../input/domains.txt"
 if [ ! -f "$input_file" ]; then
   echo "Input file '$input_file' not found."
-  ./discordNotify.sh "input file not found on ::: $input_file"
+  "$GITHUB_WORKSPACE/scripts/notify/discordNotify.sh" "Input file not found on ::: $input_file"
   exit 1
 fi
 
@@ -19,5 +27,5 @@ while IFS= read -r domain; do
   all_domains="$all_domains$domain\n"
 done < "$input_file"
 
-
-./discordNotify.sh "$all_domains"
+# Call discordNotify.sh script with all_domains as an argument
+"$GITHUB_WORKSPACE/scripts/notify/discordNotify.sh" "$all_domains"

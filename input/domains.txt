@@ -1,1 +1,5 @@
-zoho.com
+exodus.com
+basecamp.com
+enjin.io
+figma.com
+magic.link

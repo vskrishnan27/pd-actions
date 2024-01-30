@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 36000
+    timeout-minutes: 5760 #4 days 
     steps:
       - name: Checkout Repo
         uses: actions/checkout@master
@@ -19,6 +19,10 @@ jobs:
       - name: Notify Start Status
         run: |
           bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh start
+
+      - name: Send Domain List
+        run: |
+          bash $GITHUB_WORKSPACE/scripts/notify/sendDomainList.sh   
       
       - name: Setup golang
         uses: actions/setup-go@v2

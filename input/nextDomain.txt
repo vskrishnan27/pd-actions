@@ -1,3 +1,8 @@
+judge.me
+recordedfuture.com
+reddit.com
+chime.com
+launchdarkly.com
 exodus.com
 basecamp.com
 enjin.io
@@ -21,7 +26,5 @@ indrive.com
 miro.com
 malwarebytes.com
 8x8.com
-recargapay.com.br
-sorare.com
-krisp.ai
+
 

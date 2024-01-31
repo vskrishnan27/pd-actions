@@ -1,3 +1,6 @@
+miro.com
+malwarebytes.com
+8x8.com
 recargapay.com.br
 sorare.com
 krisp.ai
@@ -22,10 +25,8 @@ swiggy.com
 arkoselabs.com
 dynamic.xyz
 redoxengine.com
-freshworks.com
 tide.co
 floqast.com
-indrive.com
 
 
 

@@ -5,9 +5,9 @@ WEBHOOK_URL='https://discord.com/api/webhooks/1200740078440415283/QlEACf-o8vnK0p
 
 # Parse the argument (start or end)
 if [ "$1" == "start" ]; then
-  MESSAGE="Started"
+  MESSAGE="Started ::: ${{github.run_id}}"
 elif [ "$1" == "end" ]; then
-  MESSAGE="End"
+  MESSAGE="End ::: ${{github.run_id}}"
 else
   MESSAGE="$1"
 fi

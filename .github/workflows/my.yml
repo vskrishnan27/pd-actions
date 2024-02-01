@@ -147,7 +147,7 @@ jobs:
         run: |
           git config --local user.email "vskrishnan27@gmail.com"
           git config --global user.name "vskrishnan27"
-          git commit -m "vskrishnan-run" -a --allow-empty
+          git commit -m "vskrishnan-run" --allow-empty
 
       - name: Push changes
         uses: ad-m/github-push-action@master

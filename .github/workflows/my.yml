@@ -160,6 +160,9 @@ jobs:
     if: ${{ !contains(github.event.head_commit.message, 'vskrishnan-run') }}
     timeout-minutes: 5760 #4 days 
     steps:
+      - name: Log current dir
+        run: pwd
+
       - name: List scripts directory
         run: ls -lth $GITHUB_WORKSPACE/scripts/notify/
 

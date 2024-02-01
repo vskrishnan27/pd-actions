@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # File names
-# file_with_many_domains="$GITHUB_WORKSPACE/input/nextDomain.txt"
-# file_with_single_domain="$GITHUB_WORKSPACE/input/domains.txt"
-file_with_many_domains="../input/nextDomain.txt"
-file_with_single_domain="../input/domains.txt"
+file_with_many_domains="$GITHUB_WORKSPACE/input/nextDomain.txt"
+file_with_single_domain="$GITHUB_WORKSPACE/input/domains.txt"
+# file_with_many_domains="../input/nextDomain.txt"
+# file_with_single_domain="../input/domains.txt"
 
 # Read the first domain from many domains file and trim it
 first_domain=$(head -n 1 $file_with_many_domains | xargs)

@@ -162,4 +162,6 @@ jobs:
     steps:
       # The step that should run if the keyword is not present
       - name: Run Different Script
-        run: bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh message doesnt contains keyword
+        run: |
+          chmod +x $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "message doesnt contains keyword"

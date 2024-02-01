@@ -7,7 +7,6 @@ recargapay.com.br
 sorare.com
 krisp.ai
 judge.me
-recordedfuture.com
 reddit.com
 chime.com
 launchdarkly.com
@@ -23,3 +22,4 @@ flickr.com
 bitmex.com
 aol.com
 tesla.com
+recordedfuture.com

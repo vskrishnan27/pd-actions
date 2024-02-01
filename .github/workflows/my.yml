@@ -160,17 +160,13 @@ jobs:
     if: ${{ !contains(github.event.head_commit.message, 'vskrishnan-run') }}
     timeout-minutes: 5760 #4 days 
     steps:
-      - name: Log current dir
-        run: pwd
-        
-      - name: List workspace
-        run: ls -lth $GITHUB_WORKSPACE
-
-      - name: List scripts directory
-        run: ls -lth $GITHUB_WORKSPACE/scripts/notify/
-
+      - name: Checkout Repo
+        uses: actions/checkout@master
 
       - name: Run Different Script
         run: |
           chmod +x $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "message doesnt contains keyword"
+          combined_message="message doesn't contain keyword - ${{ github.event.head_commit.message }}"
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "$combined_message"
+        env:
+            GITHUB_WORKSPACE: ${{ github.workspace }}    

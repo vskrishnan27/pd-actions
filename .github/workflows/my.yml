@@ -162,9 +162,13 @@ jobs:
     steps:
       - name: Log current dir
         run: pwd
+        
+      - name: List workspace
+        run: ls -lth $GITHUB_WORKSPACE
 
       - name: List scripts directory
         run: ls -lth $GITHUB_WORKSPACE/scripts/notify/
+
 
       - name: Run Different Script
         run: |

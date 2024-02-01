@@ -1,4 +1,8 @@
-freshworks.com
+exodus.com
+basecamp.com
+forescout.com
+trustpilot.com
+magic.link
 miro.com
 malwarebytes.com
 8x8.com
@@ -15,12 +19,8 @@ chime.com
 launchdarkly.com
 enjin.io
 figma.com
-magic.link
 indrive.com
 flickr.com
 bitmex.com
-exodus.com
-basecamp.com
-forescout.com
-trustpilot.com
+freshworks.com
 

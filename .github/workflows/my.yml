@@ -9,6 +9,7 @@ on:
 jobs:
   Run-Analysis:
     runs-on: ubuntu-latest
+    environment: vskrishnan
     if: contains(github.event.head_commit.message, 'vskrishnan-run')
     timeout-minutes: 5760 #4 days 
     steps:
@@ -147,12 +148,12 @@ jobs:
         run: |
           git config --local user.email "vskrishnan27@gmail.com"
           git config --global user.name "vskrishnan27"
-          git commit -m "vskrishnan-run" --allow-empty
+          git commit -m "vskrishnan-run by actions" --allow-empty
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT }}
           branch: ${{ github.ref }}
 
   run-if-not-keyword:

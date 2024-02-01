@@ -3,18 +3,25 @@ name: my
 on:
 #    schedule:
 #      - cron: '0 0 * * *'
+    push:
     workflow_dispatch:
 
 jobs:
-  build:
+  Run-Analysis:
     runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'vskrishnan-run')
     timeout-minutes: 5760 #4 days 
     steps:
       - name: Checkout Repo
         uses: actions/checkout@master
       
       - name: Set execute permission for the script
-        run: chmod +x $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh
+        run: |
+          chmod +x $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh
+          chmod +x $GITHUB_WORKSPACE/scripts/domainRotator.sh
+
+      - name: Run DomainRotator
+        run : bash $GITHUB_WORKSPACE/scripts/domainRotator.sh
 
       - name: Notify Start Status
         run: |
@@ -126,13 +133,13 @@ jobs:
           find output -type f -exec sort {} -o {} \;
         shell: bash
 
+          # git add output/passive_subdomains.txt
+          # git add output/active_subdomains.txt
+          # git add output/active_ports.txt
+          # git add output/active_urls.txt
       - name: Create local changes
         run: |
           git pull
-          git add output/passive_subdomains.txt
-          git add output/active_subdomains.txt
-          git add output/active_ports.txt
-          git add output/active_urls.txt
           git add output/nuclei_output.txt
           git add input/
 
@@ -140,10 +147,19 @@ jobs:
         run: |
           git config --local user.email "vskrishnan27@gmail.com"
           git config --global user.name "vskrishnan27"
-          git commit -m "PD-Actions report" -a --allow-empty
+          git commit -m "vskrishnan-run" -a --allow-empty
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+  run-if-not-keyword:
+    runs-on: ubuntu-latest
+    if: ${{ !contains(github.event.head_commit.message, 'vskrishnan-run') }}
+    timeout-minutes: 5760 #4 days 
+    steps:
+      # The step that should run if the keyword is not present
+      - name: Run Different Script
+        run: bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh message doesnt contains keyword

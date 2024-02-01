@@ -19,9 +19,14 @@ fi
 # Initialize a variable to store all the domains
 all_domains="List of Domains : \n"
 
-while IFS= read -r domain; do
+# Loop through each line in the input file
+while IFS= read -r domain || [ -n "$domain" ]; do
+  # Trim leading and trailing whitespace
+  domain="${domain#"${domain%%[![:space:]]*}"}"
+  domain="${domain%"${domain##*[![:space:]]}"}"
+
   if [ -z "$domain" ]; then
-    continue 
+    continue
   fi
 
   all_domains="$all_domains$domain\n"

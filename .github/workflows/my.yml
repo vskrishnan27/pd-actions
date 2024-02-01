@@ -153,7 +153,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.PAT }}
+          github_token: ${{ secrets.P_A_T }}
           branch: ${{ github.ref }}
 
   run-if-not-keyword:

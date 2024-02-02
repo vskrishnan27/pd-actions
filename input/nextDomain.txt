@@ -1,3 +1,5 @@
+apple.com
+marriot.com
 flickr.com
 bitmex.com
 freshworks.com

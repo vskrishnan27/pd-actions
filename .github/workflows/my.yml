@@ -21,7 +21,7 @@ jobs:
           chmod +x $GITHUB_WORKSPACE/scripts/domainRotator.sh
 
       - name: Run DomainRotator
-        run : bash $GITHUB_WORKSPACE/scripts/domainRotator.sh
+        run : bash $GITHUB_WORKSPACE/scripts/domainRotator.sh  
 
       - name: Notify Start Status
         run: |
@@ -31,6 +31,23 @@ jobs:
         run: |
           bash $GITHUB_WORKSPACE/scripts/notify/sendDomainList.sh   
       
+          - name: Create local changes
+          run: |
+            git pull
+            git add input/
+  
+      - name: Commit results to Github
+        run: |
+            git config --local user.email "vskrishnan27@gmail.com"
+            git config --global user.name "vskrishnan27"
+            git commit -m "Domain Update" --allow-empty
+  
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+            github_token: ${{ secrets.P_A_T }}
+            branch: ${{ github.ref }}
+
       - name: Setup golang
         uses: actions/setup-go@v2
         with:

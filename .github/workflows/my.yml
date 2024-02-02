@@ -31,8 +31,8 @@ jobs:
         run: |
           bash $GITHUB_WORKSPACE/scripts/notify/sendDomainList.sh   
       
-          - name: Create local changes
-          run: |
+      - name: Create local changes
+        run: |
             git pull
             git add input/
   

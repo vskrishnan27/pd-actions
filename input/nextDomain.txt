@@ -1,4 +1,3 @@
-trustpilot.com
 magic.link
 miro.com
 malwarebytes.com
@@ -25,3 +24,4 @@ freshworks.com
 exodus.com
 basecamp.com
 forescout.com
+trustpilot.com

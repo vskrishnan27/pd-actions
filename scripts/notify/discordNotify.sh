@@ -12,8 +12,12 @@ else
   MESSAGE="$1"
 fi
 
+echo $MESSAGE
+
 # Define the JSON data using the parsed message
 JSON_DATA="{\"content\":\"$MESSAGE\"}"
+
+echo $JSON_DATA
 
 # Set cookies if needed
 COOKIES="__cfruid=a54221634e59df8abfc5e1456d3aa7b1eb5a6c8f-1706363227; _cfuvid=Xi.TLawb5QPHk9MEHJ5bfbj.FUrlR6CHyIJvHa9gk_4-1706363227510-0-604800000; __dcfduid=48377fd6bcfa11ee835f7a17eb09189e; __sdcfduid=48377fd6bcfa11ee835f7a17eb09189e466a701e37bcfb8cdff4b49f34ffcc98290f5b2e2394dda7fa62871c2c752949"

@@ -41,16 +41,17 @@ jobs:
             git config --local user.email "vskrishnan27@gmail.com"
             git config --global user.name "vskrishnan27"
             git commit -m "Domain Update" --allow-empty
-  
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-            github_token: ${{ secrets.P_A_T }}
-            branch: ${{ github.ref }}
-
+        
+      - name: Read and Store
+        id: read-and-store
+        run: |
+          first_line=$(head -n 1 somefile.txt)    
+          # Set the output variable
+          echo "::set-output name=DOMAIN_NAME::$first_line"         
+      
       - name: Notify Input Commit Status
         run: |
-            bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Commited Successfully ..."
+            bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Commited Successfully ... ${{ steps.read-and-store.outputs.DOMAIN_NAME }}"
       
       - name: Setup golang
         uses: actions/setup-go@v2
@@ -92,7 +93,7 @@ jobs:
 
       - name: Notify Passive Domains Count  
         run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Passive Subdomains : $(cat $GITHUB_WORKSPACE/output/passive_subdomains.txt |wc -l)"
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Passive Subdomains :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/output/passive_subdomains.txt | wc -l)"
 
       - name: Running dnsx for valid DNS filtering 
         run: |
@@ -101,7 +102,7 @@ jobs:
         
       - name: Notify Active Sub Domains Count  
         run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Subdomains : $(cat $GITHUB_WORKSPACE/output/active_subdomains.txt |wc -l)"  
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Subdomains :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/output/active_subdomains.txt |wc -l)"  
       
       - name: List output directry
         run: |
@@ -119,7 +120,7 @@ jobs:
 
       - name: Notify Active Ports Count  
         run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Ports : $(cat $GITHUB_WORKSPACE/output/active_ports.txt |wc -l)"      
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Ports :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }}  : $(cat $GITHUB_WORKSPACE/output/active_ports.txt |wc -l)"      
 
       - name: Running httpx for HTTP webservers probbing
         run: |
@@ -128,7 +129,7 @@ jobs:
 
       - name: Notify Active urls Count  
         run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Urls : $(cat $GITHUB_WORKSPACE/output/active_urls.txt |wc -l)"      
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Urls :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/output/active_urls.txt |wc -l)"      
     
       - name: Downloading Nuclei Templates
         run: |
@@ -147,8 +148,7 @@ jobs:
 
       - name: Notify CVE details 
         run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "CVE COUNT : $(cat $GITHUB_WORKSPACE/output/nuclei_output.txt)"      
-      
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "CVE COUNT :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }}  : $(cat $GITHUB_WORKSPACE/output/nuclei_output.txt | grep CVE-  | wc -l)"      
 
       - name: Notify Status End
         run: |

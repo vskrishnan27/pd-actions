@@ -1,0 +1,2 @@
+[CVE-2015-8813] [http] [high] https://cors-image-proxy.figma.com/Umbraco/feedproxy.aspx?url=http://cmu723h63dlboq7on0igj4oo6fdjm8wr8.oast.pro
+[CVE-2017-18638] [http] [high] https://cors-image-proxy.figma.com/composer/send_email?to=FjLW@bxRs&url=http://cmu723h63dlboq7on0igk436w5pnjzqxo.oast.pro

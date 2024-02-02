@@ -48,6 +48,10 @@ jobs:
             github_token: ${{ secrets.P_A_T }}
             branch: ${{ github.ref }}
 
+      - name: Notify Input Commit Status
+        run: |
+            bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Commited Successfully ..."
+      
       - name: Setup golang
         uses: actions/setup-go@v2
         with:

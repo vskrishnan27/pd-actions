@@ -45,7 +45,7 @@ jobs:
       - name: Read and Store
         id: read-and-store
         run: |
-          first_line=$(head -n 1 somefile.txt)    
+          first_line=$(head -n 1 $GITHUB_WORKSPACE/input/domains.txt)    
           # Set the output variable
           echo "::set-output name=DOMAIN_NAME::$first_line"         
       

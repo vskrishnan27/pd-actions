@@ -49,6 +49,12 @@ jobs:
           # Set the output variable
           echo "::set-output name=DOMAIN_NAME::$first_line"         
       
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+              github_token: ${{ secrets.P_A_T }}
+              branch: ${{ github.ref }}
+      
       - name: Notify Input Commit Status
         run: |
             bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Commited Successfully ... ${{ steps.read-and-store.outputs.DOMAIN_NAME }}"

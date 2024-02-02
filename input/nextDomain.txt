@@ -1,4 +1,3 @@
-malwarebytes.com
 8x8.com
 recargapay.com.br
 sorare.com
@@ -23,3 +22,4 @@ forescout.com
 trustpilot.com
 magic.link
 miro.com
+malwarebytes.com

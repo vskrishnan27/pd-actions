@@ -1,4 +1,3 @@
-shopify.com
 iovlabs.org
 chain.link
 playcanvas.com
@@ -73,3 +72,4 @@ recargapay.com.br
 okx.com
 matomo.org
 fireblocks.com
+shopify.com

@@ -1,4 +1,5 @@
 http://aftertheflood.playcanvas.com
+http://api.playcanvas.com
 http://blog.playcanvas.com
 http://car.playcanvas.com
 http://casino.playcanvas.com
@@ -12,6 +13,7 @@ http://login.playcanvas.com
 http://mmx.playcanvas.com
 http://msg.playcanvas.com
 http://phone.playcanvas.com
+http://playcanvas.com
 http://rt.playcanvas.com
 http://seemore.playcanvas.com
 http://static.playcanvas.com
@@ -20,6 +22,7 @@ http://swerve.playcanvas.com
 http://swooop.playcanvas.com
 http://webvr.playcanvas.com
 https://aftertheflood.playcanvas.com
+https://api.playcanvas.com
 https://blog.playcanvas.com
 https://car.playcanvas.com
 https://code.playcanvas.com
@@ -30,5 +33,6 @@ https://launch.playcanvas.com
 https://login.playcanvas.com
 https://mmx.playcanvas.com
 https://msg.playcanvas.com
+https://playcanvas.com
 https://rt.playcanvas.com
 https://store.playcanvas.com

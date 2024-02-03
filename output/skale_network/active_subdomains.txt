@@ -1,0 +1,16 @@
+bridge.skale.network
+countdown.skale.network
+delegations-helper.skale.network
+deployer.skale.network
+developers.skale.network
+docs.skale.network
+faucet.skale.network
+forum.skale.network
+hackathon.skale.network
+link.skale.network
+p2e.skale.network
+podcast.skale.network
+sfuel.skale.network
+skale.network
+skaleverse.skale.network
+www.skale.network

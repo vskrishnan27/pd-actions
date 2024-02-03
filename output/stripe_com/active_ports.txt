@@ -161,8 +161,6 @@ global.stripe.com:443
 global.stripe.com:80
 groups.stripe.com:443
 groups.stripe.com:80
-hooks.stripe.com:443
-hooks.stripe.com:80
 hubble.corp.stripe.com:443
 identity-hooks.stripe.com:443
 identity-hooks.stripe.com:80
@@ -170,6 +168,8 @@ indonesia-bt.stripe.com:443
 indonesia-bt.stripe.com:80
 info-link.stripe.com:443
 info-link.stripe.com:80
+invoice.stripe.com:443
+invoice.stripe.com:80
 invoicedata.stripe.com:443
 invoicedata.stripe.com:80
 ip-54-186-23-98.stripe.com:443
@@ -178,7 +178,6 @@ ip-54-187-119-242.stripe.com:443
 ip-54-187-119-242.stripe.com:80
 ip-54-187-159-182.stripe.com:443
 ip-54-187-159-182.stripe.com:80
-ipaddr-3ds.stripe.com:443
 issuing-hooks-public.stripe.com:443
 issuing-key.stripe.com:443
 issuing-key.stripe.com:80

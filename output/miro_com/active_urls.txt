@@ -13,6 +13,7 @@ http://bid46k4.marketing.miro.com
 http://board-recording-storage.miro.com
 http://brand.miro.com
 http://brandkit.miro.com
+http://buf.miro.com
 http://click.account.miro.com
 http://click.e.miro.com
 http://cloud.account.miro.com
@@ -61,7 +62,6 @@ http://links.m.miro.com
 http://links.m.miro.com:8443
 http://lubo.miro.com
 http://meet.miro.com
-http://miro.com
 http://mobile.miro.com
 http://mwww.miro.com
 http://notifications-overlay.svc.miro.com
@@ -115,6 +115,7 @@ https://bid46k4.marketing.miro.com
 https://board-recording-storage.miro.com
 https://brand.miro.com
 https://brandkit.miro.com
+https://buf.miro.com
 https://click.account.miro.com
 https://click.e.miro.com
 https://cloud.account.miro.com
@@ -154,7 +155,6 @@ https://learns.miro.com
 https://links.m.miro.com
 https://lubo.miro.com
 https://meet.miro.com
-https://miro.com
 https://mobile.miro.com
 https://mwww.miro.com
 https://notifications-overlay.svc.miro.com

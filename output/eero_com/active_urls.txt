@@ -19,7 +19,6 @@ http://store.eero.com:8080
 http://support.eero.com
 http://support.eero.com:8080
 http://support.eero.com:8443
-http://www.eero.com
 https://account.eero.com
 https://accounts.eero.com
 https://ap.account.eero.com

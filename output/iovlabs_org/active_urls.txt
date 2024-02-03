@@ -1,0 +1,10 @@
+http://cdn.iovlabs.org
+http://iovlabs.org
+http://mta-sts.iovlabs.org
+http://staging.iovlabs.org
+http://www.iovlabs.org
+https://cdn.iovlabs.org
+https://iovlabs.org
+https://mta-sts.iovlabs.org
+https://staging.iovlabs.org
+https://www.iovlabs.org

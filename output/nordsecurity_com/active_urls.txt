@@ -1,0 +1,10 @@
+http://creators.nordsecurity.com
+http://creators.nordsecurity.com:8080
+http://nordsecurity.com
+http://sales.nordsecurity.com
+http://www.nordsecurity.com
+https://creators.nordsecurity.com
+https://creators.nordsecurity.com:8443
+https://nordsecurity.com
+https://sales.nordsecurity.com
+https://www.nordsecurity.com

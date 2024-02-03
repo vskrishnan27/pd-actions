@@ -1,0 +1,10 @@
+creators.nordsecurity.com:443
+creators.nordsecurity.com:80
+creators.nordsecurity.com:8080
+creators.nordsecurity.com:8443
+nordsecurity.com:443
+nordsecurity.com:80
+sales.nordsecurity.com:443
+sales.nordsecurity.com:80
+www.nordsecurity.com:443
+www.nordsecurity.com:80

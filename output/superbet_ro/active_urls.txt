@@ -67,7 +67,6 @@ http://www.stage.superbet.ro
 http://www.superbet.ro
 https://api.web.production.betler.superbet.ro
 https://apps.stage.superbet.ro
-https://apps.superbet.ro
 https://cashout.web.superbet.ro
 https://club.dev.superbet.ro
 https://club.stage.superbet.ro

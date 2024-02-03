@@ -170,8 +170,6 @@ indonesia-bt.stripe.com:443
 indonesia-bt.stripe.com:80
 info-link.stripe.com:443
 info-link.stripe.com:80
-invoice.stripe.com:443
-invoice.stripe.com:80
 invoicedata.stripe.com:443
 invoicedata.stripe.com:80
 ip-54-186-23-98.stripe.com:443
@@ -213,6 +211,7 @@ pay.stripe.com:443
 pay.stripe.com:80
 payments.stripe.com:443
 payments.stripe.com:80
+pdx.corp.stripe.com:443
 pm-hooks.stripe.com:443
 pm-hooks.stripe.com:80
 pm-redirects.stripe.com:443
@@ -238,6 +237,8 @@ prod-webhooks-flow.stripe.com:443
 prod-webhooks-flow.stripe.com:80
 products.stripe.com:443
 products.stripe.com:80
+public.stripe.com:443
+public.stripe.com:80
 q.stripe.com:443
 q.stripe.com:80
 qa-api-global-bluegreen.stripe.com:443
@@ -292,6 +293,8 @@ support-conversations.stripe.com:443
 support-conversations.stripe.com:80
 support.stripe.com:443
 support.stripe.com:80
+t.stripe.com:443
+t.stripe.com:80
 terminal-simulator.stripe.com:443
 terminal-simulator.stripe.com:80
 terminal.stripe.com:443

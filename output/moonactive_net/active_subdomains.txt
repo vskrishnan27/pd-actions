@@ -1,0 +1,13 @@
+admin-365.moonactive.net
+builder.moonactive.net
+client-metrics.moonactive.net
+cm-analytics.moonactive.net
+cm-gs-analytics.moonactive.net
+cm-minigames.moonactive.net
+moonactive.net
+social-images.moonactive.net
+static.moonactive.net
+vik-analytics-gke.moonactive.net
+vik-analytics.moonactive.net
+vik-ca.moonactive.net
+vik-game.moonactive.net

@@ -1,4 +1,3 @@
-fireblocks.com
 shopify.com
 iovlabs.org
 chain.link
@@ -73,3 +72,4 @@ malwarebytes.com
 recargapay.com.br
 okx.com
 matomo.org
+fireblocks.com

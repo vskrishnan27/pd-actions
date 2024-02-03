@@ -1,4 +1,3 @@
-figma.com
 indrive.com
 apple.com
 line.me
@@ -25,3 +24,4 @@ reddit.com
 chime.com
 launchdarkly.com
 enjin.io
+figma.com

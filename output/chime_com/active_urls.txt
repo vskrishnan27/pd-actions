@@ -18,7 +18,6 @@ http://autobots-qa.chime.com:8080
 http://autobots-qa.chime.com:8443
 http://autobots.chime.com
 http://autobots.chime.com:8080
-http://autobots.chime.com:8443
 http://careers.chime.com
 http://chat.chime.com
 http://chat.chime.com:8080
@@ -144,6 +143,7 @@ https://attachments.chime.com
 https://autobots-dev1.chime.com
 https://autobots-qa.chime.com
 https://autobots.chime.com
+https://autobots.chime.com:8443
 https://careers.chime.com
 https://chat.chime.com
 https://chime.com

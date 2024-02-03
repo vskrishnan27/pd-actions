@@ -1,4 +1,3 @@
-bitmex.com
 freshworks.com
 exodus.com
 basecamp.com
@@ -25,3 +24,4 @@ apple.com
 line.me
 marriot.com
 flickr.com
+bitmex.com

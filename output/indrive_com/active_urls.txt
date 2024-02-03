@@ -1,5 +1,4 @@
 http://beginit.indrive.com
-http://book.indrive.com
 http://careers.indrive.com
 http://cargo.indrive.com
 http://classified.indrive.com
@@ -17,7 +16,6 @@ http://ic.indrive.com
 http://id.indrive.com
 http://inapps.indrive.com
 http://inapps2.indrive.com
-http://indrive.com
 http://injob.indrive.com
 http://intercity.indrive.com
 http://internal.delivery.indrive.com
@@ -38,7 +36,6 @@ http://rideshare.indrive.com
 http://s.indrive.com
 http://services.indrive.com
 http://servicos.indrive.com
-http://servicos.indrive.com:443
 http://sgtm.indrive.com
 http://share.indrive.com
 http://sharetrip.indrive.com
@@ -61,7 +58,6 @@ http://www.updrive.indrive.com
 http://www.yourpace.indrive.com
 http://yourpace.indrive.com
 https://beginit.indrive.com
-https://book.indrive.com
 https://careers.indrive.com
 https://cargo.indrive.com
 https://classified.indrive.com
@@ -79,7 +75,6 @@ https://ic.indrive.com
 https://id.indrive.com
 https://inapps.indrive.com
 https://inapps2.indrive.com
-https://indrive.com
 https://injob.indrive.com
 https://intercity.indrive.com
 https://internal.delivery.indrive.com
@@ -99,6 +94,7 @@ https://ref.indrive.com
 https://rideshare.indrive.com
 https://s.indrive.com
 https://services.indrive.com
+https://servicos.indrive.com
 https://sgtm.indrive.com
 https://share.indrive.com
 https://sharetrip.indrive.com

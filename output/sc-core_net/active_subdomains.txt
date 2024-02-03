@@ -1,0 +1,2 @@
+sh2.splunk.sc-core.net
+si.sc-core.net

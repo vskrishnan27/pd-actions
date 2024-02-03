@@ -260,9 +260,9 @@ porter.github.com
 porter2.github.com
 posidron.github.com
 primercuervo.github.com
+proxima-review-lab.github.com
 raw.github.com
 redirect.github.com
-registry.github.com
 remeniuk.github.com
 render-lab.github.com
 render.github.com
@@ -307,7 +307,6 @@ workspaces-dev.github.com
 workspaces-ppe.github.com
 workspaces.github.com
 ws.support.github.com
-www.api.security.github.com
 www.github.com
 www.graphql-stage.github.com
 www.graphql.github.com
@@ -317,6 +316,7 @@ www.networkx.github.com
 www.partnerportal.github.com
 www.render-lab.github.com
 www.skyline.github.com
+www.smtp.github.com
 www.support.enterprise.github.com
 www.visualstudio.github.com
 www.ws.support.github.com

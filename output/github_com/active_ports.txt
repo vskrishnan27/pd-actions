@@ -446,7 +446,6 @@ plasma-umass.github.com:80
 podefr.github.com:443
 podefr.github.com:80
 porter.github.com:443
-porter2.github.com:443
 posidron.github.com:443
 posidron.github.com:80
 primercuervo.github.com:443
@@ -455,8 +454,6 @@ raw.github.com:443
 raw.github.com:80
 redirect.github.com:443
 redirect.github.com:80
-registry.github.com:443
-registry.github.com:80
 remeniuk.github.com:443
 remeniuk.github.com:80
 render-lab.github.com:443
@@ -489,6 +486,7 @@ skyline.github.com:443
 skyline.github.com:80
 slack.github.com:443
 slack.github.com:80
+smtp.github.com:25
 ssh.github.com:22
 ssh.github.com:443
 ssh.github.com:80
@@ -532,8 +530,6 @@ web5622.github.com:443
 web5622.github.com:80
 web6014.github.com:443
 web6014.github.com:80
-workspaces-dev.github.com:443
-workspaces-dev.github.com:80
 workspaces-ppe.github.com:443
 workspaces-ppe.github.com:80
 ws.support.github.com:443
@@ -547,8 +543,6 @@ www.graphql.github.com:443
 www.graphql.github.com:80
 www.jira.github.com:443
 www.jira.github.com:80
-www.maintainers.github.com:443
-www.maintainers.github.com:80
 www.networkx.github.com:443
 www.networkx.github.com:80
 www.partnerportal.github.com:443
@@ -557,6 +551,10 @@ www.render-lab.github.com:443
 www.render-lab.github.com:80
 www.skyline.github.com:443
 www.skyline.github.com:80
+www.smtp.github.com:443
+www.smtp.github.com:80
+www.support.enterprise.github.com:443
+www.support.enterprise.github.com:80
 www.visualstudio.github.com:443
 www.visualstudio.github.com:80
 www.ws.support.github.com:443

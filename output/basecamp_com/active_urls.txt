@@ -1,3 +1,6 @@
+http://3.basecamp.com
+http://3.basecamp.com:8080
+http://3.basecamp.com:8443
 http://akamai.basecamp.com
 http://akamai.basecamp.com:8080
 http://api.3.basecamp.com
@@ -65,6 +68,7 @@ http://www.basecamp.com
 http://www.basecamp.com:8080
 http://www.basecamp.com:8443
 http://www.updates.basecamp.com
+https://3.basecamp.com
 https://akamai.basecamp.com
 https://akamai.basecamp.com:8443
 https://asset1.basecamp.com

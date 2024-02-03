@@ -1,4 +1,7 @@
 http://blog.fireblocks.com
+http://checkout.fireblocks.com
+http://checkout.fireblocks.com:8080
+http://checkout.fireblocks.com:8443
 http://community.fireblocks.com
 http://developers.fireblocks.com
 http://developers.fireblocks.com:8080
@@ -6,9 +9,14 @@ http://emails.fireblocks.com
 http://emails.fireblocks.com:8080
 http://eu.status.fireblocks.com
 http://eu2.status.fireblocks.com
+http://fleetdm.fireblocks.com
 http://hireblocks.fireblocks.com
 http://info.fireblocks.com
 http://info.fireblocks.com:8080
+http://marketplaceapi.gcp.fireblocks.com
+http://ncw-developers.fireblocks.com
+http://ncw-developers.fireblocks.com:8080
+http://sandbox.status.fireblocks.com
 http://shopit.fireblocks.com
 http://status.fireblocks.com
 http://survey.fireblocks.com
@@ -16,6 +24,7 @@ http://tracking.fireblocks.com
 http://www.fireblocks.com
 http://www.fireblocks.com:8443
 https://blog.fireblocks.com
+https://checkout.fireblocks.com
 https://community.fireblocks.com
 https://developers.fireblocks.com
 https://developers.fireblocks.com:8443
@@ -24,9 +33,14 @@ https://emails.fireblocks.com
 https://emails.fireblocks.com:8443
 https://eu.status.fireblocks.com
 https://eu2.status.fireblocks.com
+https://fleetdm.fireblocks.com
 https://hireblocks.fireblocks.com
 https://info.fireblocks.com
 https://info.fireblocks.com:8443
+https://marketplaceapi.gcp.fireblocks.com
+https://ncw-developers.fireblocks.com
+https://ncw-developers.fireblocks.com:8443
+https://sandbox.status.fireblocks.com
 https://shopit.fireblocks.com
 https://status.fireblocks.com
 https://survey.fireblocks.com

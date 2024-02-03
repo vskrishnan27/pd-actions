@@ -22,6 +22,7 @@ http://blog.ru.playstation.com
 http://blog.us.playstation.com
 http://blog.zh-hant.playstation.com
 http://br.playstation.com
+http://bridges.playstation.com
 http://ca.playstation.com
 http://camera-adaptor.support.playstation.com
 http://cdn.jp.playstation.com
@@ -96,6 +97,7 @@ http://dev.playstation.com
 http://dev.wrapup.playstation.com
 http://direct-queue-stage.playstation.com
 http://direct-queue.playstation.com
+http://direct.e1-np.playstation.com
 http://direct.playstation.com
 http://dms.api.playstation.com
 http://docportal.playstation.com
@@ -140,9 +142,7 @@ http://image-ps4.api.playstation.com
 http://image.api.playstation.com
 http://image.mail.asia.playstation.com
 http://image.mail.jp.playstation.com
-http://io.playstation.com
 http://is.playstation.com
-http://ivaldi.playstation.com
 http://jp.playstation.com
 http://juega.playstation.com
 http://la.playstation.com
@@ -246,6 +246,7 @@ http://transact.playstation.com
 http://tw.playstation.com
 http://update-psnow.playstation.com
 http://updates.playstation.com
+http://us.playstation.com
 http://userguides.eu.playstation.com
 http://usgdev.playstation.com
 http://usgqa.playstation.com
@@ -304,6 +305,8 @@ https://blog.ru.playstation.com
 https://blog.us.playstation.com
 https://blog.zh-hant.playstation.com
 https://bps.playstation.com
+https://br.playstation.com
+https://bridges.playstation.com
 https://ca.playstation.com
 https://camera-adaptor.support.playstation.com
 https://cdn.jp.playstation.com
@@ -380,6 +383,7 @@ https://dev.playstation.com
 https://dev.wrapup.playstation.com
 https://direct-queue-stage.playstation.com
 https://direct-queue.playstation.com
+https://direct.e1-np.playstation.com
 https://direct.playstation.com
 https://dms.api.playstation.com
 https://docportal.playstation.com
@@ -426,9 +430,7 @@ https://image-ps4.api.playstation.com
 https://image.api.playstation.com
 https://image.mail.asia.playstation.com
 https://image.mail.jp.playstation.com
-https://io.playstation.com
 https://is.playstation.com
-https://ivaldi.playstation.com
 https://jp.playstation.com
 https://juega.playstation.com
 https://la.playstation.com
@@ -541,6 +543,7 @@ https://twitch.playstation.com
 https://update-psnow.playstation.com
 https://updates.playstation.com
 https://upload.studiocrs.playstation.com
+https://us.playstation.com
 https://userguides.eu.playstation.com
 https://usgdev.playstation.com
 https://usgqa.playstation.com

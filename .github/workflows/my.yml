@@ -121,7 +121,7 @@ jobs:
 
       - name: Running dnsx for valid DNS filtering 
         run: |
-          dnsx -l output/passive_subdomains.txt -t 50 | tee ${{ env.folder_path }}/active_subdomains.txt
+          dnsx -l ${{ env.folder_path }}/passive_subdomains.txt -t 50 | tee ${{ env.folder_path }}/active_subdomains.txt
         shell: bash
         
       - name: Notify Active Sub Domains Count  

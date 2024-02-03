@@ -60,7 +60,6 @@ http://thedistance.basecamp.com
 http://updates.basecamp.com
 http://upload.3.basecamp.com
 http://upload.3.basecamp.com:8080
-http://upload.3.basecamp.com:8443
 http://upload.basecamp.com
 http://upload.basecamp.com:8080
 http://upload.basecamp.com:8443
@@ -98,6 +97,7 @@ https://storage.3.basecamp.com
 https://thedistance.basecamp.com
 https://updates.basecamp.com
 https://upload.3.basecamp.com
+https://upload.3.basecamp.com:8443
 https://upload.basecamp.com
 https://www.basecamp.com
 https://www.updates.basecamp.com

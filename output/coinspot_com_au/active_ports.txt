@@ -1,0 +1,8 @@
+coinspot.com.au:443
+coinspot.com.au:80
+coinspot.com.au:8080
+coinspot.com.au:8443
+www.coinspot.com.au:443
+www.coinspot.com.au:80
+www.coinspot.com.au:8080
+www.coinspot.com.au:8443

@@ -1,8 +1,13 @@
 http://account.krisp.ai
 http://account.krisp.ai:8080
+http://analytics.krisp.ai
+http://analytics.krisp.ai:8080
+http://analytics.krisp.ai:8443
 http://api.krisp.ai
 http://api.krisp.ai:8080
 http://api.krisp.ai:8443
+http://app.krisp.ai
+http://app.krisp.ai:8080
 http://bid47kc.4042051m.krisp.ai
 http://cdn.krisp.ai
 http://cdn.krisp.ai:8080
@@ -19,7 +24,9 @@ http://dev.new.account.krisp.ai:8080
 http://dev.new.account.krisp.ai:8443
 http://dev.upld.krisp.ai
 http://dev.upld.krisp.ai:8080
-http://dev.upld.krisp.ai:8443
+http://download.krisp.ai
+http://download.krisp.ai:8080
+http://download.krisp.ai:8443
 http://files.krisp.ai
 http://files.prelive.krisp.ai
 http://help-jp.krisp.ai
@@ -42,6 +49,9 @@ http://krisp.ai:8443
 http://metabase.krisp.ai
 http://metabase.krisp.ai:8080
 http://metabase.krisp.ai:8443
+http://old.account.krisp.ai
+http://old.account.krisp.ai:8080
+http://old.account.krisp.ai:8443
 http://plive.account.krisp.ai
 http://plive.account.krisp.ai:8080
 http://plive.analytics.krisp.ai
@@ -103,8 +113,11 @@ http://www.krisp.ai:8080
 http://www.krisp.ai:8443
 https://account.krisp.ai
 https://account.krisp.ai:8443
+https://analytics.krisp.ai
 https://api.krisp.ai
 https://api.prelive.krisp.ai
+https://app.krisp.ai
+https://app.krisp.ai:8443
 https://cdn.krisp.ai
 https://cdn.krisp.ai:8443
 https://contact.krisp.ai
@@ -116,6 +129,8 @@ https://dev.app.krisp.ai:8443
 https://dev.new.account.krisp.ai
 https://dev.r.krisp.ai
 https://dev.upld.krisp.ai
+https://dev.upld.krisp.ai:8443
+https://download.krisp.ai
 https://files.krisp.ai
 https://files.prelive.krisp.ai
 https://help-jp.krisp.ai
@@ -128,6 +143,7 @@ https://krisp-blog-dev.krisp.ai
 https://krisp-dev.krisp.ai
 https://krisp.ai
 https://metabase.krisp.ai
+https://old.account.krisp.ai
 https://plive.account.krisp.ai
 https://plive.account.krisp.ai:8443
 https://plive.analytics.krisp.ai

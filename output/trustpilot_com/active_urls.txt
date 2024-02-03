@@ -125,6 +125,7 @@ http://pl.trustpilot.com
 http://portalmailchimpfeed.business-preview.trustpilot.com
 http://portalmailchimpfeed.business-preview.trustpilot.com:443
 http://press.trustpilot.com
+http://preview.trustpilot.com
 http://productreviews-attachments.trustpilot.com
 http://productreviews.trustpilot.com
 http://productreviewswidgets.trustpilot.com
@@ -149,6 +150,7 @@ http://support.trustpilot.com:8080
 http://support.trustpilot.com:8443
 http://tech.trustpilot.com
 http://trustnet.trustpilot.com
+http://trustpilot.com
 http://uk.business.trustpilot.com
 http://uk.legal.trustpilot.com
 http://uk.trustpilot.com
@@ -279,6 +281,7 @@ https://pl.business.trustpilot.com
 https://pl.trustpilot.com
 https://ponychallenge.trustpilot.com
 https://press.trustpilot.com
+https://preview.trustpilot.com
 https://productreviews-attachments.trustpilot.com
 https://productreviews.trustpilot.com
 https://productreviewswidgets.trustpilot.com
@@ -301,6 +304,7 @@ https://status.trustpilot.com
 https://support.trustpilot.com
 https://tech.trustpilot.com
 https://trustnet.trustpilot.com
+https://trustpilot.com
 https://uk.business.trustpilot.com
 https://uk.legal.trustpilot.com
 https://uk.trustpilot.com

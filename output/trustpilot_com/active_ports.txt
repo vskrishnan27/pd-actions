@@ -244,6 +244,8 @@ portalmailchimpfeed.business-preview.trustpilot.com:443
 portalmailchimpfeed.business-preview.trustpilot.com:80
 press.trustpilot.com:443
 press.trustpilot.com:80
+preview.trustpilot.com:443
+preview.trustpilot.com:80
 productreviews-attachments.trustpilot.com:443
 productreviews-attachments.trustpilot.com:80
 productreviews.trustpilot.com:443
@@ -290,6 +292,8 @@ tech.trustpilot.com:443
 tech.trustpilot.com:80
 trustnet.trustpilot.com:443
 trustnet.trustpilot.com:80
+trustpilot.com:443
+trustpilot.com:80
 uk.business.trustpilot.com:443
 uk.business.trustpilot.com:80
 uk.legal.trustpilot.com:443

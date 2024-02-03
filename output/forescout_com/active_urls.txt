@@ -37,7 +37,6 @@ http://resources.forescout.com
 http://resources.forescout.com:8443
 http://sra-emea2.forescout.com
 http://support.forescout.com
-http://support.forescout.com:8080
 http://support.forescout.com:8443
 http://t.forescout.com
 http://trainingsurvey.forescout.com

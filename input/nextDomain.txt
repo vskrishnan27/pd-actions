@@ -1,4 +1,3 @@
-lululemon.com
 moonactive.net
 moonactive.com
 eero.com
@@ -73,3 +72,4 @@ spectacles.com
 playcanv.as
 sc-core.net
 sc-corp.net
+lululemon.com

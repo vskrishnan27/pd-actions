@@ -4,7 +4,6 @@ http://bid46kv.5507270m.okx.com
 http://bid483j.5507270m.okx.com
 http://bid484j.5507270m.okx.com
 http://chainrpc.okx.com
-http://chainrpc.okx.com:8080
 http://chainrpc.okx.com:8443
 http://jpush.okx.com
 http://jpush.okx.com:8443

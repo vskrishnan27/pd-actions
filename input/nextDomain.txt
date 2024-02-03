@@ -1,4 +1,3 @@
-shopify.com
 iovlabs.org
 chain.link
 eero.com
@@ -64,3 +63,4 @@ recargapay.com.br
 okx.com
 matomo.org
 fireblocks.com
+shopify.com

@@ -117,6 +117,7 @@ http://public-assets-qa.chime.com:8080
 http://public-assets-qa.chime.com:8443
 http://public-assets.chime.com
 http://public-assets.chime.com:8080
+http://public-assets.chime.com:8443
 http://static-attachments.chime.com
 http://static-attachments.chime.com:8080
 http://static-attachments.chime.com:8443
@@ -124,7 +125,6 @@ http://status.chime.com
 http://status.chime.com:8080
 http://transaction.chime.com
 http://transaction.chime.com:8080
-http://transaction.chime.com:8443
 http://wp-ci.chime.com
 http://wp-dev1.chime.com
 http://wp-dev2.chime.com
@@ -189,11 +189,11 @@ https://penny.chime.com
 https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
 https://public-assets.chime.com
-https://public-assets.chime.com:8443
 https://static-attachments.chime.com
 https://status.chime.com
 https://status.chime.com:8443
 https://transaction.chime.com
+https://transaction.chime.com:8443
 https://wp-ci.chime.com
 https://wp-dev1.chime.com
 https://wp-dev2.chime.com

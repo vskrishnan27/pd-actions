@@ -213,6 +213,10 @@ shop.crypto.com:443
 shop.crypto.com:80
 shop.crypto.com:8080
 shop.crypto.com:8443
+static.crypto.com:443
+static.crypto.com:80
+static.crypto.com:8080
+static.crypto.com:8443
 static2.crypto.com:443
 static2.crypto.com:80
 static2.crypto.com:8080

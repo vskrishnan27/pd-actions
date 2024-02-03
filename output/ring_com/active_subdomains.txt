@@ -357,7 +357,6 @@ internal.eu-west-1.ringo.dev.ring.com
 internal.eu-west-1.ringo.qa.ring.com
 internal.eu-west-1.ringo.release.ring.com
 internal.eu-west-1.ringo.ring.com
-internal.posts.api.neighbors.dev.ring.com
 internal.posts.api.neighbors.qa.ring.com
 internal.posts.api.neighbors.ring.com
 internal.us-east-1.ringo.dev.ring.com

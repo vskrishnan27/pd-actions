@@ -216,6 +216,8 @@ brasselerusamedical.freshworks.com:443
 brasselerusamedical.freshworks.com:80
 broadsmarthelp.freshworks.com:443
 broadsmarthelp.freshworks.com:80
+bsasolutionsinc.freshworks.com:443
+bsasolutionsinc.freshworks.com:80
 bswbveu.freshworks.com:443
 bswbveu.freshworks.com:80
 bugcrowdhelp.freshworks.com:443
@@ -472,6 +474,8 @@ imperativechemicalshelp.freshworks.com:443
 imperativechemicalshelp.freshworks.com:80
 in.accounts.freshworks.com:443
 in.accounts.freshworks.com:80
+in.freshworks.com:443
+in.freshworks.com:80
 ind-widget.freshworks.com:443
 ind-widget.freshworks.com:80
 indexer.freshworks.com:443
@@ -637,6 +641,8 @@ roomerangtravel.freshworks.com:443
 roomerangtravel.freshworks.com:80
 salesdemohub.freshworks.com:443
 salesdemohub.freshworks.com:80
+sasscer.freshworks.com:443
+sasscer.freshworks.com:80
 sclhelpdesk.freshworks.com:443
 sclhelpdesk.freshworks.com:80
 sixer.freshworks.com:443
@@ -697,6 +703,8 @@ trust.internal.freshworks.com:443
 trust.internal.freshworks.com:80
 ubx-au.freshworks.com:443
 ubx-au.freshworks.com:80
+ubx-eu.freshworks.com:443
+ubx-eu.freshworks.com:80
 ubx-in.freshworks.com:443
 ubx-in.freshworks.com:80
 ubx-mec.freshworks.com:443

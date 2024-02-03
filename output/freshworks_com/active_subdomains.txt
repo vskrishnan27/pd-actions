@@ -56,6 +56,7 @@ blog-fworks-en.freshworks.com
 blog.freshworks.com
 brasselerusamedical.freshworks.com
 broadsmarthelp.freshworks.com
+bsasolutionsinc.freshworks.com
 bswbveu.freshworks.com
 bugcrowdhelp.freshworks.com
 burgerville-org.freshworks.com
@@ -278,6 +279,7 @@ rockhursthelpdesk.freshworks.com
 rokokohelp.freshworks.com
 roomerangtravel.freshworks.com
 salesdemohub.freshworks.com
+sasscer.freshworks.com
 sclhelpdesk.freshworks.com
 sixer.freshworks.com
 solutions.freshworks.com

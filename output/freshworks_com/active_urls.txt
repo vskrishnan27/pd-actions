@@ -55,6 +55,7 @@ http://blog-assets.freshworks.com
 http://blog.freshworks.com
 http://brasselerusamedical.freshworks.com
 http://broadsmarthelp.freshworks.com
+http://bsasolutionsinc.freshworks.com
 http://bswbveu.freshworks.com
 http://bugcrowdhelp.freshworks.com
 http://burgerville-org.freshworks.com
@@ -182,6 +183,7 @@ http://huboo.freshworks.com
 http://iemanet.freshworks.com
 http://imperativechemicalshelp.freshworks.com
 http://in.accounts.freshworks.com
+http://in.freshworks.com
 http://ind-widget.freshworks.com
 http://indexer.freshworks.com
 http://ingeniacommunities.freshworks.com
@@ -263,6 +265,7 @@ http://rockhursthelpdesk.freshworks.com
 http://rokokohelp.freshworks.com
 http://roomerangtravel.freshworks.com
 http://salesdemohub.freshworks.com
+http://sasscer.freshworks.com
 http://sclhelpdesk.freshworks.com
 http://sixer.freshworks.com
 http://solutions.freshworks.com
@@ -293,6 +296,7 @@ http://toyotacf.freshworks.com
 http://trust.freshworks.com
 http://trust.internal.freshworks.com
 http://ubx-au.freshworks.com
+http://ubx-eu.freshworks.com
 http://ubx-in.freshworks.com
 http://ubx-mec.freshworks.com
 http://ubx.freshworks.com
@@ -404,6 +408,7 @@ https://blog-assets.freshworks.com
 https://blog.freshworks.com
 https://brasselerusamedical.freshworks.com
 https://broadsmarthelp.freshworks.com
+https://bsasolutionsinc.freshworks.com
 https://bswbveu.freshworks.com
 https://bugcrowdhelp.freshworks.com
 https://burgerville-org.freshworks.com
@@ -533,6 +538,7 @@ https://huboo.freshworks.com
 https://iemanet.freshworks.com
 https://imperativechemicalshelp.freshworks.com
 https://in.accounts.freshworks.com
+https://in.freshworks.com
 https://ind-widget.freshworks.com
 https://indexer.freshworks.com
 https://ingeniacommunities.freshworks.com
@@ -613,6 +619,7 @@ https://rockhursthelpdesk.freshworks.com
 https://rokokohelp.freshworks.com
 https://roomerangtravel.freshworks.com
 https://salesdemohub.freshworks.com
+https://sasscer.freshworks.com
 https://sclhelpdesk.freshworks.com
 https://sixer.freshworks.com
 https://solutions.freshworks.com
@@ -643,6 +650,7 @@ https://toyotacf.freshworks.com
 https://trust.freshworks.com
 https://trust.internal.freshworks.com
 https://ubx-au.freshworks.com
+https://ubx-eu.freshworks.com
 https://ubx-in.freshworks.com
 https://ubx-mec.freshworks.com
 https://ubx.freshworks.com

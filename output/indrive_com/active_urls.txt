@@ -24,7 +24,6 @@ http://internal.delivery.indrive.com
 http://internal.dev.delivery.indrive.com
 http://internal.qa.delivery.indrive.com
 http://internal.sandbox.delivery.indrive.com
-http://job.indrive.com
 http://landing.indrive.com
 http://lp-food.indrive.com
 http://lp-services.indrive.com
@@ -85,7 +84,6 @@ https://internal.delivery.indrive.com
 https://internal.dev.delivery.indrive.com
 https://internal.qa.delivery.indrive.com
 https://internal.sandbox.delivery.indrive.com
-https://job.indrive.com
 https://landing.indrive.com
 https://lp-food.indrive.com
 https://lp-services.indrive.com

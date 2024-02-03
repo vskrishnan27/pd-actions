@@ -21,7 +21,6 @@ http://mta-sts.hackerone.com
 http://mta-sts.managed.hackerone.com
 http://support.hackerone.com
 http://www.hackerone.com
-http://www.hackerone.com:8080
 http://www.hackerone.com:8443
 https://api.hackerone.com
 https://docs.hackerone.com

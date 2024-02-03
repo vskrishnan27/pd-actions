@@ -1,4 +1,3 @@
-ring.com
 yuga.com
 polygon.technology
 xvideos.com
@@ -64,3 +63,4 @@ shopify.com
 iovlabs.org
 chain.link
 eero.com
+ring.com

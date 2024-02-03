@@ -1,4 +1,3 @@
-chain.link
 eero.com
 ring.com
 yuga.com
@@ -64,3 +63,4 @@ matomo.org
 fireblocks.com
 shopify.com
 iovlabs.org
+chain.link

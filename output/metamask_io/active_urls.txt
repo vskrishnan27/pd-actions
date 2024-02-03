@@ -81,6 +81,7 @@ http://gas-us-east-2.dev-api.cx.metamask.io:8080
 http://gas-us-east-2.dev-api.cx.metamask.io:8443
 http://gas-us-east-2.uat-api.cx.metamask.io
 http://gas-us-east-2.uat-api.cx.metamask.io:8080
+http://gas-us-east-2.uat-api.cx.metamask.io:8443
 http://gas.api.cx.metamask.io
 http://gas.api.cx.metamask.io:8080
 http://gas.api.cx.metamask.io:8443
@@ -110,10 +111,8 @@ http://my-sample-api2-us-east-2.dev-api.cx.metamask.io:8080
 http://my-sample-api2-us-east-2.dev-api.cx.metamask.io:8443
 http://nft-us-east-2.api.cx.metamask.io
 http://nft-us-east-2.api.cx.metamask.io:8080
-http://nft-us-east-2.api.cx.metamask.io:8443
 http://nft-us-east-2.dev-api.cx.metamask.io
 http://nft-us-east-2.dev-api.cx.metamask.io:8080
-http://nft-us-east-2.dev-api.cx.metamask.io:8443
 http://nft-us-east-2.uat-api.cx.metamask.io
 http://nft-us-east-2.uat-api.cx.metamask.io:8080
 http://nft-us-east-2.uat-api.cx.metamask.io:8443
@@ -122,7 +121,6 @@ http://nft.api.cx.metamask.io:8080
 http://nft.api.cx.metamask.io:8443
 http://nft.dev-api.cx.metamask.io
 http://nft.dev-api.cx.metamask.io:8080
-http://nft.dev-api.cx.metamask.io:8443
 http://nft.uat-api.cx.metamask.io
 http://nft.uat-api.cx.metamask.io:8080
 http://nft.uat-api.cx.metamask.io:8443
@@ -240,7 +238,6 @@ http://push-us-east-2.api.cx.metamask.io:8080
 http://push-us-east-2.api.cx.metamask.io:8443
 http://push-us-east-2.dev-api.cx.metamask.io
 http://push-us-east-2.dev-api.cx.metamask.io:8080
-http://push-us-east-2.dev-api.cx.metamask.io:8443
 http://push-us-east-2.uat-api.cx.metamask.io
 http://push-us-east-2.uat-api.cx.metamask.io:8080
 http://push-us-east-2.uat-api.cx.metamask.io:8443
@@ -288,7 +285,6 @@ http://transaction-us-east-2.dev-api.cx.metamask.io:8080
 http://transaction-us-east-2.dev-api.cx.metamask.io:8443
 http://transaction-us-east-2.uat-api.cx.metamask.io
 http://transaction-us-east-2.uat-api.cx.metamask.io:8080
-http://transaction-us-east-2.uat-api.cx.metamask.io:8443
 http://transaction.api.cx.metamask.io
 http://transaction.api.cx.metamask.io:8080
 http://transaction.api.cx.metamask.io:8443
@@ -382,7 +378,6 @@ https://fwd.metamask.io
 https://gas-us-east-2.api.cx.metamask.io
 https://gas-us-east-2.dev-api.cx.metamask.io
 https://gas-us-east-2.uat-api.cx.metamask.io
-https://gas-us-east-2.uat-api.cx.metamask.io:8443
 https://gas.api.cx.metamask.io
 https://gas.dev-api.cx.metamask.io
 https://gas.uat-api.cx.metamask.io
@@ -397,10 +392,13 @@ https://mobile.metamask.io
 https://mobile.metamask.io:8443
 https://my-sample-api2-us-east-2.dev-api.cx.metamask.io
 https://nft-us-east-2.api.cx.metamask.io
+https://nft-us-east-2.api.cx.metamask.io:8443
 https://nft-us-east-2.dev-api.cx.metamask.io
+https://nft-us-east-2.dev-api.cx.metamask.io:8443
 https://nft-us-east-2.uat-api.cx.metamask.io
 https://nft.api.cx.metamask.io
 https://nft.dev-api.cx.metamask.io
+https://nft.dev-api.cx.metamask.io:8443
 https://nft.uat-api.cx.metamask.io
 https://notification-us-east-2.api.cx.metamask.io
 https://notification-us-east-2.dev-api.cx.metamask.io
@@ -441,6 +439,7 @@ https://proxy.dev-api.cx.metamask.io
 https://proxy.uat-api.cx.metamask.io
 https://push-us-east-2.api.cx.metamask.io
 https://push-us-east-2.dev-api.cx.metamask.io
+https://push-us-east-2.dev-api.cx.metamask.io:8443
 https://push-us-east-2.uat-api.cx.metamask.io
 https://push.api.cx.metamask.io
 https://push.dev-api.cx.metamask.io
@@ -461,6 +460,7 @@ https://token.uat-api.cx.metamask.io
 https://transaction-us-east-2.api.cx.metamask.io
 https://transaction-us-east-2.dev-api.cx.metamask.io
 https://transaction-us-east-2.uat-api.cx.metamask.io
+https://transaction-us-east-2.uat-api.cx.metamask.io:8443
 https://transaction.api.cx.metamask.io
 https://transaction.dev-api.cx.metamask.io
 https://transaction.uat-api.cx.metamask.io

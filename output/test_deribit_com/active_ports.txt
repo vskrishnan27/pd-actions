@@ -1,0 +1,2 @@
+test.deribit.com:443
+test.deribit.com:80

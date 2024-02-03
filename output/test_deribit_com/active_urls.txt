@@ -1,0 +1,2 @@
+http://test.deribit.com
+https://test.deribit.com

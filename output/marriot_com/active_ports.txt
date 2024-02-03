@@ -1,0 +1,3 @@
+www.marriot.com:3128
+www.marriot.com:443
+www.marriot.com:80

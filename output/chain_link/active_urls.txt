@@ -15,6 +15,8 @@ http://careers.chain.link
 http://careers.chain.link:8080
 http://ccip.chain.link
 http://ccip.chain.link:8443
+http://chain.link
+http://chain.link:8443
 http://data.chain.link
 http://data.chain.link:8443
 http://dataengine.chain.link
@@ -67,8 +69,6 @@ http://mercury-arbitrum-testnet.stage.chain.link
 http://mercury-arbitrum-testnet.stage.chain.link:8443
 http://mercury-srv.chain.link
 http://mercury-srv.chain.link:8080
-http://on.chain.link
-http://on.chain.link:8080
 http://pages.chain.link
 http://pages.chain.link:8080
 http://pegswap.chain.link
@@ -114,6 +114,7 @@ https://blog.chain.link
 https://careers.chain.link
 https://careers.chain.link:8443
 https://ccip.chain.link
+https://chain.link
 https://data.chain.link
 https://dataengine.chain.link
 https://dataengine.chain.link:8443
@@ -147,8 +148,6 @@ https://mercury-arbitrum-testnet.chain.link
 https://mercury-arbitrum-testnet.stage.chain.link
 https://mercury-srv.chain.link
 https://mercury-srv.chain.link:8443
-https://on.chain.link
-https://on.chain.link:8443
 https://pages.chain.link
 https://pages.chain.link:8443
 https://pegswap.chain.link

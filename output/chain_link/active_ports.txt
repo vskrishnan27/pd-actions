@@ -32,6 +32,10 @@ ccip.chain.link:443
 ccip.chain.link:80
 ccip.chain.link:8080
 ccip.chain.link:8443
+chain.link:443
+chain.link:80
+chain.link:8080
+chain.link:8443
 data.chain.link:443
 data.chain.link:80
 data.chain.link:8080
@@ -133,10 +137,6 @@ mercury-srv.chain.link:443
 mercury-srv.chain.link:80
 mercury-srv.chain.link:8080
 mercury-srv.chain.link:8443
-on.chain.link:443
-on.chain.link:80
-on.chain.link:8080
-on.chain.link:8443
 pages.chain.link:443
 pages.chain.link:80
 pages.chain.link:8080

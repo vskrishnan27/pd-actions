@@ -15,6 +15,8 @@ http://careers.chain.link
 http://careers.chain.link:8080
 http://ccip.chain.link
 http://ccip.chain.link:8443
+http://chain.link
+http://chain.link:8443
 http://data.chain.link
 http://data.chain.link:8443
 http://dataengine.chain.link
@@ -112,6 +114,7 @@ https://blog.chain.link
 https://careers.chain.link
 https://careers.chain.link:8443
 https://ccip.chain.link
+https://chain.link
 https://data.chain.link
 https://dataengine.chain.link
 https://dataengine.chain.link:8443

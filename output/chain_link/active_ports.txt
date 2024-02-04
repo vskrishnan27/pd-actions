@@ -32,6 +32,10 @@ ccip.chain.link:443
 ccip.chain.link:80
 ccip.chain.link:8080
 ccip.chain.link:8443
+chain.link:443
+chain.link:80
+chain.link:8080
+chain.link:8443
 data.chain.link:443
 data.chain.link:80
 data.chain.link:8080
@@ -61,7 +65,6 @@ email.chain.link:80
 email.chain.link:8080
 email.chain.link:8443
 events.chain.link:443
-events.chain.link:548
 events.chain.link:80
 faucet.chain.link:443
 faucet.chain.link:80

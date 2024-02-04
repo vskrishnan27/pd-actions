@@ -14,8 +14,6 @@ business-blog.zomato.com:443
 business-blog.zomato.com:80
 business.zomato.com:443
 business.zomato.com:80
-cc.zomato.com:443
-cc.zomato.com:80
 cc2.zomato.com:443
 cc2.zomato.com:80
 ccc.zomato.com:443
@@ -58,6 +56,8 @@ secretx.zomato.com:443
 secretx.zomato.com:80
 send.zomato.com:443
 send.zomato.com:80
+techblog.zomato.com:443
+techblog.zomato.com:80
 trackemail.zomato.com:443
 trackemail.zomato.com:80
 trackemail2.zomato.com:443

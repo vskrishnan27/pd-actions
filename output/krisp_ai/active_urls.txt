@@ -33,6 +33,7 @@ http://files.prelive.krisp.ai
 http://help-jp.krisp.ai
 http://help.krisp.ai
 http://help.krisp.ai:8080
+http://help.krisp.ai:8443
 http://jobs.krisp.ai
 http://jobs.krisp.ai:8080
 http://jpmchase-uat.krisp.ai
@@ -131,7 +132,6 @@ https://files.krisp.ai
 https://files.prelive.krisp.ai
 https://help-jp.krisp.ai
 https://help.krisp.ai
-https://help.krisp.ai:8443
 https://jobs.krisp.ai
 https://jobs.krisp.ai:8443
 https://jpmchase-uat.krisp.ai

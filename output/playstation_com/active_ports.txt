@@ -303,8 +303,6 @@ io.playstation.com:443
 io.playstation.com:80
 is.playstation.com:443
 is.playstation.com:80
-ivaldi.playstation.com:443
-ivaldi.playstation.com:80
 jp.playstation.com:443
 jp.playstation.com:80
 juega.playstation.com:443
@@ -532,8 +530,6 @@ update-psnow.playstation.com:80
 updates.playstation.com:443
 updates.playstation.com:80
 upload.studiocrs.playstation.com:443
-us.playstation.com:443
-us.playstation.com:80
 userguides.eu.playstation.com:443
 userguides.eu.playstation.com:80
 usgdev.playstation.com:443

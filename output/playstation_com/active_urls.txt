@@ -84,7 +84,6 @@ http://core-entitlements.q1-pqa.api.playstation.com
 http://core-entitlements.q1-spint.api.playstation.com
 http://cxqam.ps-support.playstation.com
 http://cxuat.ps-support.playstation.com
-http://d-images-dev.playstation.com
 http://d-images-qa.playstation.com
 http://d-images-stage.playstation.com
 http://d-images.playstation.com
@@ -144,7 +143,6 @@ http://image.mail.asia.playstation.com
 http://image.mail.jp.playstation.com
 http://io.playstation.com
 http://is.playstation.com
-http://ivaldi.playstation.com
 http://jp.playstation.com
 http://juega.playstation.com
 http://la.playstation.com
@@ -248,7 +246,6 @@ http://transact.playstation.com
 http://tw.playstation.com
 http://update-psnow.playstation.com
 http://updates.playstation.com
-http://us.playstation.com
 http://userguides.eu.playstation.com
 http://usgdev.playstation.com
 http://usgqa.playstation.com
@@ -307,7 +304,6 @@ https://blog.ru.playstation.com
 https://blog.us.playstation.com
 https://blog.zh-hant.playstation.com
 https://bps.playstation.com
-https://br.playstation.com
 https://bridges.playstation.com
 https://ca.playstation.com
 https://camera-adaptor.support.playstation.com
@@ -434,7 +430,6 @@ https://image.mail.asia.playstation.com
 https://image.mail.jp.playstation.com
 https://io.playstation.com
 https://is.playstation.com
-https://ivaldi.playstation.com
 https://jp.playstation.com
 https://juega.playstation.com
 https://la.playstation.com
@@ -547,7 +542,6 @@ https://twitch.playstation.com
 https://update-psnow.playstation.com
 https://updates.playstation.com
 https://upload.studiocrs.playstation.com
-https://us.playstation.com
 https://userguides.eu.playstation.com
 https://usgdev.playstation.com
 https://usgqa.playstation.com
@@ -568,6 +562,7 @@ https://webformsstage.playstation.com
 https://webstore.playstation.com
 https://wrapup.playstation.com
 https://www.asia.playstation.com
+https://www.blog.playstation.com
 https://www.ca.playstation.com
 https://www.jp.playstation.com
 https://www.juega.playstation.com

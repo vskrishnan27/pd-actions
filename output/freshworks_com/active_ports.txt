@@ -256,7 +256,6 @@ community.developers.freshworks.com:443
 community.developers.freshworks.com:80
 community.freshworks.com:443
 community.freshworks.com:80
-communityevents.freshworks.com:1755
 communityevents.freshworks.com:443
 communityevents.freshworks.com:80
 company-assets.freshworks.com:443
@@ -702,10 +701,10 @@ trust.freshworks.com:443
 trust.freshworks.com:80
 trust.internal.freshworks.com:443
 trust.internal.freshworks.com:80
+ubx-au.freshworks.com:443
+ubx-au.freshworks.com:80
 ubx-eu.freshworks.com:443
 ubx-eu.freshworks.com:80
-ubx-in.freshworks.com:443
-ubx-in.freshworks.com:80
 ubx-mec.freshworks.com:443
 ubx-mec.freshworks.com:80
 ubx.freshworks.com:443

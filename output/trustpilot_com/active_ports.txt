@@ -183,8 +183,6 @@ la.business.trustpilot.com:443
 la.business.trustpilot.com:80
 legal-preview.trustpilot.com:443
 legal-preview.trustpilot.com:80
-legal.trustpilot.com:443
-legal.trustpilot.com:80
 link.trustpilot.com:443
 link.trustpilot.com:80
 links.trustpilot.com:443
@@ -244,8 +242,6 @@ portalmailchimpfeed.business-preview.trustpilot.com:443
 portalmailchimpfeed.business-preview.trustpilot.com:80
 press.trustpilot.com:443
 press.trustpilot.com:80
-preview.trustpilot.com:443
-preview.trustpilot.com:80
 productreviews-attachments.trustpilot.com:443
 productreviews-attachments.trustpilot.com:80
 productreviews.trustpilot.com:443

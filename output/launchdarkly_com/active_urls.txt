@@ -25,9 +25,12 @@ http://clientstream-stg-apac.launchdarkly.com
 http://clientstream-stg-euw1.launchdarkly.com
 http://clientstream-stg-use1.launchdarkly.com
 http://clientstream-stg-use2.intuit.launchdarkly.com
+http://clientstream-stg-use2.intuit.launchdarkly.com:443
+http://clientstream-stg.intuit.launchdarkly.com
 http://clientstream-stg.intuit.launchdarkly.com:443
 http://clientstream-stg.launchdarkly.com
 http://clientstream-use1.launchdarkly.com
+http://clientstream-use2.intuit.launchdarkly.com
 http://clientstream-use2.intuit.launchdarkly.com:443
 http://clientstream.intuit.launchdarkly.com
 http://clientstream.launchdarkly.com
@@ -65,7 +68,6 @@ http://partnersupport.launchdarkly.com:8080
 http://partnersupport.launchdarkly.com:8443
 http://pubnubtest.launchdarkly.com
 http://resources.launchdarkly.com
-http://sdk-stg.launchdarkly.com
 http://sdk.dev.launchdarkly.com:8443
 http://sdk.dr.launchdarkly.com
 http://smart.launchdarkly.com
@@ -74,6 +76,7 @@ http://static.launchdarkly.com
 http://status.launchdarkly.com
 http://support.launchdarkly.com
 http://support.launchdarkly.com:8080
+http://support.launchdarkly.com:8443
 http://tfc-webhook-dev.dev.launchdarkly.com
 http://tracking.launchdarkly.com
 http://user-content.stg.launchdarkly.com
@@ -118,7 +121,6 @@ https://clientstream-stg-alb.launchdarkly.com
 https://clientstream-stg-apac.launchdarkly.com
 https://clientstream-stg-euw1.launchdarkly.com
 https://clientstream-stg-use1.launchdarkly.com
-https://clientstream-stg-use2.intuit.launchdarkly.com
 https://clientstream-stg-usw2.intuit.launchdarkly.com
 https://clientstream-stg.launchdarkly.com
 https://clientstream-use1.launchdarkly.com
@@ -180,7 +182,6 @@ https://msteams.launchdarkly.com
 https://partnersupport.launchdarkly.com
 https://pubnubtest.launchdarkly.com
 https://resources.launchdarkly.com
-https://sdk-stg.launchdarkly.com
 https://sdk.dev.launchdarkly.com
 https://sdk.dr.launchdarkly.com
 https://slack-app-stg.intuit.launchdarkly.com
@@ -208,7 +209,6 @@ https://stream.intuit.launchdarkly.com
 https://stream.launchdarkly.com
 https://stream.launchdarkly.com:8443
 https://support.launchdarkly.com
-https://support.launchdarkly.com:8443
 https://tfc-webhook-dev.dev.launchdarkly.com
 https://thumbseeker.launchdarkly.com
 https://tracking.launchdarkly.com

@@ -65,6 +65,7 @@ clientstream-stg.launchdarkly.com:80
 clientstream-use1.launchdarkly.com:443
 clientstream-use1.launchdarkly.com:80
 clientstream-use2.intuit.launchdarkly.com:443
+clientstream-use2.intuit.launchdarkly.com:80
 clientstream-usw2.intuit.launchdarkly.com:443
 clientstream.dr.launchdarkly.com:443
 clientstream.intuit.launchdarkly.com:443
@@ -161,8 +162,6 @@ pubnubtest.launchdarkly.com:443
 pubnubtest.launchdarkly.com:80
 resources.launchdarkly.com:443
 resources.launchdarkly.com:80
-sdk-stg.launchdarkly.com:443
-sdk-stg.launchdarkly.com:80
 sdk.dev.launchdarkly.com:443
 sdk.dev.launchdarkly.com:80
 sdk.dev.launchdarkly.com:8080

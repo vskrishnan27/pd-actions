@@ -23,8 +23,6 @@ http://auth-sx-bet.partner-auth.magic.link
 http://auth-sx-bet.partner-auth.magic.link:443
 http://auth-sx-bet.partner-auth.magic.link:8080
 http://auth-sx-bet.partner-auth.magic.link:8443
-http://auth.dev.magic.link
-http://auth.dev.magic.link:8080
 http://auth.stagef.magic.link
 http://auth.stagef.magic.link:8080
 http://box.magic.link
@@ -70,8 +68,6 @@ http://next.stagef.magic.link
 http://nextjs-nft-template.magic.link
 http://nft-contracts.magic.link
 http://nftnyc.magic.link
-http://partner-auth.magic.link
-http://partner-auth.magic.link:8080
 http://permissionless23.magic.link
 http://reveal.magic.link
 http://speedtest.magic.link
@@ -97,8 +93,6 @@ https://assets.auth.dev.magic.link:8443
 https://assets.auth.magic.link
 https://assets.auth.stagef.magic.link
 https://assets.auth.stagef.magic.link:8443
-https://auth.dev.magic.link
-https://auth.dev.magic.link:8443
 https://auth.stagef.magic.link
 https://auth.stagef.magic.link:8443
 https://box.magic.link
@@ -144,8 +138,6 @@ https://next.stagef.magic.link
 https://nextjs-nft-template.magic.link
 https://nft-contracts.magic.link
 https://nftnyc.magic.link
-https://partner-auth.magic.link
-https://partner-auth.magic.link:8443
 https://permissionless23.magic.link
 https://reveal.magic.link
 https://speedtest.magic.link

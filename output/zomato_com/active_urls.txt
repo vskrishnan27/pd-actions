@@ -27,7 +27,6 @@ http://payments-preprod.zomato.com
 http://reviews.zomato.com
 http://secretx.zomato.com
 http://send.zomato.com
-http://techblog.zomato.com
 http://trackemail.zomato.com
 http://trackemail2.zomato.com
 http://upload.zomato.com
@@ -36,6 +35,7 @@ http://winecellar.zomato.com
 http://ws-callcenter.zomato.com
 http://www.techblog.zomato.com
 http://www.zomato.com
+http://zomato.com
 http://zpay.zomato.com
 http://zwstatic.zomato.com
 https://accounts.zomato.com
@@ -67,7 +67,6 @@ https://payments-preprod.zomato.com
 https://reviews.zomato.com
 https://secretx.zomato.com
 https://send.zomato.com
-https://techblog.zomato.com
 https://trackemail.zomato.com
 https://trackemail2.zomato.com
 https://upload.zomato.com
@@ -76,5 +75,6 @@ https://winecellar.zomato.com
 https://ws-callcenter.zomato.com
 https://www.techblog.zomato.com
 https://www.zomato.com
+https://zomato.com
 https://zpay.zomato.com
 https://zwstatic.zomato.com

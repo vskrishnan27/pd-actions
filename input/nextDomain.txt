@@ -1,4 +1,3 @@
-amazon.com
 playstation.com
 nordsecurity.com
 snapchat.com
@@ -75,3 +74,4 @@ ui.com
 hedera.com
 airbnb.com
 hackerone.com
+amazon.com

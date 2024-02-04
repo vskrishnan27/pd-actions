@@ -61,7 +61,6 @@ http://help.chime.com:8080
 http://help.chime.com:8443
 http://inspector-dev1.chime.com
 http://inspector-dev1.chime.com:8080
-http://inspector-dev1.chime.com:8443
 http://inspector-qa.chime.com
 http://inspector-qa.chime.com:8080
 http://inspector-qa.chime.com:8443
@@ -169,6 +168,7 @@ https://handbooks.chime.com
 https://help-test.chime.com
 https://help.chime.com
 https://inspector-dev1.chime.com
+https://inspector-dev1.chime.com:8443
 https://inspector-qa.chime.com
 https://inspector.chime.com
 https://interchange.chime.com

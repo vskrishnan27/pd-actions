@@ -1,5 +1,7 @@
 beginit.indrive.com:443
 beginit.indrive.com:80
+book.indrive.com:443
+book.indrive.com:80
 careers.indrive.com:443
 careers.indrive.com:80
 cargo.indrive.com:443
@@ -55,6 +57,8 @@ landing.indrive.com:443
 landing.indrive.com:80
 lp-food.indrive.com:443
 lp-food.indrive.com:80
+lp-services.indrive.com:443
+lp-services.indrive.com:80
 media.indrive.com:443
 media.indrive.com:80
 promo.indrive.com:443
@@ -93,8 +97,6 @@ sharetrip.indrive.com:443
 sharetrip.indrive.com:80
 sparklab.indrive.com:443
 sparklab.indrive.com:80
-supernovas.indrive.com:443
-supernovas.indrive.com:80
 updrive.indrive.com:443
 updrive.indrive.com:80
 url-checker.indrive.com:443

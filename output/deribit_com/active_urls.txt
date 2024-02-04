@@ -6,7 +6,6 @@ http://assets-asia.deribit.com:8080
 http://assets-asia.deribit.com:8443
 http://assets-test.deribit.com
 http://assets-test.deribit.com:8080
-http://assets-test.deribit.com:8443
 http://assets.deribit.com
 http://assets.deribit.com:8080
 http://assets.deribit.com:8443
@@ -19,7 +18,6 @@ http://chat.deribit.com
 http://chattest.deribit.com
 http://conference.chat.deribit.com
 http://conference.chattest.deribit.com
-http://deribit.com
 http://docs.deribit.com
 http://docs.deribit.com:8080
 http://docs.deribit.com:8443
@@ -60,6 +58,7 @@ https://apt.deribit.com
 https://asia.deribit.com
 https://assets-asia.deribit.com
 https://assets-test.deribit.com
+https://assets-test.deribit.com:8443
 https://assets.deribit.com
 https://bacchus-asia.deribit.com
 https://bacchus.deribit.com
@@ -68,7 +67,6 @@ https://chat.deribit.com
 https://chattest.deribit.com
 https://conference.chat.deribit.com
 https://conference.chattest.deribit.com
-https://deribit.com
 https://docs.deribit.com
 https://echop.deribit.com
 https://echop.deribit.com:8443

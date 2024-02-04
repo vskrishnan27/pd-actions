@@ -1,4 +1,3 @@
-iovlabs.org
 chain.link
 playcanvas.com
 bitstrips.com
@@ -73,3 +72,4 @@ okx.com
 matomo.org
 fireblocks.com
 shopify.com
+iovlabs.org

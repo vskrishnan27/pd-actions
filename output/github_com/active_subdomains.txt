@@ -10,7 +10,6 @@ androxyde.github.com
 api.gist.github.com
 api.github.com
 api.security.github.com
-api.stars.github.com
 artblaster.github.com
 ask.github.com
 atom-installer.github.com
@@ -260,9 +259,9 @@ porter.github.com
 porter2.github.com
 posidron.github.com
 primercuervo.github.com
-proxima-review-lab.github.com
 raw.github.com
 redirect.github.com
+registry.github.com
 remeniuk.github.com
 render-lab.github.com
 render.github.com
@@ -307,6 +306,8 @@ workspaces-dev.github.com
 workspaces-ppe.github.com
 workspaces.github.com
 ws.support.github.com
+www.api.security.github.com
+www.api.stars.github.com
 www.github.com
 www.graphql-stage.github.com
 www.graphql.github.com

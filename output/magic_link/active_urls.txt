@@ -2,6 +2,8 @@ http://api.dev.magic.link
 http://api.dev.magic.link:8080
 http://api.magic.link
 http://api.magic.link:8080
+http://api.stagef.magic.link
+http://api.stagef.magic.link:8080
 http://assets.auth.dev.magic.link
 http://assets.auth.dev.magic.link:8080
 http://assets.auth.magic.link
@@ -23,8 +25,8 @@ http://auth-sx-bet.partner-auth.magic.link
 http://auth-sx-bet.partner-auth.magic.link:443
 http://auth-sx-bet.partner-auth.magic.link:8080
 http://auth-sx-bet.partner-auth.magic.link:8443
-http://auth.stagef.magic.link
-http://auth.stagef.magic.link:8080
+http://auth.dev.magic.link
+http://auth.dev.magic.link:8080
 http://box.magic.link
 http://community.magic.link
 http://consensus.magic.link
@@ -88,13 +90,15 @@ https://api.dev.magic.link
 https://api.dev.magic.link:8443
 https://api.magic.link
 https://api.magic.link:8443
+https://api.stagef.magic.link
+https://api.stagef.magic.link:8443
 https://assets.auth.dev.magic.link
 https://assets.auth.dev.magic.link:8443
 https://assets.auth.magic.link
 https://assets.auth.stagef.magic.link
 https://assets.auth.stagef.magic.link:8443
-https://auth.stagef.magic.link
-https://auth.stagef.magic.link:8443
+https://auth.dev.magic.link
+https://auth.dev.magic.link:8443
 https://box.magic.link
 https://community.magic.link
 https://consensus.magic.link

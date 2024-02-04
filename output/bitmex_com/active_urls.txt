@@ -13,6 +13,7 @@ http://devhk-static.bitmex.com
 http://devhk.bitmex.com
 http://devhk.bitmex.com:8080
 http://documents.bitmex.com
+http://documents.bitmex.com:443
 http://documents.bitmex.com:8080
 http://documents.devhk.bitmex.com
 http://documents.devhk.bitmex.com:8080
@@ -21,11 +22,11 @@ http://documents.devsf3.bitmex.com:8080
 http://documents.testnet.bitmex.com
 http://documents.testnet.bitmex.com:8080
 http://eu.onfido.bitmex.com
-http://eu.onfido.bitmex.com:443
 http://eu.onfido.bitmex.com:8080
 http://eu.onfido.devhk.bitmex.com
 http://eu.onfido.devhk.bitmex.com:8080
 http://eu.onfido.testnet.bitmex.com
+http://eu.onfido.testnet.bitmex.com:443
 http://eu.onfido.testnet.bitmex.com:8080
 http://l.m.bitmex.com
 http://l.m.testnet.bitmex.com
@@ -50,6 +51,7 @@ http://static.bitmex.com
 http://status.bitmex.com
 http://support.bitmex.com
 http://support.bitmex.com:8080
+http://support.bitmex.com:8443
 http://support.services.bitmex.com
 http://support.testnet.bitmex.com
 http://support.testnet.services.bitmex.com
@@ -98,7 +100,6 @@ https://cn.research.bitmex.com
 https://devhk-static.bitmex.com
 https://devhk.bitmex.com
 https://devhk.bitmex.com:8443
-https://documents.bitmex.com
 https://documents.bitmex.com:8443
 https://documents.devhk.bitmex.com
 https://documents.devhk.bitmex.com:8443
@@ -108,10 +109,10 @@ https://documents.testnet.bitmex.com
 https://documents.testnet.bitmex.com:8443
 https://email.mg.bitmex.com
 https://email.mg.bitmex.com:80
+https://eu.onfido.bitmex.com
 https://eu.onfido.bitmex.com:8443
 https://eu.onfido.devhk.bitmex.com
 https://eu.onfido.devhk.bitmex.com:8443
-https://eu.onfido.testnet.bitmex.com
 https://eu.onfido.testnet.bitmex.com:8443
 https://fbnotify.dev.devhk.services.bitmex.com
 https://fbnotify.devhk.services.bitmex.com
@@ -140,7 +141,6 @@ https://securemail.bitmex.com:10000
 https://static.bitmex.com
 https://status.bitmex.com
 https://support.bitmex.com
-https://support.bitmex.com:8443
 https://support.services.bitmex.com
 https://support.testnet.bitmex.com
 https://support.testnet.services.bitmex.com

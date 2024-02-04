@@ -81,7 +81,6 @@ http://fileupload.cs-tools.ring.com
 http://firmwares.dev.ring.com
 http://firmwares.dev.ring.com:8443
 http://firmwares.qa.ring.com
-http://firmwares.qa.ring.com:8443
 http://firmwares.ring.com
 http://firmwares.ring.com:8443
 http://fr-fr.ring.com
@@ -334,6 +333,7 @@ https://fileupload.cs-tools.dev.ring.com
 https://fileupload.cs-tools.ring.com
 https://firmwares.dev.ring.com
 https://firmwares.qa.ring.com
+https://firmwares.qa.ring.com:8443
 https://firmwares.ring.com
 https://fr-fr.ring.com
 https://fr-fr.ring.com:8443

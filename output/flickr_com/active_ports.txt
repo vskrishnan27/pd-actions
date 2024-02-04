@@ -153,8 +153,6 @@ real-embedr.flickr.com:443
 real-embedr.flickr.com:80
 stage.guce.flickr.com:443
 stage.guce.flickr.com:80
-static.flickr.com:443
-static.flickr.com:80
 t.flickr.com:443
 t.flickr.com:80
 test-flickr.flickr.com:443

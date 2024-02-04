@@ -1,5 +1,3 @@
-http://base.org
-http://base.org:8080
 http://bridge.base.org
 http://bridge.base.org:8080
 http://bridge.base.org:8443
@@ -15,11 +13,13 @@ http://mainnet.base.org:8080
 http://mint.base.org
 http://mint.base.org:8080
 http://quests.base.org
+http://quests.base.org:443
 http://quests.base.org:8080
 http://quests.base.org:8443
 http://sepolia-archive-snapshots-dev.base.org
 http://sepolia-archive-snapshots-dev.base.org:8080
 http://sepolia-archive-snapshots.base.org
+http://sepolia-archive-snapshots.base.org:443
 http://sepolia-archive-snapshots.base.org:8080
 http://status.base.org
 http://status.base.org:8080
@@ -27,8 +27,6 @@ http://status.base.org:8443
 http://www.base.org
 http://www.base.org:8080
 http://www.base.org:8443
-https://base.org
-https://base.org:8443
 https://bridge.base.org
 https://developer-access-mainnet.base.org
 https://developer-access-mainnet.base.org:8443
@@ -39,10 +37,8 @@ https://mainnet.base.org
 https://mainnet.base.org:8443
 https://mint.base.org
 https://mint.base.org:8443
-https://quests.base.org
 https://sepolia-archive-snapshots-dev.base.org
 https://sepolia-archive-snapshots-dev.base.org:8443
-https://sepolia-archive-snapshots.base.org
 https://sepolia-archive-snapshots.base.org:8443
 https://status.base.org
 https://www.base.org

@@ -20,6 +20,8 @@ api.github.com:443
 api.github.com:80
 api.security.github.com:443
 api.security.github.com:80
+api.stars.github.com:443
+api.stars.github.com:80
 artblaster.github.com:443
 artblaster.github.com:80
 ask.github.com:443
@@ -222,6 +224,8 @@ kzahel.github.com:443
 kzahel.github.com:80
 lab-sandbox.github.com:443
 lab-sandbox.github.com:80
+lab.github.com:443
+lab.github.com:80
 lb-140-82-112-11-iad.github.com:443
 lb-140-82-112-11-iad.github.com:80
 lb-140-82-112-12-iad.github.com:443
@@ -449,8 +453,6 @@ raw.github.com:443
 raw.github.com:80
 redirect.github.com:443
 redirect.github.com:80
-registry.github.com:443
-registry.github.com:80
 remeniuk.github.com:443
 remeniuk.github.com:80
 render-lab.github.com:443
@@ -485,6 +487,7 @@ skyline.github.com:443
 skyline.github.com:80
 slack.github.com:443
 slack.github.com:80
+smtp.github.com:25
 ssh.github.com:22
 ssh.github.com:443
 ssh.github.com:80
@@ -528,12 +531,8 @@ web5622.github.com:443
 web5622.github.com:80
 web6014.github.com:443
 web6014.github.com:80
-workspaces.github.com:443
-workspaces.github.com:80
 ws.support.github.com:443
 ws.support.github.com:80
-www.api.security.github.com:443
-www.api.security.github.com:80
 www.api.stars.github.com:443
 www.api.stars.github.com:80
 www.github.com:22
@@ -555,10 +554,6 @@ www.skyline.github.com:443
 www.skyline.github.com:80
 www.smtp.github.com:443
 www.smtp.github.com:80
-www.support.enterprise.github.com:443
-www.support.enterprise.github.com:80
-www.visualstudio.github.com:443
-www.visualstudio.github.com:80
 www.ws.support.github.com:443
 www.ws.support.github.com:80
 xlcteam.github.com:443

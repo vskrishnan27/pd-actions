@@ -9,6 +9,7 @@ http://blocked.eero.com
 http://blog.eero.com
 http://community.eero.com
 http://dashboard.eero.com
+http://eero.com
 http://image.email.eero.com
 http://mail.eero.com
 http://pause-stage.eero.com
@@ -19,8 +20,6 @@ http://store.eero.com:8080
 http://support.eero.com
 http://support.eero.com:8080
 http://support.eero.com:8443
-http://tour.eero.com
-http://www.eero.com
 https://account.eero.com
 https://accounts.eero.com
 https://ap.account.eero.com

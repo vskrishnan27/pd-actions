@@ -29,6 +29,7 @@ docparser.bizops.staging.eero.com:443
 dsar-stage.eero.com:443
 dsar.eero.com:443
 eero.com:443
+eero.com:80
 image.email.eero.com:443
 image.email.eero.com:80
 mail.eero.com:25
@@ -54,7 +55,6 @@ support.eero.com:80
 support.eero.com:8080
 support.eero.com:8443
 tour.eero.com:443
-tour.eero.com:80
 webhooks.bizops.eero.com:443
 webhooks.bizops.staging.eero.com:443
 www.eero.com:443

@@ -3,6 +3,8 @@ api-dev.forescout.com
 api-dev.forescout.com
 api-dev.forescout.com
 api-dev.forescout.com
+api-dev.forescout.com
+api-engdev.forescout.com
 api-engdev.forescout.com
 api-engdev.forescout.com
 api-engdev.forescout.com
@@ -13,6 +15,8 @@ api-stage-inc.forescout.com
 api-stage-inc.forescout.com
 api-stage-inc.forescout.com
 api-stage-inc.forescout.com
+api-stage-inc.forescout.com
+api-stage.forescout.com
 api-stage.forescout.com
 api-stage.forescout.com
 api-stage.forescout.com
@@ -23,6 +27,8 @@ api.fem-eng.forescout.com
 api.fem-eng.forescout.com
 api.fem-eng.forescout.com
 api.fem-eng.forescout.com
+api.fem-eng.forescout.com
+api.fem-stage-inc.forescout.com
 api.fem-stage-inc.forescout.com
 api.fem-stage-inc.forescout.com
 api.fem-stage-inc.forescout.com
@@ -33,6 +39,8 @@ api.fem-stage.forescout.com
 api.fem-stage.forescout.com
 api.fem-stage.forescout.com
 api.fem-stage.forescout.com
+api.fem-stage.forescout.com
+api.fem.forescout.com
 api.fem.forescout.com
 api.fem.forescout.com
 api.fem.forescout.com
@@ -43,6 +51,8 @@ api.forescout.com
 api.forescout.com
 api.forescout.com
 api.forescout.com
+api.forescout.com
+apps.forescout.com
 apps.forescout.com
 apps.forescout.com
 apps.forescout.com
@@ -53,6 +63,8 @@ as.forescout.com
 as.forescout.com
 as.forescout.com
 as.forescout.com
+as.forescout.com
+auth1x.lab.forescout.com
 auth1x.lab.forescout.com
 auth1x.lab.forescout.com
 auth1x.lab.forescout.com
@@ -63,6 +75,8 @@ autodiscover.forescout.com
 autodiscover.forescout.com
 autodiscover.forescout.com
 autodiscover.forescout.com
+autodiscover.forescout.com
+backend-api.device-cloud-dev.fsd.forescout.com
 backend-api.device-cloud-dev.fsd.forescout.com
 backend-api.device-cloud-dev.fsd.forescout.com
 backend-api.device-cloud-dev.fsd.forescout.com
@@ -73,6 +87,8 @@ backend-api.device-cloud-qa.fsd.forescout.com
 backend-api.device-cloud-qa.fsd.forescout.com
 backend-api.device-cloud-qa.fsd.forescout.com
 backend-api.device-cloud-qa.fsd.forescout.com
+backend-api.device-cloud-qa.fsd.forescout.com
+bizdev.fem.forescout.com
 bizdev.fem.forescout.com
 bizdev.fem.forescout.com
 bizdev.fem.forescout.com
@@ -83,6 +99,8 @@ blog.forescout.com
 blog.forescout.com
 blog.forescout.com
 blog.forescout.com
+blog.forescout.com
+bmi-us-dev.forescout.com
 bmi-us-dev.forescout.com
 bmi-us-dev.forescout.com
 bmi-us-dev.forescout.com
@@ -93,6 +111,8 @@ bmi-us-prd.forescout.com
 bmi-us-prd.forescout.com
 bmi-us-prd.forescout.com
 bmi-us-prd.forescout.com
+bmi-us-prd.forescout.com
+bmi-us-stg.forescout.com
 bmi-us-stg.forescout.com
 bmi-us-stg.forescout.com
 bmi-us-stg.forescout.com
@@ -103,6 +123,8 @@ ca-artifactory.fsd.forescout.com
 ca-artifactory.fsd.forescout.com
 ca-artifactory.fsd.forescout.com
 ca-artifactory.fsd.forescout.com
+ca-artifactory.fsd.forescout.com
+ca-bitbucket-mirror.fsd.forescout.com
 ca-bitbucket-mirror.fsd.forescout.com
 ca-bitbucket-mirror.fsd.forescout.com
 ca-bitbucket-mirror.fsd.forescout.com
@@ -113,6 +135,8 @@ ca-ci-dev1.fsd.forescout.com
 ca-ci-dev1.fsd.forescout.com
 ca-ci-dev1.fsd.forescout.com
 ca-ci-dev1.fsd.forescout.com
+ca-ci-dev1.fsd.forescout.com
+ca-ci-stage1.fsd.forescout.com
 ca-ci-stage1.fsd.forescout.com
 ca-ci-stage1.fsd.forescout.com
 ca-ci-stage1.fsd.forescout.com
@@ -123,6 +147,8 @@ ca-gst-appl.fsd.forescout.com
 ca-gst-appl.fsd.forescout.com
 ca-gst-appl.fsd.forescout.com
 ca-gst-appl.fsd.forescout.com
+ca-gst-appl.fsd.forescout.com
+ca-guest.fsd.forescout.com
 ca-guest.fsd.forescout.com
 ca-guest.fsd.forescout.com
 ca-guest.fsd.forescout.com
@@ -133,6 +159,8 @@ ca-mail.forescout.com
 ca-mail.forescout.com
 ca-mail.forescout.com
 ca-mail.forescout.com
+ca-mail.forescout.com
+ca-mail.fsd.forescout.com
 ca-mail.fsd.forescout.com
 ca-mail.fsd.forescout.com
 ca-mail.fsd.forescout.com
@@ -143,6 +171,8 @@ ca-mail01.forescout.com
 ca-mail01.forescout.com
 ca-mail01.forescout.com
 ca-mail01.forescout.com
+ca-mail01.forescout.com
+ca-mail01.fsd.forescout.com
 ca-mail01.fsd.forescout.com
 ca-mail01.fsd.forescout.com
 ca-mail01.fsd.forescout.com
@@ -153,6 +183,8 @@ ca-mail02.forescout.com
 ca-mail02.forescout.com
 ca-mail02.forescout.com
 ca-mail02.forescout.com
+ca-mail02.forescout.com
+ca-mail02.fsd.forescout.com
 ca-mail02.fsd.forescout.com
 ca-mail02.fsd.forescout.com
 ca-mail02.fsd.forescout.com
@@ -163,6 +195,8 @@ ca-mail03.forescout.com
 ca-mail03.forescout.com
 ca-mail03.forescout.com
 ca-mail03.forescout.com
+ca-mail03.forescout.com
+ca-mail03.fsd.forescout.com
 ca-mail03.fsd.forescout.com
 ca-mail03.fsd.forescout.com
 ca-mail03.fsd.forescout.com
@@ -173,6 +207,8 @@ ca-mailcu01.forescout.com
 ca-mailcu01.forescout.com
 ca-mailcu01.forescout.com
 ca-mailcu01.forescout.com
+ca-mailcu01.forescout.com
+ca-mailcu01.fsd.forescout.com
 ca-mailcu01.fsd.forescout.com
 ca-mailcu01.fsd.forescout.com
 ca-mailcu01.fsd.forescout.com
@@ -183,6 +219,8 @@ ca-pocartifactory.fsd.forescout.com
 ca-pocartifactory.fsd.forescout.com
 ca-pocartifactory.fsd.forescout.com
 ca-pocartifactory.fsd.forescout.com
+ca-pocartifactory.fsd.forescout.com
+ca-sharepoint1.fsd.forescout.com
 ca-sharepoint1.fsd.forescout.com
 ca-sharepoint1.fsd.forescout.com
 ca-sharepoint1.fsd.forescout.com
@@ -193,6 +231,8 @@ cab.fsd.forescout.com
 cab.fsd.forescout.com
 cab.fsd.forescout.com
 cab.fsd.forescout.com
+cab.fsd.forescout.com
+chart-museum.fsd.forescout.com
 chart-museum.fsd.forescout.com
 chart-museum.fsd.forescout.com
 chart-museum.fsd.forescout.com
@@ -203,6 +243,8 @@ click.forescout.com
 click.forescout.com
 click.forescout.com
 click.forescout.com
+click.forescout.com
+coe.forescout.com
 coe.forescout.com
 coe.forescout.com
 coe.forescout.com
@@ -213,6 +255,8 @@ colo-ci-prod1.fsd.forescout.com
 colo-ci-prod1.fsd.forescout.com
 colo-ci-prod1.fsd.forescout.com
 colo-ci-prod1.fsd.forescout.com
+colo-ci-prod1.fsd.forescout.com
+colo.forescout.com
 colo.forescout.com
 colo.forescout.com
 colo.forescout.com
@@ -223,6 +267,8 @@ community.forescout.com
 community.forescout.com
 community.forescout.com
 community.forescout.com
+community.forescout.com
+compatibility.forescout.com
 compatibility.forescout.com
 compatibility.forescout.com
 compatibility.forescout.com
@@ -233,6 +279,8 @@ confluence.fsd.forescout.com
 confluence.fsd.forescout.com
 confluence.fsd.forescout.com
 confluence.fsd.forescout.com
+confluence.fsd.forescout.com
+connect.forescout.com
 connect.forescout.com
 connect.forescout.com
 connect.forescout.com
@@ -243,6 +291,8 @@ dal2-bbkt-stg.fsd.forescout.com
 dal2-bbkt-stg.fsd.forescout.com
 dal2-bbkt-stg.fsd.forescout.com
 dal2-bbkt-stg.fsd.forescout.com
+dal2-bbkt-stg.fsd.forescout.com
+dal2-bitbucket-mirror.fsd.forescout.com
 dal2-bitbucket-mirror.fsd.forescout.com
 dal2-bitbucket-mirror.fsd.forescout.com
 dal2-bitbucket-mirror.fsd.forescout.com
@@ -253,6 +303,8 @@ dal2-bitbucket.fsd.forescout.com
 dal2-bitbucket.fsd.forescout.com
 dal2-bitbucket.fsd.forescout.com
 dal2-bitbucket.fsd.forescout.com
+dal2-bitbucket.fsd.forescout.com
+dal2-c-artf-prd.fsd.forescout.com
 dal2-c-artf-prd.fsd.forescout.com
 dal2-c-artf-prd.fsd.forescout.com
 dal2-c-artf-prd.fsd.forescout.com
@@ -263,6 +315,8 @@ dal2-c-artf-stg.fsd.forescout.com
 dal2-c-artf-stg.fsd.forescout.com
 dal2-c-artf-stg.fsd.forescout.com
 dal2-c-artf-stg.fsd.forescout.com
+dal2-c-artf-stg.fsd.forescout.com
+dal2-c-fsct1.fsd.forescout.com
 dal2-c-fsct1.fsd.forescout.com
 dal2-c-fsct1.fsd.forescout.com
 dal2-c-fsct1.fsd.forescout.com
@@ -273,6 +327,8 @@ dal2-e-bbkt1.fsd.forescout.com
 dal2-e-bbkt1.fsd.forescout.com
 dal2-e-bbkt1.fsd.forescout.com
 dal2-e-bbkt1.fsd.forescout.com
+dal2-e-bbkt1.fsd.forescout.com
+dc-0secure.forescout.com
 dc-0secure.forescout.com
 dc-0secure.forescout.com
 dc-0secure.forescout.com
@@ -283,6 +339,8 @@ dc-submission.forescout.com
 dc-submission.forescout.com
 dc-submission.forescout.com
 dc-submission.forescout.com
+dc-submission.forescout.com
+dc0-internal.forescout.com
 dc0-internal.forescout.com
 dc0-internal.forescout.com
 dc0-internal.forescout.com
@@ -293,6 +351,8 @@ dc0-secure.forescout.com
 dc0-secure.forescout.com
 dc0-secure.forescout.com
 dc0-secure.forescout.com
+dc0-secure.forescout.com
+dev.forescout.com
 dev.forescout.com
 dev.forescout.com
 dev.forescout.com
@@ -303,6 +363,8 @@ docs.forescout.com
 docs.forescout.com
 docs.forescout.com
 docs.forescout.com
+docs.forescout.com
+ds.forescout.com
 ds.forescout.com
 ds.forescout.com
 ds.forescout.com
@@ -313,6 +375,8 @@ ecs.forescout.com
 ecs.forescout.com
 ecs.forescout.com
 ecs.forescout.com
+ecs.forescout.com
+ein1-arti-prd.fsd.forescout.com
 ein1-arti-prd.fsd.forescout.com
 ein1-arti-prd.fsd.forescout.com
 ein1-arti-prd.fsd.forescout.com
@@ -323,6 +387,8 @@ ein1-arti-stg.fsd.forescout.com
 ein1-arti-stg.fsd.forescout.com
 ein1-arti-stg.fsd.forescout.com
 ein1-arti-stg.fsd.forescout.com
+ein1-arti-stg.fsd.forescout.com
+ein1-c-fsct1.fsd.forescout.com
 ein1-c-fsct1.fsd.forescout.com
 ein1-c-fsct1.fsd.forescout.com
 ein1-c-fsct1.fsd.forescout.com
@@ -333,6 +399,8 @@ fem-eng.forescout.com
 fem-eng.forescout.com
 fem-eng.forescout.com
 fem-eng.forescout.com
+fem-eng.forescout.com
+fem-stage-inc.forescout.com
 fem-stage-inc.forescout.com
 fem-stage-inc.forescout.com
 fem-stage-inc.forescout.com
@@ -343,6 +411,8 @@ fem.forescout.com
 fem.forescout.com
 fem.forescout.com
 fem.forescout.com
+fem.forescout.com
+fisheye.fsd.forescout.com
 fisheye.fsd.forescout.com
 fisheye.fsd.forescout.com
 fisheye.fsd.forescout.com
@@ -353,6 +423,8 @@ forescout.com
 forescout.com
 forescout.com
 forescout.com
+forescout.com
+fs-artifactory.fsd.forescout.com
 fs-artifactory.fsd.forescout.com
 fs-artifactory.fsd.forescout.com
 fs-artifactory.fsd.forescout.com
@@ -363,6 +435,8 @@ fs-artifactoryf.fsd.forescout.com
 fs-artifactoryf.fsd.forescout.com
 fs-artifactoryf.fsd.forescout.com
 fs-artifactoryf.fsd.forescout.com
+fs-artifactoryf.fsd.forescout.com
+fs-bitbucket-stg.fsd.forescout.com
 fs-bitbucket-stg.fsd.forescout.com
 fs-bitbucket-stg.fsd.forescout.com
 fs-bitbucket-stg.fsd.forescout.com
@@ -373,6 +447,8 @@ fs-bitbucket.fsd.forescout.com
 fs-bitbucket.fsd.forescout.com
 fs-bitbucket.fsd.forescout.com
 fs-bitbucket.fsd.forescout.com
+fs-bitbucket.fsd.forescout.com
+fs-caeng-sra.forescout.com
 fs-caeng-sra.forescout.com
 fs-caeng-sra.forescout.com
 fs-caeng-sra.forescout.com
@@ -383,6 +459,8 @@ fs-caiot-sra.forescout.com
 fs-caiot-sra.forescout.com
 fs-caiot-sra.forescout.com
 fs-caiot-sra.forescout.com
+fs-caiot-sra.forescout.com
+fs-casupport-sra.forescout.com
 fs-casupport-sra.forescout.com
 fs-casupport-sra.forescout.com
 fs-casupport-sra.forescout.com
@@ -393,6 +471,8 @@ fs-ny-sra.forescout.com
 fs-ny-sra.forescout.com
 fs-ny-sra.forescout.com
 fs-ny-sra.forescout.com
+fs-ny-sra.forescout.com
+fs-sj1-sra.forescout.com
 fs-sj1-sra.forescout.com
 fs-sj1-sra.forescout.com
 fs-sj1-sra.forescout.com
@@ -403,6 +483,8 @@ fs-sra.forescout.com
 fs-sra.forescout.com
 fs-sra.forescout.com
 fs-sra.forescout.com
+fs-sra.forescout.com
+fs-va-sra.forescout.com
 fs-va-sra.forescout.com
 fs-va-sra.forescout.com
 fs-va-sra.forescout.com
@@ -413,6 +495,8 @@ fsbi.fsd.forescout.com
 fsbi.fsd.forescout.com
 fsbi.fsd.forescout.com
 fsbi.fsd.forescout.com
+fsbi.fsd.forescout.com
+fscalab.forescout.com
 fscalab.forescout.com
 fscalab.forescout.com
 fscalab.forescout.com
@@ -423,6 +507,8 @@ fshome.fsd.forescout.com
 fshome.fsd.forescout.com
 fshome.fsd.forescout.com
 fshome.fsd.forescout.com
+fshome.fsd.forescout.com
+fstxlab.forescout.com
 fstxlab.forescout.com
 fstxlab.forescout.com
 fstxlab.forescout.com
@@ -433,6 +519,8 @@ gitlab-cloud.fsd.forescout.com
 gitlab-cloud.fsd.forescout.com
 gitlab-cloud.fsd.forescout.com
 gitlab-cloud.fsd.forescout.com
+gitlab-cloud.fsd.forescout.com
+gitlab-runners.fsd.forescout.com
 gitlab-runners.fsd.forescout.com
 gitlab-runners.fsd.forescout.com
 gitlab-runners.fsd.forescout.com
@@ -443,6 +531,8 @@ hq-ap-master.fsd.forescout.com
 hq-ap-master.fsd.forescout.com
 hq-ap-master.fsd.forescout.com
 hq-ap-master.fsd.forescout.com
+hq-ap-master.fsd.forescout.com
+hub.forescout.com
 hub.forescout.com
 hub.forescout.com
 hub.forescout.com
@@ -453,6 +543,8 @@ infosec-gitlab.fsd.forescout.com
 infosec-gitlab.fsd.forescout.com
 infosec-gitlab.fsd.forescout.com
 infosec-gitlab.fsd.forescout.com
+infosec-gitlab.fsd.forescout.com
+inte.hub.forescout.com
 inte.hub.forescout.com
 inte.hub.forescout.com
 inte.hub.forescout.com
@@ -463,6 +555,8 @@ intranet.fsd.forescout.com
 intranet.fsd.forescout.com
 intranet.fsd.forescout.com
 intranet.fsd.forescout.com
+intranet.fsd.forescout.com
+investors.forescout.com
 investors.forescout.com
 investors.forescout.com
 investors.forescout.com
@@ -473,6 +567,8 @@ ip.forescout.com
 ip.forescout.com
 ip.forescout.com
 ip.forescout.com
+ip.forescout.com
+itportal.forescout.com
 itportal.forescout.com
 itportal.forescout.com
 itportal.forescout.com
@@ -483,6 +579,8 @@ jira.fsd.forescout.com
 jira.fsd.forescout.com
 jira.fsd.forescout.com
 jira.fsd.forescout.com
+jira.fsd.forescout.com
+jsm-us-prd.forescout.com
 jsm-us-prd.forescout.com
 jsm-us-prd.forescout.com
 jsm-us-prd.forescout.com
@@ -493,6 +591,8 @@ jsm-us.forescout.com
 jsm-us.forescout.com
 jsm-us.forescout.com
 jsm-us.forescout.com
+jsm-us.forescout.com
+jss.forescout.com
 jss.forescout.com
 jss.forescout.com
 jss.forescout.com
@@ -503,6 +603,8 @@ kace.forescout.com
 kace.forescout.com
 kace.forescout.com
 kace.forescout.com
+kace.forescout.com
+kace.fsd.forescout.com
 kace.fsd.forescout.com
 kace.fsd.forescout.com
 kace.fsd.forescout.com
@@ -513,6 +615,8 @@ kb.forescout.com
 kb.forescout.com
 kb.forescout.com
 kb.forescout.com
+kb.forescout.com
+lab-mobileiron-2.qalab.forescout.com
 lab-mobileiron-2.qalab.forescout.com
 lab-mobileiron-2.qalab.forescout.com
 lab-mobileiron-2.qalab.forescout.com
@@ -523,6 +627,8 @@ license.forescout.com
 license.forescout.com
 license.forescout.com
 license.forescout.com
+license.forescout.com
+license2-stg.forescout.com
 license2-stg.forescout.com
 license2-stg.forescout.com
 license2-stg.forescout.com
@@ -533,6 +639,8 @@ license2.forescout.com
 license2.forescout.com
 license2.forescout.com
 license2.forescout.com
+license2.forescout.com
+logstash-props.device-cloud-dev.fsd.forescout.com
 logstash-props.device-cloud-dev.fsd.forescout.com
 logstash-props.device-cloud-dev.fsd.forescout.com
 logstash-props.device-cloud-dev.fsd.forescout.com
@@ -543,6 +651,8 @@ logstash-props.device-cloud-qa.fsd.forescout.com
 logstash-props.device-cloud-qa.fsd.forescout.com
 logstash-props.device-cloud-qa.fsd.forescout.com
 logstash-props.device-cloud-qa.fsd.forescout.com
+logstash-props.device-cloud-qa.fsd.forescout.com
+mail-int-ca.forescout.com
 mail-int-ca.forescout.com
 mail-int-ca.forescout.com
 mail-int-ca.forescout.com
@@ -553,6 +663,8 @@ mail-relay.forescout.com
 mail-relay.forescout.com
 mail-relay.forescout.com
 mail-relay.forescout.com
+mail-relay.forescout.com
+mail.forescout.com
 mail.forescout.com
 mail.forescout.com
 mail.forescout.com
@@ -563,6 +675,8 @@ marketplace.forescout.com
 marketplace.forescout.com
 marketplace.forescout.com
 marketplace.forescout.com
+marketplace.forescout.com
+mdm.forescout.com
 mdm.forescout.com
 mdm.forescout.com
 mdm.forescout.com
@@ -573,6 +687,8 @@ ms15.forescout.com
 ms15.forescout.com
 ms15.forescout.com
 ms15.forescout.com
+ms15.forescout.com
+ns3.forescout.com
 ns3.forescout.com
 ns3.forescout.com
 ns3.forescout.com
@@ -583,6 +699,8 @@ omega.forescout.com
 omega.forescout.com
 omega.forescout.com
 omega.forescout.com
+omega.forescout.com
+otbu-artifactory-stage.fsd.forescout.com
 otbu-artifactory-stage.fsd.forescout.com
 otbu-artifactory-stage.fsd.forescout.com
 otbu-artifactory-stage.fsd.forescout.com
@@ -593,6 +711,8 @@ otbu-artifactory.fsd.forescout.com
 otbu-artifactory.fsd.forescout.com
 otbu-artifactory.fsd.forescout.com
 otbu-artifactory.fsd.forescout.com
+otbu-artifactory.fsd.forescout.com
+otbu-confluence.fsd.forescout.com
 otbu-confluence.fsd.forescout.com
 otbu-confluence.fsd.forescout.com
 otbu-confluence.fsd.forescout.com
@@ -603,6 +723,8 @@ poc-artifactory.fsd.forescout.com
 poc-artifactory.fsd.forescout.com
 poc-artifactory.fsd.forescout.com
 poc-artifactory.fsd.forescout.com
+poc-artifactory.fsd.forescout.com
+poc-buildrepo.fsd.forescout.com
 poc-buildrepo.fsd.forescout.com
 poc-buildrepo.fsd.forescout.com
 poc-buildrepo.fsd.forescout.com
@@ -613,6 +735,8 @@ prep.hub.forescout.com
 prep.hub.forescout.com
 prep.hub.forescout.com
 prep.hub.forescout.com
+prep.hub.forescout.com
+registration.forescout.com
 registration.forescout.com
 registration.forescout.com
 registration.forescout.com
@@ -623,6 +747,8 @@ resources.forescout.com
 resources.forescout.com
 resources.forescout.com
 resources.forescout.com
+resources.forescout.com
+seg.forescout.com
 seg.forescout.com
 seg.forescout.com
 seg.forescout.com
@@ -633,6 +759,8 @@ silentdefense-training.forescout.com
 silentdefense-training.forescout.com
 silentdefense-training.forescout.com
 silentdefense-training.forescout.com
+silentdefense-training.forescout.com
+sjc1-bldreposrv.fsd.forescout.com
 sjc1-bldreposrv.fsd.forescout.com
 sjc1-bldreposrv.fsd.forescout.com
 sjc1-bldreposrv.fsd.forescout.com
@@ -643,6 +771,8 @@ sjc1-pocbldrepo.fsd.forescout.com
 sjc1-pocbldrepo.fsd.forescout.com
 sjc1-pocbldrepo.fsd.forescout.com
 sjc1-pocbldrepo.fsd.forescout.com
+sjc1-pocbldrepo.fsd.forescout.com
+sjc2-bitbucket-mirror.fsd.forescout.com
 sjc2-bitbucket-mirror.fsd.forescout.com
 sjc2-bitbucket-mirror.fsd.forescout.com
 sjc2-bitbucket-mirror.fsd.forescout.com
@@ -653,6 +783,8 @@ sjc2-c-fsem1.fsd.forescout.com
 sjc2-c-fsem1.fsd.forescout.com
 sjc2-c-fsem1.fsd.forescout.com
 sjc2-c-fsem1.fsd.forescout.com
+sjc2-c-fsem1.fsd.forescout.com
+smtp.fsd.forescout.com
 smtp.fsd.forescout.com
 smtp.fsd.forescout.com
 smtp.fsd.forescout.com
@@ -663,6 +795,8 @@ snapshot-stg.forescout.com
 snapshot-stg.forescout.com
 snapshot-stg.forescout.com
 snapshot-stg.forescout.com
+snapshot-stg.forescout.com
+snapshot.forescout.com
 snapshot.forescout.com
 snapshot.forescout.com
 snapshot.forescout.com
@@ -673,6 +807,8 @@ sra-emea1.forescout.com
 sra-emea1.forescout.com
 sra-emea1.forescout.com
 sra-emea1.forescout.com
+sra-emea1.forescout.com
+sra-emea2.forescout.com
 sra-emea2.forescout.com
 sra-emea2.forescout.com
 sra-emea2.forescout.com
@@ -683,6 +819,8 @@ sra-emea3.forescout.com
 sra-emea3.forescout.com
 sra-emea3.forescout.com
 sra-emea3.forescout.com
+sra-emea3.forescout.com
+sra-emea4.forescout.com
 sra-emea4.forescout.com
 sra-emea4.forescout.com
 sra-emea4.forescout.com
@@ -693,6 +831,8 @@ sra-na1.forescout.com
 sra-na1.forescout.com
 sra-na1.forescout.com
 sra-na1.forescout.com
+sra-na1.forescout.com
+sra-na2.forescout.com
 sra-na2.forescout.com
 sra-na2.forescout.com
 sra-na2.forescout.com
@@ -703,6 +843,8 @@ sra-na3.forescout.com
 sra-na3.forescout.com
 sra-na3.forescout.com
 sra-na3.forescout.com
+sra-na3.forescout.com
+sra-na4.forescout.com
 sra-na4.forescout.com
 sra-na4.forescout.com
 sra-na4.forescout.com
@@ -713,6 +855,8 @@ sra-na5.forescout.com
 sra-na5.forescout.com
 sra-na5.forescout.com
 sra-na5.forescout.com
+sra-na5.forescout.com
+sra-na6.forescout.com
 sra-na6.forescout.com
 sra-na6.forescout.com
 sra-na6.forescout.com
@@ -723,6 +867,8 @@ sra.emea1.forescout.com
 sra.emea1.forescout.com
 sra.emea1.forescout.com
 sra.emea1.forescout.com
+sra.emea1.forescout.com
+sra.forescout.com
 sra.forescout.com
 sra.forescout.com
 sra.forescout.com
@@ -733,6 +879,8 @@ sra.na1.forescout.com
 sra.na1.forescout.com
 sra.na1.forescout.com
 sra.na1.forescout.com
+sra.na1.forescout.com
+sra2.forescout.com
 sra2.forescout.com
 sra2.forescout.com
 sra2.forescout.com
@@ -743,6 +891,8 @@ support.forescout.com
 support.forescout.com
 support.forescout.com
 support.forescout.com
+support.forescout.com
+t.forescout.com
 t.forescout.com
 t.forescout.com
 t.forescout.com
@@ -753,6 +903,8 @@ ta-artifactory.fsd.forescout.com
 ta-artifactory.fsd.forescout.com
 ta-artifactory.fsd.forescout.com
 ta-artifactory.fsd.forescout.com
+ta-artifactory.fsd.forescout.com
+ta-bitbucket-stg.fsd.forescout.com
 ta-bitbucket-stg.fsd.forescout.com
 ta-bitbucket-stg.fsd.forescout.com
 ta-bitbucket-stg.fsd.forescout.com
@@ -763,6 +915,8 @@ ta-buildreposrv.fsd.forescout.com
 ta-buildreposrv.fsd.forescout.com
 ta-buildreposrv.fsd.forescout.com
 ta-buildreposrv.fsd.forescout.com
+ta-buildreposrv.fsd.forescout.com
+ta-ct-dmz.fsd.forescout.com
 ta-ct-dmz.fsd.forescout.com
 ta-ct-dmz.fsd.forescout.com
 ta-ct-dmz.fsd.forescout.com
@@ -773,6 +927,8 @@ ta-ex-web.forescout.com
 ta-ex-web.forescout.com
 ta-ex-web.forescout.com
 ta-ex-web.forescout.com
+ta-ex-web.forescout.com
+ta-ex-web.fsd.forescout.com
 ta-ex-web.fsd.forescout.com
 ta-ex-web.fsd.forescout.com
 ta-ex-web.fsd.forescout.com
@@ -783,6 +939,8 @@ ta-fsguest.forescout.com
 ta-fsguest.forescout.com
 ta-fsguest.forescout.com
 ta-fsguest.forescout.com
+ta-fsguest.forescout.com
+ta-mail01.forescout.com
 ta-mail01.forescout.com
 ta-mail01.forescout.com
 ta-mail01.forescout.com
@@ -793,6 +951,8 @@ ta-mail01.fsd.forescout.com
 ta-mail01.fsd.forescout.com
 ta-mail01.fsd.forescout.com
 ta-mail01.fsd.forescout.com
+ta-mail01.fsd.forescout.com
+ta-mailsrv01.forescout.com
 ta-mailsrv01.forescout.com
 ta-mailsrv01.forescout.com
 ta-mailsrv01.forescout.com
@@ -803,6 +963,8 @@ ta-mailsrv01.fsd.forescout.com
 ta-mailsrv01.fsd.forescout.com
 ta-mailsrv01.fsd.forescout.com
 ta-mailsrv01.fsd.forescout.com
+ta-mailsrv01.fsd.forescout.com
+ta-portal.fsd.forescout.com
 ta-portal.fsd.forescout.com
 ta-portal.fsd.forescout.com
 ta-portal.fsd.forescout.com
@@ -813,6 +975,8 @@ ta-sonar-01.fsd.forescout.com
 ta-sonar-01.fsd.forescout.com
 ta-sonar-01.fsd.forescout.com
 ta-sonar-01.fsd.forescout.com
+ta-sonar-01.fsd.forescout.com
+ta-spsrvfe1.fsd.forescout.com
 ta-spsrvfe1.fsd.forescout.com
 ta-spsrvfe1.fsd.forescout.com
 ta-spsrvfe1.fsd.forescout.com
@@ -823,6 +987,8 @@ tab-dev.fsd.forescout.com
 tab-dev.fsd.forescout.com
 tab-dev.fsd.forescout.com
 tab-dev.fsd.forescout.com
+tab-dev.fsd.forescout.com
+tac.forescout.com
 tac.forescout.com
 tac.forescout.com
 tac.forescout.com
@@ -833,6 +999,8 @@ tic.forescout.com
 tic.forescout.com
 tic.forescout.com
 tic.forescout.com
+tic.forescout.com
+tlv-guest.forescout.com
 tlv-guest.forescout.com
 tlv-guest.forescout.com
 tlv-guest.forescout.com
@@ -843,6 +1011,8 @@ tlv1-bbkt-stg.fsd.forescout.com
 tlv1-bbkt-stg.fsd.forescout.com
 tlv1-bbkt-stg.fsd.forescout.com
 tlv1-bbkt-stg.fsd.forescout.com
+tlv1-bbkt-stg.fsd.forescout.com
+tlv1-bitbucket.fsd.forescout.com
 tlv1-bitbucket.fsd.forescout.com
 tlv1-bitbucket.fsd.forescout.com
 tlv1-bitbucket.fsd.forescout.com
@@ -853,6 +1023,8 @@ trainingsurvey.forescout.com
 trainingsurvey.forescout.com
 trainingsurvey.forescout.com
 trainingsurvey.forescout.com
+trainingsurvey.forescout.com
+updates.forescout.com
 updates.forescout.com
 updates.forescout.com
 updates.forescout.com
@@ -863,6 +1035,8 @@ upload-stg.forescout.com
 upload-stg.forescout.com
 upload-stg.forescout.com
 upload-stg.forescout.com
+upload-stg.forescout.com
+upload-test.forescout.com
 upload-test.forescout.com
 upload-test.forescout.com
 upload-test.forescout.com
@@ -873,6 +1047,8 @@ upload.forescout.com
 upload.forescout.com
 upload.forescout.com
 upload.forescout.com
+upload.forescout.com
+www.api-stage-inc.forescout.com
 www.api-stage-inc.forescout.com
 www.api-stage-inc.forescout.com
 www.api-stage-inc.forescout.com
@@ -883,6 +1059,8 @@ www.api.fem.forescout.com
 www.api.fem.forescout.com
 www.api.fem.forescout.com
 www.api.fem.forescout.com
+www.api.fem.forescout.com
+www.as.forescout.com
 www.as.forescout.com
 www.as.forescout.com
 www.as.forescout.com
@@ -893,6 +1071,8 @@ www.auth1x.lab.forescout.com
 www.auth1x.lab.forescout.com
 www.auth1x.lab.forescout.com
 www.auth1x.lab.forescout.com
+www.auth1x.lab.forescout.com
+www.backend-api.device-cloud-dev.fsd.forescout.com
 www.backend-api.device-cloud-dev.fsd.forescout.com
 www.backend-api.device-cloud-dev.fsd.forescout.com
 www.backend-api.device-cloud-dev.fsd.forescout.com
@@ -903,6 +1083,8 @@ www.backend-api.device-cloud-qa.fsd.forescout.com
 www.backend-api.device-cloud-qa.fsd.forescout.com
 www.backend-api.device-cloud-qa.fsd.forescout.com
 www.backend-api.device-cloud-qa.fsd.forescout.com
+www.backend-api.device-cloud-qa.fsd.forescout.com
+www.bizdev.fem.forescout.com
 www.bizdev.fem.forescout.com
 www.bizdev.fem.forescout.com
 www.bizdev.fem.forescout.com
@@ -913,6 +1095,8 @@ www.bmi-us-dev.forescout.com
 www.bmi-us-dev.forescout.com
 www.bmi-us-dev.forescout.com
 www.bmi-us-dev.forescout.com
+www.bmi-us-dev.forescout.com
+www.ca-bitbucket-mirror.fsd.forescout.com
 www.ca-bitbucket-mirror.fsd.forescout.com
 www.ca-bitbucket-mirror.fsd.forescout.com
 www.ca-bitbucket-mirror.fsd.forescout.com
@@ -923,6 +1107,8 @@ www.ca-ci-dev1.fsd.forescout.com
 www.ca-ci-dev1.fsd.forescout.com
 www.ca-ci-dev1.fsd.forescout.com
 www.ca-ci-dev1.fsd.forescout.com
+www.ca-ci-dev1.fsd.forescout.com
+www.ca-ci-stage1.fsd.forescout.com
 www.ca-ci-stage1.fsd.forescout.com
 www.ca-ci-stage1.fsd.forescout.com
 www.ca-ci-stage1.fsd.forescout.com
@@ -933,6 +1119,8 @@ www.ca-gst-appl.fsd.forescout.com
 www.ca-gst-appl.fsd.forescout.com
 www.ca-gst-appl.fsd.forescout.com
 www.ca-gst-appl.fsd.forescout.com
+www.ca-gst-appl.fsd.forescout.com
+www.ca-guest.fsd.forescout.com
 www.ca-guest.fsd.forescout.com
 www.ca-guest.fsd.forescout.com
 www.ca-guest.fsd.forescout.com
@@ -943,6 +1131,8 @@ www.ca-sharepoint1.fsd.forescout.com
 www.ca-sharepoint1.fsd.forescout.com
 www.ca-sharepoint1.fsd.forescout.com
 www.ca-sharepoint1.fsd.forescout.com
+www.ca-sharepoint1.fsd.forescout.com
+www.coe.forescout.com
 www.coe.forescout.com
 www.coe.forescout.com
 www.coe.forescout.com
@@ -953,6 +1143,8 @@ www.colo-ci-prod1.fsd.forescout.com
 www.colo-ci-prod1.fsd.forescout.com
 www.colo-ci-prod1.fsd.forescout.com
 www.colo-ci-prod1.fsd.forescout.com
+www.colo-ci-prod1.fsd.forescout.com
+www.colo.forescout.com
 www.colo.forescout.com
 www.colo.forescout.com
 www.colo.forescout.com
@@ -963,6 +1155,8 @@ www.community.forescout.com
 www.community.forescout.com
 www.community.forescout.com
 www.community.forescout.com
+www.community.forescout.com
+www.compatibility.forescout.com
 www.compatibility.forescout.com
 www.compatibility.forescout.com
 www.compatibility.forescout.com
@@ -973,6 +1167,8 @@ www.connect.forescout.com
 www.connect.forescout.com
 www.connect.forescout.com
 www.connect.forescout.com
+www.connect.forescout.com
+www.dal2-bbkt-stg.fsd.forescout.com
 www.dal2-bbkt-stg.fsd.forescout.com
 www.dal2-bbkt-stg.fsd.forescout.com
 www.dal2-bbkt-stg.fsd.forescout.com
@@ -983,6 +1179,8 @@ www.dal2-bitbucket-mirror.fsd.forescout.com
 www.dal2-bitbucket-mirror.fsd.forescout.com
 www.dal2-bitbucket-mirror.fsd.forescout.com
 www.dal2-bitbucket-mirror.fsd.forescout.com
+www.dal2-bitbucket-mirror.fsd.forescout.com
+www.dal2-c-artf-stg.fsd.forescout.com
 www.dal2-c-artf-stg.fsd.forescout.com
 www.dal2-c-artf-stg.fsd.forescout.com
 www.dal2-c-artf-stg.fsd.forescout.com
@@ -993,6 +1191,8 @@ www.dal2-c-fsct1.fsd.forescout.com
 www.dal2-c-fsct1.fsd.forescout.com
 www.dal2-c-fsct1.fsd.forescout.com
 www.dal2-c-fsct1.fsd.forescout.com
+www.dal2-c-fsct1.fsd.forescout.com
+www.dc-submission.forescout.com
 www.dc-submission.forescout.com
 www.dc-submission.forescout.com
 www.dc-submission.forescout.com
@@ -1003,6 +1203,8 @@ www.docs.forescout.com
 www.docs.forescout.com
 www.docs.forescout.com
 www.docs.forescout.com
+www.docs.forescout.com
+www.ein1-arti-prd.fsd.forescout.com
 www.ein1-arti-prd.fsd.forescout.com
 www.ein1-arti-prd.fsd.forescout.com
 www.ein1-arti-prd.fsd.forescout.com
@@ -1013,6 +1215,8 @@ www.ein1-arti-stg.fsd.forescout.com
 www.ein1-arti-stg.fsd.forescout.com
 www.ein1-arti-stg.fsd.forescout.com
 www.ein1-arti-stg.fsd.forescout.com
+www.ein1-arti-stg.fsd.forescout.com
+www.ein1-c-fsct1.fsd.forescout.com
 www.ein1-c-fsct1.fsd.forescout.com
 www.ein1-c-fsct1.fsd.forescout.com
 www.ein1-c-fsct1.fsd.forescout.com
@@ -1023,6 +1227,8 @@ www.forescout.com
 www.forescout.com
 www.forescout.com
 www.forescout.com
+www.forescout.com
+www.fs-bitbucket.fsd.forescout.com
 www.fs-bitbucket.fsd.forescout.com
 www.fs-bitbucket.fsd.forescout.com
 www.fs-bitbucket.fsd.forescout.com
@@ -1033,6 +1239,8 @@ www.fs-sra.forescout.com
 www.fs-sra.forescout.com
 www.fs-sra.forescout.com
 www.fs-sra.forescout.com
+www.fs-sra.forescout.com
+www.fsbi.fsd.forescout.com
 www.fsbi.fsd.forescout.com
 www.fsbi.fsd.forescout.com
 www.fsbi.fsd.forescout.com
@@ -1043,6 +1251,8 @@ www.fscalab.forescout.com
 www.fscalab.forescout.com
 www.fscalab.forescout.com
 www.fscalab.forescout.com
+www.fscalab.forescout.com
+www.fstxlab.forescout.com
 www.fstxlab.forescout.com
 www.fstxlab.forescout.com
 www.fstxlab.forescout.com
@@ -1053,6 +1263,8 @@ www.gitlab-cloud.fsd.forescout.com
 www.gitlab-cloud.fsd.forescout.com
 www.gitlab-cloud.fsd.forescout.com
 www.gitlab-cloud.fsd.forescout.com
+www.gitlab-cloud.fsd.forescout.com
+www.hq-ap-master.fsd.forescout.com
 www.hq-ap-master.fsd.forescout.com
 www.hq-ap-master.fsd.forescout.com
 www.hq-ap-master.fsd.forescout.com
@@ -1063,6 +1275,8 @@ www.infosec-gitlab.fsd.forescout.com
 www.infosec-gitlab.fsd.forescout.com
 www.infosec-gitlab.fsd.forescout.com
 www.infosec-gitlab.fsd.forescout.com
+www.infosec-gitlab.fsd.forescout.com
+www.jira.fsd.forescout.com
 www.jira.fsd.forescout.com
 www.jira.fsd.forescout.com
 www.jira.fsd.forescout.com
@@ -1073,6 +1287,8 @@ www.jsm-us-prd.forescout.com
 www.jsm-us-prd.forescout.com
 www.jsm-us-prd.forescout.com
 www.jsm-us-prd.forescout.com
+www.jsm-us-prd.forescout.com
+www.jsm-us.forescout.com
 www.jsm-us.forescout.com
 www.jsm-us.forescout.com
 www.jsm-us.forescout.com
@@ -1083,6 +1299,8 @@ www.jss.forescout.com
 www.jss.forescout.com
 www.jss.forescout.com
 www.jss.forescout.com
+www.jss.forescout.com
+www.kace.forescout.com
 www.kace.forescout.com
 www.kace.forescout.com
 www.kace.forescout.com
@@ -1093,6 +1311,8 @@ www.kb.forescout.com
 www.kb.forescout.com
 www.kb.forescout.com
 www.kb.forescout.com
+www.kb.forescout.com
+www.lab-mobileiron-2.qalab.forescout.com
 www.lab-mobileiron-2.qalab.forescout.com
 www.lab-mobileiron-2.qalab.forescout.com
 www.lab-mobileiron-2.qalab.forescout.com
@@ -1103,6 +1323,8 @@ www.license2-stg.forescout.com
 www.license2-stg.forescout.com
 www.license2-stg.forescout.com
 www.license2-stg.forescout.com
+www.license2-stg.forescout.com
+www.license2.forescout.com
 www.license2.forescout.com
 www.license2.forescout.com
 www.license2.forescout.com
@@ -1113,6 +1335,8 @@ www.logstash-props.device-cloud-dev.fsd.forescout.com
 www.logstash-props.device-cloud-dev.fsd.forescout.com
 www.logstash-props.device-cloud-dev.fsd.forescout.com
 www.logstash-props.device-cloud-dev.fsd.forescout.com
+www.logstash-props.device-cloud-dev.fsd.forescout.com
+www.logstash-props.device-cloud-qa.fsd.forescout.com
 www.logstash-props.device-cloud-qa.fsd.forescout.com
 www.logstash-props.device-cloud-qa.fsd.forescout.com
 www.logstash-props.device-cloud-qa.fsd.forescout.com
@@ -1123,6 +1347,8 @@ www.mail-int-ca.forescout.com
 www.mail-int-ca.forescout.com
 www.mail-int-ca.forescout.com
 www.mail-int-ca.forescout.com
+www.mail-int-ca.forescout.com
+www.mail-relay.forescout.com
 www.mail-relay.forescout.com
 www.mail-relay.forescout.com
 www.mail-relay.forescout.com
@@ -1133,6 +1359,8 @@ www.ns3.forescout.com
 www.ns3.forescout.com
 www.ns3.forescout.com
 www.ns3.forescout.com
+www.ns3.forescout.com
+www.omega.forescout.com
 www.omega.forescout.com
 www.omega.forescout.com
 www.omega.forescout.com
@@ -1143,6 +1371,8 @@ www.poc-buildrepo.fsd.forescout.com
 www.poc-buildrepo.fsd.forescout.com
 www.poc-buildrepo.fsd.forescout.com
 www.poc-buildrepo.fsd.forescout.com
+www.poc-buildrepo.fsd.forescout.com
+www.registration.forescout.com
 www.registration.forescout.com
 www.registration.forescout.com
 www.registration.forescout.com
@@ -1153,6 +1383,8 @@ www.seg.forescout.com
 www.seg.forescout.com
 www.seg.forescout.com
 www.seg.forescout.com
+www.seg.forescout.com
+www.silentdefense-training.forescout.com
 www.silentdefense-training.forescout.com
 www.silentdefense-training.forescout.com
 www.silentdefense-training.forescout.com
@@ -1163,6 +1395,8 @@ www.sjc1-bldreposrv.fsd.forescout.com
 www.sjc1-bldreposrv.fsd.forescout.com
 www.sjc1-bldreposrv.fsd.forescout.com
 www.sjc1-bldreposrv.fsd.forescout.com
+www.sjc1-bldreposrv.fsd.forescout.com
+www.sjc1-pocbldrepo.fsd.forescout.com
 www.sjc1-pocbldrepo.fsd.forescout.com
 www.sjc1-pocbldrepo.fsd.forescout.com
 www.sjc1-pocbldrepo.fsd.forescout.com
@@ -1173,6 +1407,8 @@ www.sjc2-c-fsem1.fsd.forescout.com
 www.sjc2-c-fsem1.fsd.forescout.com
 www.sjc2-c-fsem1.fsd.forescout.com
 www.sjc2-c-fsem1.fsd.forescout.com
+www.sjc2-c-fsem1.fsd.forescout.com
+www.snapshot.forescout.com
 www.snapshot.forescout.com
 www.snapshot.forescout.com
 www.snapshot.forescout.com
@@ -1183,6 +1419,8 @@ www.sra.forescout.com
 www.sra.forescout.com
 www.sra.forescout.com
 www.sra.forescout.com
+www.sra.forescout.com
+www.support.forescout.com
 www.support.forescout.com
 www.support.forescout.com
 www.support.forescout.com
@@ -1193,6 +1431,8 @@ www.ta-buildreposrv.fsd.forescout.com
 www.ta-buildreposrv.fsd.forescout.com
 www.ta-buildreposrv.fsd.forescout.com
 www.ta-buildreposrv.fsd.forescout.com
+www.ta-buildreposrv.fsd.forescout.com
+www.ta-ct-dmz.fsd.forescout.com
 www.ta-ct-dmz.fsd.forescout.com
 www.ta-ct-dmz.fsd.forescout.com
 www.ta-ct-dmz.fsd.forescout.com
@@ -1203,6 +1443,8 @@ www.ta-ex-web.forescout.com
 www.ta-ex-web.forescout.com
 www.ta-ex-web.forescout.com
 www.ta-ex-web.forescout.com
+www.ta-ex-web.forescout.com
+www.ta-sonar-01.fsd.forescout.com
 www.ta-sonar-01.fsd.forescout.com
 www.ta-sonar-01.fsd.forescout.com
 www.ta-sonar-01.fsd.forescout.com
@@ -1213,6 +1455,8 @@ www.tab-dev.fsd.forescout.com
 www.tab-dev.fsd.forescout.com
 www.tab-dev.fsd.forescout.com
 www.tab-dev.fsd.forescout.com
+www.tab-dev.fsd.forescout.com
+www.tic.forescout.com
 www.tic.forescout.com
 www.tic.forescout.com
 www.tic.forescout.com
@@ -1223,6 +1467,8 @@ www.tlv-guest.forescout.com
 www.tlv-guest.forescout.com
 www.tlv-guest.forescout.com
 www.tlv-guest.forescout.com
+www.tlv-guest.forescout.com
+www.tlv1-bbkt-stg.fsd.forescout.com
 www.tlv1-bbkt-stg.fsd.forescout.com
 www.tlv1-bbkt-stg.fsd.forescout.com
 www.tlv1-bbkt-stg.fsd.forescout.com
@@ -1233,6 +1479,8 @@ www.trainingsurvey.forescout.com
 www.trainingsurvey.forescout.com
 www.trainingsurvey.forescout.com
 www.trainingsurvey.forescout.com
+www.trainingsurvey.forescout.com
+www.updates.forescout.com
 www.updates.forescout.com
 www.updates.forescout.com
 www.updates.forescout.com
@@ -1243,6 +1491,8 @@ www.upload-stg.forescout.com
 www.upload-stg.forescout.com
 www.upload-stg.forescout.com
 www.upload-stg.forescout.com
+www.upload-stg.forescout.com
+www.upload-test.forescout.com
 www.upload-test.forescout.com
 www.upload-test.forescout.com
 www.upload-test.forescout.com
@@ -1253,6 +1503,8 @@ www.upload.forescout.com
 www.upload.forescout.com
 www.upload.forescout.com
 www.upload.forescout.com
+www.upload.forescout.com
+www.za-us-prd.forescout.com
 www.za-us-prd.forescout.com
 www.za-us-prd.forescout.com
 www.za-us-prd.forescout.com
@@ -1263,6 +1515,8 @@ www.za-us.forescout.com
 www.za-us.forescout.com
 www.za-us.forescout.com
 www.za-us.forescout.com
+www.za-us.forescout.com
+www2.forescout.com
 www2.forescout.com
 www2.forescout.com
 www2.forescout.com
@@ -1273,11 +1527,14 @@ za-us-prd.forescout.com
 za-us-prd.forescout.com
 za-us-prd.forescout.com
 za-us-prd.forescout.com
+za-us-prd.forescout.com
 za-us.forescout.com
 za-us.forescout.com
 za-us.forescout.com
 za-us.forescout.com
 za-us.forescout.com
+za-us.forescout.com
+zh.forescout.com
 zh.forescout.com
 zh.forescout.com
 zh.forescout.com

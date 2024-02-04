@@ -7,9 +7,6 @@ http://api.3.basecamp.com
 http://asset1.basecamp.com
 http://asset1.basecamp.com:8080
 http://asset1.basecamp.com:8443
-http://basecamp.com
-http://basecamp.com:8080
-http://basecamp.com:8443
 http://beta.3.basecamp.com
 http://beta.basecamp.com
 http://beta1.3.basecamp.com
@@ -36,6 +33,7 @@ http://preview.3.basecamp.com:8080
 http://preview.3.basecamp.com:8443
 http://progress.basecamp.com
 http://progress.basecamp.com:8080
+http://progress.basecamp.com:8443
 http://public.3.basecamp.com
 http://public.3.basecamp.com:8080
 http://public.3.basecamp.com:8443
@@ -71,7 +69,6 @@ https://3.basecamp.com
 https://akamai.basecamp.com
 https://akamai.basecamp.com:8443
 https://asset1.basecamp.com
-https://basecamp.com
 https://beta.basecamp.com
 https://beta1.3.basecamp.com
 https://beta1.basecamp.com
@@ -84,7 +81,6 @@ https://help.basecamp.com:8443
 https://marketing-staging.basecamp.com
 https://preview.3.basecamp.com
 https://progress.basecamp.com
-https://progress.basecamp.com:8443
 https://public.3.basecamp.com
 https://public.basecamp.com
 https://rollout-assets.basecamp.com

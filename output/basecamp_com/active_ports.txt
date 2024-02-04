@@ -12,10 +12,6 @@ asset1.basecamp.com:443
 asset1.basecamp.com:80
 asset1.basecamp.com:8080
 asset1.basecamp.com:8443
-basecamp.com:443
-basecamp.com:80
-basecamp.com:8080
-basecamp.com:8443
 beta.3.basecamp.com:443
 beta.3.basecamp.com:80
 beta.basecamp.com:443

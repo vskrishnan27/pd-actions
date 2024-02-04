@@ -99,8 +99,6 @@ sparklab.indrive.com:443
 sparklab.indrive.com:80
 supernovas.indrive.com:443
 supernovas.indrive.com:80
-updrive.indrive.com:443
-updrive.indrive.com:80
 url-checker.indrive.com:443
 url-checker.indrive.com:80
 us.indrive.com:443

@@ -13,7 +13,6 @@ http://devhk-static.bitmex.com
 http://devhk.bitmex.com
 http://devhk.bitmex.com:8080
 http://documents.bitmex.com
-http://documents.bitmex.com:443
 http://documents.bitmex.com:8080
 http://documents.devhk.bitmex.com
 http://documents.devhk.bitmex.com:8080
@@ -26,7 +25,6 @@ http://eu.onfido.bitmex.com:8080
 http://eu.onfido.devhk.bitmex.com
 http://eu.onfido.devhk.bitmex.com:8080
 http://eu.onfido.testnet.bitmex.com
-http://eu.onfido.testnet.bitmex.com:443
 http://eu.onfido.testnet.bitmex.com:8080
 http://l.m.bitmex.com
 http://l.m.testnet.bitmex.com
@@ -34,8 +32,6 @@ http://lib.academy.bitmex.com
 http://lib.academy.bitmex.com:8080
 http://onfido.bitmex.com
 http://onfido.bitmex.com:8080
-http://onfido.devhk.bitmex.com
-http://onfido.devhk.bitmex.com:8080
 http://onfido.devsf3.bitmex.com
 http://onfido.devsf3.bitmex.com:8080
 http://onfido.testnet.bitmex.com
@@ -100,6 +96,7 @@ https://cn.research.bitmex.com
 https://devhk-static.bitmex.com
 https://devhk.bitmex.com
 https://devhk.bitmex.com:8443
+https://documents.bitmex.com
 https://documents.bitmex.com:8443
 https://documents.devhk.bitmex.com
 https://documents.devhk.bitmex.com:8443
@@ -113,6 +110,7 @@ https://eu.onfido.bitmex.com
 https://eu.onfido.bitmex.com:8443
 https://eu.onfido.devhk.bitmex.com
 https://eu.onfido.devhk.bitmex.com:8443
+https://eu.onfido.testnet.bitmex.com
 https://eu.onfido.testnet.bitmex.com:8443
 https://fbnotify.dev.devhk.services.bitmex.com
 https://fbnotify.devhk.services.bitmex.com
@@ -124,8 +122,6 @@ https://lib.academy.bitmex.com
 https://lib.academy.bitmex.com:8443
 https://onfido.bitmex.com
 https://onfido.bitmex.com:8443
-https://onfido.devhk.bitmex.com
-https://onfido.devhk.bitmex.com:8443
 https://onfido.devsf3.bitmex.com
 https://onfido.devsf3.bitmex.com:8443
 https://onfido.testnet.bitmex.com

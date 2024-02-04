@@ -46,6 +46,7 @@ http://chibirobo-ziplash.nintendo.com
 http://click.ccg.nintendo.com
 http://cloud.ccg.nintendo.com
 http://club-catalog.nintendo.com
+http://club.nintendo.com
 http://club2.nintendo.com
 http://code.nintendo.com
 http://codenamesteam.nintendo.com
@@ -102,6 +103,7 @@ http://ec.paymentweb.nintendo.com
 http://ed193d809cb211e5aa6dac5221900864-sb-dev-studio.mii.nintendo.com
 http://en-americas-support.nintendo.com
 http://es-americas-support.nintendo.com
+http://es.nintendo.com
 http://events.nintendo.com
 http://everoasis.nintendo.com
 http://experience.nintendo.com
@@ -109,6 +111,7 @@ http://fantasylife.nintendo.com
 http://fatalframe.nintendo.com
 http://ffcc.nintendo.com
 http://ffdos.nintendo.com
+http://ffiv.nintendo.com
 http://ffta.nintendo.com
 http://ffv.nintendo.com
 http://ffvi.nintendo.com
@@ -130,6 +133,7 @@ http://forums.nintendo.com
 http://fossilfighters.nintendo.com
 http://fossilfightersfrontier.nintendo.com
 http://fr-americas-support.nintendo.com
+http://freakyforms.nintendo.com
 http://gameandwario.nintendo.com
 http://gate-prime.nintendo.com
 http://gate-secure.nintendo.com
@@ -161,13 +165,13 @@ http://jd1-production-store-jp.nintendo.com:8080
 http://jd1.dev-argta.nintendo.com
 http://joyconrepair-tst.nintendo.com
 http://joyconrepair.nintendo.com
-http://ketzalscorridors.nintendo.com
 http://kidicarus.nintendo.com
 http://kidicarusuprising.nintendo.com
 http://labo.nintendo.com
 http://laytonvsphoenixwright.nintendo.com
 http://lbx.nintendo.com
 http://legocity3ds.nintendo.com
+http://legocityu.nintendo.com
 http://letssupermario.nintendo.com
 http://lgs-dev2.nintendo.com
 http://lgs-dev3.nintendo.com
@@ -185,12 +189,10 @@ http://lounge.nintendo.com
 http://louvreguide.nintendo.com
 http://lsapi.nintendo.com
 http://mario.nintendo.com
-http://mario25.nintendo.com
 http://marioanddk.nintendo.com
 http://marioandluigibowsersinsidestory.nintendo.com
 http://marioandluigidreamteam.nintendo.com
 http://marioandluigipaperjam.nintendo.com
-http://marioandluigisuperstarsaga.nintendo.com
 http://mariokart.nintendo.com
 http://mariokart7.nintendo.com
 http://mariokart8deluxe.nintendo.com
@@ -198,7 +200,6 @@ http://mariomaker.nintendo.com
 http://marioparty10.nintendo.com
 http://marioparty100.nintendo.com
 http://mariopartyislandtour.nintendo.com
-http://mariopartystarrush.nintendo.com
 http://mariopowertennis.nintendo.com
 http://mariosportssuperstars.nintendo.com
 http://mariotennis.nintendo.com
@@ -228,11 +229,13 @@ http://nerd.nintendo.com
 http://nesc.nintendo.com
 http://nesremix.nintendo.com
 http://nesremix2.nintendo.com
+http://newsupermariobros2.nintendo.com
 http://newsupermariobrosds.nintendo.com
 http://newsupermariobrosu.nintendo.com
 http://ninjagaiden3.nintendo.com
 http://nintendo-switch-2022.nintendo.com
 http://nintendogspluscats.nintendo.com
+http://nintendoland.nintendo.com
 http://nintendolive2022.dev.events.nintendo.com
 http://nintendolive2022.events.nintendo.com
 http://nintendolive2022.qa.events.nintendo.com
@@ -247,7 +250,9 @@ http://nstore.noa.nintendo.com
 http://nwc.nintendo.com
 http://octopathtraveler.nintendo.com
 http://ope-api.events.nintendo.com
+http://ope.dev.events.nintendo.com
 http://ope.events.nintendo.com
+http://ope.qa.events.nintendo.com
 http://p.nintendo.com
 http://pages.ccg.nintendo.com
 http://parentalcontrols.nintendo.com
@@ -255,6 +260,7 @@ http://partners-uat.nintendo.com
 http://partners.nintendo.com
 http://patents.nintendo.com
 http://perf.dev-argta-2.nintendo.com
+http://photodojo.nintendo.com
 http://photoshowcase.nintendo.com
 http://picross3d.nintendo.com
 http://pikmin2.nintendo.com
@@ -336,9 +342,11 @@ http://static.paymentweb.nintendo.com
 http://steeldiver.nintendo.com
 http://store-jp.nintendo.com
 http://store-jp.nintendo.com:8443
+http://store.nintendo.com
 http://storemedia.nintendo.com
 http://stretchmo.nintendo.com
 http://stylesavvy.nintendo.com
+http://stylesavvy2.nintendo.com
 http://supermario3dland.nintendo.com
 http://supermariobroswonder.nintendo.com
 http://supermariomaker2.nintendo.com
@@ -646,6 +654,7 @@ https://fireemblemfates.nintendo.com
 https://fireemblemwarriors.nintendo.com
 https://flingsmash.nintendo.com
 https://flipnotestudio.nintendo.com
+https://flipnotestudio3d.nintendo.com
 https://forms-test.nintendo.com
 https://forms.nintendo.com
 https://fortunestreet.nintendo.com
@@ -705,7 +714,6 @@ https://kanat.ws.sp1.paymentweb.nintendo.com
 https://kanat.ws.td1.paymentweb.nintendo.com
 https://kanat.ws.test1.paymentweb.nintendo.com
 https://kanat.ws.test2.paymentweb.nintendo.com
-https://ketzalscorridors.nintendo.com
 https://kidicarus.nintendo.com
 https://kidicarusuprising.nintendo.com
 https://labo.nintendo.com
@@ -798,7 +806,9 @@ https://ntd-gp.ntd.nintendo.com
 https://nwc.nintendo.com
 https://octopathtraveler.nintendo.com
 https://ope-api.events.nintendo.com
+https://ope.dev.events.nintendo.com
 https://ope.events.nintendo.com
+https://ope.qa.events.nintendo.com
 https://orders.activities.prod.gbo.noa.nintendo.com
 https://p.nintendo.com
 https://pages.ccg.nintendo.com
@@ -836,11 +846,11 @@ https://prod-store.nintendo.com
 https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
-https://ptdairwatch.noa.nintendo.com:2121
-https://ptdairwatch.noa.nintendo.com:2717
-https://ptdairwatch.noa.nintendo.com:543
-https://ptdairwatch.noa.nintendo.com:587
-https://ptdairwatch.noa.nintendo.com:5900
+https://ptdairwatch.noa.nintendo.com:10000
+https://ptdairwatch.noa.nintendo.com:1433
+https://ptdairwatch.noa.nintendo.com:3128
+https://ptdairwatch.noa.nintendo.com:3986
+https://ptdairwatch.noa.nintendo.com:8080
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com
@@ -911,6 +921,7 @@ https://starlight.nintendo.com
 https://static.paymentweb.nintendo.com
 https://steeldiver.nintendo.com
 https://store-jp.nintendo.com
+https://store.nintendo.com
 https://storemedia.nintendo.com
 https://stretchmo.nintendo.com
 https://stylesavvy.nintendo.com

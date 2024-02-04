@@ -205,8 +205,6 @@ direct-queue.playstation.com:443
 direct-queue.playstation.com:80
 direct.e1-np.playstation.com:443
 direct.e1-np.playstation.com:80
-direct.playstation.com:443
-direct.playstation.com:80
 dms.api.playstation.com:443
 dms.api.playstation.com:80
 docportal.playstation.com:443

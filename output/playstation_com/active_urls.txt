@@ -84,6 +84,7 @@ http://core-entitlements.q1-pqa.api.playstation.com
 http://core-entitlements.q1-spint.api.playstation.com
 http://cxqam.ps-support.playstation.com
 http://cxuat.ps-support.playstation.com
+http://d-images-dev.playstation.com
 http://d-images-qa.playstation.com
 http://d-images-stage.playstation.com
 http://d-images.playstation.com
@@ -97,7 +98,6 @@ http://dev.wrapup.playstation.com
 http://direct-queue-stage.playstation.com
 http://direct-queue.playstation.com
 http://direct.e1-np.playstation.com
-http://direct.playstation.com
 http://dms.api.playstation.com
 http://docportal.playstation.com
 http://docs.playstation.com
@@ -304,6 +304,7 @@ https://blog.ru.playstation.com
 https://blog.us.playstation.com
 https://blog.zh-hant.playstation.com
 https://bps.playstation.com
+https://br.playstation.com
 https://bridges.playstation.com
 https://ca.playstation.com
 https://camera-adaptor.support.playstation.com
@@ -382,7 +383,6 @@ https://dev.wrapup.playstation.com
 https://direct-queue-stage.playstation.com
 https://direct-queue.playstation.com
 https://direct.e1-np.playstation.com
-https://direct.playstation.com
 https://dms.api.playstation.com
 https://docportal.playstation.com
 https://docs.playstation.com

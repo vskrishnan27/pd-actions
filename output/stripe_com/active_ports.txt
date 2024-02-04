@@ -161,6 +161,8 @@ global.stripe.com:443
 global.stripe.com:80
 groups.stripe.com:443
 groups.stripe.com:80
+hooks.stripe.com:443
+hooks.stripe.com:80
 hubble.corp.stripe.com:443
 identity-hooks.stripe.com:443
 identity-hooks.stripe.com:80
@@ -178,6 +180,7 @@ ip-54-187-119-242.stripe.com:443
 ip-54-187-119-242.stripe.com:80
 ip-54-187-159-182.stripe.com:443
 ip-54-187-159-182.stripe.com:80
+ipaddr-3ds.stripe.com:443
 issuing-hooks-public.stripe.com:443
 issuing-key.stripe.com:443
 issuing-key.stripe.com:80
@@ -264,8 +267,6 @@ qa-support-conversations.stripe.com:80
 qa.corp.stripe.com:443
 qr.stripe.com:443
 qr.stripe.com:80
-r.stripe.com:443
-r.stripe.com:80
 sales-live-chat.stripe.com:443
 sales-live-chat.stripe.com:80
 sessions.stripe.com:443

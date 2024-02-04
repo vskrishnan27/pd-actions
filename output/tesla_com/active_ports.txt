@@ -216,8 +216,6 @@ eaa-setup.tesla.com:443
 eaa-setup.tesla.com:80
 edr.tesla.com:443
 edr.tesla.com:80
-ehs.tesla.com:443
-ehs.tesla.com:80
 email1.tesla.com:25
 emails.tesla.com:25
 employeefeedback.tesla.com:443
@@ -315,6 +313,8 @@ mfa-stage.tesla.com:443
 mfa-stage.tesla.com:80
 mfa.tesla.com:443
 mfa.tesla.com:80
+mfs-supplier-uat.tesla.com:443
+mfs-supplier-uat.tesla.com:80
 mfs-supplier.tesla.com:443
 mfs-supplier.tesla.com:80
 mobile-links-cdn.eng.vn.cloud.tesla.com:443
@@ -326,8 +326,6 @@ mobile-links.prd.vn.cloud.tesla.com:443
 mobile-ops-links.prd.vn.cloud.tesla.com:443
 mobile.tesla.com:443
 mobile.tesla.com:80
-monitoring.tesla.com:443
-monitoring.tesla.com:80
 myapps.tesla.com:443
 myapps.tesla.com:80
 npuv-prd.usw2.vn.cloud.tesla.com:443
@@ -345,10 +343,9 @@ pages.email.tesla.com:443
 pages.email.tesla.com:80
 pages.emails.tesla.com:443
 pages.emails.tesla.com:80
+partnerleadsharing.tesla.com:80
 partners.tesla.com:443
 partners.tesla.com:80
-pay.tesla.com:443
-pay.tesla.com:80
 payment-public-stg.tesla.com:443
 pm-bounces.tesla.com:80
 powerhub.energy.tesla.com:443

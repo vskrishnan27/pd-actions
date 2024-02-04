@@ -1,3 +1,6 @@
+nintendo.com
+nintendolife.com
+devkit-ecomm.noa.nintendo.com
 shopify.com
 iovlabs.org
 chain.link
@@ -49,7 +52,6 @@ tesla.com
 recordedfuture.com
 indrive.com
 judge.me
-reddit.com
 chime.com
 launchdarkly.com
 enjin.io

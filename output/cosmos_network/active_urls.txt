@@ -122,7 +122,6 @@ http://cli-testnet-eu.cosmos.network:8080
 http://cli-testnet-eu.cosmos.network:8443
 http://cli-testnet-jpn.cosmos.network
 http://cli-testnet-jpn.cosmos.network:8080
-http://cli-testnet-jpn.cosmos.network:8443
 http://cli-testnet-sgp.cosmos.network
 http://cli-testnet-sgp.cosmos.network:8080
 http://cli-testnet-sgp.cosmos.network:8443
@@ -338,9 +337,6 @@ http://securerest.bigbang.cosmos.network:8443
 http://shop.cosmos.network
 http://shop.cosmos.network:8080
 http://signups.cosmos.network
-http://simulations.cosmos.network
-http://simulations.cosmos.network:8080
-http://simulations.cosmos.network:8443
 http://slack.cosmos.network
 http://slack.cosmos.network:8080
 http://slack.cosmos.network:8443
@@ -385,6 +381,7 @@ https://blogrss.cosmos.network
 https://cips.cosmos.network
 https://cli-testnet-eu.cosmos.network
 https://cli-testnet-jpn.cosmos.network
+https://cli-testnet-jpn.cosmos.network:8443
 https://cli-testnet-sgp.cosmos.network
 https://cli-testnet-us.cosmos.network
 https://contribute.cosmos.network
@@ -422,7 +419,6 @@ https://rpc-testnet-us.cosmos.network
 https://shop.cosmos.network
 https://shop.cosmos.network:8443
 https://signups.cosmos.network
-https://simulations.cosmos.network
 https://slack.cosmos.network
 https://stargate.cosmos.network
 https://store.cosmos.network

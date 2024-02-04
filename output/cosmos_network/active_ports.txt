@@ -388,10 +388,6 @@ shop.cosmos.network:8080
 shop.cosmos.network:8443
 signups.cosmos.network:443
 signups.cosmos.network:80
-simulations.cosmos.network:443
-simulations.cosmos.network:80
-simulations.cosmos.network:8080
-simulations.cosmos.network:8443
 slack.cosmos.network:443
 slack.cosmos.network:80
 slack.cosmos.network:8080

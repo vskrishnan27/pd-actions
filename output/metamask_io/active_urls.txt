@@ -52,7 +52,6 @@ http://bridge.dev-api.cx.metamask.io:8080
 http://bridge.dev-api.cx.metamask.io:8443
 http://bridge.uat-api.cx.metamask.io
 http://bridge.uat-api.cx.metamask.io:8080
-http://bridge.uat-api.cx.metamask.io:8443
 http://community.metamask.io
 http://dev-static.cx.metamask.io
 http://dev.data.snaps.metamask.io
@@ -98,6 +97,7 @@ http://labels-us-east-2.dev-api.cx.metamask.io:8080
 http://labels-us-east-2.dev-api.cx.metamask.io:8443
 http://labels.dev-api.cx.metamask.io
 http://labels.dev-api.cx.metamask.io:8080
+http://labels.dev-api.cx.metamask.io:8443
 http://learn.metamask.io
 http://metabase.activity.metamask.io
 http://metabase.activity.metamask.io:8080
@@ -170,6 +170,7 @@ http://portfolio-us-east-2.dev-api.cx.metamask.io:8080
 http://portfolio-us-east-2.dev-api.cx.metamask.io:8443
 http://portfolio-us-east-2.uat-api.cx.metamask.io
 http://portfolio-us-east-2.uat-api.cx.metamask.io:8080
+http://portfolio-us-east-2.uat-api.cx.metamask.io:8443
 http://portfolio.api.cx.metamask.io
 http://portfolio.api.cx.metamask.io:8080
 http://portfolio.api.cx.metamask.io:8443
@@ -179,7 +180,6 @@ http://portfolio.dev-api.cx.metamask.io:8443
 http://portfolio.metamask.io
 http://portfolio.uat-api.cx.metamask.io
 http://portfolio.uat-api.cx.metamask.io:8080
-http://portfolio.uat-api.cx.metamask.io:8443
 http://price-us-east-2.api.cx.metamask.io
 http://price-us-east-2.api.cx.metamask.io:8080
 http://price-us-east-2.api.cx.metamask.io:8443
@@ -233,7 +233,6 @@ http://proxy.dev-api.cx.metamask.io:8080
 http://proxy.dev-api.cx.metamask.io:8443
 http://proxy.uat-api.cx.metamask.io
 http://proxy.uat-api.cx.metamask.io:8080
-http://proxy.uat-api.cx.metamask.io:8443
 http://push-us-east-2.api.cx.metamask.io
 http://push-us-east-2.api.cx.metamask.io:8080
 http://push-us-east-2.api.cx.metamask.io:8443
@@ -305,6 +304,7 @@ http://trigger-us-east-2.dev-api.cx.metamask.io:8080
 http://trigger-us-east-2.dev-api.cx.metamask.io:8443
 http://trigger-us-east-2.uat-api.cx.metamask.io
 http://trigger-us-east-2.uat-api.cx.metamask.io:8080
+http://trigger-us-east-2.uat-api.cx.metamask.io:8443
 http://trigger.api.cx.metamask.io
 http://trigger.api.cx.metamask.io:8080
 http://trigger.api.cx.metamask.io:8443
@@ -313,7 +313,6 @@ http://trigger.dev-api.cx.metamask.io:8080
 http://trigger.dev-api.cx.metamask.io:8443
 http://trigger.uat-api.cx.metamask.io
 http://trigger.uat-api.cx.metamask.io:8080
-http://trigger.uat-api.cx.metamask.io:8443
 http://uat-static.cx.metamask.io
 http://user-storage-us-east-2.api.cx.metamask.io
 http://user-storage-us-east-2.api.cx.metamask.io:8080
@@ -363,6 +362,7 @@ https://bridge-us-east-2.uat-api.cx.metamask.io
 https://bridge.api.cx.metamask.io
 https://bridge.dev-api.cx.metamask.io
 https://bridge.uat-api.cx.metamask.io
+https://bridge.uat-api.cx.metamask.io:8443
 https://community.metamask.io
 https://dev-static.cx.metamask.io
 https://dev.data.snaps.metamask.io
@@ -387,7 +387,6 @@ https://get.metamask.io
 https://home.metamask.io
 https://labels-us-east-2.dev-api.cx.metamask.io
 https://labels.dev-api.cx.metamask.io
-https://labels.dev-api.cx.metamask.io:8443
 https://learn.metamask.io
 https://metabase.activity.metamask.io
 https://metamask.io
@@ -415,11 +414,11 @@ https://phishing-detection.uat-api.cx.metamask.io
 https://portfolio-us-east-2.api.cx.metamask.io
 https://portfolio-us-east-2.dev-api.cx.metamask.io
 https://portfolio-us-east-2.uat-api.cx.metamask.io
-https://portfolio-us-east-2.uat-api.cx.metamask.io:8443
 https://portfolio.api.cx.metamask.io
 https://portfolio.dev-api.cx.metamask.io
 https://portfolio.metamask.io
 https://portfolio.uat-api.cx.metamask.io
+https://portfolio.uat-api.cx.metamask.io:8443
 https://price-us-east-2.api.cx.metamask.io
 https://price-us-east-2.dev-api.cx.metamask.io
 https://price-us-east-2.uat-api.cx.metamask.io
@@ -438,6 +437,7 @@ https://proxy-us-east-2.uat-api.cx.metamask.io
 https://proxy.api.cx.metamask.io
 https://proxy.dev-api.cx.metamask.io
 https://proxy.uat-api.cx.metamask.io
+https://proxy.uat-api.cx.metamask.io:8443
 https://push-us-east-2.api.cx.metamask.io
 https://push-us-east-2.dev-api.cx.metamask.io
 https://push-us-east-2.uat-api.cx.metamask.io
@@ -466,10 +466,10 @@ https://transaction.uat-api.cx.metamask.io
 https://trigger-us-east-2.api.cx.metamask.io
 https://trigger-us-east-2.dev-api.cx.metamask.io
 https://trigger-us-east-2.uat-api.cx.metamask.io
-https://trigger-us-east-2.uat-api.cx.metamask.io:8443
 https://trigger.api.cx.metamask.io
 https://trigger.dev-api.cx.metamask.io
 https://trigger.uat-api.cx.metamask.io
+https://trigger.uat-api.cx.metamask.io:8443
 https://uat-static.cx.metamask.io
 https://user-storage-us-east-2.api.cx.metamask.io
 https://user-storage-us-east-2.dev-api.cx.metamask.io

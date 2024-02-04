@@ -15,11 +15,12 @@ http://support.yuga.com:8443
 http://survey.yuga.com
 http://survey.yuga.com:8080
 http://warning.yuga.com
-http://warning.yuga.com:443
 http://warning.yuga.com:8080
 http://warning.yuga.com:8443
 http://www.yuga.com
 http://www.yuga.com:8080
+http://yuga.com
+http://yuga.com:8080
 https://assets.yuga.com
 https://assets.yuga.com:8443
 https://legal.yuga.com
@@ -32,5 +33,8 @@ https://privacy.yuga.com:8443
 https://support.yuga.com
 https://survey.yuga.com
 https://survey.yuga.com:8443
+https://warning.yuga.com
 https://www.yuga.com
 https://www.yuga.com:8443
+https://yuga.com
+https://yuga.com:8443

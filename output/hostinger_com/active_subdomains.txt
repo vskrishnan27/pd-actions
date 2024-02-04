@@ -62,6 +62,7 @@ rdns1.hostinger.com
 rdns2.hostinger.com
 rest-hosting.hostinger.com
 roadmap.hostinger.com
+sahkan.hostinger.com
 sg-files.hostinger.com
 smtp-msa.hostinger.com
 smtp.hostinger.com

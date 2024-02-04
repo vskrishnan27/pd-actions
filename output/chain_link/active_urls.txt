@@ -37,6 +37,7 @@ http://faucet.chain.link:8443
 http://faucets-ui-preview.chain.link
 http://faucets-ui-preview.chain.link:8080
 http://faucets.chain.link
+http://faucets.chain.link:8080
 http://faucets.chain.link:8443
 http://fms-rpc.chain.link
 http://fms-rpc.chain.link:443
@@ -67,8 +68,8 @@ http://mercury-arbitrum-testnet.chain.link
 http://mercury-arbitrum-testnet.chain.link:8443
 http://mercury-arbitrum-testnet.stage.chain.link
 http://mercury-arbitrum-testnet.stage.chain.link:8443
-http://mercury-srv.chain.link
-http://mercury-srv.chain.link:8080
+http://on.chain.link
+http://on.chain.link:8080
 http://pages.chain.link
 http://pages.chain.link:8080
 http://pegswap.chain.link
@@ -146,8 +147,8 @@ https://lambda.chain.link
 https://mercury-arbitrum-mainnet.chain.link
 https://mercury-arbitrum-testnet.chain.link
 https://mercury-arbitrum-testnet.stage.chain.link
-https://mercury-srv.chain.link
-https://mercury-srv.chain.link:8443
+https://on.chain.link
+https://on.chain.link:8443
 https://pages.chain.link
 https://pages.chain.link:8443
 https://pegswap.chain.link

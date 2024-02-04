@@ -1,4 +1,3 @@
-playcanvas.com
 bitstrips.com
 spectacles.com
 playcanv.as
@@ -73,3 +72,4 @@ fireblocks.com
 shopify.com
 iovlabs.org
 chain.link
+playcanvas.com

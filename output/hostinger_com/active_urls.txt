@@ -44,8 +44,6 @@ http://flockcontacts.hostinger.com
 http://flockmail.hostinger.com
 http://help.hostinger.com
 http://help.hostinger.com:8080
-http://hostinger.com
-http://hostinger.com:8080
 http://hpanel.hostinger.com
 http://hpanel.hostinger.com:8443
 http://kontroll.hostinger.com
@@ -65,7 +63,6 @@ http://rest-hosting.hostinger.com
 http://rest-hosting.hostinger.com:8443
 http://roadmap.hostinger.com
 http://roadmap.hostinger.com:8443
-http://sahkan.hostinger.com
 http://sql111.hostinger.com
 http://sql111.hostinger.com:443
 http://sso.hostinger.com
@@ -153,8 +150,6 @@ https://flockcontacts.hostinger.com
 https://flockmail.hostinger.com
 https://help.hostinger.com
 https://help.hostinger.com:8443
-https://hostinger.com
-https://hostinger.com:8443
 https://hpanel.hostinger.com
 https://kontroll.hostinger.com
 https://mail.hostinger.com
@@ -169,7 +164,6 @@ https://rdns1.hostinger.com
 https://rdns1.hostinger.com:8443
 https://rest-hosting.hostinger.com
 https://roadmap.hostinger.com
-https://sahkan.hostinger.com
 https://sql111.hostinger.com:8443
 https://sso.hostinger.com
 https://statuspage.hostinger.com

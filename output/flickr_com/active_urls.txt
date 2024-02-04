@@ -76,6 +76,7 @@ http://photos8.flickr.com
 http://photos9.flickr.com
 http://real-embedr.flickr.com
 http://stage.guce.flickr.com
+http://static.flickr.com
 http://t.flickr.com
 http://test-flickr.flickr.com
 http://test-identity-api.flickr.com
@@ -162,6 +163,7 @@ https://photos8.flickr.com
 https://photos9.flickr.com
 https://real-embedr.flickr.com
 https://stage.guce.flickr.com
+https://static.flickr.com
 https://t.flickr.com
 https://test-flickr.flickr.com
 https://test-identity-api.flickr.com

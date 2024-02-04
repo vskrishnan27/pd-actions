@@ -33,6 +33,7 @@ http://email.gh-mail.chime.com:8080
 http://email.gh-mail.chime.com:8443
 http://email.gh-mail.ext.chime.com
 http://email.gh-mail.ext.chime.com:8080
+http://email.gh-mail.ext.chime.com:8443
 http://email.mg.chime.com
 http://email.mg.chime.com:8080
 http://email.mg.chime.com:8443
@@ -98,6 +99,7 @@ http://monocle-qa.chime.com:8080
 http://monocle-qa.chime.com:8443
 http://monocle.chime.com
 http://monocle.chime.com:8080
+http://monocle.chime.com:8443
 http://penny-dev1.chime.com
 http://penny-dev1.chime.com:8080
 http://penny-dev1.chime.com:8443
@@ -153,7 +155,6 @@ https://email.ethnio.chime.com
 https://email.ethnio.chime.com:80
 https://email.gh-mail.chime.com
 https://email.gh-mail.ext.chime.com
-https://email.gh-mail.ext.chime.com:8443
 https://email.mg.chime.com
 https://email.talent.chime.com
 https://email.talent.chime.com:80
@@ -182,7 +183,6 @@ https://mobile-state.chime.com
 https://monocle-dev1.chime.com
 https://monocle-qa.chime.com
 https://monocle.chime.com
-https://monocle.chime.com:8443
 https://nd.chime.com
 https://penny-dev1.chime.com
 https://penny-qa.chime.com

@@ -98,11 +98,11 @@ http://labels-us-east-2.dev-api.cx.metamask.io:8080
 http://labels-us-east-2.dev-api.cx.metamask.io:8443
 http://labels.dev-api.cx.metamask.io
 http://labels.dev-api.cx.metamask.io:8080
-http://labels.dev-api.cx.metamask.io:8443
 http://learn.metamask.io
 http://metabase.activity.metamask.io
 http://metabase.activity.metamask.io:8080
 http://metabase.activity.metamask.io:8443
+http://metamask.io
 http://mobile.metamask.io
 http://mobile.metamask.io:8080
 http://my-sample-api2-us-east-2.dev-api.cx.metamask.io
@@ -170,7 +170,6 @@ http://portfolio-us-east-2.dev-api.cx.metamask.io:8080
 http://portfolio-us-east-2.dev-api.cx.metamask.io:8443
 http://portfolio-us-east-2.uat-api.cx.metamask.io
 http://portfolio-us-east-2.uat-api.cx.metamask.io:8080
-http://portfolio-us-east-2.uat-api.cx.metamask.io:8443
 http://portfolio.api.cx.metamask.io
 http://portfolio.api.cx.metamask.io:8080
 http://portfolio.api.cx.metamask.io:8443
@@ -219,6 +218,7 @@ http://primitives.uat-api.cx.metamask.io:8080
 http://primitives.uat-api.cx.metamask.io:8443
 http://proxy-us-east-2.api.cx.metamask.io
 http://proxy-us-east-2.api.cx.metamask.io:8080
+http://proxy-us-east-2.api.cx.metamask.io:8443
 http://proxy-us-east-2.dev-api.cx.metamask.io
 http://proxy-us-east-2.dev-api.cx.metamask.io:8080
 http://proxy-us-east-2.dev-api.cx.metamask.io:8443
@@ -227,6 +227,7 @@ http://proxy-us-east-2.uat-api.cx.metamask.io:8080
 http://proxy-us-east-2.uat-api.cx.metamask.io:8443
 http://proxy.api.cx.metamask.io
 http://proxy.api.cx.metamask.io:8080
+http://proxy.api.cx.metamask.io:8443
 http://proxy.dev-api.cx.metamask.io
 http://proxy.dev-api.cx.metamask.io:8080
 http://proxy.dev-api.cx.metamask.io:8443
@@ -304,7 +305,6 @@ http://trigger-us-east-2.dev-api.cx.metamask.io:8080
 http://trigger-us-east-2.dev-api.cx.metamask.io:8443
 http://trigger-us-east-2.uat-api.cx.metamask.io
 http://trigger-us-east-2.uat-api.cx.metamask.io:8080
-http://trigger-us-east-2.uat-api.cx.metamask.io:8443
 http://trigger.api.cx.metamask.io
 http://trigger.api.cx.metamask.io:8080
 http://trigger.api.cx.metamask.io:8443
@@ -387,8 +387,10 @@ https://get.metamask.io
 https://home.metamask.io
 https://labels-us-east-2.dev-api.cx.metamask.io
 https://labels.dev-api.cx.metamask.io
+https://labels.dev-api.cx.metamask.io:8443
 https://learn.metamask.io
 https://metabase.activity.metamask.io
+https://metamask.io
 https://mobile.metamask.io
 https://mobile.metamask.io:8443
 https://my-sample-api2-us-east-2.dev-api.cx.metamask.io
@@ -413,6 +415,7 @@ https://phishing-detection.uat-api.cx.metamask.io
 https://portfolio-us-east-2.api.cx.metamask.io
 https://portfolio-us-east-2.dev-api.cx.metamask.io
 https://portfolio-us-east-2.uat-api.cx.metamask.io
+https://portfolio-us-east-2.uat-api.cx.metamask.io:8443
 https://portfolio.api.cx.metamask.io
 https://portfolio.dev-api.cx.metamask.io
 https://portfolio.metamask.io
@@ -430,11 +433,9 @@ https://primitives.api.cx.metamask.io
 https://primitives.dev-api.cx.metamask.io
 https://primitives.uat-api.cx.metamask.io
 https://proxy-us-east-2.api.cx.metamask.io
-https://proxy-us-east-2.api.cx.metamask.io:8443
 https://proxy-us-east-2.dev-api.cx.metamask.io
 https://proxy-us-east-2.uat-api.cx.metamask.io
 https://proxy.api.cx.metamask.io
-https://proxy.api.cx.metamask.io:8443
 https://proxy.dev-api.cx.metamask.io
 https://proxy.uat-api.cx.metamask.io
 https://push-us-east-2.api.cx.metamask.io
@@ -465,6 +466,7 @@ https://transaction.uat-api.cx.metamask.io
 https://trigger-us-east-2.api.cx.metamask.io
 https://trigger-us-east-2.dev-api.cx.metamask.io
 https://trigger-us-east-2.uat-api.cx.metamask.io
+https://trigger-us-east-2.uat-api.cx.metamask.io:8443
 https://trigger.api.cx.metamask.io
 https://trigger.dev-api.cx.metamask.io
 https://trigger.uat-api.cx.metamask.io

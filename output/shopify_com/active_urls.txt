@@ -166,6 +166,8 @@ http://classic-help-staging.shopify.com
 http://classic-help.shopify.com
 http://classifieds.shopify.com
 http://classifieds.shopify.com:8080
+http://click.email.shopify.com
+http://click.email.shopify.com:8080
 http://cms.everest.shopify.com
 http://cms.everest.shopify.com:8080
 http://cms.shopify.com
@@ -184,6 +186,8 @@ http://collabs-merchants.shopify.com
 http://collabs-merchants.shopify.com:8080
 http://collabs-staging.shopify.com
 http://collabs-staging.shopify.com:8080
+http://collabs.shopify.com
+http://collabs.shopify.com:8080
 http://colourdecoded.shopify.com
 http://colourdecoded.shopify.com:8080
 http://commerceawards.shopify.com
@@ -255,6 +259,8 @@ http://devs.shopify.com
 http://devs.shopify.com:8080
 http://dk.shopify.com
 http://dk.shopify.com:8080
+http://dn.shopify.com
+http://dn.shopify.com:8080
 http://dns.ash.shopify.com
 http://dns.ash.shopify.com:8080
 http://docs.shopify.com
@@ -438,8 +444,6 @@ http://kiersten.shopify.com
 http://kiersten.shopify.com:8080
 http://l.ssl.shopify.com
 http://l.ssl.shopify.com:8080
-http://launch.shopify.com
-http://launch.shopify.com:8080
 http://launchpad.shopify.com
 http://launchpad.shopify.com:8080
 http://lbperf1.ash.shopify.com
@@ -459,6 +463,8 @@ http://locality.shopify.com
 http://locality.shopify.com:8080
 http://localsession.shopify.com
 http://localsession.shopify.com:8080
+http://log2.ash.shopify.com
+http://log2.ash.shopify.com:8080
 http://login.community-stage.shopify.com
 http://login.community-stage.shopify.com:8080
 http://login.community.shopify.com
@@ -511,8 +517,8 @@ http://milestones.shopify.com
 http://milestones.shopify.com:8080
 http://mobile.shopify.com
 http://mobile.shopify.com:8080
-http://mta2.email.shopify.com
-http://mta2.email.shopify.com:8080
+http://mta.email.shopify.com
+http://mta.email.shopify.com:8080
 http://mta3.email.shopify.com
 http://mta3.email.shopify.com:8080
 http://mx.shopify.com
@@ -687,8 +693,6 @@ http://sl2.shopify.com
 http://sl3.shopify.com
 http://slapshot.shopify.com
 http://slapshot.shopify.com:8080
-http://smarter-tv.shopify.com
-http://smarter-tv.shopify.com:8080
 http://smiley-staging.shopify.com
 http://smiley-staging.shopify.com:8080
 http://smiley.shopify.com
@@ -775,9 +779,6 @@ http://timber.shopify.com
 http://timber.shopify.com:8080
 http://tmt.shopify.com
 http://tmt.shopify.com:8080
-http://toronto.shopify.com
-http://toronto.shopify.com:443
-http://toronto.shopify.com:8080
 http://torontoretailtour.shopify.com
 http://torontoretailtour.shopify.com:8080
 http://toykingdom.shopify.com
@@ -881,6 +882,8 @@ http://vaultapp1.ec2.shopify.com
 http://vaultapp1.ec2.shopify.com:8080
 http://videomaker.shopify.com
 http://videomaker.shopify.com:8080
+http://view.email.shopify.com
+http://view.email.shopify.com:8080
 http://vision.shopify.com
 http://vision.shopify.com:8080
 http://wc.shopify.com
@@ -1089,6 +1092,8 @@ https://classic-help-staging.shopify.com
 https://classic-help.shopify.com
 https://classifieds.shopify.com
 https://classifieds.shopify.com:8443
+https://click.email.shopify.com
+https://click.email.shopify.com:8443
 https://cms.everest.shopify.com
 https://cms.everest.shopify.com:8443
 https://cms.shopify.com
@@ -1107,6 +1112,8 @@ https://collabs-merchants.shopify.com
 https://collabs-merchants.shopify.com:8443
 https://collabs-staging.shopify.com
 https://collabs-staging.shopify.com:8443
+https://collabs.shopify.com
+https://collabs.shopify.com:8443
 https://colourdecoded.shopify.com
 https://colourdecoded.shopify.com:8443
 https://commerceawards.shopify.com
@@ -1178,6 +1185,8 @@ https://devs.shopify.com
 https://devs.shopify.com:8443
 https://dk.shopify.com
 https://dk.shopify.com:8443
+https://dn.shopify.com
+https://dn.shopify.com:8443
 https://dns.ash.shopify.com
 https://dns.ash.shopify.com:8443
 https://docs.shopify.com
@@ -1364,8 +1373,6 @@ https://kiersten.shopify.com
 https://kiersten.shopify.com:8443
 https://l.ssl.shopify.com
 https://l.ssl.shopify.com:8443
-https://launch.shopify.com
-https://launch.shopify.com:8443
 https://launchpad.shopify.com
 https://launchpad.shopify.com:8443
 https://lbperf1.ash.shopify.com
@@ -1385,6 +1392,8 @@ https://locality.shopify.com
 https://locality.shopify.com:8443
 https://localsession.shopify.com
 https://localsession.shopify.com:8443
+https://log2.ash.shopify.com
+https://log2.ash.shopify.com:8443
 https://login.community-stage.shopify.com
 https://login.community-stage.shopify.com:8443
 https://login.community.shopify.com
@@ -1437,8 +1446,8 @@ https://milestones.shopify.com
 https://milestones.shopify.com:8443
 https://mobile.shopify.com
 https://mobile.shopify.com:8443
-https://mta2.email.shopify.com
-https://mta2.email.shopify.com:8443
+https://mta.email.shopify.com
+https://mta.email.shopify.com:8443
 https://mta3.email.shopify.com
 https://mta3.email.shopify.com:8443
 https://mx.shopify.com
@@ -1614,8 +1623,6 @@ https://sl2.shopify.com
 https://sl3.shopify.com
 https://slapshot.shopify.com
 https://slapshot.shopify.com:8443
-https://smarter-tv.shopify.com
-https://smarter-tv.shopify.com:8443
 https://smiley-staging.shopify.com
 https://smiley-staging.shopify.com:8443
 https://smiley.shopify.com
@@ -1702,7 +1709,6 @@ https://timber.shopify.com
 https://timber.shopify.com:8443
 https://tmt.shopify.com
 https://tmt.shopify.com:8443
-https://toronto.shopify.com:8443
 https://torontoretailtour.shopify.com
 https://torontoretailtour.shopify.com:8443
 https://toykingdom.shopify.com
@@ -1806,6 +1812,8 @@ https://vaultapp1.ec2.shopify.com
 https://vaultapp1.ec2.shopify.com:8443
 https://videomaker.shopify.com
 https://videomaker.shopify.com:8443
+https://view.email.shopify.com
+https://view.email.shopify.com:8443
 https://vision.shopify.com
 https://vision.shopify.com:8443
 https://wc.shopify.com

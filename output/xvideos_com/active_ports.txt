@@ -732,6 +732,8 @@ porn999.xvideos.com:80
 proxy-cdn77.xvideos.com:22
 proxy-cdn77.xvideos.com:5666
 proxy-cdn77.xvideos.com:80
+s.xvideos.com:443
+s.xvideos.com:80
 static-dev-xvlive.xvideos.com:443
 static-dev-xvlive.xvideos.com:80
 static-hw.xvideos.com:443

@@ -22,7 +22,6 @@ http://blog.ru.playstation.com
 http://blog.us.playstation.com
 http://blog.zh-hant.playstation.com
 http://br.playstation.com
-http://bridges.playstation.com
 http://ca.playstation.com
 http://camera-adaptor.support.playstation.com
 http://cdn.jp.playstation.com
@@ -98,7 +97,6 @@ http://dev.wrapup.playstation.com
 http://direct-queue-stage.playstation.com
 http://direct-queue.playstation.com
 http://direct.e1-np.playstation.com
-http://direct.playstation.com
 http://dms.api.playstation.com
 http://docportal.playstation.com
 http://docs.playstation.com
@@ -307,7 +305,6 @@ https://blog.us.playstation.com
 https://blog.zh-hant.playstation.com
 https://bps.playstation.com
 https://br.playstation.com
-https://bridges.playstation.com
 https://ca.playstation.com
 https://camera-adaptor.support.playstation.com
 https://cdn.jp.playstation.com
@@ -385,7 +382,6 @@ https://dev.wrapup.playstation.com
 https://direct-queue-stage.playstation.com
 https://direct-queue.playstation.com
 https://direct.e1-np.playstation.com
-https://direct.playstation.com
 https://dms.api.playstation.com
 https://docportal.playstation.com
 https://docs.playstation.com
@@ -470,6 +466,7 @@ https://playstation20.eu.playstation.com
 https://playstationvue.us.playstation.com
 https://presscenter.playstation.com
 https://preview.direct.e1-np.playstation.com
+https://preview.playstation.com
 https://previewer.playstation.com
 https://profile.api.playstation.com
 https://profiles.us.playstation.com

@@ -1,0 +1,5 @@
+[CVE-2022-1595] [http] [medium] https://blog.br.playstation.com/wp-login.php
+[CVE-2022-1595] [http] [medium] https://blog.de.playstation.com/wp-login.php
+[CVE-2022-1595] [http] [medium] https://blog.fr.playstation.com/wp-login.php
+[CVE-2022-1595] [http] [medium] https://blog.it.playstation.com/wp-login.php
+[CVE-2022-1595] [http] [medium] https://blog.ja.playstation.com/wp-login.php

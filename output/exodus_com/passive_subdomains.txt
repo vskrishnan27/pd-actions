@@ -6,6 +6,8 @@ blog.exodus.com
 blog.exodus.com
 blog.exodus.com
 blog.exodus.com
+blog.exodus.com
+dev.exodus.com
 dev.exodus.com
 dev.exodus.com
 dev.exodus.com
@@ -22,6 +24,8 @@ devops-handbook.ot.exodus.com
 devops-handbook.ot.exodus.com
 devops-handbook.ot.exodus.com
 devops-handbook.ot.exodus.com
+devops-handbook.ot.exodus.com
+downloads.exodus.com
 downloads.exodus.com
 downloads.exodus.com
 downloads.exodus.com
@@ -38,6 +42,8 @@ email.exodus.com
 email.exodus.com
 email.exodus.com
 email.exodus.com
+email.exodus.com
+eng-handbook.ot.exodus.com
 eng-handbook.ot.exodus.com
 eng-handbook.ot.exodus.com
 eng-handbook.ot.exodus.com
@@ -54,6 +60,8 @@ engineer-handbook.ot.exodus.com
 engineer-handbook.ot.exodus.com
 engineer-handbook.ot.exodus.com
 engineer-handbook.ot.exodus.com
+engineer-handbook.ot.exodus.com
+exodus.com
 exodus.com
 exodus.com
 exodus.com
@@ -70,6 +78,8 @@ exokit.ot.exodus.com
 exokit.ot.exodus.com
 exokit.ot.exodus.com
 exokit.ot.exodus.com
+exokit.ot.exodus.com
+exotest.ot.exodus.com
 exotest.ot.exodus.com
 exotest.ot.exodus.com
 exotest.ot.exodus.com
@@ -86,6 +96,8 @@ extension.exodus.com
 extension.exodus.com
 extension.exodus.com
 extension.exodus.com
+extension.exodus.com
+get.exodus.com
 get.exodus.com
 get.exodus.com
 get.exodus.com
@@ -102,6 +114,8 @@ help.exodus.com
 help.exodus.com
 help.exodus.com
 help.exodus.com
+help.exodus.com
+it-handbook.ot.exodus.com
 it-handbook.ot.exodus.com
 it-handbook.ot.exodus.com
 it-handbook.ot.exodus.com
@@ -118,6 +132,8 @@ link-t.exodus.com
 link-t.exodus.com
 link-t.exodus.com
 link-t.exodus.com
+link-t.exodus.com
+link.exodus.com
 link.exodus.com
 link.exodus.com
 link.exodus.com
@@ -134,6 +150,8 @@ metadata.exodus.com
 metadata.exodus.com
 metadata.exodus.com
 metadata.exodus.com
+metadata.exodus.com
+mirror.exodus.com
 mirror.exodus.com
 mirror.exodus.com
 mirror.exodus.com
@@ -150,6 +168,8 @@ ns3.exodus.com
 ns3.exodus.com
 ns3.exodus.com
 ns3.exodus.com
+ns3.exodus.com
+ot.exodus.com
 ot.exodus.com
 ot.exodus.com
 ot.exodus.com
@@ -166,6 +186,8 @@ pm-bounces.exodus.com
 pm-bounces.exodus.com
 pm-bounces.exodus.com
 pm-bounces.exodus.com
+pm-bounces.exodus.com
+referrals.exodus.com
 referrals.exodus.com
 referrals.exodus.com
 referrals.exodus.com
@@ -182,6 +204,8 @@ security-handbook.ot.exodus.com
 security-handbook.ot.exodus.com
 security-handbook.ot.exodus.com
 security-handbook.ot.exodus.com
+security-handbook.ot.exodus.com
+slack-invite.exodus.com
 slack-invite.exodus.com
 slack-invite.exodus.com
 slack-invite.exodus.com
@@ -198,6 +222,8 @@ support-lt.exodus.com
 support-lt.exodus.com
 support-lt.exodus.com
 support-lt.exodus.com
+support-lt.exodus.com
+support.exodus.com
 support.exodus.com
 support.exodus.com
 support.exodus.com
@@ -214,6 +240,7 @@ updates.exodus.com
 updates.exodus.com
 updates.exodus.com
 updates.exodus.com
+updates.exodus.com
 wallet.exodus.com
 wallet.exodus.com
 wallet.exodus.com
@@ -222,6 +249,8 @@ wallet.exodus.com
 wallet.exodus.com
 wallet.exodus.com
 wallet.exodus.com
+wallet.exodus.com
+www.exodus.com
 www.exodus.com
 www.exodus.com
 www.exodus.com

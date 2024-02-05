@@ -26,7 +26,6 @@ http://x1rpc.okx.com
 http://x1rpc.okx.com:8443
 http://x1testrpc.okx.com
 http://x1testrpc.okx.com:8443
-http://x1testws.okx.com
 https://aws.okx.com
 https://chainrpc.okx.com
 https://jpush.okx.com

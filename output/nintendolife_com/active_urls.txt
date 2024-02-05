@@ -6,7 +6,6 @@ http://api.nintendolife.com:8080
 http://api.nintendolife.com:8443
 http://beta.nintendolife.com
 http://beta.nintendolife.com:8080
-http://beta.nintendolife.com:8443
 http://cdn.nintendolife.com
 http://codes.nintendolife.com
 http://codes.nintendolife.com:8080
@@ -25,6 +24,9 @@ http://images.nintendolife.com:8080
 http://images.nintendolife.com:8443
 http://m.nintendolife.com
 http://maliaeroports.comwww.nintendolife.com
+http://nintendolife.com
+http://nintendolife.com:8080
+http://nintendolife.com:8443
 http://pfadev.dijgtal.comwww.nintendolife.com
 http://retro.nintendolife.com
 http://snes.nintendolife.com
@@ -33,10 +35,12 @@ http://static.nintendolife.com
 http://static.nintendolife.com:8080
 http://static.nintendolife.com:8443
 http://support.nintendolife.com
+http://vc.nintendolife.com
 http://wii.nintendolife.com
 http://wii2.nintendolife.com
 http://wiiu.nintendolife.com
 http://wiiware.nintendolife.com
+http://ww.nintendolife.com
 http://www.nintendolife.com
 http://www.nintendolife.com:8080
 http://www.nintendolife.com:8443
@@ -45,6 +49,7 @@ https://3dsvc.nintendolife.com
 https://3dsware.nintendolife.com
 https://api.nintendolife.com
 https://beta.nintendolife.com
+https://beta.nintendolife.com:8443
 https://cdn.nintendolife.com
 https://codes.nintendolife.com
 https://default.nintendolife.com
@@ -59,14 +64,17 @@ https://gogaragedoorrepairor.repairwww.nintendolife.com
 https://images.nintendolife.com
 https://m.nintendolife.com
 https://maliaeroports.comwww.nintendolife.com
+https://nintendolife.com
 https://pfadev.dijgtal.comwww.nintendolife.com
 https://retro.nintendolife.com
 https://snes.nintendolife.com
 https://sp.nintendolife.com
 https://static.nintendolife.com
 https://support.nintendolife.com
+https://vc.nintendolife.com
 https://wii.nintendolife.com
 https://wii2.nintendolife.com
 https://wiiu.nintendolife.com
 https://wiiware.nintendolife.com
+https://ww.nintendolife.com
 https://www.nintendolife.com

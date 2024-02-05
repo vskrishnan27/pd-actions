@@ -77,10 +77,6 @@ crypto-nft-bridge-api.crypto.com:443
 crypto-nft-bridge-api.crypto.com:80
 crypto-nft-bridge-api.crypto.com:8080
 crypto-nft-bridge-api.crypto.com:8443
-crypto.com:443
-crypto.com:80
-crypto.com:8080
-crypto.com:8443
 deriv-api.crypto.com:443
 deriv-api.crypto.com:80
 deriv-api.crypto.com:8080
@@ -225,6 +221,10 @@ shop.crypto.com:443
 shop.crypto.com:80
 shop.crypto.com:8080
 shop.crypto.com:8443
+static.crypto.com:443
+static.crypto.com:80
+static.crypto.com:8080
+static.crypto.com:8443
 static2.crypto.com:443
 static2.crypto.com:80
 static2.crypto.com:8080

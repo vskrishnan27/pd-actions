@@ -37,8 +37,6 @@ http://crypto-coin-info-api.crypto.com
 http://crypto-coin-info-api.crypto.com:8080
 http://crypto-nft-bridge-api.crypto.com
 http://crypto-nft-bridge-api.crypto.com:8080
-http://crypto.com
-http://crypto.com:8080
 http://deriv-api.crypto.com
 http://deriv-api.crypto.com:8080
 http://exchange-docs.crypto.com
@@ -111,6 +109,8 @@ http://shop-directory.crypto.com
 http://shop-directory.crypto.com:8080
 http://shop.crypto.com
 http://shop.crypto.com:8080
+http://static.crypto.com
+http://static.crypto.com:8080
 http://static2.crypto.com
 http://static2.crypto.com:8080
 http://status.crypto.com
@@ -173,8 +173,6 @@ https://crypto-coin-info-api.crypto.com
 https://crypto-coin-info-api.crypto.com:8443
 https://crypto-nft-bridge-api.crypto.com
 https://crypto-nft-bridge-api.crypto.com:8443
-https://crypto.com
-https://crypto.com:8443
 https://deriv-api.crypto.com
 https://deriv-api.crypto.com:8443
 https://exchange-docs.crypto.com
@@ -247,6 +245,8 @@ https://shop-directory.crypto.com
 https://shop-directory.crypto.com:8443
 https://shop.crypto.com
 https://shop.crypto.com:8443
+https://static.crypto.com
+https://static.crypto.com:8443
 https://static2.crypto.com
 https://static2.crypto.com:8443
 https://status.crypto.com

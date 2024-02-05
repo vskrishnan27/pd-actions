@@ -42,6 +42,7 @@ https://docs.moderntreasury.com:8443
 https://events.moderntreasury.com
 https://go.moderntreasury.com
 https://help.moderntreasury.com
+https://ledgersync-dev.moderntreasury.com
 https://link.moderntreasury.com
 https://mta-sts.moderntreasury.com
 https://payments.demo.moderntreasury.com

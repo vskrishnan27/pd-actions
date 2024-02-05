@@ -34,6 +34,10 @@ api.atlas.cosmos.network:443
 api.atlas.cosmos.network:80
 api.atlas.cosmos.network:8080
 api.atlas.cosmos.network:8443
+api.bigbang.cosmos.network:443
+api.bigbang.cosmos.network:80
+api.bigbang.cosmos.network:8080
+api.bigbang.cosmos.network:8443
 api.brasil.bigbang.cosmos.network:443
 api.brasil.bigbang.cosmos.network:80
 api.brasil.bigbang.cosmos.network:8080
@@ -90,6 +94,10 @@ apiredirector.bigbang.cosmos.network:443
 apiredirector.bigbang.cosmos.network:80
 apiredirector.bigbang.cosmos.network:8080
 apiredirector.bigbang.cosmos.network:8443
+atlas.cosmos.network:443
+atlas.cosmos.network:80
+atlas.cosmos.network:8080
+atlas.cosmos.network:8443
 atlas.demo.cosmos.network:443
 atlas.demo.cosmos.network:80
 atlas.demo.cosmos.network:8080
@@ -102,6 +110,10 @@ beta.cosmos.network:443
 beta.cosmos.network:80
 beta.cosmos.network:8080
 beta.cosmos.network:8443
+bigbang.cosmos.network:443
+bigbang.cosmos.network:80
+bigbang.cosmos.network:8080
+bigbang.cosmos.network:8443
 billingapi.bigbang.cosmos.network:443
 billingapi.bigbang.cosmos.network:80
 billingapi.bigbang.cosmos.network:8080
@@ -256,10 +268,6 @@ interchainacademy.cosmos.network:443
 interchainacademy.cosmos.network:80
 interchainacademy.cosmos.network:8080
 interchainacademy.cosmos.network:8443
-irisnet.cosmos.network:443
-irisnet.cosmos.network:80
-irisnet.cosmos.network:8080
-irisnet.cosmos.network:8443
 jobs.cosmos.network:443
 jobs.cosmos.network:80
 jobs.cosmos.network:8080

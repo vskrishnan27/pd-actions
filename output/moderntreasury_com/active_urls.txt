@@ -6,7 +6,6 @@ http://cdn.demo.moderntreasury.com
 http://cdn.moderntreasury.com
 http://cognito.demo.moderntreasury.com
 http://cognito.moderntreasury.com
-http://demo.moderntreasury.com
 http://docs.moderntreasury.com
 http://docs.moderntreasury.com:8080
 http://events.moderntreasury.com
@@ -17,7 +16,6 @@ http://help.moderntreasury.com:8443
 http://ledgersync-dev.moderntreasury.com
 http://link.moderntreasury.com
 http://mta-sts.moderntreasury.com
-http://payments.demo.moderntreasury.com
 http://payments.moderntreasury.com
 http://privacy.moderntreasury.com
 http://sales.moderntreasury.com
@@ -36,7 +34,6 @@ https://cdn.demo.moderntreasury.com
 https://cdn.moderntreasury.com
 https://cognito.demo.moderntreasury.com
 https://cognito.moderntreasury.com
-https://demo.moderntreasury.com
 https://docs.moderntreasury.com
 https://docs.moderntreasury.com:8443
 https://events.moderntreasury.com

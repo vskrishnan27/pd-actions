@@ -72,6 +72,7 @@ http://en-uk.ring.com
 http://en-uk.ring.com:8080
 http://es-es.ring.com
 http://es-es.ring.com:8080
+http://es.nhadmin.qa.ring.com:443
 http://eu.ring.com
 http://eu.ring.com:8080
 http://expw-a-envproxy-use1.dev.rs.ring.com
@@ -87,7 +88,6 @@ http://firmwares.ring.com:8443
 http://fr-fr.ring.com
 http://fr-fr.ring.com:8080
 http://fw-wrapup.ring.com
-http://fw-wrapup.ring.com:8080
 http://fw-wrapup.ring.com:8443
 http://gamma.approvals.shuttle.ring.com
 http://gamma.ring.com
@@ -129,7 +129,6 @@ http://nw.dev.ring.com
 http://nw.qa.ring.com
 http://nw.ring.com
 http://nz-en.ring.com
-http://nz-en.ring.com:8080
 http://oauth.ring.com:8443
 http://order-details.cs-tools.dev.ring.com
 http://order-details.cs-tools.qa.ring.com
@@ -192,7 +191,6 @@ http://videorequests.nw.ring.com
 http://wu.dev.ring.com
 http://wu.dev.ring.com:8443
 http://wu.qa.ring.com
-http://wu.qa.ring.com:8443
 http://wu.ring.com
 http://wu.ring.com:8443
 http://www.ring.com
@@ -324,7 +322,6 @@ https://en-uk.ring.com:8443
 https://es-es.ring.com
 https://es-es.ring.com:8443
 https://es.dev.ring.com
-https://es.nhadmin.qa.ring.com
 https://eu.ring.com
 https://eu.ring.com:8443
 https://events.mobile.crashtracking.prod.ring.com
@@ -410,7 +407,6 @@ https://nh-mobile-config.dev.ring.com
 https://nh-mobile-config.qa.ring.com
 https://nh-mobile-config.ring.com
 https://nhadmin.dev.ring.com
-https://nhadmin.qa.ring.com
 https://nhadmin.ring.com
 https://nl-nl.ring.com
 https://nl-nl.ring.com:8443
@@ -502,6 +498,7 @@ https://videorequests.nw.ring.com
 https://videos.release.ring.com
 https://wu.dev.ring.com
 https://wu.qa.ring.com
+https://wu.qa.ring.com:8443
 https://wu.ring.com
 https://www.ring.com
 https://za-en.ring.com

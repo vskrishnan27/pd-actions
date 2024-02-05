@@ -518,6 +518,8 @@ analytics.stg.ui.com:8443
 analytics.ui.com:443
 analytics.ui.com:80
 analytics.ui.com:8443
+ao.blog.dev.ui.com:443
+ao.blog.dev.ui.com:80
 api-gw.uid.alpha.ui.com:443
 api-gw.uid.alpha.ui.com:80
 api-gw.uid1.alpha.ui.com:443
@@ -866,8 +868,6 @@ datasheets-server.stg.svc.ui.com:80
 datasheets.ui.com:443
 datasheets.ui.com:80
 datasheets.ui.com:8443
-dc.blog.ui.com:443
-dc.blog.ui.com:80
 dcb.blog.ui.com:443
 dcb.blog.ui.com:80
 dcba.blog.ui.com:443
@@ -880,6 +880,8 @@ de089f19-33b0-4d8c-b047-9a0448e3d0bc.unifi-hosting.ui.com:8080
 de089f19-33b0-4d8c-b047-9a0448e3d0bc.unifi-hosting.ui.com:8443
 demo-as.ui.com:443
 demo-as.ui.com:80
+demo.ui.com:443
+demo.ui.com:80
 design-prof.dev.svc.ui.com:443
 design-prof.dev.svc.ui.com:80
 design-prof.dev.svc.ui.com:8080
@@ -1040,6 +1042,8 @@ elite-support.ui.com:443
 elite-support.ui.com:80
 elite.ui.com:443
 elite.ui.com:80
+eliter.blog.ui.com:443
+eliter.blog.ui.com:80
 elmtech.ui.com:443
 elmtech.ui.com:80
 email-proxy.stg.svc.ui.com:443
@@ -1184,8 +1188,6 @@ hww.blog.ui.com:443
 hww.blog.ui.com:80
 identity.ui.com:443
 identity.ui.com:80
-ih.blog.ui.com:443
-ih.blog.ui.com:80
 ihg.blog.ui.com:443
 ihg.blog.ui.com:80
 ihgf.blog.ui.com:443
@@ -1204,8 +1206,6 @@ in.store.ui.com:8080
 in.store.ui.com:8443
 in.ui.com:443
 in.ui.com:80
-ingest-rqp.blog.dev.ui.com:443
-ingest-rqp.blog.dev.ui.com:80
 inventory.dev.svc.ui.com:443
 inventory.dev.svc.ui.com:8443
 inventory.dev.ui.com:443
@@ -1238,8 +1238,6 @@ iw.blog.ui.com:443
 iw.blog.ui.com:80
 iww.blog.ui.com:443
 iww.blog.ui.com:80
-j.blog.ui.com:443
-j.blog.ui.com:80
 ji.blog.ui.com:443
 ji.blog.ui.com:80
 jih.blog.ui.com:443
@@ -1264,8 +1262,6 @@ kb.blog.ui.com:443
 kb.blog.ui.com:80
 kb.ui.com:443
 kb.ui.com:80
-kj.blog.ui.com:443
-kj.blog.ui.com:80
 kji.blog.ui.com:443
 kji.blog.ui.com:80
 kjih.blog.ui.com:443
@@ -1276,12 +1272,6 @@ kw.blog.ui.com:443
 kw.blog.ui.com:80
 kww.blog.ui.com:443
 kww.blog.ui.com:80
-ling-api.blog.ui.com:443
-ling-api.blog.ui.com:80
-lingest-api.blog.ui.com:443
-lingest-api.blog.ui.com:80
-link.blog.ui.com:443
-link.blog.ui.com:80
 link.ui.com:443
 link.ui.com:80
 lk.blog.ui.com:443
@@ -1339,8 +1329,6 @@ me.store.ui.com:8080
 me.store.ui.com:8443
 metrics-api.blog.ui.com:443
 metrics-api.blog.ui.com:80
-ml.blog.ui.com:443
-ml.blog.ui.com:80
 mlk.blog.ui.com:443
 mlk.blog.ui.com:80
 mlkj.blog.ui.com:443
@@ -1385,6 +1373,8 @@ net-fe-static-assets.network-controller.svc.ui.com:443
 net-fe-static-assets.network-controller.svc.ui.com:80
 network.unifi.ui.com:443
 network.unifi.ui.com:80
+nm.blog.ui.com:443
+nm.blog.ui.com:80
 nml.blog.ui.com:443
 nml.blog.ui.com:80
 nw.blog.ui.com:443
@@ -1411,6 +1401,9 @@ penguin.ui.com:443
 penguin.ui.com:80
 ping2.ui.com:443
 ping2.ui.com:53
+ping2.ui.com:80
+ping2.ui.com:8080
+ping2.ui.com:8443
 plm.dev.svc.ui.com:443
 plm.dev.svc.ui.com:80
 plm.dev.svc.ui.com:8080
@@ -1480,8 +1473,12 @@ pw.blog.ui.com:443
 pw.blog.ui.com:80
 pww.blog.ui.com:443
 pww.blog.ui.com:80
+q.blog.ui.com:443
+q.blog.ui.com:80
 qp.blog.ui.com:443
 qp.blog.ui.com:80
+qpo.blog.ui.com:443
+qpo.blog.ui.com:80
 qpon.blog.ui.com:443
 qpon.blog.ui.com:80
 qw.blog.ui.com:443
@@ -1520,6 +1517,8 @@ rma.ui.com:80
 rma1.ui.com:443
 rma1.ui.com:80
 rma1.ui.com:8443
+rmax.blog.ui.com:443
+rmax.blog.ui.com:80
 rq.blog.ui.com:443
 rq.blog.ui.com:80
 rqp.blog.ui.com:443
@@ -1638,6 +1637,8 @@ support.mobility.stg.ui.com:443
 support.mobility.stg.ui.com:80
 support.mobility.ui.com:443
 support.mobility.ui.com:80
+support.ui.com:443
+support.ui.com:80
 sw.blog.ui.com:443
 sw.blog.ui.com:80
 switch.blog.ui.com:443
@@ -1674,8 +1675,6 @@ trunking.stg.svc.ui.com:443
 trunking.stg.svc.ui.com:8443
 trunking.svc.ui.com:443
 trunking.svc.ui.com:8443
-ts.blog.ui.com:443
-ts.blog.ui.com:80
 tsr.blog.ui.com:443
 tsr.blog.ui.com:80
 tsrq.blog.ui.com:443
@@ -1722,6 +1721,10 @@ uisp.ui.com:443
 uisp.ui.com:80
 uisp.ui.com:8080
 uisp.ui.com:8443
+uk.store.ui.com:443
+uk.store.ui.com:80
+uk.store.ui.com:8080
+uk.store.ui.com:8443
 ulabs.ui.com:443
 ulabs.ui.com:80
 umr.dev.ui.com:443
@@ -1797,6 +1800,8 @@ unifi-shd.ui.com:443
 unifi-shd.ui.com:80
 unifi-video.ui.com:443
 unifi-video.ui.com:80
+unifi-xg.blog.ui.com:443
+unifi-xg.blog.ui.com:80
 unifi-xg.tw.ui.com:443
 unifi-xg.tw.ui.com:80
 unifi-xg.ui.com:443
@@ -1827,6 +1832,8 @@ unstable-demo.ui.com:443
 unstable-demo.ui.com:80
 ut.blog.ui.com:443
 ut.blog.ui.com:80
+uts.blog.ui.com:443
+uts.blog.ui.com:80
 utsr.blog.ui.com:443
 utsr.blog.ui.com:80
 utsrq.blog.ui.com:443
@@ -1885,8 +1892,6 @@ wiki.blog.ui.com:443
 wiki.blog.ui.com:80
 wiki.ui.com:443
 wiki.ui.com:80
-wv.blog.ui.com:443
-wv.blog.ui.com:80
 wvut.blog.ui.com:443
 wvut.blog.ui.com:80
 wvuts.blog.ui.com:443
@@ -1909,6 +1914,8 @@ www-8.blog.ui.com:443
 www-8.blog.ui.com:80
 www-9.blog.ui.com:443
 www-9.blog.ui.com:80
+www.blog.ui.com:443
+www.blog.ui.com:80
 www.dev.ui.com:443
 www.dev.ui.com:80
 www.ui.com:443
@@ -1923,13 +1930,13 @@ yw.blog.ui.com:443
 yw.blog.ui.com:80
 yww.blog.ui.com:443
 yww.blog.ui.com:80
+yx.blog.ui.com:443
+yx.blog.ui.com:80
 za.store.ui.com:443
 za.store.ui.com:80
 za.store.ui.com:8080
 za.store.ui.com:8443
 zww.blog.ui.com:443
 zww.blog.ui.com:80
-zy.blog.ui.com:443
-zy.blog.ui.com:80
 zyxwv.blog.ui.com:443
 zyxwv.blog.ui.com:80

@@ -432,7 +432,6 @@ isit.admin.airbnb.com
 it.airbnb.com
 it.next.airbnb.com
 it.trend.next.airbnb.com
-ivr-next.airbnb.com
 ivr.airbnb.com
 ivr.next.airbnb.com
 ja.admin.airbnb.com
@@ -762,6 +761,7 @@ origin-images.airbnb.com
 origin-m.airbnb.com
 origin-misc.airbnb.com
 origin-www-cn.airbnb.com
+origin-www-cnprod.airbnb.com
 origin-www.airbnb.com
 origin.next.airbnb.com
 osman.optustvnow.next.airbnb.com

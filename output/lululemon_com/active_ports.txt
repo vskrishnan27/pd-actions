@@ -1,5 +1,7 @@
 ambassadors.lululemon.com:443
 ambassadors.lululemon.com:80
+api-creator.lululemon.com:443
+api-creator.lululemon.com:80
 api.lululemon.com:443
 api.lululemon.com:80
 apis-dev-np.lululemon.com:443
@@ -10,6 +12,10 @@ apis-sandbox-np.lululemon.com:443
 apis-sandbox-np.lululemon.com:80
 apis-stage-np.lululemon.com:443
 apis-stage-np.lululemon.com:80
+apis-test-np.lululemon.com:443
+apis-test-np.lululemon.com:80
+apis.lululemon.com:443
+apis.lululemon.com:80
 app-youlu.lululemon.com:443
 app-youlu.lululemon.com:80
 apps-youlu.lululemon.com:443
@@ -28,6 +34,8 @@ careers.lululemon.com:443
 careers.lululemon.com:80
 cdn-contentful.lululemon.com:443
 cdn-contentful.lululemon.com:80
+cdn.lululemon.com:443
+cdn.lululemon.com:80
 cdp.lululemon.com:443
 cdp.lululemon.com:80
 checkout-df.lululemon.com:443
@@ -127,6 +135,8 @@ howwewearit.lululemon.com:443
 howwewearit.lululemon.com:80
 identity.lululemon.com:443
 identity.lululemon.com:80
+image.e.lululemon.com:443
+image.e.lululemon.com:80
 image.info.lululemon.com:443
 image.info.lululemon.com:80
 images.eu.lululemon.com:443
@@ -290,6 +300,8 @@ pr160.preprod.lululemon.com:443
 pr160.preprod.lululemon.com:80
 pr161.preprod.lululemon.com:443
 pr161.preprod.lululemon.com:80
+pr162.preprod.lululemon.com:443
+pr162.preprod.lululemon.com:80
 pr165.preprod.lululemon.com:443
 pr165.preprod.lululemon.com:80
 pr166.preprod.lululemon.com:443
@@ -338,6 +350,10 @@ pr198.preprod.lululemon.com:443
 pr198.preprod.lululemon.com:80
 pr201.preprod.lululemon.com:443
 pr201.preprod.lululemon.com:80
+pr205.preprod.lululemon.com:443
+pr205.preprod.lululemon.com:80
+pr206.preprod.lululemon.com:443
+pr206.preprod.lululemon.com:80
 pr208.preprod.lululemon.com:443
 pr208.preprod.lululemon.com:80
 pr209.preprod.lululemon.com:443
@@ -618,8 +634,12 @@ pr493.preprod.lululemon.com:443
 pr493.preprod.lululemon.com:80
 pr494.preprod.lululemon.com:443
 pr494.preprod.lululemon.com:80
+pr495.preprod.lululemon.com:443
+pr495.preprod.lululemon.com:80
 pr496.preprod.lululemon.com:443
 pr496.preprod.lululemon.com:80
+pr497.preprod.lululemon.com:443
+pr497.preprod.lululemon.com:80
 pr502.preprod.lululemon.com:443
 pr502.preprod.lululemon.com:80
 pr503.preprod.lululemon.com:443
@@ -668,6 +688,8 @@ pr554.preprod.lululemon.com:443
 pr554.preprod.lululemon.com:80
 pr555.preprod.lululemon.com:443
 pr555.preprod.lululemon.com:80
+pr556.preprod.lululemon.com:443
+pr556.preprod.lululemon.com:80
 pr558.preprod.lululemon.com:443
 pr558.preprod.lululemon.com:80
 pr559.preprod.lululemon.com:443
@@ -866,6 +888,8 @@ pr754.preprod.lululemon.com:443
 pr754.preprod.lululemon.com:80
 pr755.preprod.lululemon.com:443
 pr755.preprod.lululemon.com:80
+pr759.preprod.lululemon.com:443
+pr759.preprod.lululemon.com:80
 pr762.preprod.lululemon.com:443
 pr762.preprod.lululemon.com:80
 pr764.preprod.lululemon.com:443
@@ -928,6 +952,10 @@ pr835.preprod.lululemon.com:443
 pr835.preprod.lululemon.com:80
 pr837.preprod.lululemon.com:443
 pr837.preprod.lululemon.com:80
+pr838.preprod.lululemon.com:443
+pr838.preprod.lululemon.com:80
+pr840.preprod.lululemon.com:443
+pr840.preprod.lululemon.com:80
 pr841.preprod.lululemon.com:443
 pr841.preprod.lululemon.com:80
 pr844.preprod.lululemon.com:443
@@ -1107,8 +1135,6 @@ qa14.preprod.lululemon.com:443
 qa14.preprod.lululemon.com:80
 qa2-info.eu.lululemon.com:443
 qa2-info.eu.lululemon.com:80
-qa2-info.lululemon.com:443
-qa2-info.lululemon.com:80
 qa2-pnimages.lululemon.com:443
 qa2-pnimages.lululemon.com:80
 qa2.info.eu.lululemon.com:443
@@ -1117,12 +1143,16 @@ qa2.info.lululemon.com:443
 qa2.info.lululemon.com:80
 qa20.preprod.lululemon.com:443
 qa20.preprod.lululemon.com:80
+qa21.preprod.lululemon.com:443
+qa21.preprod.lululemon.com:80
 qa22.preprod.lululemon.com:443
 qa22.preprod.lululemon.com:80
+qa23.preprod.lululemon.com:443
+qa23.preprod.lululemon.com:80
+qa24.preprod.lululemon.com:443
+qa24.preprod.lululemon.com:80
 qa26.preprod.lululemon.com:443
 qa26.preprod.lululemon.com:80
-qa28.preprod.lululemon.com:443
-qa28.preprod.lululemon.com:80
 qa30.preprod.lululemon.com:443
 qa30.preprod.lululemon.com:80
 qa32.preprod.preprod.lululemon.com:443
@@ -1138,8 +1168,6 @@ scep.lululemon.com:443
 scep.lululemon.com:80
 secure.lululemon.com:443
 secure.lululemon.com:80
-services.lululemon.com:443
-services.lululemon.com:80
 shop.lululemon.com:443
 shop.lululemon.com:80
 smetrics.lululemon.com:443

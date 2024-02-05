@@ -305,8 +305,6 @@ is.playstation.com:443
 is.playstation.com:80
 ivaldi.playstation.com:443
 ivaldi.playstation.com:80
-jp.playstation.com:443
-jp.playstation.com:80
 juega.playstation.com:443
 juega.playstation.com:80
 la.playstation.com:443

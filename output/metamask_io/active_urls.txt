@@ -75,7 +75,6 @@ http://fund-loss-investigation.metamask.io
 http://fwd.metamask.io
 http://gas-us-east-2.api.cx.metamask.io
 http://gas-us-east-2.api.cx.metamask.io:8080
-http://gas-us-east-2.api.cx.metamask.io:8443
 http://gas-us-east-2.dev-api.cx.metamask.io
 http://gas-us-east-2.dev-api.cx.metamask.io:8080
 http://gas-us-east-2.dev-api.cx.metamask.io:8443
@@ -126,6 +125,7 @@ http://nft.dev-api.cx.metamask.io:8080
 http://nft.dev-api.cx.metamask.io:8443
 http://nft.uat-api.cx.metamask.io
 http://nft.uat-api.cx.metamask.io:8080
+http://nft.uat-api.cx.metamask.io:8443
 http://notification-us-east-2.api.cx.metamask.io
 http://notification-us-east-2.api.cx.metamask.io:8080
 http://notification-us-east-2.api.cx.metamask.io:8443
@@ -167,9 +167,9 @@ http://portfolio-us-east-2.api.cx.metamask.io:8080
 http://portfolio-us-east-2.api.cx.metamask.io:8443
 http://portfolio-us-east-2.dev-api.cx.metamask.io
 http://portfolio-us-east-2.dev-api.cx.metamask.io:8080
-http://portfolio-us-east-2.dev-api.cx.metamask.io:8443
 http://portfolio-us-east-2.uat-api.cx.metamask.io
 http://portfolio-us-east-2.uat-api.cx.metamask.io:8080
+http://portfolio-us-east-2.uat-api.cx.metamask.io:8443
 http://portfolio.api.cx.metamask.io
 http://portfolio.api.cx.metamask.io:8080
 http://portfolio.api.cx.metamask.io:8443
@@ -188,7 +188,6 @@ http://price-us-east-2.dev-api.cx.metamask.io:8080
 http://price-us-east-2.dev-api.cx.metamask.io:8443
 http://price-us-east-2.uat-api.cx.metamask.io
 http://price-us-east-2.uat-api.cx.metamask.io:8080
-http://price-us-east-2.uat-api.cx.metamask.io:8443
 http://price.api.cx.metamask.io
 http://price.api.cx.metamask.io:8080
 http://price.api.cx.metamask.io:8443
@@ -224,9 +223,7 @@ http://proxy-us-east-2.dev-api.cx.metamask.io:8080
 http://proxy-us-east-2.dev-api.cx.metamask.io:8443
 http://proxy-us-east-2.uat-api.cx.metamask.io
 http://proxy-us-east-2.uat-api.cx.metamask.io:8080
-http://proxy-us-east-2.uat-api.cx.metamask.io:8443
 http://proxy.api.cx.metamask.io
-http://proxy.api.cx.metamask.io:443
 http://proxy.api.cx.metamask.io:8080
 http://proxy.api.cx.metamask.io:8443
 http://proxy.dev-api.cx.metamask.io
@@ -380,6 +377,7 @@ https://feedback.metamask.io
 https://fund-loss-investigation.metamask.io
 https://fwd.metamask.io
 https://gas-us-east-2.api.cx.metamask.io
+https://gas-us-east-2.api.cx.metamask.io:8443
 https://gas-us-east-2.dev-api.cx.metamask.io
 https://gas-us-east-2.uat-api.cx.metamask.io
 https://gas.api.cx.metamask.io
@@ -401,7 +399,6 @@ https://nft-us-east-2.uat-api.cx.metamask.io
 https://nft.api.cx.metamask.io
 https://nft.dev-api.cx.metamask.io
 https://nft.uat-api.cx.metamask.io
-https://nft.uat-api.cx.metamask.io:8443
 https://notification-us-east-2.api.cx.metamask.io
 https://notification-us-east-2.dev-api.cx.metamask.io
 https://notification-us-east-2.uat-api.cx.metamask.io
@@ -416,8 +413,8 @@ https://phishing-detection.dev-api.cx.metamask.io
 https://phishing-detection.uat-api.cx.metamask.io
 https://portfolio-us-east-2.api.cx.metamask.io
 https://portfolio-us-east-2.dev-api.cx.metamask.io
+https://portfolio-us-east-2.dev-api.cx.metamask.io:8443
 https://portfolio-us-east-2.uat-api.cx.metamask.io
-https://portfolio-us-east-2.uat-api.cx.metamask.io:8443
 https://portfolio.api.cx.metamask.io
 https://portfolio.dev-api.cx.metamask.io
 https://portfolio.metamask.io
@@ -425,6 +422,7 @@ https://portfolio.uat-api.cx.metamask.io
 https://price-us-east-2.api.cx.metamask.io
 https://price-us-east-2.dev-api.cx.metamask.io
 https://price-us-east-2.uat-api.cx.metamask.io
+https://price-us-east-2.uat-api.cx.metamask.io:8443
 https://price.api.cx.metamask.io
 https://price.dev-api.cx.metamask.io
 https://price.uat-api.cx.metamask.io
@@ -437,6 +435,8 @@ https://primitives.uat-api.cx.metamask.io
 https://proxy-us-east-2.api.cx.metamask.io
 https://proxy-us-east-2.dev-api.cx.metamask.io
 https://proxy-us-east-2.uat-api.cx.metamask.io
+https://proxy-us-east-2.uat-api.cx.metamask.io:8443
+https://proxy.api.cx.metamask.io
 https://proxy.dev-api.cx.metamask.io
 https://proxy.uat-api.cx.metamask.io
 https://push-us-east-2.api.cx.metamask.io

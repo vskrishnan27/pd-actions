@@ -334,7 +334,6 @@ http://dast-4456656-dast-default.design-staging.gitlab.com
 http://design.gitlab.com
 http://developer.gitlab.com
 http://doc.gitlab.com
-http://docs.gitlab.com
 http://ee.gitlab.com
 http://ee.gitlab.com:8080
 http://email.customers.gitlab.com
@@ -362,7 +361,6 @@ http://handbook.gitlab.com
 http://hub.gitlab.com
 http://hub.gitlab.com:8080
 http://internal.gitlab.com
-http://ir.gitlab.com
 http://jitsu-configurator.product-analytics.prototype.gitlab.com
 http://jitsu-server.product-analytics.prototype.gitlab.com
 http://jobs.gitlab.com
@@ -411,6 +409,7 @@ http://translate.gitlab.com
 http://triage-ops.gitlab.com
 http://university.gitlab.com
 http://university.gitlab.com:8080
+http://university.gitlab.com:8443
 http://version.gitlab.com
 http://www.about.gitlab.com
 http://www.about.gitlab.com:8080
@@ -739,7 +738,6 @@ https://dast-4456656-dast-default.design-staging.gitlab.com
 https://design.gitlab.com
 https://developer.gitlab.com
 https://doc.gitlab.com
-https://docs.gitlab.com
 https://ee.gitlab.com
 https://ee.gitlab.com:8443
 https://email.customers.gitlab.com
@@ -805,7 +803,6 @@ https://support.gitlab.com
 https://translate.gitlab.com
 https://triage-ops.gitlab.com
 https://university.gitlab.com
-https://university.gitlab.com:8443
 https://version.gitlab.com
 https://www.about.gitlab.com
 https://www.about.gitlab.com:8443

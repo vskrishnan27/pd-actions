@@ -37,6 +37,7 @@ http://rideshare.indrive.com
 http://s.indrive.com
 http://services.indrive.com
 http://servicos.indrive.com
+http://servicos.indrive.com:443
 http://sgtm.indrive.com
 http://share.indrive.com
 http://sharetrip.indrive.com
@@ -96,7 +97,6 @@ https://ref.indrive.com
 https://rideshare.indrive.com
 https://s.indrive.com
 https://services.indrive.com
-https://servicos.indrive.com
 https://sgtm.indrive.com
 https://share.indrive.com
 https://sharetrip.indrive.com

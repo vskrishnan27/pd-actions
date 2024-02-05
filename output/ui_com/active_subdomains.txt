@@ -1,5 +1,4 @@
 0.blog.ui.com
-0029.blog.dev.ui.com
 003a1f37-c1e1-4ed3-a36c-0b6715339807.unifi-hosting.ui.com
 01807f4b-acb8-47a7-9992-f1c5df79afa1.unifi-hosting.ui.com
 025abec9-f710-4846-843a-532d37dcc38c.unifi-hosting.stg.ui.com
@@ -192,7 +191,6 @@ analytics.stg.svc.ui.com
 analytics.stg.ui.com
 analytics.svc.ui.com
 analytics.ui.com
-ao.blog.dev.ui.com
 api-gw.uid.alpha.ui.com
 api-gw.uid1.alpha.ui.com
 api.nav.dev.ui.com
@@ -209,7 +207,6 @@ arbiter.blog.ui.com
 arbiter.dev.svc.ui.com
 arbiter.stg.svc.ui.com
 arbiter.svc.ui.com
-arlington.8.app1.b2c.www.blog.dev.ui.com
 as2.svc.ui.com
 assets.ecomm.ui.com
 aus.store.ui.com
@@ -397,7 +394,6 @@ dww.blog.ui.com
 e040273f-1979-401e-abfc-55a2b3f5600c.unifi-hosting.ui.com
 e18ac556-f391-428e-81c6-3b33248018ee.unifi-hosting.ui.com
 e45efd4f-b86c-4c06-8cef-cbfda36ef244.unifi-hosting.ui.com
-e8.blog.dev.ui.com
 ea1518fb-06ff-49e6-b85c-74a17ba617d9.unifi-hosting.ui.com
 ea7f37fb-1e15-498b-a331-b01e1a6be025.unifi-hosting.ui.com
 eb5e13bc-427c-44eb-9c1d-b146f4efa222.unifi-hosting.ui.com
@@ -554,7 +550,6 @@ material.ui.com
 mbayerl.ui.com
 me.store.ui.com
 metrics-api.blog.ui.com
-mkj.blog.dev.ui.com
 ml.blog.ui.com
 mlk.blog.ui.com
 mlkj.blog.ui.com

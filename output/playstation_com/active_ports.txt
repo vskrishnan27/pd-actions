@@ -46,6 +46,8 @@ blog.zh-hant.playstation.com:80
 bps.playstation.com:443
 br.playstation.com:443
 br.playstation.com:80
+bridges.playstation.com:443
+bridges.playstation.com:80
 byblos.asia.playstation.com:22
 c2.jp.playstation.com:25
 c3.jp.playstation.com:25
@@ -203,6 +205,8 @@ direct-queue.playstation.com:443
 direct-queue.playstation.com:80
 direct.e1-np.playstation.com:443
 direct.e1-np.playstation.com:80
+direct.playstation.com:443
+direct.playstation.com:80
 dms.api.playstation.com:443
 dms.api.playstation.com:80
 docportal.playstation.com:443
@@ -378,7 +382,6 @@ presscenter.playstation.com:443
 presscenter.playstation.com:80
 preview.direct.e1-np.playstation.com:443
 preview.direct.e1-np.playstation.com:80
-preview.playstation.com:443
 previewer.playstation.com:443
 previewer.playstation.com:80
 profile.api.playstation.com:443

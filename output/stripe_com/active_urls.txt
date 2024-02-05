@@ -18,6 +18,7 @@ http://buy.stripe.com
 http://calendar.stripe.com
 http://cdg.corp.stripe.com:443
 http://cgk.corp.stripe.com:443
+http://checkout-cookies.stripe.com
 http://checkout.stripe.com
 http://climate.stripe.com
 http://cmh.corp.stripe.com:443
@@ -45,7 +46,6 @@ http://edge-buy.stripe.com
 http://edge-checkout-tree.stripe.com
 http://edge-checkout.stripe.com
 http://edge-dashboard-admin.stripe.com
-http://edge-dashboard.stripe.com
 http://edge-donate.stripe.com
 http://edge-invoice.stripe.com
 http://edge-js-tree.stripe.com
@@ -54,6 +54,7 @@ http://edge-js.stripe.com
 http://edge-manage.stripe.com
 http://edge-pay.stripe.com
 http://edge.stripe.com
+http://eidas-cert.stripe.com
 http://email-57.stripe.com
 http://email-74.stripe.com
 http://email-91.stripe.com
@@ -93,12 +94,13 @@ http://ip-54-187-119-242.stripe.com
 http://ip-54-187-159-182.stripe.com
 http://issuing-key.stripe.com
 http://jira.corp.stripe.com:443
-http://js.stripe.com
 http://jss.prod.corp.stripe.com:443
 http://lists.stripe.com
 http://local.corp.stripe.com:443
 http://lokalise-hooks.stripe.com
 http://mail.stripe.com
+http://manage.stripe.com
+http://marketplace.stripe.com
 http://media.stripe.com
 http://merchant-ui-api.stripe.com
 http://northwest.corp.stripe.com:443
@@ -120,9 +122,9 @@ http://press.stripe.com
 http://prod-files-flow.stripe.com
 http://prod-frontend-flow.stripe.com
 http://prod-js-tree.stripe.com
+http://prod-js-tree.stripe.com:443
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
-http://public.stripe.com
 http://q.stripe.com
 http://qa-api-global-bluegreen.stripe.com
 http://qa-api.stripe.com
@@ -140,7 +142,6 @@ http://qa-status.stripe.com
 http://qa-support-conversations.stripe.com
 http://qa.corp.stripe.com:443
 http://qr.stripe.com
-http://r.stripe.com
 http://sales-live-chat.stripe.com
 http://sessions.stripe.com
 http://shop.stripe.com
@@ -252,7 +253,6 @@ https://ip-54-187-159-182.stripe.com
 https://ipaddr-3ds.stripe.com
 https://issuing-hooks-public.stripe.com
 https://issuing-key.stripe.com
-https://js.stripe.com
 https://jss.qa.corp.stripe.com
 https://lists.stripe.com
 https://lokalise-hooks.stripe.com
@@ -272,10 +272,8 @@ https://preprod-crypto-js.stripe.com
 https://press.stripe.com
 https://prod-files-flow.stripe.com
 https://prod-frontend-flow.stripe.com
-https://prod-js-tree.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
-https://public.stripe.com
 https://q.stripe.com
 https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com
@@ -285,7 +283,6 @@ https://qa-ipaddr-3ds.stripe.com
 https://qa-status.stripe.com
 https://qa-support-conversations.stripe.com
 https://qr.stripe.com
-https://r.stripe.com
 https://sales-live-chat.stripe.com
 https://sessions.stripe.com
 https://shop.stripe.com

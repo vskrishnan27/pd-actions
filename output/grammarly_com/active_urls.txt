@@ -32,7 +32,6 @@ http://download-office.grammarly.com
 http://download-windows.grammarly.com
 http://ed.grammarly.com
 http://go.grammarly.com
-http://grammarly.com
 http://handbook.grammarly.com
 http://id.grammarly.com
 http://image.send.grammarly.com
@@ -119,7 +118,6 @@ https://geoproximity.bixby.grammarly.com
 https://gnar.grammarly.com
 https://go.grammarly.com
 https://goldengate.grammarly.com
-https://grammarly.com
 https://handbook.grammarly.com
 https://id.grammarly.com
 https://image.send.grammarly.com

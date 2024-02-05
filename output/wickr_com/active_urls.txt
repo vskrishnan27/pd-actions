@@ -11,6 +11,7 @@ http://messaging-pro-prod.wickr.com
 http://pro-download.wickr.com
 http://register.wickr.com
 http://status.wickr.com
+http://status.wickr.com:443
 http://support.wickr.com
 http://support.wickr.com:8080
 http://support.wickr.com:8443
@@ -27,7 +28,6 @@ https://messaging-pro-prod.wickr.com
 https://niap.wickr.com
 https://pro-download.wickr.com
 https://register.wickr.com
-https://status.wickr.com
 https://support.wickr.com
 https://testing-amazon.wickr.com
 https://wickr.com

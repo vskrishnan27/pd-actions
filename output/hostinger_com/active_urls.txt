@@ -22,7 +22,6 @@ http://autodiscover.mail.hostinger.com
 http://bekraeft.hostinger.com
 http://builder.hostinger.com
 http://builder.hostinger.com:8080
-http://builder.hostinger.com:8443
 http://cart.hostinger.com
 http://cart.hostinger.com:8443
 http://cdn.hostinger.com
@@ -31,7 +30,6 @@ http://confirmar.hostinger.com
 http://connect.hostinger.com
 http://convalida.hostinger.com
 http://cpanel.hostinger.com
-http://cpanel.hostinger.com:8080
 http://cpanel.hostinger.com:8443
 http://design.hostinger.com
 http://dogrula.hostinger.com
@@ -45,8 +43,9 @@ http://flockcontacts.hostinger.com
 http://flockmail.hostinger.com
 http://help.hostinger.com
 http://help.hostinger.com:8080
+http://hostinger.com
+http://hostinger.com:8080
 http://hpanel.hostinger.com
-http://hpanel.hostinger.com:8443
 http://kontroll.hostinger.com
 http://mail.hostinger.com
 http://mail.hostinger.com:8443
@@ -112,7 +111,6 @@ http://www.flockcalendar.hostinger.com
 http://www.flockcontacts.hostinger.com
 http://www.flockmail.hostinger.com
 http://www.hostinger.com
-http://www.hostinger.com:8443
 http://www.titancalendar.hostinger.com
 http://www.titancontacts.hostinger.com
 http://www.titanmail.hostinger.com
@@ -137,6 +135,7 @@ https://autoconfig.mail.hostinger.com
 https://autodiscover.mail.hostinger.com
 https://bekraeft.hostinger.com
 https://builder.hostinger.com
+https://builder.hostinger.com:8443
 https://cart.hostinger.com
 https://cdn.hostinger.com
 https://confirmar.hostinger.com
@@ -152,7 +151,10 @@ https://flockcontacts.hostinger.com
 https://flockmail.hostinger.com
 https://help.hostinger.com
 https://help.hostinger.com:8443
+https://hostinger.com
+https://hostinger.com:8443
 https://hpanel.hostinger.com
+https://hpanel.hostinger.com:8443
 https://kontroll.hostinger.com
 https://mail.hostinger.com
 https://marketing.hostinger.com
@@ -205,6 +207,7 @@ https://www.flockcalendar.hostinger.com
 https://www.flockcontacts.hostinger.com
 https://www.flockmail.hostinger.com
 https://www.hostinger.com
+https://www.hostinger.com:8443
 https://www.titancalendar.hostinger.com
 https://www.titancontacts.hostinger.com
 https://www.titanmail.hostinger.com

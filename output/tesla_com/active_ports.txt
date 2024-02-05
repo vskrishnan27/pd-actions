@@ -142,6 +142,7 @@ akamai-apigateway-warptqpapi.tesla.com:443
 akamai-apigateway-warptqpapi.tesla.com:80
 akamai-apigateway-zip3-suppliersequence.tesla.com:443
 akamai-apigateway-zip3-suppliersequence.tesla.com:80
+ams13-gpgw1.tesla.com:443
 apf-api.eng.vn.cloud.tesla.com:443
 apf-api.eng.vn.cloud.tesla.com:80
 apf-api.prd.vn.cloud.tesla.com:443
@@ -170,8 +171,6 @@ bi.tesla.com:443
 bi.tesla.com:80
 billing.tesla.com:443
 billing.tesla.com:80
-bolt.tesla.com:443
-bolt.tesla.com:80
 business-ui-ownership.tesla.com:443
 business-ui-ownership.tesla.com:80
 cdn-design.tesla.com:443
@@ -194,6 +193,7 @@ cx-api-apac.tesla.com:443
 cx-api-apac.tesla.com:80
 cyberbeer.tesla.com:443
 cyberbeer.tesla.com:80
+dal11-gpgw1.tesla.com:443
 dataviz.tesla.com:443
 dataviz.tesla.com:80
 digitalassets-accounts.tesla.com:443
@@ -218,6 +218,8 @@ edr.tesla.com:443
 edr.tesla.com:80
 ehs.tesla.com:443
 ehs.tesla.com:80
+einvoicing.tesla.com:443
+einvoicing.tesla.com:80
 email1.tesla.com:25
 emails.tesla.com:25
 employeefeedback.tesla.com:443
@@ -262,12 +264,12 @@ fleetview.fn.tesla.com:443
 fleetview.prd.america.fn.tesla.com:443
 fleetview.prd.europe.fn.tesla.com:443
 fra05-gpgw1.tesla.com:443
-fra05-gpgw1.tesla.com:80
 gpv.tesla.com:443
 grid.tesla.com:443
 grid.tesla.com:80
 gridlogic.energy.tesla.com:443
 gridlogic.energy.tesla.com:80
+hnd13-gpgw1.tesla.com:443
 hub.tesla.com:443
 hub.tesla.com:80
 iad05-gpgw1.tesla.com:443
@@ -284,6 +286,8 @@ installations-ext-api.tesla.com:80
 integration.kronos.tesla.com:443
 inventory-assets.tesla.com:443
 inventory-assets.tesla.com:80
+ion.tesla.com:443
+ion.tesla.com:80
 ir.tesla.com:443
 ir.tesla.com:80
 itanswers.tesla.com:80
@@ -318,8 +322,6 @@ mfa.tesla.com:443
 mfa.tesla.com:80
 mfs-supplier-uat.tesla.com:443
 mfs-supplier-uat.tesla.com:80
-mfs-supplier.tesla.com:443
-mfs-supplier.tesla.com:80
 mobile-links-cdn.eng.vn.cloud.tesla.com:443
 mobile-links-cdn.eng.vn.cloud.tesla.com:80
 mobile-links-cdn.prd.vn.cloud.tesla.com:443
@@ -346,6 +348,7 @@ pages.email.tesla.com:443
 pages.email.tesla.com:80
 pages.emails.tesla.com:443
 pages.emails.tesla.com:80
+partnerleadsharing.tesla.com:80
 partners.tesla.com:443
 partners.tesla.com:80
 pay.tesla.com:443

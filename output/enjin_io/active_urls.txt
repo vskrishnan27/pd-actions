@@ -3,6 +3,9 @@ http://assets.enjin.io:8080
 http://assets.enjin.io:8443
 http://auth.enjin.io
 http://auth.enjin.io:8080
+http://beam.enjin.io
+http://beam.enjin.io:8080
+http://beam.enjin.io:8443
 http://blog.enjin.io
 http://blog.enjin.io:8080
 http://cdn.enjin.io
@@ -13,6 +16,7 @@ http://cloud.enjin.io:8080
 http://cloud.enjin.io:8443
 http://console.enjin.io
 http://console.enjin.io:8080
+http://console.enjin.io:8443
 http://csharp.docs.enjin.io
 http://deeplink.wallet.enjin.io
 http://deeplink.wallet.enjin.io:8080
@@ -54,7 +58,6 @@ http://p2p.2.us.bootnode.matrix.canary.enjin.io
 http://p2p.2.us.bootnode.relay.canary.enjin.io
 http://platform.enjin.io
 http://platform.enjin.io:8080
-http://platform.enjin.io:8443
 http://support.enjin.io
 http://support.enjin.io:8080
 http://support.enjin.io:8443
@@ -64,12 +67,12 @@ http://www.enjin.io
 https://assets.enjin.io
 https://auth.enjin.io
 https://auth.enjin.io:8443
+https://beam.enjin.io
 https://blog.enjin.io
 https://blog.enjin.io:8443
 https://cdn.enjin.io
 https://cloud.enjin.io
 https://console.enjin.io
-https://console.enjin.io:8443
 https://csharp.docs.enjin.io
 https://deeplink.wallet.enjin.io
 https://deeplink.wallet.enjin.io:8443
@@ -104,6 +107,7 @@ https://p2p.1.us.bootnode.matrix.blockchain.enjin.io
 https://p2p.1.us.bootnode.relay.canary.enjin.io
 https://p2p.2.us.bootnode.relay.canary.enjin.io
 https://platform.enjin.io
+https://platform.enjin.io:8443
 https://support.enjin.io
 https://wallet.enjin.io
 https://wallet.enjin.io:8443

@@ -44,13 +44,9 @@ http://lyra.recordedfuture.com
 http://partners.recordedfuture.com
 http://partners.recordedfuture.com:8080
 http://pgg391.info.recordedfuture.com
-http://preprod.cms.recordedfuture.com
 http://preprod.recordedfuture.com
 http://preprod.recordedfuture.com:8080
 http://preprod.recordedfuture.com:8443
-http://recordedfuture.com
-http://recordedfuture.com:8080
-http://recordedfuture.com:8443
 http://sandbox.recordedfuture.com
 http://sandbox.recordedfuture.com:8080
 http://status.recordedfuture.com
@@ -96,9 +92,7 @@ https://learning.recordedfuture.com:8443
 https://lyra.recordedfuture.com
 https://partners.recordedfuture.com
 https://partners.recordedfuture.com:8443
-https://preprod.cms.recordedfuture.com
 https://preprod.recordedfuture.com
-https://recordedfuture.com
 https://sandbox.recordedfuture.com
 https://sandbox.recordedfuture.com:8443
 https://status.recordedfuture.com

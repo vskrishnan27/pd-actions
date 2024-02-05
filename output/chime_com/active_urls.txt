@@ -6,10 +6,8 @@ http://16002407.notify.chime.com:8080
 http://16002407.notify.chime.com:8443
 http://app.chime.com
 http://app.chime.com:8080
-http://app.chime.com:8443
 http://attachments.chime.com
 http://attachments.chime.com:8080
-http://attachments.chime.com:8443
 http://autobots-dev1.chime.com
 http://autobots-dev1.chime.com:8080
 http://autobots-dev1.chime.com:8443
@@ -117,6 +115,7 @@ http://public-assets-qa.chime.com:8080
 http://public-assets-qa.chime.com:8443
 http://public-assets.chime.com
 http://public-assets.chime.com:8080
+http://public-assets.chime.com:8443
 http://static-attachments.chime.com
 http://static-attachments.chime.com:8080
 http://static-attachments.chime.com:8443
@@ -139,7 +138,9 @@ http://www.chime.com
 https://16002407.account.chime.com
 https://16002407.notify.chime.com
 https://app.chime.com
+https://app.chime.com:8443
 https://attachments.chime.com
+https://attachments.chime.com:8443
 https://autobots-dev1.chime.com
 https://autobots-qa.chime.com
 https://autobots.chime.com
@@ -189,7 +190,6 @@ https://penny.chime.com
 https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
 https://public-assets.chime.com
-https://public-assets.chime.com:8443
 https://static-attachments.chime.com
 https://status.chime.com
 https://status.chime.com:8443

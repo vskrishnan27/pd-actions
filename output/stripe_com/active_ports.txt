@@ -191,6 +191,7 @@ jss.prod.corp.stripe.com:443
 jss.qa.corp.stripe.com:443
 lists.stripe.com:443
 lists.stripe.com:80
+local.corp.stripe.com:443
 lokalise-hooks.stripe.com:443
 lokalise-hooks.stripe.com:80
 m.stripe.com:443

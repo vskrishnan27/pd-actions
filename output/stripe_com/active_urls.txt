@@ -18,7 +18,6 @@ http://buy.stripe.com
 http://calendar.stripe.com
 http://cdg.corp.stripe.com:443
 http://cgk.corp.stripe.com:443
-http://checkout-cookies.stripe.com
 http://checkout.stripe.com
 http://climate.stripe.com
 http://cmh.corp.stripe.com:443
@@ -52,8 +51,9 @@ http://edge-invoice.stripe.com
 http://edge-js-tree.stripe.com
 http://edge-js-tree.stripe.com:443
 http://edge-js.stripe.com
+http://edge-manage.stripe.com
+http://edge-pay.stripe.com
 http://edge.stripe.com
-http://eidas-cert.stripe.com
 http://email-57.stripe.com
 http://email-74.stripe.com
 http://email-91.stripe.com
@@ -96,10 +96,9 @@ http://jira.corp.stripe.com:443
 http://js.stripe.com
 http://jss.prod.corp.stripe.com:443
 http://lists.stripe.com
+http://local.corp.stripe.com:443
 http://lokalise-hooks.stripe.com
 http://mail.stripe.com
-http://manage.stripe.com
-http://marketplace.stripe.com
 http://media.stripe.com
 http://merchant-ui-api.stripe.com
 http://northwest.corp.stripe.com:443
@@ -250,6 +249,7 @@ https://invoicedata.stripe.com
 https://ip-54-186-23-98.stripe.com
 https://ip-54-187-119-242.stripe.com
 https://ip-54-187-159-182.stripe.com
+https://ipaddr-3ds.stripe.com
 https://issuing-hooks-public.stripe.com
 https://issuing-key.stripe.com
 https://js.stripe.com

@@ -59,6 +59,7 @@ blog.xvideos.com
 blog.xvideos.com
 blog.xvideos.com
 blog.xvideos.com
+blog.xvideos.com
 br.com.xvideos.com
 br.com.xvideos.com
 br.com.xvideos.com
@@ -69,6 +70,7 @@ c4663c23644a188.xvideos.com
 c4663c23644a188.xvideos.com
 c4663c23644a188.xvideos.com
 c4663c23644a188.xvideos.com
+cams.xvideos.com
 cams.xvideos.com
 cams.xvideos.com
 cams.xvideos.com
@@ -96,6 +98,8 @@ chat-group-test-connection.xvideos.com
 chat-group-test-connection.xvideos.com
 chat-group-test-connection.xvideos.com
 chat-group-test-connection.xvideos.com
+chat-group-test-connection.xvideos.com
+chat-group-test-master.xvideos.com
 chat-group-test-master.xvideos.com
 chat-group-test-master.xvideos.com
 chat-group-test-master.xvideos.com
@@ -128,11 +132,13 @@ content.admin.xvideos.com
 content.admin.xvideos.com
 content.admin.xvideos.com
 content.admin.xvideos.com
+content.admin.xvideos.com
 content.xvideos.com
 content.xvideos.com
 content.xvideos.com
 content.xvideos.com
 content.xvideos.com
+control.xvideos.com
 control.xvideos.com
 control.xvideos.com
 control.xvideos.com
@@ -150,6 +156,7 @@ dev.face-rec.xvideos.com
 dev.face-rec.xvideos.com
 dev.face-rec.xvideos.com
 dev.face-rec.xvideos.com
+dev.face-rec.xvideos.com
 down.xvideos.com
 down.xvideos.com
 down.xvideos.com
@@ -160,6 +167,7 @@ download.im.05fe4100.14865849.x.xvideos.com
 download.im.05fe4100.14865849.x.xvideos.com
 download.im.05fe4100.14865849.x.xvideos.com
 download.im.05fe4100.14865849.x.xvideos.com
+download.im.294b5600.22393761.x.xvideos.com
 download.im.294b5600.22393761.x.xvideos.com
 download.im.294b5600.22393761.x.xvideos.com
 download.im.294b5600.22393761.x.xvideos.com
@@ -287,6 +295,7 @@ download.im.8d00ad00.7360419.x.xvideos.com
 download.im.8d00ad00.7360419.x.xvideos.com
 download.im.8d00ad00.7360419.x.xvideos.com
 download.im.8d00ad00.7360419.x.xvideos.com
+download.im.8d00ad00.7360419.x.xvideos.com
 download.im.8d00ad00.7573881.x.xvideos.com
 download.im.8d00ad00.7573881.x.xvideos.com
 download.im.8d00ad00.7573881.x.xvideos.com
@@ -302,6 +311,7 @@ download.im.8d00ad00.8662489.x.xvideos.com
 download.im.8d00ad00.8662489.x.xvideos.com
 download.im.8d00ad00.8662489.x.xvideos.com
 download.im.8d00ad00.8662489.x.xvideos.com
+download.im.8d00ad7a.63493.x.xvideos.com
 download.im.8d00ad7a.63493.x.xvideos.com
 download.im.8d00ad7a.63493.x.xvideos.com
 download.im.8d00ad7a.63493.x.xvideos.com
@@ -399,6 +409,7 @@ face-rec.xvideos.com
 face-rec.xvideos.com
 face-rec.xvideos.com
 face-rec.xvideos.com
+face-rec.xvideos.com
 flashservice.xvideos.com
 flashservice.xvideos.com
 flashservice.xvideos.com
@@ -425,11 +436,13 @@ images.face-rec.xvideos.com
 images.face-rec.xvideos.com
 images.face-rec.xvideos.com
 images.face-rec.xvideos.com
+images.face-rec.xvideos.com
 imap4.fr.xvideos.com
 imap4.fr.xvideos.com
 imap4.fr.xvideos.com
 imap4.fr.xvideos.com
 imap4.fr.xvideos.com
+img-egc.xvideos.com
 img-egc.xvideos.com
 img-egc.xvideos.com
 img-egc.xvideos.com
@@ -1307,6 +1320,8 @@ links.news.xvideos.com
 links.news.xvideos.com
 links.news.xvideos.com
 links.news.xvideos.com
+links.news.xvideos.com
+links.xvideos.com
 links.xvideos.com
 links.xvideos.com
 links.xvideos.com
@@ -1319,6 +1334,8 @@ mail.support.xvideos.com
 mail.support.xvideos.com
 mail.support.xvideos.com
 mail.support.xvideos.com
+mail.support.xvideos.com
+mail.xvideos.com
 mail.xvideos.com
 mail.xvideos.com
 mail.xvideos.com
@@ -1351,6 +1368,8 @@ o1.mailing.xvideos.com
 o1.mailing.xvideos.com
 o1.mailing.xvideos.com
 o1.mailing.xvideos.com
+o1.mailing.xvideos.com
+o1.sg.news.xvideos.com
 o1.sg.news.xvideos.com
 o1.sg.news.xvideos.com
 o1.sg.news.xvideos.com
@@ -1363,6 +1382,8 @@ o2.sg.xvideos.com
 o2.sg.xvideos.com
 o2.sg.xvideos.com
 o2.sg.xvideos.com
+o2.sg.xvideos.com
+o7.ptr1818.games.xvideos.com
 o7.ptr1818.games.xvideos.com
 o7.ptr1818.games.xvideos.com
 o7.ptr1818.games.xvideos.com
@@ -1395,12 +1416,15 @@ porn.im.187241ee.370047.x.xvideos.com
 porn.im.187241ee.370047.x.xvideos.com
 porn.im.187241ee.370047.x.xvideos.com
 porn.im.187241ee.370047.x.xvideos.com
+porn.im.187241ee.370047.x.xvideos.com
 porn.im.18ccd858.370047.x.xvideos.com
 porn.im.18ccd858.370047.x.xvideos.com
 porn.im.18ccd858.370047.x.xvideos.com
 porn.im.18ccd858.370047.x.xvideos.com
 porn.im.18ccd858.370047.x.xvideos.com
 porn.im.18ccd858.370047.x.xvideos.com
+porn.im.18ccd858.370047.x.xvideos.com
+porn.im.1f3369e2.938329.x.xvideos.com
 porn.im.1f3369e2.938329.x.xvideos.com
 porn.im.1f3369e2.938329.x.xvideos.com
 porn.im.1f3369e2.938329.x.xvideos.com
@@ -1438,6 +1462,7 @@ porn.im.31f35900.8438147.x.xvideos.com
 porn.im.31f35900.8438147.x.xvideos.com
 porn.im.31f35900.8438147.x.xvideos.com
 porn.im.31f35900.8438147.x.xvideos.com
+porn.im.31f35900.8438147.x.xvideos.com
 porn.im.33ff9100.19634259.x.xvideos.com
 porn.im.33ff9100.19634259.x.xvideos.com
 porn.im.33ff9100.19634259.x.xvideos.com
@@ -1459,6 +1484,8 @@ porn.im.42577300.5920448.x.xvideos.com
 porn.im.42577300.5920448.x.xvideos.com
 porn.im.42577300.5920448.x.xvideos.com
 porn.im.42577300.5920448.x.xvideos.com
+porn.im.42577300.5920448.x.xvideos.com
+porn.im.42578287.1846786.x.xvideos.com
 porn.im.42578287.1846786.x.xvideos.com
 porn.im.42578287.1846786.x.xvideos.com
 porn.im.42578287.1846786.x.xvideos.com
@@ -1481,6 +1508,7 @@ porn.im.4adccf00.13493185.x.xvideos.com
 porn.im.4adccf00.13493185.x.xvideos.com
 porn.im.4adccf00.13493185.x.xvideos.com
 porn.im.4adccf00.13493185.x.xvideos.com
+porn.im.4adccf00.13493185.x.xvideos.com
 porn.im.4d7d5a00.10155585.x.xvideos.com
 porn.im.4d7d5a00.10155585.x.xvideos.com
 porn.im.4d7d5a00.10155585.x.xvideos.com
@@ -1492,6 +1520,8 @@ porn.im.4e2e4000.6820386.x.xvideos.com
 porn.im.4e2e4000.6820386.x.xvideos.com
 porn.im.4e2e4000.6820386.x.xvideos.com
 porn.im.4e2e4000.6820386.x.xvideos.com
+porn.im.4e2e4000.6820386.x.xvideos.com
+porn.im.4e2e4000.6878056.x.xvideos.com
 porn.im.4e2e4000.6878056.x.xvideos.com
 porn.im.4e2e4000.6878056.x.xvideos.com
 porn.im.4e2e4000.6878056.x.xvideos.com
@@ -1504,6 +1534,8 @@ porn.im.4e2e4000.8399749.x.xvideos.com
 porn.im.4e2e4000.8399749.x.xvideos.com
 porn.im.4e2e4000.8399749.x.xvideos.com
 porn.im.4e2e4000.8399749.x.xvideos.com
+porn.im.4e2e4000.8399749.x.xvideos.com
+porn.im.4e2e4000.8690770.x.xvideos.com
 porn.im.4e2e4000.8690770.x.xvideos.com
 porn.im.4e2e4000.8690770.x.xvideos.com
 porn.im.4e2e4000.8690770.x.xvideos.com
@@ -1530,6 +1562,7 @@ porn.im.50f08b00.401445.x.xvideos.com
 porn.im.50f08b00.401445.x.xvideos.com
 porn.im.50f08b00.401445.x.xvideos.com
 porn.im.50f08b00.401445.x.xvideos.com
+porn.im.52d06500.20431419.x.xvideos.com
 porn.im.52d06500.20431419.x.xvideos.com
 porn.im.52d06500.20431419.x.xvideos.com
 porn.im.52d06500.20431419.x.xvideos.com
@@ -1867,6 +1900,7 @@ porn1-im-1fd2d000-23453556-mp4.x.xvideos.com
 porn1-im-1fd2d000-23453556-mp4.x.xvideos.com
 porn1-im-1fd2d000-23453556-mp4.x.xvideos.com
 porn1-im-1fd2d000-23453556-mp4.x.xvideos.com
+porn1-im-1fd2d000-23453556-mp4.x.xvideos.com
 porn100.xvideos.com
 porn100.xvideos.com
 porn100.xvideos.com
@@ -1903,6 +1937,8 @@ proxy-cdn77.xvideos.com
 proxy-cdn77.xvideos.com
 proxy-cdn77.xvideos.com
 proxy-cdn77.xvideos.com
+proxy-cdn77.xvideos.com
+reports.face-rec.xvideos.com
 reports.face-rec.xvideos.com
 reports.face-rec.xvideos.com
 reports.face-rec.xvideos.com
@@ -1914,6 +1950,7 @@ s.xvideos.com
 s.xvideos.com
 s.xvideos.com
 s.xvideos.com
+static-dev-xvlive.xvideos.com
 static-dev-xvlive.xvideos.com
 static-dev-xvlive.xvideos.com
 static-dev-xvlive.xvideos.com
@@ -1941,6 +1978,8 @@ static.xvideos.com
 static.xvideos.com
 static.xvideos.com
 static.xvideos.com
+static.xvideos.com
+support.xvideos.com
 support.xvideos.com
 support.xvideos.com
 support.xvideos.com
@@ -1968,6 +2007,7 @@ trade-admin.xvideos.com
 trade-admin.xvideos.com
 trade-admin.xvideos.com
 trade-admin.xvideos.com
+trade-admin.xvideos.com
 trade.xvideos.com
 trade.xvideos.com
 trade.xvideos.com
@@ -1979,6 +2019,8 @@ upload-test-docker-new.xvideos.com
 upload-test-docker-new.xvideos.com
 upload-test-docker-new.xvideos.com
 upload-test-docker-new.xvideos.com
+upload-test-docker-new.xvideos.com
+upload-test-docker.xvideos.com
 upload-test-docker.xvideos.com
 upload-test-docker.xvideos.com
 upload-test-docker.xvideos.com
@@ -2001,11 +2043,13 @@ vc.xvideos.com
 vc.xvideos.com
 vc.xvideos.com
 vc.xvideos.com
+vc.xvideos.com
 vmmscazz.xvideos.com
 vmmscazz.xvideos.com
 vmmscazz.xvideos.com
 vmmscazz.xvideos.com
 vmmscazz.xvideos.com
+webmaster-tools.xvideos.com
 webmaster-tools.xvideos.com
 webmaster-tools.xvideos.com
 webmaster-tools.xvideos.com
@@ -2063,6 +2107,7 @@ x.xvideos.com
 x.xvideos.com
 x.xvideos.com
 x.xvideos.com
+x.xvideos.com
 xnxx.commobile.xvideos.com
 xnxx.commobile.xvideos.com
 xnxx.commobile.xvideos.com
@@ -2078,6 +2123,7 @@ xv140.xvideos.com
 xv140.xvideos.com
 xv140.xvideos.com
 xv140.xvideos.com
+xvideos.com
 xvideos.com
 xvideos.com
 xvideos.com

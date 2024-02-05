@@ -23,6 +23,7 @@ http://files.recordedfuture.com:8443
 http://futuristuniversity.recordedfuture.com
 http://get.recordedfuture.com
 http://get.recordedfuture.com:8080
+http://get.recordedfuture.com:8443
 http://go.recordedfuture.com
 http://go.recordedfuture.com:8080
 http://gslink.recordedfuture.com
@@ -82,7 +83,6 @@ https://email.recordedfuture.com
 https://express-api.recordedfuture.com
 https://futuristuniversity.recordedfuture.com
 https://get.recordedfuture.com
-https://get.recordedfuture.com:8443
 https://go.recordedfuture.com
 https://go.recordedfuture.com:8443
 https://gslink.recordedfuture.com

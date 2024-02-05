@@ -1,12 +1,10 @@
 http://accounts.coinbase.com:8443
-http://api-public.sandbox.exchange.coinbase.com
 http://api-public.sandbox.exchange.coinbase.com:8443
 http://api-public.sandbox.pro.coinbase.com
 http://api-public.sandbox.pro.coinbase.com:8080
 http://api-public.sandbox.pro.coinbase.com:8443
 http://api-test.prime.coinbase.com
 http://api-test.prime.coinbase.com:8080
-http://api-test.prime.coinbase.com:8443
 http://api.coinbase.com
 http://api.coinbase.com:8080
 http://api.commerce.coinbase.com
@@ -37,6 +35,7 @@ http://assethub-api.coinbase.com:8443
 http://assethub.coinbase.com
 http://assets-test.coinbase.com
 http://assets-test.coinbase.com:8080
+http://assets-test.coinbase.com:8443
 http://assets.cloud.coinbase.com
 http://assets.cloud.coinbase.com:8080
 http://assets.cloud.coinbase.com:8443
@@ -64,6 +63,7 @@ http://buy.coinbase.com:8443
 http://card.coinbase.com
 http://careers.coinbase.com
 http://careers.coinbase.com:8080
+http://careers.coinbase.com:8443
 http://chain-proxy.wallet.coinbase.com
 http://chain-proxy.wallet.coinbase.com:8080
 http://chain-proxy.wallet.coinbase.com:8443
@@ -77,9 +77,6 @@ http://cloud.coinbase.com:8443
 http://cohort-service.crypto.coinbase.com
 http://cohort-service.crypto.coinbase.com:8080
 http://cohort-service.crypto.coinbase.com:8443
-http://coinbase.com
-http://coinbase.com:8080
-http://coinbase.com:8443
 http://comm.coinbase.com
 http://comm.coinbase.com:8080
 http://comm.coinbase.com:8443
@@ -102,6 +99,7 @@ http://custody.coinbase.com:8080
 http://custody.coinbase.com:8443
 http://data.coinbase.com
 http://data.coinbase.com:8080
+http://data.coinbase.com:8443
 http://dev.coinbase.com
 http://dev.coinbase.com:8080
 http://dev.coinbase.com:8443
@@ -156,7 +154,6 @@ http://exchange.coinbase.com:8080
 http://exchange.coinbase.com:8443
 http://goerli-etherscan.wallet.coinbase.com
 http://goerli-etherscan.wallet.coinbase.com:8080
-http://goerli-etherscan.wallet.coinbase.com:8443
 http://graphql.coinbase.com
 http://graphql.coinbase.com:8080
 http://graphql.coinbase.com:8443
@@ -228,9 +225,6 @@ http://profile.coinbase.com:8080
 http://profile.coinbase.com:8443
 http://public.sandbox.exchange.coinbase.com
 http://public.sandbox.exchange.coinbase.com:8443
-http://public.sandbox.pro.coinbase.com
-http://public.sandbox.pro.coinbase.com:8080
-http://public.sandbox.pro.coinbase.com:8443
 http://published-assets.coinbase.com
 http://restore.coinbase.com
 http://restore.coinbase.com:8080
@@ -265,9 +259,10 @@ http://status.exchange.coinbase.com:8080
 http://status.exchange.coinbase.com:8443
 http://status.prime.coinbase.com
 http://status.prime.coinbase.com:8080
-http://status.prime.coinbase.com:8443
 http://status.pro.coinbase.com
+http://status.pro.coinbase.com:443
 http://status.pro.coinbase.com:8080
+http://status.pro.coinbase.com:8443
 http://support-dev.coinbase.com
 http://support-dev.coinbase.com:8080
 http://support-dev.prime.coinbase.com
@@ -295,7 +290,6 @@ http://taxforms.coinbase.com:8080
 http://taxforms.coinbase.com:8443
 http://test-api.coinbase.com
 http://test-api.coinbase.com:8080
-http://test-api.coinbase.com:8443
 http://testnet-ripple.wallet.coinbase.com
 http://testnet-ripple.wallet.coinbase.com:8080
 http://testnet-ripple.wallet.coinbase.com:8443
@@ -312,6 +306,7 @@ http://verify.coinbase.com:8080
 http://verify.coinbase.com:8443
 http://wallet.commerce.coinbase.com
 http://wallet.commerce.coinbase.com:8080
+http://wallet.commerce.coinbase.com:8443
 http://widget.coinbase.com
 http://widget.coinbase.com:8080
 http://widget.coinbase.com:8443
@@ -337,6 +332,7 @@ https://api-n5e1.coinbase.com
 https://api-public.sandbox.exchange.coinbase.com
 https://api-public.sandbox.pro.coinbase.com
 https://api-test.prime.coinbase.com
+https://api-test.prime.coinbase.com:8443
 https://api.coinbase.com
 https://api.coinbase.com:8443
 https://api.commerce.coinbase.com
@@ -350,7 +346,6 @@ https://as.coinbase.com
 https://assethub-api.coinbase.com
 https://assethub.coinbase.com
 https://assets-test.coinbase.com
-https://assets-test.coinbase.com:8443
 https://assets.cloud.coinbase.com
 https://assets.coinbase.com
 https://beta.coinbase.com
@@ -365,13 +360,11 @@ https://braintree-webhooks.coinbase.com:8443
 https://buy.coinbase.com
 https://card.coinbase.com
 https://careers.coinbase.com
-https://careers.coinbase.com:8443
 https://chain-proxy.wallet.coinbase.com
 https://cloud-api.coinbase.com
 https://cloud-docs-beta.coinbase.com
 https://cloud.coinbase.com
 https://cohort-service.crypto.coinbase.com
-https://coinbase.com
 https://comm.coinbase.com
 https://commerce.coinbase.com
 https://community.coinbase.com
@@ -381,7 +374,6 @@ https://console.cloud.coinbase.com:8443
 https://contentful.coinbase.com
 https://custody.coinbase.com
 https://data.coinbase.com
-https://data.coinbase.com:8443
 https://dev.coinbase.com
 https://developer.coinbase.com
 https://developers.coinbase.com
@@ -407,6 +399,7 @@ https://exceptions.coinbase.com
 https://exceptions2.coinbase.com
 https://exchange.coinbase.com
 https://goerli-etherscan.wallet.coinbase.com
+https://goerli-etherscan.wallet.coinbase.com:8443
 https://graphql.coinbase.com
 https://help-dev.coinbase.com
 https://help-dev.coinbase.com:8443
@@ -447,7 +440,6 @@ https://prime.coinbase.com
 https://primebroker.coinbase.com
 https://profile.coinbase.com
 https://public.sandbox.exchange.coinbase.com
-https://public.sandbox.pro.coinbase.com
 https://published-assets.coinbase.com
 https://restore.coinbase.com
 https://restore.coinbase.com:8443
@@ -462,8 +454,7 @@ https://status.commerce.coinbase.com
 https://status.custody.coinbase.com
 https://status.exchange.coinbase.com
 https://status.prime.coinbase.com
-https://status.pro.coinbase.com
-https://status.pro.coinbase.com:8443
+https://status.prime.coinbase.com:8443
 https://support-dev.coinbase.com
 https://support-dev.coinbase.com:8443
 https://support-dev.prime.coinbase.com
@@ -488,6 +479,7 @@ https://taxform.coinbase.com
 https://taxform.coinbase.com:8443
 https://taxforms.coinbase.com
 https://test-api.coinbase.com
+https://test-api.coinbase.com:8443
 https://testnet-ripple.wallet.coinbase.com
 https://translations.coinbase.com
 https://two-factor.coinbase.com
@@ -495,7 +487,6 @@ https://ventures.coinbase.com
 https://ventures.coinbase.com:8443
 https://verify.coinbase.com
 https://wallet.commerce.coinbase.com
-https://wallet.commerce.coinbase.com:8443
 https://widget.coinbase.com
 https://ws-feed-public.sandbox.pro.coinbase.com
 https://ws-feed.exchange.coinbase.com

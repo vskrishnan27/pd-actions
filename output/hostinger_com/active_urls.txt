@@ -31,6 +31,7 @@ http://confirmar.hostinger.com
 http://connect.hostinger.com
 http://convalida.hostinger.com
 http://cpanel.hostinger.com
+http://cpanel.hostinger.com:8080
 http://cpanel.hostinger.com:8443
 http://design.hostinger.com
 http://dogrula.hostinger.com
@@ -44,8 +45,6 @@ http://flockcontacts.hostinger.com
 http://flockmail.hostinger.com
 http://help.hostinger.com
 http://help.hostinger.com:8080
-http://hostinger.com
-http://hostinger.com:8080
 http://hpanel.hostinger.com
 http://hpanel.hostinger.com:8443
 http://kontroll.hostinger.com
@@ -105,7 +104,6 @@ http://verifikatsiya.hostinger.com
 http://webhooks.hostinger.com
 http://webhooks.hostinger.com:8443
 http://webmail.hostinger.com
-http://webmail.hostinger.com:8080
 http://webmail.hostinger.com:8443
 http://webmail1.hostinger.com
 http://webmail1.hostinger.com:8443
@@ -154,8 +152,6 @@ https://flockcontacts.hostinger.com
 https://flockmail.hostinger.com
 https://help.hostinger.com
 https://help.hostinger.com:8443
-https://hostinger.com
-https://hostinger.com:8443
 https://hpanel.hostinger.com
 https://kontroll.hostinger.com
 https://mail.hostinger.com

@@ -308,6 +308,10 @@ jira-mx.sc-corp.net:443
 jira-mx.sc-corp.net:80
 jira-stage-api.sc-corp.net:443
 jira-stage-api.sc-corp.net:80
+jira-stage.sc-corp.net:443
+jira-stage.sc-corp.net:80
+jira.sc-corp.net:443
+jira.sc-corp.net:80
 key-master-beta.sc-corp.net:10000
 key-master-beta.sc-corp.net:1025
 key-master-beta.sc-corp.net:1026
@@ -842,8 +846,6 @@ search-jupyterhub.sc-corp.net:443
 search-jupyterhub.sc-corp.net:80
 secproxy-gated-dot-snap-lion.gae.sc-corp.net:443
 secproxy-gated-dot-snap-lion.gae.sc-corp.net:80
-secproxy.sc-corp.net:443
-secproxy.sc-corp.net:80
 secproxydev.sc-corp.net:443
 secproxydev.sc-corp.net:80
 sentry.sc-corp.net:443

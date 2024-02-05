@@ -93,6 +93,8 @@ http://jira-dev.sc-corp.net
 http://jira-mx-dev.sc-corp.net
 http://jira-mx.sc-corp.net
 http://jira-stage-api.sc-corp.net
+http://jira-stage.sc-corp.net
+http://jira.sc-corp.net
 http://key-master-prod.sc-corp.net
 http://key-master-stage.sc-corp.net
 http://lease.sc-corp.net
@@ -157,7 +159,6 @@ http://scim.sc-corp.net
 http://search-jenkins.sc-corp.net
 http://search-jupyterhub.sc-corp.net
 http://secproxy-gated-dot-snap-lion.gae.sc-corp.net
-http://secproxy.sc-corp.net
 http://secproxydev.sc-corp.net
 http://sentry.sc-corp.net
 http://service-api-staging-grpc.sc-corp.net
@@ -322,6 +323,8 @@ https://jira-dev.sc-corp.net
 https://jira-mx-dev.sc-corp.net
 https://jira-mx.sc-corp.net
 https://jira-stage-api.sc-corp.net
+https://jira-stage.sc-corp.net
+https://jira.sc-corp.net
 https://key-master-prod.sc-corp.net
 https://key-master-stage.sc-corp.net
 https://lease.sc-corp.net
@@ -389,7 +392,6 @@ https://scim.sc-corp.net
 https://search-jenkins.sc-corp.net
 https://search-jupyterhub.sc-corp.net
 https://secproxy-gated-dot-snap-lion.gae.sc-corp.net
-https://secproxy.sc-corp.net
 https://secproxydev.sc-corp.net
 https://sentry.sc-corp.net
 https://service-api-staging-grpc.sc-corp.net

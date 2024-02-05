@@ -5,6 +5,7 @@ academy-purchase.launchdarkly.com
 academy.launchdarkly.com
 accelerate-internal-stg.launchdarkly.com
 accelerate-internal-ui-stg.launchdarkly.com
+accelerate-internal-ui.launchdarkly.com
 accelerate-internal.launchdarkly.com
 accelerate-ui-stg.launchdarkly.com
 accelerate-ui.launchdarkly.com

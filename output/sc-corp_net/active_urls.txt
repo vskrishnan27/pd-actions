@@ -18,7 +18,6 @@ http://bib.sc-corp.net
 http://build-hook-beta.sc-corp.net
 http://build-hook-prod.sc-corp.net
 http://build-hook-stage.sc-corp.net
-http://builds.sc-corp.net
 http://ca-dev.sc-corp.net
 http://ca-prod.sc-corp.net
 http://campaign-management-beta.sc-corp.net
@@ -240,7 +239,6 @@ https://bib.sc-corp.net
 https://build-hook-beta.sc-corp.net
 https://build-hook-prod.sc-corp.net
 https://build-hook-stage.sc-corp.net
-https://builds.sc-corp.net
 https://ca-dev.sc-corp.net
 https://ca-prod.sc-corp.net
 https://campaign-management-beta.sc-corp.net

@@ -5,6 +5,7 @@ admin-365-test.moonactive.net
 admin-365-test.moonactive.net
 admin-365-test.moonactive.net
 admin-365-test.moonactive.net
+admin-365-test.moonactive.net
 admin-365.moonactive.net
 admin-365.moonactive.net
 admin-365.moonactive.net
@@ -14,6 +15,8 @@ admin-365.moonactive.net
 admin-365.moonactive.net
 admin-365.moonactive.net
 admin-365.moonactive.net
+admin-365.moonactive.net
+admin-dr.moonactive.net
 admin-dr.moonactive.net
 admin-dr.moonactive.net
 admin-dr.moonactive.net
@@ -30,6 +33,7 @@ admin-prod-test.moonactive.net
 admin-prod-test.moonactive.net
 admin-prod-test.moonactive.net
 admin-prod-test.moonactive.net
+admin-prod-test.moonactive.net
 admin-prod.moonactive.net
 admin-prod.moonactive.net
 admin-prod.moonactive.net
@@ -37,6 +41,7 @@ admin-prod.moonactive.net
 admin-prod.moonactive.net
 admin-prod.moonactive.net
 admin-prod.moonactive.net
+admin-prod.moonactive.net
 analytics-staging.moonactive.net
 analytics-staging.moonactive.net
 analytics-staging.moonactive.net
@@ -46,6 +51,8 @@ analytics-staging.moonactive.net
 analytics-staging.moonactive.net
 analytics-staging.moonactive.net
 analytics-staging.moonactive.net
+analytics-staging.moonactive.net
+analytics.moonactive.net
 analytics.moonactive.net
 analytics.moonactive.net
 analytics.moonactive.net
@@ -62,6 +69,7 @@ bitter-game.moonactive.net
 bitter-game.moonactive.net
 bitter-game.moonactive.net
 bitter-game.moonactive.net
+bitter-game.moonactive.net
 builder.moonactive.net
 builder.moonactive.net
 builder.moonactive.net
@@ -69,6 +77,7 @@ builder.moonactive.net
 builder.moonactive.net
 builder.moonactive.net
 builder.moonactive.net
+builder.moonactive.net
 canvas.moonactive.net
 canvas.moonactive.net
 canvas.moonactive.net
@@ -87,6 +96,7 @@ client-metrics.moonactive.net
 client-metrics.moonactive.net
 client-metrics.moonactive.net
 client-metrics.moonactive.net
+client-metrics.moonactive.net
 cm-analytics.moonactive.net
 cm-analytics.moonactive.net
 cm-analytics.moonactive.net
@@ -96,6 +106,8 @@ cm-analytics.moonactive.net
 cm-analytics.moonactive.net
 cm-analytics.moonactive.net
 cm-analytics.moonactive.net
+cm-analytics.moonactive.net
+cm-gs-analytics.moonactive.net
 cm-gs-analytics.moonactive.net
 cm-gs-analytics.moonactive.net
 cm-gs-analytics.moonactive.net
@@ -121,6 +133,8 @@ game-server.moonactive.net
 game-server.moonactive.net
 game-server.moonactive.net
 game-server.moonactive.net
+game-server.moonactive.net
+moonactive.net
 moonactive.net
 moonactive.net
 moonactive.net
@@ -135,6 +149,7 @@ pengi-game.moonactive.net
 pengi-game.moonactive.net
 pengi-game.moonactive.net
 pengi-game.moonactive.net
+pengi-game.moonactive.net
 sam-adven-game.moonactive.net
 sam-adven-game.moonactive.net
 sam-adven-game.moonactive.net
@@ -142,6 +157,8 @@ sam-adven-game.moonactive.net
 sam-adven-game.moonactive.net
 sam-adven-game.moonactive.net
 sam-adven-game.moonactive.net
+sam-adven-game.moonactive.net
+social-images.moonactive.net
 social-images.moonactive.net
 social-images.moonactive.net
 social-images.moonactive.net
@@ -160,6 +177,8 @@ static.moonactive.net
 static.moonactive.net
 static.moonactive.net
 static.moonactive.net
+static.moonactive.net
+vik-analytics-gke.moonactive.net
 vik-analytics-gke.moonactive.net
 vik-analytics-gke.moonactive.net
 vik-analytics-gke.moonactive.net
@@ -176,6 +195,8 @@ vik-analytics-test.moonactive.net
 vik-analytics-test.moonactive.net
 vik-analytics-test.moonactive.net
 vik-analytics-test.moonactive.net
+vik-analytics-test.moonactive.net
+vik-analytics-test2.moonactive.net
 vik-analytics-test2.moonactive.net
 vik-analytics-test2.moonactive.net
 vik-analytics-test2.moonactive.net
@@ -190,6 +211,8 @@ vik-analytics-test3.moonactive.net
 vik-analytics-test3.moonactive.net
 vik-analytics-test3.moonactive.net
 vik-analytics-test3.moonactive.net
+vik-analytics-test3.moonactive.net
+vik-analytics.moonactive.net
 vik-analytics.moonactive.net
 vik-analytics.moonactive.net
 vik-analytics.moonactive.net
@@ -208,6 +231,7 @@ vik-ca.moonactive.net
 vik-ca.moonactive.net
 vik-ca.moonactive.net
 vik-ca.moonactive.net
+vik-ca.moonactive.net
 vik-game.moonactive.net
 vik-game.moonactive.net
 vik-game.moonactive.net
@@ -217,6 +241,8 @@ vik-game.moonactive.net
 vik-game.moonactive.net
 vik-game.moonactive.net
 vik-game.moonactive.net
+vik-game.moonactive.net
+www.game-server.moonactive.net
 www.game-server.moonactive.net
 www.game-server.moonactive.net
 www.game-server.moonactive.net

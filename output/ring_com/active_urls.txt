@@ -81,7 +81,6 @@ http://fileupload.cs-tools.ring.com
 http://firmwares.dev.ring.com
 http://firmwares.dev.ring.com:8443
 http://firmwares.qa.ring.com
-http://firmwares.qa.ring.com:8443
 http://firmwares.ring.com
 http://firmwares.ring.com:8443
 http://fr-fr.ring.com
@@ -189,6 +188,7 @@ http://videorequests.nw.dev.ring.com
 http://videorequests.nw.qa.ring.com
 http://videorequests.nw.ring.com
 http://wu.dev.ring.com
+http://wu.dev.ring.com:8443
 http://wu.qa.ring.com
 http://wu.qa.ring.com:8443
 http://wu.ring.com
@@ -333,6 +333,7 @@ https://fileupload.cs-tools.dev.ring.com
 https://fileupload.cs-tools.ring.com
 https://firmwares.dev.ring.com
 https://firmwares.qa.ring.com
+https://firmwares.qa.ring.com:8443
 https://firmwares.ring.com
 https://fr-fr.ring.com
 https://fr-fr.ring.com:8443
@@ -499,7 +500,6 @@ https://videorequests.nw.qa.ring.com
 https://videorequests.nw.ring.com
 https://videos.release.ring.com
 https://wu.dev.ring.com
-https://wu.dev.ring.com:8443
 https://wu.qa.ring.com
 https://wu.ring.com
 https://www.ring.com

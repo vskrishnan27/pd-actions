@@ -313,10 +313,6 @@ chat.shopify.com:443
 chat.shopify.com:80
 chat.shopify.com:8080
 chat.shopify.com:8443
-checkout.hardware.shopify.com:443
-checkout.hardware.shopify.com:80
-checkout.hardware.shopify.com:8080
-checkout.hardware.shopify.com:8443
 checkout.shopify.com:443
 checkout.shopify.com:80
 checkout.shopify.com:8080
@@ -791,10 +787,6 @@ ihatewhatever.shopify.com:443
 ihatewhatever.shopify.com:80
 ihatewhatever.shopify.com:8080
 ihatewhatever.shopify.com:8443
-image.email.shopify.com:443
-image.email.shopify.com:80
-image.email.shopify.com:8080
-image.email.shopify.com:8443
 inbox.shopify.com:443
 inbox.shopify.com:80
 inbox.shopify.com:8080
@@ -1053,6 +1045,10 @@ mta3.email.shopify.com:443
 mta3.email.shopify.com:80
 mta3.email.shopify.com:8080
 mta3.email.shopify.com:8443
+mta4.email.shopify.com:443
+mta4.email.shopify.com:80
+mta4.email.shopify.com:8080
+mta4.email.shopify.com:8443
 mx.shopify.com:443
 mx.shopify.com:80
 mx.shopify.com:8080
@@ -1116,6 +1112,10 @@ o.ssl.shopify.com:443
 o.ssl.shopify.com:80
 o.ssl.shopify.com:8080
 o.ssl.shopify.com:8443
+oob.toronto.shopify.com:443
+oob.toronto.shopify.com:80
+oob.toronto.shopify.com:8080
+oob.toronto.shopify.com:8443
 open.shopify.com:443
 open.shopify.com:80
 open.shopify.com:8080
@@ -1136,6 +1136,10 @@ partnerhub-japan.shopify.com:443
 partnerhub-japan.shopify.com:80
 partnerhub.shopify.com:443
 partnerhub.shopify.com:80
+partners.shopify.com:443
+partners.shopify.com:80
+partners.shopify.com:8080
+partners.shopify.com:8443
 pauchendelicacies.shopify.com:443
 pauchendelicacies.shopify.com:80
 pauchendelicacies.shopify.com:8080

@@ -344,6 +344,7 @@ o6.mailer.shopify.com
 o7.mailer.shopify.com
 o8.mailer.shopify.com
 o9.mailer.shopify.com
+oob.toronto.shopify.com
 open.shopify.com
 p.ssl.shopify.com
 partner-training.shopify.com
@@ -473,6 +474,7 @@ thescroll.shopify.com
 tim-exclusive.shopify.com
 timber.shopify.com
 tmt.shopify.com
+toronto.shopify.com
 torontoretailtour.shopify.com
 toykingdom.shopify.com
 twominutetutorials.shopify.com

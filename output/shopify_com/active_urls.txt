@@ -156,8 +156,6 @@ http://changelog.shopify.com
 http://changelog.shopify.com:8080
 http://chat.shopify.com
 http://chat.shopify.com:8080
-http://checkout.hardware.shopify.com
-http://checkout.hardware.shopify.com:8080
 http://checkout.shopify.com
 http://checkout.shopify.com:8080
 http://chi.shopify.com
@@ -392,9 +390,6 @@ http://ie.checkout.hardware.shopify.com
 http://ie.checkout.hardware.shopify.com:8080
 http://ihatewhatever.shopify.com
 http://ihatewhatever.shopify.com:8080
-http://image.email.shopify.com
-http://image.email.shopify.com:443
-http://image.email.shopify.com:8080
 http://inbox.shopify.com
 http://inbox.shopify.com:8080
 http://incoming.shopify.com
@@ -524,6 +519,8 @@ http://mta2.email.shopify.com
 http://mta2.email.shopify.com:8080
 http://mta3.email.shopify.com
 http://mta3.email.shopify.com:8080
+http://mta4.email.shopify.com
+http://mta4.email.shopify.com:8080
 http://mx.shopify.com
 http://mx.shopify.com:8080
 http://my.shopify.com
@@ -555,6 +552,8 @@ http://nz.checkout.hardware.shopify.com
 http://nz.checkout.hardware.shopify.com:8080
 http://o.ssl.shopify.com
 http://o.ssl.shopify.com:8080
+http://oob.toronto.shopify.com
+http://oob.toronto.shopify.com:8080
 http://open.shopify.com
 http://open.shopify.com:8080
 http://p.ssl.shopify.com
@@ -565,6 +564,8 @@ http://partner.shopify.com
 http://partner.shopify.com:8080
 http://partnerhub-japan.shopify.com
 http://partnerhub.shopify.com
+http://partners.shopify.com
+http://partners.shopify.com:8080
 http://pauchendelicacies.shopify.com
 http://pauchendelicacies.shopify.com:8080
 http://pay.shopify.com
@@ -1085,8 +1086,6 @@ https://changelog.shopify.com
 https://changelog.shopify.com:8443
 https://chat.shopify.com
 https://chat.shopify.com:8443
-https://checkout.hardware.shopify.com
-https://checkout.hardware.shopify.com:8443
 https://checkout.shopify.com
 https://checkout.shopify.com:8443
 https://chi.shopify.com
@@ -1324,7 +1323,6 @@ https://ie.checkout.hardware.shopify.com
 https://ie.checkout.hardware.shopify.com:8443
 https://ihatewhatever.shopify.com
 https://ihatewhatever.shopify.com:8443
-https://image.email.shopify.com:8443
 https://inbox.shopify.com
 https://inbox.shopify.com:8443
 https://incoming.shopify.com
@@ -1454,6 +1452,8 @@ https://mta2.email.shopify.com
 https://mta2.email.shopify.com:8443
 https://mta3.email.shopify.com
 https://mta3.email.shopify.com:8443
+https://mta4.email.shopify.com
+https://mta4.email.shopify.com:8443
 https://mx.shopify.com
 https://mx.shopify.com:8443
 https://my.shopify.com
@@ -1485,6 +1485,8 @@ https://nz.checkout.hardware.shopify.com
 https://nz.checkout.hardware.shopify.com:8443
 https://o.ssl.shopify.com
 https://o.ssl.shopify.com:8443
+https://oob.toronto.shopify.com
+https://oob.toronto.shopify.com:8443
 https://open.shopify.com
 https://open.shopify.com:8443
 https://p.ssl.shopify.com
@@ -1495,6 +1497,8 @@ https://partner.shopify.com
 https://partner.shopify.com:8443
 https://partnerhub-japan.shopify.com
 https://partnerhub.shopify.com
+https://partners.shopify.com
+https://partners.shopify.com:8443
 https://pauchendelicacies.shopify.com
 https://pauchendelicacies.shopify.com:8443
 https://pay.shopify.com

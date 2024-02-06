@@ -47,7 +47,6 @@ http://fr-qa2-info.lululemon.com
 http://fr-qa21.lululemon.com
 http://fr-stage62-info.lululemon.com
 http://fr-test-shop.lululemon.com
-http://fr.lululemon.com
 http://fr.preview.lululemon.com
 http://fr.qa2.info.lululemon.com
 http://fr.shop.lululemon.com
@@ -81,6 +80,7 @@ http://likenew.lululemon.com
 http://links.em.lululemon.com
 http://lllandme.preprod.lululemon.com
 http://login.creators.lululemon.com
+http://media.lululemon.com
 http://metrics.lululemon.com
 http://mirrorhook.lululemon.com
 http://mobileideas.lululemon.com
@@ -549,6 +549,7 @@ http://preview-services.lululemon.com
 http://preview.lululemon.com
 http://qa-identity.lululemon.com
 http://qa-info.eu.lululemon.com
+http://qa-info.lululemon.com
 http://qa-plm.lululemon.com
 http://qa-pnimages.lululemon.com
 http://qa.pos-api.lululemon.com
@@ -556,22 +557,20 @@ http://qa14.preprod.lululemon.com
 http://qa2-info.eu.lululemon.com
 http://qa2-pnimages.lululemon.com
 http://qa2.info.eu.lululemon.com
-http://qa2.info.lululemon.com
+http://qa20.preprod.lululemon.com
 http://qa23.preprod.lululemon.com
-http://qa25.preprod.lululemon.com
-http://qa27.preprod.lululemon.com
+http://qa26.preprod.lululemon.com
 http://qa28.preprod.lululemon.com
 http://qa29.preprod.lululemon.com
-http://qa30.preprod.lululemon.com
-http://qa31.preprod.lululemon.com
+http://qa32.preprod.lululemon.com
 http://qa32.preprod.preprod.lululemon.com
-http://qa33.preprod.lululemon.com
 http://report.creators.lululemon.com
 http://sandbox-dev.preprod-apis.lululemon.com
 http://sandbox.preprod-apis.lululemon.com
 http://scep.lululemon.com
 http://secure.lululemon.com
 http://services.lululemon.com
+http://shop.lululemon.com
 http://smetrics.lululemon.com
 http://stage-ambassador.lululemon.com
 http://stage-ambassadors.lululemon.com
@@ -614,7 +613,6 @@ http://westandtogether.lululemon.com
 http://www.eu.lululemon.com
 http://www.eu.lululemon.com:8080
 http://www.lululemon.com
-http://youlu.lululemon.com
 https://api-creator.lululemon.com
 https://api.lululemon.com
 https://apis.lululemon.com
@@ -659,7 +657,6 @@ https://fr-test-shop.lululemon.com
 https://fr.lululemon.com
 https://fr.preview.lululemon.com
 https://fr.qa2.info.lululemon.com
-https://fr.shop.lululemon.com
 https://fr.stage.lululemon.com
 https://fr.stage10.lululemon.com
 https://fr.sustainability.lululemon.com
@@ -1164,6 +1161,7 @@ https://preview.lululemon.com
 https://qa-identity.lululemon.com
 https://qa-iexpense.lululemon.com
 https://qa-info.eu.lululemon.com
+https://qa-info.lululemon.com
 https://qa-plm.lululemon.com
 https://qa-pnimages.lululemon.com
 https://qa.pos-api.lululemon.com
@@ -1171,16 +1169,13 @@ https://qa14.preprod.lululemon.com
 https://qa2-info.eu.lululemon.com
 https://qa2-pnimages.lululemon.com
 https://qa2.info.eu.lululemon.com
-https://qa2.info.lululemon.com
+https://qa20.preprod.lululemon.com
 https://qa23.preprod.lululemon.com
-https://qa25.preprod.lululemon.com
-https://qa27.preprod.lululemon.com
+https://qa26.preprod.lululemon.com
 https://qa28.preprod.lululemon.com
 https://qa29.preprod.lululemon.com
-https://qa30.preprod.lululemon.com
-https://qa31.preprod.lululemon.com
+https://qa32.preprod.lululemon.com
 https://qa32.preprod.preprod.lululemon.com
-https://qa33.preprod.lululemon.com
 https://remote.lululemon.com
 https://report.creators.lululemon.com
 https://sandbox-dev.preprod-apis.lululemon.com
@@ -1188,6 +1183,7 @@ https://sandbox.preprod-apis.lululemon.com
 https://scep.lululemon.com
 https://secure.lululemon.com
 https://services.lululemon.com
+https://shop.lululemon.com
 https://smetrics.lululemon.com
 https://stage-ambassador.lululemon.com
 https://stage-ambassadors.lululemon.com
@@ -1229,4 +1225,3 @@ https://westandtogether.lululemon.com
 https://www.eu.lululemon.com
 https://www.eu.lululemon.com:8443
 https://www.lululemon.com
-https://youlu.lululemon.com

@@ -344,7 +344,6 @@ o6.mailer.shopify.com
 o7.mailer.shopify.com
 o8.mailer.shopify.com
 o9.mailer.shopify.com
-oob.toronto.shopify.com
 open.shopify.com
 p.ssl.shopify.com
 partner-training.shopify.com
@@ -421,6 +420,7 @@ shopclass.shopify.com
 shopify-plus-meet-up.shopify.com
 shopify.com
 simba-sleep.shopify.com
+site.email.shopify.com
 sl.shopify.com
 sl2.shopify.com
 sl3.shopify.com

@@ -8,6 +8,8 @@ a.sorare.com
 a.sorare.com
 a.sorare.com
 a.sorare.com
+a.sorare.com
+a.staging.sorare.com
 a.staging.sorare.com
 a.staging.sorare.com
 a.staging.sorare.com
@@ -28,6 +30,8 @@ admin-frontapp-plugin.sorare.com
 admin-frontapp-plugin.sorare.com
 admin-frontapp-plugin.sorare.com
 admin-frontapp-plugin.sorare.com
+admin-frontapp-plugin.sorare.com
+admin.sorare.com
 admin.sorare.com
 admin.sorare.com
 admin.sorare.com
@@ -48,6 +52,8 @@ admin.staging.sorare.com
 admin.staging.sorare.com
 admin.staging.sorare.com
 admin.staging.sorare.com
+admin.staging.sorare.com
+api.sorare.com
 api.sorare.com
 api.sorare.com
 api.sorare.com
@@ -68,6 +74,8 @@ api.staging.sorare.com
 api.staging.sorare.com
 api.staging.sorare.com
 api.staging.sorare.com
+api.staging.sorare.com
+assets.sorare.com
 assets.sorare.com
 assets.sorare.com
 assets.sorare.com
@@ -88,6 +96,8 @@ beta-api.sorare.com
 beta-api.sorare.com
 beta-api.sorare.com
 beta-api.sorare.com
+beta-api.sorare.com
+beta.sorare.com
 beta.sorare.com
 beta.sorare.com
 beta.sorare.com
@@ -108,6 +118,8 @@ blog.sorare.com
 blog.sorare.com
 blog.sorare.com
 blog.sorare.com
+blog.sorare.com
+eu-west-3.sorare.com
 eu-west-3.sorare.com
 eu-west-3.sorare.com
 eu-west-3.sorare.com
@@ -128,6 +140,8 @@ frontend-assets.sorare.com
 frontend-assets.sorare.com
 frontend-assets.sorare.com
 frontend-assets.sorare.com
+frontend-assets.sorare.com
+go.sorare.com
 go.sorare.com
 go.sorare.com
 go.sorare.com
@@ -148,6 +162,8 @@ help.sorare.com
 help.sorare.com
 help.sorare.com
 help.sorare.com
+help.sorare.com
+img.sorare.com
 img.sorare.com
 img.sorare.com
 img.sorare.com
@@ -168,6 +184,8 @@ infra.sorare.com
 infra.sorare.com
 infra.sorare.com
 infra.sorare.com
+infra.sorare.com
+mlbguide.sorare.com
 mlbguide.sorare.com
 mlbguide.sorare.com
 mlbguide.sorare.com
@@ -188,6 +206,8 @@ nbaguide.sorare.com
 nbaguide.sorare.com
 nbaguide.sorare.com
 nbaguide.sorare.com
+nbaguide.sorare.com
+o1.ptr3958.em4458.recovery.sorare.com
 o1.ptr3958.em4458.recovery.sorare.com
 o1.ptr3958.em4458.recovery.sorare.com
 o1.ptr3958.em4458.recovery.sorare.com
@@ -208,6 +228,8 @@ proxy.sorare.com
 proxy.sorare.com
 proxy.sorare.com
 proxy.sorare.com
+proxy.sorare.com
+rancher.sorare.com
 rancher.sorare.com
 rancher.sorare.com
 rancher.sorare.com
@@ -226,6 +248,8 @@ sorare.com
 sorare.com
 sorare.com
 sorare.com
+sorare.com
+staging.sorare.com
 staging.sorare.com
 staging.sorare.com
 staging.sorare.com
@@ -246,6 +270,8 @@ status.sorare.com
 status.sorare.com
 status.sorare.com
 status.sorare.com
+status.sorare.com
+support.sorare.com
 support.sorare.com
 support.sorare.com
 support.sorare.com
@@ -266,6 +292,8 @@ us-east-2.sorare.com
 us-east-2.sorare.com
 us-east-2.sorare.com
 us-east-2.sorare.com
+us-east-2.sorare.com
+verdaccio.sorare.com
 verdaccio.sorare.com
 verdaccio.sorare.com
 verdaccio.sorare.com
@@ -286,6 +314,7 @@ wallet.sorare.com
 wallet.sorare.com
 wallet.sorare.com
 wallet.sorare.com
+wallet.sorare.com
 ws.sorare.com
 ws.sorare.com
 ws.sorare.com
@@ -296,6 +325,8 @@ ws.sorare.com
 ws.sorare.com
 ws.sorare.com
 ws.sorare.com
+ws.sorare.com
+www.sorare.com
 www.sorare.com
 www.sorare.com
 www.sorare.com

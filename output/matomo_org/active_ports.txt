@@ -176,6 +176,17 @@ el.matomo.org:587
 el.matomo.org:80
 el.matomo.org:993
 el.matomo.org:995
+es.matomo.org:110
+es.matomo.org:143
+es.matomo.org:21
+es.matomo.org:22
+es.matomo.org:25
+es.matomo.org:443
+es.matomo.org:465
+es.matomo.org:587
+es.matomo.org:80
+es.matomo.org:993
+es.matomo.org:995
 forum.matomo.org:443
 forum.matomo.org:80
 fr-staging.matomo.org:443

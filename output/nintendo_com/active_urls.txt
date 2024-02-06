@@ -23,6 +23,7 @@ http://apps.accounts.nintendo.com
 http://argta.nintendo.com
 http://arms.nintendo.com
 http://artacademy.nintendo.com
+http://artstyle.nintendo.com
 http://assets.nintendo.com
 http://astralchain.nintendo.com
 http://autodiscover.noa.nintendo.com
@@ -80,6 +81,7 @@ http://devkit-ecomm-dev.noa.nintendo.com
 http://devkit-ecomm-uat.noa.nintendo.com
 http://devkit-ecomm.noa.nintendo.com
 http://devopsmaker-dev.noa.nintendo.com
+http://devopsmaker-dev.noa.nintendo.com:443
 http://devopsmaker.noa.nintendo.com
 http://dillonsrollingwestern.nintendo.com
 http://disney.nintendo.com
@@ -108,7 +110,6 @@ http://everoasis.nintendo.com
 http://experience.nintendo.com
 http://fantasylife.nintendo.com
 http://fatalframe.nintendo.com
-http://ffcc.nintendo.com
 http://ffdos.nintendo.com
 http://ffiv.nintendo.com
 http://ffta.nintendo.com
@@ -199,6 +200,7 @@ http://mariokart.nintendo.com
 http://mariokart7.nintendo.com
 http://mariokart8deluxe.nintendo.com
 http://mariomaker.nintendo.com
+http://marioparty10.nintendo.com
 http://marioparty100.nintendo.com
 http://mariopartyislandtour.nintendo.com
 http://mariopartystarrush.nintendo.com
@@ -252,10 +254,7 @@ http://nstore.noa.nintendo.com
 http://nwc.nintendo.com
 http://octopathtraveler.nintendo.com
 http://ope-api.events.nintendo.com
-http://ope.dev.events.nintendo.com
 http://ope.events.nintendo.com
-http://ope.qa.events.nintendo.com
-http://ope.staging.events.nintendo.com
 http://p.nintendo.com
 http://pages.ccg.nintendo.com
 http://parentalcontrols.nintendo.com
@@ -319,6 +318,7 @@ http://sherpa-api-test.noa.nintendo.com
 http://sherpa-api.noa.nintendo.com
 http://shn-jp.nintendo.com
 http://shn-jp.nintendo.com:8443
+http://shock.nintendo.com
 http://skyrim.nintendo.com
 http://slc.prod1.ms.developer.nintendo.com
 http://smartreturnsystem-uat.noa.nintendo.com
@@ -365,6 +365,7 @@ http://td1.dev-argta-2.nintendo.com
 http://td1.dev-argta.nintendo.com
 http://test1.publisher.nintendo.com
 http://tetris99.nintendo.com
+http://thewonderful101.nintendo.com
 http://tickets.nintendo.com
 http://uat1.publisher.nintendo.com
 http://vertex-cloud.noa.nintendo.com
@@ -603,7 +604,6 @@ https://developer.nintendo.com
 https://device.cpo.noa.nintendo.com
 https://devkit-ecomm-uat.noa.nintendo.com
 https://devkit-ecomm.noa.nintendo.com
-https://devopsmaker-dev.noa.nintendo.com
 https://devopsmaker.noa.nintendo.com
 https://dillonsrollingwestern.nintendo.com
 https://disney.nintendo.com
@@ -666,6 +666,7 @@ https://fr-americas-support.nintendo.com
 https://freakyforms.nintendo.com
 https://gameandwario.nintendo.com
 https://gate-prime.nintendo.com
+https://gate-secure.nintendo.com
 https://gdc2011.nintendo.com
 https://giftcenter.nintendo.com
 https://gifts.nintendo.com
@@ -807,10 +808,7 @@ https://ntd-gp.ntd.nintendo.com
 https://nwc.nintendo.com
 https://octopathtraveler.nintendo.com
 https://ope-api.events.nintendo.com
-https://ope.dev.events.nintendo.com
 https://ope.events.nintendo.com
-https://ope.qa.events.nintendo.com
-https://ope.staging.events.nintendo.com
 https://orders.activities.prod.gbo.noa.nintendo.com
 https://p.nintendo.com
 https://pages.ccg.nintendo.com
@@ -848,11 +846,11 @@ https://prod-store.nintendo.com
 https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
-https://ptdairwatch.noa.nintendo.com:111
 https://ptdairwatch.noa.nintendo.com:13
-https://ptdairwatch.noa.nintendo.com:22
-https://ptdairwatch.noa.nintendo.com:5357
-https://ptdairwatch.noa.nintendo.com:88
+https://ptdairwatch.noa.nintendo.com:1720
+https://ptdairwatch.noa.nintendo.com:3000
+https://ptdairwatch.noa.nintendo.com:49157
+https://ptdairwatch.noa.nintendo.com:514
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com
@@ -925,7 +923,6 @@ https://steeldiver.nintendo.com
 https://store-jp.nintendo.com
 https://store.nintendo.com
 https://storemedia.nintendo.com
-https://stretchmo.nintendo.com
 https://stylesavvy.nintendo.com
 https://stylesavvy2.nintendo.com
 https://supermario3dland.nintendo.com

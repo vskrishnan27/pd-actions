@@ -31,6 +31,7 @@ http://cdn.us.playstation.com
 http://checkout.playstation.com
 http://china.playstation.com
 http://chinacdn.playstation.com
+http://chinacdn.playstation.com:443
 http://click.txn-email03.playstation.com
 http://cloud.txn-email03.playstation.com
 http://cloudtv.us.playstation.com
@@ -142,9 +143,9 @@ http://image-ps4.api.playstation.com
 http://image.api.playstation.com
 http://image.mail.asia.playstation.com
 http://image.mail.jp.playstation.com
-http://io.playstation.com
 http://is.playstation.com
 http://ivaldi.playstation.com
+http://jp.playstation.com
 http://juega.playstation.com
 http://la.playstation.com
 http://latam.playstation.com
@@ -314,7 +315,6 @@ https://cdn.latam.playstation.com
 https://cdn.us.playstation.com
 https://chat.playstation.com
 https://checkout.playstation.com
-https://chinacdn.playstation.com
 https://click.txn-email03.playstation.com
 https://cloud.txn-email03.playstation.com
 https://cloudtv.us.playstation.com
@@ -430,9 +430,9 @@ https://image-ps4.api.playstation.com
 https://image.api.playstation.com
 https://image.mail.asia.playstation.com
 https://image.mail.jp.playstation.com
-https://io.playstation.com
 https://is.playstation.com
 https://ivaldi.playstation.com
+https://jp.playstation.com
 https://juega.playstation.com
 https://la.playstation.com
 https://latam.playstation.com

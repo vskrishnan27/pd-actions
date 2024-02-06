@@ -16,7 +16,6 @@ http://careers.chain.link:8080
 http://ccip.chain.link
 http://ccip.chain.link:8443
 http://chain.link
-http://chain.link:8443
 http://data.chain.link
 http://data.chain.link:8443
 http://dataengine.chain.link
@@ -47,6 +46,7 @@ http://go.chain.link
 http://hack.chain.link
 http://hack.chain.link:8080
 http://imx.chain.link
+http://imx.chain.link:8443
 http://jwh.chain.link
 http://keeper.chain.link
 http://keeper.chain.link:8443
@@ -98,7 +98,6 @@ http://ws.testnet-dataengine.chain.link:8080
 http://www.careers.chain.link
 http://www.careers.chain.link:8080
 http://www.chain.link
-http://www.chain.link:8443
 http://zh.chain.link
 http://zh.chain.link:8080
 https://api.dataengine.chain.link
@@ -134,7 +133,6 @@ https://go.chain.link
 https://hack.chain.link
 https://hack.chain.link:8443
 https://imx.chain.link
-https://imx.chain.link:8443
 https://jwh.chain.link
 https://keeper.chain.link
 https://keepers-beta.chain.link

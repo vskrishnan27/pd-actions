@@ -34,8 +34,6 @@ ccip.chain.link:8080
 ccip.chain.link:8443
 chain.link:443
 chain.link:80
-chain.link:8080
-chain.link:8443
 data.chain.link:443
 data.chain.link:80
 data.chain.link:8080
@@ -197,8 +195,6 @@ www.careers.chain.link:8080
 www.careers.chain.link:8443
 www.chain.link:443
 www.chain.link:80
-www.chain.link:8080
-www.chain.link:8443
 zh.chain.link:443
 zh.chain.link:80
 zh.chain.link:8080

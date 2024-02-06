@@ -6,10 +6,11 @@ http://api-public.sandbox.pro.coinbase.com:8443
 http://api-test.prime.coinbase.com
 http://api-test.prime.coinbase.com:8080
 http://api-test.prime.coinbase.com:8443
+http://api.coinbase.com
+http://api.coinbase.com:8080
 http://api.commerce.coinbase.com
 http://api.commerce.coinbase.com:8080
 http://api.commerce.coinbase.com:8443
-http://api.custody.coinbase.com:8443
 http://api.exchange.coinbase.com
 http://api.exchange.coinbase.com:8080
 http://api.exchange.coinbase.com:8443
@@ -70,6 +71,9 @@ http://cloud-api.coinbase.com
 http://cloud-api.coinbase.com:8080
 http://cloud-api.coinbase.com:8443
 http://cloud-docs-beta.coinbase.com
+http://cloud.coinbase.com
+http://cloud.coinbase.com:8080
+http://cloud.coinbase.com:8443
 http://cohort-service.crypto.coinbase.com
 http://cohort-service.crypto.coinbase.com:8080
 http://cohort-service.crypto.coinbase.com:8443
@@ -90,6 +94,9 @@ http://console.cloud.coinbase.com:8080
 http://contentful.coinbase.com
 http://contentful.coinbase.com:8080
 http://contentful.coinbase.com:8443
+http://custody.coinbase.com
+http://custody.coinbase.com:8080
+http://custody.coinbase.com:8443
 http://data.coinbase.com
 http://data.coinbase.com:8080
 http://data.coinbase.com:8443
@@ -195,7 +202,6 @@ http://ota.coinbase.com:8080
 http://ota.coinbase.com:8443
 http://pay.coinbase.com
 http://pay.coinbase.com:8080
-http://pay.coinbase.com:8443
 http://polygon-mumbai-infura.wallet.coinbase.com
 http://polygon-mumbai-infura.wallet.coinbase.com:8080
 http://polygon-mumbai-infura.wallet.coinbase.com:8443
@@ -218,7 +224,6 @@ http://profile.coinbase.com
 http://profile.coinbase.com:8080
 http://profile.coinbase.com:8443
 http://public.sandbox.exchange.coinbase.com
-http://public.sandbox.exchange.coinbase.com:8080
 http://public.sandbox.exchange.coinbase.com:8443
 http://public.sandbox.pro.coinbase.com
 http://public.sandbox.pro.coinbase.com:8080
@@ -251,6 +256,7 @@ http://status.commerce.coinbase.com
 http://status.commerce.coinbase.com:8080
 http://status.commerce.coinbase.com:8443
 http://status.custody.coinbase.com
+http://status.custody.coinbase.com:8080
 http://status.custody.coinbase.com:8443
 http://status.exchange.coinbase.com
 http://status.exchange.coinbase.com:8080
@@ -302,6 +308,7 @@ http://ventures.coinbase.com
 http://ventures.coinbase.com:8080
 http://verify.coinbase.com
 http://verify.coinbase.com:8080
+http://verify.coinbase.com:8443
 http://wallet.commerce.coinbase.com
 http://wallet.commerce.coinbase.com:8080
 http://wallet.commerce.coinbase.com:8443
@@ -327,8 +334,11 @@ https://api-n5e1.coinbase.com
 https://api-public.sandbox.exchange.coinbase.com
 https://api-public.sandbox.pro.coinbase.com
 https://api-test.prime.coinbase.com
+https://api.coinbase.com
+https://api.coinbase.com:8443
 https://api.commerce.coinbase.com
 https://api.custody.coinbase.com
+https://api.custody.coinbase.com:8443
 https://api.exchange.coinbase.com
 https://api.prime.coinbase.com
 https://api.pro.coinbase.com
@@ -355,6 +365,7 @@ https://careers.coinbase.com
 https://chain-proxy.wallet.coinbase.com
 https://cloud-api.coinbase.com
 https://cloud-docs-beta.coinbase.com
+https://cloud.coinbase.com
 https://cohort-service.crypto.coinbase.com
 https://comm.coinbase.com
 https://commerce.coinbase.com
@@ -363,6 +374,7 @@ https://compound.wallet.coinbase.com
 https://console.cloud.coinbase.com
 https://console.cloud.coinbase.com:8443
 https://contentful.coinbase.com
+https://custody.coinbase.com
 https://data.coinbase.com
 https://dev.coinbase.com
 https://developer.coinbase.com
@@ -417,6 +429,7 @@ https://nft.coinbase.com:8443
 https://optimism-mainnet.wallet.coinbase.com
 https://ota.coinbase.com
 https://pay.coinbase.com
+https://pay.coinbase.com:8443
 https://polygon-mumbai-infura.wallet.coinbase.com
 https://polygon.coinbase.com
 https://polygon.coinbase.com:8443
@@ -475,7 +488,6 @@ https://two-factor.coinbase.com
 https://ventures.coinbase.com
 https://ventures.coinbase.com:8443
 https://verify.coinbase.com
-https://verify.coinbase.com:8443
 https://wallet.commerce.coinbase.com
 https://ws-feed-public.sandbox.pro.coinbase.com
 https://ws-feed.exchange.coinbase.com

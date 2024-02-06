@@ -10,6 +10,7 @@ http://blog.enjin.io
 http://blog.enjin.io:8080
 http://cdn.enjin.io
 http://cdn.enjin.io:8080
+http://cdn.enjin.io:8443
 http://cloud.enjin.io
 http://cloud.enjin.io:8080
 http://cloud.enjin.io:8443
@@ -25,6 +26,7 @@ http://feedback.enjin.io
 http://feedback.enjin.io:8080
 http://jumpnet.beam.enjin.io
 http://jumpnet.beam.enjin.io:8080
+http://jumpnet.beam.enjin.io:8443
 http://jumpnet.cloud.enjin.io
 http://jumpnet.cloud.enjin.io:8080
 http://jumpnet.cloud.enjin.io:8443
@@ -69,7 +71,6 @@ https://beam.enjin.io
 https://blog.enjin.io
 https://blog.enjin.io:8443
 https://cdn.enjin.io
-https://cdn.enjin.io:8443
 https://cloud.enjin.io
 https://console.enjin.io
 https://csharp.docs.enjin.io
@@ -80,7 +81,6 @@ https://docs.enjin.io:8443
 https://feedback.enjin.io
 https://feedback.enjin.io:8443
 https://jumpnet.beam.enjin.io
-https://jumpnet.beam.enjin.io:8443
 https://jumpnet.cloud.enjin.io
 https://legacy.docs.enjin.io
 https://legacy.docs.enjin.io:8443

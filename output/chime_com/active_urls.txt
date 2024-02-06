@@ -86,6 +86,7 @@ http://member-dev1.chime.com:8080
 http://member-dev1.chime.com:8443
 http://member-qa.chime.com
 http://member-qa.chime.com:8080
+http://member-qa.chime.com:8443
 http://member.chime.com
 http://member.chime.com:8080
 http://member.chime.com:8443
@@ -107,6 +108,7 @@ http://penny-qa.chime.com:8080
 http://penny-qa.chime.com:8443
 http://penny.chime.com
 http://penny.chime.com:8080
+http://penny.chime.com:8443
 http://public-assets-dev1.chime.com
 http://public-assets-dev1.chime.com:8080
 http://public-assets-dev1.chime.com:8443
@@ -118,6 +120,7 @@ http://public-assets.chime.com:8080
 http://public-assets.chime.com:8443
 http://static-attachments.chime.com
 http://static-attachments.chime.com:8080
+http://static-attachments.chime.com:8443
 http://status.chime.com
 http://status.chime.com:8080
 http://transaction.chime.com
@@ -175,7 +178,6 @@ https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
 https://member-qa.chime.com
-https://member-qa.chime.com:8443
 https://member.chime.com
 https://mobile-state.chime.com
 https://monocle-dev1.chime.com
@@ -185,12 +187,10 @@ https://nd.chime.com
 https://penny-dev1.chime.com
 https://penny-qa.chime.com
 https://penny.chime.com
-https://penny.chime.com:8443
 https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
 https://public-assets.chime.com
 https://static-attachments.chime.com
-https://static-attachments.chime.com:8443
 https://status.chime.com
 https://status.chime.com:8443
 https://transaction.chime.com

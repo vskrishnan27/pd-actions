@@ -6,6 +6,7 @@ dev.playcanv.as
 dev.playcanv.as
 dev.playcanv.as
 dev.playcanv.as
+dev.playcanv.as
 local.playcanv.as
 local.playcanv.as
 local.playcanv.as
@@ -14,6 +15,8 @@ local.playcanv.as
 local.playcanv.as
 local.playcanv.as
 local.playcanv.as
+local.playcanv.as
+www.playcanv.as
 www.playcanv.as
 www.playcanv.as
 www.playcanv.as

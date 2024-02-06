@@ -1,3 +1,7 @@
+base.org:443
+base.org:80
+base.org:8080
+base.org:8443
 bridge.base.org:443
 bridge.base.org:80
 bridge.base.org:8080
@@ -14,10 +18,6 @@ goerli.base.org:443
 goerli.base.org:80
 goerli.base.org:8080
 goerli.base.org:8443
-mainnet.base.org:443
-mainnet.base.org:80
-mainnet.base.org:8080
-mainnet.base.org:8443
 mint.base.org:443
 mint.base.org:80
 mint.base.org:8080

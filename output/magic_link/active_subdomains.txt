@@ -48,6 +48,7 @@ o1.ptr4859.magic.link
 o2.ptr5049.magic.link
 partner-auth.magic.link
 permissionless23.magic.link
+redpacket.magic.link
 reveal.magic.link
 speedtest.magic.link
 status.magic.link

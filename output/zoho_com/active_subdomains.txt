@@ -295,6 +295,7 @@ pagesense-collect.zoho.com
 pagesense.zoho.com
 palemonium.wiki.zoho.com
 partner-support.wiki.zoho.com
+payments.zoho.com
 people.zoho.com
 peopleplus.zoho.com
 percobaan.wiki.zoho.com

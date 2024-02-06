@@ -52,7 +52,6 @@ pln-pl.orders.spectacles.com:8080
 pln-pl.orders.spectacles.com:8443
 returns.spectacles.com:443
 returns.spectacles.com:80
-spectacles.com:3000
 spectacles.com:443
 spectacles.com:80
 support.spectacles.com:443
@@ -67,6 +66,5 @@ us-dev.orders.spectacles.com:443
 us-dev.orders.spectacles.com:80
 us-dev.orders.spectacles.com:8080
 us-dev.orders.spectacles.com:8443
-www.spectacles.com:3000
 www.spectacles.com:443
 www.spectacles.com:80

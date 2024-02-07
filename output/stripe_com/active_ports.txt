@@ -180,7 +180,6 @@ ip-54-187-119-242.stripe.com:443
 ip-54-187-119-242.stripe.com:80
 ip-54-187-159-182.stripe.com:443
 ip-54-187-159-182.stripe.com:80
-ipaddr-3ds.stripe.com:443
 issuing-hooks-public.stripe.com:443
 issuing-key.stripe.com:443
 issuing-key.stripe.com:80
@@ -197,6 +196,8 @@ lokalise-hooks.stripe.com:80
 m.stripe.com:443
 mail.stripe.com:443
 mail.stripe.com:80
+manage.stripe.com:443
+manage.stripe.com:80
 marketplace.stripe.com:443
 marketplace.stripe.com:80
 media.stripe.com:443
@@ -207,11 +208,8 @@ northwest.corp.stripe.com:443
 not-a-git.corp.stripe.com:443
 npm-registry.local.corp.stripe.com:443
 ops-docs.corp.stripe.com:443
-pay.stripe.com:443
-pay.stripe.com:80
 payments.stripe.com:443
 payments.stripe.com:80
-pdx.corp.stripe.com:443
 pm-hooks.stripe.com:443
 pm-hooks.stripe.com:80
 pm-redirects.stripe.com:443
@@ -293,6 +291,8 @@ support-conversations.stripe.com:443
 support-conversations.stripe.com:80
 support.stripe.com:443
 support.stripe.com:80
+t.stripe.com:443
+t.stripe.com:80
 terminal-simulator.stripe.com:443
 terminal-simulator.stripe.com:80
 terminal.stripe.com:443

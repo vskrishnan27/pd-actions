@@ -51,7 +51,6 @@ http://flashpaper-qa.chime.com:8080
 http://flashpaper-qa.chime.com:8443
 http://flashpaper.chime.com
 http://flashpaper.chime.com:8080
-http://flashpaper.chime.com:8443
 http://handbooks.chime.com
 http://help-test.chime.com
 http://help-test.chime.com:8080
@@ -165,6 +164,7 @@ https://error-pages.chime.com
 https://flashpaper-dev1.chime.com
 https://flashpaper-qa.chime.com
 https://flashpaper.chime.com
+https://flashpaper.chime.com:8443
 https://handbooks.chime.com
 https://help-test.chime.com
 https://help.chime.com

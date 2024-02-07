@@ -18,6 +18,7 @@ http://bib.sc-corp.net
 http://build-hook-beta.sc-corp.net
 http://build-hook-prod.sc-corp.net
 http://build-hook-stage.sc-corp.net
+http://builds.sc-corp.net
 http://ca-dev.sc-corp.net
 http://ca-prod.sc-corp.net
 http://campaign-management-beta.sc-corp.net
@@ -56,6 +57,7 @@ http://developer-portal.sc-corp.net
 http://device-trust.sc-corp.net
 http://drone-ci.sc-corp.net
 http://drone-github.sc-corp.net
+http://eatmyshortener.gae.sc-corp.net
 http://eelabinventory.sc-corp.net
 http://email-scheduler-beta.sc-corp.net
 http://email-scheduler-dev.sc-corp.net
@@ -63,6 +65,7 @@ http://email-scheduler-prod.sc-corp.net
 http://expresso.sc-corp.net
 http://facet-staging.sc-corp.net
 http://facet.sc-corp.net
+http://fleetdm-proxy.sc-corp.net:443
 http://fleetdm.sc-corp.net
 http://flowrida-ad-insights.sc-corp.net
 http://flowrida-ad-ranking.sc-corp.net
@@ -91,6 +94,7 @@ http://jira-dev.sc-corp.net
 http://jira-mx-dev.sc-corp.net
 http://jira-mx.sc-corp.net
 http://jira-stage-api.sc-corp.net
+http://jira-stage.sc-corp.net
 http://jira.sc-corp.net
 http://key-master-prod.sc-corp.net
 http://key-master-stage.sc-corp.net
@@ -137,7 +141,6 @@ http://neo4j-prod.sc-corp.net
 http://neo4j-staging.sc-corp.net
 http://neo4j.sc-corp.net
 http://okr.sc-corp.net
-http://okta-preview.sc-corp.net
 http://olympus-staging.secproxy.sc-corp.net
 http://orca.sc-corp.net
 http://perf.sc-corp.net
@@ -237,6 +240,7 @@ https://bib.sc-corp.net
 https://build-hook-beta.sc-corp.net
 https://build-hook-prod.sc-corp.net
 https://build-hook-stage.sc-corp.net
+https://builds.sc-corp.net
 https://ca-dev.sc-corp.net
 https://ca-prod.sc-corp.net
 https://campaign-management-beta.sc-corp.net
@@ -278,6 +282,7 @@ https://developer-portal.sc-corp.net
 https://device-trust.sc-corp.net
 https://drone-ci.sc-corp.net
 https://drone-github.sc-corp.net
+https://eatmyshortener.gae.sc-corp.net
 https://eelabinventory.sc-corp.net
 https://email-scheduler-beta.sc-corp.net
 https://email-scheduler-dev.sc-corp.net
@@ -317,6 +322,7 @@ https://jira-dev.sc-corp.net
 https://jira-mx-dev.sc-corp.net
 https://jira-mx.sc-corp.net
 https://jira-stage-api.sc-corp.net
+https://jira-stage.sc-corp.net
 https://jira.sc-corp.net
 https://key-master-prod.sc-corp.net
 https://key-master-stage.sc-corp.net
@@ -366,7 +372,6 @@ https://neo4j-prod.sc-corp.net
 https://neo4j-staging.sc-corp.net
 https://neo4j.sc-corp.net
 https://okr.sc-corp.net
-https://okta-preview.sc-corp.net
 https://olympus-staging.secproxy.sc-corp.net
 https://orca.sc-corp.net
 https://perf.sc-corp.net

@@ -575,6 +575,8 @@ timeline-creator.line.me:443
 timeline-creator.line.me:80
 timeline.line.me:443
 timeline.line.me:80
+today.line.me:443
+today.line.me:80
 toriyoshisyoten.pockeo.line.me:443
 toriyoshisyoten.pockeo.line.me:80
 tower.game.line.me:443

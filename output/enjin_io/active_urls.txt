@@ -61,8 +61,6 @@ http://platform.enjin.io:8080
 http://support.enjin.io
 http://support.enjin.io:8080
 http://support.enjin.io:8443
-http://wallet.enjin.io
-http://wallet.enjin.io:8080
 http://www.enjin.io
 https://assets.enjin.io
 https://auth.enjin.io
@@ -109,6 +107,4 @@ https://p2p.2.us.bootnode.relay.canary.enjin.io
 https://platform.enjin.io
 https://platform.enjin.io:8443
 https://support.enjin.io
-https://wallet.enjin.io
-https://wallet.enjin.io:8443
 https://www.enjin.io

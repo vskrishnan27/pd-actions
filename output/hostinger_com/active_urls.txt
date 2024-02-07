@@ -16,7 +16,6 @@ http://autenticar.hostinger.com
 http://autentificacion.hostinger.com
 http://autentificar.hostinger.com
 http://auth.hostinger.com
-http://auth.hostinger.com:8080
 http://auth.hostinger.com:8443
 http://autoconfig.mail.hostinger.com
 http://autodiscover.mail.hostinger.com
@@ -32,10 +31,10 @@ http://confirmar.hostinger.com
 http://connect.hostinger.com
 http://convalida.hostinger.com
 http://cpanel.hostinger.com
+http://cpanel.hostinger.com:8443
 http://design.hostinger.com
 http://dogrula.hostinger.com
 http://domains.hostinger.com
-http://domains.hostinger.com:8443
 http://epikurwsi.hostinger.com
 http://file-manager.hostinger.com
 http://file-manager.hostinger.com:443
@@ -141,10 +140,10 @@ https://confirmar.hostinger.com
 https://connect.hostinger.com
 https://convalida.hostinger.com
 https://cpanel.hostinger.com
-https://cpanel.hostinger.com:8443
 https://design.hostinger.com
 https://dogrula.hostinger.com
 https://domains.hostinger.com
+https://domains.hostinger.com:8443
 https://epikurwsi.hostinger.com
 https://flockcalendar.hostinger.com
 https://flockcontacts.hostinger.com

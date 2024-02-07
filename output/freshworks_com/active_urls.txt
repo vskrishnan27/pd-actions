@@ -191,6 +191,7 @@ http://inloox.freshworks.com
 http://intango.freshworks.com
 http://internalreferral.freshworks.com
 http://intuitionpublishingltd.freshworks.com
+http://investor.freshworks.com
 http://invohealthcare.freshworks.com
 http://istonline.freshworks.com
 http://jacoinchelp.freshworks.com
@@ -215,6 +216,7 @@ http://mkmhealth.freshworks.com
 http://morgancountygovernment.freshworks.com
 http://mpsoft4u.freshworks.com
 http://myhealthcentre.freshworks.com
+http://mymts.freshworks.com
 http://myrecharge-team.freshworks.com
 http://mysocietysupport.freshworks.com
 http://nationalleagueofcities.freshworks.com
@@ -267,6 +269,7 @@ http://roomerangtravel.freshworks.com
 http://salesdemohub.freshworks.com
 http://sasscer.freshworks.com
 http://sclhelpdesk.freshworks.com
+http://sitelink.freshworks.com
 http://sixer.freshworks.com
 http://solutions.freshworks.com
 http://spainhelpdesktool.freshworks.com
@@ -295,8 +298,8 @@ http://topdownsystems.freshworks.com
 http://toyotacf.freshworks.com
 http://trust.freshworks.com
 http://trust.internal.freshworks.com
+http://ubx-au.freshworks.com
 http://ubx-eu.freshworks.com
-http://ubx-in.freshworks.com
 http://ubx-mec.freshworks.com
 http://ubx.freshworks.com
 http://uecelectronics.freshworks.com
@@ -568,6 +571,7 @@ https://mkmhealth.freshworks.com
 https://morgancountygovernment.freshworks.com
 https://mpsoft4u.freshworks.com
 https://myhealthcentre.freshworks.com
+https://mymts.freshworks.com
 https://myrecharge-team.freshworks.com
 https://mysocietysupport.freshworks.com
 https://nationalleagueofcities.freshworks.com
@@ -620,6 +624,7 @@ https://roomerangtravel.freshworks.com
 https://salesdemohub.freshworks.com
 https://sasscer.freshworks.com
 https://sclhelpdesk.freshworks.com
+https://sitelink.freshworks.com
 https://sixer.freshworks.com
 https://solutions.freshworks.com
 https://spainhelpdesktool.freshworks.com
@@ -648,8 +653,8 @@ https://topdownsystems.freshworks.com
 https://toyotacf.freshworks.com
 https://trust.freshworks.com
 https://trust.internal.freshworks.com
+https://ubx-au.freshworks.com
 https://ubx-eu.freshworks.com
-https://ubx-in.freshworks.com
 https://ubx-mec.freshworks.com
 https://ubx.freshworks.com
 https://uecelectronics.freshworks.com

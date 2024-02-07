@@ -541,6 +541,8 @@ mpsoft4u.freshworks.com:443
 mpsoft4u.freshworks.com:80
 myhealthcentre.freshworks.com:443
 myhealthcentre.freshworks.com:80
+mymts.freshworks.com:443
+mymts.freshworks.com:80
 myrecharge-team.freshworks.com:443
 myrecharge-team.freshworks.com:80
 mysocietysupport.freshworks.com:443
@@ -645,6 +647,8 @@ sasscer.freshworks.com:443
 sasscer.freshworks.com:80
 sclhelpdesk.freshworks.com:443
 sclhelpdesk.freshworks.com:80
+sitelink.freshworks.com:443
+sitelink.freshworks.com:80
 sixer.freshworks.com:443
 sixer.freshworks.com:80
 solutions.freshworks.com:443
@@ -701,10 +705,10 @@ trust.freshworks.com:443
 trust.freshworks.com:80
 trust.internal.freshworks.com:443
 trust.internal.freshworks.com:80
+ubx-au.freshworks.com:443
+ubx-au.freshworks.com:80
 ubx-eu.freshworks.com:443
 ubx-eu.freshworks.com:80
-ubx-in.freshworks.com:443
-ubx-in.freshworks.com:80
 ubx-mec.freshworks.com:443
 ubx-mec.freshworks.com:80
 ubx.freshworks.com:443

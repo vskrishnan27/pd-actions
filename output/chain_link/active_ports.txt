@@ -38,6 +38,10 @@ data.chain.link:443
 data.chain.link:80
 data.chain.link:8080
 data.chain.link:8443
+dataengine.chain.link:443
+dataengine.chain.link:80
+dataengine.chain.link:8080
+dataengine.chain.link:8443
 defi.chain.link:443
 defi.chain.link:80
 defi.chain.link:8080

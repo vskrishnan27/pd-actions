@@ -6,11 +6,12 @@ http://bid484j.5507270m.okx.com
 http://chainrpc.okx.com
 http://chainrpc.okx.com:8443
 http://jpush.okx.com
+http://jpush.okx.com:8443
 http://jpushws.okx.com
-http://jpushws.okx.com:8080
 http://jpushws.okx.com:8443
 http://newsletter.okx.com
 http://newsletter.okx.com:8080
+http://okbws.okx.com
 http://okctools.okx.com
 http://okctools.okx.com:8443
 http://oktcsafe.okx.com
@@ -29,7 +30,6 @@ http://x1testrpc.okx.com:8443
 https://aws.okx.com
 https://chainrpc.okx.com
 https://jpush.okx.com
-https://jpush.okx.com:8443
 https://jpushws.okx.com
 https://newsletter.okx.com
 https://newsletter.okx.com:8443

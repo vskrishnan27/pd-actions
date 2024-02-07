@@ -1,3 +1,4 @@
+http://beginit.indrive.com
 http://book.indrive.com
 http://careers.indrive.com
 http://cargo.indrive.com
@@ -56,6 +57,7 @@ http://www.supernovas.indrive.com
 http://www.updrive.indrive.com
 http://www.yourpace.indrive.com
 http://yourpace.indrive.com
+https://beginit.indrive.com
 https://book.indrive.com
 https://careers.indrive.com
 https://cargo.indrive.com
@@ -82,6 +84,7 @@ https://internal.dev.delivery.indrive.com
 https://internal.qa.delivery.indrive.com
 https://internal.sandbox.delivery.indrive.com
 https://landing.indrive.com
+https://lp-food.indrive.com
 https://lp-services.indrive.com
 https://media.indrive.com
 https://promo.indrive.com
@@ -104,7 +107,6 @@ https://us.indrive.com
 https://ventures.indrive.com
 https://wa-auth.indrive.com
 https://www.beginit.indrive.com
-https://www.book.indrive.com
 https://www.indrive.com
 https://www.intercity.indrive.com
 https://www.lp-food.indrive.com

@@ -92,8 +92,6 @@ au-en.ring.com:8080
 au-en.ring.com:8443
 auth.kubeflow-dev.research.ring.com:443
 auth.kubeflow-dev.research.ring.com:80
-auth.tmpencsvc.dev.ring.com:443
-auth.tmpencsvc.dev.ring.com:80
 az.ring.com:443
 az.ring.com:80
 backend.admin.dev.ring.com:443
@@ -185,9 +183,6 @@ dn.ring.com:8080
 dn.ring.com:8443
 doorbelloyster.ring.com:443
 download.ring.com:443
-dumper.firmware.dev.ring.com:443
-dumper.firmware.qa.ring.com:443
-dumper.firmware.ring.com:443
 dynamicfws.ring.com:443
 dynamicfws.ring.com:80
 en-se.ring.com:443

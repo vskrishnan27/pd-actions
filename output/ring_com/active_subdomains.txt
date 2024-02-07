@@ -91,7 +91,6 @@ au-en.dev.ring.com
 au-en.qa.ring.com
 au-en.ring.com
 auth.kubeflow-dev.research.ring.com
-auth.tmpencsvc.dev.ring.com
 automation-reports.compass.qa.ring.com
 az.ring.com
 backend.admin.dev.ring.com
@@ -261,9 +260,6 @@ dmc000.prod.splunk.dm.ring.com
 dn.ring.com
 doorbelloyster.ring.com
 download.ring.com
-dumper.firmware.dev.ring.com
-dumper.firmware.qa.ring.com
-dumper.firmware.ring.com
 dynamicfws.ring.com
 en-se.ring.com
 en-uk.ring.com

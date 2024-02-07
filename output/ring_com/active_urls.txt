@@ -31,7 +31,6 @@ http://au-en.qa.ring.com:8080
 http://au-en.ring.com
 http://au-en.ring.com:8080
 http://auth.kubeflow-dev.research.ring.com
-http://auth.tmpencsvc.dev.ring.com
 http://az.ring.com
 http://beta.approvals.shuttle.ring.com
 http://beta.ring.com
@@ -81,6 +80,7 @@ http://fileupload.cs-tools.ring.com
 http://firmwares.dev.ring.com
 http://firmwares.dev.ring.com:8443
 http://firmwares.qa.ring.com
+http://firmwares.qa.ring.com:8443
 http://firmwares.ring.com
 http://firmwares.ring.com:8443
 http://fr-fr.ring.com
@@ -257,7 +257,6 @@ https://au-en.qa.ring.com:8443
 https://au-en.ring.com
 https://au-en.ring.com:8443
 https://auth.kubeflow-dev.research.ring.com
-https://auth.tmpencsvc.dev.ring.com
 https://az.ring.com
 https://backend.admin.dev.ring.com
 https://backend.dashboard.dev.ring.com
@@ -333,7 +332,6 @@ https://fileupload.cs-tools.dev.ring.com
 https://fileupload.cs-tools.ring.com
 https://firmwares.dev.ring.com
 https://firmwares.qa.ring.com
-https://firmwares.qa.ring.com:8443
 https://firmwares.ring.com
 https://fr-fr.ring.com
 https://fr-fr.ring.com:8443

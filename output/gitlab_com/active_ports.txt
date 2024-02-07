@@ -919,6 +919,7 @@ ir.gitlab.com:443
 ir.gitlab.com:80
 jitsu-configurator.product-analytics.prototype.gitlab.com:443
 jitsu-configurator.product-analytics.prototype.gitlab.com:80
+jitsu-server.product-analytics.prototype.gitlab.com:1110
 jitsu-server.product-analytics.prototype.gitlab.com:443
 jitsu-server.product-analytics.prototype.gitlab.com:80
 jobs.gitlab.com:443

@@ -373,7 +373,6 @@ pr418.preprod.lululemon.com
 pr419.preprod.lululemon.com
 pr424.preprod.lululemon.com
 pr426.preprod.lululemon.com
-pr427.preprod.lululemon.com
 pr428.preprod.lululemon.com
 pr43.preprod.lululemon.com
 pr433.preprod.lululemon.com

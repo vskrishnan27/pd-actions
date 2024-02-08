@@ -9,6 +9,8 @@
 10.86.180.25shop.lululemon.com
 10.86.180.25shop.lululemon.com
 10.86.180.25shop.lululemon.com
+10.86.180.25shop.lululemon.com
+_spfa.lululemon.com
 _spfa.lululemon.com
 _spfa.lululemon.com
 _spfa.lululemon.com
@@ -31,6 +33,8 @@ ambassador.lululemon.com
 ambassador.lululemon.com
 ambassador.lululemon.com
 ambassador.lululemon.com
+ambassador.lululemon.com
+ambassadors.lululemon.com
 ambassadors.lululemon.com
 ambassadors.lululemon.com
 ambassadors.lululemon.com
@@ -53,6 +57,8 @@ ambassadorsummit.lululemon.com
 ambassadorsummit.lululemon.com
 ambassadorsummit.lululemon.com
 ambassadorsummit.lululemon.com
+ambassadorsummit.lululemon.com
+analytics.lululemon.com
 analytics.lululemon.com
 analytics.lululemon.com
 analytics.lululemon.com
@@ -75,6 +81,8 @@ anandabhatarika.lululemon.com
 anandabhatarika.lululemon.com
 anandabhatarika.lululemon.com
 anandabhatarika.lululemon.com
+anandabhatarika.lululemon.com
+api-creator.lululemon.com
 api-creator.lululemon.com
 api-creator.lululemon.com
 api-creator.lululemon.com
@@ -97,6 +105,8 @@ api.lululemon.com
 api.lululemon.com
 api.lululemon.com
 api.lululemon.com
+api.lululemon.com
+apim-dev.apigeeaccess.lululemon.com
 apim-dev.apigeeaccess.lululemon.com
 apim-dev.apigeeaccess.lululemon.com
 apim-dev.apigeeaccess.lululemon.com
@@ -119,6 +129,8 @@ apim-dev.proxyonboarding.lululemon.com
 apim-dev.proxyonboarding.lululemon.com
 apim-dev.proxyonboarding.lululemon.com
 apim-dev.proxyonboarding.lululemon.com
+apim-dev.proxyonboarding.lululemon.com
+apim-dev.tokenapi.lululemon.com
 apim-dev.tokenapi.lululemon.com
 apim-dev.tokenapi.lululemon.com
 apim-dev.tokenapi.lululemon.com
@@ -141,6 +153,8 @@ apim-stage.apigeeaccess.lululemon.com
 apim-stage.apigeeaccess.lululemon.com
 apim-stage.apigeeaccess.lululemon.com
 apim-stage.apigeeaccess.lululemon.com
+apim-stage.apigeeaccess.lululemon.com
+apim-stage.proxyonboarding.lululemon.com
 apim-stage.proxyonboarding.lululemon.com
 apim-stage.proxyonboarding.lululemon.com
 apim-stage.proxyonboarding.lululemon.com
@@ -163,6 +177,8 @@ apim-stage.tokenapi.lululemon.com
 apim-stage.tokenapi.lululemon.com
 apim-stage.tokenapi.lululemon.com
 apim-stage.tokenapi.lululemon.com
+apim-stage.tokenapi.lululemon.com
+apim.apigeeaccess.lululemon.com
 apim.apigeeaccess.lululemon.com
 apim.apigeeaccess.lululemon.com
 apim.apigeeaccess.lululemon.com
@@ -185,6 +201,8 @@ apim.proxyonboarding.lululemon.com
 apim.proxyonboarding.lululemon.com
 apim.proxyonboarding.lululemon.com
 apim.proxyonboarding.lululemon.com
+apim.proxyonboarding.lululemon.com
+apim.tokenapi.lululemon.com
 apim.tokenapi.lululemon.com
 apim.tokenapi.lululemon.com
 apim.tokenapi.lululemon.com
@@ -207,6 +225,8 @@ apis-dev-np.lululemon.com
 apis-dev-np.lululemon.com
 apis-dev-np.lululemon.com
 apis-dev-np.lululemon.com
+apis-dev-np.lululemon.com
+apis-sandbox-dev-np.lululemon.com
 apis-sandbox-dev-np.lululemon.com
 apis-sandbox-dev-np.lululemon.com
 apis-sandbox-dev-np.lululemon.com
@@ -229,6 +249,8 @@ apis-sandbox-np.lululemon.com
 apis-sandbox-np.lululemon.com
 apis-sandbox-np.lululemon.com
 apis-sandbox-np.lululemon.com
+apis-sandbox-np.lululemon.com
+apis-stage-np.lululemon.com
 apis-stage-np.lululemon.com
 apis-stage-np.lululemon.com
 apis-stage-np.lululemon.com
@@ -251,6 +273,8 @@ apis-test-np.lululemon.com
 apis-test-np.lululemon.com
 apis-test-np.lululemon.com
 apis-test-np.lululemon.com
+apis-test-np.lululemon.com
+apis.lululemon.com
 apis.lululemon.com
 apis.lululemon.com
 apis.lululemon.com
@@ -273,6 +297,8 @@ app-youlu.lululemon.com
 app-youlu.lululemon.com
 app-youlu.lululemon.com
 app-youlu.lululemon.com
+app-youlu.lululemon.com
+apps-youlu.lululemon.com
 apps-youlu.lululemon.com
 apps-youlu.lululemon.com
 apps-youlu.lululemon.com
@@ -293,6 +319,8 @@ apps.aem.lululemon.com
 apps.aem.lululemon.com
 apps.aem.lululemon.com
 apps.aem.lululemon.com
+apps.aem.lululemon.com
+apps.hey-uat.lululemon.com
 apps.hey-uat.lululemon.com
 apps.hey-uat.lululemon.com
 apps.hey-uat.lululemon.com
@@ -315,6 +343,8 @@ apps.youlu.lululemon.com
 apps.youlu.lululemon.com
 apps.youlu.lululemon.com
 apps.youlu.lululemon.com
+apps.youlu.lululemon.com
+atg-o1-prod.dfw.rs.lululemon.com
 atg-o1-prod.dfw.rs.lululemon.com
 atg-o1-prod.dfw.rs.lululemon.com
 atg-o1-prod.dfw.rs.lululemon.com
@@ -337,6 +367,8 @@ atg-o1-test.dfw.rs.lululemon.com
 atg-o1-test.dfw.rs.lululemon.com
 atg-o1-test.dfw.rs.lululemon.com
 atg-o1-test.dfw.rs.lululemon.com
+atg-o1-test.dfw.rs.lululemon.com
+atg-preview-prod.dfw.rs.lululemon.com
 atg-preview-prod.dfw.rs.lululemon.com
 atg-preview-prod.dfw.rs.lululemon.com
 atg-preview-prod.dfw.rs.lululemon.com
@@ -359,6 +391,8 @@ atg-preview-test.dfw.rs.lululemon.com
 atg-preview-test.dfw.rs.lululemon.com
 atg-preview-test.dfw.rs.lululemon.com
 atg-preview-test.dfw.rs.lululemon.com
+atg-preview-test.dfw.rs.lululemon.com
+atg.lululemon.com
 atg.lululemon.com
 atg.lululemon.com
 atg.lululemon.com
@@ -381,6 +415,8 @@ atgmail.lululemon.com
 atgmail.lululemon.com
 atgmail.lululemon.com
 atgmail.lululemon.com
+atgmail.lululemon.com
+autodiscover.likenew.lululemon.com
 autodiscover.likenew.lululemon.com
 autodiscover.likenew.lululemon.com
 autodiscover.likenew.lululemon.com
@@ -403,6 +439,8 @@ autodiscover.lululemon.com
 autodiscover.lululemon.com
 autodiscover.lululemon.com
 autodiscover.lululemon.com
+autodiscover.lululemon.com
+autodiscover.service.lululemon.com
 autodiscover.service.lululemon.com
 autodiscover.service.lululemon.com
 autodiscover.service.lululemon.com
@@ -425,6 +463,8 @@ bandha.lululemon.com
 bandha.lululemon.com
 bandha.lululemon.com
 bandha.lululemon.com
+bandha.lululemon.com
+basti.lululemon.com
 basti.lululemon.com
 basti.lululemon.com
 basti.lululemon.com
@@ -447,6 +487,8 @@ bcc10-sl.lululemon.com
 bcc10-sl.lululemon.com
 bcc10-sl.lululemon.com
 bcc10-sl.lululemon.com
+bcc10-sl.lululemon.com
+blog.eu.lululemon.com
 blog.eu.lululemon.com
 blog.eu.lululemon.com
 blog.eu.lululemon.com
@@ -469,6 +511,8 @@ blog.forulog.eu.lululemon.com
 blog.forulog.eu.lululemon.com
 blog.forulog.eu.lululemon.com
 blog.forulog.eu.lululemon.com
+blog.forulog.eu.lululemon.com
+blog.lululemon.com
 blog.lululemon.com
 blog.lululemon.com
 blog.lululemon.com
@@ -491,6 +535,8 @@ branch.lululemon.com
 branch.lululemon.com
 branch.lululemon.com
 branch.lululemon.com
+branch.lululemon.com
+c.spf.lululemon.com
 c.spf.lululemon.com
 c.spf.lululemon.com
 c.spf.lululemon.com
@@ -513,6 +559,8 @@ careers.lululemon.com
 careers.lululemon.com
 careers.lululemon.com
 careers.lululemon.com
+careers.lululemon.com
+cdn-contentful.lululemon.com
 cdn-contentful.lululemon.com
 cdn-contentful.lululemon.com
 cdn-contentful.lululemon.com
@@ -535,6 +583,8 @@ cdn.eu.lululemon.com
 cdn.eu.lululemon.com
 cdn.eu.lululemon.com
 cdn.eu.lululemon.com
+cdn.eu.lululemon.com
+cdn.lululemon.com
 cdn.lululemon.com
 cdn.lululemon.com
 cdn.lululemon.com
@@ -557,6 +607,8 @@ cdp.lululemon.com
 cdp.lululemon.com
 cdp.lululemon.com
 cdp.lululemon.com
+cdp.lululemon.com
+checkout-df.lululemon.com
 checkout-df.lululemon.com
 checkout-df.lululemon.com
 checkout-df.lululemon.com
@@ -577,6 +629,8 @@ checkout-intl.lululemon.com
 checkout-intl.lululemon.com
 checkout-intl.lululemon.com
 checkout-intl.lululemon.com
+checkout-intl.lululemon.com
+citrix-test.lululemon.com
 citrix-test.lululemon.com
 citrix-test.lululemon.com
 citrix-test.lululemon.com
@@ -599,6 +653,8 @@ citrix.lululemon.com
 citrix.lululemon.com
 citrix.lululemon.com
 citrix.lululemon.com
+citrix.lululemon.com
+cl.info.lululemon.com
 cl.info.lululemon.com
 cl.info.lululemon.com
 cl.info.lululemon.com
@@ -621,6 +677,8 @@ click.e.lululemon.com
 click.e.lululemon.com
 click.e.lululemon.com
 click.e.lululemon.com
+click.e.lululemon.com
+click.info.lululemon.com
 click.info.lululemon.com
 click.info.lululemon.com
 click.info.lululemon.com
@@ -643,6 +701,8 @@ cloud.e.lululemon.com
 cloud.e.lululemon.com
 cloud.e.lululemon.com
 cloud.e.lululemon.com
+cloud.e.lululemon.com
+cloudflare-sandbox.lululemon.com
 cloudflare-sandbox.lululemon.com
 cloudflare-sandbox.lululemon.com
 cloudflare-sandbox.lululemon.com
@@ -665,6 +725,8 @@ connect.lululemon.com
 connect.lululemon.com
 connect.lululemon.com
 connect.lululemon.com
+connect.lululemon.com
+contentapi.lululemon.com
 contentapi.lululemon.com
 contentapi.lululemon.com
 contentapi.lululemon.com
@@ -687,6 +749,8 @@ corporate.lululemon.com
 corporate.lululemon.com
 corporate.lululemon.com
 corporate.lululemon.com
+corporate.lululemon.com
+creator.lululemon.com
 creator.lululemon.com
 creator.lululemon.com
 creator.lululemon.com
@@ -709,6 +773,8 @@ cuda1.lululemon.com
 cuda1.lululemon.com
 cuda1.lululemon.com
 cuda1.lululemon.com
+cuda1.lululemon.com
+cuda2.lululemon.com
 cuda2.lululemon.com
 cuda2.lululemon.com
 cuda2.lululemon.com
@@ -729,6 +795,8 @@ dam-author-admin.lululemon.com
 dam-author-admin.lululemon.com
 dam-author-admin.lululemon.com
 dam-author-admin.lululemon.com
+dam-author-admin.lululemon.com
+dam-author-publish.lululemon.com
 dam-author-publish.lululemon.com
 dam-author-publish.lululemon.com
 dam-author-publish.lululemon.com
@@ -747,6 +815,8 @@ dam-author.lululemon.com
 dam-author.lululemon.com
 dam-author.lululemon.com
 dam-author.lululemon.com
+dam-author.lululemon.com
+dam-publish-admin.lululemon.com
 dam-publish-admin.lululemon.com
 dam-publish-admin.lululemon.com
 dam-publish-admin.lululemon.com
@@ -765,6 +835,8 @@ dam-publish.lululemon.com
 dam-publish.lululemon.com
 dam-publish.lululemon.com
 dam-publish.lululemon.com
+dam-publish.lululemon.com
+delivery.lululemon.com
 delivery.lululemon.com
 delivery.lululemon.com
 delivery.lululemon.com
@@ -787,6 +859,8 @@ dev-iexpense.lululemon.com
 dev-iexpense.lululemon.com
 dev-iexpense.lululemon.com
 dev-iexpense.lululemon.com
+dev-iexpense.lululemon.com
+dev.lululemon.com
 dev.lululemon.com
 dev.lululemon.com
 dev.lululemon.com
@@ -807,6 +881,8 @@ dev.pos-api.lululemon.com
 dev.pos-api.lululemon.com
 dev.pos-api.lululemon.com
 dev.pos-api.lululemon.com
+dev.pos-api.lululemon.com
+dev.preprod-apis.lululemon.com
 dev.preprod-apis.lululemon.com
 dev.preprod-apis.lululemon.com
 dev.preprod-apis.lululemon.com
@@ -829,6 +905,8 @@ dev8.lululemon.com
 dev8.lululemon.com
 dev8.lululemon.com
 dev8.lululemon.com
+dev8.lululemon.com
+dev9.lululemon.com
 dev9.lululemon.com
 dev9.lululemon.com
 dev9.lululemon.com
@@ -851,6 +929,8 @@ developers-dev.lululemon.com
 developers-dev.lululemon.com
 developers-dev.lululemon.com
 developers-dev.lululemon.com
+developers-dev.lululemon.com
+developers.lululemon.com
 developers.lululemon.com
 developers.lululemon.com
 developers.lululemon.com
@@ -873,6 +953,8 @@ dfw.rs.lululemon.com
 dfw.rs.lululemon.com
 dfw.rs.lululemon.com
 dfw.rs.lululemon.com
+dfw.rs.lululemon.com
+digcore-store-stage.lululemon.com
 digcore-store-stage.lululemon.com
 digcore-store-stage.lululemon.com
 digcore-store-stage.lululemon.com
@@ -895,6 +977,8 @@ digcore-store.lululemon.com
 digcore-store.lululemon.com
 digcore-store.lululemon.com
 digcore-store.lululemon.com
+digcore-store.lululemon.com
+doom.lululemon.com
 doom.lululemon.com
 doom.lululemon.com
 doom.lululemon.com
@@ -917,6 +1001,8 @@ dsc.lululemon.com
 dsc.lululemon.com
 dsc.lululemon.com
 dsc.lululemon.com
+dsc.lululemon.com
+e.lululemon.com
 e.lululemon.com
 e.lululemon.com
 e.lululemon.com
@@ -939,6 +1025,8 @@ ehc-dev.lululemon.com
 ehc-dev.lululemon.com
 ehc-dev.lululemon.com
 ehc-dev.lululemon.com
+ehc-dev.lululemon.com
+ehc.lululemon.com
 ehc.lululemon.com
 ehc.lululemon.com
 ehc.lululemon.com
@@ -961,6 +1049,8 @@ email.lululemon.com
 email.lululemon.com
 email.lululemon.com
 email.lululemon.com
+email.lululemon.com
+enterpriseenrollment.lululemon.com
 enterpriseenrollment.lululemon.com
 enterpriseenrollment.lululemon.com
 enterpriseenrollment.lululemon.com
@@ -983,6 +1073,8 @@ enterpriseregistration.lululemon.com
 enterpriseregistration.lululemon.com
 enterpriseregistration.lululemon.com
 enterpriseregistration.lululemon.com
+enterpriseregistration.lululemon.com
+eu.lululemon.com
 eu.lululemon.com
 eu.lululemon.com
 eu.lululemon.com
@@ -1005,6 +1097,8 @@ exchange.lululemon.com
 exchange.lululemon.com
 exchange.lululemon.com
 exchange.lululemon.com
+exchange.lululemon.com
+exchangedelagation.lululemon.com
 exchangedelagation.lululemon.com
 exchangedelagation.lululemon.com
 exchangedelagation.lululemon.com
@@ -1027,6 +1121,8 @@ facebook.lululemon.com
 facebook.lululemon.com
 facebook.lululemon.com
 facebook.lululemon.com
+facebook.lululemon.com
+failover.lululemon.com
 failover.lululemon.com
 failover.lululemon.com
 failover.lululemon.com
@@ -1049,6 +1145,8 @@ fakeprod.preprod.lululemon.com
 fakeprod.preprod.lululemon.com
 fakeprod.preprod.lululemon.com
 fakeprod.preprod.lululemon.com
+fakeprod.preprod.lululemon.com
+flickr.lululemon.com
 flickr.lululemon.com
 flickr.lululemon.com
 flickr.lululemon.com
@@ -1071,6 +1169,8 @@ fr-blog.lululemon.com
 fr-blog.lululemon.com
 fr-blog.lululemon.com
 fr-blog.lululemon.com
+fr-blog.lululemon.com
+fr-dev9.lululemon.com
 fr-dev9.lululemon.com
 fr-dev9.lululemon.com
 fr-dev9.lululemon.com
@@ -1093,6 +1193,8 @@ fr-origin-info-cms.lululemon.com
 fr-origin-info-cms.lululemon.com
 fr-origin-info-cms.lululemon.com
 fr-origin-info-cms.lululemon.com
+fr-origin-info-cms.lululemon.com
+fr-origin-stage.info.lululemon.com
 fr-origin-stage.info.lululemon.com
 fr-origin-stage.info.lululemon.com
 fr-origin-stage.info.lululemon.com
@@ -1115,6 +1217,8 @@ fr-origin.lululemon.com
 fr-origin.lululemon.com
 fr-origin.lululemon.com
 fr-origin.lululemon.com
+fr-origin.lululemon.com
+fr-origin.shop.lululemon.com
 fr-origin.shop.lululemon.com
 fr-origin.shop.lululemon.com
 fr-origin.shop.lululemon.com
@@ -1137,6 +1241,8 @@ fr-preview-dev9.lululemon.com
 fr-preview-dev9.lululemon.com
 fr-preview-dev9.lululemon.com
 fr-preview-dev9.lululemon.com
+fr-preview-dev9.lululemon.com
+fr-preview-dr.lululemon.com
 fr-preview-dr.lululemon.com
 fr-preview-dr.lululemon.com
 fr-preview-dr.lululemon.com
@@ -1159,6 +1265,8 @@ fr-qa-info.lululemon.com
 fr-qa-info.lululemon.com
 fr-qa-info.lululemon.com
 fr-qa-info.lululemon.com
+fr-qa-info.lululemon.com
+fr-qa13.lululemon.com
 fr-qa13.lululemon.com
 fr-qa13.lululemon.com
 fr-qa13.lululemon.com
@@ -1181,6 +1289,8 @@ fr-qa14.lululemon.com
 fr-qa14.lululemon.com
 fr-qa14.lululemon.com
 fr-qa14.lululemon.com
+fr-qa14.lululemon.com
+fr-qa16.lululemon.com
 fr-qa16.lululemon.com
 fr-qa16.lululemon.com
 fr-qa16.lululemon.com
@@ -1203,6 +1313,8 @@ fr-qa17.lululemon.com
 fr-qa17.lululemon.com
 fr-qa17.lululemon.com
 fr-qa17.lululemon.com
+fr-qa17.lululemon.com
+fr-qa2-info.lululemon.com
 fr-qa2-info.lululemon.com
 fr-qa2-info.lululemon.com
 fr-qa2-info.lululemon.com
@@ -1225,6 +1337,8 @@ fr-qa21.lululemon.com
 fr-qa21.lululemon.com
 fr-qa21.lululemon.com
 fr-qa21.lululemon.com
+fr-qa21.lululemon.com
+fr-shop-dr.lululemon.com
 fr-shop-dr.lululemon.com
 fr-shop-dr.lululemon.com
 fr-shop-dr.lululemon.com
@@ -1247,6 +1361,8 @@ fr-stage2.lululemon.com
 fr-stage2.lululemon.com
 fr-stage2.lululemon.com
 fr-stage2.lululemon.com
+fr-stage2.lululemon.com
+fr-stage62-info.lululemon.com
 fr-stage62-info.lululemon.com
 fr-stage62-info.lululemon.com
 fr-stage62-info.lululemon.com
@@ -1269,6 +1385,8 @@ fr-test-shop.lululemon.com
 fr-test-shop.lululemon.com
 fr-test-shop.lululemon.com
 fr-test-shop.lululemon.com
+fr-test-shop.lululemon.com
+fr.lululemon.com
 fr.lululemon.com
 fr.lululemon.com
 fr.lululemon.com
@@ -1291,6 +1409,8 @@ fr.preview.lululemon.com
 fr.preview.lululemon.com
 fr.preview.lululemon.com
 fr.preview.lululemon.com
+fr.preview.lululemon.com
+fr.qa2.info.lululemon.com
 fr.qa2.info.lululemon.com
 fr.qa2.info.lululemon.com
 fr.qa2.info.lululemon.com
@@ -1313,6 +1433,8 @@ fr.search.lululemon.com
 fr.search.lululemon.com
 fr.search.lululemon.com
 fr.search.lululemon.com
+fr.search.lululemon.com
+fr.shop.lululemon.com
 fr.shop.lululemon.com
 fr.shop.lululemon.com
 fr.shop.lululemon.com
@@ -1335,6 +1457,8 @@ fr.stage-gsr.lululemon.com
 fr.stage-gsr.lululemon.com
 fr.stage-gsr.lululemon.com
 fr.stage-gsr.lululemon.com
+fr.stage-gsr.lululemon.com
+fr.stage.info.lululemon.com
 fr.stage.info.lululemon.com
 fr.stage.info.lululemon.com
 fr.stage.info.lululemon.com
@@ -1357,6 +1481,8 @@ fr.stage.lululemon.com
 fr.stage.lululemon.com
 fr.stage.lululemon.com
 fr.stage.lululemon.com
+fr.stage.lululemon.com
+fr.stage10.lululemon.com
 fr.stage10.lululemon.com
 fr.stage10.lululemon.com
 fr.stage10.lululemon.com
@@ -1379,6 +1505,8 @@ fr.stage2.lululemon.com
 fr.stage2.lululemon.com
 fr.stage2.lululemon.com
 fr.stage2.lululemon.com
+fr.stage2.lululemon.com
+fr.sustainability.lululemon.com
 fr.sustainability.lululemon.com
 fr.sustainability.lululemon.com
 fr.sustainability.lululemon.com
@@ -1401,6 +1529,8 @@ fr.test.lululemon.com
 fr.test.lululemon.com
 fr.test.lululemon.com
 fr.test.lululemon.com
+fr.test.lululemon.com
+ftp.atg.interfaces.lululemon.com
 ftp.atg.interfaces.lululemon.com
 ftp.atg.interfaces.lululemon.com
 ftp.atg.interfaces.lululemon.com
@@ -1423,6 +1553,8 @@ ftp.lululemon.com
 ftp.lululemon.com
 ftp.lululemon.com
 ftp.lululemon.com
+ftp.lululemon.com
+globalfamily-uat.lululemon.com
 globalfamily-uat.lululemon.com
 globalfamily-uat.lululemon.com
 globalfamily-uat.lululemon.com
@@ -1445,6 +1577,8 @@ globalfamily.lululemon.com
 globalfamily.lululemon.com
 globalfamily.lululemon.com
 globalfamily.lululemon.com
+globalfamily.lululemon.com
+globalrunningday.lululemon.com
 globalrunningday.lululemon.com
 globalrunningday.lululemon.com
 globalrunningday.lululemon.com
@@ -1467,6 +1601,8 @@ globalstaticassets.lululemon.com
 globalstaticassets.lululemon.com
 globalstaticassets.lululemon.com
 globalstaticassets.lululemon.com
+globalstaticassets.lululemon.com
+goals.lululemon.com
 goals.lululemon.com
 goals.lululemon.com
 goals.lululemon.com
@@ -1489,6 +1625,8 @@ goaltender.lululemon.com
 goaltender.lululemon.com
 goaltender.lululemon.com
 goaltender.lululemon.com
+goaltender.lululemon.com
+grants.lululemon.com
 grants.lululemon.com
 grants.lululemon.com
 grants.lululemon.com
@@ -1511,6 +1649,8 @@ grants.stage.lululemon.com
 grants.stage.lululemon.com
 grants.stage.lululemon.com
 grants.stage.lululemon.com
+grants.stage.lululemon.com
+graphql-contentful.lululemon.com
 graphql-contentful.lululemon.com
 graphql-contentful.lululemon.com
 graphql-contentful.lululemon.com
@@ -1533,6 +1673,8 @@ grin.lululemon.com
 grin.lululemon.com
 grin.lululemon.com
 grin.lululemon.com
+grin.lululemon.com
+hey-uat.lululemon.com
 hey-uat.lululemon.com
 hey-uat.lululemon.com
 hey-uat.lululemon.com
@@ -1555,6 +1697,8 @@ howwewearit.lululemon.com
 howwewearit.lululemon.com
 howwewearit.lululemon.com
 howwewearit.lululemon.com
+howwewearit.lululemon.com
+identity.lululemon.com
 identity.lululemon.com
 identity.lululemon.com
 identity.lululemon.com
@@ -1577,6 +1721,8 @@ iexpense.lululemon.com
 iexpense.lululemon.com
 iexpense.lululemon.com
 iexpense.lululemon.com
+iexpense.lululemon.com
+image.e.lululemon.com
 image.e.lululemon.com
 image.e.lululemon.com
 image.e.lululemon.com
@@ -1599,6 +1745,8 @@ image.info.lululemon.com
 image.info.lululemon.com
 image.info.lululemon.com
 image.info.lululemon.com
+image.info.lululemon.com
+images.eu.lululemon.com
 images.eu.lululemon.com
 images.eu.lululemon.com
 images.eu.lululemon.com
@@ -1621,6 +1769,8 @@ images.info.lululemon.com
 images.info.lululemon.com
 images.info.lululemon.com
 images.info.lululemon.com
+images.info.lululemon.com
+images.lululemon.com
 images.lululemon.com
 images.lululemon.com
 images.lululemon.com
@@ -1643,6 +1793,7 @@ info.eu.lululemon.com
 info.eu.lululemon.com
 info.eu.lululemon.com
 info.eu.lululemon.com
+info.eu.lululemon.com
 info.lululemon.com
 info.lululemon.com
 info.lululemon.com
@@ -1654,6 +1805,8 @@ info.lululemon.com
 info.lululemon.com
 info.lululemon.com
 info.lululemon.com
+info.lululemon.com
+instoreideas.lululemon.com
 instoreideas.lululemon.com
 instoreideas.lululemon.com
 instoreideas.lululemon.com
@@ -1674,6 +1827,7 @@ internal-alpha.lululemon.com
 internal-alpha.lululemon.com
 internal-alpha.lululemon.com
 internal-alpha.lululemon.com
+internal-alpha.lululemon.com
 internal-beta.lululemon.com
 internal-beta.lululemon.com
 internal-beta.lululemon.com
@@ -1683,6 +1837,8 @@ internal-beta.lululemon.com
 internal-beta.lululemon.com
 internal-beta.lululemon.com
 internal-beta.lululemon.com
+internal-beta.lululemon.com
+investor.lululemon.com
 investor.lululemon.com
 investor.lululemon.com
 investor.lululemon.com
@@ -1705,6 +1861,8 @@ ipo.lululemon.com
 ipo.lululemon.com
 ipo.lululemon.com
 ipo.lululemon.com
+ipo.lululemon.com
+ir.lululemon.com
 ir.lululemon.com
 ir.lululemon.com
 ir.lululemon.com
@@ -1727,6 +1885,8 @@ leadershipconference.lululemon.com
 leadershipconference.lululemon.com
 leadershipconference.lululemon.com
 leadershipconference.lululemon.com
+leadershipconference.lululemon.com
+legacymail.lululemon.com
 legacymail.lululemon.com
 legacymail.lululemon.com
 legacymail.lululemon.com
@@ -1749,6 +1909,8 @@ library.lululemon.com
 library.lululemon.com
 library.lululemon.com
 library.lululemon.com
+library.lululemon.com
+likenew-staging.lululemon.com
 likenew-staging.lululemon.com
 likenew-staging.lululemon.com
 likenew-staging.lululemon.com
@@ -1771,6 +1933,8 @@ likenew.lululemon.com
 likenew.lululemon.com
 likenew.lululemon.com
 likenew.lululemon.com
+likenew.lululemon.com
+links.em.lululemon.com
 links.em.lululemon.com
 links.em.lululemon.com
 links.em.lululemon.com
@@ -1793,6 +1957,8 @@ listadmin.lululemon.com
 listadmin.lululemon.com
 listadmin.lululemon.com
 listadmin.lululemon.com
+listadmin.lululemon.com
+lists.lululemon.com
 lists.lululemon.com
 lists.lululemon.com
 lists.lululemon.com
@@ -1815,6 +1981,8 @@ lit-ctxadns-01.lululemon.com
 lit-ctxadns-01.lululemon.com
 lit-ctxadns-01.lululemon.com
 lit-ctxadns-01.lululemon.com
+lit-ctxadns-01.lululemon.com
+lit-ctxadns-02.lululemon.com
 lit-ctxadns-02.lululemon.com
 lit-ctxadns-02.lululemon.com
 lit-ctxadns-02.lululemon.com
@@ -1835,6 +2003,8 @@ lll-flow-anaplan-prod.lululemon.com
 lll-flow-anaplan-prod.lululemon.com
 lll-flow-anaplan-prod.lululemon.com
 lll-flow-anaplan-prod.lululemon.com
+lll-flow-anaplan-prod.lululemon.com
+lll-flow-anaplan-qa.lululemon.com
 lll-flow-anaplan-qa.lululemon.com
 lll-flow-anaplan-qa.lululemon.com
 lll-flow-anaplan-qa.lululemon.com
@@ -1853,6 +2023,8 @@ lll.flow.anaplan.prod.lululemon.com
 lll.flow.anaplan.prod.lululemon.com
 lll.flow.anaplan.prod.lululemon.com
 lll.flow.anaplan.prod.lululemon.com
+lll.flow.anaplan.prod.lululemon.com
+lll.flow.anaplan.qa.lululemon.com
 lll.flow.anaplan.qa.lululemon.com
 lll.flow.anaplan.qa.lululemon.com
 lll.flow.anaplan.qa.lululemon.com
@@ -1875,6 +2047,8 @@ lllandme.preprod.lululemon.com
 lllandme.preprod.lululemon.com
 lllandme.preprod.lululemon.com
 lllandme.preprod.lululemon.com
+lllandme.preprod.lululemon.com
+localhost.e.lululemon.com
 localhost.e.lululemon.com
 localhost.e.lululemon.com
 localhost.e.lululemon.com
@@ -1897,6 +2071,8 @@ localhost.info.lululemon.com
 localhost.info.lululemon.com
 localhost.info.lululemon.com
 localhost.info.lululemon.com
+localhost.info.lululemon.com
+login.creators.lululemon.com
 login.creators.lululemon.com
 login.creators.lululemon.com
 login.creators.lululemon.com
@@ -1919,6 +2095,8 @@ login.lululemon.com
 login.lululemon.com
 login.lululemon.com
 login.lululemon.com
+login.lululemon.com
+loopback.lululemon.com
 loopback.lululemon.com
 loopback.lululemon.com
 loopback.lululemon.com
@@ -1939,6 +2117,8 @@ lululemon.com
 lululemon.com
 lululemon.com
 lululemon.com
+lululemon.com
+lululemoncas1.lululemon.com
 lululemoncas1.lululemon.com
 lululemoncas1.lululemon.com
 lululemoncas1.lululemon.com
@@ -1961,6 +2141,8 @@ lululemonhts1.lululemon.com
 lululemonhts1.lululemon.com
 lululemonhts1.lululemon.com
 lululemonhts1.lululemon.com
+lululemonhts1.lululemon.com
+lulunet.lululemon.com
 lulunet.lululemon.com
 lulunet.lululemon.com
 lulunet.lululemon.com
@@ -1983,6 +2165,8 @@ luluroute.lululemon.com
 luluroute.lululemon.com
 luluroute.lululemon.com
 luluroute.lululemon.com
+luluroute.lululemon.com
+lutube.lululemon.com
 lutube.lululemon.com
 lutube.lululemon.com
 lutube.lululemon.com
@@ -2005,6 +2189,8 @@ lyn-ctxadns-01.lululemon.com
 lyn-ctxadns-01.lululemon.com
 lyn-ctxadns-01.lululemon.com
 lyn-ctxadns-01.lululemon.com
+lyn-ctxadns-01.lululemon.com
+lyn-ctxadns-02.lululemon.com
 lyn-ctxadns-02.lululemon.com
 lyn-ctxadns-02.lululemon.com
 lyn-ctxadns-02.lululemon.com
@@ -2027,6 +2213,8 @@ lyncdiscover.lululemon.com
 lyncdiscover.lululemon.com
 lyncdiscover.lululemon.com
 lyncdiscover.lululemon.com
+lyncdiscover.lululemon.com
+mail.lululemon.com
 mail.lululemon.com
 mail.lululemon.com
 mail.lululemon.com
@@ -2049,6 +2237,8 @@ mail.shop.lululemon.com
 mail.shop.lululemon.com
 mail.shop.lululemon.com
 mail.shop.lululemon.com
+mail.shop.lululemon.com
+media.lululemon.com
 media.lululemon.com
 media.lululemon.com
 media.lululemon.com
@@ -2071,6 +2261,8 @@ metrics.lululemon.com
 metrics.lululemon.com
 metrics.lululemon.com
 metrics.lululemon.com
+metrics.lululemon.com
+migration.lululemon.com
 migration.lululemon.com
 migration.lululemon.com
 migration.lululemon.com
@@ -2093,6 +2285,8 @@ minisite.lululemon.com
 minisite.lululemon.com
 minisite.lululemon.com
 minisite.lululemon.com
+minisite.lululemon.com
+minisites.lululemon.com
 minisites.lululemon.com
 minisites.lululemon.com
 minisites.lululemon.com
@@ -2113,6 +2307,8 @@ mirrorhook.lululemon.com
 mirrorhook.lululemon.com
 mirrorhook.lululemon.com
 mirrorhook.lululemon.com
+mirrorhook.lululemon.com
+mobileapi.lululemon.com
 mobileapi.lululemon.com
 mobileapi.lululemon.com
 mobileapi.lululemon.com
@@ -2135,6 +2331,8 @@ mobileideas.lululemon.com
 mobileideas.lululemon.com
 mobileideas.lululemon.com
 mobileideas.lululemon.com
+mobileideas.lululemon.com
+mobileshopapi.eu.lululemon.com
 mobileshopapi.eu.lululemon.com
 mobileshopapi.eu.lululemon.com
 mobileshopapi.eu.lululemon.com
@@ -2155,6 +2353,7 @@ mobileshopapi.lululemon.com
 mobileshopapi.lululemon.com
 mobileshopapi.lululemon.com
 mobileshopapi.lululemon.com
+mobileshopapi.lululemon.com
 mock.apis.lululemon.com
 mock.apis.lululemon.com
 mock.apis.lululemon.com
@@ -2164,6 +2363,8 @@ mock.apis.lululemon.com
 mock.apis.lululemon.com
 mock.apis.lululemon.com
 mock.apis.lululemon.com
+mock.apis.lululemon.com
+mock.preprod-apis.lululemon.com
 mock.preprod-apis.lululemon.com
 mock.preprod-apis.lululemon.com
 mock.preprod-apis.lululemon.com
@@ -2186,6 +2387,8 @@ msoid.lululemon.com
 msoid.lululemon.com
 msoid.lululemon.com
 msoid.lululemon.com
+msoid.lululemon.com
+mta.e.lululemon.com
 mta.e.lululemon.com
 mta.e.lululemon.com
 mta.e.lululemon.com
@@ -2208,6 +2411,8 @@ mta.info.lululemon.com
 mta.info.lululemon.com
 mta.info.lululemon.com
 mta.info.lululemon.com
+mta.info.lululemon.com
+mta11.e.lululemon.com
 mta11.e.lululemon.com
 mta11.e.lululemon.com
 mta11.e.lululemon.com
@@ -2230,6 +2435,8 @@ mta12.e.lululemon.com
 mta12.e.lululemon.com
 mta12.e.lululemon.com
 mta12.e.lululemon.com
+mta12.e.lululemon.com
+mta2.e.lululemon.com
 mta2.e.lululemon.com
 mta2.e.lululemon.com
 mta2.e.lululemon.com
@@ -2252,6 +2459,8 @@ mta3.e.lululemon.com
 mta3.e.lululemon.com
 mta3.e.lululemon.com
 mta3.e.lululemon.com
+mta3.e.lululemon.com
+mta4.e.lululemon.com
 mta4.e.lululemon.com
 mta4.e.lululemon.com
 mta4.e.lululemon.com
@@ -2274,6 +2483,8 @@ mta5.e.lululemon.com
 mta5.e.lululemon.com
 mta5.e.lululemon.com
 mta5.e.lululemon.com
+mta5.e.lululemon.com
+mta6.e.lululemon.com
 mta6.e.lululemon.com
 mta6.e.lululemon.com
 mta6.e.lululemon.com
@@ -2296,6 +2507,7 @@ mta7.e.lululemon.com
 mta7.e.lululemon.com
 mta7.e.lululemon.com
 mta7.e.lululemon.com
+mta7.e.lululemon.com
 mta8.e.lululemon.com
 mta8.e.lululemon.com
 mta8.e.lululemon.com
@@ -2307,6 +2519,8 @@ mta8.e.lululemon.com
 mta8.e.lululemon.com
 mta8.e.lululemon.com
 mta8.e.lululemon.com
+mta8.e.lululemon.com
+mta9.e.lululemon.com
 mta9.e.lululemon.com
 mta9.e.lululemon.com
 mta9.e.lululemon.com
@@ -2327,6 +2541,8 @@ mule.lululemon.com
 mule.lululemon.com
 mule.lululemon.com
 mule.lululemon.com
+mule.lululemon.com
+myapps.lululemon.com
 myapps.lululemon.com
 myapps.lululemon.com
 myapps.lululemon.com
@@ -2347,6 +2563,8 @@ nonprod-mule.lululemon.com
 nonprod-mule.lululemon.com
 nonprod-mule.lululemon.com
 nonprod-mule.lululemon.com
+nonprod-mule.lululemon.com
+ns.lululemon.com
 ns.lululemon.com
 ns.lululemon.com
 ns.lululemon.com
@@ -2369,6 +2587,8 @@ o-api.lululemon.com
 o-api.lululemon.com
 o-api.lululemon.com
 o-api.lululemon.com
+o-api.lululemon.com
+o-blog.eu.lululemon.com
 o-blog.eu.lululemon.com
 o-blog.eu.lululemon.com
 o-blog.eu.lululemon.com
@@ -2391,6 +2611,8 @@ o-blog.lululemon.com
 o-blog.lululemon.com
 o-blog.lululemon.com
 o-blog.lululemon.com
+o-blog.lululemon.com
+o-fr-blog.lululemon.com
 o-fr-blog.lululemon.com
 o-fr-blog.lululemon.com
 o-fr-blog.lululemon.com
@@ -2413,6 +2635,8 @@ o-fr-info-cms.lululemon.com
 o-fr-info-cms.lululemon.com
 o-fr-info-cms.lululemon.com
 o-fr-info-cms.lululemon.com
+o-fr-info-cms.lululemon.com
+o-howwewearit.lululemon.com
 o-howwewearit.lululemon.com
 o-howwewearit.lululemon.com
 o-howwewearit.lululemon.com
@@ -2435,6 +2659,8 @@ o-info-cms.eu.lululemon.com
 o-info-cms.eu.lululemon.com
 o-info-cms.eu.lululemon.com
 o-info-cms.eu.lululemon.com
+o-info-cms.eu.lululemon.com
+o-info-cms.lululemon.com
 o-info-cms.lululemon.com
 o-info-cms.lululemon.com
 o-info-cms.lululemon.com
@@ -2457,6 +2683,8 @@ o-pnimages.lululemon.com
 o-pnimages.lululemon.com
 o-pnimages.lululemon.com
 o-pnimages.lululemon.com
+o-pnimages.lululemon.com
+o-reportfort.lululemon.com
 o-reportfort.lululemon.com
 o-reportfort.lululemon.com
 o-reportfort.lululemon.com
@@ -2479,6 +2707,8 @@ o-shop.lululemon.com
 o-shop.lululemon.com
 o-shop.lululemon.com
 o-shop.lululemon.com
+o-shop.lululemon.com
+o-stage-api.lululemon.com
 o-stage-api.lululemon.com
 o-stage-api.lululemon.com
 o-stage-api.lululemon.com
@@ -2501,6 +2731,8 @@ o-stage-blog.eu.lululemon.com
 o-stage-blog.eu.lululemon.com
 o-stage-blog.eu.lululemon.com
 o-stage-blog.eu.lululemon.com
+o-stage-blog.eu.lululemon.com
+o-stage-blog.lululemon.com
 o-stage-blog.lululemon.com
 o-stage-blog.lululemon.com
 o-stage-blog.lululemon.com
@@ -2523,6 +2755,8 @@ o-stage-fr-blog.lululemon.com
 o-stage-fr-blog.lululemon.com
 o-stage-fr-blog.lululemon.com
 o-stage-fr-blog.lululemon.com
+o-stage-fr-blog.lululemon.com
+o-stage-fr-info-cms.lululemon.com
 o-stage-fr-info-cms.lululemon.com
 o-stage-fr-info-cms.lululemon.com
 o-stage-fr-info-cms.lululemon.com
@@ -2545,6 +2779,8 @@ o-stage-gsr.lululemon.com
 o-stage-gsr.lululemon.com
 o-stage-gsr.lululemon.com
 o-stage-gsr.lululemon.com
+o-stage-gsr.lululemon.com
+o-stage-howwewearit.lululemon.com
 o-stage-howwewearit.lululemon.com
 o-stage-howwewearit.lululemon.com
 o-stage-howwewearit.lululemon.com
@@ -2567,6 +2803,8 @@ o-stage-info-cms.eu.lululemon.com
 o-stage-info-cms.eu.lululemon.com
 o-stage-info-cms.eu.lululemon.com
 o-stage-info-cms.eu.lululemon.com
+o-stage-info-cms.eu.lululemon.com
+o-stage-info-cms.lululemon.com
 o-stage-info-cms.lululemon.com
 o-stage-info-cms.lululemon.com
 o-stage-info-cms.lululemon.com
@@ -2589,6 +2827,8 @@ o-stage-mobileapi-gsr.lululemon.com
 o-stage-mobileapi-gsr.lululemon.com
 o-stage-mobileapi-gsr.lululemon.com
 o-stage-mobileapi-gsr.lululemon.com
+o-stage-mobileapi-gsr.lululemon.com
+o-stage-pnimages.lululemon.com
 o-stage-pnimages.lululemon.com
 o-stage-pnimages.lululemon.com
 o-stage-pnimages.lululemon.com
@@ -2611,6 +2851,8 @@ o-stage-preview-gsr.lululemon.com
 o-stage-preview-gsr.lululemon.com
 o-stage-preview-gsr.lululemon.com
 o-stage-preview-gsr.lululemon.com
+o-stage-preview-gsr.lululemon.com
+o-stage-search-gsr.lululemon.com
 o-stage-search-gsr.lululemon.com
 o-stage-search-gsr.lululemon.com
 o-stage-search-gsr.lululemon.com
@@ -2633,6 +2875,8 @@ o-stage.eu.lululemon.com
 o-stage.eu.lululemon.com
 o-stage.eu.lululemon.com
 o-stage.eu.lululemon.com
+o-stage.eu.lululemon.com
+o-stage.lululemon.com
 o-stage.lululemon.com
 o-stage.lululemon.com
 o-stage.lululemon.com
@@ -2655,6 +2899,8 @@ o-stage62-info.eu.lululemon.com
 o-stage62-info.eu.lululemon.com
 o-stage62-info.eu.lululemon.com
 o-stage62-info.eu.lululemon.com
+o-stage62-info.eu.lululemon.com
+o-stage62-info.lululemon.com
 o-stage62-info.lululemon.com
 o-stage62-info.lululemon.com
 o-stage62-info.lululemon.com
@@ -2677,6 +2923,8 @@ o-stagegsr-preview.eu.lululemon.com
 o-stagegsr-preview.eu.lululemon.com
 o-stagegsr-preview.eu.lululemon.com
 o-stagegsr-preview.eu.lululemon.com
+o-stagegsr-preview.eu.lululemon.com
+o-stagegsr.eu.lululemon.com
 o-stagegsr.eu.lululemon.com
 o-stagegsr.eu.lululemon.com
 o-stagegsr.eu.lululemon.com
@@ -2699,6 +2947,8 @@ o-stg-api.lululemon.com
 o-stg-api.lululemon.com
 o-stg-api.lululemon.com
 o-stg-api.lululemon.com
+o-stg-api.lululemon.com
+o-strategicsales.lululemon.com
 o-strategicsales.lululemon.com
 o-strategicsales.lululemon.com
 o-strategicsales.lululemon.com
@@ -2721,6 +2971,8 @@ o-sustainability.lululemon.com
 o-sustainability.lululemon.com
 o-sustainability.lululemon.com
 o-sustainability.lululemon.com
+o-sustainability.lululemon.com
+o2-shop.lululemon.com
 o2-shop.lululemon.com
 o2-shop.lululemon.com
 o2-shop.lululemon.com
@@ -2743,6 +2995,8 @@ o2-www.eu.lululemon.com
 o2-www.eu.lululemon.com
 o2-www.eu.lululemon.com
 o2-www.eu.lululemon.com
+o2-www.eu.lululemon.com
+office365.lululemon.com
 office365.lululemon.com
 office365.lululemon.com
 office365.lululemon.com
@@ -2765,6 +3019,8 @@ old-youlu.lululemon.com
 old-youlu.lululemon.com
 old-youlu.lululemon.com
 old-youlu.lululemon.com
+old-youlu.lululemon.com
+omp.whatwelove-eu.lululemon.com
 omp.whatwelove-eu.lululemon.com
 omp.whatwelove-eu.lululemon.com
 omp.whatwelove-eu.lululemon.com
@@ -2787,6 +3043,8 @@ omp.whatwelove-test.lululemon.com
 omp.whatwelove-test.lululemon.com
 omp.whatwelove-test.lululemon.com
 omp.whatwelove-test.lululemon.com
+omp.whatwelove-test.lululemon.com
+omp.whatwelove.lululemon.com
 omp.whatwelove.lululemon.com
 omp.whatwelove.lululemon.com
 omp.whatwelove.lululemon.com
@@ -2809,6 +3067,8 @@ omptrans.whatwelove-eu.lululemon.com
 omptrans.whatwelove-eu.lululemon.com
 omptrans.whatwelove-eu.lululemon.com
 omptrans.whatwelove-eu.lululemon.com
+omptrans.whatwelove-eu.lululemon.com
+omptrans.whatwelove.lululemon.com
 omptrans.whatwelove.lululemon.com
 omptrans.whatwelove.lululemon.com
 omptrans.whatwelove.lululemon.com
@@ -2831,6 +3091,8 @@ oraclefindev.lululemon.com
 oraclefindev.lululemon.com
 oraclefindev.lululemon.com
 oraclefindev.lululemon.com
+oraclefindev.lululemon.com
+oraclefinix.lululemon.com
 oraclefinix.lululemon.com
 oraclefinix.lululemon.com
 oraclefinix.lululemon.com
@@ -2853,6 +3115,8 @@ oraclefinqa.lululemon.com
 oraclefinqa.lululemon.com
 oraclefinqa.lululemon.com
 oraclefinqa.lululemon.com
+oraclefinqa.lululemon.com
+oraclefinstg.lululemon.com
 oraclefinstg.lululemon.com
 oraclefinstg.lululemon.com
 oraclefinstg.lululemon.com
@@ -2875,6 +3139,8 @@ origin-b-stage-na.lululemon.com
 origin-b-stage-na.lululemon.com
 origin-b-stage-na.lululemon.com
 origin-b-stage-na.lululemon.com
+origin-b-stage-na.lululemon.com
+origin-b-stage-preprod-na.lululemon.com
 origin-b-stage-preprod-na.lululemon.com
 origin-b-stage-preprod-na.lululemon.com
 origin-b-stage-preprod-na.lululemon.com
@@ -2897,6 +3163,8 @@ origin-info-cms.eu.lululemon.com
 origin-info-cms.eu.lululemon.com
 origin-info-cms.eu.lululemon.com
 origin-info-cms.eu.lululemon.com
+origin-info-cms.eu.lululemon.com
+origin-info-cms.lululemon.com
 origin-info-cms.lululemon.com
 origin-info-cms.lululemon.com
 origin-info-cms.lululemon.com
@@ -2919,6 +3187,8 @@ origin-info.eu.lululemon.com
 origin-info.eu.lululemon.com
 origin-info.eu.lululemon.com
 origin-info.eu.lululemon.com
+origin-info.eu.lululemon.com
+origin-info.lululemon.com
 origin-info.lululemon.com
 origin-info.lululemon.com
 origin-info.lululemon.com
@@ -2941,6 +3211,8 @@ origin-stage.info.eu.lululemon.com
 origin-stage.info.eu.lululemon.com
 origin-stage.info.eu.lululemon.com
 origin-stage.info.eu.lululemon.com
+origin-stage.info.eu.lululemon.com
+origin-stage.info.lululemon.com
 origin-stage.info.lululemon.com
 origin-stage.info.lululemon.com
 origin-stage.info.lululemon.com
@@ -2963,6 +3235,7 @@ owa.lululemon.com
 owa.lululemon.com
 owa.lululemon.com
 owa.lululemon.com
+owa.lululemon.com
 owa10.lululemon.com
 owa10.lululemon.com
 owa10.lululemon.com
@@ -2974,6 +3247,8 @@ owa10.lululemon.com
 owa10.lululemon.com
 owa10.lululemon.com
 owa10.lululemon.com
+owa10.lululemon.com
+pages.e.lululemon.com
 pages.e.lululemon.com
 pages.e.lululemon.com
 pages.e.lululemon.com
@@ -2994,6 +3269,8 @@ partners.lululemon.com
 partners.lululemon.com
 partners.lululemon.com
 partners.lululemon.com
+partners.lululemon.com
+password.lululemon.com
 password.lululemon.com
 password.lululemon.com
 password.lululemon.com
@@ -3016,6 +3293,8 @@ perf2.lululemon.com
 perf2.lululemon.com
 perf2.lululemon.com
 perf2.lululemon.com
+perf2.lululemon.com
+perform.lululemon.com
 perform.lululemon.com
 perform.lululemon.com
 perform.lululemon.com
@@ -3038,6 +3317,8 @@ perform.preprod.lululemon.com
 perform.preprod.lululemon.com
 perform.preprod.lululemon.com
 perform.preprod.lululemon.com
+perform.preprod.lululemon.com
+perform2.lululemon.com
 perform2.lululemon.com
 perform2.lululemon.com
 perform2.lululemon.com
@@ -3060,6 +3341,8 @@ pnimages.lululemon.com
 pnimages.lululemon.com
 pnimages.lululemon.com
 pnimages.lululemon.com
+pnimages.lululemon.com
+portal.lululemon.com
 portal.lululemon.com
 portal.lululemon.com
 portal.lululemon.com
@@ -3080,6 +3363,8 @@ pos-api.lululemon.com
 pos-api.lululemon.com
 pos-api.lululemon.com
 pos-api.lululemon.com
+pos-api.lululemon.com
+pp.lululemon.com
 pp.lululemon.com
 pp.lululemon.com
 pp.lululemon.com
@@ -3100,6 +3385,8 @@ ppme-npd.lululemon.com
 ppme-npd.lululemon.com
 ppme-npd.lululemon.com
 ppme-npd.lululemon.com
+ppme-npd.lululemon.com
+pr1023-gl.preprod.lululemon.com
 pr1023-gl.preprod.lululemon.com
 pr1023-gl.preprod.lululemon.com
 pr1023-gl.preprod.lululemon.com
@@ -3122,6 +3409,8 @@ pr1056-gl.preprod.lululemon.com
 pr1056-gl.preprod.lululemon.com
 pr1056-gl.preprod.lululemon.com
 pr1056-gl.preprod.lululemon.com
+pr1056-gl.preprod.lululemon.com
+pr1057-gl.preprod.lululemon.com
 pr1057-gl.preprod.lululemon.com
 pr1057-gl.preprod.lululemon.com
 pr1057-gl.preprod.lululemon.com
@@ -3144,6 +3433,8 @@ pr1079-gl.preprod.lululemon.com
 pr1079-gl.preprod.lululemon.com
 pr1079-gl.preprod.lululemon.com
 pr1079-gl.preprod.lululemon.com
+pr1079-gl.preprod.lululemon.com
+pr1103-gl.preprod.lululemon.com
 pr1103-gl.preprod.lululemon.com
 pr1103-gl.preprod.lululemon.com
 pr1103-gl.preprod.lululemon.com
@@ -3166,6 +3457,8 @@ pr1111-gl.preprod.lululemon.com
 pr1111-gl.preprod.lululemon.com
 pr1111-gl.preprod.lululemon.com
 pr1111-gl.preprod.lululemon.com
+pr1111-gl.preprod.lululemon.com
+pr1121-gl.preprod.lululemon.com
 pr1121-gl.preprod.lululemon.com
 pr1121-gl.preprod.lululemon.com
 pr1121-gl.preprod.lululemon.com
@@ -3188,6 +3481,8 @@ pr1128-gl.preprod.lululemon.com
 pr1128-gl.preprod.lululemon.com
 pr1128-gl.preprod.lululemon.com
 pr1128-gl.preprod.lululemon.com
+pr1128-gl.preprod.lululemon.com
+pr1133-gl.preprod.lululemon.com
 pr1133-gl.preprod.lululemon.com
 pr1133-gl.preprod.lululemon.com
 pr1133-gl.preprod.lululemon.com
@@ -3210,6 +3505,8 @@ pr1136-gl.preprod.lululemon.com
 pr1136-gl.preprod.lululemon.com
 pr1136-gl.preprod.lululemon.com
 pr1136-gl.preprod.lululemon.com
+pr1136-gl.preprod.lululemon.com
+pr1139-gl.preprod.lululemon.com
 pr1139-gl.preprod.lululemon.com
 pr1139-gl.preprod.lululemon.com
 pr1139-gl.preprod.lululemon.com
@@ -3232,6 +3529,8 @@ pr1140-gl.preprod.lululemon.com
 pr1140-gl.preprod.lululemon.com
 pr1140-gl.preprod.lululemon.com
 pr1140-gl.preprod.lululemon.com
+pr1140-gl.preprod.lululemon.com
+pr1143-gl.preprod.lululemon.com
 pr1143-gl.preprod.lululemon.com
 pr1143-gl.preprod.lululemon.com
 pr1143-gl.preprod.lululemon.com
@@ -3254,6 +3553,8 @@ pr1144-gl.preprod.lululemon.com
 pr1144-gl.preprod.lululemon.com
 pr1144-gl.preprod.lululemon.com
 pr1144-gl.preprod.lululemon.com
+pr1144-gl.preprod.lululemon.com
+pr1157-gl.preprod.lululemon.com
 pr1157-gl.preprod.lululemon.com
 pr1157-gl.preprod.lululemon.com
 pr1157-gl.preprod.lululemon.com
@@ -3276,6 +3577,8 @@ pr1159-gl.preprod.lululemon.com
 pr1159-gl.preprod.lululemon.com
 pr1159-gl.preprod.lululemon.com
 pr1159-gl.preprod.lululemon.com
+pr1159-gl.preprod.lululemon.com
+pr1165-gl.preprod.lululemon.com
 pr1165-gl.preprod.lululemon.com
 pr1165-gl.preprod.lululemon.com
 pr1165-gl.preprod.lululemon.com
@@ -3298,6 +3601,8 @@ pr1166-gl.preprod.lululemon.com
 pr1166-gl.preprod.lululemon.com
 pr1166-gl.preprod.lululemon.com
 pr1166-gl.preprod.lululemon.com
+pr1166-gl.preprod.lululemon.com
+pr1173-gl.preprod.lululemon.com
 pr1173-gl.preprod.lululemon.com
 pr1173-gl.preprod.lululemon.com
 pr1173-gl.preprod.lululemon.com
@@ -3320,6 +3625,8 @@ pr1174-gl.preprod.lululemon.com
 pr1174-gl.preprod.lululemon.com
 pr1174-gl.preprod.lululemon.com
 pr1174-gl.preprod.lululemon.com
+pr1174-gl.preprod.lululemon.com
+pr1175-gl.preprod.lululemon.com
 pr1175-gl.preprod.lululemon.com
 pr1175-gl.preprod.lululemon.com
 pr1175-gl.preprod.lululemon.com
@@ -3342,6 +3649,8 @@ pr1176-gl.preprod.lululemon.com
 pr1176-gl.preprod.lululemon.com
 pr1176-gl.preprod.lululemon.com
 pr1176-gl.preprod.lululemon.com
+pr1176-gl.preprod.lululemon.com
+pr1177-gl.preprod.lululemon.com
 pr1177-gl.preprod.lululemon.com
 pr1177-gl.preprod.lululemon.com
 pr1177-gl.preprod.lululemon.com
@@ -3364,6 +3673,8 @@ pr1182-gl.preprod.lululemon.com
 pr1182-gl.preprod.lululemon.com
 pr1182-gl.preprod.lululemon.com
 pr1182-gl.preprod.lululemon.com
+pr1182-gl.preprod.lululemon.com
+pr1183-gl.preprod.lululemon.com
 pr1183-gl.preprod.lululemon.com
 pr1183-gl.preprod.lululemon.com
 pr1183-gl.preprod.lululemon.com
@@ -3386,6 +3697,8 @@ pr1184-gl.preprod.lululemon.com
 pr1184-gl.preprod.lululemon.com
 pr1184-gl.preprod.lululemon.com
 pr1184-gl.preprod.lululemon.com
+pr1184-gl.preprod.lululemon.com
+pr1186-gl.preprod.lululemon.com
 pr1186-gl.preprod.lululemon.com
 pr1186-gl.preprod.lululemon.com
 pr1186-gl.preprod.lululemon.com
@@ -3408,6 +3721,8 @@ pr1188-gl.preprod.lululemon.com
 pr1188-gl.preprod.lululemon.com
 pr1188-gl.preprod.lululemon.com
 pr1188-gl.preprod.lululemon.com
+pr1188-gl.preprod.lululemon.com
+pr1189-gl.preprod.lululemon.com
 pr1189-gl.preprod.lululemon.com
 pr1189-gl.preprod.lululemon.com
 pr1189-gl.preprod.lululemon.com
@@ -3430,6 +3745,8 @@ pr1190-gl.preprod.lululemon.com
 pr1190-gl.preprod.lululemon.com
 pr1190-gl.preprod.lululemon.com
 pr1190-gl.preprod.lululemon.com
+pr1190-gl.preprod.lululemon.com
+pr1191-gl.preprod.lululemon.com
 pr1191-gl.preprod.lululemon.com
 pr1191-gl.preprod.lululemon.com
 pr1191-gl.preprod.lululemon.com
@@ -3452,6 +3769,8 @@ pr123.preprod.lululemon.com
 pr123.preprod.lululemon.com
 pr123.preprod.lululemon.com
 pr123.preprod.lululemon.com
+pr123.preprod.lululemon.com
+pr134.preprod.lululemon.com
 pr134.preprod.lululemon.com
 pr134.preprod.lululemon.com
 pr134.preprod.lululemon.com
@@ -3474,6 +3793,8 @@ pr14.preprod.lululemon.com
 pr14.preprod.lululemon.com
 pr14.preprod.lululemon.com
 pr14.preprod.lululemon.com
+pr14.preprod.lululemon.com
+pr144.preprod.lululemon.com
 pr144.preprod.lululemon.com
 pr144.preprod.lululemon.com
 pr144.preprod.lululemon.com
@@ -3496,6 +3817,8 @@ pr146.preprod.lululemon.com
 pr146.preprod.lululemon.com
 pr146.preprod.lululemon.com
 pr146.preprod.lululemon.com
+pr146.preprod.lululemon.com
+pr148.preprod.lululemon.com
 pr148.preprod.lululemon.com
 pr148.preprod.lululemon.com
 pr148.preprod.lululemon.com
@@ -3518,6 +3841,8 @@ pr151.preprod.lululemon.com
 pr151.preprod.lululemon.com
 pr151.preprod.lululemon.com
 pr151.preprod.lululemon.com
+pr151.preprod.lululemon.com
+pr153.preprod.lululemon.com
 pr153.preprod.lululemon.com
 pr153.preprod.lululemon.com
 pr153.preprod.lululemon.com
@@ -3540,6 +3865,8 @@ pr158.preprod.lululemon.com
 pr158.preprod.lululemon.com
 pr158.preprod.lululemon.com
 pr158.preprod.lululemon.com
+pr158.preprod.lululemon.com
+pr160.preprod.lululemon.com
 pr160.preprod.lululemon.com
 pr160.preprod.lululemon.com
 pr160.preprod.lululemon.com
@@ -3562,6 +3889,8 @@ pr161.preprod.lululemon.com
 pr161.preprod.lululemon.com
 pr161.preprod.lululemon.com
 pr161.preprod.lululemon.com
+pr161.preprod.lululemon.com
+pr162.preprod.lululemon.com
 pr162.preprod.lululemon.com
 pr162.preprod.lululemon.com
 pr162.preprod.lululemon.com
@@ -3584,6 +3913,8 @@ pr165.preprod.lululemon.com
 pr165.preprod.lululemon.com
 pr165.preprod.lululemon.com
 pr165.preprod.lululemon.com
+pr165.preprod.lululemon.com
+pr166.preprod.lululemon.com
 pr166.preprod.lululemon.com
 pr166.preprod.lululemon.com
 pr166.preprod.lululemon.com
@@ -3606,6 +3937,8 @@ pr167.preprod.lululemon.com
 pr167.preprod.lululemon.com
 pr167.preprod.lululemon.com
 pr167.preprod.lululemon.com
+pr167.preprod.lululemon.com
+pr168.preprod.lululemon.com
 pr168.preprod.lululemon.com
 pr168.preprod.lululemon.com
 pr168.preprod.lululemon.com
@@ -3628,6 +3961,8 @@ pr169.preprod.lululemon.com
 pr169.preprod.lululemon.com
 pr169.preprod.lululemon.com
 pr169.preprod.lululemon.com
+pr169.preprod.lululemon.com
+pr170.preprod.lululemon.com
 pr170.preprod.lululemon.com
 pr170.preprod.lululemon.com
 pr170.preprod.lululemon.com
@@ -3650,6 +3985,8 @@ pr171.preprod.lululemon.com
 pr171.preprod.lululemon.com
 pr171.preprod.lululemon.com
 pr171.preprod.lululemon.com
+pr171.preprod.lululemon.com
+pr172.preprod.lululemon.com
 pr172.preprod.lululemon.com
 pr172.preprod.lululemon.com
 pr172.preprod.lululemon.com
@@ -3672,6 +4009,8 @@ pr173.preprod.lululemon.com
 pr173.preprod.lululemon.com
 pr173.preprod.lululemon.com
 pr173.preprod.lululemon.com
+pr173.preprod.lululemon.com
+pr174.preprod.lululemon.com
 pr174.preprod.lululemon.com
 pr174.preprod.lululemon.com
 pr174.preprod.lululemon.com
@@ -3694,6 +4033,8 @@ pr179.preprod.lululemon.com
 pr179.preprod.lululemon.com
 pr179.preprod.lululemon.com
 pr179.preprod.lululemon.com
+pr179.preprod.lululemon.com
+pr185.preprod.lululemon.com
 pr185.preprod.lululemon.com
 pr185.preprod.lululemon.com
 pr185.preprod.lululemon.com
@@ -3716,6 +4057,8 @@ pr186.preprod.lululemon.com
 pr186.preprod.lululemon.com
 pr186.preprod.lululemon.com
 pr186.preprod.lululemon.com
+pr186.preprod.lululemon.com
+pr188.preprod.lululemon.com
 pr188.preprod.lululemon.com
 pr188.preprod.lululemon.com
 pr188.preprod.lululemon.com
@@ -3738,6 +4081,8 @@ pr189.preprod.lululemon.com
 pr189.preprod.lululemon.com
 pr189.preprod.lululemon.com
 pr189.preprod.lululemon.com
+pr189.preprod.lululemon.com
+pr191.preprod.lululemon.com
 pr191.preprod.lululemon.com
 pr191.preprod.lululemon.com
 pr191.preprod.lululemon.com
@@ -3760,6 +4105,8 @@ pr192.preprod.lululemon.com
 pr192.preprod.lululemon.com
 pr192.preprod.lululemon.com
 pr192.preprod.lululemon.com
+pr192.preprod.lululemon.com
+pr193.preprod.lululemon.com
 pr193.preprod.lululemon.com
 pr193.preprod.lululemon.com
 pr193.preprod.lululemon.com
@@ -3782,6 +4129,8 @@ pr194.preprod.lululemon.com
 pr194.preprod.lululemon.com
 pr194.preprod.lululemon.com
 pr194.preprod.lululemon.com
+pr194.preprod.lululemon.com
+pr195.preprod.lululemon.com
 pr195.preprod.lululemon.com
 pr195.preprod.lululemon.com
 pr195.preprod.lululemon.com
@@ -3804,6 +4153,8 @@ pr196.preprod.lululemon.com
 pr196.preprod.lululemon.com
 pr196.preprod.lululemon.com
 pr196.preprod.lululemon.com
+pr196.preprod.lululemon.com
+pr197.preprod.lululemon.com
 pr197.preprod.lululemon.com
 pr197.preprod.lululemon.com
 pr197.preprod.lululemon.com
@@ -3826,6 +4177,8 @@ pr198.preprod.lululemon.com
 pr198.preprod.lululemon.com
 pr198.preprod.lululemon.com
 pr198.preprod.lululemon.com
+pr198.preprod.lululemon.com
+pr201.preprod.lululemon.com
 pr201.preprod.lululemon.com
 pr201.preprod.lululemon.com
 pr201.preprod.lululemon.com
@@ -3848,6 +4201,8 @@ pr205.preprod.lululemon.com
 pr205.preprod.lululemon.com
 pr205.preprod.lululemon.com
 pr205.preprod.lululemon.com
+pr205.preprod.lululemon.com
+pr206.preprod.lululemon.com
 pr206.preprod.lululemon.com
 pr206.preprod.lululemon.com
 pr206.preprod.lululemon.com
@@ -3870,6 +4225,8 @@ pr208.preprod.lululemon.com
 pr208.preprod.lululemon.com
 pr208.preprod.lululemon.com
 pr208.preprod.lululemon.com
+pr208.preprod.lululemon.com
+pr209.preprod.lululemon.com
 pr209.preprod.lululemon.com
 pr209.preprod.lululemon.com
 pr209.preprod.lululemon.com
@@ -3892,6 +4249,8 @@ pr210.preprod.lululemon.com
 pr210.preprod.lululemon.com
 pr210.preprod.lululemon.com
 pr210.preprod.lululemon.com
+pr210.preprod.lululemon.com
+pr213.preprod.lululemon.com
 pr213.preprod.lululemon.com
 pr213.preprod.lululemon.com
 pr213.preprod.lululemon.com
@@ -3914,6 +4273,8 @@ pr214.preprod.lululemon.com
 pr214.preprod.lululemon.com
 pr214.preprod.lululemon.com
 pr214.preprod.lululemon.com
+pr214.preprod.lululemon.com
+pr216.preprod.lululemon.com
 pr216.preprod.lululemon.com
 pr216.preprod.lululemon.com
 pr216.preprod.lululemon.com
@@ -3936,6 +4297,8 @@ pr219.preprod.lululemon.com
 pr219.preprod.lululemon.com
 pr219.preprod.lululemon.com
 pr219.preprod.lululemon.com
+pr219.preprod.lululemon.com
+pr220.preprod.lululemon.com
 pr220.preprod.lululemon.com
 pr220.preprod.lululemon.com
 pr220.preprod.lululemon.com
@@ -3958,6 +4321,8 @@ pr221.preprod.lululemon.com
 pr221.preprod.lululemon.com
 pr221.preprod.lululemon.com
 pr221.preprod.lululemon.com
+pr221.preprod.lululemon.com
+pr222.preprod.lululemon.com
 pr222.preprod.lululemon.com
 pr222.preprod.lululemon.com
 pr222.preprod.lululemon.com
@@ -3980,6 +4345,8 @@ pr223.preprod.lululemon.com
 pr223.preprod.lululemon.com
 pr223.preprod.lululemon.com
 pr223.preprod.lululemon.com
+pr223.preprod.lululemon.com
+pr225.preprod.lululemon.com
 pr225.preprod.lululemon.com
 pr225.preprod.lululemon.com
 pr225.preprod.lululemon.com
@@ -4002,6 +4369,8 @@ pr23.preprod.lululemon.com
 pr23.preprod.lululemon.com
 pr23.preprod.lululemon.com
 pr23.preprod.lululemon.com
+pr23.preprod.lululemon.com
+pr234.preprod.lululemon.com
 pr234.preprod.lululemon.com
 pr234.preprod.lululemon.com
 pr234.preprod.lululemon.com
@@ -4024,6 +4393,8 @@ pr235.preprod.lululemon.com
 pr235.preprod.lululemon.com
 pr235.preprod.lululemon.com
 pr235.preprod.lululemon.com
+pr235.preprod.lululemon.com
+pr237.preprod.lululemon.com
 pr237.preprod.lululemon.com
 pr237.preprod.lululemon.com
 pr237.preprod.lululemon.com
@@ -4046,6 +4417,8 @@ pr239.preprod.lululemon.com
 pr239.preprod.lululemon.com
 pr239.preprod.lululemon.com
 pr239.preprod.lululemon.com
+pr239.preprod.lululemon.com
+pr240.preprod.lululemon.com
 pr240.preprod.lululemon.com
 pr240.preprod.lululemon.com
 pr240.preprod.lululemon.com
@@ -4068,6 +4441,8 @@ pr241.preprod.lululemon.com
 pr241.preprod.lululemon.com
 pr241.preprod.lululemon.com
 pr241.preprod.lululemon.com
+pr241.preprod.lululemon.com
+pr242.preprod.lululemon.com
 pr242.preprod.lululemon.com
 pr242.preprod.lululemon.com
 pr242.preprod.lululemon.com
@@ -4090,6 +4465,8 @@ pr243.preprod.lululemon.com
 pr243.preprod.lululemon.com
 pr243.preprod.lululemon.com
 pr243.preprod.lululemon.com
+pr243.preprod.lululemon.com
+pr245.preprod.lululemon.com
 pr245.preprod.lululemon.com
 pr245.preprod.lululemon.com
 pr245.preprod.lululemon.com
@@ -4112,6 +4489,8 @@ pr249.preprod.lululemon.com
 pr249.preprod.lululemon.com
 pr249.preprod.lululemon.com
 pr249.preprod.lululemon.com
+pr249.preprod.lululemon.com
+pr251.preprod.lululemon.com
 pr251.preprod.lululemon.com
 pr251.preprod.lululemon.com
 pr251.preprod.lululemon.com
@@ -4134,6 +4513,8 @@ pr256.preprod.lululemon.com
 pr256.preprod.lululemon.com
 pr256.preprod.lululemon.com
 pr256.preprod.lululemon.com
+pr256.preprod.lululemon.com
+pr259.preprod.lululemon.com
 pr259.preprod.lululemon.com
 pr259.preprod.lululemon.com
 pr259.preprod.lululemon.com
@@ -4156,6 +4537,8 @@ pr260.preprod.lululemon.com
 pr260.preprod.lululemon.com
 pr260.preprod.lululemon.com
 pr260.preprod.lululemon.com
+pr260.preprod.lululemon.com
+pr261.preprod.lululemon.com
 pr261.preprod.lululemon.com
 pr261.preprod.lululemon.com
 pr261.preprod.lululemon.com
@@ -4178,6 +4561,8 @@ pr262.preprod.lululemon.com
 pr262.preprod.lululemon.com
 pr262.preprod.lululemon.com
 pr262.preprod.lululemon.com
+pr262.preprod.lululemon.com
+pr263.preprod.lululemon.com
 pr263.preprod.lululemon.com
 pr263.preprod.lululemon.com
 pr263.preprod.lululemon.com
@@ -4200,6 +4585,8 @@ pr264.preprod.lululemon.com
 pr264.preprod.lululemon.com
 pr264.preprod.lululemon.com
 pr264.preprod.lululemon.com
+pr264.preprod.lululemon.com
+pr265.preprod.lululemon.com
 pr265.preprod.lululemon.com
 pr265.preprod.lululemon.com
 pr265.preprod.lululemon.com
@@ -4222,6 +4609,8 @@ pr266.preprod.lululemon.com
 pr266.preprod.lululemon.com
 pr266.preprod.lululemon.com
 pr266.preprod.lululemon.com
+pr266.preprod.lululemon.com
+pr267.preprod.lululemon.com
 pr267.preprod.lululemon.com
 pr267.preprod.lululemon.com
 pr267.preprod.lululemon.com
@@ -4244,6 +4633,8 @@ pr273.preprod.lululemon.com
 pr273.preprod.lululemon.com
 pr273.preprod.lululemon.com
 pr273.preprod.lululemon.com
+pr273.preprod.lululemon.com
+pr274.preprod.lululemon.com
 pr274.preprod.lululemon.com
 pr274.preprod.lululemon.com
 pr274.preprod.lululemon.com
@@ -4266,6 +4657,8 @@ pr275.preprod.lululemon.com
 pr275.preprod.lululemon.com
 pr275.preprod.lululemon.com
 pr275.preprod.lululemon.com
+pr275.preprod.lululemon.com
+pr276.preprod.lululemon.com
 pr276.preprod.lululemon.com
 pr276.preprod.lululemon.com
 pr276.preprod.lululemon.com
@@ -4288,6 +4681,8 @@ pr277.preprod.lululemon.com
 pr277.preprod.lululemon.com
 pr277.preprod.lululemon.com
 pr277.preprod.lululemon.com
+pr277.preprod.lululemon.com
+pr278.preprod.lululemon.com
 pr278.preprod.lululemon.com
 pr278.preprod.lululemon.com
 pr278.preprod.lululemon.com
@@ -4310,6 +4705,8 @@ pr279.preprod.lululemon.com
 pr279.preprod.lululemon.com
 pr279.preprod.lululemon.com
 pr279.preprod.lululemon.com
+pr279.preprod.lululemon.com
+pr280.preprod.lululemon.com
 pr280.preprod.lululemon.com
 pr280.preprod.lululemon.com
 pr280.preprod.lululemon.com
@@ -4332,6 +4729,8 @@ pr281.preprod.lululemon.com
 pr281.preprod.lululemon.com
 pr281.preprod.lululemon.com
 pr281.preprod.lululemon.com
+pr281.preprod.lululemon.com
+pr282.preprod.lululemon.com
 pr282.preprod.lululemon.com
 pr282.preprod.lululemon.com
 pr282.preprod.lululemon.com
@@ -4354,6 +4753,8 @@ pr283.preprod.lululemon.com
 pr283.preprod.lululemon.com
 pr283.preprod.lululemon.com
 pr283.preprod.lululemon.com
+pr283.preprod.lululemon.com
+pr284.preprod.lululemon.com
 pr284.preprod.lululemon.com
 pr284.preprod.lululemon.com
 pr284.preprod.lululemon.com
@@ -4376,6 +4777,8 @@ pr285.preprod.lululemon.com
 pr285.preprod.lululemon.com
 pr285.preprod.lululemon.com
 pr285.preprod.lululemon.com
+pr285.preprod.lululemon.com
+pr286.preprod.lululemon.com
 pr286.preprod.lululemon.com
 pr286.preprod.lululemon.com
 pr286.preprod.lululemon.com
@@ -4398,6 +4801,8 @@ pr287.preprod.lululemon.com
 pr287.preprod.lululemon.com
 pr287.preprod.lululemon.com
 pr287.preprod.lululemon.com
+pr287.preprod.lululemon.com
+pr288.preprod.lululemon.com
 pr288.preprod.lululemon.com
 pr288.preprod.lululemon.com
 pr288.preprod.lululemon.com
@@ -4420,6 +4825,8 @@ pr289.preprod.lululemon.com
 pr289.preprod.lululemon.com
 pr289.preprod.lululemon.com
 pr289.preprod.lululemon.com
+pr289.preprod.lululemon.com
+pr29.preprod.lululemon.com
 pr29.preprod.lululemon.com
 pr29.preprod.lululemon.com
 pr29.preprod.lululemon.com
@@ -4442,6 +4849,8 @@ pr290.preprod.lululemon.com
 pr290.preprod.lululemon.com
 pr290.preprod.lululemon.com
 pr290.preprod.lululemon.com
+pr290.preprod.lululemon.com
+pr291.preprod.lululemon.com
 pr291.preprod.lululemon.com
 pr291.preprod.lululemon.com
 pr291.preprod.lululemon.com
@@ -4464,6 +4873,8 @@ pr292.preprod.lululemon.com
 pr292.preprod.lululemon.com
 pr292.preprod.lululemon.com
 pr292.preprod.lululemon.com
+pr292.preprod.lululemon.com
+pr293.preprod.lululemon.com
 pr293.preprod.lululemon.com
 pr293.preprod.lululemon.com
 pr293.preprod.lululemon.com
@@ -4486,6 +4897,8 @@ pr294.preprod.lululemon.com
 pr294.preprod.lululemon.com
 pr294.preprod.lululemon.com
 pr294.preprod.lululemon.com
+pr294.preprod.lululemon.com
+pr295.preprod.lululemon.com
 pr295.preprod.lululemon.com
 pr295.preprod.lululemon.com
 pr295.preprod.lululemon.com
@@ -4508,6 +4921,8 @@ pr296.preprod.lululemon.com
 pr296.preprod.lululemon.com
 pr296.preprod.lululemon.com
 pr296.preprod.lululemon.com
+pr296.preprod.lululemon.com
+pr299.preprod.lululemon.com
 pr299.preprod.lululemon.com
 pr299.preprod.lululemon.com
 pr299.preprod.lululemon.com
@@ -4530,6 +4945,8 @@ pr300.preprod.lululemon.com
 pr300.preprod.lululemon.com
 pr300.preprod.lululemon.com
 pr300.preprod.lululemon.com
+pr300.preprod.lululemon.com
+pr302.preprod.lululemon.com
 pr302.preprod.lululemon.com
 pr302.preprod.lululemon.com
 pr302.preprod.lululemon.com
@@ -4552,6 +4969,8 @@ pr304.preprod.lululemon.com
 pr304.preprod.lululemon.com
 pr304.preprod.lululemon.com
 pr304.preprod.lululemon.com
+pr304.preprod.lululemon.com
+pr305.preprod.lululemon.com
 pr305.preprod.lululemon.com
 pr305.preprod.lululemon.com
 pr305.preprod.lululemon.com
@@ -4574,6 +4993,8 @@ pr306.preprod.lululemon.com
 pr306.preprod.lululemon.com
 pr306.preprod.lululemon.com
 pr306.preprod.lululemon.com
+pr306.preprod.lululemon.com
+pr308.preprod.lululemon.com
 pr308.preprod.lululemon.com
 pr308.preprod.lululemon.com
 pr308.preprod.lululemon.com
@@ -4596,6 +5017,8 @@ pr313.preprod.lululemon.com
 pr313.preprod.lululemon.com
 pr313.preprod.lululemon.com
 pr313.preprod.lululemon.com
+pr313.preprod.lululemon.com
+pr315.preprod.lululemon.com
 pr315.preprod.lululemon.com
 pr315.preprod.lululemon.com
 pr315.preprod.lululemon.com
@@ -4618,6 +5041,8 @@ pr316.preprod.lululemon.com
 pr316.preprod.lululemon.com
 pr316.preprod.lululemon.com
 pr316.preprod.lululemon.com
+pr316.preprod.lululemon.com
+pr351.preprod.lululemon.com
 pr351.preprod.lululemon.com
 pr351.preprod.lululemon.com
 pr351.preprod.lululemon.com
@@ -4640,6 +5065,8 @@ pr358.preprod.lululemon.com
 pr358.preprod.lululemon.com
 pr358.preprod.lululemon.com
 pr358.preprod.lululemon.com
+pr358.preprod.lululemon.com
+pr359.preprod.lululemon.com
 pr359.preprod.lululemon.com
 pr359.preprod.lululemon.com
 pr359.preprod.lululemon.com
@@ -4662,6 +5089,8 @@ pr363.preprod.lululemon.com
 pr363.preprod.lululemon.com
 pr363.preprod.lululemon.com
 pr363.preprod.lululemon.com
+pr363.preprod.lululemon.com
+pr364.preprod.lululemon.com
 pr364.preprod.lululemon.com
 pr364.preprod.lululemon.com
 pr364.preprod.lululemon.com
@@ -4684,6 +5113,8 @@ pr368.preprod.lululemon.com
 pr368.preprod.lululemon.com
 pr368.preprod.lululemon.com
 pr368.preprod.lululemon.com
+pr368.preprod.lululemon.com
+pr37.preprod.lululemon.com
 pr37.preprod.lululemon.com
 pr37.preprod.lululemon.com
 pr37.preprod.lululemon.com
@@ -4706,6 +5137,8 @@ pr371.preprod.lululemon.com
 pr371.preprod.lululemon.com
 pr371.preprod.lululemon.com
 pr371.preprod.lululemon.com
+pr371.preprod.lululemon.com
+pr373.preprod.lululemon.com
 pr373.preprod.lululemon.com
 pr373.preprod.lululemon.com
 pr373.preprod.lululemon.com
@@ -4728,6 +5161,8 @@ pr374.preprod.lululemon.com
 pr374.preprod.lululemon.com
 pr374.preprod.lululemon.com
 pr374.preprod.lululemon.com
+pr374.preprod.lululemon.com
+pr38.preprod.lululemon.com
 pr38.preprod.lululemon.com
 pr38.preprod.lululemon.com
 pr38.preprod.lululemon.com
@@ -4750,6 +5185,8 @@ pr385.preprod.lululemon.com
 pr385.preprod.lululemon.com
 pr385.preprod.lululemon.com
 pr385.preprod.lululemon.com
+pr385.preprod.lululemon.com
+pr39.preprod.lululemon.com
 pr39.preprod.lululemon.com
 pr39.preprod.lululemon.com
 pr39.preprod.lululemon.com
@@ -4772,6 +5209,8 @@ pr390.preprod.lululemon.com
 pr390.preprod.lululemon.com
 pr390.preprod.lululemon.com
 pr390.preprod.lululemon.com
+pr390.preprod.lululemon.com
+pr391.preprod.lululemon.com
 pr391.preprod.lululemon.com
 pr391.preprod.lululemon.com
 pr391.preprod.lululemon.com
@@ -4794,6 +5233,8 @@ pr395.preprod.lululemon.com
 pr395.preprod.lululemon.com
 pr395.preprod.lululemon.com
 pr395.preprod.lululemon.com
+pr395.preprod.lululemon.com
+pr396.preprod.lululemon.com
 pr396.preprod.lululemon.com
 pr396.preprod.lululemon.com
 pr396.preprod.lululemon.com
@@ -4816,6 +5257,8 @@ pr397.preprod.lululemon.com
 pr397.preprod.lululemon.com
 pr397.preprod.lululemon.com
 pr397.preprod.lululemon.com
+pr397.preprod.lululemon.com
+pr399.preprod.lululemon.com
 pr399.preprod.lululemon.com
 pr399.preprod.lululemon.com
 pr399.preprod.lululemon.com
@@ -4838,6 +5281,8 @@ pr40.preprod.lululemon.com
 pr40.preprod.lululemon.com
 pr40.preprod.lululemon.com
 pr40.preprod.lululemon.com
+pr40.preprod.lululemon.com
+pr401.preprod.lululemon.com
 pr401.preprod.lululemon.com
 pr401.preprod.lululemon.com
 pr401.preprod.lululemon.com
@@ -4860,6 +5305,8 @@ pr404.preprod.lululemon.com
 pr404.preprod.lululemon.com
 pr404.preprod.lululemon.com
 pr404.preprod.lululemon.com
+pr404.preprod.lululemon.com
+pr406.preprod.lululemon.com
 pr406.preprod.lululemon.com
 pr406.preprod.lululemon.com
 pr406.preprod.lululemon.com
@@ -4882,6 +5329,8 @@ pr412.preprod.lululemon.com
 pr412.preprod.lululemon.com
 pr412.preprod.lululemon.com
 pr412.preprod.lululemon.com
+pr412.preprod.lululemon.com
+pr414.preprod.lululemon.com
 pr414.preprod.lululemon.com
 pr414.preprod.lululemon.com
 pr414.preprod.lululemon.com
@@ -4904,6 +5353,8 @@ pr415.preprod.lululemon.com
 pr415.preprod.lululemon.com
 pr415.preprod.lululemon.com
 pr415.preprod.lululemon.com
+pr415.preprod.lululemon.com
+pr418.preprod.lululemon.com
 pr418.preprod.lululemon.com
 pr418.preprod.lululemon.com
 pr418.preprod.lululemon.com
@@ -4926,6 +5377,8 @@ pr419.preprod.lululemon.com
 pr419.preprod.lululemon.com
 pr419.preprod.lululemon.com
 pr419.preprod.lululemon.com
+pr419.preprod.lululemon.com
+pr424.preprod.lululemon.com
 pr424.preprod.lululemon.com
 pr424.preprod.lululemon.com
 pr424.preprod.lululemon.com
@@ -4948,6 +5401,8 @@ pr426.preprod.lululemon.com
 pr426.preprod.lululemon.com
 pr426.preprod.lululemon.com
 pr426.preprod.lululemon.com
+pr426.preprod.lululemon.com
+pr427.preprod.lululemon.com
 pr427.preprod.lululemon.com
 pr427.preprod.lululemon.com
 pr427.preprod.lululemon.com
@@ -4970,6 +5425,8 @@ pr428.preprod.lululemon.com
 pr428.preprod.lululemon.com
 pr428.preprod.lululemon.com
 pr428.preprod.lululemon.com
+pr428.preprod.lululemon.com
+pr43.preprod.lululemon.com
 pr43.preprod.lululemon.com
 pr43.preprod.lululemon.com
 pr43.preprod.lululemon.com
@@ -4992,6 +5449,8 @@ pr433.preprod.lululemon.com
 pr433.preprod.lululemon.com
 pr433.preprod.lululemon.com
 pr433.preprod.lululemon.com
+pr433.preprod.lululemon.com
+pr434.preprod.lululemon.com
 pr434.preprod.lululemon.com
 pr434.preprod.lululemon.com
 pr434.preprod.lululemon.com
@@ -5014,6 +5473,8 @@ pr437.preprod.lululemon.com
 pr437.preprod.lululemon.com
 pr437.preprod.lululemon.com
 pr437.preprod.lululemon.com
+pr437.preprod.lululemon.com
+pr438.preprod.lululemon.com
 pr438.preprod.lululemon.com
 pr438.preprod.lululemon.com
 pr438.preprod.lululemon.com
@@ -5036,6 +5497,8 @@ pr439.preprod.lululemon.com
 pr439.preprod.lululemon.com
 pr439.preprod.lululemon.com
 pr439.preprod.lululemon.com
+pr439.preprod.lululemon.com
+pr440.preprod.lululemon.com
 pr440.preprod.lululemon.com
 pr440.preprod.lululemon.com
 pr440.preprod.lululemon.com
@@ -5058,6 +5521,8 @@ pr441.preprod.lululemon.com
 pr441.preprod.lululemon.com
 pr441.preprod.lululemon.com
 pr441.preprod.lululemon.com
+pr441.preprod.lululemon.com
+pr442.preprod.lululemon.com
 pr442.preprod.lululemon.com
 pr442.preprod.lululemon.com
 pr442.preprod.lululemon.com
@@ -5080,6 +5545,8 @@ pr443.preprod.lululemon.com
 pr443.preprod.lululemon.com
 pr443.preprod.lululemon.com
 pr443.preprod.lululemon.com
+pr443.preprod.lululemon.com
+pr444.preprod.lululemon.com
 pr444.preprod.lululemon.com
 pr444.preprod.lululemon.com
 pr444.preprod.lululemon.com
@@ -5102,6 +5569,8 @@ pr445.preprod.lululemon.com
 pr445.preprod.lululemon.com
 pr445.preprod.lululemon.com
 pr445.preprod.lululemon.com
+pr445.preprod.lululemon.com
+pr446.preprod.lululemon.com
 pr446.preprod.lululemon.com
 pr446.preprod.lululemon.com
 pr446.preprod.lululemon.com
@@ -5124,6 +5593,8 @@ pr447.preprod.lululemon.com
 pr447.preprod.lululemon.com
 pr447.preprod.lululemon.com
 pr447.preprod.lululemon.com
+pr447.preprod.lululemon.com
+pr4483.preprod.lululemon.com
 pr4483.preprod.lululemon.com
 pr4483.preprod.lululemon.com
 pr4483.preprod.lululemon.com
@@ -5146,6 +5617,8 @@ pr45.preprod.lululemon.com
 pr45.preprod.lululemon.com
 pr45.preprod.lululemon.com
 pr45.preprod.lululemon.com
+pr45.preprod.lululemon.com
+pr451.preprod.lululemon.com
 pr451.preprod.lululemon.com
 pr451.preprod.lululemon.com
 pr451.preprod.lululemon.com
@@ -5168,6 +5641,8 @@ pr454.preprod.lululemon.com
 pr454.preprod.lululemon.com
 pr454.preprod.lululemon.com
 pr454.preprod.lululemon.com
+pr454.preprod.lululemon.com
+pr457.preprod.lululemon.com
 pr457.preprod.lululemon.com
 pr457.preprod.lululemon.com
 pr457.preprod.lululemon.com
@@ -5190,6 +5665,8 @@ pr459.preprod.lululemon.com
 pr459.preprod.lululemon.com
 pr459.preprod.lululemon.com
 pr459.preprod.lululemon.com
+pr459.preprod.lululemon.com
+pr46.preprod.lululemon.com
 pr46.preprod.lululemon.com
 pr46.preprod.lululemon.com
 pr46.preprod.lululemon.com
@@ -5212,6 +5689,8 @@ pr461.preprod.lululemon.com
 pr461.preprod.lululemon.com
 pr461.preprod.lululemon.com
 pr461.preprod.lululemon.com
+pr461.preprod.lululemon.com
+pr462.preprod.lululemon.com
 pr462.preprod.lululemon.com
 pr462.preprod.lululemon.com
 pr462.preprod.lululemon.com
@@ -5234,6 +5713,8 @@ pr463.preprod.lululemon.com
 pr463.preprod.lululemon.com
 pr463.preprod.lululemon.com
 pr463.preprod.lululemon.com
+pr463.preprod.lululemon.com
+pr465.preprod.lululemon.com
 pr465.preprod.lululemon.com
 pr465.preprod.lululemon.com
 pr465.preprod.lululemon.com
@@ -5256,6 +5737,8 @@ pr467.preprod.lululemon.com
 pr467.preprod.lululemon.com
 pr467.preprod.lululemon.com
 pr467.preprod.lululemon.com
+pr467.preprod.lululemon.com
+pr468.preprod.lululemon.com
 pr468.preprod.lululemon.com
 pr468.preprod.lululemon.com
 pr468.preprod.lululemon.com
@@ -5278,6 +5761,8 @@ pr47.preprod.lululemon.com
 pr47.preprod.lululemon.com
 pr47.preprod.lululemon.com
 pr47.preprod.lululemon.com
+pr47.preprod.lululemon.com
+pr48.preprod.lululemon.com
 pr48.preprod.lululemon.com
 pr48.preprod.lululemon.com
 pr48.preprod.lululemon.com
@@ -5300,6 +5785,8 @@ pr480.preprod.lululemon.com
 pr480.preprod.lululemon.com
 pr480.preprod.lululemon.com
 pr480.preprod.lululemon.com
+pr480.preprod.lululemon.com
+pr481.preprod.lululemon.com
 pr481.preprod.lululemon.com
 pr481.preprod.lululemon.com
 pr481.preprod.lululemon.com
@@ -5322,6 +5809,8 @@ pr484.preprod.lululemon.com
 pr484.preprod.lululemon.com
 pr484.preprod.lululemon.com
 pr484.preprod.lululemon.com
+pr484.preprod.lululemon.com
+pr485.preprod.lululemon.com
 pr485.preprod.lululemon.com
 pr485.preprod.lululemon.com
 pr485.preprod.lululemon.com
@@ -5344,6 +5833,8 @@ pr487.preprod.lululemon.com
 pr487.preprod.lululemon.com
 pr487.preprod.lululemon.com
 pr487.preprod.lululemon.com
+pr487.preprod.lululemon.com
+pr488.preprod.lululemon.com
 pr488.preprod.lululemon.com
 pr488.preprod.lululemon.com
 pr488.preprod.lululemon.com
@@ -5366,6 +5857,8 @@ pr49.preprod.lululemon.com
 pr49.preprod.lululemon.com
 pr49.preprod.lululemon.com
 pr49.preprod.lululemon.com
+pr49.preprod.lululemon.com
+pr492.preprod.lululemon.com
 pr492.preprod.lululemon.com
 pr492.preprod.lululemon.com
 pr492.preprod.lululemon.com
@@ -5388,6 +5881,8 @@ pr493.preprod.lululemon.com
 pr493.preprod.lululemon.com
 pr493.preprod.lululemon.com
 pr493.preprod.lululemon.com
+pr493.preprod.lululemon.com
+pr494.preprod.lululemon.com
 pr494.preprod.lululemon.com
 pr494.preprod.lululemon.com
 pr494.preprod.lululemon.com
@@ -5410,6 +5905,8 @@ pr495.preprod.lululemon.com
 pr495.preprod.lululemon.com
 pr495.preprod.lululemon.com
 pr495.preprod.lululemon.com
+pr495.preprod.lululemon.com
+pr496.preprod.lululemon.com
 pr496.preprod.lululemon.com
 pr496.preprod.lululemon.com
 pr496.preprod.lululemon.com
@@ -5432,6 +5929,8 @@ pr497.preprod.lululemon.com
 pr497.preprod.lululemon.com
 pr497.preprod.lululemon.com
 pr497.preprod.lululemon.com
+pr497.preprod.lululemon.com
+pr502.preprod.lululemon.com
 pr502.preprod.lululemon.com
 pr502.preprod.lululemon.com
 pr502.preprod.lululemon.com
@@ -5454,6 +5953,8 @@ pr503.preprod.lululemon.com
 pr503.preprod.lululemon.com
 pr503.preprod.lululemon.com
 pr503.preprod.lululemon.com
+pr503.preprod.lululemon.com
+pr504.preprod.lululemon.com
 pr504.preprod.lululemon.com
 pr504.preprod.lululemon.com
 pr504.preprod.lululemon.com
@@ -5476,6 +5977,8 @@ pr505.preprod.lululemon.com
 pr505.preprod.lululemon.com
 pr505.preprod.lululemon.com
 pr505.preprod.lululemon.com
+pr505.preprod.lululemon.com
+pr506.preprod.lululemon.com
 pr506.preprod.lululemon.com
 pr506.preprod.lululemon.com
 pr506.preprod.lululemon.com
@@ -5498,6 +6001,8 @@ pr507.preprod.lululemon.com
 pr507.preprod.lululemon.com
 pr507.preprod.lululemon.com
 pr507.preprod.lululemon.com
+pr507.preprod.lululemon.com
+pr512.preprod.lululemon.com
 pr512.preprod.lululemon.com
 pr512.preprod.lululemon.com
 pr512.preprod.lululemon.com
@@ -5520,6 +6025,8 @@ pr514.preprod.lululemon.com
 pr514.preprod.lululemon.com
 pr514.preprod.lululemon.com
 pr514.preprod.lululemon.com
+pr514.preprod.lululemon.com
+pr52.preprod.lululemon.com
 pr52.preprod.lululemon.com
 pr52.preprod.lululemon.com
 pr52.preprod.lululemon.com
@@ -5542,6 +6049,8 @@ pr520.preprod.lululemon.com
 pr520.preprod.lululemon.com
 pr520.preprod.lululemon.com
 pr520.preprod.lululemon.com
+pr520.preprod.lululemon.com
+pr521.preprod.lululemon.com
 pr521.preprod.lululemon.com
 pr521.preprod.lululemon.com
 pr521.preprod.lululemon.com
@@ -5564,6 +6073,8 @@ pr522.preprod.lululemon.com
 pr522.preprod.lululemon.com
 pr522.preprod.lululemon.com
 pr522.preprod.lululemon.com
+pr522.preprod.lululemon.com
+pr523.preprod.lululemon.com
 pr523.preprod.lululemon.com
 pr523.preprod.lululemon.com
 pr523.preprod.lululemon.com
@@ -5586,6 +6097,8 @@ pr53.preprod.lululemon.com
 pr53.preprod.lululemon.com
 pr53.preprod.lululemon.com
 pr53.preprod.lululemon.com
+pr53.preprod.lululemon.com
+pr534.preprod.lululemon.com
 pr534.preprod.lululemon.com
 pr534.preprod.lululemon.com
 pr534.preprod.lululemon.com
@@ -5608,6 +6121,8 @@ pr536.preprod.lululemon.com
 pr536.preprod.lululemon.com
 pr536.preprod.lululemon.com
 pr536.preprod.lululemon.com
+pr536.preprod.lululemon.com
+pr54.preprod.lululemon.com
 pr54.preprod.lululemon.com
 pr54.preprod.lululemon.com
 pr54.preprod.lululemon.com
@@ -5630,6 +6145,8 @@ pr544.preprod.lululemon.com
 pr544.preprod.lululemon.com
 pr544.preprod.lululemon.com
 pr544.preprod.lululemon.com
+pr544.preprod.lululemon.com
+pr546.preprod.lululemon.com
 pr546.preprod.lululemon.com
 pr546.preprod.lululemon.com
 pr546.preprod.lululemon.com
@@ -5652,6 +6169,8 @@ pr550.preprod.lululemon.com
 pr550.preprod.lululemon.com
 pr550.preprod.lululemon.com
 pr550.preprod.lululemon.com
+pr550.preprod.lululemon.com
+pr552.preprod.lululemon.com
 pr552.preprod.lululemon.com
 pr552.preprod.lululemon.com
 pr552.preprod.lululemon.com
@@ -5674,6 +6193,8 @@ pr553.preprod.lululemon.com
 pr553.preprod.lululemon.com
 pr553.preprod.lululemon.com
 pr553.preprod.lululemon.com
+pr553.preprod.lululemon.com
+pr554.preprod.lululemon.com
 pr554.preprod.lululemon.com
 pr554.preprod.lululemon.com
 pr554.preprod.lululemon.com
@@ -5696,6 +6217,8 @@ pr555.preprod.lululemon.com
 pr555.preprod.lululemon.com
 pr555.preprod.lululemon.com
 pr555.preprod.lululemon.com
+pr555.preprod.lululemon.com
+pr556.preprod.lululemon.com
 pr556.preprod.lululemon.com
 pr556.preprod.lululemon.com
 pr556.preprod.lululemon.com
@@ -5718,6 +6241,8 @@ pr558.preprod.lululemon.com
 pr558.preprod.lululemon.com
 pr558.preprod.lululemon.com
 pr558.preprod.lululemon.com
+pr558.preprod.lululemon.com
+pr559.preprod.lululemon.com
 pr559.preprod.lululemon.com
 pr559.preprod.lululemon.com
 pr559.preprod.lululemon.com
@@ -5740,6 +6265,8 @@ pr560.preprod.lululemon.com
 pr560.preprod.lululemon.com
 pr560.preprod.lululemon.com
 pr560.preprod.lululemon.com
+pr560.preprod.lululemon.com
+pr564.preprod.lululemon.com
 pr564.preprod.lululemon.com
 pr564.preprod.lululemon.com
 pr564.preprod.lululemon.com
@@ -5762,6 +6289,8 @@ pr566.preprod.lululemon.com
 pr566.preprod.lululemon.com
 pr566.preprod.lululemon.com
 pr566.preprod.lululemon.com
+pr566.preprod.lululemon.com
+pr570.preprod.lululemon.com
 pr570.preprod.lululemon.com
 pr570.preprod.lululemon.com
 pr570.preprod.lululemon.com
@@ -5784,6 +6313,8 @@ pr573.preprod.lululemon.com
 pr573.preprod.lululemon.com
 pr573.preprod.lululemon.com
 pr573.preprod.lululemon.com
+pr573.preprod.lululemon.com
+pr574.preprod.lululemon.com
 pr574.preprod.lululemon.com
 pr574.preprod.lululemon.com
 pr574.preprod.lululemon.com
@@ -5806,6 +6337,8 @@ pr575.preprod.lululemon.com
 pr575.preprod.lululemon.com
 pr575.preprod.lululemon.com
 pr575.preprod.lululemon.com
+pr575.preprod.lululemon.com
+pr578.preprod.lululemon.com
 pr578.preprod.lululemon.com
 pr578.preprod.lululemon.com
 pr578.preprod.lululemon.com
@@ -5828,6 +6361,8 @@ pr58.preprod.lululemon.com
 pr58.preprod.lululemon.com
 pr58.preprod.lululemon.com
 pr58.preprod.lululemon.com
+pr58.preprod.lululemon.com
+pr581.preprod.lululemon.com
 pr581.preprod.lululemon.com
 pr581.preprod.lululemon.com
 pr581.preprod.lululemon.com
@@ -5850,6 +6385,8 @@ pr582.preprod.lululemon.com
 pr582.preprod.lululemon.com
 pr582.preprod.lululemon.com
 pr582.preprod.lululemon.com
+pr582.preprod.lululemon.com
+pr584.preprod.lululemon.com
 pr584.preprod.lululemon.com
 pr584.preprod.lululemon.com
 pr584.preprod.lululemon.com
@@ -5872,6 +6409,8 @@ pr587.preprod.lululemon.com
 pr587.preprod.lululemon.com
 pr587.preprod.lululemon.com
 pr587.preprod.lululemon.com
+pr587.preprod.lululemon.com
+pr588.preprod.lululemon.com
 pr588.preprod.lululemon.com
 pr588.preprod.lululemon.com
 pr588.preprod.lululemon.com
@@ -5894,6 +6433,8 @@ pr589.preprod.lululemon.com
 pr589.preprod.lululemon.com
 pr589.preprod.lululemon.com
 pr589.preprod.lululemon.com
+pr589.preprod.lululemon.com
+pr590.preprod.lululemon.com
 pr590.preprod.lululemon.com
 pr590.preprod.lululemon.com
 pr590.preprod.lululemon.com
@@ -5916,6 +6457,8 @@ pr593.preprod.lululemon.com
 pr593.preprod.lululemon.com
 pr593.preprod.lululemon.com
 pr593.preprod.lululemon.com
+pr593.preprod.lululemon.com
+pr604.preprod.lululemon.com
 pr604.preprod.lululemon.com
 pr604.preprod.lululemon.com
 pr604.preprod.lululemon.com
@@ -5938,6 +6481,8 @@ pr605.preprod.lululemon.com
 pr605.preprod.lululemon.com
 pr605.preprod.lululemon.com
 pr605.preprod.lululemon.com
+pr605.preprod.lululemon.com
+pr606.preprod.lululemon.com
 pr606.preprod.lululemon.com
 pr606.preprod.lululemon.com
 pr606.preprod.lululemon.com
@@ -5960,6 +6505,8 @@ pr607.preprod.lululemon.com
 pr607.preprod.lululemon.com
 pr607.preprod.lululemon.com
 pr607.preprod.lululemon.com
+pr607.preprod.lululemon.com
+pr613.preprod.lululemon.com
 pr613.preprod.lululemon.com
 pr613.preprod.lululemon.com
 pr613.preprod.lululemon.com
@@ -5982,6 +6529,8 @@ pr614.preprod.lululemon.com
 pr614.preprod.lululemon.com
 pr614.preprod.lululemon.com
 pr614.preprod.lululemon.com
+pr614.preprod.lululemon.com
+pr615.preprod.lululemon.com
 pr615.preprod.lululemon.com
 pr615.preprod.lululemon.com
 pr615.preprod.lululemon.com
@@ -6004,6 +6553,8 @@ pr616.preprod.lululemon.com
 pr616.preprod.lululemon.com
 pr616.preprod.lululemon.com
 pr616.preprod.lululemon.com
+pr616.preprod.lululemon.com
+pr619.preprod.lululemon.com
 pr619.preprod.lululemon.com
 pr619.preprod.lululemon.com
 pr619.preprod.lululemon.com
@@ -6026,6 +6577,8 @@ pr624.preprod.lululemon.com
 pr624.preprod.lululemon.com
 pr624.preprod.lululemon.com
 pr624.preprod.lululemon.com
+pr624.preprod.lululemon.com
+pr625.preprod.lululemon.com
 pr625.preprod.lululemon.com
 pr625.preprod.lululemon.com
 pr625.preprod.lululemon.com
@@ -6048,6 +6601,8 @@ pr626.preprod.lululemon.com
 pr626.preprod.lululemon.com
 pr626.preprod.lululemon.com
 pr626.preprod.lululemon.com
+pr626.preprod.lululemon.com
+pr627.preprod.lululemon.com
 pr627.preprod.lululemon.com
 pr627.preprod.lululemon.com
 pr627.preprod.lululemon.com
@@ -6070,6 +6625,8 @@ pr628.preprod.lululemon.com
 pr628.preprod.lululemon.com
 pr628.preprod.lululemon.com
 pr628.preprod.lululemon.com
+pr628.preprod.lululemon.com
+pr629.preprod.lululemon.com
 pr629.preprod.lululemon.com
 pr629.preprod.lululemon.com
 pr629.preprod.lululemon.com
@@ -6092,6 +6649,8 @@ pr630.preprod.lululemon.com
 pr630.preprod.lululemon.com
 pr630.preprod.lululemon.com
 pr630.preprod.lululemon.com
+pr630.preprod.lululemon.com
+pr637.preprod.lululemon.com
 pr637.preprod.lululemon.com
 pr637.preprod.lululemon.com
 pr637.preprod.lululemon.com
@@ -6114,6 +6673,8 @@ pr638.preprod.lululemon.com
 pr638.preprod.lululemon.com
 pr638.preprod.lululemon.com
 pr638.preprod.lululemon.com
+pr638.preprod.lululemon.com
+pr639.preprod.lululemon.com
 pr639.preprod.lululemon.com
 pr639.preprod.lululemon.com
 pr639.preprod.lululemon.com
@@ -6136,6 +6697,8 @@ pr64.preprod.lululemon.com
 pr64.preprod.lululemon.com
 pr64.preprod.lululemon.com
 pr64.preprod.lululemon.com
+pr64.preprod.lululemon.com
+pr640.preprod.lululemon.com
 pr640.preprod.lululemon.com
 pr640.preprod.lululemon.com
 pr640.preprod.lululemon.com
@@ -6158,6 +6721,8 @@ pr641.preprod.lululemon.com
 pr641.preprod.lululemon.com
 pr641.preprod.lululemon.com
 pr641.preprod.lululemon.com
+pr641.preprod.lululemon.com
+pr642.preprod.lululemon.com
 pr642.preprod.lululemon.com
 pr642.preprod.lululemon.com
 pr642.preprod.lululemon.com
@@ -6180,6 +6745,8 @@ pr644.preprod.lululemon.com
 pr644.preprod.lululemon.com
 pr644.preprod.lululemon.com
 pr644.preprod.lululemon.com
+pr644.preprod.lululemon.com
+pr645.preprod.lululemon.com
 pr645.preprod.lululemon.com
 pr645.preprod.lululemon.com
 pr645.preprod.lululemon.com
@@ -6202,6 +6769,8 @@ pr646.preprod.lululemon.com
 pr646.preprod.lululemon.com
 pr646.preprod.lululemon.com
 pr646.preprod.lululemon.com
+pr646.preprod.lululemon.com
+pr647.preprod.lululemon.com
 pr647.preprod.lululemon.com
 pr647.preprod.lululemon.com
 pr647.preprod.lululemon.com
@@ -6224,6 +6793,8 @@ pr648.preprod.lululemon.com
 pr648.preprod.lululemon.com
 pr648.preprod.lululemon.com
 pr648.preprod.lululemon.com
+pr648.preprod.lululemon.com
+pr649.preprod.lululemon.com
 pr649.preprod.lululemon.com
 pr649.preprod.lululemon.com
 pr649.preprod.lululemon.com
@@ -6246,6 +6817,8 @@ pr650.preprod.lululemon.com
 pr650.preprod.lululemon.com
 pr650.preprod.lululemon.com
 pr650.preprod.lululemon.com
+pr650.preprod.lululemon.com
+pr651.preprod.lululemon.com
 pr651.preprod.lululemon.com
 pr651.preprod.lululemon.com
 pr651.preprod.lululemon.com
@@ -6268,6 +6841,8 @@ pr652.preprod.lululemon.com
 pr652.preprod.lululemon.com
 pr652.preprod.lululemon.com
 pr652.preprod.lululemon.com
+pr652.preprod.lululemon.com
+pr654.preprod.lululemon.com
 pr654.preprod.lululemon.com
 pr654.preprod.lululemon.com
 pr654.preprod.lululemon.com
@@ -6290,6 +6865,8 @@ pr655.preprod.lululemon.com
 pr655.preprod.lululemon.com
 pr655.preprod.lululemon.com
 pr655.preprod.lululemon.com
+pr655.preprod.lululemon.com
+pr656.preprod.lululemon.com
 pr656.preprod.lululemon.com
 pr656.preprod.lululemon.com
 pr656.preprod.lululemon.com
@@ -6312,6 +6889,8 @@ pr662.preprod.lululemon.com
 pr662.preprod.lululemon.com
 pr662.preprod.lululemon.com
 pr662.preprod.lululemon.com
+pr662.preprod.lululemon.com
+pr664.preprod.lululemon.com
 pr664.preprod.lululemon.com
 pr664.preprod.lululemon.com
 pr664.preprod.lululemon.com
@@ -6334,6 +6913,8 @@ pr665.preprod.lululemon.com
 pr665.preprod.lululemon.com
 pr665.preprod.lululemon.com
 pr665.preprod.lululemon.com
+pr665.preprod.lululemon.com
+pr671.preprod.lululemon.com
 pr671.preprod.lululemon.com
 pr671.preprod.lululemon.com
 pr671.preprod.lululemon.com
@@ -6356,6 +6937,8 @@ pr673.preprod.lululemon.com
 pr673.preprod.lululemon.com
 pr673.preprod.lululemon.com
 pr673.preprod.lululemon.com
+pr673.preprod.lululemon.com
+pr676.preprod.lululemon.com
 pr676.preprod.lululemon.com
 pr676.preprod.lululemon.com
 pr676.preprod.lululemon.com
@@ -6378,6 +6961,8 @@ pr686.preprod.lululemon.com
 pr686.preprod.lululemon.com
 pr686.preprod.lululemon.com
 pr686.preprod.lululemon.com
+pr686.preprod.lululemon.com
+pr687.preprod.lululemon.com
 pr687.preprod.lululemon.com
 pr687.preprod.lululemon.com
 pr687.preprod.lululemon.com
@@ -6400,6 +6985,8 @@ pr690.preprod.lululemon.com
 pr690.preprod.lululemon.com
 pr690.preprod.lululemon.com
 pr690.preprod.lululemon.com
+pr690.preprod.lululemon.com
+pr691.preprod.lululemon.com
 pr691.preprod.lululemon.com
 pr691.preprod.lululemon.com
 pr691.preprod.lululemon.com
@@ -6422,6 +7009,8 @@ pr693.preprod.lululemon.com
 pr693.preprod.lululemon.com
 pr693.preprod.lululemon.com
 pr693.preprod.lululemon.com
+pr693.preprod.lululemon.com
+pr694.preprod.lululemon.com
 pr694.preprod.lululemon.com
 pr694.preprod.lululemon.com
 pr694.preprod.lululemon.com
@@ -6444,6 +7033,8 @@ pr695.preprod.lululemon.com
 pr695.preprod.lululemon.com
 pr695.preprod.lululemon.com
 pr695.preprod.lululemon.com
+pr695.preprod.lululemon.com
+pr696.preprod.lululemon.com
 pr696.preprod.lululemon.com
 pr696.preprod.lululemon.com
 pr696.preprod.lululemon.com
@@ -6466,6 +7057,8 @@ pr697.preprod.lululemon.com
 pr697.preprod.lululemon.com
 pr697.preprod.lululemon.com
 pr697.preprod.lululemon.com
+pr697.preprod.lululemon.com
+pr698.preprod.lululemon.com
 pr698.preprod.lululemon.com
 pr698.preprod.lululemon.com
 pr698.preprod.lululemon.com
@@ -6488,6 +7081,8 @@ pr702.preprod.lululemon.com
 pr702.preprod.lululemon.com
 pr702.preprod.lululemon.com
 pr702.preprod.lululemon.com
+pr702.preprod.lululemon.com
+pr704.preprod.lululemon.com
 pr704.preprod.lululemon.com
 pr704.preprod.lululemon.com
 pr704.preprod.lululemon.com
@@ -6510,6 +7105,8 @@ pr705.preprod.lululemon.com
 pr705.preprod.lululemon.com
 pr705.preprod.lululemon.com
 pr705.preprod.lululemon.com
+pr705.preprod.lululemon.com
+pr707.preprod.lululemon.com
 pr707.preprod.lululemon.com
 pr707.preprod.lululemon.com
 pr707.preprod.lululemon.com
@@ -6532,6 +7129,8 @@ pr709.preprod.lululemon.com
 pr709.preprod.lululemon.com
 pr709.preprod.lululemon.com
 pr709.preprod.lululemon.com
+pr709.preprod.lululemon.com
+pr710.preprod.lululemon.com
 pr710.preprod.lululemon.com
 pr710.preprod.lululemon.com
 pr710.preprod.lululemon.com
@@ -6554,6 +7153,8 @@ pr712.preprod.lululemon.com
 pr712.preprod.lululemon.com
 pr712.preprod.lululemon.com
 pr712.preprod.lululemon.com
+pr712.preprod.lululemon.com
+pr714.preprod.lululemon.com
 pr714.preprod.lululemon.com
 pr714.preprod.lululemon.com
 pr714.preprod.lululemon.com
@@ -6576,6 +7177,8 @@ pr715.preprod.lululemon.com
 pr715.preprod.lululemon.com
 pr715.preprod.lululemon.com
 pr715.preprod.lululemon.com
+pr715.preprod.lululemon.com
+pr716.preprod.lululemon.com
 pr716.preprod.lululemon.com
 pr716.preprod.lululemon.com
 pr716.preprod.lululemon.com
@@ -6598,6 +7201,8 @@ pr717.preprod.lululemon.com
 pr717.preprod.lululemon.com
 pr717.preprod.lululemon.com
 pr717.preprod.lululemon.com
+pr717.preprod.lululemon.com
+pr718.preprod.lululemon.com
 pr718.preprod.lululemon.com
 pr718.preprod.lululemon.com
 pr718.preprod.lululemon.com
@@ -6620,6 +7225,8 @@ pr719.preprod.lululemon.com
 pr719.preprod.lululemon.com
 pr719.preprod.lululemon.com
 pr719.preprod.lululemon.com
+pr719.preprod.lululemon.com
+pr720.preprod.lululemon.com
 pr720.preprod.lululemon.com
 pr720.preprod.lululemon.com
 pr720.preprod.lululemon.com
@@ -6642,6 +7249,8 @@ pr721.preprod.lululemon.com
 pr721.preprod.lululemon.com
 pr721.preprod.lululemon.com
 pr721.preprod.lululemon.com
+pr721.preprod.lululemon.com
+pr731.preprod.lululemon.com
 pr731.preprod.lululemon.com
 pr731.preprod.lululemon.com
 pr731.preprod.lululemon.com
@@ -6664,6 +7273,8 @@ pr733.preprod.lululemon.com
 pr733.preprod.lululemon.com
 pr733.preprod.lululemon.com
 pr733.preprod.lululemon.com
+pr733.preprod.lululemon.com
+pr734.preprod.lululemon.com
 pr734.preprod.lululemon.com
 pr734.preprod.lululemon.com
 pr734.preprod.lululemon.com
@@ -6686,6 +7297,8 @@ pr735.preprod.lululemon.com
 pr735.preprod.lululemon.com
 pr735.preprod.lululemon.com
 pr735.preprod.lululemon.com
+pr735.preprod.lululemon.com
+pr741.preprod.lululemon.com
 pr741.preprod.lululemon.com
 pr741.preprod.lululemon.com
 pr741.preprod.lululemon.com
@@ -6708,6 +7321,8 @@ pr747.preprod.lululemon.com
 pr747.preprod.lululemon.com
 pr747.preprod.lululemon.com
 pr747.preprod.lululemon.com
+pr747.preprod.lululemon.com
+pr748.preprod.lululemon.com
 pr748.preprod.lululemon.com
 pr748.preprod.lululemon.com
 pr748.preprod.lululemon.com
@@ -6730,6 +7345,8 @@ pr749.preprod.lululemon.com
 pr749.preprod.lululemon.com
 pr749.preprod.lululemon.com
 pr749.preprod.lululemon.com
+pr749.preprod.lululemon.com
+pr750.preprod.lululemon.com
 pr750.preprod.lululemon.com
 pr750.preprod.lululemon.com
 pr750.preprod.lululemon.com
@@ -6752,6 +7369,8 @@ pr751.preprod.lululemon.com
 pr751.preprod.lululemon.com
 pr751.preprod.lululemon.com
 pr751.preprod.lululemon.com
+pr751.preprod.lululemon.com
+pr752.preprod.lululemon.com
 pr752.preprod.lululemon.com
 pr752.preprod.lululemon.com
 pr752.preprod.lululemon.com
@@ -6774,6 +7393,8 @@ pr753.preprod.lululemon.com
 pr753.preprod.lululemon.com
 pr753.preprod.lululemon.com
 pr753.preprod.lululemon.com
+pr753.preprod.lululemon.com
+pr754.preprod.lululemon.com
 pr754.preprod.lululemon.com
 pr754.preprod.lululemon.com
 pr754.preprod.lululemon.com
@@ -6796,6 +7417,8 @@ pr755.preprod.lululemon.com
 pr755.preprod.lululemon.com
 pr755.preprod.lululemon.com
 pr755.preprod.lululemon.com
+pr755.preprod.lululemon.com
+pr759.preprod.lululemon.com
 pr759.preprod.lululemon.com
 pr759.preprod.lululemon.com
 pr759.preprod.lululemon.com
@@ -6818,6 +7441,8 @@ pr762.preprod.lululemon.com
 pr762.preprod.lululemon.com
 pr762.preprod.lululemon.com
 pr762.preprod.lululemon.com
+pr762.preprod.lululemon.com
+pr764.preprod.lululemon.com
 pr764.preprod.lululemon.com
 pr764.preprod.lululemon.com
 pr764.preprod.lululemon.com
@@ -6840,6 +7465,8 @@ pr770.preprod.lululemon.com
 pr770.preprod.lululemon.com
 pr770.preprod.lululemon.com
 pr770.preprod.lululemon.com
+pr770.preprod.lululemon.com
+pr771.preprod.lululemon.com
 pr771.preprod.lululemon.com
 pr771.preprod.lululemon.com
 pr771.preprod.lululemon.com
@@ -6862,6 +7489,8 @@ pr772.preprod.lululemon.com
 pr772.preprod.lululemon.com
 pr772.preprod.lululemon.com
 pr772.preprod.lululemon.com
+pr772.preprod.lululemon.com
+pr773.preprod.lululemon.com
 pr773.preprod.lululemon.com
 pr773.preprod.lululemon.com
 pr773.preprod.lululemon.com
@@ -6884,6 +7513,8 @@ pr774.preprod.lululemon.com
 pr774.preprod.lululemon.com
 pr774.preprod.lululemon.com
 pr774.preprod.lululemon.com
+pr774.preprod.lululemon.com
+pr775.preprod.lululemon.com
 pr775.preprod.lululemon.com
 pr775.preprod.lululemon.com
 pr775.preprod.lululemon.com
@@ -6906,6 +7537,8 @@ pr778.preprod.lululemon.com
 pr778.preprod.lululemon.com
 pr778.preprod.lululemon.com
 pr778.preprod.lululemon.com
+pr778.preprod.lululemon.com
+pr781.preprod.lululemon.com
 pr781.preprod.lululemon.com
 pr781.preprod.lululemon.com
 pr781.preprod.lululemon.com
@@ -6928,6 +7561,8 @@ pr783.preprod.lululemon.com
 pr783.preprod.lululemon.com
 pr783.preprod.lululemon.com
 pr783.preprod.lululemon.com
+pr783.preprod.lululemon.com
+pr784.preprod.lululemon.com
 pr784.preprod.lululemon.com
 pr784.preprod.lululemon.com
 pr784.preprod.lululemon.com
@@ -6950,6 +7585,8 @@ pr786.preprod.lululemon.com
 pr786.preprod.lululemon.com
 pr786.preprod.lululemon.com
 pr786.preprod.lululemon.com
+pr786.preprod.lululemon.com
+pr787.preprod.lululemon.com
 pr787.preprod.lululemon.com
 pr787.preprod.lululemon.com
 pr787.preprod.lululemon.com
@@ -6972,6 +7609,8 @@ pr792.preprod.lululemon.com
 pr792.preprod.lululemon.com
 pr792.preprod.lululemon.com
 pr792.preprod.lululemon.com
+pr792.preprod.lululemon.com
+pr793.preprod.lululemon.com
 pr793.preprod.lululemon.com
 pr793.preprod.lululemon.com
 pr793.preprod.lululemon.com
@@ -6994,6 +7633,8 @@ pr796.preprod.lululemon.com
 pr796.preprod.lululemon.com
 pr796.preprod.lululemon.com
 pr796.preprod.lululemon.com
+pr796.preprod.lululemon.com
+pr799.preprod.lululemon.com
 pr799.preprod.lululemon.com
 pr799.preprod.lululemon.com
 pr799.preprod.lululemon.com
@@ -7016,6 +7657,8 @@ pr800.preprod.lululemon.com
 pr800.preprod.lululemon.com
 pr800.preprod.lululemon.com
 pr800.preprod.lululemon.com
+pr800.preprod.lululemon.com
+pr801.preprod.lululemon.com
 pr801.preprod.lululemon.com
 pr801.preprod.lululemon.com
 pr801.preprod.lululemon.com
@@ -7038,6 +7681,8 @@ pr817.preprod.lululemon.com
 pr817.preprod.lululemon.com
 pr817.preprod.lululemon.com
 pr817.preprod.lululemon.com
+pr817.preprod.lululemon.com
+pr818.preprod.lululemon.com
 pr818.preprod.lululemon.com
 pr818.preprod.lululemon.com
 pr818.preprod.lululemon.com
@@ -7060,6 +7705,8 @@ pr820.preprod.lululemon.com
 pr820.preprod.lululemon.com
 pr820.preprod.lululemon.com
 pr820.preprod.lululemon.com
+pr820.preprod.lululemon.com
+pr821.preprod.lululemon.com
 pr821.preprod.lululemon.com
 pr821.preprod.lululemon.com
 pr821.preprod.lululemon.com
@@ -7082,6 +7729,8 @@ pr822.preprod.lululemon.com
 pr822.preprod.lululemon.com
 pr822.preprod.lululemon.com
 pr822.preprod.lululemon.com
+pr822.preprod.lululemon.com
+pr828.preprod.lululemon.com
 pr828.preprod.lululemon.com
 pr828.preprod.lululemon.com
 pr828.preprod.lululemon.com
@@ -7104,6 +7753,8 @@ pr830.preprod.lululemon.com
 pr830.preprod.lululemon.com
 pr830.preprod.lululemon.com
 pr830.preprod.lululemon.com
+pr830.preprod.lululemon.com
+pr832.preprod.lululemon.com
 pr832.preprod.lululemon.com
 pr832.preprod.lululemon.com
 pr832.preprod.lululemon.com
@@ -7126,6 +7777,8 @@ pr833.preprod.lululemon.com
 pr833.preprod.lululemon.com
 pr833.preprod.lululemon.com
 pr833.preprod.lululemon.com
+pr833.preprod.lululemon.com
+pr835.preprod.lululemon.com
 pr835.preprod.lululemon.com
 pr835.preprod.lululemon.com
 pr835.preprod.lululemon.com
@@ -7148,6 +7801,8 @@ pr837.preprod.lululemon.com
 pr837.preprod.lululemon.com
 pr837.preprod.lululemon.com
 pr837.preprod.lululemon.com
+pr837.preprod.lululemon.com
+pr838.preprod.lululemon.com
 pr838.preprod.lululemon.com
 pr838.preprod.lululemon.com
 pr838.preprod.lululemon.com
@@ -7170,6 +7825,8 @@ pr840.preprod.lululemon.com
 pr840.preprod.lululemon.com
 pr840.preprod.lululemon.com
 pr840.preprod.lululemon.com
+pr840.preprod.lululemon.com
+pr841.preprod.lululemon.com
 pr841.preprod.lululemon.com
 pr841.preprod.lululemon.com
 pr841.preprod.lululemon.com
@@ -7192,6 +7849,8 @@ pr844.preprod.lululemon.com
 pr844.preprod.lululemon.com
 pr844.preprod.lululemon.com
 pr844.preprod.lululemon.com
+pr844.preprod.lululemon.com
+pr845.preprod.lululemon.com
 pr845.preprod.lululemon.com
 pr845.preprod.lululemon.com
 pr845.preprod.lululemon.com
@@ -7214,6 +7873,8 @@ pr846.preprod.lululemon.com
 pr846.preprod.lululemon.com
 pr846.preprod.lululemon.com
 pr846.preprod.lululemon.com
+pr846.preprod.lululemon.com
+pr847.preprod.lululemon.com
 pr847.preprod.lululemon.com
 pr847.preprod.lululemon.com
 pr847.preprod.lululemon.com
@@ -7236,6 +7897,8 @@ pr848.preprod.lululemon.com
 pr848.preprod.lululemon.com
 pr848.preprod.lululemon.com
 pr848.preprod.lululemon.com
+pr848.preprod.lululemon.com
+pr849.preprod.lululemon.com
 pr849.preprod.lululemon.com
 pr849.preprod.lululemon.com
 pr849.preprod.lululemon.com
@@ -7258,6 +7921,8 @@ pr850.preprod.lululemon.com
 pr850.preprod.lululemon.com
 pr850.preprod.lululemon.com
 pr850.preprod.lululemon.com
+pr850.preprod.lululemon.com
+pr851.preprod.lululemon.com
 pr851.preprod.lululemon.com
 pr851.preprod.lululemon.com
 pr851.preprod.lululemon.com
@@ -7280,6 +7945,8 @@ pr852.preprod.lululemon.com
 pr852.preprod.lululemon.com
 pr852.preprod.lululemon.com
 pr852.preprod.lululemon.com
+pr852.preprod.lululemon.com
+pr853.preprod.lululemon.com
 pr853.preprod.lululemon.com
 pr853.preprod.lululemon.com
 pr853.preprod.lululemon.com
@@ -7302,6 +7969,8 @@ pr854.preprod.lululemon.com
 pr854.preprod.lululemon.com
 pr854.preprod.lululemon.com
 pr854.preprod.lululemon.com
+pr854.preprod.lululemon.com
+pr856.preprod.lululemon.com
 pr856.preprod.lululemon.com
 pr856.preprod.lululemon.com
 pr856.preprod.lululemon.com
@@ -7324,6 +7993,8 @@ pr857.preprod.lululemon.com
 pr857.preprod.lululemon.com
 pr857.preprod.lululemon.com
 pr857.preprod.lululemon.com
+pr857.preprod.lululemon.com
+pr858.preprod.lululemon.com
 pr858.preprod.lululemon.com
 pr858.preprod.lululemon.com
 pr858.preprod.lululemon.com
@@ -7346,6 +8017,8 @@ pr859.preprod.lululemon.com
 pr859.preprod.lululemon.com
 pr859.preprod.lululemon.com
 pr859.preprod.lululemon.com
+pr859.preprod.lululemon.com
+pr860.preprod.lululemon.com
 pr860.preprod.lululemon.com
 pr860.preprod.lululemon.com
 pr860.preprod.lululemon.com
@@ -7368,6 +8041,8 @@ pr861.preprod.lululemon.com
 pr861.preprod.lululemon.com
 pr861.preprod.lululemon.com
 pr861.preprod.lululemon.com
+pr861.preprod.lululemon.com
+pr862.preprod.lululemon.com
 pr862.preprod.lululemon.com
 pr862.preprod.lululemon.com
 pr862.preprod.lululemon.com
@@ -7390,6 +8065,8 @@ pr863.preprod.lululemon.com
 pr863.preprod.lululemon.com
 pr863.preprod.lululemon.com
 pr863.preprod.lululemon.com
+pr863.preprod.lululemon.com
+pr865.preprod.lululemon.com
 pr865.preprod.lululemon.com
 pr865.preprod.lululemon.com
 pr865.preprod.lululemon.com
@@ -7412,6 +8089,8 @@ pr866.preprod.lululemon.com
 pr866.preprod.lululemon.com
 pr866.preprod.lululemon.com
 pr866.preprod.lululemon.com
+pr866.preprod.lululemon.com
+pr869.preprod.lululemon.com
 pr869.preprod.lululemon.com
 pr869.preprod.lululemon.com
 pr869.preprod.lululemon.com
@@ -7434,6 +8113,8 @@ pr872.preprod.lululemon.com
 pr872.preprod.lululemon.com
 pr872.preprod.lululemon.com
 pr872.preprod.lululemon.com
+pr872.preprod.lululemon.com
+pr873.preprod.lululemon.com
 pr873.preprod.lululemon.com
 pr873.preprod.lululemon.com
 pr873.preprod.lululemon.com
@@ -7456,6 +8137,8 @@ pr875.preprod.lululemon.com
 pr875.preprod.lululemon.com
 pr875.preprod.lululemon.com
 pr875.preprod.lululemon.com
+pr875.preprod.lululemon.com
+pr878.preprod.lululemon.com
 pr878.preprod.lululemon.com
 pr878.preprod.lululemon.com
 pr878.preprod.lululemon.com
@@ -7478,6 +8161,8 @@ pr879.preprod.lululemon.com
 pr879.preprod.lululemon.com
 pr879.preprod.lululemon.com
 pr879.preprod.lululemon.com
+pr879.preprod.lululemon.com
+pr883.preprod.lululemon.com
 pr883.preprod.lululemon.com
 pr883.preprod.lululemon.com
 pr883.preprod.lululemon.com
@@ -7500,6 +8185,8 @@ pr885.preprod.lululemon.com
 pr885.preprod.lululemon.com
 pr885.preprod.lululemon.com
 pr885.preprod.lululemon.com
+pr885.preprod.lululemon.com
+pr886.preprod.lululemon.com
 pr886.preprod.lululemon.com
 pr886.preprod.lululemon.com
 pr886.preprod.lululemon.com
@@ -7522,6 +8209,8 @@ pr887.preprod.lululemon.com
 pr887.preprod.lululemon.com
 pr887.preprod.lululemon.com
 pr887.preprod.lululemon.com
+pr887.preprod.lululemon.com
+pr888.preprod.lululemon.com
 pr888.preprod.lululemon.com
 pr888.preprod.lululemon.com
 pr888.preprod.lululemon.com
@@ -7544,6 +8233,8 @@ pr889.preprod.lululemon.com
 pr889.preprod.lululemon.com
 pr889.preprod.lululemon.com
 pr889.preprod.lululemon.com
+pr889.preprod.lululemon.com
+pr890.preprod.lululemon.com
 pr890.preprod.lululemon.com
 pr890.preprod.lululemon.com
 pr890.preprod.lululemon.com
@@ -7566,6 +8257,8 @@ pr891.preprod.lululemon.com
 pr891.preprod.lululemon.com
 pr891.preprod.lululemon.com
 pr891.preprod.lululemon.com
+pr891.preprod.lululemon.com
+pr893.preprod.lululemon.com
 pr893.preprod.lululemon.com
 pr893.preprod.lululemon.com
 pr893.preprod.lululemon.com
@@ -7588,6 +8281,8 @@ pr894.preprod.lululemon.com
 pr894.preprod.lululemon.com
 pr894.preprod.lululemon.com
 pr894.preprod.lululemon.com
+pr894.preprod.lululemon.com
+pr896.preprod.lululemon.com
 pr896.preprod.lululemon.com
 pr896.preprod.lululemon.com
 pr896.preprod.lululemon.com
@@ -7610,6 +8305,8 @@ pr898.preprod.lululemon.com
 pr898.preprod.lululemon.com
 pr898.preprod.lululemon.com
 pr898.preprod.lululemon.com
+pr898.preprod.lululemon.com
+pr899.preprod.lululemon.com
 pr899.preprod.lululemon.com
 pr899.preprod.lululemon.com
 pr899.preprod.lululemon.com
@@ -7632,6 +8329,8 @@ pr900.preprod.lululemon.com
 pr900.preprod.lululemon.com
 pr900.preprod.lululemon.com
 pr900.preprod.lululemon.com
+pr900.preprod.lululemon.com
+pr902.preprod.lululemon.com
 pr902.preprod.lululemon.com
 pr902.preprod.lululemon.com
 pr902.preprod.lululemon.com
@@ -7654,6 +8353,8 @@ pr903.preprod.lululemon.com
 pr903.preprod.lululemon.com
 pr903.preprod.lululemon.com
 pr903.preprod.lululemon.com
+pr903.preprod.lululemon.com
+pr905.preprod.lululemon.com
 pr905.preprod.lululemon.com
 pr905.preprod.lululemon.com
 pr905.preprod.lululemon.com
@@ -7676,6 +8377,8 @@ pr906.preprod.lululemon.com
 pr906.preprod.lululemon.com
 pr906.preprod.lululemon.com
 pr906.preprod.lululemon.com
+pr906.preprod.lululemon.com
+pr908.preprod.lululemon.com
 pr908.preprod.lululemon.com
 pr908.preprod.lululemon.com
 pr908.preprod.lululemon.com
@@ -7698,6 +8401,8 @@ pr911.preprod.lululemon.com
 pr911.preprod.lululemon.com
 pr911.preprod.lululemon.com
 pr911.preprod.lululemon.com
+pr911.preprod.lululemon.com
+pr912.preprod.lululemon.com
 pr912.preprod.lululemon.com
 pr912.preprod.lululemon.com
 pr912.preprod.lululemon.com
@@ -7720,6 +8425,8 @@ pr915.preprod.lululemon.com
 pr915.preprod.lululemon.com
 pr915.preprod.lululemon.com
 pr915.preprod.lululemon.com
+pr915.preprod.lululemon.com
+pr916.preprod.lululemon.com
 pr916.preprod.lululemon.com
 pr916.preprod.lululemon.com
 pr916.preprod.lululemon.com
@@ -7742,6 +8449,8 @@ pr922.preprod.lululemon.com
 pr922.preprod.lululemon.com
 pr922.preprod.lululemon.com
 pr922.preprod.lululemon.com
+pr922.preprod.lululemon.com
+pr923.preprod.lululemon.com
 pr923.preprod.lululemon.com
 pr923.preprod.lululemon.com
 pr923.preprod.lululemon.com
@@ -7764,6 +8473,8 @@ pr924.preprod.lululemon.com
 pr924.preprod.lululemon.com
 pr924.preprod.lululemon.com
 pr924.preprod.lululemon.com
+pr924.preprod.lululemon.com
+pr925.preprod.lululemon.com
 pr925.preprod.lululemon.com
 pr925.preprod.lululemon.com
 pr925.preprod.lululemon.com
@@ -7786,6 +8497,8 @@ pr926.preprod.lululemon.com
 pr926.preprod.lululemon.com
 pr926.preprod.lululemon.com
 pr926.preprod.lululemon.com
+pr926.preprod.lululemon.com
+pr930.preprod.lululemon.com
 pr930.preprod.lululemon.com
 pr930.preprod.lululemon.com
 pr930.preprod.lululemon.com
@@ -7808,6 +8521,8 @@ pr931.preprod.lululemon.com
 pr931.preprod.lululemon.com
 pr931.preprod.lululemon.com
 pr931.preprod.lululemon.com
+pr931.preprod.lululemon.com
+pr932.preprod.lululemon.com
 pr932.preprod.lululemon.com
 pr932.preprod.lululemon.com
 pr932.preprod.lululemon.com
@@ -7830,6 +8545,8 @@ pr933.preprod.lululemon.com
 pr933.preprod.lululemon.com
 pr933.preprod.lululemon.com
 pr933.preprod.lululemon.com
+pr933.preprod.lululemon.com
+pr936.preprod.lululemon.com
 pr936.preprod.lululemon.com
 pr936.preprod.lululemon.com
 pr936.preprod.lululemon.com
@@ -7852,6 +8569,8 @@ pr937.preprod.lululemon.com
 pr937.preprod.lululemon.com
 pr937.preprod.lululemon.com
 pr937.preprod.lululemon.com
+pr937.preprod.lululemon.com
+pr970-gl.preprod.lululemon.com
 pr970-gl.preprod.lululemon.com
 pr970-gl.preprod.lululemon.com
 pr970-gl.preprod.lululemon.com
@@ -7874,6 +8593,8 @@ preprod-apis.lululemon.com
 preprod-apis.lululemon.com
 preprod-apis.lululemon.com
 preprod-apis.lululemon.com
+preprod-apis.lululemon.com
+preprod.lululemon.com
 preprod.lululemon.com
 preprod.lululemon.com
 preprod.lululemon.com
@@ -7896,6 +8617,8 @@ preview-apis.lululemon.com
 preview-apis.lululemon.com
 preview-apis.lululemon.com
 preview-apis.lululemon.com
+preview-apis.lululemon.com
+preview-contentful.lululemon.com
 preview-contentful.lululemon.com
 preview-contentful.lululemon.com
 preview-contentful.lululemon.com
@@ -7918,6 +8641,8 @@ preview-dev8.lululemon.com
 preview-dev8.lululemon.com
 preview-dev8.lululemon.com
 preview-dev8.lululemon.com
+preview-dev8.lululemon.com
+preview-dev9.lululemon.com
 preview-dev9.lululemon.com
 preview-dev9.lululemon.com
 preview-dev9.lululemon.com
@@ -7940,6 +8665,8 @@ preview-dr.lululemon.com
 preview-dr.lululemon.com
 preview-dr.lululemon.com
 preview-dr.lululemon.com
+preview-dr.lululemon.com
+preview-prod2.lululemon.com
 preview-prod2.lululemon.com
 preview-prod2.lululemon.com
 preview-prod2.lululemon.com
@@ -7962,6 +8689,8 @@ preview-qa13.lululemon.com
 preview-qa13.lululemon.com
 preview-qa13.lululemon.com
 preview-qa13.lululemon.com
+preview-qa13.lululemon.com
+preview-qa14.lululemon.com
 preview-qa14.lululemon.com
 preview-qa14.lululemon.com
 preview-qa14.lululemon.com
@@ -7984,6 +8713,8 @@ preview-qa15.lululemon.com
 preview-qa15.lululemon.com
 preview-qa15.lululemon.com
 preview-qa15.lululemon.com
+preview-qa15.lululemon.com
+preview-qa16.lululemon.com
 preview-qa16.lululemon.com
 preview-qa16.lululemon.com
 preview-qa16.lululemon.com
@@ -8006,6 +8737,8 @@ preview-qa17.lululemon.com
 preview-qa17.lululemon.com
 preview-qa17.lululemon.com
 preview-qa17.lululemon.com
+preview-qa17.lululemon.com
+preview-qa20.preprod.lululemon.com
 preview-qa20.preprod.lululemon.com
 preview-qa20.preprod.lululemon.com
 preview-qa20.preprod.lululemon.com
@@ -8028,6 +8761,8 @@ preview-qa21.preprod.lululemon.com
 preview-qa21.preprod.lululemon.com
 preview-qa21.preprod.lululemon.com
 preview-qa21.preprod.lululemon.com
+preview-qa21.preprod.lululemon.com
+preview-qa22.preprod.lululemon.com
 preview-qa22.preprod.lululemon.com
 preview-qa22.preprod.lululemon.com
 preview-qa22.preprod.lululemon.com
@@ -8050,6 +8785,8 @@ preview-qa23.preprod.lululemon.com
 preview-qa23.preprod.lululemon.com
 preview-qa23.preprod.lululemon.com
 preview-qa23.preprod.lululemon.com
+preview-qa23.preprod.lululemon.com
+preview-qa24.preprod.lululemon.com
 preview-qa24.preprod.lululemon.com
 preview-qa24.preprod.lululemon.com
 preview-qa24.preprod.lululemon.com
@@ -8072,6 +8809,8 @@ preview-qa25.preprod.lululemon.com
 preview-qa25.preprod.lululemon.com
 preview-qa25.preprod.lululemon.com
 preview-qa25.preprod.lululemon.com
+preview-qa25.preprod.lululemon.com
+preview-qa26.preprod.lululemon.com
 preview-qa26.preprod.lululemon.com
 preview-qa26.preprod.lululemon.com
 preview-qa26.preprod.lululemon.com
@@ -8094,6 +8833,8 @@ preview-qa27.preprod.lululemon.com
 preview-qa27.preprod.lululemon.com
 preview-qa27.preprod.lululemon.com
 preview-qa27.preprod.lululemon.com
+preview-qa27.preprod.lululemon.com
+preview-qa28.preprod.lululemon.com
 preview-qa28.preprod.lululemon.com
 preview-qa28.preprod.lululemon.com
 preview-qa28.preprod.lululemon.com
@@ -8116,6 +8857,8 @@ preview-qa29.preprod.lululemon.com
 preview-qa29.preprod.lululemon.com
 preview-qa29.preprod.lululemon.com
 preview-qa29.preprod.lululemon.com
+preview-qa29.preprod.lululemon.com
+preview-qa30.preprod.lululemon.com
 preview-qa30.preprod.lululemon.com
 preview-qa30.preprod.lululemon.com
 preview-qa30.preprod.lululemon.com
@@ -8138,6 +8881,8 @@ preview-qa31.preprod.lululemon.com
 preview-qa31.preprod.lululemon.com
 preview-qa31.preprod.lululemon.com
 preview-qa31.preprod.lululemon.com
+preview-qa31.preprod.lululemon.com
+preview-qa32.preprod.lululemon.com
 preview-qa32.preprod.lululemon.com
 preview-qa32.preprod.lululemon.com
 preview-qa32.preprod.lululemon.com
@@ -8160,6 +8905,8 @@ preview-qa33.preprod.lululemon.com
 preview-qa33.preprod.lululemon.com
 preview-qa33.preprod.lululemon.com
 preview-qa33.preprod.lululemon.com
+preview-qa33.preprod.lululemon.com
+preview-qa8.lululemon.com
 preview-qa8.lululemon.com
 preview-qa8.lululemon.com
 preview-qa8.lululemon.com
@@ -8182,6 +8929,8 @@ preview-services.lululemon.com
 preview-services.lululemon.com
 preview-services.lululemon.com
 preview-services.lululemon.com
+preview-services.lululemon.com
+preview-stage-dr.lululemon.com
 preview-stage-dr.lululemon.com
 preview-stage-dr.lululemon.com
 preview-stage-dr.lululemon.com
@@ -8204,6 +8953,8 @@ preview-stage-lite.lululemon.com
 preview-stage-lite.lululemon.com
 preview-stage-lite.lululemon.com
 preview-stage-lite.lululemon.com
+preview-stage-lite.lululemon.com
+preview-stage2.lululemon.com
 preview-stage2.lululemon.com
 preview-stage2.lululemon.com
 preview-stage2.lululemon.com
@@ -8226,6 +8977,8 @@ preview.apis.lululemon.com
 preview.apis.lululemon.com
 preview.apis.lululemon.com
 preview.apis.lululemon.com
+preview.apis.lululemon.com
+preview.lululemon.com
 preview.lululemon.com
 preview.lululemon.com
 preview.lululemon.com
@@ -8248,6 +9001,8 @@ preview10-sl.lululemon.com
 preview10-sl.lululemon.com
 preview10-sl.lululemon.com
 preview10-sl.lululemon.com
+preview10-sl.lululemon.com
+prod-coext-01.lululemon.com
 prod-coext-01.lululemon.com
 prod-coext-01.lululemon.com
 prod-coext-01.lululemon.com
@@ -8270,6 +9025,7 @@ prod-plm.lululemon.com
 prod-plm.lululemon.com
 prod-plm.lululemon.com
 prod-plm.lululemon.com
+prod-plm.lululemon.com
 prod-possmtp-01.receipts.lululemon.com
 prod-possmtp-01.receipts.lululemon.com
 prod-possmtp-01.receipts.lululemon.com
@@ -8281,6 +9037,8 @@ prod-possmtp-01.receipts.lululemon.com
 prod-possmtp-01.receipts.lululemon.com
 prod-possmtp-01.receipts.lululemon.com
 prod-possmtp-01.receipts.lululemon.com
+prod-possmtp-01.receipts.lululemon.com
+prod-smtp-02.lululemon.com
 prod-smtp-02.lululemon.com
 prod-smtp-02.lululemon.com
 prod-smtp-02.lululemon.com
@@ -8301,6 +9059,8 @@ prod.apis.lululemon.com
 prod.apis.lululemon.com
 prod.apis.lululemon.com
 prod.apis.lululemon.com
+prod.apis.lululemon.com
+qa-atg-01.lululemon.com
 qa-atg-01.lululemon.com
 qa-atg-01.lululemon.com
 qa-atg-01.lululemon.com
@@ -8323,6 +9083,8 @@ qa-atg-02.lululemon.com
 qa-atg-02.lululemon.com
 qa-atg-02.lululemon.com
 qa-atg-02.lululemon.com
+qa-atg-02.lululemon.com
+qa-bandha.lululemon.com
 qa-bandha.lululemon.com
 qa-bandha.lululemon.com
 qa-bandha.lululemon.com
@@ -8345,6 +9107,8 @@ qa-identity.lululemon.com
 qa-identity.lululemon.com
 qa-identity.lululemon.com
 qa-identity.lululemon.com
+qa-identity.lululemon.com
+qa-iexpense.lululemon.com
 qa-iexpense.lululemon.com
 qa-iexpense.lululemon.com
 qa-iexpense.lululemon.com
@@ -8367,6 +9131,8 @@ qa-info.eu.lululemon.com
 qa-info.eu.lululemon.com
 qa-info.eu.lululemon.com
 qa-info.eu.lululemon.com
+qa-info.eu.lululemon.com
+qa-info.lululemon.com
 qa-info.lululemon.com
 qa-info.lululemon.com
 qa-info.lululemon.com
@@ -8389,6 +9155,8 @@ qa-plm.lululemon.com
 qa-plm.lululemon.com
 qa-plm.lululemon.com
 qa-plm.lululemon.com
+qa-plm.lululemon.com
+qa-pnimages.lululemon.com
 qa-pnimages.lululemon.com
 qa-pnimages.lululemon.com
 qa-pnimages.lululemon.com
@@ -8411,6 +9179,8 @@ qa-possmtp-01.receipts.lululemon.com
 qa-possmtp-01.receipts.lululemon.com
 qa-possmtp-01.receipts.lululemon.com
 qa-possmtp-01.receipts.lululemon.com
+qa-possmtp-01.receipts.lululemon.com
+qa.eu.lululemon.com
 qa.eu.lululemon.com
 qa.eu.lululemon.com
 qa.eu.lululemon.com
@@ -8433,6 +9203,7 @@ qa.info.eu.lululemon.com
 qa.info.eu.lululemon.com
 qa.info.eu.lululemon.com
 qa.info.eu.lululemon.com
+qa.info.eu.lululemon.com
 qa.info.lululemon.com
 qa.info.lululemon.com
 qa.info.lululemon.com
@@ -8444,6 +9215,8 @@ qa.info.lululemon.com
 qa.info.lululemon.com
 qa.info.lululemon.com
 qa.info.lululemon.com
+qa.info.lululemon.com
+qa.lululemon.com
 qa.lululemon.com
 qa.lululemon.com
 qa.lululemon.com
@@ -8464,6 +9237,8 @@ qa.pos-api.lululemon.com
 qa.pos-api.lululemon.com
 qa.pos-api.lululemon.com
 qa.pos-api.lululemon.com
+qa.pos-api.lululemon.com
+qa1.lululemon.com
 qa1.lululemon.com
 qa1.lululemon.com
 qa1.lululemon.com
@@ -8486,6 +9261,8 @@ qa10.eu.lululemon.com
 qa10.eu.lululemon.com
 qa10.eu.lululemon.com
 qa10.eu.lululemon.com
+qa10.eu.lululemon.com
+qa10.lululemon.com
 qa10.lululemon.com
 qa10.lululemon.com
 qa10.lululemon.com
@@ -8508,6 +9285,8 @@ qa11.lululemon.com
 qa11.lululemon.com
 qa11.lululemon.com
 qa11.lululemon.com
+qa11.lululemon.com
+qa13.lululemon.com
 qa13.lululemon.com
 qa13.lululemon.com
 qa13.lululemon.com
@@ -8530,6 +9309,8 @@ qa14.lululemon.com
 qa14.lululemon.com
 qa14.lululemon.com
 qa14.lululemon.com
+qa14.lululemon.com
+qa14.preprod.lululemon.com
 qa14.preprod.lululemon.com
 qa14.preprod.lululemon.com
 qa14.preprod.lululemon.com
@@ -8552,6 +9333,8 @@ qa15.lululemon.com
 qa15.lululemon.com
 qa15.lululemon.com
 qa15.lululemon.com
+qa15.lululemon.com
+qa16.lululemon.com
 qa16.lululemon.com
 qa16.lululemon.com
 qa16.lululemon.com
@@ -8574,6 +9357,8 @@ qa17.lululemon.com
 qa17.lululemon.com
 qa17.lululemon.com
 qa17.lululemon.com
+qa17.lululemon.com
+qa2-info.eu.lululemon.com
 qa2-info.eu.lululemon.com
 qa2-info.eu.lululemon.com
 qa2-info.eu.lululemon.com
@@ -8596,6 +9381,8 @@ qa2-info.lululemon.com
 qa2-info.lululemon.com
 qa2-info.lululemon.com
 qa2-info.lululemon.com
+qa2-info.lululemon.com
+qa2-pnimages.lululemon.com
 qa2-pnimages.lululemon.com
 qa2-pnimages.lululemon.com
 qa2-pnimages.lululemon.com
@@ -8618,6 +9405,8 @@ qa2.info.eu.lululemon.com
 qa2.info.eu.lululemon.com
 qa2.info.eu.lululemon.com
 qa2.info.eu.lululemon.com
+qa2.info.eu.lululemon.com
+qa2.info.lululemon.com
 qa2.info.lululemon.com
 qa2.info.lululemon.com
 qa2.info.lululemon.com
@@ -8640,6 +9429,8 @@ qa2.lululemon.com
 qa2.lululemon.com
 qa2.lululemon.com
 qa2.lululemon.com
+qa2.lululemon.com
+qa20.preprod.lululemon.com
 qa20.preprod.lululemon.com
 qa20.preprod.lululemon.com
 qa20.preprod.lululemon.com
@@ -8662,6 +9453,8 @@ qa21.preprod.lululemon.com
 qa21.preprod.lululemon.com
 qa21.preprod.lululemon.com
 qa21.preprod.lululemon.com
+qa21.preprod.lululemon.com
+qa22.preprod.lululemon.com
 qa22.preprod.lululemon.com
 qa22.preprod.lululemon.com
 qa22.preprod.lululemon.com
@@ -8684,6 +9477,8 @@ qa23.preprod.lululemon.com
 qa23.preprod.lululemon.com
 qa23.preprod.lululemon.com
 qa23.preprod.lululemon.com
+qa23.preprod.lululemon.com
+qa24.preprod.lululemon.com
 qa24.preprod.lululemon.com
 qa24.preprod.lululemon.com
 qa24.preprod.lululemon.com
@@ -8706,6 +9501,8 @@ qa25.preprod.lululemon.com
 qa25.preprod.lululemon.com
 qa25.preprod.lululemon.com
 qa25.preprod.lululemon.com
+qa25.preprod.lululemon.com
+qa26.preprod.lululemon.com
 qa26.preprod.lululemon.com
 qa26.preprod.lululemon.com
 qa26.preprod.lululemon.com
@@ -8728,6 +9525,8 @@ qa27.preprod.lululemon.com
 qa27.preprod.lululemon.com
 qa27.preprod.lululemon.com
 qa27.preprod.lululemon.com
+qa27.preprod.lululemon.com
+qa28.preprod.lululemon.com
 qa28.preprod.lululemon.com
 qa28.preprod.lululemon.com
 qa28.preprod.lululemon.com
@@ -8750,6 +9549,8 @@ qa29.preprod.lululemon.com
 qa29.preprod.lululemon.com
 qa29.preprod.lululemon.com
 qa29.preprod.lululemon.com
+qa29.preprod.lululemon.com
+qa3.lululemon.com
 qa3.lululemon.com
 qa3.lululemon.com
 qa3.lululemon.com
@@ -8772,6 +9573,8 @@ qa30.preprod.lululemon.com
 qa30.preprod.lululemon.com
 qa30.preprod.lululemon.com
 qa30.preprod.lululemon.com
+qa30.preprod.lululemon.com
+qa31.preprod.lululemon.com
 qa31.preprod.lululemon.com
 qa31.preprod.lululemon.com
 qa31.preprod.lululemon.com
@@ -8794,6 +9597,8 @@ qa32.preprod.lululemon.com
 qa32.preprod.lululemon.com
 qa32.preprod.lululemon.com
 qa32.preprod.lululemon.com
+qa32.preprod.lululemon.com
+qa32.preprod.preprod.lululemon.com
 qa32.preprod.preprod.lululemon.com
 qa32.preprod.preprod.lululemon.com
 qa32.preprod.preprod.lululemon.com
@@ -8816,6 +9621,8 @@ qa33.preprod.lululemon.com
 qa33.preprod.lululemon.com
 qa33.preprod.lululemon.com
 qa33.preprod.lululemon.com
+qa33.preprod.lululemon.com
+qa4.lululemon.com
 qa4.lululemon.com
 qa4.lululemon.com
 qa4.lululemon.com
@@ -8838,6 +9645,8 @@ qa5.lululemon.com
 qa5.lululemon.com
 qa5.lululemon.com
 qa5.lululemon.com
+qa5.lululemon.com
+qa6.lululemon.com
 qa6.lululemon.com
 qa6.lululemon.com
 qa6.lululemon.com
@@ -8860,6 +9669,8 @@ qa7.lululemon.com
 qa7.lululemon.com
 qa7.lululemon.com
 qa7.lululemon.com
+qa7.lululemon.com
+qa8.lululemon.com
 qa8.lululemon.com
 qa8.lululemon.com
 qa8.lululemon.com
@@ -8882,6 +9693,8 @@ qa9.lululemon.com
 qa9.lululemon.com
 qa9.lululemon.com
 qa9.lululemon.com
+qa9.lululemon.com
+qaambassador.lululemon.com
 qaambassador.lululemon.com
 qaambassador.lululemon.com
 qaambassador.lululemon.com
@@ -8904,6 +9717,8 @@ qamedia.lululemon.com
 qamedia.lululemon.com
 qamedia.lululemon.com
 qamedia.lululemon.com
+qamedia.lululemon.com
+receipts.lululemon.com
 receipts.lululemon.com
 receipts.lululemon.com
 receipts.lululemon.com
@@ -8926,6 +9741,8 @@ remote.lululemon.com
 remote.lululemon.com
 remote.lululemon.com
 remote.lululemon.com
+remote.lululemon.com
+repair.lululemon.com
 repair.lululemon.com
 repair.lululemon.com
 repair.lululemon.com
@@ -8948,6 +9765,8 @@ report.creators.lululemon.com
 report.creators.lululemon.com
 report.creators.lululemon.com
 report.creators.lululemon.com
+report.creators.lululemon.com
+reportfort.lululemon.com
 reportfort.lululemon.com
 reportfort.lululemon.com
 reportfort.lululemon.com
@@ -8970,6 +9789,8 @@ reviews.lululemon.com
 reviews.lululemon.com
 reviews.lululemon.com
 reviews.lululemon.com
+reviews.lululemon.com
+san.lululemon.com
 san.lululemon.com
 san.lululemon.com
 san.lululemon.com
@@ -8992,6 +9813,8 @@ sandbox-dev.preprod-apis.lululemon.com
 sandbox-dev.preprod-apis.lululemon.com
 sandbox-dev.preprod-apis.lululemon.com
 sandbox-dev.preprod-apis.lululemon.com
+sandbox-dev.preprod-apis.lululemon.com
+sandbox.preprod-apis.lululemon.com
 sandbox.preprod-apis.lululemon.com
 sandbox.preprod-apis.lululemon.com
 sandbox.preprod-apis.lululemon.com
@@ -9014,6 +9837,8 @@ scep.lululemon.com
 scep.lululemon.com
 scep.lululemon.com
 scep.lululemon.com
+scep.lululemon.com
+search.eu.lululemon.com
 search.eu.lululemon.com
 search.eu.lululemon.com
 search.eu.lululemon.com
@@ -9036,6 +9861,8 @@ search.lululemon.com
 search.lululemon.com
 search.lululemon.com
 search.lululemon.com
+search.lululemon.com
+seasonalpackages.lululemon.com
 seasonalpackages.lululemon.com
 seasonalpackages.lululemon.com
 seasonalpackages.lululemon.com
@@ -9058,6 +9885,8 @@ seawheeze.lululemon.com
 seawheeze.lululemon.com
 seawheeze.lululemon.com
 seawheeze.lululemon.com
+seawheeze.lululemon.com
+secure.lululemon.com
 secure.lululemon.com
 secure.lululemon.com
 secure.lululemon.com
@@ -9080,6 +9909,8 @@ services.lululemon.com
 services.lululemon.com
 services.lululemon.com
 services.lululemon.com
+services.lululemon.com
+sftp-fin.lululemon.com
 sftp-fin.lululemon.com
 sftp-fin.lululemon.com
 sftp-fin.lululemon.com
@@ -9102,6 +9933,8 @@ sftp.lululemon.com
 sftp.lululemon.com
 sftp.lululemon.com
 sftp.lululemon.com
+sftp.lululemon.com
+shop-dr.lululemon.com
 shop-dr.lululemon.com
 shop-dr.lululemon.com
 shop-dr.lululemon.com
@@ -9124,6 +9957,8 @@ shop-prod2.lululemon.com
 shop-prod2.lululemon.com
 shop-prod2.lululemon.com
 shop-prod2.lululemon.com
+shop-prod2.lululemon.com
+shop-stage2.lululemon.com
 shop-stage2.lululemon.com
 shop-stage2.lululemon.com
 shop-stage2.lululemon.com
@@ -9146,6 +9981,8 @@ shop.lululemon.com
 shop.lululemon.com
 shop.lululemon.com
 shop.lululemon.com
+shop.lululemon.com
+shop10-sl.lululemon.com
 shop10-sl.lululemon.com
 shop10-sl.lululemon.com
 shop10-sl.lululemon.com
@@ -9168,6 +10005,8 @@ sip.lululemon.com
 sip.lululemon.com
 sip.lululemon.com
 sip.lululemon.com
+sip.lululemon.com
+smetrics.lululemon.com
 smetrics.lululemon.com
 smetrics.lululemon.com
 smetrics.lululemon.com
@@ -9190,6 +10029,8 @@ spam.lululemon.com
 spam.lululemon.com
 spam.lululemon.com
 spam.lululemon.com
+spam.lululemon.com
+sso-encryption.lululemon.com
 sso-encryption.lululemon.com
 sso-encryption.lululemon.com
 sso-encryption.lululemon.com
@@ -9212,6 +10053,8 @@ sso-signing.lululemon.com
 sso-signing.lululemon.com
 sso-signing.lululemon.com
 sso-signing.lululemon.com
+sso-signing.lululemon.com
+sso.lululemon.com
 sso.lululemon.com
 sso.lululemon.com
 sso.lululemon.com
@@ -9234,6 +10077,8 @@ stage-ambassador.lululemon.com
 stage-ambassador.lululemon.com
 stage-ambassador.lululemon.com
 stage-ambassador.lululemon.com
+stage-ambassador.lululemon.com
+stage-ambassadors.lululemon.com
 stage-ambassadors.lululemon.com
 stage-ambassadors.lululemon.com
 stage-ambassadors.lululemon.com
@@ -9256,6 +10101,8 @@ stage-bcc.eu.lululemon.com
 stage-bcc.eu.lululemon.com
 stage-bcc.eu.lululemon.com
 stage-bcc.eu.lululemon.com
+stage-bcc.eu.lululemon.com
+stage-blog.eu.lululemon.com
 stage-blog.eu.lululemon.com
 stage-blog.eu.lululemon.com
 stage-blog.eu.lululemon.com
@@ -9278,6 +10125,8 @@ stage-careers.lululemon.com
 stage-careers.lululemon.com
 stage-careers.lululemon.com
 stage-careers.lululemon.com
+stage-careers.lululemon.com
+stage-dr.eu.lululemon.com
 stage-dr.eu.lululemon.com
 stage-dr.eu.lululemon.com
 stage-dr.eu.lululemon.com
@@ -9300,6 +10149,8 @@ stage-dr.lululemon.com
 stage-dr.lululemon.com
 stage-dr.lululemon.com
 stage-dr.lululemon.com
+stage-dr.lululemon.com
+stage-fr-blog.lululemon.com
 stage-fr-blog.lululemon.com
 stage-fr-blog.lululemon.com
 stage-fr-blog.lululemon.com
@@ -9322,6 +10173,8 @@ stage-fr.info.lululemon.com
 stage-fr.info.lululemon.com
 stage-fr.info.lululemon.com
 stage-fr.info.lululemon.com
+stage-fr.info.lululemon.com
+stage-globalstaticassets.lululemon.com
 stage-globalstaticassets.lululemon.com
 stage-globalstaticassets.lululemon.com
 stage-globalstaticassets.lululemon.com
@@ -9344,6 +10197,8 @@ stage-gsr.lululemon.com
 stage-gsr.lululemon.com
 stage-gsr.lululemon.com
 stage-gsr.lululemon.com
+stage-gsr.lululemon.com
+stage-identity.lululemon.com
 stage-identity.lululemon.com
 stage-identity.lululemon.com
 stage-identity.lululemon.com
@@ -9366,6 +10221,8 @@ stage-images.lululemon.com
 stage-images.lululemon.com
 stage-images.lululemon.com
 stage-images.lululemon.com
+stage-images.lululemon.com
+stage-lite-preview.eu.lululemon.com
 stage-lite-preview.eu.lululemon.com
 stage-lite-preview.eu.lululemon.com
 stage-lite-preview.eu.lululemon.com
@@ -9388,6 +10245,8 @@ stage-lite.eu.lululemon.com
 stage-lite.eu.lululemon.com
 stage-lite.eu.lululemon.com
 stage-lite.eu.lululemon.com
+stage-lite.eu.lululemon.com
+stage-lite.lululemon.com
 stage-lite.lululemon.com
 stage-lite.lululemon.com
 stage-lite.lululemon.com
@@ -9410,6 +10269,8 @@ stage-mirrorhook.lululemon.com
 stage-mirrorhook.lululemon.com
 stage-mirrorhook.lululemon.com
 stage-mirrorhook.lululemon.com
+stage-mirrorhook.lululemon.com
+stage-mobileapi-gsr.lululemon.com
 stage-mobileapi-gsr.lululemon.com
 stage-mobileapi-gsr.lululemon.com
 stage-mobileapi-gsr.lululemon.com
@@ -9432,6 +10293,8 @@ stage-mobileapi.lululemon.com
 stage-mobileapi.lululemon.com
 stage-mobileapi.lululemon.com
 stage-mobileapi.lululemon.com
+stage-mobileapi.lululemon.com
+stage-mobileshopapi.eu.lululemon.com
 stage-mobileshopapi.eu.lululemon.com
 stage-mobileshopapi.eu.lululemon.com
 stage-mobileshopapi.eu.lululemon.com
@@ -9452,6 +10315,7 @@ stage-mobileshopapi.lululemon.com
 stage-mobileshopapi.lululemon.com
 stage-mobileshopapi.lululemon.com
 stage-mobileshopapi.lululemon.com
+stage-mobileshopapi.lululemon.com
 stage-ngc.lululemon.com
 stage-ngc.lululemon.com
 stage-ngc.lululemon.com
@@ -9461,6 +10325,8 @@ stage-ngc.lululemon.com
 stage-ngc.lululemon.com
 stage-ngc.lululemon.com
 stage-ngc.lululemon.com
+stage-ngc.lululemon.com
+stage-partners.lululemon.com
 stage-partners.lululemon.com
 stage-partners.lululemon.com
 stage-partners.lululemon.com
@@ -9483,6 +10349,8 @@ stage-plm.lululemon.com
 stage-plm.lululemon.com
 stage-plm.lululemon.com
 stage-plm.lululemon.com
+stage-plm.lululemon.com
+stage-pnimages.lululemon.com
 stage-pnimages.lululemon.com
 stage-pnimages.lululemon.com
 stage-pnimages.lululemon.com
@@ -9505,6 +10373,8 @@ stage-preprod.lululemon.com
 stage-preprod.lululemon.com
 stage-preprod.lululemon.com
 stage-preprod.lululemon.com
+stage-preprod.lululemon.com
+stage-preview-gsr.lululemon.com
 stage-preview-gsr.lululemon.com
 stage-preview-gsr.lululemon.com
 stage-preview-gsr.lululemon.com
@@ -9527,6 +10397,8 @@ stage-preview.eu.lululemon.com
 stage-preview.eu.lululemon.com
 stage-preview.eu.lululemon.com
 stage-preview.eu.lululemon.com
+stage-preview.eu.lululemon.com
+stage-preview.lululemon.com
 stage-preview.lululemon.com
 stage-preview.lululemon.com
 stage-preview.lululemon.com
@@ -9549,6 +10421,7 @@ stage-search-gsr.lululemon.com
 stage-search-gsr.lululemon.com
 stage-search-gsr.lululemon.com
 stage-search-gsr.lululemon.com
+stage-search-gsr.lululemon.com
 stage-search.eu.lululemon.com
 stage-search.eu.lululemon.com
 stage-search.eu.lululemon.com
@@ -9560,6 +10433,8 @@ stage-search.eu.lululemon.com
 stage-search.eu.lululemon.com
 stage-search.eu.lululemon.com
 stage-search.eu.lululemon.com
+stage-search.eu.lululemon.com
+stage-services.lululemon.com
 stage-services.lululemon.com
 stage-services.lululemon.com
 stage-services.lululemon.com
@@ -9581,6 +10456,8 @@ stage-storepn.lululemon.com
 stage-storepn.lululemon.com
 stage-storepn.lululemon.com
 stage-storepn.lululemon.com
+stage-storepn.lululemon.com
+stage-strategicsales.lululemon.com
 stage-strategicsales.lululemon.com
 stage-strategicsales.lululemon.com
 stage-strategicsales.lululemon.com
@@ -9603,6 +10480,8 @@ stage-svcs.lululemon.com
 stage-svcs.lululemon.com
 stage-svcs.lululemon.com
 stage-svcs.lululemon.com
+stage-svcs.lululemon.com
+stage.admin.strategicsales.lululemon.com
 stage.admin.strategicsales.lululemon.com
 stage.admin.strategicsales.lululemon.com
 stage.admin.strategicsales.lululemon.com
@@ -9625,6 +10504,8 @@ stage.apis.lululemon.com
 stage.apis.lululemon.com
 stage.apis.lululemon.com
 stage.apis.lululemon.com
+stage.apis.lululemon.com
+stage.blog.lululemon.com
 stage.blog.lululemon.com
 stage.blog.lululemon.com
 stage.blog.lululemon.com
@@ -9647,6 +10528,8 @@ stage.eu.lululemon.com
 stage.eu.lululemon.com
 stage.eu.lululemon.com
 stage.eu.lululemon.com
+stage.eu.lululemon.com
+stage.howwewearit.lululemon.com
 stage.howwewearit.lululemon.com
 stage.howwewearit.lululemon.com
 stage.howwewearit.lululemon.com
@@ -9669,6 +10552,7 @@ stage.info.eu.lululemon.com
 stage.info.eu.lululemon.com
 stage.info.eu.lululemon.com
 stage.info.eu.lululemon.com
+stage.info.eu.lululemon.com
 stage.info.lululemon.com
 stage.info.lululemon.com
 stage.info.lululemon.com
@@ -9680,6 +10564,8 @@ stage.info.lululemon.com
 stage.info.lululemon.com
 stage.info.lululemon.com
 stage.info.lululemon.com
+stage.info.lululemon.com
+stage.lululemon.com
 stage.lululemon.com
 stage.lululemon.com
 stage.lululemon.com
@@ -9700,6 +10586,7 @@ stage.partners.lululemon.com
 stage.partners.lululemon.com
 stage.partners.lululemon.com
 stage.partners.lululemon.com
+stage.partners.lululemon.com
 stage.pos-api.lululemon.com
 stage.pos-api.lululemon.com
 stage.pos-api.lululemon.com
@@ -9709,6 +10596,8 @@ stage.pos-api.lululemon.com
 stage.pos-api.lululemon.com
 stage.pos-api.lululemon.com
 stage.pos-api.lululemon.com
+stage.pos-api.lululemon.com
+stage.preview.strategicsales.lululemon.com
 stage.preview.strategicsales.lululemon.com
 stage.preview.strategicsales.lululemon.com
 stage.preview.strategicsales.lululemon.com
@@ -9731,6 +10620,8 @@ stage.seasonalpackages.lululemon.com
 stage.seasonalpackages.lululemon.com
 stage.seasonalpackages.lululemon.com
 stage.seasonalpackages.lululemon.com
+stage.seasonalpackages.lululemon.com
+stage.strategicsales.lululemon.com
 stage.strategicsales.lululemon.com
 stage.strategicsales.lululemon.com
 stage.strategicsales.lululemon.com
@@ -9753,6 +10644,8 @@ stage.sustainability.lululemon.com
 stage.sustainability.lululemon.com
 stage.sustainability.lululemon.com
 stage.sustainability.lululemon.com
+stage.sustainability.lululemon.com
+stage10-bcc.lululemon.com
 stage10-bcc.lululemon.com
 stage10-bcc.lululemon.com
 stage10-bcc.lululemon.com
@@ -9775,6 +10668,8 @@ stage10-preview.lululemon.com
 stage10-preview.lululemon.com
 stage10-preview.lululemon.com
 stage10-preview.lululemon.com
+stage10-preview.lululemon.com
+stage10-search.lululemon.com
 stage10-search.lululemon.com
 stage10-search.lululemon.com
 stage10-search.lululemon.com
@@ -9797,6 +10692,8 @@ stage10.lululemon.com
 stage10.lululemon.com
 stage10.lululemon.com
 stage10.lululemon.com
+stage10.lululemon.com
+stage2-oms.lululemon.com
 stage2-oms.lululemon.com
 stage2-oms.lululemon.com
 stage2-oms.lululemon.com
@@ -9819,6 +10716,8 @@ stage62-info.eu.lululemon.com
 stage62-info.eu.lululemon.com
 stage62-info.eu.lululemon.com
 stage62-info.eu.lululemon.com
+stage62-info.eu.lululemon.com
+stage62-info.lululemon.com
 stage62-info.lululemon.com
 stage62-info.lululemon.com
 stage62-info.lululemon.com
@@ -9841,6 +10740,8 @@ stage62-pnimages.lululemon.com
 stage62-pnimages.lululemon.com
 stage62-pnimages.lululemon.com
 stage62-pnimages.lululemon.com
+stage62-pnimages.lululemon.com
+stageb.preprod.lululemon.com
 stageb.preprod.lululemon.com
 stageb.preprod.lululemon.com
 stageb.preprod.lululemon.com
@@ -9863,6 +10764,7 @@ stagedr.lululemon.com
 stagedr.lululemon.com
 stagedr.lululemon.com
 stagedr.lululemon.com
+stagedr.lululemon.com
 stagefailover-int.lululemon.com
 stagefailover-int.lululemon.com
 stagefailover-int.lululemon.com
@@ -9874,6 +10776,8 @@ stagefailover-int.lululemon.com
 stagefailover-int.lululemon.com
 stagefailover-int.lululemon.com
 stagefailover-int.lululemon.com
+stagefailover-int.lululemon.com
+stagefailover-intl.lululemon.com
 stagefailover-intl.lululemon.com
 stagefailover-intl.lululemon.com
 stagefailover-intl.lululemon.com
@@ -9894,6 +10798,7 @@ stagefailover-partners.lululemon.com
 stagefailover-partners.lululemon.com
 stagefailover-partners.lululemon.com
 stagefailover-partners.lululemon.com
+stagefailover-partners.lululemon.com
 stagegsr-partners.lululemon.com
 stagegsr-partners.lululemon.com
 stagegsr-partners.lululemon.com
@@ -9903,6 +10808,7 @@ stagegsr-partners.lululemon.com
 stagegsr-partners.lululemon.com
 stagegsr-partners.lululemon.com
 stagegsr-partners.lululemon.com
+stagegsr-partners.lululemon.com
 stagegsr-preview.eu.lululemon.com
 stagegsr-preview.eu.lululemon.com
 stagegsr-preview.eu.lululemon.com
@@ -9914,6 +10820,8 @@ stagegsr-preview.eu.lululemon.com
 stagegsr-preview.eu.lululemon.com
 stagegsr-preview.eu.lululemon.com
 stagegsr-preview.eu.lululemon.com
+stagegsr-preview.eu.lululemon.com
+stagegsr.eu.lululemon.com
 stagegsr.eu.lululemon.com
 stagegsr.eu.lululemon.com
 stagegsr.eu.lululemon.com
@@ -9934,6 +10842,7 @@ stagegsr.lululemon.com
 stagegsr.lululemon.com
 stagegsr.lululemon.com
 stagegsr.lululemon.com
+stagegsr.lululemon.com
 stagegsr.partners.lululemon.com
 stagegsr.partners.lululemon.com
 stagegsr.partners.lululemon.com
@@ -9943,6 +10852,8 @@ stagegsr.partners.lululemon.com
 stagegsr.partners.lululemon.com
 stagegsr.partners.lululemon.com
 stagegsr.partners.lululemon.com
+stagegsr.partners.lululemon.com
+static-global.eu.lululemon.com
 static-global.eu.lululemon.com
 static-global.eu.lululemon.com
 static-global.eu.lululemon.com
@@ -9963,6 +10874,8 @@ static-global.lululemon.com
 static-global.lululemon.com
 static-global.lululemon.com
 static-global.lululemon.com
+static-global.lululemon.com
+static-origin.lululemon.com
 static-origin.lululemon.com
 static-origin.lululemon.com
 static-origin.lululemon.com
@@ -9985,6 +10898,8 @@ static.eu.lululemon.com
 static.eu.lululemon.com
 static.eu.lululemon.com
 static.eu.lululemon.com
+static.eu.lululemon.com
+static.lululemon.com
 static.lululemon.com
 static.lululemon.com
 static.lululemon.com
@@ -10007,6 +10922,8 @@ staticassets.eu.lululemon.com
 staticassets.eu.lululemon.com
 staticassets.eu.lululemon.com
 staticassets.eu.lululemon.com
+staticassets.eu.lululemon.com
+staticassets.lululemon.com
 staticassets.lululemon.com
 staticassets.lululemon.com
 staticassets.lululemon.com
@@ -10029,6 +10946,8 @@ stats.lululemon.com
 stats.lululemon.com
 stats.lululemon.com
 stats.lululemon.com
+stats.lululemon.com
+stg-api.lululemon.com
 stg-api.lululemon.com
 stg-api.lululemon.com
 stg-api.lululemon.com
@@ -10051,6 +10970,8 @@ stg-iexpense.lululemon.com
 stg-iexpense.lululemon.com
 stg-iexpense.lululemon.com
 stg-iexpense.lululemon.com
+stg-iexpense.lululemon.com
+stg-login.lululemon.com
 stg-login.lululemon.com
 stg-login.lululemon.com
 stg-login.lululemon.com
@@ -10073,6 +10994,8 @@ stg-plm.lululemon.com
 stg-plm.lululemon.com
 stg-plm.lululemon.com
 stg-plm.lululemon.com
+stg-plm.lululemon.com
+store.lululemon.com
 store.lululemon.com
 store.lululemon.com
 store.lululemon.com
@@ -10093,6 +11016,8 @@ storepn.lululemon.com
 storepn.lululemon.com
 storepn.lululemon.com
 storepn.lululemon.com
+storepn.lululemon.com
+strategicsales.lululemon.com
 strategicsales.lululemon.com
 strategicsales.lululemon.com
 strategicsales.lululemon.com
@@ -10115,6 +11040,8 @@ sts.lululemon.com
 sts.lululemon.com
 sts.lululemon.com
 sts.lululemon.com
+sts.lululemon.com
+summary.creators.lululemon.com
 summary.creators.lululemon.com
 summary.creators.lululemon.com
 summary.creators.lululemon.com
@@ -10137,6 +11064,7 @@ sustainability.eu.lululemon.com
 sustainability.eu.lululemon.com
 sustainability.eu.lululemon.com
 sustainability.eu.lululemon.com
+sustainability.eu.lululemon.com
 sustainability.lululemon.com
 sustainability.lululemon.com
 sustainability.lululemon.com
@@ -10148,6 +11076,8 @@ sustainability.lululemon.com
 sustainability.lululemon.com
 sustainability.lululemon.com
 sustainability.lululemon.com
+sustainability.lululemon.com
+svcs.lululemon.com
 svcs.lululemon.com
 svcs.lululemon.com
 svcs.lululemon.com
@@ -10168,6 +11098,7 @@ test-mtls.apis.lululemon.com
 test-mtls.apis.lululemon.com
 test-mtls.apis.lululemon.com
 test-mtls.apis.lululemon.com
+test-mtls.apis.lululemon.com
 test-partners.lululemon.com
 test-partners.lululemon.com
 test-partners.lululemon.com
@@ -10177,6 +11108,8 @@ test-partners.lululemon.com
 test-partners.lululemon.com
 test-partners.lululemon.com
 test-partners.lululemon.com
+test-partners.lululemon.com
+test-shop.eu.lululemon.com
 test-shop.eu.lululemon.com
 test-shop.eu.lululemon.com
 test-shop.eu.lululemon.com
@@ -10199,6 +11132,8 @@ test-shop.lululemon.com
 test-shop.lululemon.com
 test-shop.lululemon.com
 test-shop.lululemon.com
+test-shop.lululemon.com
+test.preprod-apis.lululemon.com
 test.preprod-apis.lululemon.com
 test.preprod-apis.lululemon.com
 test.preprod-apis.lululemon.com
@@ -10221,6 +11156,8 @@ theghostrace.lululemon.com
 theghostrace.lululemon.com
 theghostrace.lululemon.com
 theghostrace.lululemon.com
+theghostrace.lululemon.com
+thesweatlife.lululemon.com
 thesweatlife.lululemon.com
 thesweatlife.lululemon.com
 thesweatlife.lululemon.com
@@ -10243,6 +11180,8 @@ tradestone.lululemon.com
 tradestone.lululemon.com
 tradestone.lululemon.com
 tradestone.lululemon.com
+tradestone.lululemon.com
+twitter.lululemon.com
 twitter.lululemon.com
 twitter.lululemon.com
 twitter.lululemon.com
@@ -10265,6 +11204,8 @@ twn-llo-sbc-01.lululemon.com
 twn-llo-sbc-01.lululemon.com
 twn-llo-sbc-01.lululemon.com
 twn-llo-sbc-01.lululemon.com
+twn-llo-sbc-01.lululemon.com
+uat-02.lululemon.com
 uat-02.lululemon.com
 uat-02.lululemon.com
 uat-02.lululemon.com
@@ -10287,6 +11228,8 @@ uat.lululemon.com
 uat.lululemon.com
 uat.lululemon.com
 uat.lululemon.com
+uat.lululemon.com
+ugc.lululemon.com
 ugc.lululemon.com
 ugc.lululemon.com
 ugc.lululemon.com
@@ -10309,6 +11252,8 @@ unknown.lululemon.com
 unknown.lululemon.com
 unknown.lululemon.com
 unknown.lululemon.com
+unknown.lululemon.com
+uploads.lululemon.com
 uploads.lululemon.com
 uploads.lululemon.com
 uploads.lululemon.com
@@ -10331,6 +11276,8 @@ us.lululemon.com
 us.lululemon.com
 us.lululemon.com
 us.lululemon.com
+us.lululemon.com
+vcse.lululemon.com
 vcse.lululemon.com
 vcse.lululemon.com
 vcse.lululemon.com
@@ -10353,6 +11300,8 @@ vendor-ftp.lululemon.com
 vendor-ftp.lululemon.com
 vendor-ftp.lululemon.com
 vendor-ftp.lululemon.com
+vendor-ftp.lululemon.com
+view.e.lululemon.com
 view.e.lululemon.com
 view.e.lululemon.com
 view.e.lululemon.com
@@ -10375,6 +11324,8 @@ view.info.lululemon.com
 view.info.lululemon.com
 view.info.lululemon.com
 view.info.lululemon.com
+view.info.lululemon.com
+vimeo.lululemon.com
 vimeo.lululemon.com
 vimeo.lululemon.com
 vimeo.lululemon.com
@@ -10397,6 +11348,8 @@ vpn-na.lululemon.com
 vpn-na.lululemon.com
 vpn-na.lululemon.com
 vpn-na.lululemon.com
+vpn-na.lululemon.com
+vpn.lululemon.com
 vpn.lululemon.com
 vpn.lululemon.com
 vpn.lululemon.com
@@ -10419,6 +11372,8 @@ web1.lululemon.com
 web1.lululemon.com
 web1.lululemon.com
 web1.lululemon.com
+web1.lululemon.com
+web2.lululemon.com
 web2.lululemon.com
 web2.lululemon.com
 web2.lululemon.com
@@ -10441,6 +11396,8 @@ web3.lululemon.com
 web3.lululemon.com
 web3.lululemon.com
 web3.lululemon.com
+web3.lululemon.com
+web4.lululemon.com
 web4.lululemon.com
 web4.lululemon.com
 web4.lululemon.com
@@ -10463,6 +11420,8 @@ web5.lululemon.com
 web5.lululemon.com
 web5.lululemon.com
 web5.lululemon.com
+web5.lululemon.com
+webideas.lululemon.com
 webideas.lululemon.com
 webideas.lululemon.com
 webideas.lululemon.com
@@ -10485,6 +11444,8 @@ westandtogether.lululemon.com
 westandtogether.lululemon.com
 westandtogether.lululemon.com
 westandtogether.lululemon.com
+westandtogether.lululemon.com
+whatwelove-eu.lululemon.com
 whatwelove-eu.lululemon.com
 whatwelove-eu.lululemon.com
 whatwelove-eu.lululemon.com
@@ -10507,6 +11468,8 @@ whatwelove-test.lululemon.com
 whatwelove-test.lululemon.com
 whatwelove-test.lululemon.com
 whatwelove-test.lululemon.com
+whatwelove-test.lululemon.com
+whatwelove.lululemon.com
 whatwelove.lululemon.com
 whatwelove.lululemon.com
 whatwelove.lululemon.com
@@ -10529,6 +11492,8 @@ whatwelove2.lululemon.com
 whatwelove2.lululemon.com
 whatwelove2.lululemon.com
 whatwelove2.lululemon.com
+whatwelove2.lululemon.com
+wifi.lululemon.com
 wifi.lululemon.com
 wifi.lululemon.com
 wifi.lululemon.com
@@ -10551,6 +11516,8 @@ www-dr-preview.eu.lululemon.com
 www-dr-preview.eu.lululemon.com
 www-dr-preview.eu.lululemon.com
 www-dr-preview.eu.lululemon.com
+www-dr-preview.eu.lululemon.com
+www-dr.eu.lululemon.com
 www-dr.eu.lululemon.com
 www-dr.eu.lululemon.com
 www-dr.eu.lululemon.com
@@ -10573,6 +11540,8 @@ www-na-dr.stage.lululemon.com
 www-na-dr.stage.lululemon.com
 www-na-dr.stage.lululemon.com
 www-na-dr.stage.lululemon.com
+www-na-dr.stage.lululemon.com
+www-prod.eu.lululemon.com
 www-prod.eu.lululemon.com
 www-prod.eu.lululemon.com
 www-prod.eu.lululemon.com
@@ -10593,6 +11562,8 @@ www.apim-dev.apigeeaccess.lululemon.com
 www.apim-dev.apigeeaccess.lululemon.com
 www.apim-dev.apigeeaccess.lululemon.com
 www.apim-dev.apigeeaccess.lululemon.com
+www.apim-dev.apigeeaccess.lululemon.com
+www.apim-dev.proxyonboarding.lululemon.com
 www.apim-dev.proxyonboarding.lululemon.com
 www.apim-dev.proxyonboarding.lululemon.com
 www.apim-dev.proxyonboarding.lululemon.com
@@ -10611,6 +11582,8 @@ www.apim-dev.tokenapi.lululemon.com
 www.apim-dev.tokenapi.lululemon.com
 www.apim-dev.tokenapi.lululemon.com
 www.apim-dev.tokenapi.lululemon.com
+www.apim-dev.tokenapi.lululemon.com
+www.apim-stage.apigeeaccess.lululemon.com
 www.apim-stage.apigeeaccess.lululemon.com
 www.apim-stage.apigeeaccess.lululemon.com
 www.apim-stage.apigeeaccess.lululemon.com
@@ -10629,6 +11602,8 @@ www.apim-stage.proxyonboarding.lululemon.com
 www.apim-stage.proxyonboarding.lululemon.com
 www.apim-stage.proxyonboarding.lululemon.com
 www.apim-stage.proxyonboarding.lululemon.com
+www.apim-stage.proxyonboarding.lululemon.com
+www.apim-stage.tokenapi.lululemon.com
 www.apim-stage.tokenapi.lululemon.com
 www.apim-stage.tokenapi.lululemon.com
 www.apim-stage.tokenapi.lululemon.com
@@ -10647,6 +11622,8 @@ www.apim.apigeeaccess.lululemon.com
 www.apim.apigeeaccess.lululemon.com
 www.apim.apigeeaccess.lululemon.com
 www.apim.apigeeaccess.lululemon.com
+www.apim.apigeeaccess.lululemon.com
+www.apim.proxyonboarding.lululemon.com
 www.apim.proxyonboarding.lululemon.com
 www.apim.proxyonboarding.lululemon.com
 www.apim.proxyonboarding.lululemon.com
@@ -10665,6 +11642,8 @@ www.apim.tokenapi.lululemon.com
 www.apim.tokenapi.lululemon.com
 www.apim.tokenapi.lululemon.com
 www.apim.tokenapi.lululemon.com
+www.apim.tokenapi.lululemon.com
+www.checkout-df.lululemon.com
 www.checkout-df.lululemon.com
 www.checkout-df.lululemon.com
 www.checkout-df.lululemon.com
@@ -10683,6 +11662,8 @@ www.corporate.lululemon.com
 www.corporate.lululemon.com
 www.corporate.lululemon.com
 www.corporate.lululemon.com
+www.corporate.lululemon.com
+www.eu.lululemon.com
 www.eu.lululemon.com
 www.eu.lululemon.com
 www.eu.lululemon.com
@@ -10703,6 +11684,8 @@ www.lll-flow-anaplan-prod.lululemon.com
 www.lll-flow-anaplan-prod.lululemon.com
 www.lll-flow-anaplan-prod.lululemon.com
 www.lll-flow-anaplan-prod.lululemon.com
+www.lll-flow-anaplan-prod.lululemon.com
+www.lll-flow-anaplan-qa.lululemon.com
 www.lll-flow-anaplan-qa.lululemon.com
 www.lll-flow-anaplan-qa.lululemon.com
 www.lll-flow-anaplan-qa.lululemon.com
@@ -10721,6 +11704,8 @@ www.login.lululemon.com
 www.login.lululemon.com
 www.login.lululemon.com
 www.login.lululemon.com
+www.login.lululemon.com
+www.lululemon.com
 www.lululemon.com
 www.lululemon.com
 www.lululemon.com
@@ -10741,6 +11726,7 @@ www.nonprod-mule.lululemon.com
 www.nonprod-mule.lululemon.com
 www.nonprod-mule.lululemon.com
 www.nonprod-mule.lululemon.com
+www.nonprod-mule.lululemon.com
 www.owa.lululemon.com
 www.owa.lululemon.com
 www.owa.lululemon.com
@@ -10750,6 +11736,8 @@ www.owa.lululemon.com
 www.owa.lululemon.com
 www.owa.lululemon.com
 www.owa.lululemon.com
+www.owa.lululemon.com
+www.shop.lululemon.com
 www.shop.lululemon.com
 www.shop.lululemon.com
 www.shop.lululemon.com
@@ -10770,6 +11758,7 @@ www.stage.pos-api.lululemon.com
 www.stage.pos-api.lululemon.com
 www.stage.pos-api.lululemon.com
 www.stage.pos-api.lululemon.com
+www.stage.pos-api.lululemon.com
 www2.lululemon.com
 www2.lululemon.com
 www2.lululemon.com
@@ -10781,6 +11770,8 @@ www2.lululemon.com
 www2.lululemon.com
 www2.lululemon.com
 www2.lululemon.com
+www2.lululemon.com
+youlu.lululemon.com
 youlu.lululemon.com
 youlu.lululemon.com
 youlu.lululemon.com

@@ -3,6 +3,8 @@ api.portal.hedera.com:80
 api.sandbox.portal.hedera.com:25
 api.sandbox.portal.hedera.com:443
 api.sandbox.portal.hedera.com:80
+brand.hedera.com:443
+brand.hedera.com:80
 builds.hedera.com:443
 builds.hedera.com:80
 builds.hedera.com:8080

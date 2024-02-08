@@ -1,5 +1,6 @@
 http://api.portal.hedera.com
 http://api.sandbox.portal.hedera.com
+http://brand.hedera.com
 http://builds.hedera.com
 http://builds.hedera.com:8080
 http://cop-28.hedera.com
@@ -42,6 +43,7 @@ http://www.hedera.com
 http://www.hedera.com:8080
 https://api.portal.hedera.com
 https://api.sandbox.portal.hedera.com
+https://brand.hedera.com
 https://builds.hedera.com
 https://builds.hedera.com:8443
 https://cop-28.hedera.com

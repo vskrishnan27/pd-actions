@@ -1,5 +1,6 @@
 api.portal.hedera.com
 api.sandbox.portal.hedera.com
+brand.hedera.com
 builds.hedera.com
 cop-28.hedera.com
 dev.portal.hedera.com

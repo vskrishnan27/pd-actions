@@ -40,7 +40,6 @@ http://bridge-us-east-2.api.cx.metamask.io:8080
 http://bridge-us-east-2.api.cx.metamask.io:8443
 http://bridge-us-east-2.dev-api.cx.metamask.io
 http://bridge-us-east-2.dev-api.cx.metamask.io:8080
-http://bridge-us-east-2.dev-api.cx.metamask.io:8443
 http://bridge-us-east-2.uat-api.cx.metamask.io
 http://bridge-us-east-2.uat-api.cx.metamask.io:8080
 http://bridge-us-east-2.uat-api.cx.metamask.io:8443
@@ -52,6 +51,7 @@ http://bridge.dev-api.cx.metamask.io:8080
 http://bridge.dev-api.cx.metamask.io:8443
 http://bridge.uat-api.cx.metamask.io
 http://bridge.uat-api.cx.metamask.io:8080
+http://bridge.uat-api.cx.metamask.io:8443
 http://community.metamask.io
 http://dev-static.cx.metamask.io
 http://dev.data.snaps.metamask.io
@@ -189,6 +189,7 @@ http://price-us-east-2.dev-api.cx.metamask.io:8080
 http://price-us-east-2.dev-api.cx.metamask.io:8443
 http://price-us-east-2.uat-api.cx.metamask.io
 http://price-us-east-2.uat-api.cx.metamask.io:8080
+http://price-us-east-2.uat-api.cx.metamask.io:8443
 http://price.api.cx.metamask.io
 http://price.api.cx.metamask.io:8080
 http://price.api.cx.metamask.io:8443
@@ -200,7 +201,6 @@ http://price.uat-api.cx.metamask.io:8080
 http://price.uat-api.cx.metamask.io:8443
 http://primitives-us-east-2.api.cx.metamask.io
 http://primitives-us-east-2.api.cx.metamask.io:8080
-http://primitives-us-east-2.api.cx.metamask.io:8443
 http://primitives-us-east-2.dev-api.cx.metamask.io
 http://primitives-us-east-2.dev-api.cx.metamask.io:8080
 http://primitives-us-east-2.dev-api.cx.metamask.io:8443
@@ -235,6 +235,7 @@ http://proxy.uat-api.cx.metamask.io
 http://proxy.uat-api.cx.metamask.io:8080
 http://proxy.uat-api.cx.metamask.io:8443
 http://push-us-east-2.api.cx.metamask.io
+http://push-us-east-2.api.cx.metamask.io:443
 http://push-us-east-2.api.cx.metamask.io:8080
 http://push-us-east-2.api.cx.metamask.io:8443
 http://push-us-east-2.dev-api.cx.metamask.io
@@ -361,11 +362,11 @@ https://blog.metamask.io
 https://blog.metamask.io:8443
 https://bridge-us-east-2.api.cx.metamask.io
 https://bridge-us-east-2.dev-api.cx.metamask.io
+https://bridge-us-east-2.dev-api.cx.metamask.io:8443
 https://bridge-us-east-2.uat-api.cx.metamask.io
 https://bridge.api.cx.metamask.io
 https://bridge.dev-api.cx.metamask.io
 https://bridge.uat-api.cx.metamask.io
-https://bridge.uat-api.cx.metamask.io:8443
 https://community.metamask.io
 https://dev-static.cx.metamask.io
 https://dev.data.snaps.metamask.io
@@ -424,11 +425,11 @@ https://portfolio.uat-api.cx.metamask.io
 https://price-us-east-2.api.cx.metamask.io
 https://price-us-east-2.dev-api.cx.metamask.io
 https://price-us-east-2.uat-api.cx.metamask.io
-https://price-us-east-2.uat-api.cx.metamask.io:8443
 https://price.api.cx.metamask.io
 https://price.dev-api.cx.metamask.io
 https://price.uat-api.cx.metamask.io
 https://primitives-us-east-2.api.cx.metamask.io
+https://primitives-us-east-2.api.cx.metamask.io:8443
 https://primitives-us-east-2.dev-api.cx.metamask.io
 https://primitives-us-east-2.uat-api.cx.metamask.io
 https://primitives.api.cx.metamask.io
@@ -440,7 +441,6 @@ https://proxy-us-east-2.uat-api.cx.metamask.io
 https://proxy.api.cx.metamask.io
 https://proxy.dev-api.cx.metamask.io
 https://proxy.uat-api.cx.metamask.io
-https://push-us-east-2.api.cx.metamask.io
 https://push-us-east-2.dev-api.cx.metamask.io
 https://push-us-east-2.uat-api.cx.metamask.io
 https://push.api.cx.metamask.io

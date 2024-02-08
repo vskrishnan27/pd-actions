@@ -64,6 +64,7 @@ http://inspector-dev1.chime.com:8080
 http://inspector-dev1.chime.com:8443
 http://inspector-qa.chime.com
 http://inspector-qa.chime.com:8080
+http://inspector-qa.chime.com:8443
 http://inspector.chime.com
 http://inspector.chime.com:8080
 http://inspector.chime.com:8443
@@ -82,7 +83,6 @@ http://locations.chime.com:8080
 http://locations.chime.com:8443
 http://member-dev1.chime.com
 http://member-dev1.chime.com:8080
-http://member-dev1.chime.com:8443
 http://member-qa.chime.com
 http://member-qa.chime.com:8080
 http://member-qa.chime.com:8443
@@ -92,7 +92,6 @@ http://member.chime.com:8443
 http://mobile-state.chime.com
 http://monocle-dev1.chime.com
 http://monocle-dev1.chime.com:8080
-http://monocle-dev1.chime.com:8443
 http://monocle-qa.chime.com
 http://monocle-qa.chime.com:8080
 http://monocle-qa.chime.com:8443
@@ -107,7 +106,6 @@ http://penny-qa.chime.com:8080
 http://penny-qa.chime.com:8443
 http://penny.chime.com
 http://penny.chime.com:8080
-http://penny.chime.com:8443
 http://public-assets-dev1.chime.com
 http://public-assets-dev1.chime.com:8080
 http://public-assets-dev1.chime.com:8443
@@ -169,7 +167,6 @@ https://help-test.chime.com
 https://help.chime.com
 https://inspector-dev1.chime.com
 https://inspector-qa.chime.com
-https://inspector-qa.chime.com:8443
 https://inspector.chime.com
 https://interchange.chime.com
 https://links.account.chime.com
@@ -177,16 +174,19 @@ https://links.notify.chime.com
 https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
+https://member-dev1.chime.com:8443
 https://member-qa.chime.com
 https://member.chime.com
 https://mobile-state.chime.com
 https://monocle-dev1.chime.com
+https://monocle-dev1.chime.com:8443
 https://monocle-qa.chime.com
 https://monocle.chime.com
 https://nd.chime.com
 https://penny-dev1.chime.com
 https://penny-qa.chime.com
 https://penny.chime.com
+https://penny.chime.com:8443
 https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
 https://public-assets.chime.com

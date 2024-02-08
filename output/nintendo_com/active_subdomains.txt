@@ -370,6 +370,7 @@ lgs-test2.nintendo.com
 lgs-test3.nintendo.com
 lgs-test4.nintendo.com
 lgs-test5.nintendo.com
+lgs-test6.nintendo.com
 lgs-uat1.nintendo.com
 lgs-uat2.nintendo.com
 longarm-admin-dev.noa.nintendo.com

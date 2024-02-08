@@ -38,10 +38,6 @@ data.chain.link:443
 data.chain.link:80
 data.chain.link:8080
 data.chain.link:8443
-dataengine.chain.link:443
-dataengine.chain.link:80
-dataengine.chain.link:8080
-dataengine.chain.link:8443
 defi.chain.link:443
 defi.chain.link:80
 defi.chain.link:8080
@@ -135,6 +131,10 @@ mercury-srv.chain.link:443
 mercury-srv.chain.link:80
 mercury-srv.chain.link:8080
 mercury-srv.chain.link:8443
+on.chain.link:443
+on.chain.link:80
+on.chain.link:8080
+on.chain.link:8443
 pages.chain.link:443
 pages.chain.link:80
 pages.chain.link:8080

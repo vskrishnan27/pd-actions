@@ -21,9 +21,13 @@ confirmar.hostinger.com
 connect.hostinger.com
 convalida.hostinger.com
 cpanel.hostinger.com
+d.account.hostinger.com
+d.email.hostinger.com
 design.hostinger.com
 dogrula.hostinger.com
 domains.hostinger.com
+e.account.hostinger.com
+e.email.hostinger.com
 epikurwsi.hostinger.com
 file-manager.hostinger.com
 filemanager.hostinger.com
@@ -63,6 +67,8 @@ rdns2.hostinger.com
 rest-hosting.hostinger.com
 roadmap.hostinger.com
 sahkan.hostinger.com
+se.account.hostinger.com
+se.email.hostinger.com
 sg-files.hostinger.com
 smtp-msa.hostinger.com
 smtp.hostinger.com

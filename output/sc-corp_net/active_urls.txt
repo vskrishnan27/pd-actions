@@ -65,7 +65,6 @@ http://email-scheduler-prod.sc-corp.net
 http://expresso.sc-corp.net
 http://facet-staging.sc-corp.net
 http://facet.sc-corp.net
-http://fleetdm-proxy.sc-corp.net:443
 http://fleetdm.sc-corp.net
 http://flowrida-ad-insights.sc-corp.net
 http://flowrida-ad-ranking.sc-corp.net
@@ -95,7 +94,6 @@ http://jira-mx-dev.sc-corp.net
 http://jira-mx.sc-corp.net
 http://jira-stage-api.sc-corp.net
 http://jira-stage.sc-corp.net
-http://jira.sc-corp.net
 http://key-master-prod.sc-corp.net
 http://key-master-stage.sc-corp.net
 http://lease.sc-corp.net
@@ -141,6 +139,7 @@ http://neo4j-prod.sc-corp.net
 http://neo4j-staging.sc-corp.net
 http://neo4j.sc-corp.net
 http://okr.sc-corp.net
+http://okta-preview.sc-corp.net
 http://olympus-staging.secproxy.sc-corp.net
 http://orca.sc-corp.net
 http://perf.sc-corp.net
@@ -323,7 +322,6 @@ https://jira-mx-dev.sc-corp.net
 https://jira-mx.sc-corp.net
 https://jira-stage-api.sc-corp.net
 https://jira-stage.sc-corp.net
-https://jira.sc-corp.net
 https://key-master-prod.sc-corp.net
 https://key-master-stage.sc-corp.net
 https://lease.sc-corp.net
@@ -372,6 +370,7 @@ https://neo4j-prod.sc-corp.net
 https://neo4j-staging.sc-corp.net
 https://neo4j.sc-corp.net
 https://okr.sc-corp.net
+https://okta-preview.sc-corp.net
 https://olympus-staging.secproxy.sc-corp.net
 https://orca.sc-corp.net
 https://perf.sc-corp.net

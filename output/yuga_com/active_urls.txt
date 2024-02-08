@@ -4,7 +4,6 @@ http://legal.yuga.com
 http://legal.yuga.com:8080
 http://madeby.yuga.com
 http://madeby.yuga.com:8080
-http://madeby.yuga.com:8443
 http://news.yuga.com
 http://news.yuga.com:8080
 http://privacy.yuga.com
@@ -25,6 +24,7 @@ https://assets.yuga.com:8443
 https://legal.yuga.com
 https://legal.yuga.com:8443
 https://madeby.yuga.com
+https://madeby.yuga.com:8443
 https://news.yuga.com
 https://news.yuga.com:8443
 https://privacy.yuga.com

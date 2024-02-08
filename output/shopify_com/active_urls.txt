@@ -156,6 +156,8 @@ http://changelog.shopify.com
 http://changelog.shopify.com:8080
 http://chat.shopify.com
 http://chat.shopify.com:8080
+http://checkout.hardware.shopify.com
+http://checkout.hardware.shopify.com:8080
 http://checkout.shopify.com
 http://checkout.shopify.com:8080
 http://chi.shopify.com
@@ -390,6 +392,8 @@ http://ie.checkout.hardware.shopify.com
 http://ie.checkout.hardware.shopify.com:8080
 http://ihatewhatever.shopify.com
 http://ihatewhatever.shopify.com:8080
+http://in.shopify.com
+http://in.shopify.com:8080
 http://inbox.shopify.com
 http://inbox.shopify.com:8080
 http://incoming.shopify.com
@@ -912,8 +916,6 @@ http://win.shopify.com
 http://win.shopify.com:8080
 http://windsor.shopify.com
 http://windsor.shopify.com:8080
-http://ww.shopify.com
-http://ww.shopify.com:8080
 http://www.act.shopify.com
 http://www.act.shopify.com:8080
 http://www.badeaux.shopify.com
@@ -1086,6 +1088,8 @@ https://changelog.shopify.com
 https://changelog.shopify.com:8443
 https://chat.shopify.com
 https://chat.shopify.com:8443
+https://checkout.hardware.shopify.com
+https://checkout.hardware.shopify.com:8443
 https://checkout.shopify.com
 https://checkout.shopify.com:8443
 https://chi.shopify.com
@@ -1323,6 +1327,8 @@ https://ie.checkout.hardware.shopify.com
 https://ie.checkout.hardware.shopify.com:8443
 https://ihatewhatever.shopify.com
 https://ihatewhatever.shopify.com:8443
+https://in.shopify.com
+https://in.shopify.com:8443
 https://inbox.shopify.com
 https://inbox.shopify.com:8443
 https://incoming.shopify.com
@@ -1846,8 +1852,6 @@ https://win.shopify.com
 https://win.shopify.com:8443
 https://windsor.shopify.com
 https://windsor.shopify.com:8443
-https://ww.shopify.com
-https://ww.shopify.com:8443
 https://www.act.shopify.com
 https://www.act.shopify.com:8443
 https://www.badeaux.shopify.com

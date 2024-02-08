@@ -313,6 +313,10 @@ chat.shopify.com:443
 chat.shopify.com:80
 chat.shopify.com:8080
 chat.shopify.com:8443
+checkout.hardware.shopify.com:443
+checkout.hardware.shopify.com:80
+checkout.hardware.shopify.com:8080
+checkout.hardware.shopify.com:8443
 checkout.shopify.com:443
 checkout.shopify.com:80
 checkout.shopify.com:8080
@@ -787,6 +791,10 @@ ihatewhatever.shopify.com:443
 ihatewhatever.shopify.com:80
 ihatewhatever.shopify.com:8080
 ihatewhatever.shopify.com:8443
+in.shopify.com:443
+in.shopify.com:80
+in.shopify.com:8080
+in.shopify.com:8443
 inbox.shopify.com:443
 inbox.shopify.com:80
 inbox.shopify.com:8080
@@ -1834,10 +1842,6 @@ windsor.shopify.com:443
 windsor.shopify.com:80
 windsor.shopify.com:8080
 windsor.shopify.com:8443
-ww.shopify.com:443
-ww.shopify.com:80
-ww.shopify.com:8080
-ww.shopify.com:8443
 www.act.shopify.com:443
 www.act.shopify.com:80
 www.act.shopify.com:8080

@@ -366,10 +366,6 @@ rpc.bigbang.cosmos.network:443
 rpc.bigbang.cosmos.network:80
 rpc.bigbang.cosmos.network:8080
 rpc.bigbang.cosmos.network:8443
-rpc.cosmos.network:443
-rpc.cosmos.network:80
-rpc.cosmos.network:8080
-rpc.cosmos.network:8443
 rpc.irisnet.cosmos.network:443
 rpc.irisnet.cosmos.network:80
 rpc.irisnet.cosmos.network:8080
@@ -396,10 +392,6 @@ shop.cosmos.network:8080
 shop.cosmos.network:8443
 signups.cosmos.network:443
 signups.cosmos.network:80
-simulations.cosmos.network:443
-simulations.cosmos.network:80
-simulations.cosmos.network:8080
-simulations.cosmos.network:8443
 slack.cosmos.network:443
 slack.cosmos.network:80
 slack.cosmos.network:8080
@@ -418,6 +410,10 @@ test-api.bigbang.cosmos.network:443
 test-api.bigbang.cosmos.network:80
 test-api.bigbang.cosmos.network:8080
 test-api.bigbang.cosmos.network:8443
+testnet.cosmos.network:443
+testnet.cosmos.network:80
+testnet.cosmos.network:8080
+testnet.cosmos.network:8443
 torus.cosmos.network:443
 torus.cosmos.network:80
 torus.cosmos.network:8080

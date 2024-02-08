@@ -35,6 +35,7 @@ http://cpanel.hostinger.com:8443
 http://design.hostinger.com
 http://dogrula.hostinger.com
 http://domains.hostinger.com
+http://domains.hostinger.com:8443
 http://epikurwsi.hostinger.com
 http://file-manager.hostinger.com
 http://file-manager.hostinger.com:443
@@ -143,7 +144,6 @@ https://cpanel.hostinger.com
 https://design.hostinger.com
 https://dogrula.hostinger.com
 https://domains.hostinger.com
-https://domains.hostinger.com:8443
 https://epikurwsi.hostinger.com
 https://flockcalendar.hostinger.com
 https://flockcontacts.hostinger.com

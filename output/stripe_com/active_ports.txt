@@ -18,8 +18,6 @@ auth.stripe.com:443
 auth.stripe.com:80
 barclays-hooks.stripe.com:443
 barclays-hooks.stripe.com:80
-billing.stripe.com:443
-billing.stripe.com:80
 blik-hooks.stripe.com:443
 blik-hooks.stripe.com:80
 blog.stripe.com:443
@@ -191,7 +189,6 @@ jss.prod.corp.stripe.com:443
 jss.qa.corp.stripe.com:443
 lists.stripe.com:443
 lists.stripe.com:80
-local.corp.stripe.com:443
 lokalise-hooks.stripe.com:443
 lokalise-hooks.stripe.com:80
 m.stripe.com:443
@@ -239,6 +236,8 @@ prod-webhooks-flow.stripe.com:443
 prod-webhooks-flow.stripe.com:80
 products.stripe.com:443
 products.stripe.com:80
+public.stripe.com:443
+public.stripe.com:80
 q.stripe.com:443
 q.stripe.com:80
 qa-api-global-bluegreen.stripe.com:443

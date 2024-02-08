@@ -5,10 +5,8 @@ http://answers.stripe.com
 http://api-83wzadmhqo.stripe.com
 http://api.stripe.com
 http://armada.stripe.com
-http://atlas.stripe.com
 http://auth.stripe.com
 http://barclays-hooks.stripe.com
-http://billing.stripe.com
 http://blik-hooks.stripe.com
 http://blog.stripe.com
 http://bom.corp.stripe.com:443
@@ -44,9 +42,9 @@ http://edge-billing.stripe.com
 http://edge-book.stripe.com
 http://edge-buy.stripe.com
 http://edge-checkout-tree.stripe.com
+http://edge-checkout-tree.stripe.com:443
 http://edge-checkout.stripe.com
 http://edge-dashboard-admin.stripe.com
-http://edge-dashboard.stripe.com
 http://edge-donate.stripe.com
 http://edge-invoice.stripe.com
 http://edge-js-tree.stripe.com
@@ -97,7 +95,6 @@ http://jira.corp.stripe.com:443
 http://js.stripe.com
 http://jss.prod.corp.stripe.com:443
 http://lists.stripe.com
-http://local.corp.stripe.com:443
 http://lokalise-hooks.stripe.com
 http://mail.stripe.com
 http://manage.stripe.com
@@ -125,6 +122,7 @@ http://prod-frontend-flow.stripe.com
 http://prod-js-tree.stripe.com
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
+http://public.stripe.com
 http://q.stripe.com
 http://qa-api-global-bluegreen.stripe.com
 http://qa-api.stripe.com
@@ -175,7 +173,6 @@ https://armada.stripe.com
 https://atlas.stripe.com
 https://auth.stripe.com
 https://barclays-hooks.stripe.com
-https://billing.stripe.com
 https://blik-hooks.stripe.com
 https://blog.stripe.com
 https://book.stripe.com
@@ -204,7 +201,6 @@ https://donate.stripe.com
 https://edge-billing.stripe.com
 https://edge-book.stripe.com
 https://edge-buy.stripe.com
-https://edge-checkout-tree.stripe.com
 https://edge-checkout.stripe.com
 https://edge-dashboard-admin.stripe.com
 https://edge-dashboard.stripe.com
@@ -274,15 +270,14 @@ https://preprod-crypto-js.stripe.com
 https://press.stripe.com
 https://prod-files-flow.stripe.com
 https://prod-frontend-flow.stripe.com
-https://prod-js-tree.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
+https://public.stripe.com
 https://q.stripe.com
 https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com
 https://qa-connect-js.stripe.com
 https://qa-crypto-js.stripe.com
-https://qa-ipaddr-3ds.stripe.com
 https://qa-status.stripe.com
 https://qa-support-conversations.stripe.com
 https://qr.stripe.com

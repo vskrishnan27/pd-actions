@@ -20,10 +20,6 @@ cn.research.bitmex.com:443
 cn.research.bitmex.com:80
 devhk-static.bitmex.com:443
 devhk-static.bitmex.com:80
-devhk.bitmex.com:443
-devhk.bitmex.com:80
-devhk.bitmex.com:8080
-devhk.bitmex.com:8443
 documents.bitmex.com:443
 documents.bitmex.com:80
 documents.bitmex.com:8080
@@ -78,6 +74,10 @@ onfido.devsf3.bitmex.com:443
 onfido.devsf3.bitmex.com:80
 onfido.devsf3.bitmex.com:8080
 onfido.devsf3.bitmex.com:8443
+onfido.testnet.bitmex.com:443
+onfido.testnet.bitmex.com:80
+onfido.testnet.bitmex.com:8080
+onfido.testnet.bitmex.com:8443
 podcasts.academy.bitmex.com:443
 podcasts.academy.bitmex.com:80
 podcasts.academy.bitmex.com:8080

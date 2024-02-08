@@ -103,6 +103,7 @@ start.metamask.io
 static.cx.metamask.io
 support.metamask.io
 swag.metamask.io
+tickets.metamask.io
 token-us-east-2.api.cx.metamask.io
 token-us-east-2.dev-api.cx.metamask.io
 token-us-east-2.uat-api.cx.metamask.io

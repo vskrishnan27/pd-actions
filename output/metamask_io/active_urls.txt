@@ -6,6 +6,7 @@ http://account.api.cx.metamask.io:8080
 http://account.api.cx.metamask.io:8443
 http://account.dev-api.cx.metamask.io
 http://account.dev-api.cx.metamask.io:8080
+http://account.dev-api.cx.metamask.io:8443
 http://account.uat-api.cx.metamask.io
 http://account.uat-api.cx.metamask.io:8080
 http://account.uat-api.cx.metamask.io:8443
@@ -51,7 +52,6 @@ http://bridge.dev-api.cx.metamask.io:8080
 http://bridge.dev-api.cx.metamask.io:8443
 http://bridge.uat-api.cx.metamask.io
 http://bridge.uat-api.cx.metamask.io:8080
-http://bridge.uat-api.cx.metamask.io:8443
 http://community.metamask.io
 http://dev-static.cx.metamask.io
 http://dev.data.snaps.metamask.io
@@ -180,6 +180,7 @@ http://portfolio.dev-api.cx.metamask.io:8443
 http://portfolio.metamask.io
 http://portfolio.uat-api.cx.metamask.io
 http://portfolio.uat-api.cx.metamask.io:8080
+http://portfolio.uat-api.cx.metamask.io:8443
 http://price-us-east-2.api.cx.metamask.io
 http://price-us-east-2.api.cx.metamask.io:8080
 http://price-us-east-2.api.cx.metamask.io:8443
@@ -188,7 +189,6 @@ http://price-us-east-2.dev-api.cx.metamask.io:8080
 http://price-us-east-2.dev-api.cx.metamask.io:8443
 http://price-us-east-2.uat-api.cx.metamask.io
 http://price-us-east-2.uat-api.cx.metamask.io:8080
-http://price-us-east-2.uat-api.cx.metamask.io:8443
 http://price.api.cx.metamask.io
 http://price.api.cx.metamask.io:8080
 http://price.api.cx.metamask.io:8443
@@ -261,6 +261,7 @@ http://support.metamask.io:8080
 http://support.metamask.io:8443
 http://swag.metamask.io
 http://swag.metamask.io:8080
+http://tickets.metamask.io
 http://token-us-east-2.api.cx.metamask.io
 http://token-us-east-2.api.cx.metamask.io:8080
 http://token-us-east-2.api.cx.metamask.io:8443
@@ -346,7 +347,6 @@ http://www.uat-static.cx.metamask.io
 https://account-us-east-2.dev-api.cx.metamask.io
 https://account.api.cx.metamask.io
 https://account.dev-api.cx.metamask.io
-https://account.dev-api.cx.metamask.io:8443
 https://account.uat-api.cx.metamask.io
 https://activity.metamask.io
 https://authentication-us-east-2.api.cx.metamask.io
@@ -365,6 +365,7 @@ https://bridge-us-east-2.uat-api.cx.metamask.io
 https://bridge.api.cx.metamask.io
 https://bridge.dev-api.cx.metamask.io
 https://bridge.uat-api.cx.metamask.io
+https://bridge.uat-api.cx.metamask.io:8443
 https://community.metamask.io
 https://dev-static.cx.metamask.io
 https://dev.data.snaps.metamask.io
@@ -420,10 +421,10 @@ https://portfolio.api.cx.metamask.io
 https://portfolio.dev-api.cx.metamask.io
 https://portfolio.metamask.io
 https://portfolio.uat-api.cx.metamask.io
-https://portfolio.uat-api.cx.metamask.io:8443
 https://price-us-east-2.api.cx.metamask.io
 https://price-us-east-2.dev-api.cx.metamask.io
 https://price-us-east-2.uat-api.cx.metamask.io
+https://price-us-east-2.uat-api.cx.metamask.io:8443
 https://price.api.cx.metamask.io
 https://price.dev-api.cx.metamask.io
 https://price.uat-api.cx.metamask.io
@@ -452,6 +453,7 @@ https://static.cx.metamask.io
 https://support.metamask.io
 https://swag.metamask.io
 https://swag.metamask.io:8443
+https://tickets.metamask.io
 https://token-us-east-2.api.cx.metamask.io
 https://token-us-east-2.dev-api.cx.metamask.io
 https://token-us-east-2.uat-api.cx.metamask.io

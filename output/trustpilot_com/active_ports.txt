@@ -199,6 +199,8 @@ marketing-reviewrender.b2b.trustpilot.com:443
 marketing-reviewrender.b2b.trustpilot.com:80
 marketing.trustpilot.com:443
 marketing.trustpilot.com:80
+marketing.trustpilot.com:8080
+marketing.trustpilot.com:8443
 mobile-api.trustpilot.com:443
 mobile-api.trustpilot.com:80
 mycareer.trustpilot.com:443
@@ -290,12 +292,16 @@ tech.trustpilot.com:443
 tech.trustpilot.com:80
 trustnet.trustpilot.com:443
 trustnet.trustpilot.com:80
+trustpilot.com:443
+trustpilot.com:80
 uk.business.trustpilot.com:443
 uk.business.trustpilot.com:80
 uk.legal.trustpilot.com:443
 uk.legal.trustpilot.com:80
 uk.trustpilot.com:443
 uk.trustpilot.com:80
+us.business.trustpilot.com:443
+us.business.trustpilot.com:80
 user-images.trustpilot.com:443
 user-images.trustpilot.com:80
 widget.trustpilot.com:443

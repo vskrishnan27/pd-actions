@@ -103,6 +103,7 @@ http://mail-mailchimpfeed.business-preview.trustpilot.com:443
 http://marketing-assets.trustpilot.com
 http://marketing-reviewrender.b2b.trustpilot.com
 http://marketing.trustpilot.com
+http://marketing.trustpilot.com:8080
 http://mobile-api.trustpilot.com
 http://mycareer.trustpilot.com
 http://news-intuit.business-preview.trustpilot.com
@@ -149,9 +150,11 @@ http://support.trustpilot.com:8080
 http://support.trustpilot.com:8443
 http://tech.trustpilot.com
 http://trustnet.trustpilot.com
+http://trustpilot.com
 http://uk.business.trustpilot.com
 http://uk.legal.trustpilot.com
 http://uk.trustpilot.com
+http://us.business.trustpilot.com
 http://user-images.trustpilot.com
 http://widget.trustpilot.com
 http://wildcard-configurablehttpredirector.trustpilot.com
@@ -256,6 +259,7 @@ https://looker.trustpilot.com
 https://marketing-assets.trustpilot.com
 https://marketing-reviewrender.b2b.trustpilot.com
 https://marketing.trustpilot.com
+https://marketing.trustpilot.com:8443
 https://mobile-api.trustpilot.com
 https://mycareer.trustpilot.com
 https://nl-be.business.trustpilot.com
@@ -301,9 +305,11 @@ https://status.trustpilot.com
 https://support.trustpilot.com
 https://tech.trustpilot.com
 https://trustnet.trustpilot.com
+https://trustpilot.com
 https://uk.business.trustpilot.com
 https://uk.legal.trustpilot.com
 https://uk.trustpilot.com
+https://us.business.trustpilot.com
 https://user-images.trustpilot.com
 https://widget.trustpilot.com
 https://wildcard-configurablehttpredirector.trustpilot.com

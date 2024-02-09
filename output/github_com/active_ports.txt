@@ -16,10 +16,14 @@ andrew-ironforge.github.com:443
 andrew-ironforge.github.com:80
 androxyde.github.com:443
 androxyde.github.com:80
+api.gist.github.com:443
+api.gist.github.com:80
 api.github.com:443
 api.github.com:80
 api.security.github.com:443
 api.security.github.com:80
+api.stars.github.com:443
+api.stars.github.com:80
 artblaster.github.com:443
 artblaster.github.com:80
 ask.github.com:443
@@ -470,6 +474,8 @@ res.communication.github.com:443
 res.communication.github.com:80
 resources.github.com:443
 resources.github.com:80
+review-lab.github.com:443
+review-lab.github.com:80
 rjhansen.github.com:443
 rjhansen.github.com:80
 robey.github.com:443
@@ -493,6 +499,7 @@ skyline.github.com:443
 skyline.github.com:80
 slack.github.com:443
 slack.github.com:80
+smtp.github.com:25
 ssh.github.com:22
 ssh.github.com:443
 ssh.github.com:80
@@ -538,10 +545,12 @@ web6014.github.com:443
 web6014.github.com:80
 workspaces-ppe.github.com:443
 workspaces-ppe.github.com:80
-workspaces.github.com:443
-workspaces.github.com:80
 ws.support.github.com:443
 ws.support.github.com:80
+www.api.security.github.com:443
+www.api.security.github.com:80
+www.api.stars.github.com:443
+www.api.stars.github.com:80
 www.github.com:22
 www.github.com:443
 www.github.com:80
@@ -551,6 +560,8 @@ www.graphql.github.com:443
 www.graphql.github.com:80
 www.jira.github.com:443
 www.jira.github.com:80
+www.maintainers.github.com:443
+www.maintainers.github.com:80
 www.networkx.github.com:443
 www.networkx.github.com:80
 www.partnerportal.github.com:443

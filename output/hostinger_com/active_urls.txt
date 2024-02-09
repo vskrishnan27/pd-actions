@@ -26,7 +26,6 @@ http://builder.hostinger.com:8443
 http://cart.hostinger.com
 http://cart.hostinger.com:8443
 http://cdn.hostinger.com
-http://cdn.hostinger.com:8443
 http://confirmar.hostinger.com
 http://connect.hostinger.com
 http://convalida.hostinger.com
@@ -88,7 +87,6 @@ http://sso.hostinger.com
 http://sso.hostinger.com:8443
 http://statuspage.hostinger.com
 http://statuspage.hostinger.com:8080
-http://statuspage.hostinger.com:8443
 http://support.hostinger.com
 http://support.hostinger.com:8080
 http://support.hostinger.com:8443
@@ -155,6 +153,7 @@ https://bekraeft.hostinger.com
 https://builder.hostinger.com
 https://cart.hostinger.com
 https://cdn.hostinger.com
+https://cdn.hostinger.com:8443
 https://confirmar.hostinger.com
 https://connect.hostinger.com
 https://convalida.hostinger.com
@@ -192,6 +191,7 @@ https://se.email.hostinger.com
 https://sql111.hostinger.com:8443
 https://sso.hostinger.com
 https://statuspage.hostinger.com
+https://statuspage.hostinger.com:8443
 https://support.hostinger.com
 https://titancalendar.hostinger.com
 https://titancontacts.hostinger.com

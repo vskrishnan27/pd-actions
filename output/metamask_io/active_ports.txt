@@ -134,6 +134,8 @@ gas.uat-api.cx.metamask.io:8080
 gas.uat-api.cx.metamask.io:8443
 get.metamask.io:443
 get.metamask.io:80
+get.metamask.io:8080
+get.metamask.io:8443
 home.metamask.io:443
 home.metamask.io:80
 labels-us-east-2.dev-api.cx.metamask.io:443

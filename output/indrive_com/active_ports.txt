@@ -129,5 +129,3 @@ www.updrive.indrive.com:443
 www.updrive.indrive.com:80
 www.yourpace.indrive.com:443
 www.yourpace.indrive.com:80
-yourpace.indrive.com:443
-yourpace.indrive.com:80

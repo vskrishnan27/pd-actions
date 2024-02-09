@@ -6,6 +6,7 @@ http://16002407.notify.chime.com:8080
 http://16002407.notify.chime.com:8443
 http://app.chime.com
 http://app.chime.com:8080
+http://app.chime.com:8443
 http://attachments.chime.com
 http://attachments.chime.com:8080
 http://attachments.chime.com:8443
@@ -47,7 +48,6 @@ http://flashpaper-dev1.chime.com:8080
 http://flashpaper-dev1.chime.com:8443
 http://flashpaper-qa.chime.com
 http://flashpaper-qa.chime.com:8080
-http://flashpaper-qa.chime.com:8443
 http://flashpaper.chime.com
 http://flashpaper.chime.com:8080
 http://flashpaper.chime.com:8443
@@ -63,6 +63,7 @@ http://inspector-dev1.chime.com:8080
 http://inspector-dev1.chime.com:8443
 http://inspector-qa.chime.com
 http://inspector-qa.chime.com:8080
+http://inspector-qa.chime.com:8443
 http://inspector.chime.com
 http://inspector.chime.com:8080
 http://inspector.chime.com:8443
@@ -87,7 +88,6 @@ http://member-qa.chime.com:8080
 http://member-qa.chime.com:8443
 http://member.chime.com
 http://member.chime.com:8080
-http://member.chime.com:8443
 http://mobile-state.chime.com
 http://monocle-dev1.chime.com
 http://monocle-dev1.chime.com:8080
@@ -138,7 +138,6 @@ http://www.chime.com
 https://16002407.account.chime.com
 https://16002407.notify.chime.com
 https://app.chime.com
-https://app.chime.com:8443
 https://attachments.chime.com
 https://autobots-dev1.chime.com
 https://autobots-qa.chime.com
@@ -163,13 +162,13 @@ https://enterpriseregistration.chime.com
 https://error-pages.chime.com
 https://flashpaper-dev1.chime.com
 https://flashpaper-qa.chime.com
+https://flashpaper-qa.chime.com:8443
 https://flashpaper.chime.com
 https://handbooks.chime.com
 https://help-test.chime.com
 https://help.chime.com
 https://inspector-dev1.chime.com
 https://inspector-qa.chime.com
-https://inspector-qa.chime.com:8443
 https://inspector.chime.com
 https://interchange.chime.com
 https://links.account.chime.com
@@ -179,6 +178,7 @@ https://locations.chime.com
 https://member-dev1.chime.com
 https://member-qa.chime.com
 https://member.chime.com
+https://member.chime.com:8443
 https://mobile-state.chime.com
 https://monocle-dev1.chime.com
 https://monocle-qa.chime.com

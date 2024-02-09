@@ -257,8 +257,6 @@ http://devs.shopify.com
 http://devs.shopify.com:8080
 http://dk.shopify.com
 http://dk.shopify.com:8080
-http://dn.shopify.com
-http://dn.shopify.com:8080
 http://dns.ash.shopify.com
 http://dns.ash.shopify.com:8080
 http://docs.shopify.com
@@ -513,8 +511,6 @@ http://milestones.shopify.com
 http://milestones.shopify.com:8080
 http://mobile.shopify.com
 http://mobile.shopify.com:8080
-http://mta2.email.shopify.com
-http://mta2.email.shopify.com:8080
 http://mta3.email.shopify.com
 http://mta3.email.shopify.com:8080
 http://mta4.email.shopify.com
@@ -562,6 +558,8 @@ http://partner.shopify.com
 http://partner.shopify.com:8080
 http://partnerhub-japan.shopify.com
 http://partnerhub.shopify.com
+http://partners.shopify.com
+http://partners.shopify.com:8080
 http://pauchendelicacies.shopify.com
 http://pauchendelicacies.shopify.com:8080
 http://pay.shopify.com
@@ -880,8 +878,6 @@ http://vaultapp1.ec2.shopify.com
 http://vaultapp1.ec2.shopify.com:8080
 http://videomaker.shopify.com
 http://videomaker.shopify.com:8080
-http://view.email.shopify.com
-http://view.email.shopify.com:8080
 http://vision.shopify.com
 http://vision.shopify.com:8080
 http://wc.shopify.com
@@ -1181,8 +1177,6 @@ https://devs.shopify.com
 https://devs.shopify.com:8443
 https://dk.shopify.com
 https://dk.shopify.com:8443
-https://dn.shopify.com
-https://dn.shopify.com:8443
 https://dns.ash.shopify.com
 https://dns.ash.shopify.com:8443
 https://docs.shopify.com
@@ -1440,8 +1434,6 @@ https://milestones.shopify.com
 https://milestones.shopify.com:8443
 https://mobile.shopify.com
 https://mobile.shopify.com:8443
-https://mta2.email.shopify.com
-https://mta2.email.shopify.com:8443
 https://mta3.email.shopify.com
 https://mta3.email.shopify.com:8443
 https://mta4.email.shopify.com
@@ -1489,6 +1481,8 @@ https://partner.shopify.com
 https://partner.shopify.com:8443
 https://partnerhub-japan.shopify.com
 https://partnerhub.shopify.com
+https://partners.shopify.com
+https://partners.shopify.com:8443
 https://pauchendelicacies.shopify.com
 https://pauchendelicacies.shopify.com:8443
 https://pay.shopify.com
@@ -1808,8 +1802,6 @@ https://vaultapp1.ec2.shopify.com
 https://vaultapp1.ec2.shopify.com:8443
 https://videomaker.shopify.com
 https://videomaker.shopify.com:8443
-https://view.email.shopify.com
-https://view.email.shopify.com:8443
 https://vision.shopify.com
 https://vision.shopify.com:8443
 https://wc.shopify.com

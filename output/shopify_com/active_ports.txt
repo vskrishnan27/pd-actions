@@ -515,10 +515,6 @@ dk.shopify.com:443
 dk.shopify.com:80
 dk.shopify.com:8080
 dk.shopify.com:8443
-dn.shopify.com:443
-dn.shopify.com:80
-dn.shopify.com:8080
-dn.shopify.com:8443
 dns.ash.shopify.com:443
 dns.ash.shopify.com:80
 dns.ash.shopify.com:8080
@@ -1033,10 +1029,6 @@ mobile.shopify.com:443
 mobile.shopify.com:80
 mobile.shopify.com:8080
 mobile.shopify.com:8443
-mta2.email.shopify.com:443
-mta2.email.shopify.com:80
-mta2.email.shopify.com:8080
-mta2.email.shopify.com:8443
 mta3.email.shopify.com:443
 mta3.email.shopify.com:80
 mta3.email.shopify.com:8080
@@ -1132,6 +1124,10 @@ partnerhub-japan.shopify.com:443
 partnerhub-japan.shopify.com:80
 partnerhub.shopify.com:443
 partnerhub.shopify.com:80
+partners.shopify.com:443
+partners.shopify.com:80
+partners.shopify.com:8080
+partners.shopify.com:8443
 pauchendelicacies.shopify.com:443
 pauchendelicacies.shopify.com:80
 pauchendelicacies.shopify.com:8080
@@ -1770,10 +1766,6 @@ videomaker.shopify.com:443
 videomaker.shopify.com:80
 videomaker.shopify.com:8080
 videomaker.shopify.com:8443
-view.email.shopify.com:443
-view.email.shopify.com:80
-view.email.shopify.com:8080
-view.email.shopify.com:8443
 vision.shopify.com:443
 vision.shopify.com:80
 vision.shopify.com:8080

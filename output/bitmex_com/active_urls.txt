@@ -43,6 +43,7 @@ http://podcasts.academy.bitmex.com:8080
 http://public-testnet.bitmex.com
 http://public.bitmex.com
 http://refer.bitmex.com
+http://refer.bitmex.com:8443
 http://research.bitmex.com
 http://static.bitmex.com
 http://status.bitmex.com
@@ -78,12 +79,13 @@ http://web-ws.devhk.bitmex.com
 http://web-ws.devhk.bitmex.com:8080
 http://web-ws.testnet.bitmex.com
 http://web-ws.testnet.bitmex.com:8443
+http://ws.bitmex.com
+http://ws.bitmex.com:8080
 http://ws.devhk.bitmex.com
 http://ws.devhk.bitmex.com:8080
 http://ws.testnet.bitmex.com
 http://ws.testnet.bitmex.com:8080
 http://www.bitmex.com
-http://www.bitmex.com:8443
 https://academy.bitmex.com
 https://academy.bitmex.com:8443
 https://affiliates.bitmex.com
@@ -132,7 +134,6 @@ https://podcasts.academy.bitmex.com:8443
 https://public-testnet.bitmex.com
 https://public.bitmex.com
 https://refer.bitmex.com
-https://refer.bitmex.com:8443
 https://research.bitmex.com
 https://securemail.bitmex.com
 https://securemail.bitmex.com:10000
@@ -165,8 +166,11 @@ https://web-ws.bitmex.com
 https://web-ws.devhk.bitmex.com
 https://web-ws.devhk.bitmex.com:8443
 https://web-ws.testnet.bitmex.com
+https://ws.bitmex.com
+https://ws.bitmex.com:8443
 https://ws.devhk.bitmex.com
 https://ws.devhk.bitmex.com:8443
 https://ws.testnet.bitmex.com
 https://ws.testnet.bitmex.com:8443
 https://www.bitmex.com
+https://www.bitmex.com:8443

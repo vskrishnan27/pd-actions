@@ -10,6 +10,8 @@ api.dev.magic.link
 api.dev.magic.link
 api.dev.magic.link
 api.dev.magic.link
+api.dev.magic.link
+api.magic.link
 api.magic.link
 api.magic.link
 api.magic.link
@@ -38,6 +40,8 @@ api.stagef.magic.link
 api.stagef.magic.link
 api.stagef.magic.link
 api.stagef.magic.link
+api.stagef.magic.link
+assets.auth.dev.magic.link
 assets.auth.dev.magic.link
 assets.auth.dev.magic.link
 assets.auth.dev.magic.link
@@ -66,6 +70,8 @@ assets.auth.magic.link
 assets.auth.magic.link
 assets.auth.magic.link
 assets.auth.magic.link
+assets.auth.magic.link
+assets.auth.stagef.magic.link
 assets.auth.stagef.magic.link
 assets.auth.stagef.magic.link
 assets.auth.stagef.magic.link
@@ -93,6 +99,8 @@ auth-1-ftmt-xyz.partner-auth.magic.link
 auth-1-ftmt-xyz.partner-auth.magic.link
 auth-1-ftmt-xyz.partner-auth.magic.link
 auth-1-ftmt-xyz.partner-auth.magic.link
+auth-1-ftmt-xyz.partner-auth.magic.link
+auth-copy-ai.partner-auth.magic.link
 auth-copy-ai.partner-auth.magic.link
 auth-copy-ai.partner-auth.magic.link
 auth-copy-ai.partner-auth.magic.link
@@ -121,6 +129,8 @@ auth-niftys-com.partner-auth.magic.link
 auth-niftys-com.partner-auth.magic.link
 auth-niftys-com.partner-auth.magic.link
 auth-niftys-com.partner-auth.magic.link
+auth-niftys-com.partner-auth.magic.link
+auth-sportx-bet.partner-auth.magic.link
 auth-sportx-bet.partner-auth.magic.link
 auth-sportx-bet.partner-auth.magic.link
 auth-sportx-bet.partner-auth.magic.link
@@ -149,6 +159,8 @@ auth-sx-bet.partner-auth.magic.link
 auth-sx-bet.partner-auth.magic.link
 auth-sx-bet.partner-auth.magic.link
 auth-sx-bet.partner-auth.magic.link
+auth-sx-bet.partner-auth.magic.link
+auth.dev.magic.link
 auth.dev.magic.link
 auth.dev.magic.link
 auth.dev.magic.link
@@ -177,6 +189,8 @@ auth.magic.link
 auth.magic.link
 auth.magic.link
 auth.magic.link
+auth.magic.link
+auth.stagef.magic.link
 auth.stagef.magic.link
 auth.stagef.magic.link
 auth.stagef.magic.link
@@ -205,6 +219,8 @@ box.magic.link
 box.magic.link
 box.magic.link
 box.magic.link
+box.magic.link
+bscache.magic.link
 bscache.magic.link
 bscache.magic.link
 bscache.magic.link
@@ -231,6 +247,7 @@ community.magic.link
 community.magic.link
 community.magic.link
 community.magic.link
+community.magic.link
 consensus.magic.link
 consensus.magic.link
 consensus.magic.link
@@ -243,6 +260,8 @@ consensus.magic.link
 consensus.magic.link
 consensus.magic.link
 consensus.magic.link
+consensus.magic.link
+dashboard.dev.magic.link
 dashboard.dev.magic.link
 dashboard.dev.magic.link
 dashboard.dev.magic.link
@@ -271,6 +290,8 @@ dashboard.magic.link
 dashboard.magic.link
 dashboard.magic.link
 dashboard.magic.link
+dashboard.magic.link
+dashboard.stagef.magic.link
 dashboard.stagef.magic.link
 dashboard.stagef.magic.link
 dashboard.stagef.magic.link
@@ -297,6 +318,8 @@ demo.magic.link
 demo.magic.link
 demo.magic.link
 demo.magic.link
+demo.magic.link
+dev.magic.link
 dev.magic.link
 dev.magic.link
 dev.magic.link
@@ -323,6 +346,8 @@ dkms-customer-api.dev.magic.link
 dkms-customer-api.dev.magic.link
 dkms-customer-api.dev.magic.link
 dkms-customer-api.dev.magic.link
+dkms-customer-api.dev.magic.link
+dkms-customer-api.magic.link
 dkms-customer-api.magic.link
 dkms-customer-api.magic.link
 dkms-customer-api.magic.link
@@ -349,6 +374,8 @@ dkms-customer-api.stagef.magic.link
 dkms-customer-api.stagef.magic.link
 dkms-customer-api.stagef.magic.link
 dkms-customer-api.stagef.magic.link
+dkms-customer-api.stagef.magic.link
+docs.magic.link
 docs.magic.link
 docs.magic.link
 docs.magic.link
@@ -377,6 +404,7 @@ editor.magic.link
 editor.magic.link
 editor.magic.link
 editor.magic.link
+editor.magic.link
 email.magic.link
 email.magic.link
 email.magic.link
@@ -391,6 +419,8 @@ email.magic.link
 email.magic.link
 email.magic.link
 email.magic.link
+email.magic.link
+events-int.magic.link
 events-int.magic.link
 events-int.magic.link
 events-int.magic.link
@@ -417,6 +447,8 @@ events.stagef.magic.link
 events.stagef.magic.link
 events.stagef.magic.link
 events.stagef.magic.link
+events.stagef.magic.link
+export.magic.link
 export.magic.link
 export.magic.link
 export.magic.link
@@ -441,6 +473,7 @@ fcl.magic.link
 fcl.magic.link
 fcl.magic.link
 fcl.magic.link
+fcl.magic.link
 fcl.stagef.magic.link
 fcl.stagef.magic.link
 fcl.stagef.magic.link
@@ -453,6 +486,8 @@ fcl.stagef.magic.link
 fcl.stagef.magic.link
 fcl.stagef.magic.link
 fcl.stagef.magic.link
+fcl.stagef.magic.link
+gbscache.magic.link
 gbscache.magic.link
 gbscache.magic.link
 gbscache.magic.link
@@ -479,6 +514,7 @@ gifts.magic.link
 gifts.magic.link
 gifts.magic.link
 gifts.magic.link
+gifts.magic.link
 go.magic.link
 go.magic.link
 go.magic.link
@@ -493,6 +529,8 @@ go.magic.link
 go.magic.link
 go.magic.link
 go.magic.link
+go.magic.link
+help.magic.link
 help.magic.link
 help.magic.link
 help.magic.link
@@ -519,6 +557,7 @@ int.magic.link
 int.magic.link
 int.magic.link
 int.magic.link
+int.magic.link
 kbw.magic.link
 kbw.magic.link
 kbw.magic.link
@@ -531,6 +570,7 @@ kbw.magic.link
 kbw.magic.link
 kbw.magic.link
 kbw.magic.link
+kbw.magic.link
 landing.magic.link
 landing.magic.link
 landing.magic.link
@@ -545,6 +585,8 @@ landing.magic.link
 landing.magic.link
 landing.magic.link
 landing.magic.link
+landing.magic.link
+links.magic.link
 links.magic.link
 links.magic.link
 links.magic.link
@@ -571,6 +613,8 @@ magic.link
 magic.link
 magic.link
 magic.link
+magic.link
+next-dev.magic.link
 next-dev.magic.link
 next-dev.magic.link
 next-dev.magic.link
@@ -595,6 +639,8 @@ next-stage.magic.link
 next-stage.magic.link
 next-stage.magic.link
 next-stage.magic.link
+next-stage.magic.link
+next.dev.magic.link
 next.dev.magic.link
 next.dev.magic.link
 next.dev.magic.link
@@ -619,6 +665,8 @@ next.magic.link
 next.magic.link
 next.magic.link
 next.magic.link
+next.magic.link
+next.stage.magic.link
 next.stage.magic.link
 next.stage.magic.link
 next.stage.magic.link
@@ -643,6 +691,7 @@ next.stagef.magic.link
 next.stagef.magic.link
 next.stagef.magic.link
 next.stagef.magic.link
+next.stagef.magic.link
 nextdev.magic.link
 nextdev.magic.link
 nextdev.magic.link
@@ -655,6 +704,8 @@ nextdev.magic.link
 nextdev.magic.link
 nextdev.magic.link
 nextdev.magic.link
+nextdev.magic.link
+nextjs-nft-template.magic.link
 nextjs-nft-template.magic.link
 nextjs-nft-template.magic.link
 nextjs-nft-template.magic.link
@@ -681,6 +732,8 @@ nft-contracts.magic.link
 nft-contracts.magic.link
 nft-contracts.magic.link
 nft-contracts.magic.link
+nft-contracts.magic.link
+nftnyc.magic.link
 nftnyc.magic.link
 nftnyc.magic.link
 nftnyc.magic.link
@@ -709,6 +762,8 @@ o1.ptr4859.magic.link
 o1.ptr4859.magic.link
 o1.ptr4859.magic.link
 o1.ptr4859.magic.link
+o1.ptr4859.magic.link
+o2.ptr5049.magic.link
 o2.ptr5049.magic.link
 o2.ptr5049.magic.link
 o2.ptr5049.magic.link
@@ -737,6 +792,8 @@ partner-auth.magic.link
 partner-auth.magic.link
 partner-auth.magic.link
 partner-auth.magic.link
+partner-auth.magic.link
+permissionless23.magic.link
 permissionless23.magic.link
 permissionless23.magic.link
 permissionless23.magic.link
@@ -752,6 +809,8 @@ permissionless23.magic.link
 redpacket.magic.link
 redpacket.magic.link
 redpacket.magic.link
+redpacket.magic.link
+reveal.magic.link
 reveal.magic.link
 reveal.magic.link
 reveal.magic.link
@@ -778,6 +837,7 @@ sandbox.magic.link
 sandbox.magic.link
 sandbox.magic.link
 sandbox.magic.link
+sandbox.magic.link
 six-trust.magic.link
 six-trust.magic.link
 six-trust.magic.link
@@ -790,6 +850,7 @@ six-trust.magic.link
 six-trust.magic.link
 six-trust.magic.link
 six-trust.magic.link
+six-trust.magic.link
 speedtest.magic.link
 speedtest.magic.link
 speedtest.magic.link
@@ -804,6 +865,8 @@ speedtest.magic.link
 speedtest.magic.link
 speedtest.magic.link
 speedtest.magic.link
+speedtest.magic.link
+stagef.magic.link
 stagef.magic.link
 stagef.magic.link
 stagef.magic.link
@@ -830,6 +893,8 @@ status.magic.link
 status.magic.link
 status.magic.link
 status.magic.link
+status.magic.link
+swag.magic.link
 swag.magic.link
 swag.magic.link
 swag.magic.link
@@ -854,6 +919,7 @@ techtoberfest.magic.link
 techtoberfest.magic.link
 techtoberfest.magic.link
 techtoberfest.magic.link
+techtoberfest.magic.link
 token2049.magic.link
 token2049.magic.link
 token2049.magic.link
@@ -866,6 +932,8 @@ token2049.magic.link
 token2049.magic.link
 token2049.magic.link
 token2049.magic.link
+token2049.magic.link
+trust.magic.link
 trust.magic.link
 trust.magic.link
 trust.magic.link
@@ -894,6 +962,7 @@ url4625.magic.link
 url4625.magic.link
 url4625.magic.link
 url4625.magic.link
+url4625.magic.link
 walletconnect-ftmt-xyz.partner-auth.magic.link
 walletconnect-ftmt-xyz.partner-auth.magic.link
 walletconnect-ftmt-xyz.partner-auth.magic.link
@@ -908,6 +977,8 @@ walletconnect-ftmt-xyz.partner-auth.magic.link
 walletconnect-ftmt-xyz.partner-auth.magic.link
 walletconnect-ftmt-xyz.partner-auth.magic.link
 walletconnect-ftmt-xyz.partner-auth.magic.link
+walletconnect-ftmt-xyz.partner-auth.magic.link
+www.magic.link
 www.magic.link
 www.magic.link
 www.magic.link

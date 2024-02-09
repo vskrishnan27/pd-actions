@@ -14,6 +14,7 @@ http://mint.base.org
 http://mint.base.org:8080
 http://quests.base.org
 http://quests.base.org:8080
+http://quests.base.org:8443
 http://sepolia-archive-snapshots-dev.base.org
 http://sepolia-archive-snapshots-dev.base.org:8080
 http://sepolia-archive-snapshots.base.org
@@ -35,7 +36,6 @@ https://mainnet.base.org:8443
 https://mint.base.org
 https://mint.base.org:8443
 https://quests.base.org
-https://quests.base.org:8443
 https://sepolia-archive-snapshots-dev.base.org
 https://sepolia-archive-snapshots-dev.base.org:8443
 https://sepolia-archive-snapshots.base.org

@@ -10,6 +10,8 @@
 5fb535db06f43526007a5371ecb82a91.base.org
 5fb535db06f43526007a5371ecb82a91.base.org
 5fb535db06f43526007a5371ecb82a91.base.org
+5fb535db06f43526007a5371ecb82a91.base.org
+a.base.org
 a.base.org
 a.base.org
 a.base.org
@@ -32,6 +34,8 @@ aries.base.org
 aries.base.org
 aries.base.org
 aries.base.org
+aries.base.org
+base.org
 base.org
 base.org
 base.org
@@ -56,6 +60,8 @@ bridge.base.org
 bridge.base.org
 bridge.base.org
 bridge.base.org
+bridge.base.org
+builder.base.org
 builder.base.org
 builder.base.org
 builder.base.org
@@ -80,6 +86,8 @@ developer-access-mainnet.base.org
 developer-access-mainnet.base.org
 developer-access-mainnet.base.org
 developer-access-mainnet.base.org
+developer-access-mainnet.base.org
+docs.base.org
 docs.base.org
 docs.base.org
 docs.base.org
@@ -104,6 +112,7 @@ goerli.base.org
 goerli.base.org
 goerli.base.org
 goerli.base.org
+goerli.base.org
 mainnet.base.org
 mainnet.base.org
 mainnet.base.org
@@ -116,6 +125,8 @@ mainnet.base.org
 mainnet.base.org
 mainnet.base.org
 mainnet.base.org
+mainnet.base.org
+mint.base.org
 mint.base.org
 mint.base.org
 mint.base.org
@@ -138,6 +149,8 @@ pingpong.base.org
 pingpong.base.org
 pingpong.base.org
 pingpong.base.org
+pingpong.base.org
+quests.base.org
 quests.base.org
 quests.base.org
 quests.base.org
@@ -162,6 +175,8 @@ sepolia-archive-snapshots-dev.base.org
 sepolia-archive-snapshots-dev.base.org
 sepolia-archive-snapshots-dev.base.org
 sepolia-archive-snapshots-dev.base.org
+sepolia-archive-snapshots-dev.base.org
+sepolia-archive-snapshots.base.org
 sepolia-archive-snapshots.base.org
 sepolia-archive-snapshots.base.org
 sepolia-archive-snapshots.base.org
@@ -186,6 +201,8 @@ sepolia-snapshots-r2.base.org
 sepolia-snapshots-r2.base.org
 sepolia-snapshots-r2.base.org
 sepolia-snapshots-r2.base.org
+sepolia-snapshots-r2.base.org
+status.base.org
 status.base.org
 status.base.org
 status.base.org
@@ -210,6 +227,8 @@ t.base.org
 t.base.org
 t.base.org
 t.base.org
+t.base.org
+www.base.org
 www.base.org
 www.base.org
 www.base.org
@@ -232,6 +251,8 @@ www.drakosha.base.org
 www.drakosha.base.org
 www.drakosha.base.org
 www.drakosha.base.org
+www.drakosha.base.org
+www.fontocide.base.org
 www.fontocide.base.org
 www.fontocide.base.org
 www.fontocide.base.org

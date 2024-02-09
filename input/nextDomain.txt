@@ -1,4 +1,3 @@
-playcanv.as
 sc-core.net
 sc-corp.net
 lululemon.com
@@ -75,3 +74,4 @@ chain.link
 playcanvas.com
 bitstrips.com
 spectacles.com
+playcanv.as

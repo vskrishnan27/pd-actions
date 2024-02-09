@@ -6,8 +6,6 @@ http://ablink.serviceinfo.crypto.com
 http://ablink.serviceinfo.crypto.com:8080
 http://advertising.crypto.com
 http://advertising.crypto.com:8080
-http://api.crypto.com
-http://api.crypto.com:8080
 http://app-api.nft.crypto.com
 http://app-api.nft.crypto.com:8080
 http://auth-x.crypto.com
@@ -37,6 +35,8 @@ http://crypto-coin-info-api.crypto.com
 http://crypto-coin-info-api.crypto.com:8080
 http://crypto-nft-bridge-api.crypto.com
 http://crypto-nft-bridge-api.crypto.com:8080
+http://crypto.com
+http://crypto.com:8080
 http://deriv-api.crypto.com
 http://deriv-api.crypto.com:8080
 http://exchange-docs.crypto.com
@@ -71,6 +71,8 @@ http://missions.crypto.com
 http://missions.crypto.com:8080
 http://mpro-content-hub.crypto.com
 http://mpro-content-hub.crypto.com:8080
+http://nft.crypto.com
+http://nft.crypto.com:8080
 http://opening-night.crypto.com
 http://opening-night.crypto.com:8080
 http://p.crypto.com
@@ -140,8 +142,6 @@ https://ablink.serviceinfo.crypto.com
 https://ablink.serviceinfo.crypto.com:8443
 https://advertising.crypto.com
 https://advertising.crypto.com:8443
-https://api.crypto.com
-https://api.crypto.com:8443
 https://app-api.nft.crypto.com
 https://app-api.nft.crypto.com:8443
 https://auth-x.crypto.com
@@ -171,6 +171,8 @@ https://crypto-coin-info-api.crypto.com
 https://crypto-coin-info-api.crypto.com:8443
 https://crypto-nft-bridge-api.crypto.com
 https://crypto-nft-bridge-api.crypto.com:8443
+https://crypto.com
+https://crypto.com:8443
 https://deriv-api.crypto.com
 https://deriv-api.crypto.com:8443
 https://exchange-docs.crypto.com
@@ -205,6 +207,8 @@ https://missions.crypto.com
 https://missions.crypto.com:8443
 https://mpro-content-hub.crypto.com
 https://mpro-content-hub.crypto.com:8443
+https://nft.crypto.com
+https://nft.crypto.com:8443
 https://opening-night.crypto.com
 https://opening-night.crypto.com:8443
 https://p.crypto.com

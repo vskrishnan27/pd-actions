@@ -42,7 +42,6 @@ developer.chime.com:443
 developer.chime.com:80
 developer.chime.com:8080
 developer.chime.com:8443
-email.ethnio.chime.com:25
 email.ethnio.chime.com:443
 email.ethnio.chime.com:80
 email.gh-mail.chime.com:443
@@ -57,7 +56,6 @@ email.mg.chime.com:443
 email.mg.chime.com:80
 email.mg.chime.com:8080
 email.mg.chime.com:8443
-email.talent.chime.com:25
 email.talent.chime.com:443
 email.talent.chime.com:80
 email.teamable.chime.com:443
@@ -82,9 +80,7 @@ flashpaper.chime.com:443
 flashpaper.chime.com:80
 flashpaper.chime.com:8080
 flashpaper.chime.com:8443
-handbooks.chime.com:3389
 handbooks.chime.com:443
-handbooks.chime.com:465
 handbooks.chime.com:80
 help-test.chime.com:443
 help-test.chime.com:80

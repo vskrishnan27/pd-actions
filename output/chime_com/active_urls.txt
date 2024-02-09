@@ -30,7 +30,6 @@ http://developer.chime.com
 http://developer.chime.com:8080
 http://email.gh-mail.chime.com
 http://email.gh-mail.chime.com:8080
-http://email.gh-mail.chime.com:8443
 http://email.gh-mail.ext.chime.com
 http://email.gh-mail.ext.chime.com:8080
 http://email.gh-mail.ext.chime.com:8443
@@ -125,7 +124,6 @@ http://status.chime.com
 http://status.chime.com:8080
 http://transaction.chime.com
 http://transaction.chime.com:8080
-http://transaction.chime.com:8443
 http://wp-ci.chime.com
 http://wp-dev1.chime.com
 http://wp-dev2.chime.com
@@ -154,6 +152,7 @@ https://developer.chime.com:8443
 https://email.ethnio.chime.com
 https://email.ethnio.chime.com:80
 https://email.gh-mail.chime.com
+https://email.gh-mail.chime.com:8443
 https://email.gh-mail.ext.chime.com
 https://email.mg.chime.com
 https://email.talent.chime.com
@@ -194,6 +193,7 @@ https://static-attachments.chime.com
 https://status.chime.com
 https://status.chime.com:8443
 https://transaction.chime.com
+https://transaction.chime.com:8443
 https://wp-ci.chime.com
 https://wp-dev1.chime.com
 https://wp-dev2.chime.com

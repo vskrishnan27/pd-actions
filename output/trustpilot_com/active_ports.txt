@@ -183,6 +183,8 @@ la.business.trustpilot.com:443
 la.business.trustpilot.com:80
 legal-preview.trustpilot.com:443
 legal-preview.trustpilot.com:80
+legal.trustpilot.com:443
+legal.trustpilot.com:80
 link.trustpilot.com:443
 link.trustpilot.com:80
 links.trustpilot.com:443

@@ -324,7 +324,6 @@ http://customers.gitlab.com
 http://customers.gitlab.com:8080
 http://customers.gitlab.com:8443
 http://customers.staging-ref.gitlab.com
-http://customers.staging-ref.gitlab.com:8080
 http://customers.staging-ref.gitlab.com:8443
 http://customers.staging.gitlab.com
 http://customers.staging.gitlab.com:8080

@@ -320,7 +320,11 @@ http://content.gitlab.com
 http://content.gitlab.com:8443
 http://contributors.gitlab.com
 http://contributors.gitlab.com:8080
+http://customers.gitlab.com
+http://customers.gitlab.com:8080
+http://customers.gitlab.com:8443
 http://customers.staging-ref.gitlab.com
+http://customers.staging-ref.gitlab.com:8080
 http://customers.staging-ref.gitlab.com:8443
 http://customers.staging.gitlab.com
 http://customers.staging.gitlab.com:8080
@@ -331,7 +335,6 @@ http://dast-4456656-dast-default.design-staging.gitlab.com
 http://design.gitlab.com
 http://developer.gitlab.com
 http://doc.gitlab.com
-http://docs.gitlab.com
 http://ee.gitlab.com
 http://ee.gitlab.com:8080
 http://email.customers.gitlab.com
@@ -727,6 +730,7 @@ https://codesuggestions.gitlab.com
 https://content.gitlab.com
 https://contributors.gitlab.com
 https://contributors.gitlab.com:8443
+https://customers.gitlab.com
 https://customers.staging-ref.gitlab.com
 https://customers.staging.gitlab.com
 https://cxr.gitlab.com
@@ -735,7 +739,6 @@ https://dast-4456656-dast-default.design-staging.gitlab.com
 https://design.gitlab.com
 https://developer.gitlab.com
 https://doc.gitlab.com
-https://docs.gitlab.com
 https://ee.gitlab.com
 https://ee.gitlab.com:8443
 https://email.customers.gitlab.com

@@ -37,6 +37,7 @@ http://resources.forescout.com
 http://resources.forescout.com:8443
 http://sra-emea2.forescout.com
 http://support.forescout.com
+http://support.forescout.com:8443
 http://t.forescout.com
 http://trainingsurvey.forescout.com
 http://trainingsurvey.forescout.com:8443
@@ -74,7 +75,6 @@ https://marketplace.forescout.com
 https://resources.forescout.com
 https://sra-emea2.forescout.com
 https://support.forescout.com
-https://support.forescout.com:8443
 https://t.forescout.com
 https://trainingsurvey.forescout.com
 https://updates.forescout.com

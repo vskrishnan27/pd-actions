@@ -1,10 +1,8 @@
 name: my
 
 on:
-#    schedule:
-#      - cron: '0 0 * * *'
-    push:
-    workflow_dispatch:
+  push:
+  workflow_dispatch:
 
 jobs:
   Run-Analysis:
@@ -14,28 +12,34 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@master
-      
+        with:
+          fetch-depth: 0  # Fetch all history to enable stashing
+
       - name: Set execute permission for the script
         run: |
           chmod +x $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh
           chmod +x $GITHUB_WORKSPACE/scripts/domainRotator.sh
 
+      # Stash local changes to avoid conflicts
+      - name: Stash local changes
+        if: steps.git-pull.outcome == 'failure'  # Only if git pull fails
+        run: git stash
+
       - name: Run DomainRotator
-        run : bash $GITHUB_WORKSPACE/scripts/domainRotator.sh  
+        run: bash $GITHUB_WORKSPACE/scripts/domainRotator.sh  
 
       - name: Notify Start Status
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh start
+        run: bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh start
 
       - name: Send Domain List
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/sendDomainList.sh   
+        run: bash $GITHUB_WORKSPACE/scripts/notify/sendDomainList.sh   
       
       - name: Create local changes
         run: |
-            git pull
             git add input/
-  
+            git add -u  # Add updated tracked files
+        continue-on-error: true  # Continue even if there are no changes to commit
+
       - name: Commit results to Github
         run: |
             git config --local user.email "vskrishnan27@gmail.com"
@@ -72,7 +76,7 @@ jobs:
           # Expose the folder name for later steps
           echo "folder_path=output/$folder_name" >> $GITHUB_ENV
         shell: bash          
-      
+
       - name: Notify Input Commit Status
         run: |
             bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Commited Successfully ... ${{ steps.read-and-store.outputs.DOMAIN_NAME }}"
@@ -132,6 +136,7 @@ jobs:
         run: |
           ls -lt output/
         shell: bash  
+
       - name: Log naabu version
         run: |
           naabu --version
@@ -146,81 +151,11 @@ jobs:
         run: |
           bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Ports :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }}  : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_ports.txt |wc -l)"      
 
-      - name: Running httpx for HTTP webservers probbing
+      - name: Running httpx for HTTP webservers probing
         run: |
           httpx -l ${{ env.folder_path }}/active_ports.txt | tee ${{ env.folder_path }}/active_urls.txt
         shell: bash
 
-      - name: Notify Active urls Count  
+      - name: Notify Active URLs Count  
         run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Urls :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_urls.txt |wc -l)"      
-    
-      - name: Downloading Nuclei Templates
-        run: |
-          nuclei -update-templates
-        shell: bash
-
-      - name: List Nuclei Templates
-        run: |
-          ls -lt /home/runner/nuclei-templates
-        shell: bash
-
-      - name: Running Nuclei for vulnerability assessment
-        run: |
-          nuclei -t cves/ -l ${{ env.folder_path }}/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee ${{ env.folder_path }}/nuclei_output.txt
-        shell: bash
-
-      - name: Notify CVE details 
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "CVE COUNT :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }}  : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/nuclei_output.txt | grep CVE-  | wc -l)"      
-
-      - name: Notify Status End
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh end
-
-      - name: Sorting the output results
-        run: |
-          find output -type f -exec sort {} -o {} \;
-        shell: bash
-
-          # git add output/passive_subdomains.txt
-          # git add output/active_subdomains.txt
-          # git add output/active_ports.txt
-          # git add output/active_urls.txt
-      - name: Create local changes
-        run: |
-          git pull
-          git add output/
-          git add input/
-
-      - name: Commit results to Github
-        run: |
-          git config --local user.email "vskrishnan27@gmail.com"
-          git config --global user.name "vskrishnan27"
-          git commit -m "vskrishnan-run by actions" --allow-empty
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.P_A_T }}
-          branch: ${{ github.ref }}
-
-      - name : Trigger next workflow
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/TriggerWorkFlowDispatch.sh "${{ secrets.P_A_T }}"
-
-  run-if-not-keyword:
-    runs-on: ubuntu-latest
-    if: ${{ !contains(github.event.head_commit.message, 'vskrishnan-run') }}
-    timeout-minutes: 5760 #4 days 
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
-
-      - name: Run Different Script
-        run: |
-          chmod +x $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh
-          combined_message="message doesn't contain keyword - ${{ github.event.head_commit.message }}"
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "$combined_message"
-        env:
-            GITHUB_WORKSPACE: ${{ github.workspace }}    
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Urls :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_urls.txt

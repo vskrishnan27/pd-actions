@@ -15,6 +15,7 @@ http://events.moderntreasury.com
 http://go.moderntreasury.com
 http://help.moderntreasury.com
 http://help.moderntreasury.com:8080
+http://help.moderntreasury.com:8443
 http://ledgersync-dev.moderntreasury.com
 http://link.moderntreasury.com
 http://mta-sts.moderntreasury.com
@@ -45,9 +46,7 @@ https://docs.moderntreasury.com:8443
 https://events.moderntreasury.com
 https://go.moderntreasury.com
 https://help.moderntreasury.com
-https://help.moderntreasury.com:8443
 https://ledgersync-dev.moderntreasury.com
-https://link.moderntreasury.com
 https://mta-sts.moderntreasury.com
 https://payments.demo.moderntreasury.com
 https://payments.moderntreasury.com

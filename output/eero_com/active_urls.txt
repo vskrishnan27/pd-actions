@@ -9,7 +9,6 @@ http://blocked.eero.com
 http://blog.eero.com
 http://community.eero.com
 http://dashboard.eero.com
-http://eero.com
 http://image.email.eero.com
 http://mail.eero.com
 http://pause-stage.eero.com
@@ -42,7 +41,6 @@ https://docparser.bizops.eero.com
 https://docparser.bizops.staging.eero.com
 https://dsar-stage.eero.com
 https://dsar.eero.com
-https://eero.com
 https://image.email.eero.com
 https://mail.eero.com
 https://netsuite.bizops.eero.com

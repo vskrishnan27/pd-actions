@@ -373,6 +373,7 @@ pr418.preprod.lululemon.com
 pr419.preprod.lululemon.com
 pr424.preprod.lululemon.com
 pr426.preprod.lululemon.com
+pr427.preprod.lululemon.com
 pr428.preprod.lululemon.com
 pr43.preprod.lululemon.com
 pr433.preprod.lululemon.com
@@ -660,6 +661,7 @@ prod-coext-01.lululemon.com
 prod-plm.lululemon.com
 prod-possmtp-01.receipts.lululemon.com
 prod-smtp-02.lululemon.com
+producttesting.lululemon.com
 qa-bandha.lululemon.com
 qa-identity.lululemon.com
 qa-iexpense.lululemon.com

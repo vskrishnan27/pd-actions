@@ -22,6 +22,7 @@ http://developersupport-zkevm.polygon.technology
 http://developersupport.polygon.technology
 http://developersupport.polygon.technology:8080
 http://devnet-avail.polygon.technology
+http://devnet-avail.polygon.technology:443
 http://devnet-avail.polygon.technology:8080
 http://docs.polygon.technology
 http://docs.polygon.technology:8080
@@ -145,7 +146,6 @@ https://community.polygon.technology:8443
 https://developersupport-zkevm.polygon.technology
 https://developersupport.polygon.technology
 https://developersupport.polygon.technology:8443
-https://devnet-avail.polygon.technology
 https://devnet-avail.polygon.technology:8443
 https://docs.polygon.technology
 https://docs.polygon.technology:8443

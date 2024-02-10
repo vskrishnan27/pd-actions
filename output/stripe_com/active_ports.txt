@@ -180,7 +180,6 @@ ip-54-187-119-242.stripe.com:443
 ip-54-187-119-242.stripe.com:80
 ip-54-187-159-182.stripe.com:443
 ip-54-187-159-182.stripe.com:80
-ipaddr-3ds.stripe.com:443
 issuing-hooks-public.stripe.com:443
 issuing-key.stripe.com:443
 issuing-key.stripe.com:80
@@ -191,13 +190,12 @@ jss.prod.corp.stripe.com:443
 jss.qa.corp.stripe.com:443
 lists.stripe.com:443
 lists.stripe.com:80
+local.corp.stripe.com:443
 lokalise-hooks.stripe.com:443
 lokalise-hooks.stripe.com:80
 m.stripe.com:443
 mail.stripe.com:443
 mail.stripe.com:80
-manage.stripe.com:443
-manage.stripe.com:80
 marketplace.stripe.com:443
 marketplace.stripe.com:80
 media.stripe.com:443
@@ -238,8 +236,6 @@ prod-webhooks-flow.stripe.com:443
 prod-webhooks-flow.stripe.com:80
 products.stripe.com:443
 products.stripe.com:80
-public.stripe.com:443
-public.stripe.com:80
 q.stripe.com:443
 q.stripe.com:80
 qa-api-global-bluegreen.stripe.com:443
@@ -266,8 +262,6 @@ qa-support-conversations.stripe.com:80
 qa.corp.stripe.com:443
 qr.stripe.com:443
 qr.stripe.com:80
-r.stripe.com:443
-r.stripe.com:80
 sales-live-chat.stripe.com:443
 sales-live-chat.stripe.com:80
 sessions.stripe.com:443

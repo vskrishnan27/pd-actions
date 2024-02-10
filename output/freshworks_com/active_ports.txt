@@ -256,9 +256,7 @@ community.developers.freshworks.com:443
 community.developers.freshworks.com:80
 community.freshworks.com:443
 community.freshworks.com:80
-communityevents.freshworks.com:2000
 communityevents.freshworks.com:443
-communityevents.freshworks.com:5060
 communityevents.freshworks.com:80
 company-assets.freshworks.com:443
 company-assets.freshworks.com:80
@@ -476,6 +474,8 @@ imperativechemicalshelp.freshworks.com:443
 imperativechemicalshelp.freshworks.com:80
 in.accounts.freshworks.com:443
 in.accounts.freshworks.com:80
+in.freshworks.com:443
+in.freshworks.com:80
 ind-widget.freshworks.com:443
 ind-widget.freshworks.com:80
 indexer.freshworks.com:443

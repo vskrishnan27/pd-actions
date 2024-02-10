@@ -13,6 +13,9 @@ http://docs.hackerone.com
 http://docs.hackerone.com:8080
 http://docs.hackerone.com:8443
 http://gslink.hackerone.com
+http://hackerone.com
+http://hackerone.com:8080
+http://hackerone.com:8443
 http://mta-sts.forwarding.hackerone.com
 http://mta-sts.hackerone.com
 http://mta-sts.managed.hackerone.com
@@ -23,6 +26,7 @@ http://www.hackerone.com:8443
 https://api.hackerone.com
 https://docs.hackerone.com
 https://gslink.hackerone.com
+https://hackerone.com
 https://mta-sts.forwarding.hackerone.com
 https://mta-sts.hackerone.com
 https://mta-sts.managed.hackerone.com

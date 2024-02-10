@@ -15,6 +15,8 @@ admin.figma.com
 admin.figma.com
 admin.figma.com
 admin.figma.com
+admin.figma.com
+api-cdn.figma.com
 api-cdn.figma.com
 api-cdn.figma.com
 api-cdn.figma.com
@@ -49,6 +51,8 @@ api.figma.com
 api.figma.com
 api.figma.com
 api.figma.com
+api.figma.com
+bcp.figma.com
 bcp.figma.com
 bcp.figma.com
 bcp.figma.com
@@ -83,6 +87,8 @@ blog.figma.com
 blog.figma.com
 blog.figma.com
 blog.figma.com
+blog.figma.com
+bounce.figma.com
 bounce.figma.com
 bounce.figma.com
 bounce.figma.com
@@ -117,6 +123,8 @@ brand.figma.com
 brand.figma.com
 brand.figma.com
 brand.figma.com
+brand.figma.com
+click.figma.com
 click.figma.com
 click.figma.com
 click.figma.com
@@ -151,6 +159,8 @@ compliance.figma.com
 compliance.figma.com
 compliance.figma.com
 compliance.figma.com
+compliance.figma.com
+config.figma.com
 config.figma.com
 config.figma.com
 config.figma.com
@@ -185,6 +195,8 @@ cors-image-proxy.figma.com
 cors-image-proxy.figma.com
 cors-image-proxy.figma.com
 cors-image-proxy.figma.com
+cors-image-proxy.figma.com
+embed.figma.com
 embed.figma.com
 embed.figma.com
 embed.figma.com
@@ -219,6 +231,7 @@ errors.figma.com
 errors.figma.com
 errors.figma.com
 errors.figma.com
+errors.figma.com
 evan-oauth.figma.com
 evan-oauth.figma.com
 evan-oauth.figma.com
@@ -236,6 +249,8 @@ evan-oauth.figma.com
 evan-oauth.figma.com
 evan-oauth.figma.com
 evan-oauth.figma.com
+evan-oauth.figma.com
+events.figma.com
 events.figma.com
 events.figma.com
 events.figma.com
@@ -268,6 +283,8 @@ figma.com
 figma.com
 figma.com
 figma.com
+figma.com
+forms.figma.com
 forms.figma.com
 forms.figma.com
 forms.figma.com
@@ -302,6 +319,8 @@ forum.figma.com
 forum.figma.com
 forum.figma.com
 forum.figma.com
+forum.figma.com
+friends.figma.com
 friends.figma.com
 friends.figma.com
 friends.figma.com
@@ -336,6 +355,8 @@ go.figma.com
 go.figma.com
 go.figma.com
 go.figma.com
+go.figma.com
+gov.figma.com
 gov.figma.com
 gov.figma.com
 gov.figma.com
@@ -370,6 +391,8 @@ hello.figma.com
 hello.figma.com
 hello.figma.com
 hello.figma.com
+hello.figma.com
+help.figma.com
 help.figma.com
 help.figma.com
 help.figma.com
@@ -404,6 +427,8 @@ info.figma.com
 info.figma.com
 info.figma.com
 info.figma.com
+info.figma.com
+join.figma.com
 join.figma.com
 join.figma.com
 join.figma.com
@@ -438,6 +463,8 @@ marketing.figma.com
 marketing.figma.com
 marketing.figma.com
 marketing.figma.com
+marketing.figma.com
+marketing.staging.figma.com
 marketing.staging.figma.com
 marketing.staging.figma.com
 marketing.staging.figma.com
@@ -472,6 +499,8 @@ o1.email.figma.com
 o1.email.figma.com
 o1.email.figma.com
 o1.email.figma.com
+o1.email.figma.com
+psxid.figma.com
 psxid.figma.com
 psxid.figma.com
 psxid.figma.com
@@ -504,6 +533,8 @@ register.config.figma.com
 register.config.figma.com
 register.config.figma.com
 register.config.figma.com
+register.config.figma.com
+s3-alpha-sig.figma.com
 s3-alpha-sig.figma.com
 s3-alpha-sig.figma.com
 s3-alpha-sig.figma.com
@@ -538,6 +569,8 @@ s3-alpha.figma.com
 s3-alpha.figma.com
 s3-alpha.figma.com
 s3-alpha.figma.com
+s3-alpha.figma.com
+s3-downtime.figma.com
 s3-downtime.figma.com
 s3-downtime.figma.com
 s3-downtime.figma.com
@@ -572,6 +605,8 @@ s3-figma-fonts-private-production-sig.figma.com
 s3-figma-fonts-private-production-sig.figma.com
 s3-figma-fonts-private-production-sig.figma.com
 s3-figma-fonts-private-production-sig.figma.com
+s3-figma-fonts-private-production-sig.figma.com
+s3-figma-videos-production-sig.figma.com
 s3-figma-videos-production-sig.figma.com
 s3-figma-videos-production-sig.figma.com
 s3-figma-videos-production-sig.figma.com
@@ -606,6 +641,8 @@ schema.figma.com
 schema.figma.com
 schema.figma.com
 schema.figma.com
+schema.figma.com
+schemavirtual2022.figma.com
 schemavirtual2022.figma.com
 schemavirtual2022.figma.com
 schemavirtual2022.figma.com
@@ -640,6 +677,8 @@ share.figma.com
 share.figma.com
 share.figma.com
 share.figma.com
+share.figma.com
+slack.figma.com
 slack.figma.com
 slack.figma.com
 slack.figma.com
@@ -674,6 +713,8 @@ sprig.figma.com
 sprig.figma.com
 sprig.figma.com
 sprig.figma.com
+sprig.figma.com
+staging-admin.figma.com
 staging-admin.figma.com
 staging-admin.figma.com
 staging-admin.figma.com
@@ -708,6 +749,8 @@ staging-new.figma.com
 staging-new.figma.com
 staging-new.figma.com
 staging-new.figma.com
+staging-new.figma.com
+staging.figma.com
 staging.figma.com
 staging.figma.com
 staging.figma.com
@@ -742,6 +785,8 @@ static.figma.com
 static.figma.com
 static.figma.com
 static.figma.com
+static.figma.com
+status.figma.com
 status.figma.com
 status.figma.com
 status.figma.com
@@ -776,6 +821,8 @@ store-ca.figma.com
 store-ca.figma.com
 store-ca.figma.com
 store-ca.figma.com
+store-ca.figma.com
+store-eu.figma.com
 store-eu.figma.com
 store-eu.figma.com
 store-eu.figma.com
@@ -810,6 +857,8 @@ store-jp.figma.com
 store-jp.figma.com
 store-jp.figma.com
 store-jp.figma.com
+store-jp.figma.com
+store-uk.figma.com
 store-uk.figma.com
 store-uk.figma.com
 store-uk.figma.com
@@ -844,6 +893,8 @@ store.figma.com
 store.figma.com
 store.figma.com
 store.figma.com
+store.figma.com
+us-west-2.figma.com
 us-west-2.figma.com
 us-west-2.figma.com
 us-west-2.figma.com
@@ -878,6 +929,8 @@ us-west-2.staging.figma.com
 us-west-2.staging.figma.com
 us-west-2.staging.figma.com
 us-west-2.staging.figma.com
+us-west-2.staging.figma.com
+verify.figma.com
 verify.figma.com
 verify.figma.com
 verify.figma.com
@@ -910,6 +963,8 @@ www.blog.figma.com
 www.blog.figma.com
 www.blog.figma.com
 www.blog.figma.com
+www.blog.figma.com
+www.figma.com
 www.figma.com
 www.figma.com
 www.figma.com
@@ -942,6 +997,8 @@ www.forum.figma.com
 www.forum.figma.com
 www.forum.figma.com
 www.forum.figma.com
+www.forum.figma.com
+www.friends.figma.com
 www.friends.figma.com
 www.friends.figma.com
 www.friends.figma.com
@@ -972,6 +1029,8 @@ www.help.figma.com
 www.help.figma.com
 www.help.figma.com
 www.help.figma.com
+www.help.figma.com
+www.staging-admin.figma.com
 www.staging-admin.figma.com
 www.staging-admin.figma.com
 www.staging-admin.figma.com

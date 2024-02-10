@@ -6,7 +6,6 @@ http://16002407.notify.chime.com:8080
 http://16002407.notify.chime.com:8443
 http://app.chime.com
 http://app.chime.com:8080
-http://app.chime.com:8443
 http://attachments.chime.com
 http://attachments.chime.com:8080
 http://attachments.chime.com:8443
@@ -15,6 +14,7 @@ http://autobots-dev1.chime.com:8080
 http://autobots-dev1.chime.com:8443
 http://autobots-qa.chime.com
 http://autobots-qa.chime.com:8080
+http://autobots-qa.chime.com:8443
 http://autobots.chime.com
 http://autobots.chime.com:8080
 http://autobots.chime.com:8443
@@ -82,7 +82,6 @@ http://locations.chime.com:8080
 http://locations.chime.com:8443
 http://member-dev1.chime.com
 http://member-dev1.chime.com:8080
-http://member-dev1.chime.com:8443
 http://member-qa.chime.com
 http://member-qa.chime.com:8080
 http://member-qa.chime.com:8443
@@ -107,11 +106,13 @@ http://penny-qa.chime.com:8080
 http://penny-qa.chime.com:8443
 http://penny.chime.com
 http://penny.chime.com:8080
+http://penny.chime.com:8443
 http://public-assets-dev1.chime.com
 http://public-assets-dev1.chime.com:8080
 http://public-assets-dev1.chime.com:8443
 http://public-assets-qa.chime.com
 http://public-assets-qa.chime.com:8080
+http://public-assets-qa.chime.com:8443
 http://public-assets.chime.com
 http://public-assets.chime.com:8080
 http://public-assets.chime.com:8443
@@ -127,7 +128,6 @@ http://wp-ci.chime.com
 http://wp-dev1.chime.com
 http://wp-dev2.chime.com
 http://wp-dev2.chime.com:8080
-http://wp-dev2.chime.com:8443
 http://wp-dev3.chime.com
 http://wp-dev4.chime.com
 http://wp-dev5.chime.com
@@ -137,10 +137,10 @@ http://www.chime.com
 https://16002407.account.chime.com
 https://16002407.notify.chime.com
 https://app.chime.com
+https://app.chime.com:8443
 https://attachments.chime.com
 https://autobots-dev1.chime.com
 https://autobots-qa.chime.com
-https://autobots-qa.chime.com:8443
 https://autobots.chime.com
 https://careers.chime.com
 https://chat.chime.com
@@ -175,6 +175,7 @@ https://links.notify.chime.com
 https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
+https://member-dev1.chime.com:8443
 https://member-qa.chime.com
 https://member.chime.com
 https://mobile-state.chime.com
@@ -185,10 +186,8 @@ https://nd.chime.com
 https://penny-dev1.chime.com
 https://penny-qa.chime.com
 https://penny.chime.com
-https://penny.chime.com:8443
 https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
-https://public-assets-qa.chime.com:8443
 https://public-assets.chime.com
 https://static-attachments.chime.com
 https://status.chime.com
@@ -197,6 +196,7 @@ https://transaction.chime.com
 https://wp-ci.chime.com
 https://wp-dev1.chime.com
 https://wp-dev2.chime.com
+https://wp-dev2.chime.com:8443
 https://wp-dev3.chime.com
 https://wp-dev4.chime.com
 https://wp-dev5.chime.com

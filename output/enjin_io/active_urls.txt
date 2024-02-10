@@ -5,6 +5,7 @@ http://auth.enjin.io
 http://auth.enjin.io:8080
 http://beam.enjin.io
 http://beam.enjin.io:8080
+http://beam.enjin.io:8443
 http://blog.enjin.io
 http://blog.enjin.io:8080
 http://cdn.enjin.io
@@ -27,6 +28,7 @@ http://jumpnet.beam.enjin.io:8080
 http://jumpnet.beam.enjin.io:8443
 http://jumpnet.cloud.enjin.io
 http://jumpnet.cloud.enjin.io:8080
+http://jumpnet.cloud.enjin.io:8443
 http://legacy.docs.enjin.io
 http://legacy.docs.enjin.io:8080
 http://legal.enjin.io
@@ -63,7 +65,6 @@ https://assets.enjin.io
 https://auth.enjin.io
 https://auth.enjin.io:8443
 https://beam.enjin.io
-https://beam.enjin.io:8443
 https://blog.enjin.io
 https://blog.enjin.io:8443
 https://cdn.enjin.io
@@ -79,7 +80,6 @@ https://feedback.enjin.io
 https://feedback.enjin.io:8443
 https://jumpnet.beam.enjin.io
 https://jumpnet.cloud.enjin.io
-https://jumpnet.cloud.enjin.io:8443
 https://legacy.docs.enjin.io
 https://legacy.docs.enjin.io:8443
 https://legal.enjin.io

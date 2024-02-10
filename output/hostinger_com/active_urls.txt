@@ -26,6 +26,7 @@ http://builder.hostinger.com:8443
 http://cart.hostinger.com
 http://cart.hostinger.com:8443
 http://cdn.hostinger.com
+http://cdn.hostinger.com:8443
 http://confirmar.hostinger.com
 http://connect.hostinger.com
 http://convalida.hostinger.com
@@ -77,7 +78,6 @@ http://roadmap.hostinger.com:8443
 http://sahkan.hostinger.com
 http://se.account.hostinger.com
 http://se.account.hostinger.com:8080
-http://se.account.hostinger.com:8443
 http://se.email.hostinger.com
 http://se.email.hostinger.com:8080
 http://se.email.hostinger.com:8443
@@ -87,6 +87,7 @@ http://sso.hostinger.com
 http://sso.hostinger.com:8443
 http://statuspage.hostinger.com
 http://statuspage.hostinger.com:8080
+http://statuspage.hostinger.com:8443
 http://support.hostinger.com
 http://support.hostinger.com:8080
 http://support.hostinger.com:8443
@@ -153,7 +154,6 @@ https://bekraeft.hostinger.com
 https://builder.hostinger.com
 https://cart.hostinger.com
 https://cdn.hostinger.com
-https://cdn.hostinger.com:8443
 https://confirmar.hostinger.com
 https://connect.hostinger.com
 https://convalida.hostinger.com
@@ -187,11 +187,11 @@ https://rest-hosting.hostinger.com
 https://roadmap.hostinger.com
 https://sahkan.hostinger.com
 https://se.account.hostinger.com
+https://se.account.hostinger.com:8443
 https://se.email.hostinger.com
 https://sql111.hostinger.com:8443
 https://sso.hostinger.com
 https://statuspage.hostinger.com
-https://statuspage.hostinger.com:8443
 https://support.hostinger.com
 https://titancalendar.hostinger.com
 https://titancontacts.hostinger.com

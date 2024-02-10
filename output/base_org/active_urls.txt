@@ -21,6 +21,7 @@ http://sepolia-archive-snapshots.base.org
 http://sepolia-archive-snapshots.base.org:8080
 http://status.base.org
 http://status.base.org:8080
+http://status.base.org:8443
 http://www.base.org
 http://www.base.org:8080
 http://www.base.org:8443
@@ -40,5 +41,4 @@ https://sepolia-archive-snapshots-dev.base.org:8443
 https://sepolia-archive-snapshots.base.org
 https://sepolia-archive-snapshots.base.org:8443
 https://status.base.org
-https://status.base.org:8443
 https://www.base.org

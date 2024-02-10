@@ -45,6 +45,7 @@ http://chibirobo-photofinder.nintendo.com
 http://chibirobo-ziplash.nintendo.com
 http://click.ccg.nintendo.com
 http://cloud.ccg.nintendo.com
+http://club-catalog.nintendo.com
 http://club.nintendo.com
 http://club2.nintendo.com
 http://code.nintendo.com
@@ -203,6 +204,7 @@ http://mariomaker.nintendo.com
 http://marioparty10.nintendo.com
 http://marioparty100.nintendo.com
 http://mariopartyislandtour.nintendo.com
+http://mariopartystarrush.nintendo.com
 http://mariopowertennis.nintendo.com
 http://mariosportssuperstars.nintendo.com
 http://mariotennis.nintendo.com
@@ -251,8 +253,8 @@ http://nowpass.noa.nintendo.com
 http://nstore-test.noa.nintendo.com
 http://nstore.noa.nintendo.com
 http://nwc.nintendo.com
+http://octopathtraveler.nintendo.com
 http://ope-api.events.nintendo.com
-http://ope.dev.events.nintendo.com
 http://ope.events.nintendo.com
 http://ope.qa.events.nintendo.com
 http://ope.staging.events.nintendo.com
@@ -281,6 +283,7 @@ http://pocket.noa.nintendo.com
 http://pokemonbattletrozei.nintendo.com
 http://press.nintendo.com
 http://prod-store.nintendo.com
+http://professorlayton.nintendo.com
 http://pt-americas-support.nintendo.com
 http://publisher.nintendo.com
 http://pug-sbjeffsa03.sandbox.svc.publisher.nintendo.com
@@ -291,6 +294,7 @@ http://pushmoworld.nintendo.com
 http://puzzleanddragons.nintendo.com
 http://qa.events.nintendo.com
 http://questsp1ique.nintendo.com:443
+http://register.nintendo.com
 http://repair-dev.nintendo.com
 http://repair-uat.nintendo.com
 http://repair.nintendo.com
@@ -347,6 +351,7 @@ http://store.nintendo.com
 http://storemedia.nintendo.com
 http://stretchmo.nintendo.com
 http://stylesavvy.nintendo.com
+http://stylesavvy2.nintendo.com
 http://supermario3dland.nintendo.com
 http://supermariobroswonder.nintendo.com
 http://supermariomaker2.nintendo.com
@@ -606,6 +611,7 @@ https://devopsmaker-dev.noa.nintendo.com
 https://devopsmaker.noa.nintendo.com
 https://dillonsrollingwestern.nintendo.com
 https://disney.nintendo.com
+https://disneymagicalworld.nintendo.com
 https://disneymagicalworld2.nintendo.com
 https://donkeykong.nintendo.com
 https://downloads.developer.nintendo.com
@@ -647,7 +653,6 @@ https://ffta.nintendo.com
 https://ffv.nintendo.com
 https://ffvi.nintendo.com
 https://fi.cpo.noa.nintendo.com
-https://fireemblem.nintendo.com
 https://fireemblemechoes.nintendo.com
 https://fireemblemfates.nintendo.com
 https://fireemblemwarriors.nintendo.com
@@ -807,7 +812,6 @@ https://ntd-gp.ntd.nintendo.com
 https://nwc.nintendo.com
 https://octopathtraveler.nintendo.com
 https://ope-api.events.nintendo.com
-https://ope.dev.events.nintendo.com
 https://ope.events.nintendo.com
 https://ope.qa.events.nintendo.com
 https://ope.staging.events.nintendo.com
@@ -815,7 +819,6 @@ https://orders.activities.prod.gbo.noa.nintendo.com
 https://p.nintendo.com
 https://pages.ccg.nintendo.com
 https://parentalcontrols.nintendo.com
-https://partners.nintendo.com
 https://patents.nintendo.com
 https://pdbvv.dev1.publisher.nintendo.com
 https://pdbvv.dev2.publisher.nintendo.com
@@ -848,12 +851,10 @@ https://prod-store.nintendo.com
 https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
-https://ptdairwatch.noa.nintendo.com
-https://ptdairwatch.noa.nintendo.com:199
-https://ptdairwatch.noa.nintendo.com:26
-https://ptdairwatch.noa.nintendo.com:5101
-https://ptdairwatch.noa.nintendo.com:53
-https://ptdairwatch.noa.nintendo.com:88
+https://ptdairwatch.noa.nintendo.com:113
+https://ptdairwatch.noa.nintendo.com:179
+https://ptdairwatch.noa.nintendo.com:21
+https://ptdairwatch.noa.nintendo.com:8008
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com

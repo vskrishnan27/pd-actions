@@ -10,10 +10,7 @@ http://automation.chain.link
 http://automation.chain.link:8443
 http://bid470x.20755222t.chain.link
 http://blog.chain.link
-http://blog.chain.link:8080
 http://blog.chain.link:8443
-http://careers.chain.link
-http://careers.chain.link:8080
 http://ccip.chain.link
 http://ccip.chain.link:8443
 http://chain.link
@@ -67,8 +64,6 @@ http://mercury-arbitrum-testnet.stage.chain.link
 http://mercury-arbitrum-testnet.stage.chain.link:8443
 http://mercury-srv.chain.link
 http://mercury-srv.chain.link:8080
-http://on.chain.link
-http://on.chain.link:8080
 http://pages.chain.link
 http://pages.chain.link:8080
 http://pegswap.chain.link
@@ -82,7 +77,6 @@ http://ropsten.chain.link
 http://ropsten.chain.link:8080
 http://security.chain.link
 http://security.chain.link:8080
-http://smartcon.chain.link
 http://staking.chain.link
 http://staking.chain.link:8443
 http://supply.chain.link
@@ -109,8 +103,6 @@ https://archive.docs.chain.link
 https://archive.docs.chain.link:8443
 https://automation.chain.link
 https://blog.chain.link
-https://careers.chain.link
-https://careers.chain.link:8443
 https://ccip.chain.link
 https://chain.link
 https://data.chain.link
@@ -143,8 +135,6 @@ https://mercury-arbitrum-testnet.chain.link
 https://mercury-arbitrum-testnet.stage.chain.link
 https://mercury-srv.chain.link
 https://mercury-srv.chain.link:8443
-https://on.chain.link
-https://on.chain.link:8443
 https://pages.chain.link
 https://pages.chain.link:8443
 https://pegswap.chain.link
@@ -155,8 +145,6 @@ https://ropsten.chain.link
 https://ropsten.chain.link:8443
 https://security.chain.link
 https://security.chain.link:8443
-https://smartcon.chain.link
-https://smartcon.chain.link:8443
 https://staking.chain.link
 https://supply.chain.link
 https://supply.chain.link:8443

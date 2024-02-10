@@ -34,6 +34,7 @@ help.moderntreasury.com:8080
 help.moderntreasury.com:8443
 ledgersync-dev.moderntreasury.com:443
 ledgersync-dev.moderntreasury.com:80
+link.moderntreasury.com:443
 link.moderntreasury.com:80
 mta-sts.moderntreasury.com:443
 mta-sts.moderntreasury.com:80

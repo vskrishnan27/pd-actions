@@ -13,7 +13,6 @@ http://feedback.judge.me
 http://feedback.judge.me:8080
 http://help.judge.me
 http://help.judge.me:8080
-http://help.judge.me:8443
 http://images.judge.me
 http://judge.me
 http://pub-images.judge.me
@@ -38,6 +37,7 @@ https://events.judge.me
 https://feedback.judge.me
 https://feedback.judge.me:8443
 https://help.judge.me
+https://help.judge.me:8443
 https://images.judge.me
 https://judge.me
 https://pub-images.judge.me

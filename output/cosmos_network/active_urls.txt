@@ -10,8 +10,6 @@ http://7-api.bigbang.cosmos.network
 http://7-api.bigbang.cosmos.network:443
 http://7-api.bigbang.cosmos.network:8080
 http://7-api.bigbang.cosmos.network:8443
-http://academy.cosmos.network
-http://academy.cosmos.network:8080
 http://api-germany.bigbang.cosmos.network
 http://api-germany.bigbang.cosmos.network:443
 http://api-germany.bigbang.cosmos.network:8080
@@ -86,6 +84,9 @@ http://apiredirector.bigbang.cosmos.network
 http://apiredirector.bigbang.cosmos.network:443
 http://apiredirector.bigbang.cosmos.network:8080
 http://apiredirector.bigbang.cosmos.network:8443
+http://atlas.cosmos.network
+http://atlas.cosmos.network:8080
+http://atlas.cosmos.network:8443
 http://atlas.demo.cosmos.network
 http://atlas.demo.cosmos.network:443
 http://atlas.demo.cosmos.network:8080
@@ -311,6 +312,7 @@ http://rpc.bigbang.cosmos.network:8080
 http://rpc.bigbang.cosmos.network:8443
 http://rpc.cosmos.network
 http://rpc.cosmos.network:8080
+http://rpc.cosmos.network:8443
 http://rpc.irisnet.cosmos.network
 http://rpc.irisnet.cosmos.network:443
 http://rpc.irisnet.cosmos.network:8080
@@ -364,10 +366,9 @@ http://www.api.atlas.cosmos.network:8443
 http://www.cosmos.network
 http://www.cosmos.network:8080
 http://www.cosmos.network:8443
-https://academy.cosmos.network
-https://academy.cosmos.network:8443
 https://api.cosmos.network
 https://api.cosmos.network:8443
+https://atlas.cosmos.network
 https://backend.cosmos.network
 https://beta.cosmos.network
 https://blog-feed.cosmos.network
@@ -410,7 +411,6 @@ https://rpc-testnet-jpn.cosmos.network
 https://rpc-testnet-sgp.cosmos.network
 https://rpc-testnet-us.cosmos.network
 https://rpc.cosmos.network
-https://rpc.cosmos.network:8443
 https://shop.cosmos.network
 https://shop.cosmos.network:8443
 https://signups.cosmos.network

@@ -7,7 +7,6 @@ http://any1.hostinger.com:8080
 http://any2.hostinger.com
 http://any2.hostinger.com:8080
 http://api.hostinger.com
-http://api.hostinger.com:8443
 http://apstiprina.hostinger.com
 http://assets.hostinger.com
 http://assets.hostinger.com:8443
@@ -56,6 +55,8 @@ http://flockcontacts.hostinger.com
 http://flockmail.hostinger.com
 http://help.hostinger.com
 http://help.hostinger.com:8080
+http://hostinger.com
+http://hostinger.com:8080
 http://hpanel.hostinger.com
 http://hpanel.hostinger.com:8443
 http://kontroll.hostinger.com
@@ -78,6 +79,7 @@ http://roadmap.hostinger.com:8443
 http://sahkan.hostinger.com
 http://se.account.hostinger.com
 http://se.account.hostinger.com:8080
+http://se.account.hostinger.com:8443
 http://se.email.hostinger.com
 http://se.email.hostinger.com:8080
 http://se.email.hostinger.com:8443
@@ -127,7 +129,6 @@ http://www.flockcalendar.hostinger.com
 http://www.flockcontacts.hostinger.com
 http://www.flockmail.hostinger.com
 http://www.hostinger.com
-http://www.hostinger.com:8443
 http://www.titancalendar.hostinger.com
 http://www.titancontacts.hostinger.com
 http://www.titanmail.hostinger.com
@@ -141,6 +142,7 @@ https://any1.hostinger.com:8443
 https://any2.hostinger.com
 https://any2.hostinger.com:8443
 https://api.hostinger.com
+https://api.hostinger.com:8443
 https://apstiprina.hostinger.com
 https://assets.hostinger.com
 https://autenticacion.hostinger.com
@@ -171,6 +173,8 @@ https://flockcontacts.hostinger.com
 https://flockmail.hostinger.com
 https://help.hostinger.com
 https://help.hostinger.com:8443
+https://hostinger.com
+https://hostinger.com:8443
 https://hpanel.hostinger.com
 https://kontroll.hostinger.com
 https://mail.hostinger.com
@@ -187,7 +191,6 @@ https://rest-hosting.hostinger.com
 https://roadmap.hostinger.com
 https://sahkan.hostinger.com
 https://se.account.hostinger.com
-https://se.account.hostinger.com:8443
 https://se.email.hostinger.com
 https://sql111.hostinger.com:8443
 https://sso.hostinger.com
@@ -228,6 +231,7 @@ https://www.flockcalendar.hostinger.com
 https://www.flockcontacts.hostinger.com
 https://www.flockmail.hostinger.com
 https://www.hostinger.com
+https://www.hostinger.com:8443
 https://www.titancalendar.hostinger.com
 https://www.titancontacts.hostinger.com
 https://www.titanmail.hostinger.com

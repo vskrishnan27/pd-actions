@@ -22,7 +22,6 @@ http://autobots.chime.com:8443
 http://careers.chime.com
 http://chat.chime.com
 http://chat.chime.com:8080
-http://chat.chime.com:8443
 http://chime.com
 http://datadog-forwarder-nonprod.chime.com
 http://datadog-forwarder.chime.com
@@ -146,6 +145,7 @@ https://autobots-qa.chime.com
 https://autobots.chime.com
 https://careers.chime.com
 https://chat.chime.com
+https://chat.chime.com:8443
 https://chime.com
 https://datadog-forwarder-nonprod.chime.com
 https://datadog-forwarder.chime.com

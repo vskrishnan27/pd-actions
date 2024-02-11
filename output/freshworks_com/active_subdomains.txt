@@ -8,6 +8,7 @@ acm12.freshworks.com
 acrsupport.freshworks.com
 adcmovil.freshworks.com
 adelogroup.freshworks.com
+adserveplchelp.freshworks.com
 advantsolutions.freshworks.com
 affiliatepartner-freshcaller.freshworks.com
 affiliatepartner-freshchat.freshworks.com
@@ -357,6 +358,7 @@ www.qcommission.freshworks.com
 www.salesdemohub.freshworks.com
 www.spectra.freshworks.com
 www.trust.internal.freshworks.com
+xidcorp.freshworks.com
 xpeppersit.freshworks.com
 ycrc.freshworks.com
 yellowbp.freshworks.com

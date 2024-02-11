@@ -8,6 +8,7 @@ http://acm12.freshworks.com
 http://acrsupport.freshworks.com
 http://adcmovil.freshworks.com
 http://adelogroup.freshworks.com
+http://adserveplchelp.freshworks.com
 http://advantsolutions.freshworks.com
 http://affiliatepartner-freshcaller.freshworks.com
 http://affiliatepartner-freshcaller.freshworks.com:8080
@@ -191,6 +192,7 @@ http://inloox.freshworks.com
 http://intango.freshworks.com
 http://internalreferral.freshworks.com
 http://intuitionpublishingltd.freshworks.com
+http://investor.freshworks.com
 http://invohealthcare.freshworks.com
 http://istonline.freshworks.com
 http://jacoinchelp.freshworks.com
@@ -344,6 +346,7 @@ http://www.qcommission.freshworks.com
 http://www.salesdemohub.freshworks.com
 http://www.spectra.freshworks.com
 http://www.trust.internal.freshworks.com
+http://xidcorp.freshworks.com
 http://xpeppersit.freshworks.com
 http://ycrc.freshworks.com
 http://yellowbp.freshworks.com
@@ -360,6 +363,7 @@ https://acm12.freshworks.com
 https://acrsupport.freshworks.com
 https://adcmovil.freshworks.com
 https://adelogroup.freshworks.com
+https://adserveplchelp.freshworks.com
 https://advantsolutions.freshworks.com
 https://affiliatepartner-freshcaller.freshworks.com
 https://affiliatepartner-freshcaller.freshworks.com:8443
@@ -551,6 +555,7 @@ https://integrations.freshworks.com
 https://internalreferral.freshworks.com
 https://intuitionpublishingltd.freshworks.com
 https://invohealthcare.freshworks.com
+https://ir.freshworks.com
 https://istonline.freshworks.com
 https://jacoinchelp.freshworks.com
 https://janlinders.freshworks.com
@@ -696,6 +701,7 @@ https://www.qcommission.freshworks.com
 https://www.salesdemohub.freshworks.com
 https://www.spectra.freshworks.com
 https://www.trust.internal.freshworks.com
+https://xidcorp.freshworks.com
 https://xpeppersit.freshworks.com
 https://ycrc.freshworks.com
 https://yellowbp.freshworks.com

@@ -18,6 +18,8 @@ adcmovil.freshworks.com:443
 adcmovil.freshworks.com:80
 adelogroup.freshworks.com:443
 adelogroup.freshworks.com:80
+adserveplchelp.freshworks.com:443
+adserveplchelp.freshworks.com:80
 advantsolutions.freshworks.com:443
 advantsolutions.freshworks.com:80
 affiliatepartner-freshcaller.freshworks.com:443
@@ -795,6 +797,8 @@ www.spectra.freshworks.com:443
 www.spectra.freshworks.com:80
 www.trust.internal.freshworks.com:443
 www.trust.internal.freshworks.com:80
+xidcorp.freshworks.com:443
+xidcorp.freshworks.com:80
 xpeppersit.freshworks.com:443
 xpeppersit.freshworks.com:80
 ycrc.freshworks.com:443

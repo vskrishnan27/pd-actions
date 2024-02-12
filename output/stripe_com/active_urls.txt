@@ -25,6 +25,7 @@ http://cmh.corp.stripe.com:443
 http://code.stripe.com
 http://community.stripe.com
 http://connect-js.stripe.com
+http://connect.stripe.com
 http://connections-auth.stripe.com
 http://connections-barclays.stripe.com
 http://crypto-js.stripe.com
@@ -43,15 +44,16 @@ http://edge-billing.stripe.com
 http://edge-book.stripe.com
 http://edge-buy.stripe.com
 http://edge-checkout-tree.stripe.com
+http://edge-checkout-tree.stripe.com:443
 http://edge-checkout.stripe.com
 http://edge-dashboard-admin.stripe.com
 http://edge-dashboard.stripe.com
 http://edge-donate.stripe.com
 http://edge-invoice.stripe.com
 http://edge-js-tree.stripe.com
-http://edge-js-tree.stripe.com:443
 http://edge-js.stripe.com
 http://edge-manage.stripe.com
+http://edge-pay.stripe.com
 http://edge.stripe.com
 http://eidas-cert.stripe.com
 http://email-57.stripe.com
@@ -60,6 +62,7 @@ http://email-91.stripe.com
 http://enhance-public.stripe.com
 http://errors.stripe.com
 http://express.stripe.com
+http://ext.stripe.com
 http://fe-nlb.stripe.com
 http://filedrop.stripe.com
 http://files-global-bluegreen-iad.stripe.com
@@ -98,7 +101,6 @@ http://lists.stripe.com
 http://local.corp.stripe.com:443
 http://lokalise-hooks.stripe.com
 http://mail.stripe.com
-http://manage.stripe.com
 http://marketplace.stripe.com
 http://media.stripe.com
 http://merchant-ui-api.stripe.com
@@ -202,12 +204,12 @@ https://donate.stripe.com
 https://edge-billing.stripe.com
 https://edge-book.stripe.com
 https://edge-buy.stripe.com
-https://edge-checkout-tree.stripe.com
 https://edge-checkout.stripe.com
 https://edge-dashboard-admin.stripe.com
 https://edge-dashboard.stripe.com
 https://edge-donate.stripe.com
 https://edge-invoice.stripe.com
+https://edge-js-tree.stripe.com
 https://edge-js.stripe.com
 https://edge-manage.stripe.com
 https://edge-pay.stripe.com
@@ -257,7 +259,6 @@ https://lists.stripe.com
 https://lokalise-hooks.stripe.com
 https://m.stripe.com
 https://mail.stripe.com
-https://manage.stripe.com
 https://marketplace.stripe.com
 https://media.stripe.com
 https://merchant-ui-api.stripe.com
@@ -279,6 +280,7 @@ https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com
 https://qa-connect-js.stripe.com
 https://qa-crypto-js.stripe.com
+https://qa-ipaddr-3ds.stripe.com
 https://qa-status.stripe.com
 https://qa-support-conversations.stripe.com
 https://qr.stripe.com

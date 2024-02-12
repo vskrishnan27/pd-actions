@@ -42,6 +42,7 @@ developer.chime.com:443
 developer.chime.com:80
 developer.chime.com:8080
 developer.chime.com:8443
+email.ethnio.chime.com:1755
 email.ethnio.chime.com:443
 email.ethnio.chime.com:80
 email.gh-mail.chime.com:443
@@ -56,6 +57,7 @@ email.mg.chime.com:443
 email.mg.chime.com:80
 email.mg.chime.com:8080
 email.mg.chime.com:8443
+email.talent.chime.com:1755
 email.talent.chime.com:443
 email.talent.chime.com:80
 email.teamable.chime.com:443

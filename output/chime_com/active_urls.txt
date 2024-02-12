@@ -1,5 +1,6 @@
 http://16002407.account.chime.com
 http://16002407.account.chime.com:8080
+http://16002407.account.chime.com:8443
 http://16002407.notify.chime.com
 http://16002407.notify.chime.com:8080
 http://16002407.notify.chime.com:8443
@@ -11,6 +12,7 @@ http://attachments.chime.com:8080
 http://attachments.chime.com:8443
 http://autobots-dev1.chime.com
 http://autobots-dev1.chime.com:8080
+http://autobots-dev1.chime.com:8443
 http://autobots-qa.chime.com
 http://autobots-qa.chime.com:8080
 http://autobots-qa.chime.com:8443
@@ -34,6 +36,7 @@ http://email.gh-mail.ext.chime.com:8080
 http://email.gh-mail.ext.chime.com:8443
 http://email.mg.chime.com
 http://email.mg.chime.com:8080
+http://email.mg.chime.com:8443
 http://email.teamable.chime.com
 http://email.teamable.chime.com:8080
 http://email.teamable.chime.com:8443
@@ -58,7 +61,6 @@ http://help.chime.com:8080
 http://help.chime.com:8443
 http://inspector-dev1.chime.com
 http://inspector-dev1.chime.com:8080
-http://inspector-dev1.chime.com:8443
 http://inspector-qa.chime.com
 http://inspector-qa.chime.com:8080
 http://inspector-qa.chime.com:8443
@@ -74,7 +76,6 @@ http://links.notify.chime.com:8080
 http://links.notify.chime.com:8443
 http://locations-qa.chime.com
 http://locations-qa.chime.com:8080
-http://locations-qa.chime.com:8443
 http://locations.chime.com
 http://locations.chime.com:8080
 http://locations.chime.com:8443
@@ -96,6 +97,7 @@ http://monocle-qa.chime.com:8080
 http://monocle-qa.chime.com:8443
 http://monocle.chime.com
 http://monocle.chime.com:8080
+http://monocle.chime.com:8443
 http://penny-dev1.chime.com
 http://penny-dev1.chime.com:8080
 http://penny-dev1.chime.com:8443
@@ -134,12 +136,10 @@ http://wp-integ.chime.com
 http://wp-qa.chime.com
 http://www.chime.com
 https://16002407.account.chime.com
-https://16002407.account.chime.com:8443
 https://16002407.notify.chime.com
 https://app.chime.com
 https://attachments.chime.com
 https://autobots-dev1.chime.com
-https://autobots-dev1.chime.com:8443
 https://autobots-qa.chime.com
 https://autobots.chime.com
 https://careers.chime.com
@@ -154,7 +154,6 @@ https://email.ethnio.chime.com:80
 https://email.gh-mail.chime.com
 https://email.gh-mail.ext.chime.com
 https://email.mg.chime.com
-https://email.mg.chime.com:8443
 https://email.talent.chime.com
 https://email.talent.chime.com:80
 https://email.teamable.chime.com
@@ -168,12 +167,14 @@ https://handbooks.chime.com
 https://help-test.chime.com
 https://help.chime.com
 https://inspector-dev1.chime.com
+https://inspector-dev1.chime.com:8443
 https://inspector-qa.chime.com
 https://inspector.chime.com
 https://interchange.chime.com
 https://links.account.chime.com
 https://links.notify.chime.com
 https://locations-qa.chime.com
+https://locations-qa.chime.com:8443
 https://locations.chime.com
 https://member-dev1.chime.com
 https://member-qa.chime.com
@@ -182,7 +183,6 @@ https://mobile-state.chime.com
 https://monocle-dev1.chime.com
 https://monocle-qa.chime.com
 https://monocle.chime.com
-https://monocle.chime.com:8443
 https://nd.chime.com
 https://penny-dev1.chime.com
 https://penny-qa.chime.com

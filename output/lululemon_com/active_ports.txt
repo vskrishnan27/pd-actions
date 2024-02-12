@@ -1137,8 +1137,6 @@ qa14.preprod.lululemon.com:443
 qa14.preprod.lululemon.com:80
 qa2-info.eu.lululemon.com:443
 qa2-info.eu.lululemon.com:80
-qa2-info.lululemon.com:443
-qa2-info.lululemon.com:80
 qa2-pnimages.lululemon.com:443
 qa2-pnimages.lululemon.com:80
 qa2.info.eu.lululemon.com:443
@@ -1151,14 +1149,12 @@ qa21.preprod.lululemon.com:443
 qa21.preprod.lululemon.com:80
 qa22.preprod.lululemon.com:443
 qa22.preprod.lululemon.com:80
-qa26.preprod.lululemon.com:443
-qa26.preprod.lululemon.com:80
 qa27.preprod.lululemon.com:443
 qa27.preprod.lululemon.com:80
-qa28.preprod.lululemon.com:443
-qa28.preprod.lululemon.com:80
-qa31.preprod.lululemon.com:443
-qa31.preprod.lululemon.com:80
+qa29.preprod.lululemon.com:443
+qa29.preprod.lululemon.com:80
+qa32.preprod.lululemon.com:443
+qa32.preprod.lululemon.com:80
 qa32.preprod.preprod.lululemon.com:443
 qa32.preprod.preprod.lululemon.com:80
 remote.lululemon.com:443
@@ -1172,10 +1168,6 @@ scep.lululemon.com:443
 scep.lululemon.com:80
 secure.lululemon.com:443
 secure.lululemon.com:80
-services.lululemon.com:443
-services.lululemon.com:80
-shop.lululemon.com:443
-shop.lululemon.com:80
 smetrics.lululemon.com:443
 smetrics.lululemon.com:80
 stage-ambassador.lululemon.com:443
@@ -1242,8 +1234,6 @@ sustainability.eu.lululemon.com:443
 sustainability.eu.lululemon.com:80
 sustainability.lululemon.com:443
 sustainability.lululemon.com:80
-svcs.lululemon.com:443
-svcs.lululemon.com:80
 test-shop.lululemon.com:443
 test-shop.lululemon.com:80
 test.preprod-apis.lululemon.com:443
@@ -1263,5 +1253,3 @@ www.eu.lululemon.com:8080
 www.eu.lululemon.com:8443
 www.lululemon.com:443
 www.lululemon.com:80
-youlu.lululemon.com:443
-youlu.lululemon.com:80

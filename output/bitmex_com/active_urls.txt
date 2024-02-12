@@ -15,14 +15,12 @@ http://devhk.bitmex.com:8080
 http://documents.bitmex.com
 http://documents.bitmex.com:8080
 http://documents.devhk.bitmex.com
-http://documents.devhk.bitmex.com:443
 http://documents.devhk.bitmex.com:8080
 http://documents.devsf3.bitmex.com
 http://documents.devsf3.bitmex.com:8080
 http://documents.testnet.bitmex.com
 http://documents.testnet.bitmex.com:8080
 http://eu.onfido.bitmex.com
-http://eu.onfido.bitmex.com:443
 http://eu.onfido.bitmex.com:8080
 http://eu.onfido.devhk.bitmex.com
 http://eu.onfido.devhk.bitmex.com:443
@@ -104,6 +102,7 @@ https://devhk.bitmex.com
 https://devhk.bitmex.com:8443
 https://documents.bitmex.com
 https://documents.bitmex.com:8443
+https://documents.devhk.bitmex.com
 https://documents.devhk.bitmex.com:8443
 https://documents.devsf3.bitmex.com
 https://documents.devsf3.bitmex.com:8443
@@ -115,6 +114,7 @@ https://eu.onfido.bitmex.com:8443
 https://eu.onfido.devhk.bitmex.com:8443
 https://eu.onfido.testnet.bitmex.com
 https://eu.onfido.testnet.bitmex.com:8443
+https://fbnotify.dev.devhk.services.bitmex.com
 https://fbnotify.devhk.services.bitmex.com
 https://fbnotify.prod.services.bitmex.com
 https://fbnotify.public.testnet.services.bitmex.com
@@ -153,6 +153,7 @@ https://upload.bitmex.com:8443
 https://upload.devhk.bitmex.com
 https://upload.devhk.bitmex.com:8443
 https://upload.devsf3.bitmex.com
+https://upload.devsf3.bitmex.com:8443
 https://upload.testnet.bitmex.com
 https://upload.testnet.bitmex.com:8443
 https://vasp.bitmex.com

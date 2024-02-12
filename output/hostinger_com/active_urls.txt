@@ -56,8 +56,6 @@ http://flockcontacts.hostinger.com
 http://flockmail.hostinger.com
 http://help.hostinger.com
 http://help.hostinger.com:8080
-http://hostinger.com
-http://hostinger.com:8080
 http://hpanel.hostinger.com
 http://hpanel.hostinger.com:8443
 http://kontroll.hostinger.com
@@ -146,6 +144,7 @@ https://any2.hostinger.com:8443
 https://api.hostinger.com
 https://apstiprina.hostinger.com
 https://assets.hostinger.com
+https://autenticacion.hostinger.com
 https://autenticar.hostinger.com
 https://autentificacion.hostinger.com
 https://autentificar.hostinger.com
@@ -173,8 +172,6 @@ https://flockcontacts.hostinger.com
 https://flockmail.hostinger.com
 https://help.hostinger.com
 https://help.hostinger.com:8443
-https://hostinger.com
-https://hostinger.com:8443
 https://hpanel.hostinger.com
 https://kontroll.hostinger.com
 https://mail.hostinger.com
@@ -184,6 +181,7 @@ https://ovjeriti.hostinger.com
 https://patvirtinti.hostinger.com
 https://payments.hostinger.com
 https://potvrdit.hostinger.com
+https://potvrzeni.hostinger.com
 https://rdns1.hostinger.com
 https://rdns1.hostinger.com:8443
 https://rest-hosting.hostinger.com
@@ -212,6 +210,7 @@ https://validate3.hostinger.com
 https://validate4.hostinger.com
 https://validate5.hostinger.com
 https://validate6.hostinger.com
+https://validate7.hostinger.com
 https://validate8.hostinger.com
 https://validate9.hostinger.com
 https://valider.hostinger.com

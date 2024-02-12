@@ -81,7 +81,6 @@ http://open-api-staging.polygon.technology
 http://open-api-staging.polygon.technology:8080
 http://partnersupport.polygon.technology
 http://partnersupport.polygon.technology:8080
-http://polygon.technology
 http://polytech-assets.polygon.technology
 http://polytech-assets.polygon.technology:8080
 http://rfs-dev-api.polygon.technology
@@ -205,7 +204,6 @@ https://open-api-staging.polygon.technology
 https://open-api-staging.polygon.technology:8443
 https://partnersupport.polygon.technology
 https://partnersupport.polygon.technology:8443
-https://polygon.technology
 https://polytech-assets.polygon.technology
 https://polytech-assets.polygon.technology:8443
 https://rfs-dev-api.polygon.technology

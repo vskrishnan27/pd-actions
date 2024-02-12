@@ -1,4 +1,5 @@
 http://academy.freshworks.com
+http://academy.freshworks.com:443
 http://acalviohelp.freshworks.com
 http://accelalpha.freshworks.com
 http://accounts-us.freshworks.com
@@ -192,7 +193,6 @@ http://inloox.freshworks.com
 http://intango.freshworks.com
 http://internalreferral.freshworks.com
 http://intuitionpublishingltd.freshworks.com
-http://investor.freshworks.com
 http://invohealthcare.freshworks.com
 http://istonline.freshworks.com
 http://jacoinchelp.freshworks.com
@@ -301,8 +301,8 @@ http://toyotacf.freshworks.com
 http://trust.freshworks.com
 http://trust.internal.freshworks.com
 http://ubx-au.freshworks.com
+http://ubx-eu.freshworks.com
 http://ubx-in.freshworks.com
-http://ubx-mec.freshworks.com
 http://ubx.freshworks.com
 http://uecelectronics.freshworks.com
 http://umt1.freshworks.com
@@ -352,7 +352,6 @@ http://yellowbp.freshworks.com
 http://zaloracluster.freshworks.com
 http://zamak.freshworks.com
 http://zodiahelpdesk.freshworks.com
-https://academy.freshworks.com
 https://acalviohelp.freshworks.com
 https://accelalpha.freshworks.com
 https://accounts-us.freshworks.com
@@ -658,8 +657,8 @@ https://toyotacf.freshworks.com
 https://trust.freshworks.com
 https://trust.internal.freshworks.com
 https://ubx-au.freshworks.com
+https://ubx-eu.freshworks.com
 https://ubx-in.freshworks.com
-https://ubx-mec.freshworks.com
 https://ubx.freshworks.com
 https://uecelectronics.freshworks.com
 https://umt1.freshworks.com

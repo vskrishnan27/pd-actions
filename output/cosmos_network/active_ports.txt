@@ -106,6 +106,10 @@ beta.cosmos.network:443
 beta.cosmos.network:80
 beta.cosmos.network:8080
 beta.cosmos.network:8443
+bigbang.cosmos.network:443
+bigbang.cosmos.network:80
+bigbang.cosmos.network:8080
+bigbang.cosmos.network:8443
 billingapi.bigbang.cosmos.network:443
 billingapi.bigbang.cosmos.network:80
 billingapi.bigbang.cosmos.network:8080
@@ -260,10 +264,6 @@ interchainacademy.cosmos.network:443
 interchainacademy.cosmos.network:80
 interchainacademy.cosmos.network:8080
 interchainacademy.cosmos.network:8443
-irisnet.cosmos.network:443
-irisnet.cosmos.network:80
-irisnet.cosmos.network:8080
-irisnet.cosmos.network:8443
 jobs.cosmos.network:443
 jobs.cosmos.network:80
 jobs.cosmos.network:8080

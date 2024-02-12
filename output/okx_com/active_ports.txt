@@ -48,12 +48,12 @@ tr.okx.com:443
 tr.okx.com:80
 tr.okx.com:8080
 tr.okx.com:8443
-us.okx.com:443
-us.okx.com:80
-us.okx.com:8080
-us.okx.com:8443
 wallet.okx.com:443
 wallet.okx.com:80
+ws.okx.com:443
+ws.okx.com:80
+ws.okx.com:8080
+ws.okx.com:8443
 wsaws.okx.com:443
 wsaws.okx.com:8443
 wsdex.okx.com:443

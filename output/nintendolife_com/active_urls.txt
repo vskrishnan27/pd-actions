@@ -26,7 +26,6 @@ http://m.nintendolife.com
 http://maliaeroports.comwww.nintendolife.com
 http://nintendolife.com
 http://nintendolife.com:8080
-http://nintendolife.com:8443
 http://pfadev.dijgtal.comwww.nintendolife.com
 http://retro.nintendolife.com
 http://snes.nintendolife.com
@@ -39,6 +38,7 @@ http://wii.nintendolife.com
 http://wii2.nintendolife.com
 http://wiiu.nintendolife.com
 http://wiiware.nintendolife.com
+http://ww.nintendolife.com
 http://www.nintendolife.com
 http://www.nintendolife.com:8080
 http://www.nintendolife.com:8443
@@ -61,6 +61,7 @@ https://images.nintendolife.com
 https://m.nintendolife.com
 https://maliaeroports.comwww.nintendolife.com
 https://nintendolife.com
+https://nintendolife.com:8443
 https://pfadev.dijgtal.comwww.nintendolife.com
 https://retro.nintendolife.com
 https://snes.nintendolife.com
@@ -71,4 +72,5 @@ https://wii.nintendolife.com
 https://wii2.nintendolife.com
 https://wiiu.nintendolife.com
 https://wiiware.nintendolife.com
+https://ww.nintendolife.com
 https://www.nintendolife.com

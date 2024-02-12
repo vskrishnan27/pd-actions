@@ -18,6 +18,8 @@ http://ccip.chain.link:8443
 http://chain.link
 http://data.chain.link
 http://data.chain.link:8443
+http://dataengine.chain.link
+http://dataengine.chain.link:8080
 http://defi.chain.link
 http://defi.chain.link:8080
 http://dev.chain.link
@@ -30,6 +32,7 @@ http://email.chain.link
 http://email.chain.link:8080
 http://events.chain.link
 http://faucet.chain.link
+http://faucet.chain.link:8443
 http://faucets-ui-preview.chain.link
 http://faucets-ui-preview.chain.link:8443
 http://faucets.chain.link
@@ -111,6 +114,8 @@ https://careers.chain.link:8443
 https://ccip.chain.link
 https://chain.link
 https://data.chain.link
+https://dataengine.chain.link
+https://dataengine.chain.link:8443
 https://defi.chain.link
 https://defi.chain.link:8443
 https://dev.chain.link
@@ -120,7 +125,6 @@ https://email.chain.link
 https://email.chain.link:8443
 https://events.chain.link
 https://faucet.chain.link
-https://faucet.chain.link:8443
 https://faucets-ui-preview.chain.link
 https://faucets.chain.link
 https://functions.chain.link

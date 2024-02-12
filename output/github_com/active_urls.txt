@@ -7,8 +7,10 @@ http://9c87ebce.github.com
 http://aheckmann.github.com
 http://andrew-ironforge.github.com
 http://androxyde.github.com
+http://api.gist.github.com
 http://api.github.com
 http://api.security.github.com
+http://api.stars.github.com
 http://artblaster.github.com
 http://ask.github.com
 http://atom-installer.github.com
@@ -236,9 +238,9 @@ http://web3395.github.com
 http://web3421.github.com
 http://web5622.github.com
 http://web6014.github.com
-http://workspaces-dev.github.com
-http://workspaces.github.com
+http://workspaces-ppe.github.com
 http://ws.support.github.com
+http://www.api.security.github.com
 http://www.api.stars.github.com
 http://www.github.com
 http://www.graphql-stage.github.com
@@ -249,7 +251,7 @@ http://www.networkx.github.com
 http://www.partnerportal.github.com
 http://www.render-lab.github.com
 http://www.skyline.github.com
-http://www.visualstudio.github.com
+http://www.smtp.github.com
 http://www.ws.support.github.com
 http://xlcteam.github.com
 http://yanjingcheng.github.com
@@ -264,8 +266,10 @@ https://9c87ebce.github.com
 https://aheckmann.github.com
 https://andrew-ironforge.github.com
 https://androxyde.github.com
+https://api.gist.github.com
 https://api.github.com
 https://api.security.github.com
+https://api.stars.github.com
 https://artblaster.github.com
 https://ask.github.com
 https://atom-installer.github.com
@@ -457,6 +461,7 @@ https://porter.github.com
 https://porter2.github.com
 https://posidron.github.com
 https://primercuervo.github.com
+https://proxima-review-lab.github.com
 https://rainmeter.github.com
 https://raw.github.com
 https://realwds.github.com
@@ -498,9 +503,8 @@ https://web3395.github.com
 https://web3421.github.com
 https://web5622.github.com
 https://web6014.github.com
-https://workspaces-dev.github.com
-https://workspaces.github.com
 https://ws.support.github.com
+https://www.api.security.github.com
 https://www.api.stars.github.com
 https://www.github.com
 https://www.graphql-stage.github.com
@@ -511,7 +515,7 @@ https://www.networkx.github.com
 https://www.partnerportal.github.com
 https://www.render-lab.github.com
 https://www.skyline.github.com
-https://www.visualstudio.github.com
+https://www.smtp.github.com
 https://www.ws.support.github.com
 https://xlcteam.github.com
 https://yanjingcheng.github.com

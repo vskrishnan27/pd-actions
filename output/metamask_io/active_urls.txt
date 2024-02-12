@@ -18,7 +18,6 @@ http://authentication-us-east-2.api.cx.metamask.io:8080
 http://authentication-us-east-2.api.cx.metamask.io:8443
 http://authentication-us-east-2.dev-api.cx.metamask.io
 http://authentication-us-east-2.dev-api.cx.metamask.io:8080
-http://authentication-us-east-2.dev-api.cx.metamask.io:8443
 http://authentication-us-east-2.uat-api.cx.metamask.io
 http://authentication-us-east-2.uat-api.cx.metamask.io:8080
 http://authentication-us-east-2.uat-api.cx.metamask.io:8443
@@ -30,6 +29,7 @@ http://authentication.dev-api.cx.metamask.io:8080
 http://authentication.dev-api.cx.metamask.io:8443
 http://authentication.uat-api.cx.metamask.io
 http://authentication.uat-api.cx.metamask.io:8080
+http://authentication.uat-api.cx.metamask.io:8443
 http://beta.execution.metamask.io
 http://blockaid-false-positive-portal.metamask.io
 http://blog.metamask.io
@@ -67,6 +67,7 @@ http://evm.dev-api.cx.metamask.io:8080
 http://evm.dev-api.cx.metamask.io:8443
 http://evm.uat-api.cx.metamask.io
 http://evm.uat-api.cx.metamask.io:8080
+http://evm.uat-api.cx.metamask.io:8443
 http://execution.metamask.io
 http://feedback.metamask.io
 http://fund-loss-investigation.metamask.io
@@ -102,7 +103,6 @@ http://learn.metamask.io
 http://metabase.activity.metamask.io
 http://metabase.activity.metamask.io:8080
 http://metabase.activity.metamask.io:8443
-http://metamask.io
 http://mobile.metamask.io
 http://mobile.metamask.io:8080
 http://my-sample-api2-us-east-2.dev-api.cx.metamask.io
@@ -352,11 +352,11 @@ https://account.uat-api.cx.metamask.io
 https://activity.metamask.io
 https://authentication-us-east-2.api.cx.metamask.io
 https://authentication-us-east-2.dev-api.cx.metamask.io
+https://authentication-us-east-2.dev-api.cx.metamask.io:8443
 https://authentication-us-east-2.uat-api.cx.metamask.io
 https://authentication.api.cx.metamask.io
 https://authentication.dev-api.cx.metamask.io
 https://authentication.uat-api.cx.metamask.io
-https://authentication.uat-api.cx.metamask.io:8443
 https://beta.execution.metamask.io
 https://blockaid-false-positive-portal.metamask.io
 https://blog.metamask.io
@@ -377,7 +377,6 @@ https://docs.metamask.io
 https://evm.api.cx.metamask.io
 https://evm.dev-api.cx.metamask.io
 https://evm.uat-api.cx.metamask.io
-https://evm.uat-api.cx.metamask.io:8443
 https://execution.metamask.io
 https://feedback.metamask.io
 https://fund-loss-investigation.metamask.io
@@ -394,7 +393,6 @@ https://labels-us-east-2.dev-api.cx.metamask.io
 https://labels.dev-api.cx.metamask.io
 https://learn.metamask.io
 https://metabase.activity.metamask.io
-https://metamask.io
 https://mobile.metamask.io
 https://mobile.metamask.io:8443
 https://my-sample-api2-us-east-2.dev-api.cx.metamask.io

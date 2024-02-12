@@ -141,9 +141,7 @@ http://image-ps4.api.playstation.com
 http://image.api.playstation.com
 http://image.mail.asia.playstation.com
 http://image.mail.jp.playstation.com
-http://io.playstation.com
 http://is.playstation.com
-http://ivaldi.playstation.com
 http://jp.playstation.com
 http://juega.playstation.com
 http://la.playstation.com
@@ -369,6 +367,7 @@ https://core-entitlements.q1-spint.api.playstation.com
 https://cxqam.ps-support.playstation.com
 https://cxqam.ps-support.playstation.com:8443
 https://cxuat.ps-support.playstation.com
+https://cxuat.ps-support.playstation.com:8443
 https://d-images-dev.playstation.com
 https://d-images-qa.playstation.com
 https://d-images-stage.playstation.com
@@ -428,9 +427,7 @@ https://image-ps4.api.playstation.com
 https://image.api.playstation.com
 https://image.mail.asia.playstation.com
 https://image.mail.jp.playstation.com
-https://io.playstation.com
 https://is.playstation.com
-https://ivaldi.playstation.com
 https://jp.playstation.com
 https://juega.playstation.com
 https://la.playstation.com
@@ -467,7 +464,6 @@ https://playstation20.eu.playstation.com
 https://playstationvue.us.playstation.com
 https://presscenter.playstation.com
 https://preview.direct.e1-np.playstation.com
-https://preview.playstation.com
 https://previewer.playstation.com
 https://profile.api.playstation.com
 https://profiles.us.playstation.com

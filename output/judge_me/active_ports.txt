@@ -8,8 +8,6 @@ cache.judge.me:443
 cache.judge.me:80
 careers.judge.me:443
 careers.judge.me:80
-cdn.judge.me:443
-cdn.judge.me:80
 cdn1.judge.me:443
 cdn1.judge.me:80
 checkout.judge.me:443

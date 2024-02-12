@@ -3,7 +3,6 @@ http://assets.judge.me
 http://blog.judge.me
 http://cache.judge.me
 http://careers.judge.me
-http://cdn.judge.me
 http://cdn1.judge.me
 http://checkout.judge.me
 http://checkout.judge.me:8080
@@ -13,6 +12,7 @@ http://feedback.judge.me
 http://feedback.judge.me:8080
 http://help.judge.me
 http://help.judge.me:8080
+http://help.judge.me:8443
 http://images.judge.me
 http://judge.me
 http://pub-images.judge.me
@@ -30,14 +30,12 @@ https://assets.judge.me
 https://blog.judge.me
 https://cache.judge.me
 https://careers.judge.me
-https://cdn.judge.me
 https://cdn1.judge.me
 https://checkout.judge.me
 https://events.judge.me
 https://feedback.judge.me
 https://feedback.judge.me:8443
 https://help.judge.me
-https://help.judge.me:8443
 https://images.judge.me
 https://judge.me
 https://pub-images.judge.me

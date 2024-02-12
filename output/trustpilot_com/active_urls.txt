@@ -93,7 +93,6 @@ http://jp.business.trustpilot.com
 http://jp.trustpilot.com
 http://la.business.trustpilot.com
 http://legal-preview.trustpilot.com
-http://legal.trustpilot.com
 http://link.trustpilot.com
 http://links.trustpilot.com
 http://looker.trustpilot.com
@@ -253,7 +252,6 @@ https://jp.business.trustpilot.com
 https://jp.trustpilot.com
 https://la.business.trustpilot.com
 https://legal-preview.trustpilot.com
-https://legal.trustpilot.com
 https://link.trustpilot.com
 https://links.trustpilot.com
 https://looker.trustpilot.com

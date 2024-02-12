@@ -22,8 +22,6 @@ api.github.com:443
 api.github.com:80
 api.security.github.com:443
 api.security.github.com:80
-api.stars.github.com:443
-api.stars.github.com:80
 artblaster.github.com:443
 artblaster.github.com:80
 ask.github.com:443
@@ -461,8 +459,6 @@ realwds.github.com:443
 realwds.github.com:80
 redirect.github.com:443
 redirect.github.com:80
-registry.github.com:443
-registry.github.com:80
 remeniuk.github.com:443
 remeniuk.github.com:80
 remy.github.com:443
@@ -499,6 +495,7 @@ skyline.github.com:443
 skyline.github.com:80
 slack.github.com:443
 slack.github.com:80
+smtp.github.com:25
 ssh.github.com:22
 ssh.github.com:443
 ssh.github.com:80
@@ -542,12 +539,10 @@ web5622.github.com:443
 web5622.github.com:80
 web6014.github.com:443
 web6014.github.com:80
-workspaces-ppe.github.com:443
-workspaces-ppe.github.com:80
+workspaces-dev.github.com:443
+workspaces-dev.github.com:80
 ws.support.github.com:443
 ws.support.github.com:80
-www.api.security.github.com:443
-www.api.security.github.com:80
 www.api.stars.github.com:443
 www.api.stars.github.com:80
 www.github.com:22
@@ -571,8 +566,8 @@ www.skyline.github.com:443
 www.skyline.github.com:80
 www.smtp.github.com:443
 www.smtp.github.com:80
-www.ws.support.github.com:443
-www.ws.support.github.com:80
+www.visualstudio.github.com:443
+www.visualstudio.github.com:80
 xlcteam.github.com:443
 xlcteam.github.com:80
 yanjingcheng.github.com:443

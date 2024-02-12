@@ -226,6 +226,8 @@ drone-ci.sc-corp.net:443
 drone-ci.sc-corp.net:80
 drone-github.sc-corp.net:443
 drone-github.sc-corp.net:80
+eatmyshortener.gae.sc-corp.net:443
+eatmyshortener.gae.sc-corp.net:80
 eelabinventory.sc-corp.net:443
 eelabinventory.sc-corp.net:80
 email-scheduler-beta.sc-corp.net:443
@@ -866,6 +868,8 @@ smp-dev.api.search.sc-corp.net:443
 smp-dev.api.search.sc-corp.net:80
 smp-prod.api.search.sc-corp.net:443
 smp-prod.api.search.sc-corp.net:80
+snap-lion.gae.sc-corp.net:443
+snap-lion.gae.sc-corp.net:80
 snap-lion.sc-corp.net:443
 snap-lion.sc-corp.net:80
 snap-sre.gae.sc-corp.net:443

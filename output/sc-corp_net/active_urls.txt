@@ -57,6 +57,7 @@ http://developer-portal.sc-corp.net
 http://device-trust.sc-corp.net
 http://drone-ci.sc-corp.net
 http://drone-github.sc-corp.net
+http://eatmyshortener.gae.sc-corp.net
 http://eelabinventory.sc-corp.net
 http://email-scheduler-beta.sc-corp.net
 http://email-scheduler-dev.sc-corp.net
@@ -167,6 +168,7 @@ http://shappy.sc-corp.net
 http://shiny-tool.secproxy.sc-corp.net
 http://smp-dev.api.search.sc-corp.net
 http://smp-prod.api.search.sc-corp.net
+http://snap-lion.gae.sc-corp.net
 http://snap-lion.sc-corp.net
 http://snap-sre.gae.sc-corp.net
 http://snap-web-preview-dot-entapps-web-dev.gae.sc-corp.net
@@ -279,6 +281,7 @@ https://developer-portal.sc-corp.net
 https://device-trust.sc-corp.net
 https://drone-ci.sc-corp.net
 https://drone-github.sc-corp.net
+https://eatmyshortener.gae.sc-corp.net
 https://eelabinventory.sc-corp.net
 https://email-scheduler-beta.sc-corp.net
 https://email-scheduler-dev.sc-corp.net
@@ -289,7 +292,6 @@ https://engflow-cache.sc-corp.net
 https://expresso.sc-corp.net
 https://facet-staging.sc-corp.net
 https://facet.sc-corp.net
-https://fleetdm-proxy.sc-corp.net
 https://fleetdm.sc-corp.net
 https://flowrida-ad-insights.sc-corp.net
 https://flowrida-ad-ranking.sc-corp.net
@@ -399,6 +401,7 @@ https://shiny-tool.secproxy.sc-corp.net
 https://sm-ca.sc-corp.net
 https://smp-dev.api.search.sc-corp.net
 https://smp-prod.api.search.sc-corp.net
+https://snap-lion.gae.sc-corp.net
 https://snap-lion.sc-corp.net
 https://snap-sre.gae.sc-corp.net
 https://snap-web-preview-dot-entapps-web-dev.gae.sc-corp.net

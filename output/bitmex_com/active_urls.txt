@@ -15,14 +15,17 @@ http://devhk.bitmex.com:8080
 http://documents.bitmex.com
 http://documents.bitmex.com:8080
 http://documents.devhk.bitmex.com
+http://documents.devhk.bitmex.com:443
 http://documents.devhk.bitmex.com:8080
 http://documents.devsf3.bitmex.com
 http://documents.devsf3.bitmex.com:8080
 http://documents.testnet.bitmex.com
 http://documents.testnet.bitmex.com:8080
 http://eu.onfido.bitmex.com
+http://eu.onfido.bitmex.com:443
 http://eu.onfido.bitmex.com:8080
 http://eu.onfido.devhk.bitmex.com
+http://eu.onfido.devhk.bitmex.com:443
 http://eu.onfido.devhk.bitmex.com:8080
 http://eu.onfido.testnet.bitmex.com
 http://eu.onfido.testnet.bitmex.com:8080
@@ -30,6 +33,9 @@ http://l.m.bitmex.com
 http://l.m.testnet.bitmex.com
 http://lib.academy.bitmex.com
 http://lib.academy.bitmex.com:8080
+http://onfido.bitmex.com
+http://onfido.bitmex.com:443
+http://onfido.bitmex.com:8080
 http://onfido.devhk.bitmex.com
 http://onfido.devhk.bitmex.com:8080
 http://onfido.devsf3.bitmex.com
@@ -98,7 +104,6 @@ https://devhk.bitmex.com
 https://devhk.bitmex.com:8443
 https://documents.bitmex.com
 https://documents.bitmex.com:8443
-https://documents.devhk.bitmex.com
 https://documents.devhk.bitmex.com:8443
 https://documents.devsf3.bitmex.com
 https://documents.devsf3.bitmex.com:8443
@@ -106,13 +111,10 @@ https://documents.testnet.bitmex.com
 https://documents.testnet.bitmex.com:8443
 https://email.mg.bitmex.com
 https://email.mg.bitmex.com:80
-https://eu.onfido.bitmex.com
 https://eu.onfido.bitmex.com:8443
-https://eu.onfido.devhk.bitmex.com
 https://eu.onfido.devhk.bitmex.com:8443
 https://eu.onfido.testnet.bitmex.com
 https://eu.onfido.testnet.bitmex.com:8443
-https://fbnotify.dev.devhk.services.bitmex.com
 https://fbnotify.devhk.services.bitmex.com
 https://fbnotify.prod.services.bitmex.com
 https://fbnotify.public.testnet.services.bitmex.com
@@ -120,6 +122,7 @@ https://l.m.bitmex.com
 https://l.m.testnet.bitmex.com
 https://lib.academy.bitmex.com
 https://lib.academy.bitmex.com:8443
+https://onfido.bitmex.com:8443
 https://onfido.devhk.bitmex.com
 https://onfido.devhk.bitmex.com:8443
 https://onfido.devsf3.bitmex.com
@@ -150,7 +153,6 @@ https://upload.bitmex.com:8443
 https://upload.devhk.bitmex.com
 https://upload.devhk.bitmex.com:8443
 https://upload.devsf3.bitmex.com
-https://upload.devsf3.bitmex.com:8443
 https://upload.testnet.bitmex.com
 https://upload.testnet.bitmex.com:8443
 https://vasp.bitmex.com

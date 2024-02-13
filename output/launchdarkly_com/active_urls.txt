@@ -29,7 +29,8 @@ http://clientstream-stg.intuit.launchdarkly.com
 http://clientstream-stg.launchdarkly.com
 http://clientstream-use1.launchdarkly.com
 http://clientstream-use2.intuit.launchdarkly.com
-http://clientstream-use2.intuit.launchdarkly.com:443
+http://clientstream.intuit.launchdarkly.com
+http://clientstream.intuit.launchdarkly.com:443
 http://clientstream.launchdarkly.com
 http://courier-webhook.dev.launchdarkly.com
 http://data-export-tester-prod.launchdarkly.com:8080
@@ -125,9 +126,9 @@ https://clientstream-stg-usw2.intuit.launchdarkly.com
 https://clientstream-stg.intuit.launchdarkly.com
 https://clientstream-stg.launchdarkly.com
 https://clientstream-use1.launchdarkly.com
+https://clientstream-use2.intuit.launchdarkly.com
 https://clientstream-usw2.intuit.launchdarkly.com
 https://clientstream.dr.launchdarkly.com
-https://clientstream.intuit.launchdarkly.com
 https://clientstream.launchdarkly.com
 https://courier-webhook.dev.launchdarkly.com
 https://data-export-tester-prod.launchdarkly.com
@@ -183,6 +184,8 @@ https://msteams.launchdarkly.com
 https://partnersupport.launchdarkly.com
 https://pubnubtest.launchdarkly.com
 https://resources.launchdarkly.com
+https://retool-staging.prod.tools.launchdarkly.com
+https://retool.prod.tools.launchdarkly.com
 https://sdk.dev.launchdarkly.com
 https://sdk.dr.launchdarkly.com
 https://sdk.launchdarkly.com

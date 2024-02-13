@@ -4,7 +4,6 @@ http://cm-minigames.moonactive.net
 http://moonactive.net
 http://moonactive.net:8080
 http://social-images.moonactive.net
-http://social-images.moonactive.net:8443
 http://static.moonactive.net
 http://vik-game.moonactive.net
 http://vik-game.moonactive.net:8443
@@ -15,6 +14,7 @@ https://cm-minigames.moonactive.net
 https://moonactive.net
 https://moonactive.net:8443
 https://social-images.moonactive.net
+https://social-images.moonactive.net:8443
 https://static.moonactive.net
 https://vik-analytics-gke.moonactive.net
 https://vik-analytics.moonactive.net

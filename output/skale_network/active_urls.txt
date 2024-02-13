@@ -2,12 +2,12 @@ http://bridge.skale.network
 http://countdown.skale.network
 http://countdown.skale.network:8080
 http://delegations-helper.skale.network
+http://delegations-helper.skale.network:8443
 http://developers.skale.network
 http://developers.skale.network:8080
 http://docs.skale.network
 http://docs.skale.network:8443
 http://faucet.skale.network
-http://faucet.skale.network:8443
 http://forum.skale.network
 http://hackathon.skale.network:443
 http://hackathon.skale.network:8443
@@ -24,12 +24,12 @@ https://bridge.skale.network
 https://countdown.skale.network
 https://countdown.skale.network:8443
 https://delegations-helper.skale.network
-https://delegations-helper.skale.network:8443
 https://deployer.skale.network
 https://developers.skale.network
 https://developers.skale.network:8443
 https://docs.skale.network
 https://faucet.skale.network
+https://faucet.skale.network:8443
 https://forum.skale.network
 https://link.skale.network
 https://p2e.skale.network

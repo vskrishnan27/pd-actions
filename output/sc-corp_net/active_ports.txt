@@ -226,8 +226,6 @@ drone-ci.sc-corp.net:443
 drone-ci.sc-corp.net:80
 drone-github.sc-corp.net:443
 drone-github.sc-corp.net:80
-eatmyshortener.gae.sc-corp.net:443
-eatmyshortener.gae.sc-corp.net:80
 eelabinventory.sc-corp.net:443
 eelabinventory.sc-corp.net:80
 email-scheduler-beta.sc-corp.net:443
@@ -269,8 +267,9 @@ ghe-dev.sc-corp.net:443
 ghe-dev.sc-corp.net:80
 github-backup.sc-corp.net:443
 github-backup.sc-corp.net:80
+github.sc-corp.net:443
+github.sc-corp.net:80
 grafana-backup.sc-corp.net:443
-grafana-backup.sc-corp.net:5190
 grafana-backup.sc-corp.net:80
 grafana-cluster.sc-corp.net:443
 grafana-cluster.sc-corp.net:80
@@ -309,8 +308,6 @@ jira-mx.sc-corp.net:443
 jira-mx.sc-corp.net:80
 jira-stage-api.sc-corp.net:443
 jira-stage-api.sc-corp.net:80
-jira-stage.sc-corp.net:443
-jira-stage.sc-corp.net:80
 jira.sc-corp.net:443
 jira.sc-corp.net:80
 key-master-beta.sc-corp.net:10000
@@ -521,9 +518,7 @@ lease.sc-corp.net:443
 lease.sc-corp.net:80
 lego-prod.sc-corp.net:443
 lego-prod.sc-corp.net:80
-lego-staging.sc-corp.net:1433
 lego-staging.sc-corp.net:443
-lego-staging.sc-corp.net:49156
 lego-staging.sc-corp.net:80
 lens-automation-fe.mesh.sc-corp.net:443
 lens-automation-fe.mesh.sc-corp.net:80
@@ -611,6 +606,8 @@ neo4j.sc-corp.net:443
 neo4j.sc-corp.net:80
 okr.sc-corp.net:443
 okr.sc-corp.net:80
+okta-preview.sc-corp.net:443
+okta-preview.sc-corp.net:80
 olympus-staging.secproxy.sc-corp.net:443
 olympus-staging.secproxy.sc-corp.net:80
 orca.sc-corp.net:443
@@ -849,8 +846,6 @@ search-jupyterhub.sc-corp.net:443
 search-jupyterhub.sc-corp.net:80
 secproxy-gated-dot-snap-lion.gae.sc-corp.net:443
 secproxy-gated-dot-snap-lion.gae.sc-corp.net:80
-secproxy.sc-corp.net:443
-secproxy.sc-corp.net:80
 secproxydev.sc-corp.net:443
 secproxydev.sc-corp.net:80
 sentry.sc-corp.net:443
@@ -870,12 +865,13 @@ shappy.sc-corp.net:80
 shiny-tool.secproxy.sc-corp.net:443
 shiny-tool.secproxy.sc-corp.net:80
 sm-ca.sc-corp.net:443
-sm-ca.sc-corp.net:444
 sm-ca.sc-corp.net:80
 smp-dev.api.search.sc-corp.net:443
 smp-dev.api.search.sc-corp.net:80
 smp-prod.api.search.sc-corp.net:443
 smp-prod.api.search.sc-corp.net:80
+snap-lion.gae.sc-corp.net:443
+snap-lion.gae.sc-corp.net:80
 snap-lion.sc-corp.net:443
 snap-lion.sc-corp.net:80
 snap-sre.gae.sc-corp.net:443
@@ -900,9 +896,7 @@ snapengine-jenkins-stage.sc-corp.net:443
 snapengine-jenkins-stage.sc-corp.net:80
 spectre-stage.sc-corp.net:443
 spectre-stage.sc-corp.net:80
-spectre.sc-corp.net:1720
 spectre.sc-corp.net:443
-spectre.sc-corp.net:631
 spectre.sc-corp.net:80
 spinnaker-api-snap-dev.sc-corp.net:443
 spinnaker-api-snap-dev.sc-corp.net:80
@@ -918,7 +912,6 @@ splunk.sc-corp.net:443
 splunk.sc-corp.net:80
 spookey.sc-corp.net:443
 spookey.sc-corp.net:80
-ssh-ca-dev.sc-corp.net:26
 ssh-ca-dev.sc-corp.net:443
 ssh-ca-dev.sc-corp.net:80
 ssh-ca.sc-corp.net:443
@@ -981,9 +974,7 @@ userprofile-http-dev.api.search.sc-corp.net:80
 userprofile-http-prod.api.search.sc-corp.net:443
 userprofile-http-prod.api.search.sc-corp.net:80
 vellum-dev.sc-corp.net:443
-vellum-dev.sc-corp.net:445
 vellum-dev.sc-corp.net:80
-vellum-stg.sc-corp.net:13
 vellum-stg.sc-corp.net:443
 vellum-stg.sc-corp.net:80
 vellum.sc-corp.net:443

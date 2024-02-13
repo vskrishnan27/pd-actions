@@ -44,7 +44,6 @@ developer.chime.com:8080
 developer.chime.com:8443
 email.ethnio.chime.com:443
 email.ethnio.chime.com:80
-email.ethnio.chime.com:8009
 email.gh-mail.chime.com:443
 email.gh-mail.chime.com:80
 email.gh-mail.chime.com:8080
@@ -59,7 +58,6 @@ email.mg.chime.com:8080
 email.mg.chime.com:8443
 email.talent.chime.com:443
 email.talent.chime.com:80
-email.talent.chime.com:8009
 email.teamable.chime.com:443
 email.teamable.chime.com:80
 email.teamable.chime.com:8080
@@ -83,7 +81,6 @@ flashpaper.chime.com:80
 flashpaper.chime.com:8080
 flashpaper.chime.com:8443
 handbooks.chime.com:443
-handbooks.chime.com:587
 handbooks.chime.com:80
 help-test.chime.com:443
 help-test.chime.com:80
@@ -107,7 +104,6 @@ inspector.chime.com:8080
 inspector.chime.com:8443
 interchange.chime.com:443
 interchange.chime.com:80
-interchange.chime.com:8008
 links.account.chime.com:443
 links.account.chime.com:80
 links.account.chime.com:8080
@@ -189,6 +185,8 @@ transaction.chime.com:8080
 transaction.chime.com:8443
 wp-ci.chime.com:443
 wp-ci.chime.com:80
+wp-ci.chime.com:8080
+wp-ci.chime.com:8443
 wp-dev1.chime.com:443
 wp-dev1.chime.com:80
 wp-dev2.chime.com:443
@@ -197,13 +195,23 @@ wp-dev2.chime.com:8080
 wp-dev2.chime.com:8443
 wp-dev3.chime.com:443
 wp-dev3.chime.com:80
+wp-dev3.chime.com:8080
+wp-dev3.chime.com:8443
 wp-dev4.chime.com:443
 wp-dev4.chime.com:80
+wp-dev4.chime.com:8080
+wp-dev4.chime.com:8443
 wp-dev5.chime.com:443
 wp-dev5.chime.com:80
+wp-dev5.chime.com:8080
+wp-dev5.chime.com:8443
 wp-integ.chime.com:443
 wp-integ.chime.com:80
+wp-integ.chime.com:8080
+wp-integ.chime.com:8443
 wp-qa.chime.com:443
 wp-qa.chime.com:80
+wp-qa.chime.com:8080
+wp-qa.chime.com:8443
 www.chime.com:443
 www.chime.com:80

@@ -64,6 +64,7 @@ http://dev.ring.com
 http://devw-b-envproxy-use1.dev.rs.ring.com
 http://dn.ring.com
 http://dn.ring.com:8080
+http://dumper.firmware.ring.com
 http://dynamicfws.ring.com
 http://en-se.ring.com
 http://en-se.ring.com:8080
@@ -86,7 +87,6 @@ http://firmwares.ring.com:8443
 http://fr-fr.ring.com
 http://fr-fr.ring.com:8080
 http://fw-wrapup.ring.com
-http://fw-wrapup.ring.com:8080
 http://fw-wrapup.ring.com:8443
 http://gamma.approvals.shuttle.ring.com
 http://gamma.ring.com

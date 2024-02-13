@@ -260,6 +260,7 @@ dmc000.prod.splunk.dm.ring.com
 dn.ring.com
 doorbelloyster.ring.com
 download.ring.com
+dumper.firmware.ring.com
 dynamicfws.ring.com
 en-se.ring.com
 en-uk.ring.com

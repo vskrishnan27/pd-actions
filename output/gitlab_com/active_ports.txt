@@ -761,6 +761,8 @@ developer.gitlab.com:443
 developer.gitlab.com:80
 doc.gitlab.com:443
 doc.gitlab.com:80
+docs.gitlab.com:443
+docs.gitlab.com:80
 ee.gitlab.com:443
 ee.gitlab.com:80
 ee.gitlab.com:8080
@@ -918,6 +920,7 @@ internal.gitlab.com:80
 ir.gitlab.com:443
 ir.gitlab.com:80
 jitsu-configurator.product-analytics.prototype.gitlab.com:443
+jitsu-configurator.product-analytics.prototype.gitlab.com:49154
 jitsu-configurator.product-analytics.prototype.gitlab.com:80
 jitsu-server.product-analytics.prototype.gitlab.com:443
 jitsu-server.product-analytics.prototype.gitlab.com:80

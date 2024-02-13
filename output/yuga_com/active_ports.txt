@@ -34,7 +34,3 @@ www.yuga.com:443
 www.yuga.com:80
 www.yuga.com:8080
 www.yuga.com:8443
-yuga.com:443
-yuga.com:80
-yuga.com:8080
-yuga.com:8443

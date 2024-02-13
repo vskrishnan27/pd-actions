@@ -8,6 +8,7 @@ http://developers.skale.network:8080
 http://docs.skale.network
 http://docs.skale.network:8443
 http://faucet.skale.network
+http://faucet.skale.network:8443
 http://forum.skale.network
 http://hackathon.skale.network:443
 http://hackathon.skale.network:8443
@@ -29,7 +30,6 @@ https://developers.skale.network
 https://developers.skale.network:8443
 https://docs.skale.network
 https://faucet.skale.network
-https://faucet.skale.network:8443
 https://forum.skale.network
 https://link.skale.network
 https://p2e.skale.network

@@ -94,6 +94,10 @@ apiredirector.bigbang.cosmos.network:443
 apiredirector.bigbang.cosmos.network:80
 apiredirector.bigbang.cosmos.network:8080
 apiredirector.bigbang.cosmos.network:8443
+atlas.cosmos.network:443
+atlas.cosmos.network:80
+atlas.cosmos.network:8080
+atlas.cosmos.network:8443
 atlas.demo.cosmos.network:443
 atlas.demo.cosmos.network:80
 atlas.demo.cosmos.network:8080
@@ -260,6 +264,10 @@ interchainacademy.cosmos.network:443
 interchainacademy.cosmos.network:80
 interchainacademy.cosmos.network:8080
 interchainacademy.cosmos.network:8443
+irisnet.cosmos.network:443
+irisnet.cosmos.network:80
+irisnet.cosmos.network:8080
+irisnet.cosmos.network:8443
 jobs.cosmos.network:443
 jobs.cosmos.network:80
 jobs.cosmos.network:8080
@@ -366,6 +374,10 @@ rpc.irisnet.cosmos.network:443
 rpc.irisnet.cosmos.network:80
 rpc.irisnet.cosmos.network:8080
 rpc.irisnet.cosmos.network:8443
+rpc.testnet.cosmos.network:443
+rpc.testnet.cosmos.network:80
+rpc.testnet.cosmos.network:8080
+rpc.testnet.cosmos.network:8443
 s3-rest.bigbang.cosmos.network:443
 s3-rest.bigbang.cosmos.network:80
 s3-rest.bigbang.cosmos.network:8080
@@ -384,10 +396,6 @@ shop.cosmos.network:8080
 shop.cosmos.network:8443
 signups.cosmos.network:443
 signups.cosmos.network:80
-simulations.cosmos.network:443
-simulations.cosmos.network:80
-simulations.cosmos.network:8080
-simulations.cosmos.network:8443
 slack.cosmos.network:443
 slack.cosmos.network:80
 slack.cosmos.network:8080
@@ -406,6 +414,10 @@ test-api.bigbang.cosmos.network:443
 test-api.bigbang.cosmos.network:80
 test-api.bigbang.cosmos.network:8080
 test-api.bigbang.cosmos.network:8443
+testnet.cosmos.network:443
+testnet.cosmos.network:80
+testnet.cosmos.network:8080
+testnet.cosmos.network:8443
 torus.cosmos.network:443
 torus.cosmos.network:80
 torus.cosmos.network:8080

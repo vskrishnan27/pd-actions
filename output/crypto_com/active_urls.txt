@@ -6,8 +6,6 @@ http://ablink.serviceinfo.crypto.com
 http://ablink.serviceinfo.crypto.com:8080
 http://advertising.crypto.com
 http://advertising.crypto.com:8080
-http://api.crypto.com
-http://api.crypto.com:8080
 http://app-api.nft.crypto.com
 http://app-api.nft.crypto.com:8080
 http://auth-x.crypto.com
@@ -105,8 +103,6 @@ http://shop-directory.crypto.com
 http://shop-directory.crypto.com:8080
 http://shop.crypto.com
 http://shop.crypto.com:8080
-http://static.crypto.com
-http://static.crypto.com:8080
 http://static2.crypto.com
 http://static2.crypto.com:8080
 http://status.crypto.com
@@ -140,8 +136,6 @@ https://ablink.serviceinfo.crypto.com
 https://ablink.serviceinfo.crypto.com:8443
 https://advertising.crypto.com
 https://advertising.crypto.com:8443
-https://api.crypto.com
-https://api.crypto.com:8443
 https://app-api.nft.crypto.com
 https://app-api.nft.crypto.com:8443
 https://auth-x.crypto.com
@@ -239,8 +233,6 @@ https://shop-directory.crypto.com
 https://shop-directory.crypto.com:8443
 https://shop.crypto.com
 https://shop.crypto.com:8443
-https://static.crypto.com
-https://static.crypto.com:8443
 https://static2.crypto.com
 https://static2.crypto.com:8443
 https://status.crypto.com

@@ -17,6 +17,7 @@ aa1715-kline.crypto.com
 aa1715-kline.crypto.com
 aa1715-kline.crypto.com
 aa1715-kline.crypto.com
+aa1715-kline.crypto.com
 ablink.new.crypto.com
 ablink.new.crypto.com
 ablink.new.crypto.com
@@ -35,6 +36,7 @@ ablink.new.crypto.com
 ablink.new.crypto.com
 ablink.new.crypto.com
 ablink.new.crypto.com
+ablink.new.crypto.com
 ablink.news.crypto.com
 ablink.news.crypto.com
 ablink.news.crypto.com
@@ -54,6 +56,8 @@ ablink.news.crypto.com
 ablink.news.crypto.com
 ablink.news.crypto.com
 ablink.news.crypto.com
+ablink.news.crypto.com
+ablink.serviceinfo.crypto.com
 ablink.serviceinfo.crypto.com
 ablink.serviceinfo.crypto.com
 ablink.serviceinfo.crypto.com
@@ -91,6 +95,8 @@ ablink.serviceinfor.crypto.com
 ablink.serviceinfor.crypto.com
 ablink.serviceinfor.crypto.com
 ablink.serviceinfor.crypto.com
+ablink.serviceinfor.crypto.com
+advertising.crypto.com
 advertising.crypto.com
 advertising.crypto.com
 advertising.crypto.com
@@ -129,6 +135,8 @@ api.crypto.com
 api.crypto.com
 api.crypto.com
 api.crypto.com
+api.crypto.com
+app-api.nft.crypto.com
 app-api.nft.crypto.com
 app-api.nft.crypto.com
 app-api.nft.crypto.com
@@ -167,6 +175,8 @@ auth-x.crypto.com
 auth-x.crypto.com
 auth-x.crypto.com
 auth-x.crypto.com
+auth-x.crypto.com
+auth.crypto.com
 auth.crypto.com
 auth.crypto.com
 auth.crypto.com
@@ -205,6 +215,8 @@ auth.tax.crypto.com
 auth.tax.crypto.com
 auth.tax.crypto.com
 auth.tax.crypto.com
+auth.tax.crypto.com
+black-cat.crypto.com
 black-cat.crypto.com
 black-cat.crypto.com
 black-cat.crypto.com
@@ -243,6 +255,8 @@ blog.crypto.com
 blog.crypto.com
 blog.crypto.com
 blog.crypto.com
+blog.crypto.com
+callyourshot.crypto.com
 callyourshot.crypto.com
 callyourshot.crypto.com
 callyourshot.crypto.com
@@ -281,6 +295,8 @@ case.crypto.com
 case.crypto.com
 case.crypto.com
 case.crypto.com
+case.crypto.com
+chain.crypto.com
 chain.crypto.com
 chain.crypto.com
 chain.crypto.com
@@ -319,6 +335,8 @@ click.crypto.com
 click.crypto.com
 click.crypto.com
 click.crypto.com
+click.crypto.com
+coin-price-sse-auth.crypto.com
 coin-price-sse-auth.crypto.com
 coin-price-sse-auth.crypto.com
 coin-price-sse-auth.crypto.com
@@ -357,6 +375,8 @@ content-hub-static.crypto.com
 content-hub-static.crypto.com
 content-hub-static.crypto.com
 content-hub-static.crypto.com
+content-hub-static.crypto.com
+council.crypto.com
 council.crypto.com
 council.crypto.com
 council.crypto.com
@@ -395,6 +415,8 @@ crypto-coin-info-api.crypto.com
 crypto-coin-info-api.crypto.com
 crypto-coin-info-api.crypto.com
 crypto-coin-info-api.crypto.com
+crypto-coin-info-api.crypto.com
+crypto-nft-bridge-api.crypto.com
 crypto-nft-bridge-api.crypto.com
 crypto-nft-bridge-api.crypto.com
 crypto-nft-bridge-api.crypto.com
@@ -432,6 +454,7 @@ crypto.com
 crypto.com
 crypto.com
 crypto.com
+crypto.com
 deriv-api.crypto.com
 deriv-api.crypto.com
 deriv-api.crypto.com
@@ -450,6 +473,8 @@ deriv-api.crypto.com
 deriv-api.crypto.com
 deriv-api.crypto.com
 deriv-api.crypto.com
+deriv-api.crypto.com
+dprd.crypto.com
 dprd.crypto.com
 dprd.crypto.com
 dprd.crypto.com
@@ -488,6 +513,8 @@ exchange-docs.crypto.com
 exchange-docs.crypto.com
 exchange-docs.crypto.com
 exchange-docs.crypto.com
+exchange-docs.crypto.com
+exchange.crypto.com
 exchange.crypto.com
 exchange.crypto.com
 exchange.crypto.com
@@ -526,6 +553,8 @@ fiatway.crypto.com
 fiatway.crypto.com
 fiatway.crypto.com
 fiatway.crypto.com
+fiatway.crypto.com
+help.crypto.com
 help.crypto.com
 help.crypto.com
 help.crypto.com
@@ -564,6 +593,8 @@ help.mco.crypto.com
 help.mco.crypto.com
 help.mco.crypto.com
 help.mco.crypto.com
+help.mco.crypto.com
+helper.crypto.com
 helper.crypto.com
 helper.crypto.com
 helper.crypto.com
@@ -602,6 +633,8 @@ herrgards.crypto.com
 herrgards.crypto.com
 herrgards.crypto.com
 herrgards.crypto.com
+herrgards.crypto.com
+institutions.crypto.com
 institutions.crypto.com
 institutions.crypto.com
 institutions.crypto.com
@@ -640,6 +673,8 @@ js.crypto.com
 js.crypto.com
 js.crypto.com
 js.crypto.com
+js.crypto.com
+limit-order.crypto.com
 limit-order.crypto.com
 limit-order.crypto.com
 limit-order.crypto.com
@@ -678,6 +713,8 @@ marketing-api.crypto.com
 marketing-api.crypto.com
 marketing-api.crypto.com
 marketing-api.crypto.com
+marketing-api.crypto.com
+mco.crypto.com
 mco.crypto.com
 mco.crypto.com
 mco.crypto.com
@@ -716,6 +753,8 @@ media.nft.crypto.com
 media.nft.crypto.com
 media.nft.crypto.com
 media.nft.crypto.com
+media.nft.crypto.com
+merchant.crypto.com
 merchant.crypto.com
 merchant.crypto.com
 merchant.crypto.com
@@ -754,6 +793,7 @@ missions-api.crypto.com
 missions-api.crypto.com
 missions-api.crypto.com
 missions-api.crypto.com
+missions-api.crypto.com
 missions.crypto.com
 missions.crypto.com
 missions.crypto.com
@@ -773,6 +813,8 @@ missions.crypto.com
 missions.crypto.com
 missions.crypto.com
 missions.crypto.com
+missions.crypto.com
+mpro-content-hub.crypto.com
 mpro-content-hub.crypto.com
 mpro-content-hub.crypto.com
 mpro-content-hub.crypto.com
@@ -810,6 +852,7 @@ mx.crypto.com
 mx.crypto.com
 mx.crypto.com
 mx.crypto.com
+mx.crypto.com
 news.crypto.com
 news.crypto.com
 news.crypto.com
@@ -828,6 +871,8 @@ news.crypto.com
 news.crypto.com
 news.crypto.com
 news.crypto.com
+news.crypto.com
+nft.crypto.com
 nft.crypto.com
 nft.crypto.com
 nft.crypto.com
@@ -866,6 +911,8 @@ o1.news.mco.crypto.com
 o1.news.mco.crypto.com
 o1.news.mco.crypto.com
 o1.news.mco.crypto.com
+o1.news.mco.crypto.com
+o2232.abmail.news.crypto.com
 o2232.abmail.news.crypto.com
 o2232.abmail.news.crypto.com
 o2232.abmail.news.crypto.com
@@ -904,6 +951,8 @@ o2662.abmail.serviceinfo.crypto.com
 o2662.abmail.serviceinfo.crypto.com
 o2662.abmail.serviceinfo.crypto.com
 o2662.abmail.serviceinfo.crypto.com
+o2662.abmail.serviceinfo.crypto.com
+o3.ptr7470.mco.crypto.com
 o3.ptr7470.mco.crypto.com
 o3.ptr7470.mco.crypto.com
 o3.ptr7470.mco.crypto.com
@@ -942,6 +991,8 @@ o4.ptr3606.mco.crypto.com
 o4.ptr3606.mco.crypto.com
 o4.ptr3606.mco.crypto.com
 o4.ptr3606.mco.crypto.com
+o4.ptr3606.mco.crypto.com
+opening-night.crypto.com
 opening-night.crypto.com
 opening-night.crypto.com
 opening-night.crypto.com
@@ -980,6 +1031,8 @@ p.crypto.com
 p.crypto.com
 p.crypto.com
 p.crypto.com
+p.crypto.com
+pay-api.crypto.com
 pay-api.crypto.com
 pay-api.crypto.com
 pay-api.crypto.com
@@ -1018,6 +1071,8 @@ pay-docs.crypto.com
 pay-docs.crypto.com
 pay-docs.crypto.com
 pay-docs.crypto.com
+pay-docs.crypto.com
+pay-node.crypto.com
 pay-node.crypto.com
 pay-node.crypto.com
 pay-node.crypto.com
@@ -1056,6 +1111,8 @@ pay.crypto.com
 pay.crypto.com
 pay.crypto.com
 pay.crypto.com
+pay.crypto.com
+payid.crypto.com
 payid.crypto.com
 payid.crypto.com
 payid.crypto.com
@@ -1094,6 +1151,8 @@ paystring.crypto.com
 paystring.crypto.com
 paystring.crypto.com
 paystring.crypto.com
+paystring.crypto.com
+platinum.crypto.com
 platinum.crypto.com
 platinum.crypto.com
 platinum.crypto.com
@@ -1132,6 +1191,8 @@ po.crypto.com
 po.crypto.com
 po.crypto.com
 po.crypto.com
+po.crypto.com
+price-api.crypto.com
 price-api.crypto.com
 price-api.crypto.com
 price-api.crypto.com
@@ -1170,6 +1231,8 @@ price-member-api.crypto.com
 price-member-api.crypto.com
 price-member-api.crypto.com
 price-member-api.crypto.com
+price-member-api.crypto.com
+price-static.crypto.com
 price-static.crypto.com
 price-static.crypto.com
 price-static.crypto.com
@@ -1208,6 +1271,8 @@ promo.crypto.com
 promo.crypto.com
 promo.crypto.com
 promo.crypto.com
+promo.crypto.com
+queue.crypto.com
 queue.crypto.com
 queue.crypto.com
 queue.crypto.com
@@ -1246,6 +1311,8 @@ referral.crypto.com
 referral.crypto.com
 referral.crypto.com
 referral.crypto.com
+referral.crypto.com
+rm.crypto.com
 rm.crypto.com
 rm.crypto.com
 rm.crypto.com
@@ -1283,6 +1350,8 @@ serviceinfo.crypto.com
 serviceinfo.crypto.com
 serviceinfo.crypto.com
 serviceinfo.crypto.com
+serviceinfo.crypto.com
+sgx.crypto.com
 sgx.crypto.com
 sgx.crypto.com
 sgx.crypto.com
@@ -1321,6 +1390,8 @@ shop-demo.crypto.com
 shop-demo.crypto.com
 shop-demo.crypto.com
 shop-demo.crypto.com
+shop-demo.crypto.com
+shop-directory.crypto.com
 shop-directory.crypto.com
 shop-directory.crypto.com
 shop-directory.crypto.com
@@ -1359,6 +1430,8 @@ shop.crypto.com
 shop.crypto.com
 shop.crypto.com
 shop.crypto.com
+shop.crypto.com
+static.crypto.com
 static.crypto.com
 static.crypto.com
 static.crypto.com
@@ -1397,6 +1470,8 @@ static2.crypto.com
 static2.crypto.com
 static2.crypto.com
 static2.crypto.com
+static2.crypto.com
+status.crypto.com
 status.crypto.com
 status.crypto.com
 status.crypto.com
@@ -1435,6 +1510,7 @@ stream.crypto.com
 stream.crypto.com
 stream.crypto.com
 stream.crypto.com
+stream.crypto.com
 tax.crypto.com
 tax.crypto.com
 tax.crypto.com
@@ -1454,6 +1530,8 @@ tax.crypto.com
 tax.crypto.com
 tax.crypto.com
 tax.crypto.com
+tax.crypto.com
+tpp-tmp.crypto.com
 tpp-tmp.crypto.com
 tpp-tmp.crypto.com
 tpp-tmp.crypto.com
@@ -1491,6 +1569,8 @@ tr.crypto.com
 tr.crypto.com
 tr.crypto.com
 tr.crypto.com
+tr.crypto.com
+uat-content-hub.crypto.com
 uat-content-hub.crypto.com
 uat-content-hub.crypto.com
 uat-content-hub.crypto.com
@@ -1529,6 +1609,8 @@ university-service.crypto.com
 university-service.crypto.com
 university-service.crypto.com
 university-service.crypto.com
+university-service.crypto.com
+url1137.crypto.com
 url1137.crypto.com
 url1137.crypto.com
 url1137.crypto.com
@@ -1566,6 +1648,7 @@ vault-sdk.crypto.com
 vault-sdk.crypto.com
 vault-sdk.crypto.com
 vault-sdk.crypto.com
+vault-sdk.crypto.com
 vault.crypto.com
 vault.crypto.com
 vault.crypto.com
@@ -1584,6 +1667,7 @@ vault.crypto.com
 vault.crypto.com
 vault.crypto.com
 vault.crypto.com
+vault.crypto.com
 wallet-connect.crypto.com
 wallet-connect.crypto.com
 wallet-connect.crypto.com
@@ -1603,6 +1687,8 @@ wallet-connect.crypto.com
 wallet-connect.crypto.com
 wallet-connect.crypto.com
 wallet-connect.crypto.com
+wallet-connect.crypto.com
+wallet.crypto.com
 wallet.crypto.com
 wallet.crypto.com
 wallet.crypto.com
@@ -1640,6 +1726,7 @@ www.black-cat.crypto.com
 www.black-cat.crypto.com
 www.black-cat.crypto.com
 www.black-cat.crypto.com
+www.black-cat.crypto.com
 www.crypto.com
 www.crypto.com
 www.crypto.com
@@ -1659,6 +1746,8 @@ www.crypto.com
 www.crypto.com
 www.crypto.com
 www.crypto.com
+www.crypto.com
+xf.crypto.com
 xf.crypto.com
 xf.crypto.com
 xf.crypto.com

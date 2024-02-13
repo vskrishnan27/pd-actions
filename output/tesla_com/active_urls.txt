@@ -1,9 +1,11 @@
+http://akamai-apigateway-automation.tesla.com
 http://akamai-apigateway-bender.tesla.com
 http://akamai-apigateway-captiveunderwriting.tesla.com
 http://akamai-apigateway-charging-ownership.tesla.com
 http://akamai-apigateway-deliveryopsapi.tesla.com
 http://akamai-apigateway-deliveryopsapi1.tesla.com
 http://akamai-apigateway-deliveryopsvitu.tesla.com
+http://akamai-apigateway-dev-captiveunderwriting.tesla.com
 http://akamai-apigateway-dev-warptmsapiserver-upgrade.tesla.com
 http://akamai-apigateway-dev-warptmsapiserver.tesla.com
 http://akamai-apigateway-ehs-stg.tesla.com
@@ -23,6 +25,7 @@ http://akamai-apigateway-packaging2.tesla.com
 http://akamai-apigateway-payment.tesla.com
 http://akamai-apigateway-procuretopayapi.tesla.com
 http://akamai-apigateway-profileapi.tesla.com
+http://akamai-apigateway-qa-captiveunderwriting.tesla.com
 http://akamai-apigateway-shipmentplanningapi.tesla.com
 http://akamai-apigateway-stg-captiveunderwriting.tesla.com
 http://akamai-apigateway-stg-deliveryopsapi.tesla.com
@@ -45,7 +48,6 @@ http://akamai-apigateway-stg-teslarpsapi.tesla.com
 http://akamai-apigateway-stg-translationpipeline.tesla.com
 http://akamai-apigateway-stg-vendorpartsapi.tesla.com
 http://akamai-apigateway-stg-warp3pl.tesla.com
-http://akamai-apigateway-stg-warpassetapi.tesla.com
 http://akamai-apigateway-stg-warpcxml.tesla.com
 http://akamai-apigateway-stg-warpdashboardapi.tesla.com
 http://akamai-apigateway-stg-warpedi.tesla.com
@@ -104,7 +106,6 @@ http://digitalassets-stage.tesla.com
 http://digitalassets.tesla.com
 http://eaa-setup.tesla.com
 http://edr.tesla.com
-http://ehs.tesla.com
 http://employeefeedback.tesla.com
 http://energydesk.tesla.com
 http://energysupport.tesla.com
@@ -155,12 +156,12 @@ http://myapps.tesla.com
 http://onboard.tesla.com
 http://origin-mobile.tesla.com
 http://origin-sspr.tesla.com
-http://ownership.tesla.com
 http://pages.email.tesla.com
 http://pages.emails.tesla.com
 http://partners.tesla.com
 http://pay.tesla.com
 http://pm-bounces.tesla.com
+http://powerhub.energy.tesla.com
 http://profile.tesla.com
 http://pub.email.tesla.com
 http://ranger-api.tesla.com
@@ -335,13 +336,13 @@ https://digitalassets-stage.tesla.com
 https://digitalassets.tesla.com
 https://eaa-setup.tesla.com
 https://edr.tesla.com
-https://ehs.tesla.com
 https://employeefeedback.tesla.com
 https://energydesk.tesla.com
 https://energysupport.tesla.com
 https://engage.tesla.com
 https://envoy-finplat-stg.tesla.com
 https://envoy-finplat-sunlight.tesla.com
+https://envoy-partnerleadsharing.tesla.com
 https://envoy-partnertasks.tesla.com
 https://epc.tesla.com
 https://epcapi.tesla.com
@@ -369,6 +370,7 @@ https://image-emails.tesla.com
 https://image.email.tesla.com
 https://image.emails.tesla.com
 https://inside.tesla.com
+https://installations-ext-api.tesla.com
 https://inventory-assets.tesla.com
 https://ir.tesla.com
 https://kronos-dev.tesla.com
@@ -396,11 +398,11 @@ https://mobile.tesla.com
 https://myapps.tesla.com
 https://npuv-prd.usw2.vn.cloud.tesla.com
 https://onboard.tesla.com
-https://ownership.tesla.com
 https://pages.email.tesla.com
 https://pages.emails.tesla.com
 https://partners.tesla.com
 https://pay.tesla.com
+https://powerhub.energy.tesla.com
 https://profile.tesla.com
 https://pub.email.tesla.com
 https://ranger-api.tesla.com
@@ -435,6 +437,7 @@ https://tcc-graph.tesla.com
 https://tcc-gw-stg.tesla.com
 https://tcc-gw.tesla.com
 https://teamchat.tesla.com
+https://tesla.com
 https://teslacmgap01.tesla.com
 https://teslacmgcn01.tesla.com
 https://teslacmgeu01.tesla.com

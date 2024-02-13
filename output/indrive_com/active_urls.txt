@@ -24,6 +24,7 @@ http://internal.delivery.indrive.com
 http://internal.dev.delivery.indrive.com
 http://internal.qa.delivery.indrive.com
 http://internal.sandbox.delivery.indrive.com
+http://job.indrive.com
 http://landing.indrive.com
 http://lp-food.indrive.com
 http://lp-services.indrive.com
@@ -48,10 +49,8 @@ http://us.indrive.com
 http://ventures.indrive.com
 http://wa-auth.indrive.com
 http://www.beginit.indrive.com
-http://www.book.indrive.com
 http://www.indrive.com
 http://www.intercity.indrive.com
-http://www.lp-food.indrive.com
 http://www.lp-services.indrive.com
 http://www.sparklab.indrive.com
 http://www.supernovas.indrive.com
@@ -84,6 +83,7 @@ https://internal.delivery.indrive.com
 https://internal.dev.delivery.indrive.com
 https://internal.qa.delivery.indrive.com
 https://internal.sandbox.delivery.indrive.com
+https://job.indrive.com
 https://landing.indrive.com
 https://lp-food.indrive.com
 https://lp-services.indrive.com

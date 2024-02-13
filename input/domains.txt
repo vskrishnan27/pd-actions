@@ -1,1 +1,1 @@
-playcanv.as
+sc-core.net

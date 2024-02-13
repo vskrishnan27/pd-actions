@@ -21,6 +21,7 @@ docs.forescout.com
 forescout.com
 fscalab.forescout.com
 fstxlab.forescout.com
+groove.forescout.com
 jsm-us-prd.forescout.com
 jsm-us.forescout.com
 kb.forescout.com

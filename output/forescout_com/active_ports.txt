@@ -53,6 +53,8 @@ forescout.com:443
 forescout.com:80
 forescout.com:8080
 forescout.com:8443
+groove.forescout.com:443
+groove.forescout.com:80
 kb.forescout.com:443
 kb.forescout.com:80
 kb.forescout.com:8080

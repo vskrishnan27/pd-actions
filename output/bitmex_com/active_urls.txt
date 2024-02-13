@@ -36,6 +36,8 @@ http://onfido.devhk.bitmex.com
 http://onfido.devhk.bitmex.com:8080
 http://onfido.devsf3.bitmex.com
 http://onfido.devsf3.bitmex.com:8080
+http://onfido.testnet.bitmex.com
+http://onfido.testnet.bitmex.com:8080
 http://podcasts.academy.bitmex.com
 http://podcasts.academy.bitmex.com:8080
 http://public-testnet.bitmex.com
@@ -60,6 +62,7 @@ http://token.bitmex.com:8080
 http://upload.bitmex.com
 http://upload.bitmex.com:8080
 http://upload.devhk.bitmex.com
+http://upload.devhk.bitmex.com:443
 http://upload.devhk.bitmex.com:8080
 http://upload.devsf3.bitmex.com
 http://upload.devsf3.bitmex.com:8080
@@ -77,8 +80,8 @@ http://web-ws.devhk.bitmex.com
 http://web-ws.devhk.bitmex.com:8080
 http://web-ws.testnet.bitmex.com
 http://web-ws.testnet.bitmex.com:8443
-http://ws.bitmex.com
-http://ws.bitmex.com:8080
+http://ws.devhk.bitmex.com
+http://ws.devhk.bitmex.com:8080
 http://www.bitmex.com
 http://www.bitmex.com:8443
 https://academy.bitmex.com
@@ -122,6 +125,8 @@ https://onfido.devhk.bitmex.com
 https://onfido.devhk.bitmex.com:8443
 https://onfido.devsf3.bitmex.com
 https://onfido.devsf3.bitmex.com:8443
+https://onfido.testnet.bitmex.com
+https://onfido.testnet.bitmex.com:8443
 https://podcasts.academy.bitmex.com
 https://podcasts.academy.bitmex.com:8443
 https://public-testnet.bitmex.com
@@ -143,7 +148,6 @@ https://token.bitmex.com
 https://token.bitmex.com:8443
 https://upload.bitmex.com
 https://upload.bitmex.com:8443
-https://upload.devhk.bitmex.com
 https://upload.devhk.bitmex.com:8443
 https://upload.devsf3.bitmex.com
 https://upload.devsf3.bitmex.com:8443
@@ -159,6 +163,6 @@ https://web-ws.bitmex.com
 https://web-ws.devhk.bitmex.com
 https://web-ws.devhk.bitmex.com:8443
 https://web-ws.testnet.bitmex.com
-https://ws.bitmex.com
-https://ws.bitmex.com:8443
+https://ws.devhk.bitmex.com
+https://ws.devhk.bitmex.com:8443
 https://www.bitmex.com

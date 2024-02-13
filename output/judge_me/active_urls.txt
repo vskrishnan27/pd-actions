@@ -3,6 +3,7 @@ http://assets.judge.me
 http://blog.judge.me
 http://cache.judge.me
 http://careers.judge.me
+http://cdn.judge.me
 http://cdn1.judge.me
 http://checkout.judge.me
 http://checkout.judge.me:8080
@@ -30,6 +31,7 @@ https://assets.judge.me
 https://blog.judge.me
 https://cache.judge.me
 https://careers.judge.me
+https://cdn.judge.me
 https://cdn1.judge.me
 https://checkout.judge.me
 https://events.judge.me

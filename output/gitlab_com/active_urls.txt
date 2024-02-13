@@ -378,10 +378,8 @@ http://metrics.gitlab.com
 http://next.gitlab.com
 http://next.staging.gitlab.com
 http://observe.gitlab.com
-http://observe.gitlab.com:8080
 http://observe.gitlab.com:8443
 http://observe.staging.gitlab.com
-http://observe.staging.gitlab.com:8443
 http://packages.gitlab.com
 http://packages.gitlab.com:8080
 http://packages.gitlab.com:8443
@@ -761,7 +759,6 @@ https://handbook.gitlab.com
 https://hub.gitlab.com
 https://hub.gitlab.com:8443
 https://internal.gitlab.com
-https://ir.gitlab.com
 https://jitsu-configurator.product-analytics.prototype.gitlab.com
 https://jitsu-server.product-analytics.prototype.gitlab.com
 https://jobs.gitlab.com
@@ -781,6 +778,7 @@ https://next.gitlab.com
 https://next.staging.gitlab.com
 https://observe.gitlab.com
 https://observe.staging.gitlab.com
+https://observe.staging.gitlab.com:8443
 https://packages.gitlab.com
 https://page.gitlab.com
 https://partnerflash.gitlab.com

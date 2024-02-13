@@ -333,10 +333,6 @@ classifieds.shopify.com:443
 classifieds.shopify.com:80
 classifieds.shopify.com:8080
 classifieds.shopify.com:8443
-click.email.shopify.com:443
-click.email.shopify.com:80
-click.email.shopify.com:8080
-click.email.shopify.com:8443
 cms.everest.shopify.com:443
 cms.everest.shopify.com:80
 cms.everest.shopify.com:8080
@@ -787,6 +783,10 @@ ihatewhatever.shopify.com:443
 ihatewhatever.shopify.com:80
 ihatewhatever.shopify.com:8080
 ihatewhatever.shopify.com:8443
+image.email.shopify.com:443
+image.email.shopify.com:80
+image.email.shopify.com:8080
+image.email.shopify.com:8443
 inbox.shopify.com:443
 inbox.shopify.com:80
 inbox.shopify.com:8080
@@ -1033,6 +1033,10 @@ mobile.shopify.com:443
 mobile.shopify.com:80
 mobile.shopify.com:8080
 mobile.shopify.com:8443
+mta.email.shopify.com:443
+mta.email.shopify.com:80
+mta.email.shopify.com:8080
+mta.email.shopify.com:8443
 mta2.email.shopify.com:443
 mta2.email.shopify.com:80
 mta2.email.shopify.com:8080
@@ -1396,6 +1400,10 @@ slapshot.shopify.com:443
 slapshot.shopify.com:80
 slapshot.shopify.com:8080
 slapshot.shopify.com:8443
+smarter-tv.shopify.com:443
+smarter-tv.shopify.com:80
+smarter-tv.shopify.com:8080
+smarter-tv.shopify.com:8443
 smiley-staging.shopify.com:443
 smiley-staging.shopify.com:80
 smiley-staging.shopify.com:8080
@@ -1774,6 +1782,10 @@ videomaker.shopify.com:443
 videomaker.shopify.com:80
 videomaker.shopify.com:8080
 videomaker.shopify.com:8443
+view.email.shopify.com:443
+view.email.shopify.com:80
+view.email.shopify.com:8080
+view.email.shopify.com:8443
 vision.shopify.com:443
 vision.shopify.com:80
 vision.shopify.com:8080
@@ -1826,6 +1838,10 @@ windsor.shopify.com:443
 windsor.shopify.com:80
 windsor.shopify.com:8080
 windsor.shopify.com:8443
+ww.shopify.com:443
+ww.shopify.com:80
+ww.shopify.com:8080
+ww.shopify.com:8443
 www.act.shopify.com:443
 www.act.shopify.com:80
 www.act.shopify.com:8080

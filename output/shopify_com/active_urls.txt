@@ -166,8 +166,6 @@ http://classic-help-staging.shopify.com
 http://classic-help.shopify.com
 http://classifieds.shopify.com
 http://classifieds.shopify.com:8080
-http://click.email.shopify.com
-http://click.email.shopify.com:8080
 http://cms.everest.shopify.com
 http://cms.everest.shopify.com:8080
 http://cms.shopify.com
@@ -390,6 +388,8 @@ http://ie.checkout.hardware.shopify.com
 http://ie.checkout.hardware.shopify.com:8080
 http://ihatewhatever.shopify.com
 http://ihatewhatever.shopify.com:8080
+http://image.email.shopify.com
+http://image.email.shopify.com:8080
 http://inbox.shopify.com
 http://inbox.shopify.com:8080
 http://incoming.shopify.com
@@ -513,6 +513,8 @@ http://milestones.shopify.com
 http://milestones.shopify.com:8080
 http://mobile.shopify.com
 http://mobile.shopify.com:8080
+http://mta.email.shopify.com
+http://mta.email.shopify.com:8080
 http://mta2.email.shopify.com
 http://mta2.email.shopify.com:8080
 http://mta3.email.shopify.com
@@ -693,6 +695,8 @@ http://sl2.shopify.com
 http://sl3.shopify.com
 http://slapshot.shopify.com
 http://slapshot.shopify.com:8080
+http://smarter-tv.shopify.com
+http://smarter-tv.shopify.com:8080
 http://smiley-staging.shopify.com
 http://smiley-staging.shopify.com:8080
 http://smiley.shopify.com
@@ -882,6 +886,8 @@ http://vaultapp1.ec2.shopify.com
 http://vaultapp1.ec2.shopify.com:8080
 http://videomaker.shopify.com
 http://videomaker.shopify.com:8080
+http://view.email.shopify.com
+http://view.email.shopify.com:8080
 http://vision.shopify.com
 http://vision.shopify.com:8080
 http://wc.shopify.com
@@ -908,6 +914,8 @@ http://win.shopify.com
 http://win.shopify.com:8080
 http://windsor.shopify.com
 http://windsor.shopify.com:8080
+http://ww.shopify.com
+http://ww.shopify.com:8080
 http://www.act.shopify.com
 http://www.act.shopify.com:8080
 http://www.badeaux.shopify.com
@@ -1090,8 +1098,6 @@ https://classic-help-staging.shopify.com
 https://classic-help.shopify.com
 https://classifieds.shopify.com
 https://classifieds.shopify.com:8443
-https://click.email.shopify.com
-https://click.email.shopify.com:8443
 https://cms.everest.shopify.com
 https://cms.everest.shopify.com:8443
 https://cms.shopify.com
@@ -1317,6 +1323,8 @@ https://ie.checkout.hardware.shopify.com
 https://ie.checkout.hardware.shopify.com:8443
 https://ihatewhatever.shopify.com
 https://ihatewhatever.shopify.com:8443
+https://image.email.shopify.com
+https://image.email.shopify.com:8443
 https://inbox.shopify.com
 https://inbox.shopify.com:8443
 https://incoming.shopify.com
@@ -1440,6 +1448,8 @@ https://milestones.shopify.com
 https://milestones.shopify.com:8443
 https://mobile.shopify.com
 https://mobile.shopify.com:8443
+https://mta.email.shopify.com
+https://mta.email.shopify.com:8443
 https://mta2.email.shopify.com
 https://mta2.email.shopify.com:8443
 https://mta3.email.shopify.com
@@ -1621,6 +1631,8 @@ https://sl2.shopify.com
 https://sl3.shopify.com
 https://slapshot.shopify.com
 https://slapshot.shopify.com:8443
+https://smarter-tv.shopify.com
+https://smarter-tv.shopify.com:8443
 https://smiley-staging.shopify.com
 https://smiley-staging.shopify.com:8443
 https://smiley.shopify.com
@@ -1810,6 +1822,8 @@ https://vaultapp1.ec2.shopify.com
 https://vaultapp1.ec2.shopify.com:8443
 https://videomaker.shopify.com
 https://videomaker.shopify.com:8443
+https://view.email.shopify.com
+https://view.email.shopify.com:8443
 https://vision.shopify.com
 https://vision.shopify.com:8443
 https://wc.shopify.com
@@ -1836,6 +1850,8 @@ https://win.shopify.com
 https://win.shopify.com:8443
 https://windsor.shopify.com
 https://windsor.shopify.com:8443
+https://ww.shopify.com
+https://ww.shopify.com:8443
 https://www.act.shopify.com
 https://www.act.shopify.com:8443
 https://www.badeaux.shopify.com

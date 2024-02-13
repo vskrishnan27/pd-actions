@@ -86,7 +86,6 @@ cla.shopify.com
 classic-help-staging.shopify.com
 classic-help.shopify.com
 classifieds.shopify.com
-click.email.shopify.com
 cms.everest.shopify.com
 cms.shopify.com
 cname.shopify.com
@@ -209,6 +208,7 @@ icinga.ash.shopify.com
 icinga.chi2.shopify.com
 ie.checkout.hardware.shopify.com
 ihatewhatever.shopify.com
+image.email.shopify.com
 in.shopify.com
 inbox.shopify.com
 incoming.shopify.com
@@ -280,6 +280,7 @@ merchandise.shopify.com
 merchant-feedback.shopify.com
 milestones.shopify.com
 mobile.shopify.com
+mta.email.shopify.com
 mta2.email.shopify.com
 mta3.email.shopify.com
 mta4.email.shopify.com

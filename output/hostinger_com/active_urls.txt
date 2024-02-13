@@ -7,7 +7,6 @@ http://any1.hostinger.com:8080
 http://any2.hostinger.com
 http://any2.hostinger.com:8080
 http://api.hostinger.com
-http://api.hostinger.com:8443
 http://apstiprina.hostinger.com
 http://assets.hostinger.com
 http://assets.hostinger.com:8443
@@ -16,6 +15,7 @@ http://autenticar.hostinger.com
 http://autentificacion.hostinger.com
 http://autentificar.hostinger.com
 http://auth.hostinger.com
+http://auth.hostinger.com:8080
 http://auth.hostinger.com:8443
 http://autoconfig.mail.hostinger.com
 http://autodiscover.mail.hostinger.com
@@ -24,7 +24,7 @@ http://builder.hostinger.com
 http://builder.hostinger.com:8080
 http://builder.hostinger.com:8443
 http://cart.hostinger.com
-http://cart.hostinger.com:8080
+http://cart.hostinger.com:8443
 http://cdn.hostinger.com
 http://cdn.hostinger.com:8443
 http://confirmar.hostinger.com
@@ -44,6 +44,7 @@ http://domains.hostinger.com
 http://domains.hostinger.com:8443
 http://e.account.hostinger.com
 http://e.account.hostinger.com:8080
+http://e.account.hostinger.com:8443
 http://e.email.hostinger.com
 http://e.email.hostinger.com:8080
 http://e.email.hostinger.com:8443
@@ -65,6 +66,7 @@ http://mobileconfig.mail.hostinger.com
 http://ovjeriti.hostinger.com
 http://patvirtinti.hostinger.com
 http://payments.hostinger.com
+http://payments.hostinger.com:8443
 http://potvrdit.hostinger.com
 http://potvrzeni.hostinger.com
 http://rdns1.hostinger.com
@@ -140,6 +142,7 @@ https://any1.hostinger.com:8443
 https://any2.hostinger.com
 https://any2.hostinger.com:8443
 https://api.hostinger.com
+https://api.hostinger.com:8443
 https://apstiprina.hostinger.com
 https://assets.hostinger.com
 https://autenticacion.hostinger.com
@@ -152,7 +155,6 @@ https://autodiscover.mail.hostinger.com
 https://bekraeft.hostinger.com
 https://builder.hostinger.com
 https://cart.hostinger.com
-https://cart.hostinger.com:8443
 https://cdn.hostinger.com
 https://confirmar.hostinger.com
 https://connect.hostinger.com
@@ -164,7 +166,6 @@ https://design.hostinger.com
 https://dogrula.hostinger.com
 https://domains.hostinger.com
 https://e.account.hostinger.com
-https://e.account.hostinger.com:8443
 https://e.email.hostinger.com
 https://epikurwsi.hostinger.com
 https://flockcalendar.hostinger.com
@@ -180,7 +181,6 @@ https://mobileconfig.mail.hostinger.com
 https://ovjeriti.hostinger.com
 https://patvirtinti.hostinger.com
 https://payments.hostinger.com
-https://payments.hostinger.com:8443
 https://potvrdit.hostinger.com
 https://potvrzeni.hostinger.com
 https://rdns1.hostinger.com

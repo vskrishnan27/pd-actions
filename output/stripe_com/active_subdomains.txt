@@ -39,6 +39,7 @@ connect-js.stripe.com
 connect.stripe.com
 connections-auth.stripe.com
 connections-barclays.stripe.com
+connections-sandbox.stripe.com
 cpe.corp.stripe.com
 cpe.qa.corp.stripe.com
 crypto-js.stripe.com
@@ -144,6 +145,7 @@ pm-redirects.stripe.com
 ppm.stripe.com
 preprod-cmh.corp.stripe.com
 preprod-connect-js.stripe.com
+preprod-connections-sandbox.stripe.com
 preprod-crypto-js.stripe.com
 preprod-pdx.corp.stripe.com
 preprod.corp.stripe.com
@@ -163,6 +165,7 @@ qa-cdg.corp.stripe.com
 qa-cgk.corp.stripe.com
 qa-cmh.corp.stripe.com
 qa-connect-js.stripe.com
+qa-connections-sandbox.stripe.com
 qa-crypto-js.stripe.com
 qa-dub.corp.stripe.com
 qa-east.corp.stripe.com

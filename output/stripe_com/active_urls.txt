@@ -8,6 +8,7 @@ http://armada.stripe.com
 http://atlas.stripe.com
 http://auth.stripe.com
 http://barclays-hooks.stripe.com
+http://billing.stripe.com
 http://blik-hooks.stripe.com
 http://blog.stripe.com
 http://bom.corp.stripe.com:443
@@ -19,6 +20,7 @@ http://cdg.corp.stripe.com:443
 http://cgk.corp.stripe.com:443
 http://checkout-cookies.stripe.com
 http://checkout.stripe.com
+http://climate.stripe.com
 http://cmh.corp.stripe.com:443
 http://code.stripe.com
 http://community.stripe.com
@@ -26,6 +28,7 @@ http://connect-js.stripe.com
 http://connect.stripe.com
 http://connections-auth.stripe.com
 http://connections-barclays.stripe.com
+http://connections-sandbox.stripe.com
 http://crypto-js.stripe.com
 http://dashboard-admin.stripe.com
 http://dashboard-canary-1-percent.stripe.com
@@ -34,7 +37,6 @@ http://dashboard-canary-5-percent.stripe.com
 http://dashboard-canary-50-percent.stripe.com
 http://dashboard.stripe.com
 http://delegated-authentication.stripe.com
-http://docs.stripe.com
 http://donate.stripe.com
 http://dub.corp.stripe.com:443
 http://east.corp.stripe.com:443
@@ -42,16 +44,21 @@ http://edge-billing.stripe.com
 http://edge-book.stripe.com
 http://edge-buy.stripe.com
 http://edge-checkout-tree.stripe.com
+http://edge-checkout-tree.stripe.com:443
 http://edge-checkout.stripe.com
 http://edge-dashboard-admin.stripe.com
+http://edge-dashboard-admin.stripe.com:443
 http://edge-dashboard.stripe.com
+http://edge-dashboard.stripe.com:443
 http://edge-donate.stripe.com
 http://edge-invoice.stripe.com
 http://edge-js-tree.stripe.com
 http://edge-js-tree.stripe.com:443
 http://edge-js.stripe.com
 http://edge-manage.stripe.com
+http://edge-manage.stripe.com:443
 http://edge-pay.stripe.com
+http://edge-pay.stripe.com:443
 http://edge.stripe.com
 http://eidas-cert.stripe.com
 http://email-57.stripe.com
@@ -86,6 +93,7 @@ http://hubble.corp.stripe.com:443
 http://identity-hooks.stripe.com
 http://indonesia-bt.stripe.com
 http://info-link.stripe.com
+http://invoice.stripe.com
 http://invoicedata.stripe.com
 http://ip-54-186-23-98.stripe.com
 http://ip-54-187-119-242.stripe.com
@@ -95,8 +103,10 @@ http://jira.corp.stripe.com:443
 http://js.stripe.com
 http://jss.prod.corp.stripe.com:443
 http://lists.stripe.com
+http://local.corp.stripe.com:443
 http://lokalise-hooks.stripe.com
 http://mail.stripe.com
+http://manage.stripe.com
 http://marketplace.stripe.com
 http://media.stripe.com
 http://merchant-ui-api.stripe.com
@@ -112,6 +122,8 @@ http://pm-redirects.stripe.com
 http://ppm.stripe.com
 http://preprod-cmh.corp.stripe.com:443
 http://preprod-connect-js.stripe.com
+http://preprod-connections-sandbox.stripe.com
+http://preprod-connections-sandbox.stripe.com:443
 http://preprod-crypto-js.stripe.com
 http://preprod-pdx.corp.stripe.com:443
 http://preprod.corp.stripe.com:443
@@ -119,7 +131,6 @@ http://press.stripe.com
 http://prod-files-flow.stripe.com
 http://prod-frontend-flow.stripe.com
 http://prod-js-tree.stripe.com
-http://prod-js-tree.stripe.com:443
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
 http://public.stripe.com
@@ -131,6 +142,7 @@ http://qa-cdg.corp.stripe.com:443
 http://qa-cgk.corp.stripe.com:443
 http://qa-cmh.corp.stripe.com:443
 http://qa-connect-js.stripe.com
+http://qa-connections-sandbox.stripe.com
 http://qa-crypto-js.stripe.com
 http://qa-dub.corp.stripe.com:443
 http://qa-east.corp.stripe.com:443
@@ -189,6 +201,7 @@ https://connect-js.stripe.com
 https://connect.stripe.com
 https://connections-auth.stripe.com
 https://connections-barclays.stripe.com
+https://connections-sandbox.stripe.com
 https://crypto-js.stripe.com
 https://dashboard-admin.stripe.com
 https://dashboard-canary-1-percent.stripe.com
@@ -202,15 +215,10 @@ https://donate.stripe.com
 https://edge-billing.stripe.com
 https://edge-book.stripe.com
 https://edge-buy.stripe.com
-https://edge-checkout-tree.stripe.com
 https://edge-checkout.stripe.com
-https://edge-dashboard-admin.stripe.com
-https://edge-dashboard.stripe.com
 https://edge-donate.stripe.com
 https://edge-invoice.stripe.com
 https://edge-js.stripe.com
-https://edge-manage.stripe.com
-https://edge-pay.stripe.com
 https://edge.stripe.com
 https://eidas-cert.stripe.com
 https://email-57.stripe.com
@@ -243,6 +251,7 @@ https://hooks.stripe.com
 https://identity-hooks.stripe.com
 https://indonesia-bt.stripe.com
 https://info-link.stripe.com
+https://invoice.stripe.com
 https://invoicedata.stripe.com
 https://ip-54-186-23-98.stripe.com
 https://ip-54-187-119-242.stripe.com
@@ -256,6 +265,7 @@ https://lists.stripe.com
 https://lokalise-hooks.stripe.com
 https://m.stripe.com
 https://mail.stripe.com
+https://manage.stripe.com
 https://marketplace.stripe.com
 https://media.stripe.com
 https://merchant-ui-api.stripe.com
@@ -269,6 +279,7 @@ https://preprod-crypto-js.stripe.com
 https://press.stripe.com
 https://prod-files-flow.stripe.com
 https://prod-frontend-flow.stripe.com
+https://prod-js-tree.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
 https://public.stripe.com
@@ -276,6 +287,7 @@ https://q.stripe.com
 https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com
 https://qa-connect-js.stripe.com
+https://qa-connections-sandbox.stripe.com
 https://qa-crypto-js.stripe.com
 https://qa-ipaddr-3ds.stripe.com
 https://qa-status.stripe.com

@@ -56,6 +56,8 @@ connections-auth.stripe.com:443
 connections-auth.stripe.com:80
 connections-barclays.stripe.com:443
 connections-barclays.stripe.com:80
+connections-sandbox.stripe.com:443
+connections-sandbox.stripe.com:80
 crypto-js.stripe.com:443
 crypto-js.stripe.com:80
 dashboard-admin.stripe.com:443
@@ -170,6 +172,8 @@ indonesia-bt.stripe.com:443
 indonesia-bt.stripe.com:80
 info-link.stripe.com:443
 info-link.stripe.com:80
+invoice.stripe.com:443
+invoice.stripe.com:80
 invoicedata.stripe.com:443
 invoicedata.stripe.com:80
 ip-54-186-23-98.stripe.com:443
@@ -189,11 +193,14 @@ jss.prod.corp.stripe.com:443
 jss.qa.corp.stripe.com:443
 lists.stripe.com:443
 lists.stripe.com:80
+local.corp.stripe.com:443
 lokalise-hooks.stripe.com:443
 lokalise-hooks.stripe.com:80
 m.stripe.com:443
 mail.stripe.com:443
 mail.stripe.com:80
+manage.stripe.com:443
+manage.stripe.com:80
 marketplace.stripe.com:443
 marketplace.stripe.com:80
 media.stripe.com:443
@@ -218,6 +225,8 @@ ppm.stripe.com:80
 preprod-cmh.corp.stripe.com:443
 preprod-connect-js.stripe.com:443
 preprod-connect-js.stripe.com:80
+preprod-connections-sandbox.stripe.com:443
+preprod-connections-sandbox.stripe.com:80
 preprod-crypto-js.stripe.com:443
 preprod-crypto-js.stripe.com:80
 preprod-pdx.corp.stripe.com:443
@@ -248,6 +257,8 @@ qa-cgk.corp.stripe.com:443
 qa-cmh.corp.stripe.com:443
 qa-connect-js.stripe.com:443
 qa-connect-js.stripe.com:80
+qa-connections-sandbox.stripe.com:443
+qa-connections-sandbox.stripe.com:80
 qa-crypto-js.stripe.com:443
 qa-crypto-js.stripe.com:80
 qa-dub.corp.stripe.com:443

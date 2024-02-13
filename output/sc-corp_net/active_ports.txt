@@ -41,8 +41,6 @@ build-hook-prod.sc-corp.net:443
 build-hook-prod.sc-corp.net:80
 build-hook-stage.sc-corp.net:443
 build-hook-stage.sc-corp.net:80
-builds.sc-corp.net:443
-builds.sc-corp.net:80
 ca-dev.sc-corp.net:443
 ca-dev.sc-corp.net:80
 ca-prod.sc-corp.net:443
@@ -53,7 +51,9 @@ campaign-management-dev.sc-corp.net:443
 campaign-management-dev.sc-corp.net:80
 campaign-management-prod.sc-corp.net:443
 campaign-management-prod.sc-corp.net:80
+campus-connect-dev.sc-corp.net:1723
 campus-connect-dev.sc-corp.net:443
+campus-connect-dev.sc-corp.net:515
 campus-connect-dev.sc-corp.net:80
 campus-connect.sc-corp.net:443
 campus-connect.sc-corp.net:80
@@ -226,6 +226,8 @@ drone-ci.sc-corp.net:443
 drone-ci.sc-corp.net:80
 drone-github.sc-corp.net:443
 drone-github.sc-corp.net:80
+eatmyshortener.gae.sc-corp.net:443
+eatmyshortener.gae.sc-corp.net:80
 eelabinventory.sc-corp.net:443
 eelabinventory.sc-corp.net:80
 email-scheduler-beta.sc-corp.net:443
@@ -235,6 +237,7 @@ email-scheduler-dev.sc-corp.net:80
 email-scheduler-prod.sc-corp.net:443
 email-scheduler-prod.sc-corp.net:80
 engflow-cache-gcp-staging.sc-corp.net:443
+engflow-cache-gcp-staging.sc-corp.net:49157
 engflow-cache-gcp-staging.sc-corp.net:80
 engflow-cache-staging.sc-corp.net:443
 engflow-cache.sc-corp.net:443
@@ -244,7 +247,6 @@ facet-staging.sc-corp.net:443
 facet-staging.sc-corp.net:80
 facet.sc-corp.net:443
 facet.sc-corp.net:80
-fleetdm-proxy.sc-corp.net:443
 fleetdm.sc-corp.net:443
 fleetdm.sc-corp.net:80
 flowrida-ad-insights.sc-corp.net:443
@@ -265,10 +267,13 @@ gerrit.sc-corp.net:443
 gerrit.sc-corp.net:80
 ghe-dev.sc-corp.net:443
 ghe-dev.sc-corp.net:80
+github-backup.sc-corp.net:2049
 github-backup.sc-corp.net:443
 github-backup.sc-corp.net:80
 github.sc-corp.net:443
 github.sc-corp.net:80
+go.sc-corp.net:443
+go.sc-corp.net:80
 grafana-backup.sc-corp.net:443
 grafana-backup.sc-corp.net:80
 grafana-cluster.sc-corp.net:443
@@ -279,6 +284,7 @@ grr-admin.sc-corp.net:443
 grr-admin.sc-corp.net:80
 grr-ui.sc-corp.net:443
 grr-ui.sc-corp.net:80
+grr.sc-corp.net:2121
 grr.sc-corp.net:443
 grr.sc-corp.net:80
 grr.sc-corp.net:8080
@@ -308,6 +314,8 @@ jira-mx.sc-corp.net:443
 jira-mx.sc-corp.net:80
 jira-stage-api.sc-corp.net:443
 jira-stage-api.sc-corp.net:80
+jira-stage.sc-corp.net:443
+jira-stage.sc-corp.net:80
 jira.sc-corp.net:443
 jira.sc-corp.net:80
 key-master-beta.sc-corp.net:10000
@@ -518,6 +526,7 @@ lease.sc-corp.net:443
 lease.sc-corp.net:80
 lego-prod.sc-corp.net:443
 lego-prod.sc-corp.net:80
+lego-prod.sc-corp.net:9999
 lego-staging.sc-corp.net:443
 lego-staging.sc-corp.net:80
 lens-automation-fe.mesh.sc-corp.net:443
@@ -913,6 +922,7 @@ splunk.sc-corp.net:80
 spookey.sc-corp.net:443
 spookey.sc-corp.net:80
 ssh-ca-dev.sc-corp.net:443
+ssh-ca-dev.sc-corp.net:5000
 ssh-ca-dev.sc-corp.net:80
 ssh-ca.sc-corp.net:443
 ssh-ca.sc-corp.net:80

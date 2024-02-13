@@ -27,7 +27,6 @@ http://authentication.api.cx.metamask.io:8080
 http://authentication.api.cx.metamask.io:8443
 http://authentication.dev-api.cx.metamask.io
 http://authentication.dev-api.cx.metamask.io:8080
-http://authentication.dev-api.cx.metamask.io:8443
 http://authentication.uat-api.cx.metamask.io
 http://authentication.uat-api.cx.metamask.io:8080
 http://authentication.uat-api.cx.metamask.io:8443
@@ -43,13 +42,11 @@ http://bridge-us-east-2.dev-api.cx.metamask.io:8080
 http://bridge-us-east-2.dev-api.cx.metamask.io:8443
 http://bridge-us-east-2.uat-api.cx.metamask.io
 http://bridge-us-east-2.uat-api.cx.metamask.io:8080
-http://bridge-us-east-2.uat-api.cx.metamask.io:8443
 http://bridge.api.cx.metamask.io
 http://bridge.api.cx.metamask.io:8080
 http://bridge.api.cx.metamask.io:8443
 http://bridge.dev-api.cx.metamask.io
 http://bridge.dev-api.cx.metamask.io:8080
-http://bridge.dev-api.cx.metamask.io:8443
 http://bridge.uat-api.cx.metamask.io
 http://bridge.uat-api.cx.metamask.io:8080
 http://bridge.uat-api.cx.metamask.io:8443
@@ -163,6 +160,7 @@ http://phishing-detection.dev-api.cx.metamask.io:8080
 http://phishing-detection.dev-api.cx.metamask.io:8443
 http://phishing-detection.uat-api.cx.metamask.io
 http://phishing-detection.uat-api.cx.metamask.io:8080
+http://phishing-detection.uat-api.cx.metamask.io:8443
 http://portfolio-us-east-2.api.cx.metamask.io
 http://portfolio-us-east-2.api.cx.metamask.io:8080
 http://portfolio-us-east-2.api.cx.metamask.io:8443
@@ -250,6 +248,7 @@ http://push.api.cx.metamask.io:8080
 http://push.api.cx.metamask.io:8443
 http://push.dev-api.cx.metamask.io
 http://push.dev-api.cx.metamask.io:8080
+http://push.dev-api.cx.metamask.io:8443
 http://push.uat-api.cx.metamask.io
 http://push.uat-api.cx.metamask.io:8080
 http://push.uat-api.cx.metamask.io:8443
@@ -274,7 +273,6 @@ http://token-us-east-2.uat-api.cx.metamask.io:8080
 http://token-us-east-2.uat-api.cx.metamask.io:8443
 http://token.api.cx.metamask.io
 http://token.api.cx.metamask.io:8080
-http://token.api.cx.metamask.io:8443
 http://token.dev-api.cx.metamask.io
 http://token.dev-api.cx.metamask.io:8080
 http://token.dev-api.cx.metamask.io:8443
@@ -355,6 +353,7 @@ https://authentication-us-east-2.dev-api.cx.metamask.io
 https://authentication-us-east-2.uat-api.cx.metamask.io
 https://authentication.api.cx.metamask.io
 https://authentication.dev-api.cx.metamask.io
+https://authentication.dev-api.cx.metamask.io:8443
 https://authentication.uat-api.cx.metamask.io
 https://beta.execution.metamask.io
 https://blockaid-false-positive-portal.metamask.io
@@ -363,8 +362,10 @@ https://blog.metamask.io:8443
 https://bridge-us-east-2.api.cx.metamask.io
 https://bridge-us-east-2.dev-api.cx.metamask.io
 https://bridge-us-east-2.uat-api.cx.metamask.io
+https://bridge-us-east-2.uat-api.cx.metamask.io:8443
 https://bridge.api.cx.metamask.io
 https://bridge.dev-api.cx.metamask.io
+https://bridge.dev-api.cx.metamask.io:8443
 https://bridge.uat-api.cx.metamask.io
 https://community.metamask.io
 https://dev-static.cx.metamask.io
@@ -414,7 +415,6 @@ https://phishing-detection-us-east-2.uat-api.cx.metamask.io
 https://phishing-detection.api.cx.metamask.io
 https://phishing-detection.dev-api.cx.metamask.io
 https://phishing-detection.uat-api.cx.metamask.io
-https://phishing-detection.uat-api.cx.metamask.io:8443
 https://portfolio-us-east-2.api.cx.metamask.io
 https://portfolio-us-east-2.dev-api.cx.metamask.io
 https://portfolio-us-east-2.uat-api.cx.metamask.io
@@ -445,7 +445,6 @@ https://push-us-east-2.dev-api.cx.metamask.io
 https://push-us-east-2.uat-api.cx.metamask.io
 https://push.api.cx.metamask.io
 https://push.dev-api.cx.metamask.io
-https://push.dev-api.cx.metamask.io:8443
 https://push.uat-api.cx.metamask.io
 https://snaps.metamask.io
 https://stage.portfolio.metamask.io
@@ -459,6 +458,7 @@ https://token-us-east-2.api.cx.metamask.io
 https://token-us-east-2.dev-api.cx.metamask.io
 https://token-us-east-2.uat-api.cx.metamask.io
 https://token.api.cx.metamask.io
+https://token.api.cx.metamask.io:8443
 https://token.dev-api.cx.metamask.io
 https://token.uat-api.cx.metamask.io
 https://transaction-us-east-2.api.cx.metamask.io

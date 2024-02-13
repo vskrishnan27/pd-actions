@@ -193,6 +193,7 @@ http://intango.freshworks.com
 http://internalreferral.freshworks.com
 http://intuitionpublishingltd.freshworks.com
 http://invohealthcare.freshworks.com
+http://ir.freshworks.com
 http://istonline.freshworks.com
 http://jacoinchelp.freshworks.com
 http://janlinders.freshworks.com
@@ -436,7 +437,6 @@ https://community.freshworks.com
 https://communityevents.freshworks.com
 https://company-assets.freshworks.com
 https://conetec.freshworks.com
-https://confluence.freshworks.com
 https://consumerdirectcare.freshworks.com
 https://content.freshworks.com
 https://contenthub.freshworks.com

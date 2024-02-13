@@ -264,7 +264,6 @@ company-assets.freshworks.com:443
 company-assets.freshworks.com:80
 conetec.freshworks.com:443
 conetec.freshworks.com:80
-confluence.freshworks.com:443
 consumerdirectcare.freshworks.com:443
 consumerdirectcare.freshworks.com:80
 content.freshworks.com:443

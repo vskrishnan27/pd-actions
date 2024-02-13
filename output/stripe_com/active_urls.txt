@@ -19,7 +19,6 @@ http://cdg.corp.stripe.com:443
 http://cgk.corp.stripe.com:443
 http://checkout-cookies.stripe.com
 http://checkout.stripe.com
-http://climate.stripe.com
 http://cmh.corp.stripe.com:443
 http://code.stripe.com
 http://community.stripe.com
@@ -77,6 +76,7 @@ http://frontend-global-fiad2.stripe.com
 http://frontend-global-fsin1.stripe.com
 http://frontend-global-tree.stripe.com
 http://gateway.stripe.com
+http://gator.stripe.com
 http://gems.stripe.com
 http://git.corp.stripe.com:443
 http://global.stripe.com
@@ -86,7 +86,6 @@ http://hubble.corp.stripe.com:443
 http://identity-hooks.stripe.com
 http://indonesia-bt.stripe.com
 http://info-link.stripe.com
-http://invoice.stripe.com
 http://invoicedata.stripe.com
 http://ip-54-186-23-98.stripe.com
 http://ip-54-187-119-242.stripe.com
@@ -98,7 +97,6 @@ http://jss.prod.corp.stripe.com:443
 http://lists.stripe.com
 http://lokalise-hooks.stripe.com
 http://mail.stripe.com
-http://manage.stripe.com
 http://marketplace.stripe.com
 http://media.stripe.com
 http://merchant-ui-api.stripe.com
@@ -108,6 +106,7 @@ http://npm-registry.local.corp.stripe.com:443
 http://ops-docs.corp.stripe.com:443
 http://pay.stripe.com
 http://payments.stripe.com
+http://pdx.corp.stripe.com:443
 http://pm-hooks.stripe.com
 http://pm-redirects.stripe.com
 http://ppm.stripe.com
@@ -120,6 +119,7 @@ http://press.stripe.com
 http://prod-files-flow.stripe.com
 http://prod-frontend-flow.stripe.com
 http://prod-js-tree.stripe.com
+http://prod-js-tree.stripe.com:443
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
 http://public.stripe.com
@@ -243,11 +243,11 @@ https://hooks.stripe.com
 https://identity-hooks.stripe.com
 https://indonesia-bt.stripe.com
 https://info-link.stripe.com
-https://invoice.stripe.com
 https://invoicedata.stripe.com
 https://ip-54-186-23-98.stripe.com
 https://ip-54-187-119-242.stripe.com
 https://ip-54-187-159-182.stripe.com
+https://ipaddr-3ds.stripe.com
 https://issuing-hooks-public.stripe.com
 https://issuing-key.stripe.com
 https://js.stripe.com
@@ -256,7 +256,6 @@ https://lists.stripe.com
 https://lokalise-hooks.stripe.com
 https://m.stripe.com
 https://mail.stripe.com
-https://manage.stripe.com
 https://marketplace.stripe.com
 https://media.stripe.com
 https://merchant-ui-api.stripe.com
@@ -270,7 +269,6 @@ https://preprod-crypto-js.stripe.com
 https://press.stripe.com
 https://prod-files-flow.stripe.com
 https://prod-frontend-flow.stripe.com
-https://prod-js-tree.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
 https://public.stripe.com

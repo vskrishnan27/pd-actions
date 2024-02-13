@@ -74,7 +74,6 @@ http://links.account.chime.com:8080
 http://links.account.chime.com:8443
 http://links.notify.chime.com
 http://links.notify.chime.com:8080
-http://links.notify.chime.com:8443
 http://locations-qa.chime.com
 http://locations-qa.chime.com:8080
 http://locations-qa.chime.com:8443
@@ -174,6 +173,7 @@ https://inspector.chime.com
 https://interchange.chime.com
 https://links.account.chime.com
 https://links.notify.chime.com
+https://links.notify.chime.com:8443
 https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com

@@ -138,6 +138,7 @@ http://lbc.line.me
 http://lbw-jp.line.me
 http://lbw.line.me
 http://lg-cs.line.me
+http://lgurl.line.me
 http://line-entry-blog.line.me
 http://line-melody.line.me
 http://line-research.line.me
@@ -432,6 +433,7 @@ https://lbc.line.me
 https://lbw-jp.line.me
 https://lbw.line.me
 https://lg-cs.line.me
+https://lgurl.line.me
 https://liff.line.me
 https://line-entry-blog.line.me
 https://line-melody.line.me

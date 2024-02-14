@@ -184,6 +184,7 @@ lbw.line.me
 lcp-checkout.line.me
 lcp-order-external.line.me
 lg-cs.line.me
+lgurl.line.me
 liff.line.me
 line-entry-blog.line.me
 line-melody.line.me

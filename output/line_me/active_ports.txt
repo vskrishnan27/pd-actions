@@ -301,6 +301,8 @@ lbw.line.me:443
 lbw.line.me:80
 lg-cs.line.me:443
 lg-cs.line.me:80
+lgurl.line.me:443
+lgurl.line.me:80
 liff.line.me:443
 line-entry-blog.line.me:443
 line-entry-blog.line.me:80

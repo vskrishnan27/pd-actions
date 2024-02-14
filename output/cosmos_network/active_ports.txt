@@ -34,6 +34,10 @@ api.atlas.cosmos.network:443
 api.atlas.cosmos.network:80
 api.atlas.cosmos.network:8080
 api.atlas.cosmos.network:8443
+api.bigbang.cosmos.network:443
+api.bigbang.cosmos.network:80
+api.bigbang.cosmos.network:8080
+api.bigbang.cosmos.network:8443
 api.brasil.bigbang.cosmos.network:443
 api.brasil.bigbang.cosmos.network:80
 api.brasil.bigbang.cosmos.network:8080
@@ -388,10 +392,6 @@ shop.cosmos.network:8080
 shop.cosmos.network:8443
 signups.cosmos.network:443
 signups.cosmos.network:80
-simulations.cosmos.network:443
-simulations.cosmos.network:80
-simulations.cosmos.network:8080
-simulations.cosmos.network:8443
 slack.cosmos.network:443
 slack.cosmos.network:80
 slack.cosmos.network:8080

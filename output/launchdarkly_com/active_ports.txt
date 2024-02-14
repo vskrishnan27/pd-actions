@@ -65,7 +65,6 @@ clientstream-stg.launchdarkly.com:80
 clientstream-use1.launchdarkly.com:443
 clientstream-use1.launchdarkly.com:80
 clientstream-use2.intuit.launchdarkly.com:443
-clientstream-use2.intuit.launchdarkly.com:80
 clientstream-usw2.intuit.launchdarkly.com:443
 clientstream.dr.launchdarkly.com:443
 clientstream.intuit.launchdarkly.com:443
@@ -135,20 +134,8 @@ hello.launchdarkly.com:443
 hello.launchdarkly.com:80
 integrations-stg.launchdarkly.com:443
 integrations.launchdarkly.com:443
-launchdarkly.com:111
-launchdarkly.com:199
-launchdarkly.com:2000
-launchdarkly.com:23
-launchdarkly.com:32768
-launchdarkly.com:427
 launchdarkly.com:443
-launchdarkly.com:444
-launchdarkly.com:49153
-launchdarkly.com:513
 launchdarkly.com:80
-launchdarkly.com:8000
-launchdarkly.com:8008
-launchdarkly.com:88
 launchpad.launchdarkly.com:443
 launchpad.launchdarkly.com:80
 ld-stg.launchdarkly.com:443
@@ -176,8 +163,6 @@ pubnubtest.launchdarkly.com:443
 pubnubtest.launchdarkly.com:80
 resources.launchdarkly.com:443
 resources.launchdarkly.com:80
-retool-staging.prod.tools.launchdarkly.com:443
-retool.prod.tools.launchdarkly.com:443
 sdk-stg.launchdarkly.com:443
 sdk-stg.launchdarkly.com:80
 sdk.dev.launchdarkly.com:443
@@ -186,6 +171,8 @@ sdk.dev.launchdarkly.com:8080
 sdk.dev.launchdarkly.com:8443
 sdk.dr.launchdarkly.com:443
 sdk.dr.launchdarkly.com:80
+sdk.launchdarkly.com:443
+sdk.launchdarkly.com:80
 slack-app-stg.intuit.launchdarkly.com:443
 slack-app.intuit.launchdarkly.com:443
 slack-stg.launchdarkly.com:443

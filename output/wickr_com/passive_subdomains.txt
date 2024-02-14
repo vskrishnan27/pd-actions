@@ -22,6 +22,8 @@ admin-prod.wickr.com
 admin-prod.wickr.com
 admin-prod.wickr.com
 admin-prod.wickr.com
+admin-prod.wickr.com
+admin.wickr.com
 admin.wickr.com
 admin.wickr.com
 admin.wickr.com
@@ -70,6 +72,8 @@ amazon.wickr.com
 amazon.wickr.com
 amazon.wickr.com
 amazon.wickr.com
+amazon.wickr.com
+api-fips.prod.calling.wickr.com
 api-fips.prod.calling.wickr.com
 api-fips.prod.calling.wickr.com
 api-fips.prod.calling.wickr.com
@@ -118,6 +122,8 @@ api.prod.calling.wickr.com
 api.prod.calling.wickr.com
 api.prod.calling.wickr.com
 api.prod.calling.wickr.com
+api.prod.calling.wickr.com
+countly.wickr.com
 countly.wickr.com
 countly.wickr.com
 countly.wickr.com
@@ -166,6 +172,8 @@ enterprise-download.test.wickr.com
 enterprise-download.test.wickr.com
 enterprise-download.test.wickr.com
 enterprise-download.test.wickr.com
+enterprise-download.test.wickr.com
+enterprise-download.wickr.com
 enterprise-download.wickr.com
 enterprise-download.wickr.com
 enterprise-download.wickr.com
@@ -214,6 +222,8 @@ enterprise.wickr.com
 enterprise.wickr.com
 enterprise.wickr.com
 enterprise.wickr.com
+enterprise.wickr.com
+fed.wickr.com
 fed.wickr.com
 fed.wickr.com
 fed.wickr.com
@@ -262,6 +272,8 @@ fedramp.wickr.com
 fedramp.wickr.com
 fedramp.wickr.com
 fedramp.wickr.com
+fedramp.wickr.com
+finra.wickr.com
 finra.wickr.com
 finra.wickr.com
 finra.wickr.com
@@ -310,6 +322,8 @@ fips-gw-pro-prod.wickr.com
 fips-gw-pro-prod.wickr.com
 fips-gw-pro-prod.wickr.com
 fips-gw-pro-prod.wickr.com
+fips-gw-pro-prod.wickr.com
+go.wickr.com
 go.wickr.com
 go.wickr.com
 go.wickr.com
@@ -358,6 +372,8 @@ gov-cloud-download.wickr.com
 gov-cloud-download.wickr.com
 gov-cloud-download.wickr.com
 gov-cloud-download.wickr.com
+gov-cloud-download.wickr.com
+gw-me-prod.wickr.com
 gw-me-prod.wickr.com
 gw-me-prod.wickr.com
 gw-me-prod.wickr.com
@@ -406,6 +422,8 @@ gw-pro-prod.wickr.com
 gw-pro-prod.wickr.com
 gw-pro-prod.wickr.com
 gw-pro-prod.wickr.com
+gw-pro-prod.wickr.com
+incyte.wickr.com
 incyte.wickr.com
 incyte.wickr.com
 incyte.wickr.com
@@ -454,6 +472,8 @@ jss.wickr.com
 jss.wickr.com
 jss.wickr.com
 jss.wickr.com
+jss.wickr.com
+me-download.test.wickr.com
 me-download.test.wickr.com
 me-download.test.wickr.com
 me-download.test.wickr.com
@@ -502,6 +522,8 @@ me-download.wickr.com
 me-download.wickr.com
 me-download.wickr.com
 me-download.wickr.com
+me-download.wickr.com
+messaging-me-prod.wickr.com
 messaging-me-prod.wickr.com
 messaging-me-prod.wickr.com
 messaging-me-prod.wickr.com
@@ -550,6 +572,8 @@ messaging-pro-prod.wickr.com
 messaging-pro-prod.wickr.com
 messaging-pro-prod.wickr.com
 messaging-pro-prod.wickr.com
+messaging-pro-prod.wickr.com
+messaging-prod.wickr.com
 messaging-prod.wickr.com
 messaging-prod.wickr.com
 messaging-prod.wickr.com
@@ -598,6 +622,8 @@ niap.wickr.com
 niap.wickr.com
 niap.wickr.com
 niap.wickr.com
+niap.wickr.com
+nic.wickr.com
 nic.wickr.com
 nic.wickr.com
 nic.wickr.com
@@ -646,6 +672,8 @@ partners.wickr.com
 partners.wickr.com
 partners.wickr.com
 partners.wickr.com
+partners.wickr.com
+preprod-amazon.wickr.com
 preprod-amazon.wickr.com
 preprod-amazon.wickr.com
 preprod-amazon.wickr.com
@@ -694,6 +722,8 @@ pro-download.test.wickr.com
 pro-download.test.wickr.com
 pro-download.test.wickr.com
 pro-download.test.wickr.com
+pro-download.test.wickr.com
+pro-download.wickr.com
 pro-download.wickr.com
 pro-download.wickr.com
 pro-download.wickr.com
@@ -742,6 +772,7 @@ register.wickr.com
 register.wickr.com
 register.wickr.com
 register.wickr.com
+register.wickr.com
 status.wickr.com
 status.wickr.com
 status.wickr.com
@@ -766,6 +797,8 @@ status.wickr.com
 status.wickr.com
 status.wickr.com
 status.wickr.com
+status.wickr.com
+support.wickr.com
 support.wickr.com
 support.wickr.com
 support.wickr.com
@@ -813,6 +846,8 @@ switchboard-me-prod.wickr.com
 switchboard-me-prod.wickr.com
 switchboard-me-prod.wickr.com
 switchboard-me-prod.wickr.com
+switchboard-me-prod.wickr.com
+temp-admin.wickr.com
 temp-admin.wickr.com
 temp-admin.wickr.com
 temp-admin.wickr.com
@@ -861,6 +896,8 @@ temp-gw-pro-prod.wickr.com
 temp-gw-pro-prod.wickr.com
 temp-gw-pro-prod.wickr.com
 temp-gw-pro-prod.wickr.com
+temp-gw-pro-prod.wickr.com
+testing-amazon.wickr.com
 testing-amazon.wickr.com
 testing-amazon.wickr.com
 testing-amazon.wickr.com
@@ -909,6 +946,8 @@ wickr.com
 wickr.com
 wickr.com
 wickr.com
+wickr.com
+www.amazon.wickr.com
 www.amazon.wickr.com
 www.amazon.wickr.com
 www.amazon.wickr.com
@@ -957,6 +996,8 @@ www.fed.wickr.com
 www.fed.wickr.com
 www.fed.wickr.com
 www.fed.wickr.com
+www.fed.wickr.com
+www.finra.wickr.com
 www.finra.wickr.com
 www.finra.wickr.com
 www.finra.wickr.com
@@ -1005,6 +1046,8 @@ www.incyte.wickr.com
 www.incyte.wickr.com
 www.incyte.wickr.com
 www.incyte.wickr.com
+www.incyte.wickr.com
+www.nic.wickr.com
 www.nic.wickr.com
 www.nic.wickr.com
 www.nic.wickr.com
@@ -1053,6 +1096,8 @@ www.partners.wickr.com
 www.partners.wickr.com
 www.partners.wickr.com
 www.partners.wickr.com
+www.partners.wickr.com
+www.preprod-amazon.wickr.com
 www.preprod-amazon.wickr.com
 www.preprod-amazon.wickr.com
 www.preprod-amazon.wickr.com
@@ -1101,6 +1146,8 @@ www.testing-amazon.wickr.com
 www.testing-amazon.wickr.com
 www.testing-amazon.wickr.com
 www.testing-amazon.wickr.com
+www.testing-amazon.wickr.com
+www.wickr.com
 www.wickr.com
 www.wickr.com
 www.wickr.com

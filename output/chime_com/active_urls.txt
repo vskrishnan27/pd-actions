@@ -33,6 +33,7 @@ http://email.gh-mail.chime.com:8080
 http://email.gh-mail.chime.com:8443
 http://email.gh-mail.ext.chime.com
 http://email.gh-mail.ext.chime.com:8080
+http://email.gh-mail.ext.chime.com:8443
 http://email.mg.chime.com
 http://email.mg.chime.com:8080
 http://email.mg.chime.com:8443
@@ -166,7 +167,6 @@ https://email.ethnio.chime.com
 https://email.ethnio.chime.com:80
 https://email.gh-mail.chime.com
 https://email.gh-mail.ext.chime.com
-https://email.gh-mail.ext.chime.com:8443
 https://email.mg.chime.com
 https://email.talent.chime.com
 https://email.talent.chime.com:80

@@ -22,6 +22,8 @@ api.test.deribit.com
 api.test.deribit.com
 api.test.deribit.com
 api.test.deribit.com
+api.test.deribit.com
+assets.test.deribit.com
 assets.test.deribit.com
 assets.test.deribit.com
 assets.test.deribit.com
@@ -70,6 +72,7 @@ legacy.test.deribit.com
 legacy.test.deribit.com
 legacy.test.deribit.com
 legacy.test.deribit.com
+legacy.test.deribit.com
 pb.test.deribit.com
 pb.test.deribit.com
 pb.test.deribit.com
@@ -94,6 +97,8 @@ pb.test.deribit.com
 pb.test.deribit.com
 pb.test.deribit.com
 pb.test.deribit.com
+pb.test.deribit.com
+test.deribit.com
 test.deribit.com
 test.deribit.com
 test.deribit.com

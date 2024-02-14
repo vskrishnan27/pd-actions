@@ -17,6 +17,7 @@ academy.freshworks.com
 academy.freshworks.com
 academy.freshworks.com
 academy.freshworks.com
+academy.freshworks.com
 acalviohelp.freshworks.com
 acalviohelp.freshworks.com
 acalviohelp.freshworks.com
@@ -96,6 +97,8 @@ accounts.freshworks.com
 accounts.freshworks.com
 accounts.freshworks.com
 accounts.freshworks.com
+accounts.freshworks.com
+accountspayable.freshworks.com
 accountspayable.freshworks.com
 accountspayable.freshworks.com
 accountspayable.freshworks.com
@@ -236,6 +239,8 @@ affiliatepartner-freshcaller.freshworks.com
 affiliatepartner-freshcaller.freshworks.com
 affiliatepartner-freshcaller.freshworks.com
 affiliatepartner-freshcaller.freshworks.com
+affiliatepartner-freshcaller.freshworks.com
+affiliatepartner-freshchat.freshworks.com
 affiliatepartner-freshchat.freshworks.com
 affiliatepartner-freshchat.freshworks.com
 affiliatepartner-freshchat.freshworks.com
@@ -274,6 +279,8 @@ affiliatepartner-freshmarketer.freshworks.com
 affiliatepartner-freshmarketer.freshworks.com
 affiliatepartner-freshmarketer.freshworks.com
 affiliatepartner-freshmarketer.freshworks.com
+affiliatepartner-freshmarketer.freshworks.com
+affiliatepartner-freshsales.freshworks.com
 affiliatepartner-freshsales.freshworks.com
 affiliatepartner-freshsales.freshworks.com
 affiliatepartner-freshsales.freshworks.com
@@ -312,6 +319,8 @@ affiliatepartner-freshservice.freshworks.com
 affiliatepartner-freshservice.freshworks.com
 affiliatepartner-freshservice.freshworks.com
 affiliatepartner-freshservice.freshworks.com
+affiliatepartner-freshservice.freshworks.com
+affiliatepartner-freshteam.freshworks.com
 affiliatepartner-freshteam.freshworks.com
 affiliatepartner-freshteam.freshworks.com
 affiliatepartner-freshteam.freshworks.com
@@ -505,6 +514,7 @@ alfred.freshworks.com
 alfred.freshworks.com
 alfred.freshworks.com
 alfred.freshworks.com
+alfred.freshworks.com
 aliceblueindiahelp.freshworks.com
 aliceblueindiahelp.freshworks.com
 aliceblueindiahelp.freshworks.com
@@ -619,6 +629,7 @@ aloha.freshworks.com
 aloha.freshworks.com
 aloha.freshworks.com
 aloha.freshworks.com
+aloha.freshworks.com
 americloud.freshworks.com
 americloud.freshworks.com
 americloud.freshworks.com
@@ -660,6 +671,8 @@ analytics.freshworks.com
 analytics.freshworks.com
 analytics.freshworks.com
 analytics.freshworks.com
+analytics.freshworks.com
+antispam-euc.freshworks.com
 antispam-euc.freshworks.com
 antispam-euc.freshworks.com
 antispam-euc.freshworks.com
@@ -698,6 +711,7 @@ antispam-ind.freshworks.com
 antispam-ind.freshworks.com
 antispam-ind.freshworks.com
 antispam-ind.freshworks.com
+antispam-ind.freshworks.com
 antispam-staging.freshworks.com
 antispam-staging.freshworks.com
 antispam-staging.freshworks.com
@@ -717,6 +731,8 @@ antispam-staging.freshworks.com
 antispam-staging.freshworks.com
 antispam-staging.freshworks.com
 antispam-staging.freshworks.com
+antispam-staging.freshworks.com
+antispam-syd.freshworks.com
 antispam-syd.freshworks.com
 antispam-syd.freshworks.com
 antispam-syd.freshworks.com
@@ -758,6 +774,8 @@ antispam-us.freshworks.com
 antispam-us.freshworks.com
 antispam-us.freshworks.com
 antispam-us.freshworks.com
+antispam-us.freshworks.com
+api.freshworks.com
 api.freshworks.com
 api.freshworks.com
 api.freshworks.com
@@ -802,6 +820,8 @@ appgallery-aus.freshworks.com
 appgallery-aus.freshworks.com
 appgallery-aus.freshworks.com
 appgallery-aus.freshworks.com
+appgallery-aus.freshworks.com
+appgallery-euc.freshworks.com
 appgallery-euc.freshworks.com
 appgallery-euc.freshworks.com
 appgallery-euc.freshworks.com
@@ -846,6 +866,7 @@ appgallery-ind.freshworks.com
 appgallery-ind.freshworks.com
 appgallery-ind.freshworks.com
 appgallery-ind.freshworks.com
+appgallery-ind.freshworks.com
 appgallery.freshworks.com
 appgallery.freshworks.com
 appgallery.freshworks.com
@@ -868,6 +889,8 @@ appgallery.freshworks.com
 appgallery.freshworks.com
 appgallery.freshworks.com
 appgallery.freshworks.com
+appgallery.freshworks.com
+apps.freshworks.com
 apps.freshworks.com
 apps.freshworks.com
 apps.freshworks.com
@@ -969,6 +992,8 @@ au.accounts.freshworks.com
 au.accounts.freshworks.com
 au.accounts.freshworks.com
 au.accounts.freshworks.com
+au.accounts.freshworks.com
+au.freshworks.com
 au.freshworks.com
 au.freshworks.com
 au.freshworks.com
@@ -1010,6 +1035,7 @@ aulavirtualmibanco.freshworks.com
 aulavirtualmibanco.freshworks.com
 aulavirtualmibanco.freshworks.com
 aulavirtualmibanco.freshworks.com
+aus-widget.freshworks.com
 aus-widget.freshworks.com
 aus-widget.freshworks.com
 aus-widget.freshworks.com
@@ -1092,6 +1118,7 @@ avatar2.freshworks.com
 avatar2.freshworks.com
 avatar2.freshworks.com
 avatar2.freshworks.com
+avatar2.freshworks.com
 baldwinriskpartners.freshworks.com
 baldwinriskpartners.freshworks.com
 baldwinriskpartners.freshworks.com
@@ -1111,6 +1138,7 @@ baldwinriskpartners.freshworks.com
 baldwinriskpartners.freshworks.com
 baldwinriskpartners.freshworks.com
 baldwinriskpartners.freshworks.com
+belize.freshworks.com
 belize.freshworks.com
 belize.freshworks.com
 belize.freshworks.com
@@ -1190,6 +1218,8 @@ blog-assets.freshworks.com
 blog-assets.freshworks.com
 blog-assets.freshworks.com
 blog-assets.freshworks.com
+blog-assets.freshworks.com
+blog-fsuccess-en.freshworks.com
 blog-fsuccess-en.freshworks.com
 blog-fsuccess-en.freshworks.com
 blog-fsuccess-en.freshworks.com
@@ -1234,6 +1264,8 @@ blog-fworks-en.freshworks.com
 blog-fworks-en.freshworks.com
 blog-fworks-en.freshworks.com
 blog-fworks-en.freshworks.com
+blog-fworks-en.freshworks.com
+blog.freshworks.com
 blog.freshworks.com
 blog.freshworks.com
 blog.freshworks.com
@@ -1428,6 +1460,7 @@ careers.freshworks.com
 careers.freshworks.com
 careers.freshworks.com
 careers.freshworks.com
+careers.freshworks.com
 carltononeengagement.freshworks.com
 carltononeengagement.freshworks.com
 carltononeengagement.freshworks.com
@@ -1504,6 +1537,7 @@ ceressolutionscoop.freshworks.com
 ceressolutionscoop.freshworks.com
 ceressolutionscoop.freshworks.com
 ceressolutionscoop.freshworks.com
+changemakers.freshworks.com
 changemakers.freshworks.com
 changemakers.freshworks.com
 changemakers.freshworks.com
@@ -1637,6 +1671,7 @@ community.developer.freshworks.com
 community.developer.freshworks.com
 community.developer.freshworks.com
 community.developer.freshworks.com
+community.developer.freshworks.com
 community.developers.freshworks.com
 community.developers.freshworks.com
 community.developers.freshworks.com
@@ -1656,6 +1691,8 @@ community.developers.freshworks.com
 community.developers.freshworks.com
 community.developers.freshworks.com
 community.developers.freshworks.com
+community.developers.freshworks.com
+community.freshworks.com
 community.freshworks.com
 community.freshworks.com
 community.freshworks.com
@@ -1700,6 +1737,8 @@ communityevents.freshworks.com
 communityevents.freshworks.com
 communityevents.freshworks.com
 communityevents.freshworks.com
+communityevents.freshworks.com
+company-assets.freshworks.com
 company-assets.freshworks.com
 company-assets.freshworks.com
 company-assets.freshworks.com
@@ -1763,6 +1802,7 @@ confluence.freshworks.com
 confluence.freshworks.com
 confluence.freshworks.com
 confluence.freshworks.com
+confluence.freshworks.com
 consumerdirectcare.freshworks.com
 consumerdirectcare.freshworks.com
 consumerdirectcare.freshworks.com
@@ -1804,6 +1844,8 @@ content-fd.freshworks.com
 content-fd.freshworks.com
 content-fd.freshworks.com
 content-fd.freshworks.com
+content-fd.freshworks.com
+content-fw.freshworks.com
 content-fw.freshworks.com
 content-fw.freshworks.com
 content-fw.freshworks.com
@@ -1848,6 +1890,8 @@ content.freshworks.com
 content.freshworks.com
 content.freshworks.com
 content.freshworks.com
+content.freshworks.com
+contenthub.freshworks.com
 contenthub.freshworks.com
 contenthub.freshworks.com
 contenthub.freshworks.com
@@ -1911,6 +1955,7 @@ crm.freshworks.com
 crm.freshworks.com
 crm.freshworks.com
 crm.freshworks.com
+crm.freshworks.com
 crmstatus.freshworks.com
 crmstatus.freshworks.com
 crmstatus.freshworks.com
@@ -1933,6 +1978,8 @@ crmstatus.freshworks.com
 crmstatus.freshworks.com
 crmstatus.freshworks.com
 crmstatus.freshworks.com
+crmstatus.freshworks.com
+crmsupport.freshworks.com
 crmsupport.freshworks.com
 crmsupport.freshworks.com
 crmsupport.freshworks.com
@@ -2037,6 +2084,8 @@ dam.freshworks.com
 dam.freshworks.com
 dam.freshworks.com
 dam.freshworks.com
+dam.freshworks.com
+dash.freshworks.com
 dash.freshworks.com
 dash.freshworks.com
 dash.freshworks.com
@@ -2116,6 +2165,7 @@ decrypt.int.freshworks.com
 decrypt.int.freshworks.com
 decrypt.int.freshworks.com
 decrypt.int.freshworks.com
+decrypt.int.freshworks.com
 demohub.freshworks.com
 demohub.freshworks.com
 demohub.freshworks.com
@@ -2135,6 +2185,8 @@ demohub.freshworks.com
 demohub.freshworks.com
 demohub.freshworks.com
 demohub.freshworks.com
+demohub.freshworks.com
+dev-assist.freshworks.com
 dev-assist.freshworks.com
 dev-assist.freshworks.com
 dev-assist.freshworks.com
@@ -2179,6 +2231,8 @@ developer.freshworks.com
 developer.freshworks.com
 developer.freshworks.com
 developer.freshworks.com
+developer.freshworks.com
+developers-dev.freshworks.com
 developers-dev.freshworks.com
 developers-dev.freshworks.com
 developers-dev.freshworks.com
@@ -2223,6 +2277,8 @@ developers-staging.freshworks.com
 developers-staging.freshworks.com
 developers-staging.freshworks.com
 developers-staging.freshworks.com
+developers-staging.freshworks.com
+developers.freshworks.com
 developers.freshworks.com
 developers.freshworks.com
 developers.freshworks.com
@@ -2473,6 +2529,7 @@ engage.freshworks.com
 engage.freshworks.com
 engage.freshworks.com
 engage.freshworks.com
+engage.freshworks.com
 enpersona360.freshworks.com
 enpersona360.freshworks.com
 enpersona360.freshworks.com
@@ -2571,6 +2628,8 @@ eu-freshchat.freshworks.com
 eu-freshchat.freshworks.com
 eu-freshchat.freshworks.com
 eu-freshchat.freshworks.com
+eu-freshchat.freshworks.com
+eu.accounts.freshworks.com
 eu.accounts.freshworks.com
 eu.accounts.freshworks.com
 eu.accounts.freshworks.com
@@ -2612,6 +2671,7 @@ eu.freshworks.com
 eu.freshworks.com
 eu.freshworks.com
 eu.freshworks.com
+eu.freshworks.com
 euc-widget.freshworks.com
 euc-widget.freshworks.com
 euc-widget.freshworks.com
@@ -2634,6 +2694,8 @@ euc-widget.freshworks.com
 euc-widget.freshworks.com
 euc-widget.freshworks.com
 euc-widget.freshworks.com
+euc-widget.freshworks.com
+events.freshworks.com
 events.freshworks.com
 events.freshworks.com
 events.freshworks.com
@@ -2713,6 +2775,8 @@ exabyteshq.freshworks.com
 exabyteshq.freshworks.com
 exabyteshq.freshworks.com
 exabyteshq.freshworks.com
+exabyteshq.freshworks.com
+experience-nxt.freshworks.com
 experience-nxt.freshworks.com
 experience-nxt.freshworks.com
 experience-nxt.freshworks.com
@@ -2751,6 +2815,7 @@ experience-nxt.freshworks.com.freshworks.com
 experience-nxt.freshworks.com.freshworks.com
 experience-nxt.freshworks.com.freshworks.com
 experience-nxt.freshworks.com.freshworks.com
+experience-nxt.freshworks.com.freshworks.com
 experienceit2020.freshworks.com
 experienceit2020.freshworks.com
 experienceit2020.freshworks.com
@@ -2770,6 +2835,8 @@ experienceit2020.freshworks.com
 experienceit2020.freshworks.com
 experienceit2020.freshworks.com
 experienceit2020.freshworks.com
+experienceit2020.freshworks.com
+externalreferral.freshworks.com
 externalreferral.freshworks.com
 externalreferral.freshworks.com
 externalreferral.freshworks.com
@@ -2868,6 +2935,8 @@ fd-pre-production.freshworks.com
 fd-pre-production.freshworks.com
 fd-pre-production.freshworks.com
 fd-pre-production.freshworks.com
+fd-pre-production.freshworks.com
+fe-perf-assets.freshworks.com
 fe-perf-assets.freshworks.com
 fe-perf-assets.freshworks.com
 fe-perf-assets.freshworks.com
@@ -2928,6 +2997,7 @@ fixturelite.freshworks.com
 fixturelite.freshworks.com
 fixturelite.freshworks.com
 fixturelite.freshworks.com
+fmtracks.freshworks.com
 fmtracks.freshworks.com
 fmtracks.freshworks.com
 fmtracks.freshworks.com
@@ -3026,6 +3096,8 @@ freshbilling.ubx-au.freshworks.com
 freshbilling.ubx-au.freshworks.com
 freshbilling.ubx-au.freshworks.com
 freshbilling.ubx-au.freshworks.com
+freshbilling.ubx-au.freshworks.com
+freshbilling.ubx-eu.freshworks.com
 freshbilling.ubx-eu.freshworks.com
 freshbilling.ubx-eu.freshworks.com
 freshbilling.ubx-eu.freshworks.com
@@ -3067,6 +3139,8 @@ freshbilling.ubx-euw.freshworks.com
 freshbilling.ubx-euw.freshworks.com
 freshbilling.ubx-euw.freshworks.com
 freshbilling.ubx-euw.freshworks.com
+freshbilling.ubx-euw.freshworks.com
+freshbilling.ubx-in.freshworks.com
 freshbilling.ubx-in.freshworks.com
 freshbilling.ubx-in.freshworks.com
 freshbilling.ubx-in.freshworks.com
@@ -3108,6 +3182,8 @@ freshbilling.ubx-mec.freshworks.com
 freshbilling.ubx-mec.freshworks.com
 freshbilling.ubx-mec.freshworks.com
 freshbilling.ubx-mec.freshworks.com
+freshbilling.ubx-mec.freshworks.com
+freshbilling.ubx.freshworks.com
 freshbilling.ubx.freshworks.com
 freshbilling.ubx.freshworks.com
 freshbilling.ubx.freshworks.com
@@ -3152,6 +3228,8 @@ freshsales.ubx-au.freshworks.com
 freshsales.ubx-au.freshworks.com
 freshsales.ubx-au.freshworks.com
 freshsales.ubx-au.freshworks.com
+freshsales.ubx-au.freshworks.com
+freshsales.ubx-eu.freshworks.com
 freshsales.ubx-eu.freshworks.com
 freshsales.ubx-eu.freshworks.com
 freshsales.ubx-eu.freshworks.com
@@ -3193,6 +3271,8 @@ freshsales.ubx-euw.freshworks.com
 freshsales.ubx-euw.freshworks.com
 freshsales.ubx-euw.freshworks.com
 freshsales.ubx-euw.freshworks.com
+freshsales.ubx-euw.freshworks.com
+freshsales.ubx-in.freshworks.com
 freshsales.ubx-in.freshworks.com
 freshsales.ubx-in.freshworks.com
 freshsales.ubx-in.freshworks.com
@@ -3234,6 +3314,8 @@ freshsales.ubx-mec.freshworks.com
 freshsales.ubx-mec.freshworks.com
 freshsales.ubx-mec.freshworks.com
 freshsales.ubx-mec.freshworks.com
+freshsales.ubx-mec.freshworks.com
+freshsales.ubx.freshworks.com
 freshsales.ubx.freshworks.com
 freshsales.ubx.freshworks.com
 freshsales.ubx.freshworks.com
@@ -3294,6 +3376,8 @@ freshworks.com
 freshworks.com
 freshworks.com
 freshworks.com
+freshworks.com
+fsat.fwsa.freshworks.com
 fsat.fwsa.freshworks.com
 fsat.fwsa.freshworks.com
 fsat.fwsa.freshworks.com
@@ -3370,6 +3454,7 @@ fwstaging.freshworks.com
 fwstaging.freshworks.com
 fwstaging.freshworks.com
 fwstaging.freshworks.com
+fwstaging.freshworks.com
 fwtrack.email.freshworks.com
 fwtrack.email.freshworks.com
 fwtrack.email.freshworks.com
@@ -3391,6 +3476,8 @@ fwtrack.email.freshworks.com
 fwtrack.email.freshworks.com
 fwtrack.email.freshworks.com
 fwtrack.email.freshworks.com
+fwtrack.email.freshworks.com
+fwtrack.events.freshworks.com
 fwtrack.events.freshworks.com
 fwtrack.events.freshworks.com
 fwtrack.events.freshworks.com
@@ -3431,6 +3518,8 @@ fwtrack.fwcommunity.freshworks.com
 fwtrack.fwcommunity.freshworks.com
 fwtrack.fwcommunity.freshworks.com
 fwtrack.fwcommunity.freshworks.com
+fwtrack.fwcommunity.freshworks.com
+fwtrack.newsletter.freshworks.com
 fwtrack.newsletter.freshworks.com
 fwtrack.newsletter.freshworks.com
 fwtrack.newsletter.freshworks.com
@@ -3526,6 +3615,8 @@ fwtrackfmint.freshworks.com
 fwtrackfmint.freshworks.com
 fwtrackfmint.freshworks.com
 fwtrackfmint.freshworks.com
+fwtrackfmint.freshworks.com
+fwtrackinte.email.freshworks.com
 fwtrackinte.email.freshworks.com
 fwtrackinte.email.freshworks.com
 fwtrackinte.email.freshworks.com
@@ -3564,6 +3655,8 @@ fwtrackinte.events.freshworks.com
 fwtrackinte.events.freshworks.com
 fwtrackinte.events.freshworks.com
 fwtrackinte.events.freshworks.com
+fwtrackinte.events.freshworks.com
+fwtrackinte.freshworks.com
 fwtrackinte.freshworks.com
 fwtrackinte.freshworks.com
 fwtrackinte.freshworks.com
@@ -3602,6 +3695,8 @@ fwtrackinte.fwcommunity.freshworks.com
 fwtrackinte.fwcommunity.freshworks.com
 fwtrackinte.fwcommunity.freshworks.com
 fwtrackinte.fwcommunity.freshworks.com
+fwtrackinte.fwcommunity.freshworks.com
+fwtrackinte.newsletter.freshworks.com
 fwtrackinte.newsletter.freshworks.com
 fwtrackinte.newsletter.freshworks.com
 fwtrackinte.newsletter.freshworks.com
@@ -3640,6 +3735,7 @@ fwtrackinte.outreach.freshworks.com
 fwtrackinte.outreach.freshworks.com
 fwtrackinte.outreach.freshworks.com
 fwtrackinte.outreach.freshworks.com
+fwtrackinte.outreach.freshworks.com
 fwtracksfmint.freshworks.com
 fwtracksfmint.freshworks.com
 fwtracksfmint.freshworks.com
@@ -3662,6 +3758,8 @@ fwtracksfmint.freshworks.com
 fwtracksfmint.freshworks.com
 fwtracksfmint.freshworks.com
 fwtracksfmint.freshworks.com
+fwtracksfmint.freshworks.com
+fwusstrack.freshworks.com
 fwusstrack.freshworks.com
 fwusstrack.freshworks.com
 fwusstrack.freshworks.com
@@ -3795,6 +3893,8 @@ globalgiving-india.freshworks.com
 globalgiving-india.freshworks.com
 globalgiving-india.freshworks.com
 globalgiving-india.freshworks.com
+globalgiving-india.freshworks.com
+globalgiving.freshworks.com
 globalgiving.freshworks.com
 globalgiving.freshworks.com
 globalgiving.freshworks.com
@@ -3871,6 +3971,8 @@ green.ubx-au.freshworks.com
 green.ubx-au.freshworks.com
 green.ubx-au.freshworks.com
 green.ubx-au.freshworks.com
+green.ubx-au.freshworks.com
+green.ubx-eu.freshworks.com
 green.ubx-eu.freshworks.com
 green.ubx-eu.freshworks.com
 green.ubx-eu.freshworks.com
@@ -3909,6 +4011,7 @@ green.ubx-in.freshworks.com
 green.ubx-in.freshworks.com
 green.ubx-in.freshworks.com
 green.ubx-in.freshworks.com
+green.ubx-in.freshworks.com
 green.ubx.freshworks.com
 green.ubx.freshworks.com
 green.ubx.freshworks.com
@@ -3928,6 +4031,7 @@ green.ubx.freshworks.com
 green.ubx.freshworks.com
 green.ubx.freshworks.com
 green.ubx.freshworks.com
+green.ubx.freshworks.com
 hello.freshworks.com
 hello.freshworks.com
 hello.freshworks.com
@@ -3950,6 +4054,8 @@ hello.freshworks.com
 hello.freshworks.com
 hello.freshworks.com
 hello.freshworks.com
+hello.freshworks.com
+hooks.freshworks.com
 hooks.freshworks.com
 hooks.freshworks.com
 hooks.freshworks.com
@@ -4089,6 +4195,7 @@ in.accounts.freshworks.com
 in.accounts.freshworks.com
 in.accounts.freshworks.com
 in.accounts.freshworks.com
+in.accounts.freshworks.com
 in.freshworks.com
 in.freshworks.com
 in.freshworks.com
@@ -4108,6 +4215,7 @@ in.freshworks.com
 in.freshworks.com
 in.freshworks.com
 in.freshworks.com
+in.freshworks.com
 ind-widget.freshworks.com
 ind-widget.freshworks.com
 ind-widget.freshworks.com
@@ -4130,6 +4238,8 @@ ind-widget.freshworks.com
 ind-widget.freshworks.com
 ind-widget.freshworks.com
 ind-widget.freshworks.com
+ind-widget.freshworks.com
+indexer.freshworks.com
 indexer.freshworks.com
 indexer.freshworks.com
 indexer.freshworks.com
@@ -4228,6 +4338,8 @@ integrations.freshworks.com
 integrations.freshworks.com
 integrations.freshworks.com
 integrations.freshworks.com
+integrations.freshworks.com
+internalreferral.freshworks.com
 internalreferral.freshworks.com
 internalreferral.freshworks.com
 internalreferral.freshworks.com
@@ -4291,6 +4403,7 @@ investor.freshworks.com
 investor.freshworks.com
 investor.freshworks.com
 investor.freshworks.com
+investor.freshworks.com
 invohealthcare.freshworks.com
 invohealthcare.freshworks.com
 invohealthcare.freshworks.com
@@ -4310,6 +4423,7 @@ invohealthcare.freshworks.com
 invohealthcare.freshworks.com
 invohealthcare.freshworks.com
 invohealthcare.freshworks.com
+ir.freshworks.com
 ir.freshworks.com
 ir.freshworks.com
 ir.freshworks.com
@@ -4389,6 +4503,7 @@ janlinders.freshworks.com
 janlinders.freshworks.com
 janlinders.freshworks.com
 janlinders.freshworks.com
+jira.freshworks.com
 jira.freshworks.com
 jira.freshworks.com
 jira.freshworks.com
@@ -4503,6 +4618,8 @@ langservice-euc.freshworks.com
 langservice-euc.freshworks.com
 langservice-euc.freshworks.com
 langservice-euc.freshworks.com
+langservice-euc.freshworks.com
+langservice-ind.freshworks.com
 langservice-ind.freshworks.com
 langservice-ind.freshworks.com
 langservice-ind.freshworks.com
@@ -4541,6 +4658,8 @@ langservice-staging.freshworks.com
 langservice-staging.freshworks.com
 langservice-staging.freshworks.com
 langservice-staging.freshworks.com
+langservice-staging.freshworks.com
+langservice-syd.freshworks.com
 langservice-syd.freshworks.com
 langservice-syd.freshworks.com
 langservice-syd.freshworks.com
@@ -4579,6 +4698,7 @@ langservice-us.freshworks.com
 langservice-us.freshworks.com
 langservice-us.freshworks.com
 langservice-us.freshworks.com
+langservice-us.freshworks.com
 learning.freshworks.com
 learning.freshworks.com
 learning.freshworks.com
@@ -4598,6 +4718,8 @@ learning.freshworks.com
 learning.freshworks.com
 learning.freshworks.com
 learning.freshworks.com
+learning.freshworks.com
+lighthouse.freshworks.com
 lighthouse.freshworks.com
 lighthouse.freshworks.com
 lighthouse.freshworks.com
@@ -4639,6 +4761,7 @@ loupentecnologia.freshworks.com
 loupentecnologia.freshworks.com
 loupentecnologia.freshworks.com
 loupentecnologia.freshworks.com
+lucida.freshworks.com
 lucida.freshworks.com
 lucida.freshworks.com
 lucida.freshworks.com
@@ -4737,6 +4860,8 @@ marketplace-euc.freshworks.com
 marketplace-euc.freshworks.com
 marketplace-euc.freshworks.com
 marketplace-euc.freshworks.com
+marketplace-euc.freshworks.com
+marketplace-us.freshworks.com
 marketplace-us.freshworks.com
 marketplace-us.freshworks.com
 marketplace-us.freshworks.com
@@ -5225,6 +5350,7 @@ oplp.freshworks.com
 oplp.freshworks.com
 oplp.freshworks.com
 oplp.freshworks.com
+oplp.freshworks.com
 otproject.freshworks.com
 otproject.freshworks.com
 otproject.freshworks.com
@@ -5263,6 +5389,7 @@ pages.freshworks.com
 pages.freshworks.com
 pages.freshworks.com
 pages.freshworks.com
+pages.freshworks.com
 pam.freshworks.com
 pam.freshworks.com
 pam.freshworks.com
@@ -5282,6 +5409,8 @@ pam.freshworks.com
 pam.freshworks.com
 pam.freshworks.com
 pam.freshworks.com
+pam.freshworks.com
+pano.freshworks.com
 pano.freshworks.com
 pano.freshworks.com
 pano.freshworks.com
@@ -5323,6 +5452,8 @@ partners.freshworks.com
 partners.freshworks.com
 partners.freshworks.com
 partners.freshworks.com
+partners.freshworks.com
+partnersupport.freshworks.com
 partnersupport.freshworks.com
 partnersupport.freshworks.com
 partnersupport.freshworks.com
@@ -5418,6 +5549,7 @@ peatix.freshworks.com
 peatix.freshworks.com
 peatix.freshworks.com
 peatix.freshworks.com
+people.freshworks.com
 people.freshworks.com
 people.freshworks.com
 people.freshworks.com
@@ -5652,6 +5784,7 @@ qcommission-reports.freshworks.com
 qcommission-reports.freshworks.com
 qcommission-reports.freshworks.com
 qcommission-reports.freshworks.com
+qcommission-reports.freshworks.com
 qcommission.freshworks.com
 qcommission.freshworks.com
 qcommission.freshworks.com
@@ -5671,6 +5804,7 @@ qcommission.freshworks.com
 qcommission.freshworks.com
 qcommission.freshworks.com
 qcommission.freshworks.com
+qcommission.freshworks.com
 quality.freshworks.com
 quality.freshworks.com
 quality.freshworks.com
@@ -5693,6 +5827,8 @@ quality.freshworks.com
 quality.freshworks.com
 quality.freshworks.com
 quality.freshworks.com
+quality.freshworks.com
+quizzes.freshworks.com
 quizzes.freshworks.com
 quizzes.freshworks.com
 quizzes.freshworks.com
@@ -5829,6 +5965,7 @@ refresh.freshworks.com
 refresh.freshworks.com
 refresh.freshworks.com
 refresh.freshworks.com
+refresh.freshworks.com
 regroup.freshworks.com
 regroup.freshworks.com
 regroup.freshworks.com
@@ -5908,6 +6045,7 @@ rocketship.freshworks.com
 rocketship.freshworks.com
 rocketship.freshworks.com
 rocketship.freshworks.com
+rocketship.freshworks.com
 rockhursthelpdesk.freshworks.com
 rockhursthelpdesk.freshworks.com
 rockhursthelpdesk.freshworks.com
@@ -5965,6 +6103,7 @@ roomerangtravel.freshworks.com
 roomerangtravel.freshworks.com
 roomerangtravel.freshworks.com
 roomerangtravel.freshworks.com
+salesdemohub.freshworks.com
 salesdemohub.freshworks.com
 salesdemohub.freshworks.com
 salesdemohub.freshworks.com
@@ -6068,6 +6207,7 @@ solutions.freshworks.com
 solutions.freshworks.com
 solutions.freshworks.com
 solutions.freshworks.com
+solutions.freshworks.com
 spainhelpdesktool.freshworks.com
 spainhelpdesktool.freshworks.com
 spainhelpdesktool.freshworks.com
@@ -6087,6 +6227,7 @@ spainhelpdesktool.freshworks.com
 spainhelpdesktool.freshworks.com
 spainhelpdesktool.freshworks.com
 spainhelpdesktool.freshworks.com
+spectra.freshworks.com
 spectra.freshworks.com
 spectra.freshworks.com
 spectra.freshworks.com
@@ -6182,6 +6323,8 @@ success.freshworks.com
 success.freshworks.com
 success.freshworks.com
 success.freshworks.com
+success.freshworks.com
+support.freshworks.com
 support.freshworks.com
 support.freshworks.com
 support.freshworks.com
@@ -6226,6 +6369,8 @@ supremeone.ubx-au.freshworks.com
 supremeone.ubx-au.freshworks.com
 supremeone.ubx-au.freshworks.com
 supremeone.ubx-au.freshworks.com
+supremeone.ubx-au.freshworks.com
+supremeone.ubx-eu.freshworks.com
 supremeone.ubx-eu.freshworks.com
 supremeone.ubx-eu.freshworks.com
 supremeone.ubx-eu.freshworks.com
@@ -6267,6 +6412,8 @@ supremeone.ubx-euw.freshworks.com
 supremeone.ubx-euw.freshworks.com
 supremeone.ubx-euw.freshworks.com
 supremeone.ubx-euw.freshworks.com
+supremeone.ubx-euw.freshworks.com
+supremeone.ubx-in.freshworks.com
 supremeone.ubx-in.freshworks.com
 supremeone.ubx-in.freshworks.com
 supremeone.ubx-in.freshworks.com
@@ -6308,6 +6455,8 @@ supremeone.ubx-mec.freshworks.com
 supremeone.ubx-mec.freshworks.com
 supremeone.ubx-mec.freshworks.com
 supremeone.ubx-mec.freshworks.com
+supremeone.ubx-mec.freshworks.com
+supremeone.ubx.freshworks.com
 supremeone.ubx.freshworks.com
 supremeone.ubx.freshworks.com
 supremeone.ubx.freshworks.com
@@ -6485,6 +6634,7 @@ tgif.freshworks.com
 tgif.freshworks.com
 tgif.freshworks.com
 tgif.freshworks.com
+tgif.freshworks.com
 thenbs.freshworks.com
 thenbs.freshworks.com
 thenbs.freshworks.com
@@ -6602,6 +6752,7 @@ trust.freshworks.com
 trust.freshworks.com
 trust.freshworks.com
 trust.freshworks.com
+trust.freshworks.com
 trust.internal.freshworks.com
 trust.internal.freshworks.com
 trust.internal.freshworks.com
@@ -6621,6 +6772,7 @@ trust.internal.freshworks.com
 trust.internal.freshworks.com
 trust.internal.freshworks.com
 trust.internal.freshworks.com
+trust.internal.freshworks.com
 ubx-au.freshworks.com
 ubx-au.freshworks.com
 ubx-au.freshworks.com
@@ -6643,6 +6795,8 @@ ubx-au.freshworks.com
 ubx-au.freshworks.com
 ubx-au.freshworks.com
 ubx-au.freshworks.com
+ubx-au.freshworks.com
+ubx-eu.freshworks.com
 ubx-eu.freshworks.com
 ubx-eu.freshworks.com
 ubx-eu.freshworks.com
@@ -6684,6 +6838,8 @@ ubx-euw.freshworks.com
 ubx-euw.freshworks.com
 ubx-euw.freshworks.com
 ubx-euw.freshworks.com
+ubx-euw.freshworks.com
+ubx-in.freshworks.com
 ubx-in.freshworks.com
 ubx-in.freshworks.com
 ubx-in.freshworks.com
@@ -6728,6 +6884,8 @@ ubx-mec.freshworks.com
 ubx-mec.freshworks.com
 ubx-mec.freshworks.com
 ubx-mec.freshworks.com
+ubx-mec.freshworks.com
+ubx.freshworks.com
 ubx.freshworks.com
 ubx.freshworks.com
 ubx.freshworks.com
@@ -6769,6 +6927,7 @@ uecelectronics.freshworks.com
 uecelectronics.freshworks.com
 uecelectronics.freshworks.com
 uecelectronics.freshworks.com
+uiflow.freshworks.com
 uiflow.freshworks.com
 uiflow.freshworks.com
 uiflow.freshworks.com
@@ -6905,6 +7064,7 @@ vertutechnology.freshworks.com
 vertutechnology.freshworks.com
 vertutechnology.freshworks.com
 vertutechnology.freshworks.com
+videoguide.freshworks.com
 videoguide.freshworks.com
 videoguide.freshworks.com
 videoguide.freshworks.com
@@ -7082,6 +7242,7 @@ website-assets-fd.freshworks.com
 website-assets-fd.freshworks.com
 website-assets-fd.freshworks.com
 website-assets-fd.freshworks.com
+website-assets-fd.freshworks.com
 website-assets-fs.freshworks.com
 website-assets-fs.freshworks.com
 website-assets-fs.freshworks.com
@@ -7104,6 +7265,8 @@ website-assets-fs.freshworks.com
 website-assets-fs.freshworks.com
 website-assets-fs.freshworks.com
 website-assets-fs.freshworks.com
+website-assets-fs.freshworks.com
+website-assets-fw.freshworks.com
 website-assets-fw.freshworks.com
 website-assets-fw.freshworks.com
 website-assets-fw.freshworks.com
@@ -7167,6 +7330,7 @@ widget.freshworks.com
 widget.freshworks.com
 widget.freshworks.com
 widget.freshworks.com
+widget.freshworks.com
 worldstrides.freshworks.com
 worldstrides.freshworks.com
 worldstrides.freshworks.com
@@ -7205,6 +7369,8 @@ www.academy.freshworks.com
 www.academy.freshworks.com
 www.academy.freshworks.com
 www.academy.freshworks.com
+www.academy.freshworks.com
+www.decrypt.int.freshworks.com
 www.decrypt.int.freshworks.com
 www.decrypt.int.freshworks.com
 www.decrypt.int.freshworks.com
@@ -7243,6 +7409,8 @@ www.demohub.freshworks.com
 www.demohub.freshworks.com
 www.demohub.freshworks.com
 www.demohub.freshworks.com
+www.demohub.freshworks.com
+www.developer.freshworks.com
 www.developer.freshworks.com
 www.developer.freshworks.com
 www.developer.freshworks.com
@@ -7281,6 +7449,8 @@ www.developers.freshworks.com
 www.developers.freshworks.com
 www.developers.freshworks.com
 www.developers.freshworks.com
+www.developers.freshworks.com
+www.events.freshworks.com
 www.events.freshworks.com
 www.events.freshworks.com
 www.events.freshworks.com
@@ -7319,6 +7489,8 @@ www.experienceit2020.freshworks.com
 www.experienceit2020.freshworks.com
 www.experienceit2020.freshworks.com
 www.experienceit2020.freshworks.com
+www.experienceit2020.freshworks.com
+www.freshworks.com
 www.freshworks.com
 www.freshworks.com
 www.freshworks.com
@@ -7360,6 +7532,8 @@ www.fsat.fwsa.freshworks.com
 www.fsat.fwsa.freshworks.com
 www.fsat.fwsa.freshworks.com
 www.fsat.fwsa.freshworks.com
+www.fsat.fwsa.freshworks.com
+www.fwstaging.freshworks.com
 www.fwstaging.freshworks.com
 www.fwstaging.freshworks.com
 www.fwstaging.freshworks.com
@@ -7398,6 +7572,8 @@ www.learning.freshworks.com
 www.learning.freshworks.com
 www.learning.freshworks.com
 www.learning.freshworks.com
+www.learning.freshworks.com
+www.oplp.freshworks.com
 www.oplp.freshworks.com
 www.oplp.freshworks.com
 www.oplp.freshworks.com
@@ -7439,6 +7615,8 @@ www.pano.freshworks.com
 www.pano.freshworks.com
 www.pano.freshworks.com
 www.pano.freshworks.com
+www.pano.freshworks.com
+www.partners.freshworks.com
 www.partners.freshworks.com
 www.partners.freshworks.com
 www.partners.freshworks.com
@@ -7477,6 +7655,8 @@ www.qcommission-reports.freshworks.com
 www.qcommission-reports.freshworks.com
 www.qcommission-reports.freshworks.com
 www.qcommission-reports.freshworks.com
+www.qcommission-reports.freshworks.com
+www.qcommission.freshworks.com
 www.qcommission.freshworks.com
 www.qcommission.freshworks.com
 www.qcommission.freshworks.com
@@ -7515,6 +7695,7 @@ www.salesdemohub.freshworks.com
 www.salesdemohub.freshworks.com
 www.salesdemohub.freshworks.com
 www.salesdemohub.freshworks.com
+www.salesdemohub.freshworks.com
 www.spectra.freshworks.com
 www.spectra.freshworks.com
 www.spectra.freshworks.com
@@ -7534,6 +7715,8 @@ www.spectra.freshworks.com
 www.spectra.freshworks.com
 www.spectra.freshworks.com
 www.spectra.freshworks.com
+www.spectra.freshworks.com
+www.trust.internal.freshworks.com
 www.trust.internal.freshworks.com
 www.trust.internal.freshworks.com
 www.trust.internal.freshworks.com

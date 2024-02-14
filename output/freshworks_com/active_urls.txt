@@ -193,7 +193,6 @@ http://intango.freshworks.com
 http://internalreferral.freshworks.com
 http://intuitionpublishingltd.freshworks.com
 http://invohealthcare.freshworks.com
-http://ir.freshworks.com
 http://istonline.freshworks.com
 http://jacoinchelp.freshworks.com
 http://janlinders.freshworks.com
@@ -300,7 +299,6 @@ http://topdownsystems.freshworks.com
 http://toyotacf.freshworks.com
 http://trust.freshworks.com
 http://trust.internal.freshworks.com
-http://ubx-au.freshworks.com
 http://ubx-eu.freshworks.com
 http://ubx-mec.freshworks.com
 http://ubx.freshworks.com
@@ -656,7 +654,6 @@ https://topdownsystems.freshworks.com
 https://toyotacf.freshworks.com
 https://trust.freshworks.com
 https://trust.internal.freshworks.com
-https://ubx-au.freshworks.com
 https://ubx-eu.freshworks.com
 https://ubx-mec.freshworks.com
 https://ubx.freshworks.com

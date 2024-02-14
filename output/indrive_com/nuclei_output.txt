@@ -1,1 +1,0 @@
-[CVE-2017-5487:usernames] [http] [medium] http://servicos.indrive.com/wp-json/wp/v2/users/ [hivista,olegaarhgmail-com,Hivista,olegaarh@gmail.com]

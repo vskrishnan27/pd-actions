@@ -77,7 +77,6 @@ http://api-firebolt-stage.tesla.com
 http://api-firebolt.tesla.com
 http://apps.tesla.com
 http://auth-global-stage.tesla.com
-http://auth-global.tesla.com
 http://auth.tesla.com
 http://autobidder-preprd.powerhub.energy.tesla.com
 http://autobidder.powerhub.energy.tesla.com
@@ -107,6 +106,7 @@ http://digitalassets-stage.tesla.com
 http://digitalassets.tesla.com
 http://eaa-setup.tesla.com
 http://edr.tesla.com
+http://ehs.tesla.com
 http://employeefeedback.tesla.com
 http://energydesk.tesla.com
 http://energysupport.tesla.com
@@ -131,7 +131,6 @@ http://image-emails.tesla.com
 http://image.email.tesla.com
 http://image.emails.tesla.com
 http://inside.tesla.com
-http://installations-ext-api.tesla.com
 http://inventory-assets.tesla.com
 http://ion.tesla.com
 http://ir.tesla.com
@@ -163,7 +162,6 @@ http://pages.emails.tesla.com
 http://partners.tesla.com
 http://pay.tesla.com
 http://pm-bounces.tesla.com
-http://powerhub.energy.tesla.com
 http://profile.tesla.com
 http://pub.email.tesla.com
 http://ranger-api.tesla.com
@@ -295,6 +293,7 @@ https://akamai-apigateway-warp3pl.tesla.com
 https://akamai-apigateway-warpassetapi.tesla.com
 https://akamai-apigateway-warpcxml.tesla.com
 https://akamai-apigateway-warpdashboardapi.tesla.com
+https://akamai-apigateway-warpedi.tesla.com
 https://akamai-apigateway-warptmsapiserver-upgrade.tesla.com
 https://akamai-apigateway-warptmsapiserver.tesla.com
 https://akamai-apigateway-warptqpapi.tesla.com
@@ -337,6 +336,7 @@ https://digitalassets-stage.tesla.com
 https://digitalassets.tesla.com
 https://eaa-setup.tesla.com
 https://edr.tesla.com
+https://ehs.tesla.com
 https://employeefeedback.tesla.com
 https://energydesk.tesla.com
 https://energysupport.tesla.com
@@ -404,7 +404,6 @@ https://pages.email.tesla.com
 https://pages.emails.tesla.com
 https://partners.tesla.com
 https://pay.tesla.com
-https://powerhub.energy.tesla.com
 https://profile.tesla.com
 https://pub.email.tesla.com
 https://ranger-api.tesla.com
@@ -438,6 +437,7 @@ https://tcc-graph-stg.tesla.com
 https://tcc-graph.tesla.com
 https://tcc-gw-stg.tesla.com
 https://tcc-gw.tesla.com
+https://teamchat.tesla.com
 https://teslacmgap01.tesla.com
 https://teslacmgcn01.tesla.com
 https://teslacmgeu01.tesla.com

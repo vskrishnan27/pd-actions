@@ -40,9 +40,7 @@ documents.testnet.bitmex.com:443
 documents.testnet.bitmex.com:80
 documents.testnet.bitmex.com:8080
 documents.testnet.bitmex.com:8443
-email.mg.bitmex.com:143
 email.mg.bitmex.com:443
-email.mg.bitmex.com:5060
 email.mg.bitmex.com:80
 eu.onfido.bitmex.com:443
 eu.onfido.bitmex.com:80
@@ -167,6 +165,10 @@ web-ws.testnet.bitmex.com:443
 web-ws.testnet.bitmex.com:80
 web-ws.testnet.bitmex.com:8080
 web-ws.testnet.bitmex.com:8443
+ws.bitmex.com:443
+ws.bitmex.com:80
+ws.bitmex.com:8080
+ws.bitmex.com:8443
 ws.devhk.bitmex.com:443
 ws.devhk.bitmex.com:80
 ws.devhk.bitmex.com:8080

@@ -2,6 +2,12 @@ account-us-east-2.dev-api.cx.metamask.io
 account.api.cx.metamask.io
 account.dev-api.cx.metamask.io
 account.uat-api.cx.metamask.io
+accounts-us-east-2.api.cx.metamask.io
+accounts-us-east-2.dev-api.cx.metamask.io
+accounts-us-east-2.uat-api.cx.metamask.io
+accounts.api.cx.metamask.io
+accounts.dev-api.cx.metamask.io
+accounts.uat-api.cx.metamask.io
 activity.metamask.io
 authentication-us-east-2.api.cx.metamask.io
 authentication-us-east-2.dev-api.cx.metamask.io

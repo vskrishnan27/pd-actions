@@ -25,7 +25,6 @@ http://farm7.static.flickr.com
 http://farm8.static.flickr.com
 http://farm9.static.flickr.com
 http://flimg.flickr.com
-http://guce.flickr.com
 http://heartbeat.flickr.com
 http://help.flickr.com
 http://hero.flickr.com
@@ -112,7 +111,6 @@ https://farm7.static.flickr.com
 https://farm8.static.flickr.com
 https://farm9.static.flickr.com
 https://flimg.flickr.com
-https://guce.flickr.com
 https://heartbeat.flickr.com
 https://help.flickr.com
 https://hero.flickr.com

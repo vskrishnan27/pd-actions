@@ -32,6 +32,7 @@ http://gsnlink.recordedfuture.com:8080
 http://gsnlink.recordedfuture.com:8443
 http://id.recordedfuture.com
 http://id.recordedfuture.com:8080
+http://id.recordedfuture.com:8443
 http://ideas.recordedfuture.com
 http://ideas.recordedfuture.com:8080
 http://ideas.recordedfuture.com:8443
@@ -84,7 +85,6 @@ https://go.recordedfuture.com:8443
 https://gslink.recordedfuture.com
 https://gsnlink.recordedfuture.com
 https://id.recordedfuture.com
-https://id.recordedfuture.com:8443
 https://ideas.recordedfuture.com
 https://insiktgroup.recordedfuture.com
 https://insiktgroup.recordedfuture.com:8443

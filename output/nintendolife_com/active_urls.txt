@@ -40,7 +40,6 @@ http://wii.nintendolife.com
 http://wii2.nintendolife.com
 http://wiiu.nintendolife.com
 http://wiiware.nintendolife.com
-http://ww.nintendolife.com
 http://www.nintendolife.com
 http://www.nintendolife.com:8080
 http://www.nintendolife.com:8443
@@ -74,5 +73,4 @@ https://wii.nintendolife.com
 https://wii2.nintendolife.com
 https://wiiu.nintendolife.com
 https://wiiware.nintendolife.com
-https://ww.nintendolife.com
 https://www.nintendolife.com

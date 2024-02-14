@@ -7,8 +7,6 @@ access-auto.line.me:80
 access.line.me:443
 access.line.me:80
 access2.line.me:443
-account.line.me:443
-account.line.me:80
 accountpage.line.me:443
 accountpage.line.me:80
 ads.line.me:443

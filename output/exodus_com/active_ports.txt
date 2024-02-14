@@ -6,10 +6,6 @@ downloads.exodus.com:443
 downloads.exodus.com:80
 downloads.exodus.com:8080
 downloads.exodus.com:8443
-exodus.com:443
-exodus.com:80
-exodus.com:8080
-exodus.com:8443
 exokit.ot.exodus.com:443
 exokit.ot.exodus.com:80
 exokit.ot.exodus.com:8080
@@ -18,7 +14,6 @@ extension.exodus.com:443
 extension.exodus.com:80
 extension.exodus.com:8080
 extension.exodus.com:8443
-get.exodus.com:3128
 get.exodus.com:443
 get.exodus.com:80
 help.exodus.com:443

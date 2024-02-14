@@ -83,6 +83,7 @@ http://locations.chime.com:8080
 http://locations.chime.com:8443
 http://member-dev1.chime.com
 http://member-dev1.chime.com:8080
+http://member-dev1.chime.com:8443
 http://member-qa.chime.com
 http://member-qa.chime.com:8080
 http://member-qa.chime.com:8443
@@ -95,6 +96,7 @@ http://monocle-dev1.chime.com:8080
 http://monocle-dev1.chime.com:8443
 http://monocle-qa.chime.com
 http://monocle-qa.chime.com:8080
+http://monocle-qa.chime.com:8443
 http://monocle.chime.com
 http://monocle.chime.com:8080
 http://monocle.chime.com:8443
@@ -187,13 +189,11 @@ https://links.notify.chime.com
 https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
-https://member-dev1.chime.com:8443
 https://member-qa.chime.com
 https://member.chime.com
 https://mobile-state.chime.com
 https://monocle-dev1.chime.com
 https://monocle-qa.chime.com
-https://monocle-qa.chime.com:8443
 https://monocle.chime.com
 https://nd.chime.com
 https://penny-dev1.chime.com

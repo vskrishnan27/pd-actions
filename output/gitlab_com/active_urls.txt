@@ -362,7 +362,6 @@ http://handbook.gitlab.com
 http://hub.gitlab.com
 http://hub.gitlab.com:8080
 http://internal.gitlab.com
-http://ir.gitlab.com
 http://jitsu-configurator.product-analytics.prototype.gitlab.com
 http://jitsu-server.product-analytics.prototype.gitlab.com
 http://jobs.gitlab.com

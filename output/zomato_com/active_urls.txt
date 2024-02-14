@@ -36,7 +36,6 @@ http://winecellar.zomato.com
 http://ws-callcenter.zomato.com
 http://www.techblog.zomato.com
 http://www.zomato.com
-http://zomato.com
 http://zpay.zomato.com
 http://zwstatic.zomato.com
 https://accounts.zomato.com
@@ -77,6 +76,5 @@ https://winecellar.zomato.com
 https://ws-callcenter.zomato.com
 https://www.techblog.zomato.com
 https://www.zomato.com
-https://zomato.com
 https://zpay.zomato.com
 https://zwstatic.zomato.com

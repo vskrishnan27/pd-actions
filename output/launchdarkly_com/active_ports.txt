@@ -65,6 +65,7 @@ clientstream-stg.launchdarkly.com:80
 clientstream-use1.launchdarkly.com:443
 clientstream-use1.launchdarkly.com:80
 clientstream-use2.intuit.launchdarkly.com:443
+clientstream-use2.intuit.launchdarkly.com:80
 clientstream-usw2.intuit.launchdarkly.com:443
 clientstream.dr.launchdarkly.com:443
 clientstream.intuit.launchdarkly.com:443
@@ -171,8 +172,6 @@ sdk.dev.launchdarkly.com:8080
 sdk.dev.launchdarkly.com:8443
 sdk.dr.launchdarkly.com:443
 sdk.dr.launchdarkly.com:80
-sdk.launchdarkly.com:443
-sdk.launchdarkly.com:80
 slack-app-stg.intuit.launchdarkly.com:443
 slack-app.intuit.launchdarkly.com:443
 slack-stg.launchdarkly.com:443

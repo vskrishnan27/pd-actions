@@ -128,7 +128,6 @@ console.catalyst.zoho.com:443
 contacts.zoho.com:443
 coquiweb.wiki.zoho.com:443
 creator.zoho.com:443
-creator.zoho.com:80
 creatorapi.wiki.zoho.com:443
 crm.zoho.com:443
 crmkbase.zoho.com:443
@@ -186,6 +185,7 @@ domain.zoho.com:80
 domains.zoho.com:443
 download-accl.zoho.com:443
 download.zoho.com:443
+download.zoho.com:80
 dre.zoho.com:443
 dysautonomia.wiki.zoho.com:443
 ebranscomb.wiki.zoho.com:443
@@ -281,7 +281,9 @@ masterjose07.wiki.zoho.com:443
 me.zoho.com:443
 meet.zoho.com:443
 meeting-monitor.zoho.com:443
+meeting-monitor.zoho.com:80
 meeting.zoho.com:443
+meeting.zoho.com:80
 melvinsl.wiki.zoho.com:443
 memktg.wiki.zoho.com:443
 memktg.wiki.zoho.com:80
@@ -346,7 +348,6 @@ previewengine-accl.zoho.com:443
 previewengine.zoho.com:443
 prewms.zoho.com:443
 prewww.zoho.com:443
-prewww.zoho.com:80
 prezoho.zoho.com:443
 prezoho.zoho.com:80
 prezohoweb.zoho.com:443
@@ -357,10 +358,13 @@ project.zoho.com:443
 project.zoho.com:80
 projects-671153000000014017.wiki.zoho.com:443
 projects.zoho.com:443
+projects.zoho.com:80
 projectsapi.zoho.com:443
+projectsapi.zoho.com:80
 promocionecam.wiki.zoho.com:443
 psicobolario.wiki.zoho.com:443
 pubsub.zoho.com:443
+pubsub.zoho.com:80
 purchasebestvideomonitor.wiki.zoho.com:443
 quux.wiki.zoho.com:443
 ra-krems.wiki.zoho.com:443
@@ -438,7 +442,6 @@ whatiszoho.wiki.zoho.com:443
 wiki.zoho.com:443
 wikioffshore.wiki.zoho.com:443
 wmelvin.wiki.zoho.com:443
-wms.zoho.com:443
 workdrive.zoho.com:443
 worlddreambuilder.wiki.zoho.com:443
 writer.zoho.com:443

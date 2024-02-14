@@ -5,8 +5,8 @@ http://akamai-apigateway-charging-ownership.tesla.com
 http://akamai-apigateway-deliveryopsapi.tesla.com
 http://akamai-apigateway-deliveryopsapi1.tesla.com
 http://akamai-apigateway-deliveryopsvitu.tesla.com
+http://akamai-apigateway-dev-captiveunderwriting.tesla.com
 http://akamai-apigateway-dev-warptmsapiserver-upgrade.tesla.com
-http://akamai-apigateway-dev-warptmsapiserver.tesla.com
 http://akamai-apigateway-ehs-stg.tesla.com
 http://akamai-apigateway-ehs.tesla.com
 http://akamai-apigateway-einvoicing.tesla.com
@@ -16,14 +16,11 @@ http://akamai-apigateway-finplateng.tesla.com
 http://akamai-apigateway-fta.tesla.com
 http://akamai-apigateway-inventorytxnextapi.tesla.com
 http://akamai-apigateway-logisticsratesapi.tesla.com
-http://akamai-apigateway-materials.tesla.com
 http://akamai-apigateway-mfs-supplier-uat.tesla.com
 http://akamai-apigateway-mfs-supplier.tesla.com
-http://akamai-apigateway-ops-warp3pl.tesla.com
 http://akamai-apigateway-packaging2.tesla.com
 http://akamai-apigateway-payment.tesla.com
 http://akamai-apigateway-procuretopayapi.tesla.com
-http://akamai-apigateway-profileapi.tesla.com
 http://akamai-apigateway-qa-captiveunderwriting.tesla.com
 http://akamai-apigateway-shipmentplanningapi.tesla.com
 http://akamai-apigateway-stg-captiveunderwriting.tesla.com
@@ -35,14 +32,13 @@ http://akamai-apigateway-stg-finplateng-defi.tesla.com
 http://akamai-apigateway-stg-finplateng-routeone.tesla.com
 http://akamai-apigateway-stg-finplateng.tesla.com
 http://akamai-apigateway-stg-fta.tesla.com
+http://akamai-apigateway-stg-inventorytxnextapi.tesla.com
 http://akamai-apigateway-stg-materials.tesla.com
 http://akamai-apigateway-stg-ops-warp3pl.tesla.com
 http://akamai-apigateway-stg-packaging2.tesla.com
-http://akamai-apigateway-stg-payment.tesla.com
 http://akamai-apigateway-stg-procuretopayapi.tesla.com
 http://akamai-apigateway-stg-profileapi.tesla.com
 http://akamai-apigateway-stg-shipmentplanningapi.tesla.com
-http://akamai-apigateway-stg-teslarpsapi.tesla.com
 http://akamai-apigateway-stg-translationpipeline.tesla.com
 http://akamai-apigateway-stg-vendorpartsapi.tesla.com
 http://akamai-apigateway-stg-warp3pl.tesla.com
@@ -66,7 +62,6 @@ http://akamai-apigateway-warpdashboardapi.tesla.com
 http://akamai-apigateway-warpedi.tesla.com
 http://akamai-apigateway-warptmsapiserver-upgrade.tesla.com
 http://akamai-apigateway-warptmsapiserver.tesla.com
-http://akamai-apigateway-warptqpapi.tesla.com
 http://akamai-apigateway-zip3-suppliersequence.tesla.com
 http://apf-api.eng.vn.cloud.tesla.com
 http://apf-api.prd.vn.cloud.tesla.com
@@ -76,12 +71,12 @@ http://api-firebolt.tesla.com
 http://apps.tesla.com
 http://auth-global-stage.tesla.com
 http://auth-global.tesla.com
+http://auth.tesla.com
 http://autobidder-preprd.powerhub.energy.tesla.com
 http://autobidder.powerhub.energy.tesla.com
 http://autodiscover.tesla.com
 http://bi.tesla.com
 http://billing.tesla.com
-http://bolt.tesla.com
 http://business-ui-ownership.tesla.com
 http://cdn-design.tesla.com
 http://cdns-content.tesla.com
@@ -104,7 +99,7 @@ http://digitalassets-stage.tesla.com
 http://digitalassets.tesla.com
 http://eaa-setup.tesla.com
 http://edr.tesla.com
-http://einvoicing.tesla.com
+http://ehs.tesla.com
 http://employeefeedback.tesla.com
 http://energydesk.tesla.com
 http://energysupport.tesla.com
@@ -129,7 +124,6 @@ http://image-emails.tesla.com
 http://image.email.tesla.com
 http://image.emails.tesla.com
 http://inside.tesla.com
-http://installations-ext-api.tesla.com
 http://inventory-assets.tesla.com
 http://ir.tesla.com
 http://itanswers.tesla.com
@@ -181,7 +175,6 @@ http://sspr.tesla.com
 http://stage-traffic-flow-test.tesla.com
 http://static-assets-pay.tesla.com
 http://static-assets-teslaaccount.tesla.com
-http://static-assets.tesla.com
 http://static-map.tesla.com
 http://static.tesla.com
 http://stg-uc-twilio-bpm-webhook.tesla.com
@@ -242,6 +235,7 @@ https://akamai-apigateway-finplateng.tesla.com
 https://akamai-apigateway-fta.tesla.com
 https://akamai-apigateway-inventorytxnextapi.tesla.com
 https://akamai-apigateway-logisticsratesapi.tesla.com
+https://akamai-apigateway-materials.tesla.com
 https://akamai-apigateway-mfs-supplier-uat.tesla.com
 https://akamai-apigateway-mfs-supplier.tesla.com
 https://akamai-apigateway-ops-warp3pl.tesla.com
@@ -285,10 +279,10 @@ https://akamai-apigateway-translationpipeline.tesla.com
 https://akamai-apigateway-uat-materials.tesla.com
 https://akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com
 https://akamai-apigateway-vendorpartsapi.tesla.com
-https://akamai-apigateway-warp3pl.tesla.com
 https://akamai-apigateway-warpassetapi.tesla.com
 https://akamai-apigateway-warpcxml.tesla.com
 https://akamai-apigateway-warpdashboardapi.tesla.com
+https://akamai-apigateway-warpedi.tesla.com
 https://akamai-apigateway-warptmsapiserver-upgrade.tesla.com
 https://akamai-apigateway-warptmsapiserver.tesla.com
 https://akamai-apigateway-warptqpapi.tesla.com
@@ -302,12 +296,10 @@ https://api-firebolt.tesla.com
 https://apps.tesla.com
 https://auth-global-stage.tesla.com
 https://auth-global.tesla.com
-https://auth.tesla.com
 https://autobidder-preprd.powerhub.energy.tesla.com
 https://autobidder.powerhub.energy.tesla.com
 https://bi.tesla.com
 https://billing.tesla.com
-https://bolt.tesla.com
 https://business-ui-ownership.tesla.com
 https://cdn-design.tesla.com
 https://cdns-content.tesla.com
@@ -331,7 +323,7 @@ https://digitalassets-stage.tesla.com
 https://digitalassets.tesla.com
 https://eaa-setup.tesla.com
 https://edr.tesla.com
-https://einvoicing.tesla.com
+https://ehs.tesla.com
 https://employeefeedback.tesla.com
 https://energydesk.tesla.com
 https://energysupport.tesla.com
@@ -421,7 +413,6 @@ https://sspr.tesla.com
 https://stage-traffic-flow-test.tesla.com
 https://static-assets-pay.tesla.com
 https://static-assets-teslaaccount.tesla.com
-https://static-assets.tesla.com
 https://static-map.tesla.com
 https://static.tesla.com
 https://stg-uc-twilio-bpm-webhook.tesla.com

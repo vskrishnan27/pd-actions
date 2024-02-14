@@ -244,7 +244,6 @@ facet-staging.sc-corp.net:443
 facet-staging.sc-corp.net:80
 facet.sc-corp.net:443
 facet.sc-corp.net:80
-fleetdm-proxy.sc-corp.net:443
 fleetdm.sc-corp.net:443
 fleetdm.sc-corp.net:80
 flowrida-ad-insights.sc-corp.net:443
@@ -267,6 +266,8 @@ ghe-dev.sc-corp.net:443
 ghe-dev.sc-corp.net:80
 github-backup.sc-corp.net:443
 github-backup.sc-corp.net:80
+go.sc-corp.net:443
+go.sc-corp.net:80
 grafana-backup.sc-corp.net:443
 grafana-backup.sc-corp.net:80
 grafana-cluster.sc-corp.net:443
@@ -308,6 +309,8 @@ jira-stage-api.sc-corp.net:443
 jira-stage-api.sc-corp.net:80
 jira-stage.sc-corp.net:443
 jira-stage.sc-corp.net:80
+jira.sc-corp.net:443
+jira.sc-corp.net:80
 key-master-beta.sc-corp.net:10000
 key-master-beta.sc-corp.net:1025
 key-master-beta.sc-corp.net:1026

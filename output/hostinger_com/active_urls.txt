@@ -121,6 +121,7 @@ http://verifikatsiya.hostinger.com
 http://webhooks.hostinger.com
 http://webhooks.hostinger.com:8443
 http://webmail.hostinger.com
+http://webmail.hostinger.com:8080
 http://webmail1.hostinger.com
 http://webmail1.hostinger.com:8443
 http://whois.hostinger.com

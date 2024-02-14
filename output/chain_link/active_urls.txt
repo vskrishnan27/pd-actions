@@ -10,6 +10,7 @@ http://automation.chain.link
 http://automation.chain.link:8443
 http://bid470x.20755222t.chain.link
 http://blog.chain.link
+http://blog.chain.link:8080
 http://blog.chain.link:8443
 http://careers.chain.link
 http://careers.chain.link:8080
@@ -68,8 +69,6 @@ http://mercury-arbitrum-testnet.stage.chain.link
 http://mercury-arbitrum-testnet.stage.chain.link:8443
 http://mercury-srv.chain.link
 http://mercury-srv.chain.link:8080
-http://on.chain.link
-http://on.chain.link:8080
 http://pages.chain.link
 http://pages.chain.link:8080
 http://pegswap.chain.link
@@ -90,6 +89,7 @@ http://staking.chain.link:8443
 http://supply.chain.link
 http://supply.chain.link:8080
 http://vrf.chain.link
+http://vrf.chain.link:8443
 http://ws-nd-061-873-799.mercury-srv.chain.link
 http://ws-nd-061-873-799.mercury-srv.chain.link:8443
 http://ws.dataengine.chain.link
@@ -146,8 +146,6 @@ https://mercury-arbitrum-testnet.chain.link
 https://mercury-arbitrum-testnet.stage.chain.link
 https://mercury-srv.chain.link
 https://mercury-srv.chain.link:8443
-https://on.chain.link
-https://on.chain.link:8443
 https://pages.chain.link
 https://pages.chain.link:8443
 https://pegswap.chain.link
@@ -163,7 +161,6 @@ https://staking.chain.link
 https://supply.chain.link
 https://supply.chain.link:8443
 https://vrf.chain.link
-https://vrf.chain.link:8443
 https://ws-nd-061-873-799.mercury-srv.chain.link
 https://ws.dataengine.chain.link
 https://ws.dataengine.chain.link:8443

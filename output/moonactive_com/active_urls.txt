@@ -2,8 +2,6 @@ http://analytics-test-off.moonactive.com
 http://analytics-test-on.moonactive.com
 http://gdpr.moonactive.com
 http://gdpr.moonactive.com:8080
-http://moonactive.com
-http://moonactive.com:8080
 http://thespace-warsaw.moonactive.com
 http://thespace-warsaw.moonactive.com:8080
 http://thespace.moonactive.com
@@ -14,8 +12,6 @@ https://analytics-test-off.moonactive.com
 https://analytics-test-on.moonactive.com
 https://gdpr.moonactive.com
 https://gdpr.moonactive.com:8443
-https://moonactive.com
-https://moonactive.com:8443
 https://tableau-admin.moonactive.com
 https://tableau.moonactive.com
 https://thespace-warsaw.moonactive.com

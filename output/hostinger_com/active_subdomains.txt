@@ -2,7 +2,6 @@ affiliates.hostinger.com
 aktivalas.hostinger.com
 ambassador.hostinger.com
 any1.hostinger.com
-any2.hostinger.com
 api.hostinger.com
 apstiprina.hostinger.com
 assets.hostinger.com
@@ -38,7 +37,6 @@ flockmail.hostinger.com
 help.hostinger.com
 hostinger.com
 hpanel.hostinger.com
-imap-mpa.hostinger.com
 imap.hostinger.com
 imapproxy-test.hostinger.com
 kontroll.hostinger.com
@@ -82,10 +80,8 @@ titanmail.hostinger.com
 uk-files.hostinger.com
 us-files.hostinger.com
 vahvista.hostinger.com
-validaciya.hostinger.com
 validar.hostinger.com
 validare.hostinger.com
-validasikan.hostinger.com
 validate1.hostinger.com
 validate10.hostinger.com
 validate11.hostinger.com
@@ -106,8 +102,6 @@ validieren.hostinger.com
 verifikatsiya.hostinger.com
 webhooks.hostinger.com
 webmail.hostinger.com
-webmail1.hostinger.com
-whois.hostinger.com
 www.flockcalendar.hostinger.com
 www.flockcontacts.hostinger.com
 www.flockmail.hostinger.com

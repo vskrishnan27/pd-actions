@@ -4,6 +4,8 @@ http://ambassador.hostinger.com
 http://ambassador.hostinger.com:8080
 http://any1.hostinger.com
 http://any1.hostinger.com:8080
+http://any2.hostinger.com
+http://any2.hostinger.com:8080
 http://api.hostinger.com
 http://api.hostinger.com:8443
 http://apstiprina.hostinger.com
@@ -79,6 +81,7 @@ http://se.account.hostinger.com:8080
 http://se.account.hostinger.com:8443
 http://se.email.hostinger.com
 http://se.email.hostinger.com:8080
+http://se.email.hostinger.com:8443
 http://sql111.hostinger.com
 http://sql111.hostinger.com:443
 http://sso.hostinger.com
@@ -93,8 +96,10 @@ http://titancalendar.hostinger.com
 http://titancontacts.hostinger.com
 http://titanmail.hostinger.com
 http://vahvista.hostinger.com
+http://validaciya.hostinger.com
 http://validar.hostinger.com
 http://validare.hostinger.com
+http://validasikan.hostinger.com
 http://validate1.hostinger.com
 http://validate10.hostinger.com
 http://validate11.hostinger.com
@@ -116,6 +121,9 @@ http://verifikatsiya.hostinger.com
 http://webhooks.hostinger.com
 http://webhooks.hostinger.com:8443
 http://webmail.hostinger.com
+http://webmail1.hostinger.com
+http://webmail1.hostinger.com:8443
+http://whois.hostinger.com
 http://www.flockcalendar.hostinger.com
 http://www.flockcontacts.hostinger.com
 http://www.flockmail.hostinger.com
@@ -131,6 +139,8 @@ https://ambassador.hostinger.com
 https://ambassador.hostinger.com:8443
 https://any1.hostinger.com
 https://any1.hostinger.com:8443
+https://any2.hostinger.com
+https://any2.hostinger.com:8443
 https://api.hostinger.com
 https://apstiprina.hostinger.com
 https://assets.hostinger.com
@@ -179,7 +189,6 @@ https://roadmap.hostinger.com
 https://sahkan.hostinger.com
 https://se.account.hostinger.com
 https://se.email.hostinger.com
-https://se.email.hostinger.com:8443
 https://sql111.hostinger.com:8443
 https://sso.hostinger.com
 https://statuspage.hostinger.com
@@ -188,8 +197,10 @@ https://titancalendar.hostinger.com
 https://titancontacts.hostinger.com
 https://titanmail.hostinger.com
 https://vahvista.hostinger.com
+https://validaciya.hostinger.com
 https://validar.hostinger.com
 https://validare.hostinger.com
+https://validasikan.hostinger.com
 https://validate1.hostinger.com
 https://validate10.hostinger.com
 https://validate11.hostinger.com
@@ -211,6 +222,8 @@ https://verifikatsiya.hostinger.com
 https://webhooks.hostinger.com
 https://webmail.hostinger.com
 https://webmail.hostinger.com:8443
+https://webmail1.hostinger.com
+https://whois.hostinger.com
 https://www.flockcalendar.hostinger.com
 https://www.flockcontacts.hostinger.com
 https://www.flockmail.hostinger.com

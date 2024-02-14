@@ -1,3 +1,4 @@
+http://accounts.api.playstation.com
 http://api.bridges.playstation.com
 http://api.direct.e1-np.playstation.com
 http://api.direct.playstation.com
@@ -33,6 +34,14 @@ http://chinacdn.playstation.com
 http://click.txn-email03.playstation.com
 http://cloud.txn-email03.playstation.com
 http://cloudtv.us.playstation.com
+http://cms-author.direct-stage.playstation.com
+http://cms-author.direct-stage2.playstation.com
+http://cms-author.direct-stage3.playstation.com
+http://cms-author.direct.playstation.com
+http://cms-publisher.direct-stage.playstation.com
+http://cms-publisher.direct-stage2.playstation.com
+http://cms-publisher.direct-stage3.playstation.com
+http://cms-publisher.direct.playstation.com
 http://cn.playstation.com
 http://commerce-api.direct-qa.playstation.com
 http://commerce-api.direct-stage.playstation.com
@@ -141,7 +150,9 @@ http://image-ps4.api.playstation.com
 http://image.api.playstation.com
 http://image.mail.asia.playstation.com
 http://image.mail.jp.playstation.com
+http://io.playstation.com
 http://is.playstation.com
+http://ivaldi.playstation.com
 http://jp.playstation.com
 http://juega.playstation.com
 http://la.playstation.com
@@ -316,6 +327,14 @@ https://chinacdn.playstation.com
 https://click.txn-email03.playstation.com
 https://cloud.txn-email03.playstation.com
 https://cloudtv.us.playstation.com
+https://cms-author.direct-stage.playstation.com
+https://cms-author.direct-stage2.playstation.com
+https://cms-author.direct-stage3.playstation.com
+https://cms-author.direct.playstation.com
+https://cms-publisher.direct-stage.playstation.com
+https://cms-publisher.direct-stage2.playstation.com
+https://cms-publisher.direct-stage3.playstation.com
+https://cms-publisher.direct.playstation.com
 https://cod.playstation.com
 https://commerce-api.direct-qa.playstation.com
 https://commerce-api.direct-stage.playstation.com
@@ -428,7 +447,9 @@ https://image-ps4.api.playstation.com
 https://image.api.playstation.com
 https://image.mail.asia.playstation.com
 https://image.mail.jp.playstation.com
+https://io.playstation.com
 https://is.playstation.com
+https://ivaldi.playstation.com
 https://jp.playstation.com
 https://juega.playstation.com
 https://la.playstation.com

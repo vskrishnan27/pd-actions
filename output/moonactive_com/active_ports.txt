@@ -1,7 +1,5 @@
 analytics-test-off.moonactive.com:443
 analytics-test-off.moonactive.com:80
-analytics-test-off.moonactive.com:995
-analytics-test-on.moonactive.com:3306
 analytics-test-on.moonactive.com:443
 analytics-test-on.moonactive.com:80
 gdpr.moonactive.com:443
@@ -13,15 +11,9 @@ moonactive.com:80
 moonactive.com:8080
 moonactive.com:8443
 tableau-admin.moonactive.com:443
-tableau-admin.moonactive.com:445
 tableau-admin.moonactive.com:80
-tableau-admin.moonactive.com:8081
-tableau.moonactive.com:1110
-tableau.moonactive.com:3306
 tableau.moonactive.com:443
-tableau.moonactive.com:5009
 tableau.moonactive.com:80
-tableau.moonactive.com:8443
 thespace-warsaw.moonactive.com:443
 thespace-warsaw.moonactive.com:80
 thespace-warsaw.moonactive.com:8080

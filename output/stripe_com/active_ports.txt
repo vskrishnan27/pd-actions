@@ -70,8 +70,6 @@ dashboard-canary-5-percent.stripe.com:443
 dashboard-canary-5-percent.stripe.com:80
 dashboard-canary-50-percent.stripe.com:443
 dashboard-canary-50-percent.stripe.com:80
-dashboard.stripe.com:443
-dashboard.stripe.com:80
 delegated-authentication.stripe.com:443
 delegated-authentication.stripe.com:80
 docs.stripe.com:443
@@ -193,7 +191,6 @@ jss.prod.corp.stripe.com:443
 jss.qa.corp.stripe.com:443
 lists.stripe.com:443
 lists.stripe.com:80
-local.corp.stripe.com:443
 lokalise-hooks.stripe.com:443
 lokalise-hooks.stripe.com:80
 m.stripe.com:443

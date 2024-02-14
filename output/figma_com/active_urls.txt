@@ -20,6 +20,7 @@ http://go.figma.com:8443
 http://hello.figma.com
 http://help.figma.com
 http://help.figma.com:8080
+http://help.figma.com:8443
 http://info.figma.com
 http://info.figma.com:8443
 http://marketing.figma.com
@@ -75,7 +76,6 @@ https://friends.figma.com
 https://go.figma.com
 https://hello.figma.com
 https://help.figma.com
-https://help.figma.com:8443
 https://info.figma.com
 https://marketing.figma.com
 https://marketing.staging.figma.com

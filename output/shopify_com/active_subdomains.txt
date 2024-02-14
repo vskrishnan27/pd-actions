@@ -282,7 +282,6 @@ merchant-feedback.shopify.com
 milestones.shopify.com
 mobile.shopify.com
 mta.email.shopify.com
-mta2.email.shopify.com
 mta4.email.shopify.com
 mx.shopify.com
 mxmkto.email.plus.shopify.com
@@ -527,7 +526,6 @@ v200.ae2.br.hy094.chi2.shopify.com
 vault.shopify.com
 vaultapp1.ec2.shopify.com
 videomaker.shopify.com
-view.email.shopify.com
 vision.shopify.com
 wc.shopify.com
 weareopen.shopify.com

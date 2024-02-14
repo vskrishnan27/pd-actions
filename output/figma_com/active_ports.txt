@@ -32,11 +32,7 @@ forms.figma.com:443
 forms.figma.com:80
 forum.figma.com:443
 forum.figma.com:80
-friends.figma.com:1900
-friends.figma.com:2001
-friends.figma.com:3986
 friends.figma.com:443
-friends.figma.com:5666
 friends.figma.com:80
 go.figma.com:443
 go.figma.com:80

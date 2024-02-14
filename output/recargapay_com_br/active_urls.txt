@@ -13,6 +13,7 @@ http://recargapay.com.br
 http://www.recargapay.com.br
 https://api.of.recargapay.com.br
 https://blog.recargapay.com.br
+https://dapi.of.recargapay.com.br
 https://faq.recargapay.com.br
 https://itsm.recargapay.com.br
 https://link.recargapay.com.br

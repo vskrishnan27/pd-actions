@@ -25,7 +25,6 @@ http://www.okx.com:8443
 http://x1rpc.okx.com
 http://x1rpc.okx.com:8443
 http://x1testrpc.okx.com
-http://x1testrpc.okx.com:8080
 http://x1testrpc.okx.com:8443
 https://aws.okx.com
 https://chainrpc.okx.com
@@ -43,8 +42,6 @@ https://okx.com
 https://static.okx.com
 https://tr.okx.com
 https://wallet.okx.com
-https://ws.okx.com
-https://ws.okx.com:8443
 https://wsaws.okx.com
 https://wsaws.okx.com:8443
 https://wsdex.okx.com

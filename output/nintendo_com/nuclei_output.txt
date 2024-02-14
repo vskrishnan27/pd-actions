@@ -1,1 +1,2 @@
 [CVE-2000-0114] [http] [medium] https://developer.nintendo.com/_vti_inf.html
+[CVE-2019-11248] [http] [high] https://studio.mii.nintendo.com/debug/pprof/

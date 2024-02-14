@@ -158,6 +158,7 @@ gator.stripe.com:443
 gator.stripe.com:80
 gems.stripe.com:443
 gems.stripe.com:80
+git.corp.stripe.com:443
 global.stripe.com:443
 global.stripe.com:80
 groups.stripe.com:443
@@ -210,6 +211,8 @@ northwest.corp.stripe.com:443
 not-a-git.corp.stripe.com:443
 npm-registry.local.corp.stripe.com:443
 ops-docs.corp.stripe.com:443
+pay.stripe.com:443
+pay.stripe.com:80
 payments.stripe.com:443
 payments.stripe.com:80
 pdx.corp.stripe.com:443

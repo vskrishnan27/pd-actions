@@ -9,7 +9,6 @@ http://app.chime.com:8080
 http://app.chime.com:8443
 http://attachments.chime.com
 http://attachments.chime.com:8080
-http://attachments.chime.com:8443
 http://autobots-dev1.chime.com
 http://autobots-dev1.chime.com:8080
 http://autobots-dev1.chime.com:8443
@@ -39,7 +38,6 @@ http://email.mg.chime.com:8080
 http://email.mg.chime.com:8443
 http://email.teamable.chime.com
 http://email.teamable.chime.com:8080
-http://email.teamable.chime.com:8443
 http://enterpriseenrollment.chime.com
 http://enterpriseregistration.chime.com
 http://error-pages.chime.com
@@ -108,6 +106,7 @@ http://penny-qa.chime.com:8080
 http://penny-qa.chime.com:8443
 http://penny.chime.com
 http://penny.chime.com:8080
+http://penny.chime.com:8443
 http://public-assets-dev1.chime.com
 http://public-assets-dev1.chime.com:8080
 http://public-assets-dev1.chime.com:8443
@@ -152,6 +151,7 @@ https://16002407.account.chime.com
 https://16002407.notify.chime.com
 https://app.chime.com
 https://attachments.chime.com
+https://attachments.chime.com:8443
 https://autobots-dev1.chime.com
 https://autobots-qa.chime.com
 https://autobots.chime.com
@@ -170,6 +170,7 @@ https://email.mg.chime.com
 https://email.talent.chime.com
 https://email.talent.chime.com:80
 https://email.teamable.chime.com
+https://email.teamable.chime.com:8443
 https://enterpriseenrollment.chime.com
 https://enterpriseregistration.chime.com
 https://error-pages.chime.com
@@ -198,7 +199,6 @@ https://nd.chime.com
 https://penny-dev1.chime.com
 https://penny-qa.chime.com
 https://penny.chime.com
-https://penny.chime.com:8443
 https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
 https://public-assets.chime.com

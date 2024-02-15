@@ -40,8 +40,6 @@ admin-lite-staging.airbnb.com:443
 admin-lite-staging.airbnb.com:80
 admin-lite.airbnb.com:443
 admin-lite.airbnb.com:80
-admin-next.airbnb.com:443
-admin-next.airbnb.com:80
 admin-staging.airbnb.com:443
 admin-staging.airbnb.com:80
 admin.dev.staging.airbnb.com:443
@@ -229,6 +227,8 @@ burlingtonvtpre.optustvnow.next.airbnb.com:443
 burlingtonvtpre.optustvnow.next.airbnb.com:80
 buyshock.pictures.next.airbnb.com:443
 buyshock.pictures.next.airbnb.com:80
+c.next.airbnb.com:443
+c.next.airbnb.com:80
 ca.airbnb.com:443
 ca.airbnb.com:80
 callbacks.airbnb.com:443
@@ -279,8 +279,6 @@ chj.evd.next.airbnb.com:443
 chj.evd.next.airbnb.com:80
 chk.mail35.next.airbnb.com:443
 chk.mail35.next.airbnb.com:80
-ci.next.airbnb.com:443
-ci.next.airbnb.com:80
 cim-api-dev.next.airbnb.com:443
 cim-api-dev.next.airbnb.com:80
 cim-api-qa.next.airbnb.com:443
@@ -323,6 +321,8 @@ collector.galileo.next.airbnb.com:443
 collector.galileo.next.airbnb.com:80
 collector1qa.optustvnow.next.airbnb.com:443
 collector1qa.optustvnow.next.airbnb.com:80
+comapi.next.airbnb.com:443
+comapi.next.airbnb.com:80
 comercio.evd.next.airbnb.com:443
 comercio.evd.next.airbnb.com:80
 community-staging.airbnb.com:443
@@ -347,6 +347,8 @@ covid19-private-zh-t.next.airbnb.com:443
 covid19-private-zh-t.next.airbnb.com:80
 covid19demo-id.next.airbnb.com:443
 covid19demo-id.next.airbnb.com:80
+covid19elasticbeanstalk-el.next.airbnb.com:443
+covid19elasticbeanstalk-el.next.airbnb.com:80
 covid19nov.next.airbnb.com:443
 covid19nov.next.airbnb.com:80
 cp.next.airbnb.com:443
@@ -371,8 +373,6 @@ cskcs.new.next.airbnb.com:443
 cskcs.new.next.airbnb.com:80
 csm.next.airbnb.com:443
 csm.next.airbnb.com:80
-cspi.next.airbnb.com:443
-cspi.next.airbnb.com:80
 ctlfrlay.evd.next.airbnb.com:443
 ctlfrlay.evd.next.airbnb.com:80
 cveapi.next.airbnb.com:443
@@ -401,6 +401,8 @@ de.next.airbnb.com:443
 de.next.airbnb.com:80
 de.prod.next.airbnb.com:443
 de.prod.next.airbnb.com:80
+demo.next.airbnb.com:443
+demo.next.airbnb.com:80
 desdemona.new.next.airbnb.com:443
 desdemona.new.next.airbnb.com:80
 designstory.res.next.airbnb.com:443
@@ -487,6 +489,8 @@ es.admin.airbnb.com:443
 es.admin.airbnb.com:80
 es.airbnb.com:443
 es.airbnb.com:80
+es.next.airbnb.com:443
+es.next.airbnb.com:80
 esxi05.dev.next.airbnb.com:443
 esxi05.dev.next.airbnb.com:80
 et.airbnb.com:443
@@ -495,12 +499,18 @@ eventhorizon.dev.next.airbnb.com:443
 eventhorizon.dev.next.airbnb.com:80
 exchange.next.airbnb.com:443
 exchange.next.airbnb.com:80
+express.next.airbnb.com:443
+express.next.airbnb.com:80
 eym-xsrvjp.info.next.airbnb.com:443
 eym-xsrvjp.info.next.airbnb.com:80
 fastly-dev.airbnb.com:443
 fastly-dev.airbnb.com:80
+fastly-staging.airbnb.com:443
+fastly-staging.airbnb.com:80
 fastly-test.airbnb.com:443
 fastly-test.airbnb.com:80
+fastly.airbnb.com:443
+fastly.airbnb.com:80
 fatsoma.next.airbnb.com:443
 fatsoma.next.airbnb.com:80
 fencing.merchdirect.next.airbnb.com:443
@@ -561,8 +571,6 @@ gac-rds-external-readonly.next.airbnb.com:443
 gac-rds-external-readonly.next.airbnb.com:80
 gaia.next.airbnb.com:443
 gaia.next.airbnb.com:80
-galileo.next.airbnb.com:443
-galileo.next.airbnb.com:80
 gallery.new.next.airbnb.com:443
 gallery.new.next.airbnb.com:80
 gbkh.new.next.airbnb.com:443
@@ -669,6 +677,8 @@ hu-region-covid19.next.airbnb.com:443
 hu-region-covid19.next.airbnb.com:80
 hu.airbnb.com:443
 hu.airbnb.com:80
+hu.next.airbnb.com:443
+hu.next.airbnb.com:80
 hu.region-covid19.next.airbnb.com:443
 hu.region-covid19.next.airbnb.com:80
 huang1qi2.new.next.airbnb.com:443
@@ -727,8 +737,6 @@ inst.next.airbnb.com:443
 inst.next.airbnb.com:80
 inst.www.next.airbnb.com:443
 inst.www.next.airbnb.com:80
-instwww.next.airbnb.com:443
-instwww.next.airbnb.com:80
 inswww.next.airbnb.com:443
 inswww.next.airbnb.com:80
 int.next.airbnb.com:443
@@ -871,8 +879,6 @@ lm.next.airbnb.com:443
 lm.next.airbnb.com:80
 localhost.next.airbnb.com:443
 localhost.next.airbnb.com:80
-localhostapi.next.airbnb.com:443
-localhostapi.next.airbnb.com:80
 lodee.evd.next.airbnb.com:443
 lodee.evd.next.airbnb.com:80
 login.next.airbnb.com:443
@@ -898,6 +904,8 @@ m.airbnb.com:80
 m.next.airbnb.com:443
 m.next.airbnb.com:80
 mail.airbnb.com:25
+mail.next.airbnb.com:443
+mail.next.airbnb.com:80
 mail1.next.airbnb.com:443
 mail1.next.airbnb.com:80
 mail11.next.airbnb.com:443
@@ -918,8 +926,12 @@ mail29.next.airbnb.com:443
 mail29.next.airbnb.com:80
 mail30.next.airbnb.com:443
 mail30.next.airbnb.com:80
+mail31.next.airbnb.com:443
+mail31.next.airbnb.com:80
 mail32.next.airbnb.com:443
 mail32.next.airbnb.com:80
+mail33.next.airbnb.com:443
+mail33.next.airbnb.com:80
 mail35.next.airbnb.com:443
 mail35.next.airbnb.com:80
 mailgw02.moodle.next.airbnb.com:443
@@ -1032,8 +1044,6 @@ mx1.next.airbnb.com:443
 mx1.next.airbnb.com:80
 mx2.next.airbnb.com:443
 mx2.next.airbnb.com:80
-my.next.airbnb.com:443
-my.next.airbnb.com:80
 mycareer.merchdirect.next.airbnb.com:443
 mycareer.merchdirect.next.airbnb.com:80
 mylure.mystique.next.airbnb.com:443
@@ -1134,8 +1144,6 @@ nnew.next.airbnb.com:443
 nnew.next.airbnb.com:80
 no.airbnb.com:443
 no.airbnb.com:80
-nodejs-dev.next.airbnb.com:443
-nodejs-dev.next.airbnb.com:80
 nodejs.next.airbnb.com:443
 nodejs.next.airbnb.com:80
 non-prod.next.airbnb.com:443
@@ -1154,10 +1162,8 @@ npub.next.airbnb.com:443
 npub.next.airbnb.com:80
 nrikunabi.next.airbnb.com:443
 nrikunabi.next.airbnb.com:80
-ns.next.airbnb.com:443
-ns.next.airbnb.com:80
-ns1.next.airbnb.com:443
-ns1.next.airbnb.com:80
+ns2.next.airbnb.com:443
+ns2.next.airbnb.com:80
 ns3.next.airbnb.com:443
 ns3.next.airbnb.com:80
 ns4.next.airbnb.com:443
@@ -1228,8 +1234,6 @@ ovh1.dev.next.airbnb.com:443
 ovh1.dev.next.airbnb.com:80
 owa.next.airbnb.com:443
 owa.next.airbnb.com:80
-p2p.next.airbnb.com:443
-p2p.next.airbnb.com:80
 paintballpre.moodle.next.airbnb.com:443
 paintballpre.moodle.next.airbnb.com:80
 panicdisorderadmin.rkai.next.airbnb.com:443
@@ -1360,10 +1364,6 @@ resources.next.airbnb.com:443
 resources.next.airbnb.com:80
 retail.next.airbnb.com:443
 retail.next.airbnb.com:80
-rikunabi.next.airbnb.com:443
-rikunabi.next.airbnb.com:80
-rkai.next.airbnb.com:443
-rkai.next.airbnb.com:80
 ro.airbnb.com:443
 ro.airbnb.com:80
 rockordie1.invenio.next.airbnb.com:443
@@ -1384,8 +1384,6 @@ ru.next.airbnb.com:443
 ru.next.airbnb.com:80
 rx.next.airbnb.com:443
 rx.next.airbnb.com:80
-s.airbnb.com:443
-s.airbnb.com:80
 s1intkthkira.optustvnow.next.airbnb.com:443
 s1intkthkira.optustvnow.next.airbnb.com:80
 s3devw2.apiwww.next.airbnb.com:443
@@ -1444,6 +1442,8 @@ shca.optustvnow.next.airbnb.com:443
 shca.optustvnow.next.airbnb.com:80
 shifa.moodle.next.airbnb.com:443
 shifa.moodle.next.airbnb.com:80
+shift.next.airbnb.com:443
+shift.next.airbnb.com:80
 shop.next.airbnb.com:443
 shop.next.airbnb.com:80
 short.dev.next.airbnb.com:443
@@ -1482,8 +1482,6 @@ springs.uat.next.airbnb.com:443
 springs.uat.next.airbnb.com:80
 sq.airbnb.com:443
 sq.airbnb.com:80
-sql.next.airbnb.com:443
-sql.next.airbnb.com:80
 sqlweb.optustvnow.next.airbnb.com:443
 sqlweb.optustvnow.next.airbnb.com:80
 sr.airbnb.com:443
@@ -1552,8 +1550,8 @@ talos.next.airbnb.com:443
 talos.next.airbnb.com:80
 tellus.mail35.next.airbnb.com:443
 tellus.mail35.next.airbnb.com:80
-tenshokuknowhow.next.airbnb.com:443
-tenshokuknowhow.next.airbnb.com:80
+test.next.airbnb.com:443
+test.next.airbnb.com:80
 test20.optustvnow.next.airbnb.com:443
 test20.optustvnow.next.airbnb.com:80
 test47.dev.next.airbnb.com:443
@@ -1562,6 +1560,8 @@ testing3.evd.next.airbnb.com:443
 testing3.evd.next.airbnb.com:80
 th.airbnb.com:443
 th.airbnb.com:80
+th.next.airbnb.com:443
+th.next.airbnb.com:80
 thanh.optustvnow.next.airbnb.com:443
 thanh.optustvnow.next.airbnb.com:80
 the.next.airbnb.com:443
@@ -1576,10 +1576,14 @@ tl-covid19-billing.next.airbnb.com:443
 tl-covid19-billing.next.airbnb.com:80
 tl-covid19demo.next.airbnb.com:443
 tl-covid19demo.next.airbnb.com:80
+tl-region-covid19.next.airbnb.com:443
+tl-region-covid19.next.airbnb.com:80
 tl.airbnb.com:443
 tl.airbnb.com:80
 tl.next.airbnb.com:443
 tl.next.airbnb.com:80
+tlcovid19-private.next.airbnb.com:443
+tlcovid19-private.next.airbnb.com:80
 tls.next.airbnb.com:443
 tls.next.airbnb.com:80
 tools.next.airbnb.com:443
@@ -1608,6 +1612,8 @@ tsukumo-biz.kb.next.airbnb.com:443
 tsukumo-biz.kb.next.airbnb.com:80
 tx.next.airbnb.com:443
 tx.next.airbnb.com:80
+uat.next.airbnb.com:443
+uat.next.airbnb.com:80
 ucnownet3.moodle.next.airbnb.com:443
 ucnownet3.moodle.next.airbnb.com:80
 ugc.abuse.next.airbnb.com:443
@@ -1640,6 +1646,8 @@ us.isit.admin.airbnb.com:443
 us.isit.admin.airbnb.com:80
 useast.next.airbnb.com:443
 useast.next.airbnb.com:80
+user.next.airbnb.com:443
+user.next.airbnb.com:80
 users.cspi.next.airbnb.com:443
 users.cspi.next.airbnb.com:80
 users.mail33.next.airbnb.com:443
@@ -1698,6 +1706,8 @@ wanjin1.moodle.next.airbnb.com:443
 wanjin1.moodle.next.airbnb.com:80
 wap.next.airbnb.com:443
 wap.next.airbnb.com:80
+web.next.airbnb.com:443
+web.next.airbnb.com:80
 web1.next.airbnb.com:443
 web1.next.airbnb.com:80
 web30.evd.next.airbnb.com:443
@@ -1716,8 +1726,6 @@ webdevsladmin.evd.next.airbnb.com:443
 webdevsladmin.evd.next.airbnb.com:80
 webdisk.next.airbnb.com:443
 webdisk.next.airbnb.com:80
-webforward.next.airbnb.com:443
-webforward.next.airbnb.com:80
 webhook.next.airbnb.com:443
 webhook.next.airbnb.com:80
 webmail.next.airbnb.com:443

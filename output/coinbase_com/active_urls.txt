@@ -72,6 +72,9 @@ http://cloud-api.coinbase.com
 http://cloud-api.coinbase.com:8080
 http://cloud-api.coinbase.com:8443
 http://cloud-docs-beta.coinbase.com
+http://cloud.coinbase.com
+http://cloud.coinbase.com:8080
+http://cloud.coinbase.com:8443
 http://cohort-service.crypto.coinbase.com
 http://cohort-service.crypto.coinbase.com:8080
 http://cohort-service.crypto.coinbase.com:8443
@@ -101,9 +104,6 @@ http://custody.coinbase.com:8443
 http://data.coinbase.com
 http://data.coinbase.com:8080
 http://data.coinbase.com:8443
-http://dev.coinbase.com
-http://dev.coinbase.com:8080
-http://dev.coinbase.com:8443
 http://developer.coinbase.com
 http://developer.coinbase.com:8080
 http://developer.coinbase.com:8443
@@ -112,6 +112,7 @@ http://developers.coinbase.com:8080
 http://developers.coinbase.com:8443
 http://docs.cloud.coinbase.com
 http://docs.cloud.coinbase.com:8080
+http://docs.cloud.coinbase.com:8443
 http://docs.custody.coinbase.com
 http://docs.custody.coinbase.com:8080
 http://docs.exchange.coinbase.com
@@ -229,15 +230,11 @@ http://profile.coinbase.com:8080
 http://profile.coinbase.com:8443
 http://public.sandbox.exchange.coinbase.com
 http://public.sandbox.exchange.coinbase.com:8443
-http://public.sandbox.pro.coinbase.com
-http://public.sandbox.pro.coinbase.com:8080
-http://public.sandbox.pro.coinbase.com:8443
 http://published-assets.coinbase.com
 http://restore.coinbase.com
 http://restore.coinbase.com:8080
 http://sepolia-etherscan.wallet.coinbase.com
 http://sepolia-etherscan.wallet.coinbase.com:8080
-http://sepolia-etherscan.wallet.coinbase.com:8443
 http://sessions.coinbase.com
 http://sessions.coinbase.com:8080
 http://sessions.coinbase.com:8443
@@ -260,7 +257,6 @@ http://status.commerce.coinbase.com
 http://status.commerce.coinbase.com:8080
 http://status.commerce.coinbase.com:8443
 http://status.custody.coinbase.com
-http://status.custody.coinbase.com:8080
 http://status.custody.coinbase.com:8443
 http://status.exchange.coinbase.com
 http://status.exchange.coinbase.com:8080
@@ -269,7 +265,6 @@ http://status.prime.coinbase.com
 http://status.prime.coinbase.com:8080
 http://status.prime.coinbase.com:8443
 http://status.pro.coinbase.com
-http://status.pro.coinbase.com:443
 http://status.pro.coinbase.com:8080
 http://status.pro.coinbase.com:8443
 http://support-dev.coinbase.com
@@ -317,14 +312,12 @@ http://verify.coinbase.com:8443
 http://wallet.commerce.coinbase.com
 http://wallet.commerce.coinbase.com:8080
 http://wallet.commerce.coinbase.com:8443
-http://widget.coinbase.com
-http://widget.coinbase.com:8080
-http://widget.coinbase.com:8443
 http://ws-feed-public.sandbox.pro.coinbase.com
 http://ws-feed-public.sandbox.pro.coinbase.com:8080
 http://ws-feed-public.sandbox.pro.coinbase.com:8443
 http://ws-feed.exchange.coinbase.com
 http://ws-feed.exchange.coinbase.com:8080
+http://ws-feed.exchange.coinbase.com:8443
 http://ws-feed.prime.coinbase.com
 http://ws-feed.prime.coinbase.com:8080
 http://ws-feed.prime.coinbase.com:8443
@@ -371,6 +364,7 @@ https://careers.coinbase.com
 https://chain-proxy.wallet.coinbase.com
 https://cloud-api.coinbase.com
 https://cloud-docs-beta.coinbase.com
+https://cloud.coinbase.com
 https://cohort-service.crypto.coinbase.com
 https://coinbase.com
 https://comm.coinbase.com
@@ -382,11 +376,9 @@ https://console.cloud.coinbase.com:8443
 https://contentful.coinbase.com
 https://custody.coinbase.com
 https://data.coinbase.com
-https://dev.coinbase.com
 https://developer.coinbase.com
 https://developers.coinbase.com
 https://docs.cloud.coinbase.com
-https://docs.cloud.coinbase.com:8443
 https://docs.custody.coinbase.com
 https://docs.custody.coinbase.com:8443
 https://docs.exchange.coinbase.com
@@ -449,11 +441,11 @@ https://primebroker.coinbase.com
 https://pro.coinbase.com
 https://profile.coinbase.com
 https://public.sandbox.exchange.coinbase.com
-https://public.sandbox.pro.coinbase.com
 https://published-assets.coinbase.com
 https://restore.coinbase.com
 https://restore.coinbase.com:8443
 https://sepolia-etherscan.wallet.coinbase.com
+https://sepolia-etherscan.wallet.coinbase.com:8443
 https://sessions.coinbase.com
 https://smartling.coinbase.com
 https://sol-mainnet.wallet.coinbase.com
@@ -464,6 +456,7 @@ https://status.commerce.coinbase.com
 https://status.custody.coinbase.com
 https://status.exchange.coinbase.com
 https://status.prime.coinbase.com
+https://status.pro.coinbase.com
 https://support-dev.coinbase.com
 https://support-dev.coinbase.com:8443
 https://support-dev.prime.coinbase.com
@@ -495,10 +488,8 @@ https://ventures.coinbase.com
 https://ventures.coinbase.com:8443
 https://verify.coinbase.com
 https://wallet.commerce.coinbase.com
-https://widget.coinbase.com
 https://ws-feed-public.sandbox.pro.coinbase.com
 https://ws-feed.exchange.coinbase.com
-https://ws-feed.exchange.coinbase.com:8443
 https://ws-feed.prime.coinbase.com
 https://ws-feed.pro.coinbase.com
 https://ws-md.international.coinbase.com

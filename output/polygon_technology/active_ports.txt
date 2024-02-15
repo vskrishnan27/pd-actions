@@ -48,10 +48,6 @@ devnet-avail.polygon.technology:443
 devnet-avail.polygon.technology:80
 devnet-avail.polygon.technology:8080
 devnet-avail.polygon.technology:8443
-docs.polygon.technology:443
-docs.polygon.technology:80
-docs.polygon.technology:8080
-docs.polygon.technology:8443
 ecosystem.polygon.technology:443
 ecosystem.polygon.technology:80
 ecosystem.polygon.technology:8080
@@ -109,6 +105,8 @@ gasstation.polygon.technology:80
 gasstation.polygon.technology:8080
 gasstation.polygon.technology:8443
 go.polygon.technology:443
+go.polygon.technology:49157
+go.polygon.technology:5666
 go.polygon.technology:80
 green.polygon.technology:443
 green.polygon.technology:80

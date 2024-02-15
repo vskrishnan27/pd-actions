@@ -1,4 +1,3 @@
-moonactive.net
 moonactive.com
 eero.com
 ring.com
@@ -75,3 +74,4 @@ playcanv.as
 sc-core.net
 sc-corp.net
 lululemon.com
+moonactive.net

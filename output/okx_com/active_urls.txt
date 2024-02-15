@@ -42,6 +42,8 @@ https://okx.com
 https://static.okx.com
 https://tr.okx.com
 https://wallet.okx.com
+https://ws.okx.com
+https://ws.okx.com:8443
 https://wsaws.okx.com
 https://wsaws.okx.com:8443
 https://wsdex.okx.com

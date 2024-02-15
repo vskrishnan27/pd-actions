@@ -7,6 +7,7 @@ http://apps.chain.link:8443
 http://archive.docs.chain.link
 http://archive.docs.chain.link:8080
 http://automation.chain.link
+http://automation.chain.link:8443
 http://bid470x.20755222t.chain.link
 http://blog.chain.link
 http://blog.chain.link:8443
@@ -17,6 +18,8 @@ http://ccip.chain.link:8443
 http://chain.link
 http://data.chain.link
 http://data.chain.link:8443
+http://dataengine.chain.link
+http://dataengine.chain.link:8080
 http://defi.chain.link
 http://defi.chain.link:8080
 http://dev.chain.link
@@ -105,13 +108,14 @@ https://apps.chain.link
 https://archive.docs.chain.link
 https://archive.docs.chain.link:8443
 https://automation.chain.link
-https://automation.chain.link:8443
 https://blog.chain.link
 https://careers.chain.link
 https://careers.chain.link:8443
 https://ccip.chain.link
 https://chain.link
 https://data.chain.link
+https://dataengine.chain.link
+https://dataengine.chain.link:8443
 https://defi.chain.link
 https://defi.chain.link:8443
 https://dev.chain.link

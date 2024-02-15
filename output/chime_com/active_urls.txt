@@ -18,6 +18,7 @@ http://autobots-qa.chime.com:8080
 http://autobots-qa.chime.com:8443
 http://autobots.chime.com
 http://autobots.chime.com:8080
+http://autobots.chime.com:8443
 http://careers.chime.com
 http://chat.chime.com
 http://chat.chime.com:8080
@@ -70,9 +71,9 @@ http://inspector.chime.com:8443
 http://interchange.chime.com
 http://links.account.chime.com
 http://links.account.chime.com:8080
+http://links.account.chime.com:8443
 http://links.notify.chime.com
 http://links.notify.chime.com:8080
-http://links.notify.chime.com:8443
 http://locations-qa.chime.com
 http://locations-qa.chime.com:8080
 http://locations-qa.chime.com:8443
@@ -100,6 +101,7 @@ http://monocle.chime.com:8080
 http://monocle.chime.com:8443
 http://penny-dev1.chime.com
 http://penny-dev1.chime.com:8080
+http://penny-dev1.chime.com:8443
 http://penny-qa.chime.com
 http://penny-qa.chime.com:8080
 http://penny-qa.chime.com:8443
@@ -117,7 +119,6 @@ http://public-assets.chime.com:8080
 http://public-assets.chime.com:8443
 http://static-attachments.chime.com
 http://static-attachments.chime.com:8080
-http://static-attachments.chime.com:8443
 http://status.chime.com
 http://status.chime.com:8080
 http://transaction.chime.com
@@ -141,6 +142,7 @@ http://wp-dev5.chime.com:8080
 http://wp-dev5.chime.com:8443
 http://wp-integ.chime.com
 http://wp-integ.chime.com:8080
+http://wp-integ.chime.com:8443
 http://wp-qa.chime.com
 http://wp-qa.chime.com:8080
 http://wp-qa.chime.com:8443
@@ -152,7 +154,6 @@ https://attachments.chime.com
 https://autobots-dev1.chime.com
 https://autobots-qa.chime.com
 https://autobots.chime.com
-https://autobots.chime.com:8443
 https://careers.chime.com
 https://chat.chime.com
 https://chime.com
@@ -182,8 +183,8 @@ https://inspector-qa.chime.com
 https://inspector.chime.com
 https://interchange.chime.com
 https://links.account.chime.com
-https://links.account.chime.com:8443
 https://links.notify.chime.com
+https://links.notify.chime.com:8443
 https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
@@ -195,13 +196,13 @@ https://monocle-qa.chime.com
 https://monocle.chime.com
 https://nd.chime.com
 https://penny-dev1.chime.com
-https://penny-dev1.chime.com:8443
 https://penny-qa.chime.com
 https://penny.chime.com
 https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
 https://public-assets.chime.com
 https://static-attachments.chime.com
+https://static-attachments.chime.com:8443
 https://status.chime.com
 https://status.chime.com:8443
 https://transaction.chime.com
@@ -212,6 +213,5 @@ https://wp-dev3.chime.com
 https://wp-dev4.chime.com
 https://wp-dev5.chime.com
 https://wp-integ.chime.com
-https://wp-integ.chime.com:8443
 https://wp-qa.chime.com
 https://www.chime.com

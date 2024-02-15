@@ -12,6 +12,7 @@ http://attachments.chime.com:8080
 http://attachments.chime.com:8443
 http://autobots-dev1.chime.com
 http://autobots-dev1.chime.com:8080
+http://autobots-dev1.chime.com:8443
 http://autobots-qa.chime.com
 http://autobots-qa.chime.com:8080
 http://autobots-qa.chime.com:8443
@@ -38,7 +39,6 @@ http://email.mg.chime.com:8080
 http://email.mg.chime.com:8443
 http://email.teamable.chime.com
 http://email.teamable.chime.com:8080
-http://email.teamable.chime.com:8443
 http://enterpriseenrollment.chime.com
 http://enterpriseregistration.chime.com
 http://error-pages.chime.com
@@ -60,7 +60,6 @@ http://help.chime.com:8080
 http://help.chime.com:8443
 http://inspector-dev1.chime.com
 http://inspector-dev1.chime.com:8080
-http://inspector-dev1.chime.com:8443
 http://inspector-qa.chime.com
 http://inspector-qa.chime.com:8080
 http://inspector-qa.chime.com:8443
@@ -110,7 +109,6 @@ http://penny.chime.com:8080
 http://penny.chime.com:8443
 http://public-assets-dev1.chime.com
 http://public-assets-dev1.chime.com:8080
-http://public-assets-dev1.chime.com:8443
 http://public-assets-qa.chime.com
 http://public-assets-qa.chime.com:8080
 http://public-assets-qa.chime.com:8443
@@ -143,6 +141,7 @@ http://wp-dev5.chime.com:8080
 http://wp-dev5.chime.com:8443
 http://wp-integ.chime.com
 http://wp-integ.chime.com:8080
+http://wp-integ.chime.com:8443
 http://wp-qa.chime.com
 http://wp-qa.chime.com:8080
 http://wp-qa.chime.com:8443
@@ -152,7 +151,6 @@ https://16002407.notify.chime.com
 https://app.chime.com
 https://attachments.chime.com
 https://autobots-dev1.chime.com
-https://autobots-dev1.chime.com:8443
 https://autobots-qa.chime.com
 https://autobots.chime.com
 https://careers.chime.com
@@ -170,6 +168,7 @@ https://email.mg.chime.com
 https://email.talent.chime.com
 https://email.talent.chime.com:80
 https://email.teamable.chime.com
+https://email.teamable.chime.com:8443
 https://enterpriseenrollment.chime.com
 https://enterpriseregistration.chime.com
 https://error-pages.chime.com
@@ -180,6 +179,7 @@ https://handbooks.chime.com
 https://help-test.chime.com
 https://help.chime.com
 https://inspector-dev1.chime.com
+https://inspector-dev1.chime.com:8443
 https://inspector-qa.chime.com
 https://inspector.chime.com
 https://interchange.chime.com
@@ -199,6 +199,7 @@ https://penny-dev1.chime.com
 https://penny-qa.chime.com
 https://penny.chime.com
 https://public-assets-dev1.chime.com
+https://public-assets-dev1.chime.com:8443
 https://public-assets-qa.chime.com
 https://public-assets.chime.com
 https://static-attachments.chime.com
@@ -212,6 +213,5 @@ https://wp-dev3.chime.com
 https://wp-dev4.chime.com
 https://wp-dev5.chime.com
 https://wp-integ.chime.com
-https://wp-integ.chime.com:8443
 https://wp-qa.chime.com
 https://www.chime.com

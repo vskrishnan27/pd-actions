@@ -166,8 +166,6 @@ http://classic-help-staging.shopify.com
 http://classic-help.shopify.com
 http://classifieds.shopify.com
 http://classifieds.shopify.com:8080
-http://click.email.shopify.com
-http://click.email.shopify.com:8080
 http://cms.everest.shopify.com
 http://cms.everest.shopify.com:8080
 http://cms.shopify.com
@@ -463,10 +461,6 @@ http://locality.shopify.com
 http://locality.shopify.com:8080
 http://localsession.shopify.com
 http://localsession.shopify.com:8080
-http://log1.ash.shopify.com
-http://log1.ash.shopify.com:8080
-http://log3.ash.shopify.com
-http://log3.ash.shopify.com:8080
 http://login.community-stage.shopify.com
 http://login.community-stage.shopify.com:8080
 http://login.community.shopify.com
@@ -479,8 +473,6 @@ http://logistics.shopify.com
 http://logistics.shopify.com:8080
 http://logs.shopify.com
 http://logs.shopify.com:8080
-http://m.shopify.com
-http://m.shopify.com:8080
 http://m.ssl.shopify.com
 http://m.ssl.shopify.com:8080
 http://mail-relay.shopify.com
@@ -521,8 +513,10 @@ http://milestones.shopify.com
 http://milestones.shopify.com:8080
 http://mobile.shopify.com
 http://mobile.shopify.com:8080
-http://mta3.email.shopify.com
-http://mta3.email.shopify.com:8080
+http://mta.email.shopify.com
+http://mta.email.shopify.com:8080
+http://mta2.email.shopify.com
+http://mta2.email.shopify.com:8080
 http://mta4.email.shopify.com
 http://mta4.email.shopify.com:8080
 http://mx.shopify.com
@@ -692,6 +686,8 @@ http://shopify-plus-meet-up.shopify.com
 http://shopify-plus-meet-up.shopify.com:8080
 http://simba-sleep.shopify.com
 http://simba-sleep.shopify.com:8080
+http://site.email.shopify.com
+http://site.email.shopify.com:8080
 http://sl.shopify.com
 http://sl2.shopify.com
 http://sl3.shopify.com
@@ -916,6 +912,8 @@ http://win.shopify.com
 http://win.shopify.com:8080
 http://windsor.shopify.com
 http://windsor.shopify.com:8080
+http://ww.shopify.com
+http://ww.shopify.com:8080
 http://www.act.shopify.com
 http://www.act.shopify.com:8080
 http://www.badeaux.shopify.com
@@ -1098,8 +1096,6 @@ https://classic-help-staging.shopify.com
 https://classic-help.shopify.com
 https://classifieds.shopify.com
 https://classifieds.shopify.com:8443
-https://click.email.shopify.com
-https://click.email.shopify.com:8443
 https://cms.everest.shopify.com
 https://cms.everest.shopify.com:8443
 https://cms.shopify.com
@@ -1398,10 +1394,6 @@ https://locality.shopify.com
 https://locality.shopify.com:8443
 https://localsession.shopify.com
 https://localsession.shopify.com:8443
-https://log1.ash.shopify.com
-https://log1.ash.shopify.com:8443
-https://log3.ash.shopify.com
-https://log3.ash.shopify.com:8443
 https://login.community-stage.shopify.com
 https://login.community-stage.shopify.com:8443
 https://login.community.shopify.com
@@ -1414,8 +1406,6 @@ https://logistics.shopify.com
 https://logistics.shopify.com:8443
 https://logs.shopify.com
 https://logs.shopify.com:8443
-https://m.shopify.com
-https://m.shopify.com:8443
 https://m.ssl.shopify.com
 https://m.ssl.shopify.com:8443
 https://mail-relay.shopify.com
@@ -1456,8 +1446,10 @@ https://milestones.shopify.com
 https://milestones.shopify.com:8443
 https://mobile.shopify.com
 https://mobile.shopify.com:8443
-https://mta3.email.shopify.com
-https://mta3.email.shopify.com:8443
+https://mta.email.shopify.com
+https://mta.email.shopify.com:8443
+https://mta2.email.shopify.com
+https://mta2.email.shopify.com:8443
 https://mta4.email.shopify.com
 https://mta4.email.shopify.com:8443
 https://mx.shopify.com
@@ -1628,6 +1620,8 @@ https://shopify-plus-meet-up.shopify.com
 https://shopify-plus-meet-up.shopify.com:8443
 https://simba-sleep.shopify.com
 https://simba-sleep.shopify.com:8443
+https://site.email.shopify.com
+https://site.email.shopify.com:8443
 https://sl.shopify.com
 https://sl2.shopify.com
 https://sl3.shopify.com
@@ -1852,6 +1846,8 @@ https://win.shopify.com
 https://win.shopify.com:8443
 https://windsor.shopify.com
 https://windsor.shopify.com:8443
+https://ww.shopify.com
+https://ww.shopify.com:8443
 https://www.act.shopify.com
 https://www.act.shopify.com:8443
 https://www.badeaux.shopify.com

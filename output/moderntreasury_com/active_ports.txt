@@ -18,6 +18,8 @@ cognito.demo.moderntreasury.com:443
 cognito.demo.moderntreasury.com:80
 cognito.moderntreasury.com:443
 cognito.moderntreasury.com:80
+demo.moderntreasury.com:443
+demo.moderntreasury.com:80
 docs.moderntreasury.com:443
 docs.moderntreasury.com:80
 docs.moderntreasury.com:8080

@@ -333,6 +333,7 @@ http://dast-4456656-dast-default.design-staging.gitlab.com
 http://design.gitlab.com
 http://developer.gitlab.com
 http://doc.gitlab.com
+http://docs.gitlab.com
 http://ee.gitlab.com
 http://ee.gitlab.com:8080
 http://email.customers.gitlab.com
@@ -736,6 +737,7 @@ https://dast-4456656-dast-default.design-staging.gitlab.com
 https://design.gitlab.com
 https://developer.gitlab.com
 https://doc.gitlab.com
+https://docs.gitlab.com
 https://ee.gitlab.com
 https://ee.gitlab.com:8443
 https://email.customers.gitlab.com

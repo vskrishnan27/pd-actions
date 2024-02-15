@@ -175,6 +175,7 @@ http://support.cs-tools.ring.com
 http://support.dev.ring.com
 http://support.help.ring.com
 http://support.help.ring.com:8080
+http://support.help.ring.com:8443
 http://support.qa.ring.com
 http://support.ring.com
 http://survey.ring.com
@@ -472,7 +473,6 @@ https://support.cs-tools.dev.ring.com
 https://support.cs-tools.ring.com
 https://support.dev.ring.com
 https://support.help.ring.com
-https://support.help.ring.com:8443
 https://support.qa.ring.com
 https://support.ring.com
 https://survey.ring.com

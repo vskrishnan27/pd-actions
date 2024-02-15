@@ -41,7 +41,6 @@ api.gonogo.metrics.shuttle.ring.com
 api.internal.ap-northeast-1.ringo.ring.com
 api.internal.ap-south-1.ringo.ring.com
 api.internal.ap-southeast-1.ringo.ring.com
-api.internal.eu-north-1.ringo.release.ring.com
 api.internal.eu-west-1.ringo.dev.ring.com
 api.internal.eu-west-1.ringo.qa.ring.com
 api.internal.eu-west-1.ringo.release.ring.com

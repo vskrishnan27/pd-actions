@@ -65,6 +65,7 @@ http://email-scheduler-prod.sc-corp.net
 http://expresso.sc-corp.net
 http://facet-staging.sc-corp.net
 http://facet.sc-corp.net
+http://fleetdm-proxy.sc-corp.net:443
 http://fleetdm.sc-corp.net
 http://flowrida-ad-insights.sc-corp.net
 http://flowrida-ad-ranking.sc-corp.net
@@ -73,9 +74,9 @@ http://flowrida-ad-targeting.sc-corp.net
 http://flowrida-research.sc-corp.net
 http://flowrida-unlockables.sc-corp.net
 http://forge-staging-iap.sc-corp.net
-http://gae.sc-corp.net
 http://gerrit.sc-corp.net
 http://ghe-dev.sc-corp.net
+http://github.sc-corp.net
 http://grafana-cluster.sc-corp.net
 http://grafana-dashboard.sc-corp.net
 http://grr-admin.sc-corp.net
@@ -159,6 +160,7 @@ http://sc-token-staging.sc-corp.net
 http://scim.sc-corp.net
 http://search-jenkins.sc-corp.net
 http://search-jupyterhub.sc-corp.net
+http://secproxy-dev.sc-corp.net
 http://secproxy-gated-dot-snap-lion.gae.sc-corp.net
 http://secproxydev.sc-corp.net
 http://sentry.sc-corp.net
@@ -294,7 +296,6 @@ https://engflow-cache.sc-corp.net
 https://expresso.sc-corp.net
 https://facet-staging.sc-corp.net
 https://facet.sc-corp.net
-https://fleetdm-proxy.sc-corp.net
 https://fleetdm.sc-corp.net
 https://flowrida-ad-insights.sc-corp.net
 https://flowrida-ad-ranking.sc-corp.net
@@ -303,10 +304,10 @@ https://flowrida-ad-targeting.sc-corp.net
 https://flowrida-research.sc-corp.net
 https://flowrida-unlockables.sc-corp.net
 https://forge-staging-iap.sc-corp.net
-https://gae.sc-corp.net
 https://gerrit.sc-corp.net
 https://ghe-dev.sc-corp.net
 https://github-backup.sc-corp.net
+https://github.sc-corp.net
 https://grafana-backup.sc-corp.net
 https://grafana-cluster.sc-corp.net
 https://grafana-dashboard.sc-corp.net
@@ -393,6 +394,7 @@ https://sc-token-staging.sc-corp.net
 https://scim.sc-corp.net
 https://search-jenkins.sc-corp.net
 https://search-jupyterhub.sc-corp.net
+https://secproxy-dev.sc-corp.net
 https://secproxy-gated-dot-snap-lion.gae.sc-corp.net
 https://secproxydev.sc-corp.net
 https://sentry.sc-corp.net

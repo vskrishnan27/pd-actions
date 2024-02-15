@@ -263,14 +263,14 @@ flowrida-unlockables.sc-corp.net:443
 flowrida-unlockables.sc-corp.net:80
 forge-staging-iap.sc-corp.net:443
 forge-staging-iap.sc-corp.net:80
-gae.sc-corp.net:443
-gae.sc-corp.net:80
 gerrit.sc-corp.net:443
 gerrit.sc-corp.net:80
 ghe-dev.sc-corp.net:443
 ghe-dev.sc-corp.net:80
 github-backup.sc-corp.net:443
 github-backup.sc-corp.net:80
+github.sc-corp.net:443
+github.sc-corp.net:80
 grafana-backup.sc-corp.net:443
 grafana-backup.sc-corp.net:80
 grafana-cluster.sc-corp.net:443
@@ -846,6 +846,8 @@ search-jenkins.sc-corp.net:443
 search-jenkins.sc-corp.net:80
 search-jupyterhub.sc-corp.net:443
 search-jupyterhub.sc-corp.net:80
+secproxy-dev.sc-corp.net:443
+secproxy-dev.sc-corp.net:80
 secproxy-gated-dot-snap-lion.gae.sc-corp.net:443
 secproxy-gated-dot-snap-lion.gae.sc-corp.net:80
 secproxydev.sc-corp.net:443

@@ -1,4 +1,6 @@
 http://20-21newyear.game.line.me
+http://account.line.me
+http://account.line.me:443
 http://accountpage.line.me
 http://agecheck-rc.line.me
 http://agecheck.line.me

@@ -3,6 +3,7 @@ a.line.me
 access-auto.line.me
 access.line.me
 access2.line.me
+account.line.me
 accountpage.line.me
 admin-rangers.line.me
 ads.line.me

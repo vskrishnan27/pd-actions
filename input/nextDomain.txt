@@ -1,4 +1,3 @@
-deribit.com
 coinbase.com
 base.org
 sorare.com
@@ -76,3 +75,4 @@ zomato.com
 grammarly.com
 superbet.ro
 test.deribit.com
+deribit.com

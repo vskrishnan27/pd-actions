@@ -97,7 +97,6 @@ blogsint.zoho.com:8080
 blogsint.zoho.com:8443
 bluheron.wiki.zoho.com:443
 bookings.zoho.com:443
-bookings.zoho.com:80
 books.zoho.com:443
 books.zoho.com:80
 bugtracker.zoho.com:443
@@ -106,16 +105,15 @@ business.zoho.com:80
 buycareprost.wiki.zoho.com:443
 calendar.zoho.com:443
 campaigns.zoho.com:443
+campaigns.zoho.com:80
 catalyst.zoho.com:443
 cdn.zoho.com:443
 chairsanufacture.wiki.zoho.com:443
 charr123r.wiki.zoho.com:443
 chase37craig.wiki.zoho.com:443
-chat.zoho.com:443
 checkout.zoho.com:443
 checkout.zoho.com:80
 cheslock.wiki.zoho.com:443
-cliq.zoho.com:443
 cloudsql.wiki.zoho.com:443
 club50001.wiki.zoho.com:443
 cm.zoho.com:443
@@ -128,7 +126,6 @@ communitylink.wiki.zoho.com:443
 console.catalyst.zoho.com:443
 contacts.zoho.com:443
 coquiweb.wiki.zoho.com:443
-creator.zoho.com:443
 creatorapi.wiki.zoho.com:443
 crm.zoho.com:443
 crmkbase.zoho.com:443
@@ -233,7 +230,6 @@ ink.zoho.com:443
 inovagestao.wiki.zoho.com:443
 instagramupdate-social.zoho.com:443
 integrations.zoho.com:443
-integrations.zoho.com:80
 inventory.zoho.com:443
 inventory.zoho.com:80
 invoice.zoho.com:443
@@ -273,14 +269,15 @@ mailer-lp.zoho.com:80
 mailer-tu.zoho.com:443
 mailer-tu.zoho.com:80
 mailwsfree.zoho.com:443
+mailwsfree.zoho.com:80
 mailwsorg.zoho.com:443
 maps.zoho.com:443
+maps.zoho.com:80
 marketinghub.zoho.com:443
 marketingplus.zoho.com:443
 marketplace.zoho.com:443
 masterjose07.wiki.zoho.com:443
 me.zoho.com:443
-me.zoho.com:80
 meet.zoho.com:443
 meeting-monitor.zoho.com:443
 meeting.zoho.com:443
@@ -348,6 +345,7 @@ previewengine-accl.zoho.com:443
 previewengine.zoho.com:443
 prewms.zoho.com:443
 prewww.zoho.com:443
+prewww.zoho.com:80
 prezoho.zoho.com:443
 prezoho.zoho.com:80
 prezohoweb.zoho.com:443
@@ -383,6 +381,7 @@ sheet.zoho.com:443
 shirachan.wiki.zoho.com:443
 show.zoho.com:443
 signwebhook.zoho.com:443
+signwebhook.zoho.com:80
 sirejeki.wiki.zoho.com:443
 site24x7.wiki.zoho.com:443
 site24x7.zoho.com:443
@@ -395,6 +394,7 @@ smtpin2.zoho.com:25
 smtpin3.zoho.com:25
 smtppro.zoho.com:465
 smtppro.zoho.com:587
+social.zoho.com:443
 socialmediacomplete.wiki.zoho.com:443
 solo.zoho.com:443
 solutions.zoho.com:443
@@ -439,6 +439,7 @@ whatiszoho.wiki.zoho.com:443
 wiki.zoho.com:443
 wikioffshore.wiki.zoho.com:443
 wmelvin.wiki.zoho.com:443
+wms.zoho.com:443
 workdrive.zoho.com:443
 worlddreambuilder.wiki.zoho.com:443
 writer.zoho.com:443
@@ -471,13 +472,11 @@ zs-lc1-19-h2.zoho.com:443
 zs-lc1-19-ro.zoho.com:443
 zs-lc1-19-ro.zoho.com:80
 zs-lc1-19.zoho.com:443
-zs-lc1-19.zoho.com:80
 zs-lc1-25-h2.zoho.com:443
 zs-lc1-25.zoho.com:443
 zs-lc2-19-h2.zoho.com:443
 zs-lc2-19.zoho.com:443
 zs-lc2-25-h2.zoho.com:443
-zs-lc2-25-h2.zoho.com:80
 zs-lc3-19-ro.zoho.com:443
 zs-lc3-19-ro.zoho.com:80
 zs-lc3-19.zoho.com:443

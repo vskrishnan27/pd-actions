@@ -1,9 +1,7 @@
 http://accounts-ro.zoho.com
 http://api.creator.zoho.com
 http://api.wiki.zoho.com
-http://apidocs.zoho.com:443
 http://apihelp.zoho.com
-http://assist.zoho.com:443
 http://billing.zoho.com
 http://blog.zoho.com
 http://blog.zoho.com:8080
@@ -11,6 +9,7 @@ http://blogs.zoho.com
 http://blogs.zoho.com:8080
 http://blogsint.zoho.com
 http://blogsint.zoho.com:8080
+http://bookings.zoho.com
 http://books.zoho.com
 http://business.zoho.com
 http://checkout.zoho.com
@@ -19,9 +18,9 @@ http://commerceplus.zoho.com
 http://crmkbase.zoho.com
 http://csuiteinfo.zoho.com
 http://customer-books.zoho.com
-http://customer-campaign.zoho.com
 http://customer-connect.zoho.com
 http://customer-creator.zoho.com
+http://customer-expense.zoho.com
 http://customer-invoice.zoho.com
 http://customer-mail.zoho.com
 http://customer-recruit.zoho.com
@@ -44,10 +43,11 @@ http://invoice.zoho.com
 http://kbase.creator.zoho.com
 http://mailer-lp.zoho.com
 http://mailer-tu.zoho.com
-http://maps.zoho.com
+http://me.zoho.com
 http://memktg.wiki.zoho.com
 http://mobile-transmail.zoho.com
 http://mproxy-transmail.zoho.com
+http://notification-kms.zoho.com
 http://notification.bugbounty.zoho.com
 http://notifications-sd.zoho.com
 http://notifications.antivirus.zoho.com
@@ -55,7 +55,6 @@ http://notifymw.zoho.com
 http://payments.zoho.com
 http://prezoho.zoho.com
 http://prezohoweb.zoho.com
-http://project.zoho.com
 http://salesiq-ro.zoho.com
 http://search360alerts.zoho.com
 http://site24x7.zoho.com
@@ -65,7 +64,10 @@ http://subscriptions.zoho.com
 http://task.zoho.com
 http://tlstest.zoho.com
 http://zohosites.wiki.zoho.com
-http://zs-lc3-19-ro.zoho.com
+http://zs-lc1-19-h2-ro.zoho.com
+http://zs-lc1-19-ro.zoho.com
+http://zs-lc1-19.zoho.com
+http://zs-lc2-25-h2.zoho.com
 http://zs-us4-lcbooks-h2.zoho.com
 http://zurs-1.zoho.com
 http://zurs-2.zoho.com
@@ -139,10 +141,12 @@ https://api-console.zoho.com
 https://api.catalyst.zoho.com
 https://api.creator.zoho.com
 https://api.wiki.zoho.com
+https://apidocs.zoho.com
 https://apihelp.wiki.zoho.com
 https://apihelp.zoho.com
 https://appmanager.wiki.zoho.com
 https://asiacalculator.wiki.zoho.com
+https://assist.zoho.com
 https://asthmaalbuterol.wiki.zoho.com
 https://autokaufreak355.wiki.zoho.com
 https://avcliq.zoho.com

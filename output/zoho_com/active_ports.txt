@@ -97,6 +97,7 @@ blogsint.zoho.com:8080
 blogsint.zoho.com:8443
 bluheron.wiki.zoho.com:443
 bookings.zoho.com:443
+bookings.zoho.com:80
 books.zoho.com:443
 books.zoho.com:80
 bugtracker.zoho.com:443
@@ -142,7 +143,6 @@ cursoblogywiki.wiki.zoho.com:443
 customer-books.zoho.com:443
 customer-books.zoho.com:80
 customer-campaign.zoho.com:443
-customer-campaign.zoho.com:80
 customer-connect.zoho.com:443
 customer-connect.zoho.com:80
 customer-creator.zoho.com:443
@@ -275,12 +275,12 @@ mailer-tu.zoho.com:80
 mailwsfree.zoho.com:443
 mailwsorg.zoho.com:443
 maps.zoho.com:443
-maps.zoho.com:80
 marketinghub.zoho.com:443
 marketingplus.zoho.com:443
 marketplace.zoho.com:443
 masterjose07.wiki.zoho.com:443
 me.zoho.com:443
+me.zoho.com:80
 meet.zoho.com:443
 meeting-monitor.zoho.com:443
 meeting.zoho.com:443
@@ -471,11 +471,13 @@ zs-lc1-19-h2.zoho.com:443
 zs-lc1-19-ro.zoho.com:443
 zs-lc1-19-ro.zoho.com:80
 zs-lc1-19.zoho.com:443
+zs-lc1-19.zoho.com:80
 zs-lc1-25-h2.zoho.com:443
 zs-lc1-25.zoho.com:443
 zs-lc2-19-h2.zoho.com:443
 zs-lc2-19.zoho.com:443
 zs-lc2-25-h2.zoho.com:443
+zs-lc2-25-h2.zoho.com:80
 zs-lc3-19-ro.zoho.com:443
 zs-lc3-19-ro.zoho.com:80
 zs-lc3-19.zoho.com:443

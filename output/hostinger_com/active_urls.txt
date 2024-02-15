@@ -128,7 +128,6 @@ http://www.flockcalendar.hostinger.com
 http://www.flockcontacts.hostinger.com
 http://www.flockmail.hostinger.com
 http://www.hostinger.com
-http://www.hostinger.com:8443
 http://www.titancalendar.hostinger.com
 http://www.titancontacts.hostinger.com
 http://www.titanmail.hostinger.com
@@ -228,6 +227,7 @@ https://www.flockcalendar.hostinger.com
 https://www.flockcontacts.hostinger.com
 https://www.flockmail.hostinger.com
 https://www.hostinger.com
+https://www.hostinger.com:8443
 https://www.titancalendar.hostinger.com
 https://www.titancontacts.hostinger.com
 https://www.titanmail.hostinger.com

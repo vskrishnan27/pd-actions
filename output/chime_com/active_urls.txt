@@ -12,7 +12,6 @@ http://attachments.chime.com:8080
 http://attachments.chime.com:8443
 http://autobots-dev1.chime.com
 http://autobots-dev1.chime.com:8080
-http://autobots-dev1.chime.com:8443
 http://autobots-qa.chime.com
 http://autobots-qa.chime.com:8080
 http://autobots-qa.chime.com:8443
@@ -144,7 +143,6 @@ http://wp-dev5.chime.com:8080
 http://wp-dev5.chime.com:8443
 http://wp-integ.chime.com
 http://wp-integ.chime.com:8080
-http://wp-integ.chime.com:8443
 http://wp-qa.chime.com
 http://wp-qa.chime.com:8080
 http://wp-qa.chime.com:8443
@@ -154,6 +152,7 @@ https://16002407.notify.chime.com
 https://app.chime.com
 https://attachments.chime.com
 https://autobots-dev1.chime.com
+https://autobots-dev1.chime.com:8443
 https://autobots-qa.chime.com
 https://autobots.chime.com
 https://careers.chime.com
@@ -213,5 +212,6 @@ https://wp-dev3.chime.com
 https://wp-dev4.chime.com
 https://wp-dev5.chime.com
 https://wp-integ.chime.com
+https://wp-integ.chime.com:8443
 https://wp-qa.chime.com
 https://www.chime.com

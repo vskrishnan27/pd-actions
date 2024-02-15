@@ -77,6 +77,7 @@ http://api-firebolt-stage.tesla.com
 http://api-firebolt.tesla.com
 http://apps.tesla.com
 http://auth-global-stage.tesla.com
+http://auth-global.tesla.com
 http://auth.tesla.com
 http://autobidder-preprd.powerhub.energy.tesla.com
 http://autobidder.powerhub.energy.tesla.com
@@ -106,7 +107,6 @@ http://digitalassets-stage.tesla.com
 http://digitalassets.tesla.com
 http://eaa-setup.tesla.com
 http://edr.tesla.com
-http://ehs.tesla.com
 http://employeefeedback.tesla.com
 http://energydesk.tesla.com
 http://energysupport.tesla.com
@@ -131,8 +131,8 @@ http://image-emails.tesla.com
 http://image.email.tesla.com
 http://image.emails.tesla.com
 http://inside.tesla.com
+http://installations-ext-api.tesla.com
 http://inventory-assets.tesla.com
-http://ion.tesla.com
 http://ir.tesla.com
 http://itanswers.tesla.com
 http://kronos-dev.tesla.com
@@ -149,7 +149,6 @@ http://logcollector-ext.tesla.com
 http://mfa-reset.tesla.com
 http://mfa.tesla.com
 http://mfs-supplier-uat.tesla.com
-http://mfs-supplier.tesla.com
 http://mobile-links-cdn.eng.vn.cloud.tesla.com
 http://mobile-links-cdn.prd.vn.cloud.tesla.com
 http://mobile.tesla.com
@@ -336,7 +335,6 @@ https://digitalassets-stage.tesla.com
 https://digitalassets.tesla.com
 https://eaa-setup.tesla.com
 https://edr.tesla.com
-https://ehs.tesla.com
 https://employeefeedback.tesla.com
 https://energydesk.tesla.com
 https://energysupport.tesla.com
@@ -373,11 +371,9 @@ https://image.emails.tesla.com
 https://inside.tesla.com
 https://installations-ext-api.tesla.com
 https://inventory-assets.tesla.com
-https://ion.tesla.com
 https://ir.tesla.com
 https://kronos-dev.tesla.com
 https://kronos.tesla.com
-https://lax32-gpgw1.tesla.com
 https://link.qa.tesla.com
 https://link.tesla.com
 https://links.tesla.com
@@ -390,7 +386,6 @@ https://logcollector-ext.tesla.com
 https://mfa-reset.tesla.com
 https://mfa.tesla.com
 https://mfs-supplier-uat.tesla.com
-https://mfs-supplier.tesla.com
 https://mobile-links-cdn.eng.vn.cloud.tesla.com
 https://mobile-links-cdn.prd.vn.cloud.tesla.com
 https://mobile-links.eng.vn.cloud.tesla.com

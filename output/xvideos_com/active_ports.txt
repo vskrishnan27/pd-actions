@@ -153,6 +153,8 @@ euhbyd.xvideos.com:443
 euhbyd.xvideos.com:80
 flashservice.xvideos.com:443
 flashservice.xvideos.com:80
+fr.xvideos.com:443
+fr.xvideos.com:80
 games.xvideos.com:443
 games.xvideos.com:80
 hwww.xvideos.com:443
@@ -771,7 +773,6 @@ upload_dev.xvideos.com:443
 upload_dev.xvideos.com:80
 vc.xvideos.com:443
 vc.xvideos.com:80
-vc.xvideos.com:8008
 vmmscazz.xvideos.com:443
 vmmscazz.xvideos.com:80
 webmaster-tools.xvideos.com:443

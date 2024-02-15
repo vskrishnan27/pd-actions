@@ -44,7 +44,6 @@ onfido.testnet.bitmex.com
 podcasts.academy.bitmex.com
 public-testnet.bitmex.com
 public.bitmex.com
-refer.bitmex.com
 research.bitmex.com
 securemail.bitmex.com
 static.bitmex.com

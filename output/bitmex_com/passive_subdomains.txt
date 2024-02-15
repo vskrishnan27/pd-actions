@@ -25,6 +25,8 @@
 5olmdbg26r.bitmex.com
 5olmdbg26r.bitmex.com
 5olmdbg26r.bitmex.com
+5olmdbg26r.bitmex.com
+academy.bitmex.com
 academy.bitmex.com
 academy.bitmex.com
 academy.bitmex.com
@@ -79,6 +81,8 @@ affiliates.bitmex.com
 affiliates.bitmex.com
 affiliates.bitmex.com
 affiliates.bitmex.com
+affiliates.bitmex.com
+ahuwltc4de.bitmex.com
 ahuwltc4de.bitmex.com
 ahuwltc4de.bitmex.com
 ahuwltc4de.bitmex.com
@@ -133,6 +137,8 @@ anal.bitmex.com
 anal.bitmex.com
 anal.bitmex.com
 anal.bitmex.com
+anal.bitmex.com
+analytics.bitmex.com
 analytics.bitmex.com
 analytics.bitmex.com
 analytics.bitmex.com
@@ -187,6 +193,8 @@ api.devhk.direct.bitmex.com
 api.devhk.direct.bitmex.com
 api.devhk.direct.bitmex.com
 api.devhk.direct.bitmex.com
+api.devhk.direct.bitmex.com
+api.devhk.services.bitmex.com
 api.devhk.services.bitmex.com
 api.devhk.services.bitmex.com
 api.devhk.services.bitmex.com
@@ -241,6 +249,8 @@ api.direct.bitmex.com
 api.direct.bitmex.com
 api.direct.bitmex.com
 api.direct.bitmex.com
+api.direct.bitmex.com
+api.testnet.bitmex.com
 api.testnet.bitmex.com
 api.testnet.bitmex.com
 api.testnet.bitmex.com
@@ -295,6 +305,8 @@ api.testnet.direct.bitmex.com
 api.testnet.direct.bitmex.com
 api.testnet.direct.bitmex.com
 api.testnet.direct.bitmex.com
+api.testnet.direct.bitmex.com
+api2.devhk.direct.bitmex.com
 api2.devhk.direct.bitmex.com
 api2.devhk.direct.bitmex.com
 api2.devhk.direct.bitmex.com
@@ -348,6 +360,7 @@ api2.direct.bitmex.com
 api2.direct.bitmex.com
 api2.direct.bitmex.com
 api2.direct.bitmex.com
+api2.direct.bitmex.com
 api2.testnet.direct.bitmex.com
 api2.testnet.direct.bitmex.com
 api2.testnet.direct.bitmex.com
@@ -374,6 +387,8 @@ api2.testnet.direct.bitmex.com
 api2.testnet.direct.bitmex.com
 api2.testnet.direct.bitmex.com
 api2.testnet.direct.bitmex.com
+api2.testnet.direct.bitmex.com
+app-calico.services.bitmex.com
 app-calico.services.bitmex.com
 app-calico.services.bitmex.com
 app-calico.services.bitmex.com
@@ -428,6 +443,8 @@ app-calico.testnet.services.bitmex.com
 app-calico.testnet.services.bitmex.com
 app-calico.testnet.services.bitmex.com
 app-calico.testnet.services.bitmex.com
+app-calico.testnet.services.bitmex.com
+auth.bitmex.com
 auth.bitmex.com
 auth.bitmex.com
 auth.bitmex.com
@@ -482,6 +499,8 @@ auth.devhk.bitmex.com
 auth.devhk.bitmex.com
 auth.devhk.bitmex.com
 auth.devhk.bitmex.com
+auth.devhk.bitmex.com
+auth.devsf.bitmex.com
 auth.devsf.bitmex.com
 auth.devsf.bitmex.com
 auth.devsf.bitmex.com
@@ -536,6 +555,7 @@ auth.devsf2.bitmex.com
 auth.devsf2.bitmex.com
 auth.devsf2.bitmex.com
 auth.devsf2.bitmex.com
+auth.devsf2.bitmex.com
 auth.devsf3.bitmex.com
 auth.devsf3.bitmex.com
 auth.devsf3.bitmex.com
@@ -563,6 +583,8 @@ auth.devsf3.bitmex.com
 auth.devsf3.bitmex.com
 auth.devsf3.bitmex.com
 auth.devsf3.bitmex.com
+auth.devsf3.bitmex.com
+auth.testnet.bitmex.com
 auth.testnet.bitmex.com
 auth.testnet.bitmex.com
 auth.testnet.bitmex.com
@@ -616,6 +638,7 @@ aws.ws-eks.devhk.services.bitmex.com
 aws.ws-eks.devhk.services.bitmex.com
 aws.ws-eks.devhk.services.bitmex.com
 aws.ws-eks.devhk.services.bitmex.com
+aws.ws-eks.devhk.services.bitmex.com
 aws.ws-eks.testnet.services.bitmex.com
 aws.ws-eks.testnet.services.bitmex.com
 aws.ws-eks.testnet.services.bitmex.com
@@ -642,6 +665,8 @@ aws.ws-eks.testnet.services.bitmex.com
 aws.ws-eks.testnet.services.bitmex.com
 aws.ws-eks.testnet.services.bitmex.com
 aws.ws-eks.testnet.services.bitmex.com
+aws.ws-eks.testnet.services.bitmex.com
+aws.ws.devhk.services.bitmex.com
 aws.ws.devhk.services.bitmex.com
 aws.ws.devhk.services.bitmex.com
 aws.ws.devhk.services.bitmex.com
@@ -696,6 +721,7 @@ aws.ws.services.bitmex.com
 aws.ws.services.bitmex.com
 aws.ws.services.bitmex.com
 aws.ws.services.bitmex.com
+aws.ws.services.bitmex.com
 aws.ws.testnet.services.bitmex.com
 aws.ws.testnet.services.bitmex.com
 aws.ws.testnet.services.bitmex.com
@@ -723,6 +749,8 @@ aws.ws.testnet.services.bitmex.com
 aws.ws.testnet.services.bitmex.com
 aws.ws.testnet.services.bitmex.com
 aws.ws.testnet.services.bitmex.com
+aws.ws.testnet.services.bitmex.com
+beta.bitmex.com
 beta.bitmex.com
 beta.bitmex.com
 beta.bitmex.com
@@ -776,6 +804,8 @@ bitmex.com
 bitmex.com
 bitmex.com
 bitmex.com
+bitmex.com
+blog-do.bitmex.com
 blog-do.bitmex.com
 blog-do.bitmex.com
 blog-do.bitmex.com
@@ -830,6 +860,8 @@ blog.bitmex.com
 blog.bitmex.com
 blog.bitmex.com
 blog.bitmex.com
+blog.bitmex.com
+bounce.bitmex.com
 bounce.bitmex.com
 bounce.bitmex.com
 bounce.bitmex.com
@@ -883,6 +915,7 @@ cf.ws-eks.devhk.services.bitmex.com
 cf.ws-eks.devhk.services.bitmex.com
 cf.ws-eks.devhk.services.bitmex.com
 cf.ws-eks.devhk.services.bitmex.com
+cf.ws-eks.devhk.services.bitmex.com
 cf.ws-eks.testnet.services.bitmex.com
 cf.ws-eks.testnet.services.bitmex.com
 cf.ws-eks.testnet.services.bitmex.com
@@ -909,6 +942,8 @@ cf.ws-eks.testnet.services.bitmex.com
 cf.ws-eks.testnet.services.bitmex.com
 cf.ws-eks.testnet.services.bitmex.com
 cf.ws-eks.testnet.services.bitmex.com
+cf.ws-eks.testnet.services.bitmex.com
+cf.ws.devhk.services.bitmex.com
 cf.ws.devhk.services.bitmex.com
 cf.ws.devhk.services.bitmex.com
 cf.ws.devhk.services.bitmex.com
@@ -963,6 +998,8 @@ cf.ws.services.bitmex.com
 cf.ws.services.bitmex.com
 cf.ws.services.bitmex.com
 cf.ws.services.bitmex.com
+cf.ws.services.bitmex.com
+cf.ws.testnet.services.bitmex.com
 cf.ws.testnet.services.bitmex.com
 cf.ws.testnet.services.bitmex.com
 cf.ws.testnet.services.bitmex.com
@@ -1017,6 +1054,8 @@ cn.research.bitmex.com
 cn.research.bitmex.com
 cn.research.bitmex.com
 cn.research.bitmex.com
+cn.research.bitmex.com
+compliance-fbnotify.prod.services.bitmex.com
 compliance-fbnotify.prod.services.bitmex.com
 compliance-fbnotify.prod.services.bitmex.com
 compliance-fbnotify.prod.services.bitmex.com
@@ -1070,6 +1109,8 @@ contour-demo-app.devhk.bitmex.com
 contour-demo-app.devhk.bitmex.com
 contour-demo-app.devhk.bitmex.com
 contour-demo-app.devhk.bitmex.com
+contour-demo-app.devhk.bitmex.com
+contour-demo-app.devhk.services.bitmex.com
 contour-demo-app.devhk.services.bitmex.com
 contour-demo-app.devhk.services.bitmex.com
 contour-demo-app.devhk.services.bitmex.com
@@ -1124,6 +1165,8 @@ corp.bitmex.com
 corp.bitmex.com
 corp.bitmex.com
 corp.bitmex.com
+corp.bitmex.com
+ctf.bitmex.com
 ctf.bitmex.com
 ctf.bitmex.com
 ctf.bitmex.com
@@ -1177,6 +1220,8 @@ dcv-test.devhk.bitmex.com
 dcv-test.devhk.bitmex.com
 dcv-test.devhk.bitmex.com
 dcv-test.devhk.bitmex.com
+dcv-test.devhk.bitmex.com
+dev.bitmex.com
 dev.bitmex.com
 dev.bitmex.com
 dev.bitmex.com
@@ -1231,6 +1276,7 @@ devhk-internal.bitmex.com
 devhk-internal.bitmex.com
 devhk-internal.bitmex.com
 devhk-internal.bitmex.com
+devhk-internal.bitmex.com
 devhk-static.bitmex.com
 devhk-static.bitmex.com
 devhk-static.bitmex.com
@@ -1258,6 +1304,8 @@ devhk-static.bitmex.com
 devhk-static.bitmex.com
 devhk-static.bitmex.com
 devhk-static.bitmex.com
+devhk-static.bitmex.com
+devhk.bitmex.com
 devhk.bitmex.com
 devhk.bitmex.com
 devhk.bitmex.com
@@ -1311,6 +1359,8 @@ devhk.direct.bitmex.com
 devhk.direct.bitmex.com
 devhk.direct.bitmex.com
 devhk.direct.bitmex.com
+devhk.direct.bitmex.com
+devhk.services.bitmex.com
 devhk.services.bitmex.com
 devhk.services.bitmex.com
 devhk.services.bitmex.com
@@ -1365,6 +1415,8 @@ devsf-cf.bitmex.com
 devsf-cf.bitmex.com
 devsf-cf.bitmex.com
 devsf-cf.bitmex.com
+devsf-cf.bitmex.com
+devsf-internal.bitmex.com
 devsf-internal.bitmex.com
 devsf-internal.bitmex.com
 devsf-internal.bitmex.com
@@ -1419,6 +1471,8 @@ devsf.bitmex.com
 devsf.bitmex.com
 devsf.bitmex.com
 devsf.bitmex.com
+devsf.bitmex.com
+devsf2-internal.bitmex.com
 devsf2-internal.bitmex.com
 devsf2-internal.bitmex.com
 devsf2-internal.bitmex.com
@@ -1473,6 +1527,8 @@ devsf2.bitmex.com
 devsf2.bitmex.com
 devsf2.bitmex.com
 devsf2.bitmex.com
+devsf2.bitmex.com
+devsf3.bitmex.com
 devsf3.bitmex.com
 devsf3.bitmex.com
 devsf3.bitmex.com
@@ -1527,6 +1583,8 @@ direct.bitmex.com
 direct.bitmex.com
 direct.bitmex.com
 direct.bitmex.com
+direct.bitmex.com
+documents.bitmex.com
 documents.bitmex.com
 documents.bitmex.com
 documents.bitmex.com
@@ -1581,6 +1639,8 @@ documents.devhk.bitmex.com
 documents.devhk.bitmex.com
 documents.devhk.bitmex.com
 documents.devhk.bitmex.com
+documents.devhk.bitmex.com
+documents.devsf3.bitmex.com
 documents.devsf3.bitmex.com
 documents.devsf3.bitmex.com
 documents.devsf3.bitmex.com
@@ -1635,6 +1695,8 @@ documents.testnet.bitmex.com
 documents.testnet.bitmex.com
 documents.testnet.bitmex.com
 documents.testnet.bitmex.com
+documents.testnet.bitmex.com
+email.mg.bitmex.com
 email.mg.bitmex.com
 email.mg.bitmex.com
 email.mg.bitmex.com
@@ -1689,6 +1751,8 @@ eu.onfido.bitmex.com
 eu.onfido.bitmex.com
 eu.onfido.bitmex.com
 eu.onfido.bitmex.com
+eu.onfido.bitmex.com
+eu.onfido.devhk.bitmex.com
 eu.onfido.devhk.bitmex.com
 eu.onfido.devhk.bitmex.com
 eu.onfido.devhk.bitmex.com
@@ -1743,6 +1807,8 @@ eu.onfido.testnet.bitmex.com
 eu.onfido.testnet.bitmex.com
 eu.onfido.testnet.bitmex.com
 eu.onfido.testnet.bitmex.com
+eu.onfido.testnet.bitmex.com
+events-ingest.services.bitmex.com
 events-ingest.services.bitmex.com
 events-ingest.services.bitmex.com
 events-ingest.services.bitmex.com
@@ -1797,6 +1863,8 @@ events-ingest.testnet.services.bitmex.com
 events-ingest.testnet.services.bitmex.com
 events-ingest.testnet.services.bitmex.com
 events-ingest.testnet.services.bitmex.com
+events-ingest.testnet.services.bitmex.com
+fbnotify.dev.devhk.services.bitmex.com
 fbnotify.dev.devhk.services.bitmex.com
 fbnotify.dev.devhk.services.bitmex.com
 fbnotify.dev.devhk.services.bitmex.com
@@ -1851,6 +1919,8 @@ fbnotify.devhk.services.bitmex.com
 fbnotify.devhk.services.bitmex.com
 fbnotify.devhk.services.bitmex.com
 fbnotify.devhk.services.bitmex.com
+fbnotify.devhk.services.bitmex.com
+fbnotify.prod.services.bitmex.com
 fbnotify.prod.services.bitmex.com
 fbnotify.prod.services.bitmex.com
 fbnotify.prod.services.bitmex.com
@@ -1905,6 +1975,8 @@ fbnotify.public.testnet.services.bitmex.com
 fbnotify.public.testnet.services.bitmex.com
 fbnotify.public.testnet.services.bitmex.com
 fbnotify.public.testnet.services.bitmex.com
+fbnotify.public.testnet.services.bitmex.com
+fbnotify.testnet.services.bitmex.com
 fbnotify.testnet.services.bitmex.com
 fbnotify.testnet.services.bitmex.com
 fbnotify.testnet.services.bitmex.com
@@ -1959,6 +2031,8 @@ fddkim.bitmex.com
 fddkim.bitmex.com
 fddkim.bitmex.com
 fddkim.bitmex.com
+fddkim.bitmex.com
+finfabrik-dev.bitmex.com
 finfabrik-dev.bitmex.com
 finfabrik-dev.bitmex.com
 finfabrik-dev.bitmex.com
@@ -2013,6 +2087,8 @@ finfabrik.bitmex.com
 finfabrik.bitmex.com
 finfabrik.bitmex.com
 finfabrik.bitmex.com
+finfabrik.bitmex.com
+fix.testnet.bitmex.com
 fix.testnet.bitmex.com
 fix.testnet.bitmex.com
 fix.testnet.bitmex.com
@@ -2066,6 +2142,8 @@ fleetdm-dev.devhk.services.bitmex.com
 fleetdm-dev.devhk.services.bitmex.com
 fleetdm-dev.devhk.services.bitmex.com
 fleetdm-dev.devhk.services.bitmex.com
+fleetdm-dev.devhk.services.bitmex.com
+freshdesk.services.bitmex.com
 freshdesk.services.bitmex.com
 freshdesk.services.bitmex.com
 freshdesk.services.bitmex.com
@@ -2120,6 +2198,8 @@ freshworks.services.bitmex.com
 freshworks.services.bitmex.com
 freshworks.services.bitmex.com
 freshworks.services.bitmex.com
+freshworks.services.bitmex.com
+game.bitmex.com
 game.bitmex.com
 game.bitmex.com
 game.bitmex.com
@@ -2174,6 +2254,8 @@ hosting23.bitmex.com
 hosting23.bitmex.com
 hosting23.bitmex.com
 hosting23.bitmex.com
+hosting23.bitmex.com
+internal-prod.bitmex.com
 internal-prod.bitmex.com
 internal-prod.bitmex.com
 internal-prod.bitmex.com
@@ -2228,6 +2310,8 @@ internal.bitmex.com
 internal.bitmex.com
 internal.bitmex.com
 internal.bitmex.com
+internal.bitmex.com
+jason.bitmex.com
 jason.bitmex.com
 jason.bitmex.com
 jason.bitmex.com
@@ -2282,6 +2366,8 @@ jitsi.bitmex.com
 jitsi.bitmex.com
 jitsi.bitmex.com
 jitsi.bitmex.com
+jitsi.bitmex.com
+kaiwa.bitmex.com
 kaiwa.bitmex.com
 kaiwa.bitmex.com
 kaiwa.bitmex.com
@@ -2336,6 +2422,8 @@ l.m.bitmex.com
 l.m.bitmex.com
 l.m.bitmex.com
 l.m.bitmex.com
+l.m.bitmex.com
+l.m.testnet.bitmex.com
 l.m.testnet.bitmex.com
 l.m.testnet.bitmex.com
 l.m.testnet.bitmex.com
@@ -2390,6 +2478,8 @@ ldap.bitmex.com
 ldap.bitmex.com
 ldap.bitmex.com
 ldap.bitmex.com
+ldap.bitmex.com
+lib.academy.bitmex.com
 lib.academy.bitmex.com
 lib.academy.bitmex.com
 lib.academy.bitmex.com
@@ -2444,6 +2534,8 @@ link.bitmex.com
 link.bitmex.com
 link.bitmex.com
 link.bitmex.com
+link.bitmex.com
+link.services.bitmex.com
 link.services.bitmex.com
 link.services.bitmex.com
 link.services.bitmex.com
@@ -2498,6 +2590,8 @@ logstash.bitmex.com
 logstash.bitmex.com
 logstash.bitmex.com
 logstash.bitmex.com
+logstash.bitmex.com
+m.bitmex.com
 m.bitmex.com
 m.bitmex.com
 m.bitmex.com
@@ -2551,6 +2645,7 @@ marketing-pilot.devhk.services.bitmex.com
 marketing-pilot.devhk.services.bitmex.com
 marketing-pilot.devhk.services.bitmex.com
 marketing-pilot.devhk.services.bitmex.com
+marketing-pilot.devhk.services.bitmex.com
 marketing.bitmex.com
 marketing.bitmex.com
 marketing.bitmex.com
@@ -2577,6 +2672,8 @@ marketing.bitmex.com
 marketing.bitmex.com
 marketing.bitmex.com
 marketing.bitmex.com
+marketing.bitmex.com
+mobile-config.services.bitmex.com
 mobile-config.services.bitmex.com
 mobile-config.services.bitmex.com
 mobile-config.services.bitmex.com
@@ -2631,6 +2728,8 @@ mobile-config.testnet.services.bitmex.com
 mobile-config.testnet.services.bitmex.com
 mobile-config.testnet.services.bitmex.com
 mobile-config.testnet.services.bitmex.com
+mobile-config.testnet.services.bitmex.com
+mumble.bitmex.com
 mumble.bitmex.com
 mumble.bitmex.com
 mumble.bitmex.com
@@ -2685,6 +2784,8 @@ myprint.bitmex.com
 myprint.bitmex.com
 myprint.bitmex.com
 myprint.bitmex.com
+myprint.bitmex.com
+o1.m.bitmex.com
 o1.m.bitmex.com
 o1.m.bitmex.com
 o1.m.bitmex.com
@@ -2739,6 +2840,8 @@ o10.m.bitmex.com
 o10.m.bitmex.com
 o10.m.bitmex.com
 o10.m.bitmex.com
+o10.m.bitmex.com
+o1222.em.marketing.bitmex.com
 o1222.em.marketing.bitmex.com
 o1222.em.marketing.bitmex.com
 o1222.em.marketing.bitmex.com
@@ -2793,6 +2896,8 @@ o1223.em.marketing.bitmex.com
 o1223.em.marketing.bitmex.com
 o1223.em.marketing.bitmex.com
 o1223.em.marketing.bitmex.com
+o1223.em.marketing.bitmex.com
+o1224.em.marketing.bitmex.com
 o1224.em.marketing.bitmex.com
 o1224.em.marketing.bitmex.com
 o1224.em.marketing.bitmex.com
@@ -2847,6 +2952,8 @@ o3.m.bitmex.com
 o3.m.bitmex.com
 o3.m.bitmex.com
 o3.m.bitmex.com
+o3.m.bitmex.com
+o4.m.bitmex.com
 o4.m.bitmex.com
 o4.m.bitmex.com
 o4.m.bitmex.com
@@ -2901,6 +3008,8 @@ o5.m.bitmex.com
 o5.m.bitmex.com
 o5.m.bitmex.com
 o5.m.bitmex.com
+o5.m.bitmex.com
+o6.m.bitmex.com
 o6.m.bitmex.com
 o6.m.bitmex.com
 o6.m.bitmex.com
@@ -2955,6 +3064,8 @@ o8.m.bitmex.com
 o8.m.bitmex.com
 o8.m.bitmex.com
 o8.m.bitmex.com
+o8.m.bitmex.com
+o9.m.bitmex.com
 o9.m.bitmex.com
 o9.m.bitmex.com
 o9.m.bitmex.com
@@ -3009,6 +3120,8 @@ onfido.bitmex.com
 onfido.bitmex.com
 onfido.bitmex.com
 onfido.bitmex.com
+onfido.bitmex.com
+onfido.devhk.bitmex.com
 onfido.devhk.bitmex.com
 onfido.devhk.bitmex.com
 onfido.devhk.bitmex.com
@@ -3063,6 +3176,8 @@ onfido.devsf3.bitmex.com
 onfido.devsf3.bitmex.com
 onfido.devsf3.bitmex.com
 onfido.devsf3.bitmex.com
+onfido.devsf3.bitmex.com
+onfido.testnet.bitmex.com
 onfido.testnet.bitmex.com
 onfido.testnet.bitmex.com
 onfido.testnet.bitmex.com
@@ -3117,6 +3232,8 @@ podcasts-academy.bitmex.com
 podcasts-academy.bitmex.com
 podcasts-academy.bitmex.com
 podcasts-academy.bitmex.com
+podcasts-academy.bitmex.com
+podcasts.academy.bitmex.com
 podcasts.academy.bitmex.com
 podcasts.academy.bitmex.com
 podcasts.academy.bitmex.com
@@ -3171,6 +3288,8 @@ production-app-calico.services.bitmex.com
 production-app-calico.services.bitmex.com
 production-app-calico.services.bitmex.com
 production-app-calico.services.bitmex.com
+production-app-calico.services.bitmex.com
+production-app.services.bitmex.com
 production-app.services.bitmex.com
 production-app.services.bitmex.com
 production-app.services.bitmex.com
@@ -3225,6 +3344,8 @@ promnight.bitmex.com
 promnight.bitmex.com
 promnight.bitmex.com
 promnight.bitmex.com
+promnight.bitmex.com
+public-testnet.bitmex.com
 public-testnet.bitmex.com
 public-testnet.bitmex.com
 public-testnet.bitmex.com
@@ -3279,6 +3400,8 @@ public.bitmex.com
 public.bitmex.com
 public.bitmex.com
 public.bitmex.com
+public.bitmex.com
+radius.bitmex.com
 radius.bitmex.com
 radius.bitmex.com
 radius.bitmex.com
@@ -3333,6 +3456,8 @@ refer.bitmex.com
 refer.bitmex.com
 refer.bitmex.com
 refer.bitmex.com
+refer.bitmex.com
+refer.services.bitmex.com
 refer.services.bitmex.com
 refer.services.bitmex.com
 refer.services.bitmex.com
@@ -3387,6 +3512,8 @@ rescue.services.bitmex.com
 rescue.services.bitmex.com
 rescue.services.bitmex.com
 rescue.services.bitmex.com
+rescue.services.bitmex.com
+rescue.testnet.services.bitmex.com
 rescue.testnet.services.bitmex.com
 rescue.testnet.services.bitmex.com
 rescue.testnet.services.bitmex.com
@@ -3441,6 +3568,8 @@ research-ch.bitmex.com
 research-ch.bitmex.com
 research-ch.bitmex.com
 research-ch.bitmex.com
+research-ch.bitmex.com
+research-cn.bitmex.com
 research-cn.bitmex.com
 research-cn.bitmex.com
 research-cn.bitmex.com
@@ -3495,6 +3624,8 @@ research.bitmex.com
 research.bitmex.com
 research.bitmex.com
 research.bitmex.com
+research.bitmex.com
+sc-dtc.bitmex.com
 sc-dtc.bitmex.com
 sc-dtc.bitmex.com
 sc-dtc.bitmex.com
@@ -3549,6 +3680,8 @@ securemail.bitmex.com
 securemail.bitmex.com
 securemail.bitmex.com
 securemail.bitmex.com
+securemail.bitmex.com
+sentry-ff.bitmex.com
 sentry-ff.bitmex.com
 sentry-ff.bitmex.com
 sentry-ff.bitmex.com
@@ -3603,6 +3736,8 @@ sentry.bitmex.com
 sentry.bitmex.com
 sentry.bitmex.com
 sentry.bitmex.com
+sentry.bitmex.com
+sentry.services.bitmex.com
 sentry.services.bitmex.com
 sentry.services.bitmex.com
 sentry.services.bitmex.com
@@ -3657,6 +3792,8 @@ sentry.testnet.services.bitmex.com
 sentry.testnet.services.bitmex.com
 sentry.testnet.services.bitmex.com
 sentry.testnet.services.bitmex.com
+sentry.testnet.services.bitmex.com
+services.bitmex.com
 services.bitmex.com
 services.bitmex.com
 services.bitmex.com
@@ -3711,6 +3848,8 @@ static.bitmex.com
 static.bitmex.com
 static.bitmex.com
 static.bitmex.com
+static.bitmex.com
+status.bitmex.com
 status.bitmex.com
 status.bitmex.com
 status.bitmex.com
@@ -3765,6 +3904,8 @@ support.bitmex.com
 support.bitmex.com
 support.bitmex.com
 support.bitmex.com
+support.bitmex.com
+support.rescue.services.bitmex.com
 support.rescue.services.bitmex.com
 support.rescue.services.bitmex.com
 support.rescue.services.bitmex.com
@@ -3819,6 +3960,8 @@ support.rescue.testnet.services.bitmex.com
 support.rescue.testnet.services.bitmex.com
 support.rescue.testnet.services.bitmex.com
 support.rescue.testnet.services.bitmex.com
+support.rescue.testnet.services.bitmex.com
+support.services.bitmex.com
 support.services.bitmex.com
 support.services.bitmex.com
 support.services.bitmex.com
@@ -3873,6 +4016,8 @@ support.testnet.bitmex.com
 support.testnet.bitmex.com
 support.testnet.bitmex.com
 support.testnet.bitmex.com
+support.testnet.bitmex.com
+support.testnet.services.bitmex.com
 support.testnet.services.bitmex.com
 support.testnet.services.bitmex.com
 support.testnet.services.bitmex.com
@@ -3927,6 +4072,8 @@ testnet-app-calico.services.bitmex.com
 testnet-app-calico.services.bitmex.com
 testnet-app-calico.services.bitmex.com
 testnet-app-calico.services.bitmex.com
+testnet-app-calico.services.bitmex.com
+testnet-app.services.bitmex.com
 testnet-app.services.bitmex.com
 testnet-app.services.bitmex.com
 testnet-app.services.bitmex.com
@@ -3981,6 +4128,8 @@ testnet-dev.bitmex.com
 testnet-dev.bitmex.com
 testnet-dev.bitmex.com
 testnet-dev.bitmex.com
+testnet-dev.bitmex.com
+testnet-dtc.bitmex.com
 testnet-dtc.bitmex.com
 testnet-dtc.bitmex.com
 testnet-dtc.bitmex.com
@@ -4035,6 +4184,8 @@ testnet-internal.bitmex.com
 testnet-internal.bitmex.com
 testnet-internal.bitmex.com
 testnet-internal.bitmex.com
+testnet-internal.bitmex.com
+testnet-static.bitmex.com
 testnet-static.bitmex.com
 testnet-static.bitmex.com
 testnet-static.bitmex.com
@@ -4089,6 +4240,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 testnet.bitmex.com
 testnet.bitmex.com
+testnet.bitmex.com
+testnet.direct.bitmex.com
 testnet.direct.bitmex.com
 testnet.direct.bitmex.com
 testnet.direct.bitmex.com
@@ -4143,6 +4296,8 @@ testnet.internal.bitmex.com
 testnet.internal.bitmex.com
 testnet.internal.bitmex.com
 testnet.internal.bitmex.com
+testnet.internal.bitmex.com
+testnet.services.bitmex.com
 testnet.services.bitmex.com
 testnet.services.bitmex.com
 testnet.services.bitmex.com
@@ -4197,6 +4352,8 @@ testnet2.bitmex.com
 testnet2.bitmex.com
 testnet2.bitmex.com
 testnet2.bitmex.com
+testnet2.bitmex.com
+testo.lond.bitmex.com
 testo.lond.bitmex.com
 testo.lond.bitmex.com
 testo.lond.bitmex.com
@@ -4251,6 +4408,8 @@ theinternetmarketingmaven.bitmex.com
 theinternetmarketingmaven.bitmex.com
 theinternetmarketingmaven.bitmex.com
 theinternetmarketingmaven.bitmex.com
+theinternetmarketingmaven.bitmex.com
+token.bitmex.com
 token.bitmex.com
 token.bitmex.com
 token.bitmex.com
@@ -4305,6 +4464,8 @@ token.services.bitmex.com
 token.services.bitmex.com
 token.services.bitmex.com
 token.services.bitmex.com
+token.services.bitmex.com
+trade.bitmex.com
 trade.bitmex.com
 trade.bitmex.com
 trade.bitmex.com
@@ -4359,6 +4520,8 @@ ts.bitmex.com
 ts.bitmex.com
 ts.bitmex.com
 ts.bitmex.com
+ts.bitmex.com
+upload.bitmex.com
 upload.bitmex.com
 upload.bitmex.com
 upload.bitmex.com
@@ -4413,6 +4576,8 @@ upload.devhk.bitmex.com
 upload.devhk.bitmex.com
 upload.devhk.bitmex.com
 upload.devhk.bitmex.com
+upload.devhk.bitmex.com
+upload.devsf3.bitmex.com
 upload.devsf3.bitmex.com
 upload.devsf3.bitmex.com
 upload.devsf3.bitmex.com
@@ -4467,6 +4632,8 @@ upload.testnet.bitmex.com
 upload.testnet.bitmex.com
 upload.testnet.bitmex.com
 upload.testnet.bitmex.com
+upload.testnet.bitmex.com
+vasp.bitmex.com
 vasp.bitmex.com
 vasp.bitmex.com
 vasp.bitmex.com
@@ -4521,6 +4688,8 @@ vasp.devsf3.bitmex.com
 vasp.devsf3.bitmex.com
 vasp.devsf3.bitmex.com
 vasp.devsf3.bitmex.com
+vasp.devsf3.bitmex.com
+vasp.devsf3.services.bitmex.com
 vasp.devsf3.services.bitmex.com
 vasp.devsf3.services.bitmex.com
 vasp.devsf3.services.bitmex.com
@@ -4575,6 +4744,8 @@ vasp.services.bitmex.com
 vasp.services.bitmex.com
 vasp.services.bitmex.com
 vasp.services.bitmex.com
+vasp.services.bitmex.com
+vasp.testnet.bitmex.com
 vasp.testnet.bitmex.com
 vasp.testnet.bitmex.com
 vasp.testnet.bitmex.com
@@ -4629,6 +4800,8 @@ vasp.testnet.services.bitmex.com
 vasp.testnet.services.bitmex.com
 vasp.testnet.services.bitmex.com
 vasp.testnet.services.bitmex.com
+vasp.testnet.services.bitmex.com
+video.bitmex.com
 video.bitmex.com
 video.bitmex.com
 video.bitmex.com
@@ -4683,6 +4856,8 @@ w2.devsf2.bitmex.com
 w2.devsf2.bitmex.com
 w2.devsf2.bitmex.com
 w2.devsf2.bitmex.com
+w2.devsf2.bitmex.com
+watchlist.dev.bitmex.com
 watchlist.dev.bitmex.com
 watchlist.dev.bitmex.com
 watchlist.dev.bitmex.com
@@ -4736,6 +4911,7 @@ web-ws.bitmex.com
 web-ws.bitmex.com
 web-ws.bitmex.com
 web-ws.bitmex.com
+web-ws.bitmex.com
 web-ws.devhk.bitmex.com
 web-ws.devhk.bitmex.com
 web-ws.devhk.bitmex.com
@@ -4763,6 +4939,8 @@ web-ws.devhk.bitmex.com
 web-ws.devhk.bitmex.com
 web-ws.devhk.bitmex.com
 web-ws.devhk.bitmex.com
+web-ws.devhk.bitmex.com
+web-ws.testnet.bitmex.com
 web-ws.testnet.bitmex.com
 web-ws.testnet.bitmex.com
 web-ws.testnet.bitmex.com
@@ -4816,6 +4994,8 @@ web.ws-services.bitmex.com
 web.ws-services.bitmex.com
 web.ws-services.bitmex.com
 web.ws-services.bitmex.com
+web.ws-services.bitmex.com
+web.ws-services.devhk.bitmex.com
 web.ws-services.devhk.bitmex.com
 web.ws-services.devhk.bitmex.com
 web.ws-services.devhk.bitmex.com
@@ -4870,6 +5050,8 @@ web.ws-services.testnet.bitmex.com
 web.ws-services.testnet.bitmex.com
 web.ws-services.testnet.bitmex.com
 web.ws-services.testnet.bitmex.com
+web.ws-services.testnet.bitmex.com
+webmail.videomarketing.bitmex.com
 webmail.videomarketing.bitmex.com
 webmail.videomarketing.bitmex.com
 webmail.videomarketing.bitmex.com
@@ -4924,6 +5106,8 @@ wechat.testnet.bitmex.com
 wechat.testnet.bitmex.com
 wechat.testnet.bitmex.com
 wechat.testnet.bitmex.com
+wechat.testnet.bitmex.com
+whosonleave.bitmex.com
 whosonleave.bitmex.com
 whosonleave.bitmex.com
 whosonleave.bitmex.com
@@ -4978,6 +5162,8 @@ ws.bitmex.com
 ws.bitmex.com
 ws.bitmex.com
 ws.bitmex.com
+ws.bitmex.com
+ws.contour-demo-app.devhk.bitmex.com
 ws.contour-demo-app.devhk.bitmex.com
 ws.contour-demo-app.devhk.bitmex.com
 ws.contour-demo-app.devhk.bitmex.com
@@ -5032,6 +5218,8 @@ ws.contour-demo-app.devhk.services.bitmex.com
 ws.contour-demo-app.devhk.services.bitmex.com
 ws.contour-demo-app.devhk.services.bitmex.com
 ws.contour-demo-app.devhk.services.bitmex.com
+ws.contour-demo-app.devhk.services.bitmex.com
+ws.devhk.bitmex.com
 ws.devhk.bitmex.com
 ws.devhk.bitmex.com
 ws.devhk.bitmex.com
@@ -5086,6 +5274,8 @@ ws.devsf-cf.bitmex.com
 ws.devsf-cf.bitmex.com
 ws.devsf-cf.bitmex.com
 ws.devsf-cf.bitmex.com
+ws.devsf-cf.bitmex.com
+ws.production-app.services.bitmex.com
 ws.production-app.services.bitmex.com
 ws.production-app.services.bitmex.com
 ws.production-app.services.bitmex.com
@@ -5140,6 +5330,8 @@ ws.rescue.services.bitmex.com
 ws.rescue.services.bitmex.com
 ws.rescue.services.bitmex.com
 ws.rescue.services.bitmex.com
+ws.rescue.services.bitmex.com
+ws.rescue.testnet.services.bitmex.com
 ws.rescue.testnet.services.bitmex.com
 ws.rescue.testnet.services.bitmex.com
 ws.rescue.testnet.services.bitmex.com
@@ -5194,6 +5386,8 @@ ws.services.bitmex.com
 ws.services.bitmex.com
 ws.services.bitmex.com
 ws.services.bitmex.com
+ws.services.bitmex.com
+ws.testnet.bitmex.com
 ws.testnet.bitmex.com
 ws.testnet.bitmex.com
 ws.testnet.bitmex.com
@@ -5248,6 +5442,8 @@ ws.testnet.services.bitmex.com
 ws.testnet.services.bitmex.com
 ws.testnet.services.bitmex.com
 ws.testnet.services.bitmex.com
+ws.testnet.services.bitmex.com
+ww.bitmex.com
 ww.bitmex.com
 ww.bitmex.com
 ww.bitmex.com
@@ -5301,6 +5497,7 @@ www.app-calico.services.bitmex.com
 www.app-calico.services.bitmex.com
 www.app-calico.services.bitmex.com
 www.app-calico.services.bitmex.com
+www.app-calico.services.bitmex.com
 www.app-calico.testnet.services.bitmex.com
 www.app-calico.testnet.services.bitmex.com
 www.app-calico.testnet.services.bitmex.com
@@ -5327,6 +5524,8 @@ www.app-calico.testnet.services.bitmex.com
 www.app-calico.testnet.services.bitmex.com
 www.app-calico.testnet.services.bitmex.com
 www.app-calico.testnet.services.bitmex.com
+www.app-calico.testnet.services.bitmex.com
+www.bitmex.com
 www.bitmex.com
 www.bitmex.com
 www.bitmex.com
@@ -5380,6 +5579,8 @@ www.devhk.bitmex.com
 www.devhk.bitmex.com
 www.devhk.bitmex.com
 www.devhk.bitmex.com
+www.devhk.bitmex.com
+www.devhk.services.bitmex.com
 www.devhk.services.bitmex.com
 www.devhk.services.bitmex.com
 www.devhk.services.bitmex.com
@@ -5433,6 +5634,7 @@ www.rescue.services.bitmex.com
 www.rescue.services.bitmex.com
 www.rescue.services.bitmex.com
 www.rescue.services.bitmex.com
+www.rescue.services.bitmex.com
 www.rescue.testnet.services.bitmex.com
 www.rescue.testnet.services.bitmex.com
 www.rescue.testnet.services.bitmex.com
@@ -5459,6 +5661,8 @@ www.rescue.testnet.services.bitmex.com
 www.rescue.testnet.services.bitmex.com
 www.rescue.testnet.services.bitmex.com
 www.rescue.testnet.services.bitmex.com
+www.rescue.testnet.services.bitmex.com
+www.services.bitmex.com
 www.services.bitmex.com
 www.services.bitmex.com
 www.services.bitmex.com
@@ -5512,6 +5716,8 @@ www.testnet.bitmex.com
 www.testnet.bitmex.com
 www.testnet.bitmex.com
 www.testnet.bitmex.com
+www.testnet.bitmex.com
+www.testnet.services.bitmex.com
 www.testnet.services.bitmex.com
 www.testnet.services.bitmex.com
 www.testnet.services.bitmex.com
@@ -5566,6 +5772,7 @@ www2.bitmex.com
 www2.bitmex.com
 www2.bitmex.com
 www2.bitmex.com
+www2.bitmex.com
 xcoajvlkty.bitmex.com
 xcoajvlkty.bitmex.com
 xcoajvlkty.bitmex.com
@@ -5593,6 +5800,8 @@ xcoajvlkty.bitmex.com
 xcoajvlkty.bitmex.com
 xcoajvlkty.bitmex.com
 xcoajvlkty.bitmex.com
+xcoajvlkty.bitmex.com
+znc-internal.bitmex.com
 znc-internal.bitmex.com
 znc-internal.bitmex.com
 znc-internal.bitmex.com

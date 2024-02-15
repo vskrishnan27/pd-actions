@@ -7,13 +7,13 @@ http://auth.devhk.bitmex.com
 http://auth.devhk.bitmex.com:8080
 http://bitmex.com
 http://blog.bitmex.com
-http://blog.bitmex.com:8080
 http://blog.bitmex.com:8443
 http://cn.research.bitmex.com
 http://devhk-static.bitmex.com
 http://devhk.bitmex.com
 http://devhk.bitmex.com:8080
 http://documents.bitmex.com
+http://documents.bitmex.com:443
 http://documents.bitmex.com:8080
 http://documents.devhk.bitmex.com
 http://documents.devhk.bitmex.com:8080
@@ -43,8 +43,6 @@ http://podcasts.academy.bitmex.com
 http://podcasts.academy.bitmex.com:8080
 http://public-testnet.bitmex.com
 http://public.bitmex.com
-http://refer.bitmex.com
-http://refer.bitmex.com:8443
 http://research.bitmex.com
 http://static.bitmex.com
 http://status.bitmex.com
@@ -61,6 +59,7 @@ http://testnet2.bitmex.com
 http://token.bitmex.com
 http://token.bitmex.com:8080
 http://upload.bitmex.com
+http://upload.bitmex.com:443
 http://upload.bitmex.com:8080
 http://upload.devhk.bitmex.com
 http://upload.devhk.bitmex.com:8080
@@ -99,7 +98,6 @@ https://cn.research.bitmex.com
 https://devhk-static.bitmex.com
 https://devhk.bitmex.com
 https://devhk.bitmex.com:8443
-https://documents.bitmex.com
 https://documents.bitmex.com:8443
 https://documents.devhk.bitmex.com
 https://documents.devhk.bitmex.com:8443
@@ -135,7 +133,6 @@ https://podcasts.academy.bitmex.com
 https://podcasts.academy.bitmex.com:8443
 https://public-testnet.bitmex.com
 https://public.bitmex.com
-https://refer.bitmex.com
 https://research.bitmex.com
 https://securemail.bitmex.com
 https://securemail.bitmex.com:10000
@@ -150,7 +147,6 @@ https://testnet.bitmex.com
 https://testnet2.bitmex.com
 https://token.bitmex.com
 https://token.bitmex.com:8443
-https://upload.bitmex.com
 https://upload.bitmex.com:8443
 https://upload.devhk.bitmex.com
 https://upload.devhk.bitmex.com:8443

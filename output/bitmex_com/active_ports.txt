@@ -90,10 +90,6 @@ public-testnet.bitmex.com:443
 public-testnet.bitmex.com:80
 public.bitmex.com:443
 public.bitmex.com:80
-refer.bitmex.com:443
-refer.bitmex.com:80
-refer.bitmex.com:8080
-refer.bitmex.com:8443
 research.bitmex.com:443
 research.bitmex.com:80
 securemail.bitmex.com:10000

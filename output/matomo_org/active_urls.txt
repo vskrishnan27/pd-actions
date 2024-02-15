@@ -34,7 +34,6 @@ http://origin.matomo.org
 http://origin.staging.matomo.org
 http://pl.matomo.org
 http://ru.matomo.org
-http://shop.matomo.org
 http://staging-plugins.matomo.org
 http://staging-shop.matomo.org
 http://staging-test-shop.matomo.org
@@ -43,6 +42,7 @@ http://staging.matomo.org
 http://survey.matomo.org
 http://sv.matomo.org
 http://test-tag-manager.matomo.org
+http://themes.matomo.org
 http://translations.matomo.org
 http://video.matomo.org
 http://www.matomo.org
@@ -80,7 +80,6 @@ https://origin.matomo.org
 https://origin.staging.matomo.org
 https://pl.matomo.org
 https://ru.matomo.org
-https://shop.matomo.org
 https://staging-plugins.matomo.org
 https://staging-shop.matomo.org
 https://staging-test-shop.matomo.org
@@ -89,6 +88,7 @@ https://staging.matomo.org
 https://survey.matomo.org
 https://sv.matomo.org
 https://test-tag-manager.matomo.org
+https://themes.matomo.org
 https://translations.matomo.org
 https://video.matomo.org
 https://www.matomo.org

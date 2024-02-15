@@ -41,6 +41,8 @@ build-hook-prod.sc-corp.net:443
 build-hook-prod.sc-corp.net:80
 build-hook-stage.sc-corp.net:443
 build-hook-stage.sc-corp.net:80
+builds.sc-corp.net:443
+builds.sc-corp.net:80
 ca-dev.sc-corp.net:443
 ca-dev.sc-corp.net:80
 ca-prod.sc-corp.net:443
@@ -215,7 +217,9 @@ deployment-master-prod.sc-corp.net:80
 deployment-master-stage.sc-corp.net:443
 deployment-master-stage.sc-corp.net:80
 des-staging.sc-corp.net:443
+des-staging.sc-corp.net:548
 des-staging.sc-corp.net:80
+des-staging.sc-corp.net:9999
 developer-portal.sc-corp.net:443
 developer-portal.sc-corp.net:80
 device-trust.sc-corp.net:443
@@ -244,6 +248,7 @@ facet-staging.sc-corp.net:443
 facet-staging.sc-corp.net:80
 facet.sc-corp.net:443
 facet.sc-corp.net:80
+fleetdm-proxy.sc-corp.net:443
 fleetdm.sc-corp.net:443
 fleetdm.sc-corp.net:80
 flowrida-ad-insights.sc-corp.net:443
@@ -266,8 +271,6 @@ ghe-dev.sc-corp.net:443
 ghe-dev.sc-corp.net:80
 github-backup.sc-corp.net:443
 github-backup.sc-corp.net:80
-go.sc-corp.net:443
-go.sc-corp.net:80
 grafana-backup.sc-corp.net:443
 grafana-backup.sc-corp.net:80
 grafana-cluster.sc-corp.net:443
@@ -278,6 +281,7 @@ grr-admin.sc-corp.net:443
 grr-admin.sc-corp.net:80
 grr-ui.sc-corp.net:443
 grr-ui.sc-corp.net:80
+grr.sc-corp.net:3986
 grr.sc-corp.net:443
 grr.sc-corp.net:80
 grr.sc-corp.net:8080
@@ -869,6 +873,8 @@ smp-dev.api.search.sc-corp.net:443
 smp-dev.api.search.sc-corp.net:80
 smp-prod.api.search.sc-corp.net:443
 smp-prod.api.search.sc-corp.net:80
+snap-lion.gae.sc-corp.net:443
+snap-lion.gae.sc-corp.net:80
 snap-lion.sc-corp.net:443
 snap-lion.sc-corp.net:80
 snap-sre.gae.sc-corp.net:443
@@ -901,6 +907,7 @@ spinnaker-dev-api.sc-corp.net:443
 spinnaker-dev-api.sc-corp.net:80
 spinnaker-dev.sc-corp.net:443
 spinnaker-dev.sc-corp.net:80
+spinnaker-dev.sc-corp.net:88
 spinnaker-snap-dev.sc-corp.net:443
 spinnaker-snap-dev.sc-corp.net:80
 spinnaker.sc-corp.net:443
@@ -974,6 +981,7 @@ vellum-dev.sc-corp.net:443
 vellum-dev.sc-corp.net:80
 vellum-stg.sc-corp.net:443
 vellum-stg.sc-corp.net:80
+vellum-stg.sc-corp.net:8000
 vellum.sc-corp.net:443
 vellum.sc-corp.net:80
 weinan-rstudio.secproxy.sc-corp.net:443

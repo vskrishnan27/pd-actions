@@ -164,6 +164,7 @@ pubnubtest.launchdarkly.com:443
 pubnubtest.launchdarkly.com:80
 resources.launchdarkly.com:443
 resources.launchdarkly.com:80
+retool-staging.prod.tools.launchdarkly.com:443
 sdk-stg.launchdarkly.com:443
 sdk-stg.launchdarkly.com:80
 sdk.dev.launchdarkly.com:443

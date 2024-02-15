@@ -107,7 +107,6 @@ dev.myaccount.pse-sb.public.aol.com
 dev.partners-nlb.pse-sb.public.aol.com
 dev.partners-tg.pse-sb.public.aol.com
 dev.partners.pse-sb.public.aol.com
-dev.pseservices.pse-sb.public.aol.com
 dev.services.pse.aol.com
 developer.aol.com
 discover.aol.com
@@ -334,7 +333,6 @@ oidc.help.aol.com
 oidc.homepage.aol.com
 oidc.identityapp.aol.com
 oidc.mail.aol.com
-oidc.marketingpreferences.aol.com
 oidc.membernotifications.aol.com
 oidc.mold.aol.com
 oidc.myaccount.aol.com
@@ -471,8 +469,6 @@ prod.myaccount.pse.public.aol.com
 prod.origin.help.aol.com
 prod.partners-nlb.pse.public.aol.com
 prod.partners-tg.pse.public.aol.com
-prod.pseservices.pse.public.aol.com
-prod.smiapi.pse.public.aol.com
 productcentral.aol.com
 projectphoenix.aol.com
 ps-search.aol.com

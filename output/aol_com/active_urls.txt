@@ -77,6 +77,7 @@ http://download.aol.com
 http://downloaded.aol.com
 http://downloads.aol.com
 http://dynamic.aol.com
+http://e.aol.com
 http://ellen-startpage.aol.com
 http://ellen.aol.com
 http://engineering.aol.com
@@ -134,7 +135,6 @@ http://latino-n.welcomescreen.aol.com
 http://latino-w.welcomescreen.aol.com
 http://latino.aol.com
 http://latino.welcomescreen.aol.com
-http://learn.onedisplay.aol.com
 http://lifestore.aol.com
 http://lifestream.aol.com
 http://link.aol.com
@@ -143,7 +143,6 @@ http://liveevents.aol.com
 http://local.aol.com
 http://lotus.aol.com
 http://love.aol.com
-http://m.aol.com
 http://m.article.aol.com
 http://m.autos.aol.com
 http://m.verizon-b.aol.com
@@ -169,7 +168,6 @@ http://my.screenname.aol.com
 http://myaccount.aol.com
 http://mybenefits.aol.com
 http://mypoints-startpage.aol.com
-http://n.bv.welcomescreen.aol.com
 http://n.latino.welcomescreen.aol.com
 http://n.main.welcomescreen.aol.com
 http://n.sb.welcomescreen.aol.com
@@ -185,7 +183,6 @@ http://oidc.help.aol.com
 http://oidc.homepage.aol.com
 http://oidc.identityapp.aol.com
 http://oidc.mail.aol.com
-http://oidc.marketingpreferences.aol.com
 http://oidc.membernotifications.aol.com
 http://oidc.mold.aol.com
 http://oidc.myaccount.aol.com
@@ -198,16 +195,22 @@ http://oidc.search.aol.com
 http://olympics.aol.com
 http://one-qa.aol.com
 http://one.aol.com
+http://oneadserver.aol.com
 http://onedisplay.aol.com
+http://onemobile.aol.com
+http://onemobile.aol.com:443
 http://onevideo.aol.com
+http://ops.aol.com
 http://outlook.aol.com
-http://people.aol.com
+http://parentalcontrols.aol.com
 http://peopleplace.ops.aol.com
-http://personals.aol.com
+http://phoenix.aol.com
 http://photos.aol.com
-http://plans.aol.com
 http://plus.aol.com
-http://podcast.aol.com
+http://pokki.aol.com
+http://portal.aol.com
+http://portfolios.aol.com
+http://postmaster.aol.com
 http://postmaster.info.aol.com
 http://premium.aol.com
 http://press.aol.com
@@ -215,7 +218,7 @@ http://preview.mail.aol.com
 http://pricecheck.aol.com
 http://prod.myaccount.pse.public.aol.com
 http://prod.origin.help.aol.com
-http://productcentral.aol.com
+http://projectphoenix.aol.com
 http://ps-search.aol.com
 http://pslca.web.aol.com
 http://publish.aol.com
@@ -225,7 +228,6 @@ http://qa.help.aol.com
 http://qa.myaccount.pse-sb.public.aol.com
 http://qa.origin.help.aol.com
 http://quicken.aol.com
-http://r.aol.com
 http://radio.aol.com
 http://recipes.aol.com
 http://refer.aol.com
@@ -240,7 +242,6 @@ http://safetytoolbar.aol.com
 http://sales.aol.com
 http://sb-n.welcomescreen.aol.com
 http://sb-w.welcomescreen.aol.com
-http://sb.welcomescreen.aol.com
 http://school.aol.com
 http://search.aol.com
 http://secure.aol.com
@@ -282,9 +283,9 @@ http://stage.oidc.productcentral.aol.com
 http://stage.oidc.search.aol.com
 http://stage.origin.help.aol.com
 http://start.aol.com
-http://startpage.aol.com
 http://static.onecreative.aol.com
 http://subscribe.aol.com
+http://t.aol.com
 http://t.verizon-b.aol.com
 http://t.verizon.aol.com
 http://team.aol.com
@@ -414,6 +415,7 @@ https://download.aol.com
 https://downloaded.aol.com
 https://downloads.aol.com
 https://dynamic.aol.com
+https://e.aol.com
 https://ellen-startpage.aol.com
 https://ellen.aol.com
 https://engineering.aol.com
@@ -483,7 +485,6 @@ https://latino-n.welcomescreen.aol.com
 https://latino-w.welcomescreen.aol.com
 https://latino.aol.com
 https://latino.welcomescreen.aol.com
-https://learn.onedisplay.aol.com
 https://lifestore.aol.com
 https://lifestream.aol.com
 https://link.aol.com
@@ -492,7 +493,6 @@ https://liveevents.aol.com
 https://local.aol.com
 https://lotus.aol.com
 https://love.aol.com
-https://m.aol.com
 https://m.article.aol.com
 https://m.autos.aol.com
 https://m.verizon-b.aol.com
@@ -524,7 +524,6 @@ https://my.screenname.aol.com
 https://myaccount.aol.com
 https://mybenefits.aol.com
 https://mypoints-startpage.aol.com
-https://n.bv.welcomescreen.aol.com
 https://n.latino.welcomescreen.aol.com
 https://n.main.welcomescreen.aol.com
 https://n.main.welcomescreen.qa.sandbox.aol.com
@@ -549,7 +548,6 @@ https://oidc.help.aol.com
 https://oidc.homepage.aol.com
 https://oidc.identityapp.aol.com
 https://oidc.mail.aol.com
-https://oidc.marketingpreferences.aol.com
 https://oidc.membernotifications.aol.com
 https://oidc.mold.aol.com
 https://oidc.myaccount.aol.com
@@ -562,17 +560,22 @@ https://oidc.search.aol.com
 https://olympics.aol.com
 https://one-qa.aol.com
 https://one.aol.com
+https://oneadserver.aol.com
 https://oneapi-qa.aol.com
 https://onedisplay.aol.com
 https://onevideo.aol.com
+https://ops.aol.com
 https://outlook.aol.com
-https://people.aol.com
+https://parentalcontrols.aol.com
 https://peopleplace.ops.aol.com
-https://personals.aol.com
+https://phoenix.aol.com
 https://photos.aol.com
-https://plans.aol.com
 https://plus.aol.com
-https://podcast.aol.com
+https://pokki.aol.com
+https://portal.aol.com
+https://portfolios.aol.com
+https://portfolios.qa.sandbox.aol.com
+https://postmaster.aol.com
 https://postmaster.info.aol.com
 https://premium.aol.com
 https://press.aol.com
@@ -581,8 +584,7 @@ https://pricecheck.aol.com
 https://prod.msicontent.pse.public.aol.com
 https://prod.myaccount.pse.public.aol.com
 https://prod.origin.help.aol.com
-https://prod.smiapi.pse.public.aol.com
-https://productcentral.aol.com
+https://projectphoenix.aol.com
 https://ps-search.aol.com
 https://pslca.web.aol.com
 https://publish.aol.com
@@ -597,7 +599,6 @@ https://qa.rab.desktop.aol.com:8443
 https://qa.sigfig.sandbox.aol.com
 https://qadailyfinance.sandbox.aol.com
 https://quicken.aol.com
-https://r.aol.com
 https://radio.aol.com
 https://recipes.aol.com
 https://refer.aol.com
@@ -613,7 +614,6 @@ https://safetytoolbar.aol.com
 https://sales.aol.com
 https://sb-n.welcomescreen.aol.com
 https://sb-w.welcomescreen.aol.com
-https://sb.welcomescreen.aol.com
 https://scare.obi.aol.com
 https://school.aol.com
 https://search.aol.com
@@ -660,9 +660,9 @@ https://stage.oidc.productcentral.aol.com
 https://stage.oidc.search.aol.com
 https://stage.origin.help.aol.com
 https://start.aol.com
-https://startpage.aol.com
 https://static.onecreative.aol.com
 https://subscribe.aol.com
+https://t.aol.com
 https://t.verizon-b.aol.com
 https://t.verizon.aol.com
 https://team.aol.com

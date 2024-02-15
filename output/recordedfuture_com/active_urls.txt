@@ -29,7 +29,6 @@ http://go.recordedfuture.com:8080
 http://gslink.recordedfuture.com
 http://gsnlink.recordedfuture.com
 http://gsnlink.recordedfuture.com:8080
-http://gsnlink.recordedfuture.com:8443
 http://id.recordedfuture.com
 http://id.recordedfuture.com:8080
 http://id.recordedfuture.com:8443
@@ -45,6 +44,9 @@ http://partners.recordedfuture.com
 http://partners.recordedfuture.com:8080
 http://pgg391.info.recordedfuture.com
 http://preprod.cms.recordedfuture.com
+http://preprod.recordedfuture.com
+http://preprod.recordedfuture.com:8080
+http://preprod.recordedfuture.com:8443
 http://sandbox.recordedfuture.com
 http://sandbox.recordedfuture.com:8080
 http://status.recordedfuture.com
@@ -55,9 +57,6 @@ http://university.recordedfuture.com
 http://url5653.recordedfuture.com
 http://url5653.recordedfuture.com:8080
 http://url5653.recordedfuture.com:8443
-http://ww.recordedfuture.com
-http://ww.recordedfuture.com:8080
-http://ww.recordedfuture.com:8443
 http://www.cms.recordedfuture.com
 http://www.preprod.cms.recordedfuture.com
 http://www.preprod.recordedfuture.com
@@ -81,6 +80,7 @@ https://go.recordedfuture.com
 https://go.recordedfuture.com:8443
 https://gslink.recordedfuture.com
 https://gsnlink.recordedfuture.com
+https://gsnlink.recordedfuture.com:8443
 https://id.recordedfuture.com
 https://ideas.recordedfuture.com
 https://insiktgroup.recordedfuture.com
@@ -91,13 +91,13 @@ https://lyra.recordedfuture.com
 https://partners.recordedfuture.com
 https://partners.recordedfuture.com:8443
 https://preprod.cms.recordedfuture.com
+https://preprod.recordedfuture.com
 https://sandbox.recordedfuture.com
 https://sandbox.recordedfuture.com:8443
 https://status.recordedfuture.com
 https://support.recordedfuture.com
 https://university.recordedfuture.com
 https://url5653.recordedfuture.com
-https://ww.recordedfuture.com
 https://www.cms.recordedfuture.com
 https://www.preprod.cms.recordedfuture.com
 https://www.recordedfuture.com

@@ -602,8 +602,6 @@ app-staging.community.gitlab.com:80
 app.community.gitlab.com:22
 app.community.gitlab.com:443
 app.community.gitlab.com:80
-aptly.gitlab.com:443
-aptly.gitlab.com:80
 archives.docs.gitlab.com:443
 archives.docs.gitlab.com:80
 auth.staging.gitlab.com:10000

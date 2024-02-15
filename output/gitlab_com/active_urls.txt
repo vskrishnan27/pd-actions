@@ -299,7 +299,6 @@ http://api-staging.community.gitlab.com
 http://api.community.gitlab.com
 http://app-staging.community.gitlab.com
 http://app.community.gitlab.com
-http://aptly.gitlab.com
 http://archives.docs.gitlab.com
 http://auth.staging.gitlab.com
 http://blog.gitlab.com
@@ -405,7 +404,6 @@ http://static-objects.staging.gitlab.com:8080
 http://status.gitlab.com
 http://support.gitlab.com
 http://support.gitlab.com:8080
-http://support.gitlab.com:8443
 http://translate.gitlab.com
 http://triage-ops.gitlab.com
 http://university.gitlab.com
@@ -716,7 +714,6 @@ https://api-staging.community.gitlab.com
 https://api.community.gitlab.com
 https://app-staging.community.gitlab.com
 https://app.community.gitlab.com
-https://aptly.gitlab.com
 https://archives.docs.gitlab.com
 https://auth.staging.gitlab.com
 https://blog.gitlab.com
@@ -802,6 +799,7 @@ https://static-objects.staging.gitlab.com
 https://static-objects.staging.gitlab.com:8443
 https://status.gitlab.com
 https://support.gitlab.com
+https://support.gitlab.com:8443
 https://translate.gitlab.com
 https://triage-ops.gitlab.com
 https://university.gitlab.com

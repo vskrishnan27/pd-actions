@@ -10,10 +10,6 @@
 7-api.bigbang.cosmos.network:80
 7-api.bigbang.cosmos.network:8080
 7-api.bigbang.cosmos.network:8443
-academy.cosmos.network:443
-academy.cosmos.network:80
-academy.cosmos.network:8080
-academy.cosmos.network:8443
 api-germany.bigbang.cosmos.network:443
 api-germany.bigbang.cosmos.network:80
 api-germany.bigbang.cosmos.network:8080
@@ -34,10 +30,6 @@ api.atlas.cosmos.network:443
 api.atlas.cosmos.network:80
 api.atlas.cosmos.network:8080
 api.atlas.cosmos.network:8443
-api.bigbang.cosmos.network:443
-api.bigbang.cosmos.network:80
-api.bigbang.cosmos.network:8080
-api.bigbang.cosmos.network:8443
 api.brasil.bigbang.cosmos.network:443
 api.brasil.bigbang.cosmos.network:80
 api.brasil.bigbang.cosmos.network:8080

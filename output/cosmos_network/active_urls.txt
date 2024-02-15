@@ -10,8 +10,6 @@ http://7-api.bigbang.cosmos.network
 http://7-api.bigbang.cosmos.network:443
 http://7-api.bigbang.cosmos.network:8080
 http://7-api.bigbang.cosmos.network:8443
-http://academy.cosmos.network
-http://academy.cosmos.network:8080
 http://api-germany.bigbang.cosmos.network
 http://api-germany.bigbang.cosmos.network:443
 http://api-germany.bigbang.cosmos.network:8080
@@ -32,10 +30,6 @@ http://api.atlas.cosmos.network
 http://api.atlas.cosmos.network:443
 http://api.atlas.cosmos.network:8080
 http://api.atlas.cosmos.network:8443
-http://api.bigbang.cosmos.network
-http://api.bigbang.cosmos.network:443
-http://api.bigbang.cosmos.network:8080
-http://api.bigbang.cosmos.network:8443
 http://api.brasil.bigbang.cosmos.network
 http://api.brasil.bigbang.cosmos.network:443
 http://api.brasil.bigbang.cosmos.network:8080
@@ -207,7 +201,6 @@ http://ghcpi.rest.bigbang.cosmos.network:8080
 http://ghcpi.rest.bigbang.cosmos.network:8443
 http://go.cosmos.network
 http://go.cosmos.network:8080
-http://go.cosmos.network:8443
 http://goz.cosmos.network
 http://grpc.cosmos.network
 http://grpc.cosmos.network:8080
@@ -373,8 +366,6 @@ http://www.api.atlas.cosmos.network:8443
 http://www.cosmos.network
 http://www.cosmos.network:8080
 http://www.cosmos.network:8443
-https://academy.cosmos.network
-https://academy.cosmos.network:8443
 https://api.cosmos.network
 https://api.cosmos.network:8443
 https://atlas.cosmos.network
@@ -403,6 +394,7 @@ https://forum.cosmos.network
 https://full-node.cosmos.network
 https://fundraiser.cosmos.network
 https://go.cosmos.network
+https://go.cosmos.network:8443
 https://goz.cosmos.network
 https://grpc.cosmos.network
 https://hackatom-berlin.cosmos.network

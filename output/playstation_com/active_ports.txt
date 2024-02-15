@@ -303,8 +303,6 @@ io.playstation.com:443
 io.playstation.com:80
 is.playstation.com:443
 is.playstation.com:80
-ivaldi.playstation.com:443
-ivaldi.playstation.com:80
 jp.playstation.com:443
 jp.playstation.com:80
 juega.playstation.com:443
@@ -382,7 +380,6 @@ presscenter.playstation.com:443
 presscenter.playstation.com:80
 preview.direct.e1-np.playstation.com:443
 preview.direct.e1-np.playstation.com:80
-preview.playstation.com:443
 previewer.playstation.com:443
 previewer.playstation.com:80
 profile.api.playstation.com:443

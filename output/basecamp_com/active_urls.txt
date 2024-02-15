@@ -1,6 +1,6 @@
-http://akamai.basecamp.com
-http://akamai.basecamp.com:8080
-http://api.3.basecamp.com
+http://3.basecamp.com
+http://3.basecamp.com:8080
+http://3.basecamp.com:8443
 http://asset1.basecamp.com
 http://asset1.basecamp.com:8080
 http://asset1.basecamp.com:8443
@@ -14,8 +14,6 @@ http://beta1.basecamp.com
 http://beta1.basecamp.com:8080
 http://beta1.basecamp.com:8443
 http://beta2.3.basecamp.com
-http://beta2.3.basecamp.com:8080
-http://beta2.3.basecamp.com:8443
 http://brasil.basecamp.com
 http://chat.3.basecamp.com
 http://chat.3.basecamp.com:8080
@@ -65,8 +63,7 @@ http://www.basecamp.com
 http://www.basecamp.com:8080
 http://www.basecamp.com:8443
 http://www.updates.basecamp.com
-https://akamai.basecamp.com
-https://akamai.basecamp.com:8443
+https://3.basecamp.com
 https://asset1.basecamp.com
 https://basecamp.com
 https://beta.basecamp.com

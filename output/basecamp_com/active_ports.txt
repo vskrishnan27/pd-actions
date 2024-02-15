@@ -1,9 +1,7 @@
-akamai.basecamp.com:443
-akamai.basecamp.com:80
-akamai.basecamp.com:8080
-akamai.basecamp.com:8443
-api.3.basecamp.com:443
-api.3.basecamp.com:80
+3.basecamp.com:443
+3.basecamp.com:80
+3.basecamp.com:8080
+3.basecamp.com:8443
 asset1.basecamp.com:443
 asset1.basecamp.com:80
 asset1.basecamp.com:8080
@@ -24,8 +22,6 @@ beta1.basecamp.com:8080
 beta1.basecamp.com:8443
 beta2.3.basecamp.com:443
 beta2.3.basecamp.com:80
-beta2.3.basecamp.com:8080
-beta2.3.basecamp.com:8443
 brasil.basecamp.com:443
 brasil.basecamp.com:80
 chat.3.basecamp.com:443

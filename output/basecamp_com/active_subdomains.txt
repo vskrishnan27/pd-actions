@@ -1,6 +1,4 @@
 3.basecamp.com
-akamai.basecamp.com
-api.3.basecamp.com
 asset1.basecamp.com
 basecamp.com
 beta.3.basecamp.com

@@ -24,7 +24,6 @@ http://communitygroups.miro.com:8080
 http://communitygroups.miro.com:8443
 http://consultantcommunity.miro.com
 http://consultantcommunity.miro.com:8080
-http://consultantcommunity.miro.com:8443
 http://dam.miro.com
 http://desktop.miro.com
 http://developers.miro.com
@@ -50,6 +49,7 @@ http://go2.miro.com:8080
 http://gslink.miro.com
 http://help.miro.com
 http://help.miro.com:8080
+http://help.miro.com:8443
 http://image.account.miro.com
 http://image.e.miro.com
 http://integrations-internal.miro.com
@@ -122,6 +122,7 @@ https://cloud.e.miro.com
 https://community.miro.com
 https://communitygroups.miro.com
 https://consultantcommunity.miro.com
+https://consultantcommunity.miro.com:8443
 https://dam.miro.com
 https://desktop.miro.com
 https://developers.miro.com
@@ -144,7 +145,6 @@ https://go2.miro.com
 https://go2.miro.com:8443
 https://gslink.miro.com
 https://help.miro.com
-https://help.miro.com:8443
 https://image.account.miro.com
 https://image.e.miro.com
 https://integrations-internal.miro.com

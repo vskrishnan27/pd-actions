@@ -58,6 +58,8 @@ cdn.hostinger.com:8080
 cdn.hostinger.com:8443
 confirmar.hostinger.com:443
 confirmar.hostinger.com:80
+connect.hostinger.com:1110
+connect.hostinger.com:26
 connect.hostinger.com:443
 connect.hostinger.com:80
 convalida.hostinger.com:443
@@ -74,6 +76,8 @@ d.email.hostinger.com:443
 d.email.hostinger.com:80
 d.email.hostinger.com:8080
 d.email.hostinger.com:8443
+design.hostinger.com:1110
+design.hostinger.com:26
 design.hostinger.com:443
 design.hostinger.com:80
 dogrula.hostinger.com:443

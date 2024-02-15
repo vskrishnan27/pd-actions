@@ -7,7 +7,6 @@ http://any1.hostinger.com:8080
 http://any2.hostinger.com
 http://any2.hostinger.com:8080
 http://api.hostinger.com
-http://api.hostinger.com:8443
 http://apstiprina.hostinger.com
 http://assets.hostinger.com
 http://assets.hostinger.com:8443
@@ -16,6 +15,7 @@ http://autenticar.hostinger.com
 http://autentificacion.hostinger.com
 http://autentificar.hostinger.com
 http://auth.hostinger.com
+http://auth.hostinger.com:8080
 http://auth.hostinger.com:8443
 http://autoconfig.mail.hostinger.com
 http://autodiscover.mail.hostinger.com
@@ -128,6 +128,7 @@ http://www.flockcalendar.hostinger.com
 http://www.flockcontacts.hostinger.com
 http://www.flockmail.hostinger.com
 http://www.hostinger.com
+http://www.hostinger.com:8443
 http://www.titancalendar.hostinger.com
 http://www.titancontacts.hostinger.com
 http://www.titanmail.hostinger.com
@@ -141,6 +142,7 @@ https://any1.hostinger.com:8443
 https://any2.hostinger.com
 https://any2.hostinger.com:8443
 https://api.hostinger.com
+https://api.hostinger.com:8443
 https://apstiprina.hostinger.com
 https://assets.hostinger.com
 https://autenticacion.hostinger.com
@@ -227,7 +229,6 @@ https://www.flockcalendar.hostinger.com
 https://www.flockcontacts.hostinger.com
 https://www.flockmail.hostinger.com
 https://www.hostinger.com
-https://www.hostinger.com:8443
 https://www.titancalendar.hostinger.com
 https://www.titancontacts.hostinger.com
 https://www.titanmail.hostinger.com

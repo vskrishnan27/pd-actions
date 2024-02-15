@@ -50,7 +50,6 @@ http://go2.miro.com:8080
 http://gslink.miro.com
 http://help.miro.com
 http://help.miro.com:8080
-http://help.miro.com:8443
 http://image.account.miro.com
 http://image.e.miro.com
 http://integrations-internal.miro.com
@@ -62,7 +61,6 @@ http://links.m.miro.com
 http://links.m.miro.com:8443
 http://lubo.miro.com
 http://meet.miro.com
-http://miro.com
 http://mobile.miro.com
 http://mwww.miro.com
 http://notifications-overlay.svc.miro.com
@@ -146,6 +144,7 @@ https://go2.miro.com
 https://go2.miro.com:8443
 https://gslink.miro.com
 https://help.miro.com
+https://help.miro.com:8443
 https://image.account.miro.com
 https://image.e.miro.com
 https://integrations-internal.miro.com
@@ -156,7 +155,6 @@ https://learns.miro.com
 https://links.m.miro.com
 https://lubo.miro.com
 https://meet.miro.com
-https://miro.com
 https://mobile.miro.com
 https://mwww.miro.com
 https://notifications-overlay.svc.miro.com

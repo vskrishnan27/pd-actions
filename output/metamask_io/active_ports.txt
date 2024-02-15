@@ -128,8 +128,6 @@ execution.metamask.io:443
 execution.metamask.io:80
 feedback.metamask.io:443
 feedback.metamask.io:80
-fund-loss-investigation.metamask.io:443
-fund-loss-investigation.metamask.io:80
 fwd.metamask.io:443
 fwd.metamask.io:80
 gas-us-east-2.api.cx.metamask.io:443

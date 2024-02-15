@@ -37,7 +37,6 @@ evm.dev-api.cx.metamask.io
 evm.uat-api.cx.metamask.io
 execution.metamask.io
 feedback.metamask.io
-fund-loss-investigation.metamask.io
 fwd.metamask.io
 gas-us-east-2.api.cx.metamask.io
 gas-us-east-2.dev-api.cx.metamask.io

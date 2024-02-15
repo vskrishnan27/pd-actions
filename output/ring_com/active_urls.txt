@@ -64,7 +64,6 @@ http://dev.ring.com
 http://devw-b-envproxy-use1.dev.rs.ring.com
 http://dn.ring.com
 http://dn.ring.com:8080
-http://dumper.firmware.ring.com
 http://dynamicfws.ring.com
 http://en-se.ring.com
 http://en-se.ring.com:8080
@@ -192,7 +191,6 @@ http://wu.dev.ring.com:8443
 http://wu.qa.ring.com
 http://wu.qa.ring.com:8443
 http://wu.ring.com
-http://wu.ring.com:8443
 http://www.ring.com
 http://za-en.ring.com
 http://za-en.ring.com:8080
@@ -490,6 +488,7 @@ https://videos.release.ring.com
 https://wu.dev.ring.com
 https://wu.qa.ring.com
 https://wu.ring.com
+https://wu.ring.com:8443
 https://www.ring.com
 https://za-en.ring.com
 https://za-en.ring.com:8443

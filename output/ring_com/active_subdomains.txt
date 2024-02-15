@@ -157,6 +157,7 @@ create-hpcam.us-east-2.ringo.ring.com
 create-hpcam.us-west-2.ringo.dev.ring.com
 create-hpcam.us-west-2.ringo.ring.com
 create-lpd.ap-south-1.ringo.ring.com
+create-lpd.ap-southeast-1.ringo.dev.ring.com
 create-lpd.eu-north-1.ringo.ring.com
 create-lpd.eu-west-1.ringo.release.ring.com
 create-lpd.eu-west-1.ringo.ring.com
@@ -215,7 +216,6 @@ dmc000.prod.splunk.dm.ring.com
 dn.ring.com
 doorbelloyster.ring.com
 download.ring.com
-dumper.firmware.ring.com
 dynamicfws.ring.com
 en-se.ring.com
 en-uk.ring.com

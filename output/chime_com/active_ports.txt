@@ -102,7 +102,6 @@ inspector.chime.com:443
 inspector.chime.com:80
 inspector.chime.com:8080
 inspector.chime.com:8443
-interchange.chime.com:2001
 interchange.chime.com:443
 interchange.chime.com:80
 links.account.chime.com:443

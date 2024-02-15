@@ -1,6 +1,7 @@
 http://0-tlcovid19-private.secure.admin.airbnb.com
 http://0.next.airbnb.com
 http://0ms.optustvnow.next.airbnb.com
+http://1.next.airbnb.com
 http://10.covid19elasticbeanstalk-el.next.airbnb.com
 http://10.el-covid19-service.next.airbnb.com
 http://14.admin-lite.airbnb.com
@@ -20,7 +21,6 @@ http://admin-lite-staging.airbnb.com
 http://admin-lite.airbnb.com
 http://admin-next.airbnb.com
 http://admin-staging.airbnb.com
-http://admin.airbnb.com
 http://admin.dev.staging.airbnb.com
 http://admin.next.airbnb.com
 http://adnbiz.mystique.next.airbnb.com
@@ -113,7 +113,6 @@ http://bulletin.next.airbnb.com
 http://bultaewoo4.uat.next.airbnb.com
 http://burlingtonvtpre.optustvnow.next.airbnb.com
 http://buyshock.pictures.next.airbnb.com
-http://c.next.airbnb.com
 http://ca.airbnb.com
 http://callbacks.airbnb.com
 http://cam.next.airbnb.com
@@ -139,6 +138,7 @@ http://chef.admin-lite.airbnb.com
 http://chesspre.logs.next.airbnb.com
 http://chj.evd.next.airbnb.com
 http://chk.mail35.next.airbnb.com
+http://ci.next.airbnb.com
 http://cim-api-dev.next.airbnb.com
 http://cim-api-qa.next.airbnb.com
 http://cim-api-uat.next.airbnb.com
@@ -172,7 +172,6 @@ http://coolweb.1.next.airbnb.com
 http://costech-xsrvjp.pictures.next.airbnb.com
 http://covid19-private-zh-t.next.airbnb.com
 http://covid19demo-id.next.airbnb.com
-http://covid19elasticbeanstalk-el.next.airbnb.com
 http://covid19nov.next.airbnb.com
 http://cp.next.airbnb.com
 http://cp14.cspi.next.airbnb.com
@@ -228,9 +227,9 @@ http://dyn.next.airbnb.com
 http://earth-t-jp.mystique.next.airbnb.com
 http://edge.next.airbnb.com
 http://editorial.next.airbnb.com
+http://el-covid19-service.next.airbnb.com
 http://el.airbnb.com
 http://el.covid19nov.next.airbnb.com
-http://el.next.airbnb.com
 http://elastic.next.airbnb.com
 http://email.airbnb.com
 http://email.next.airbnb.com
@@ -248,9 +247,6 @@ http://et.airbnb.com
 http://eventhorizon.dev.next.airbnb.com
 http://exchange.next.airbnb.com
 http://eym-xsrvjp.info.next.airbnb.com
-http://fastly-dev.airbnb.com
-http://fastly-staging.airbnb.com
-http://fastly-test.airbnb.com
 http://fatsoma.next.airbnb.com
 http://fencing.merchdirect.next.airbnb.com
 http://fernanda.p2p.next.airbnb.com
@@ -281,6 +277,7 @@ http://ga.next.airbnb.com
 http://gac-rds-external-readonly-preprod.next.airbnb.com
 http://gac-rds-external-readonly.next.airbnb.com
 http://gaia.next.airbnb.com
+http://galileo.next.airbnb.com
 http://gallery.new.next.airbnb.com
 http://gbkh.new.next.airbnb.com
 http://gcom-product-find-dev.next.airbnb.com
@@ -334,7 +331,6 @@ http://hr.airbnb.com
 http://httpbin.next.airbnb.com
 http://hu-region-covid19.next.airbnb.com
 http://hu.airbnb.com
-http://hu.next.airbnb.com
 http://hu.region-covid19.next.airbnb.com
 http://huang1qi2.new.next.airbnb.com
 http://huhu.pictures.next.airbnb.com
@@ -359,6 +355,7 @@ http://images.next.airbnb.com
 http://imap.next.airbnb.com
 http://img.next.airbnb.com
 http://inbound.next.airbnb.com
+http://info.next.airbnb.com
 http://inst-www.next.airbnb.com
 http://inst.next.airbnb.com
 http://inst.www.next.airbnb.com
@@ -446,6 +443,7 @@ http://lux.next.airbnb.com
 http://lv.airbnb.com
 http://lyf.airbnb.com
 http://m.airbnb.com
+http://m.next.airbnb.com
 http://mail1.next.airbnb.com
 http://mail11.next.airbnb.com
 http://mail2.next.airbnb.com
@@ -456,7 +454,6 @@ http://mail27.next.airbnb.com
 http://mail28.next.airbnb.com
 http://mail29.next.airbnb.com
 http://mail30.next.airbnb.com
-http://mail31.next.airbnb.com
 http://mail32.next.airbnb.com
 http://mail35.next.airbnb.com
 http://mailgw02.moodle.next.airbnb.com
@@ -502,7 +499,6 @@ http://mongodb.next.airbnb.com
 http://monicahair.merchdirect.next.airbnb.com
 http://monitorizacion.new.next.airbnb.com
 http://mononoke.dev.next.airbnb.com
-http://moodle.next.airbnb.com
 http://moorootr.merchdirect.next.airbnb.com
 http://morrow.mail35.next.airbnb.com
 http://mosh.mystique.next.airbnb.com
@@ -576,8 +572,8 @@ http://npictures.next.airbnb.com
 http://nprod.next.airbnb.com
 http://npub.next.airbnb.com
 http://nrikunabi.next.airbnb.com
+http://ns.next.airbnb.com
 http://ns1.next.airbnb.com
-http://ns2.next.airbnb.com
 http://ns3.next.airbnb.com
 http://ns4.next.airbnb.com
 http://nshift.next.airbnb.com
@@ -604,7 +600,6 @@ http://one.airbnb.com
 http://one.dev.staging.airbnb.com
 http://open.airbnb.com
 http://openweb.next.airbnb.com
-http://optimize.next.airbnb.com
 http://order.next.airbnb.com
 http://orders.next.airbnb.com
 http://origin-images.airbnb.com
@@ -614,6 +609,7 @@ http://ote.rpanel.next.airbnb.com
 http://outlook.next.airbnb.com
 http://ovh1.dev.next.airbnb.com
 http://owa.next.airbnb.com
+http://p2p.next.airbnb.com
 http://paintballpre.moodle.next.airbnb.com
 http://panicdisorderadmin.rkai.next.airbnb.com
 http://patchwork.next.airbnb.com
@@ -656,6 +652,7 @@ http://prototype.admin.airbnb.com
 http://provincial.next.airbnb.com
 http://proxy.next.airbnb.com
 http://pt.airbnb.com
+http://pub.next.airbnb.com
 http://publicpolicy.airbnb.com
 http://publishing-catalog.next.airbnb.com
 http://publishing-preview.next.airbnb.com
@@ -679,6 +676,7 @@ http://renault.next.airbnb.com
 http://resources.next.airbnb.com
 http://retail.next.airbnb.com
 http://rikunabi.next.airbnb.com
+http://rkai.next.airbnb.com
 http://ro.airbnb.com
 http://rockordie1.invenio.next.airbnb.com
 http://roku.next.airbnb.com
@@ -689,6 +687,7 @@ http://rto.moodle.next.airbnb.com
 http://ru.airbnb.com
 http://ru.next.airbnb.com
 http://rx.next.airbnb.com
+http://s.airbnb.com
 http://s1intkthkira.optustvnow.next.airbnb.com
 http://s3devw2.apiwww.next.airbnb.com
 http://s81.moodle.next.airbnb.com
@@ -718,7 +717,6 @@ http://servers.next.airbnb.com
 http://serveur.1.next.airbnb.com
 http://shca.optustvnow.next.airbnb.com
 http://shifa.moodle.next.airbnb.com
-http://shift.next.airbnb.com
 http://shop.next.airbnb.com
 http://short.dev.next.airbnb.com
 http://signin.next.airbnb.com
@@ -754,7 +752,6 @@ http://statcont.next.airbnb.com
 http://state.optustvnow.next.airbnb.com
 http://static.next.airbnb.com
 http://stats.next.airbnb.com
-http://stg.next.airbnb.com
 http://store.next.airbnb.com
 http://storybook.next.airbnb.com
 http://stress.merchdirect.next.airbnb.com
@@ -779,7 +776,6 @@ http://test20.optustvnow.next.airbnb.com
 http://test47.dev.next.airbnb.com
 http://testing3.evd.next.airbnb.com
 http://th.airbnb.com
-http://th.next.airbnb.com
 http://thanh.optustvnow.next.airbnb.com
 http://the.next.airbnb.com
 http://thenewage.mail33.next.airbnb.com
@@ -787,10 +783,8 @@ http://tickets.dev.next.airbnb.com
 http://timesheets.dev.next.airbnb.com
 http://tl-covid19-billing.next.airbnb.com
 http://tl-covid19demo.next.airbnb.com
-http://tl-region-covid19.next.airbnb.com
 http://tl.airbnb.com
 http://tl.next.airbnb.com
-http://tlcovid19-private.next.airbnb.com
 http://tls.next.airbnb.com
 http://tools.next.airbnb.com
 http://tpe.covid19demo-id.next.airbnb.com
@@ -826,6 +820,7 @@ http://users.mail33.next.airbnb.com
 http://users.pictures.next.airbnb.com
 http://users.uat.next.airbnb.com
 http://users.uk.next.airbnb.com
+http://v1.next.airbnb.com
 http://v19.dev.next.airbnb.com
 http://v20.fling.next.airbnb.com
 http://vault.next.airbnb.com
@@ -838,13 +833,13 @@ http://vi.airbnb.com
 http://video.airbnb.com
 http://video.next.airbnb.com
 http://videos.next.airbnb.com
+http://view.next.airbnb.com
 http://vinusman.new.next.airbnb.com
 http://vistyle.evd.next.airbnb.com
 http://vl.1.next.airbnb.com
 http://voice.next.airbnb.com
 http://voiceapp-xsrvjp.moodle.next.airbnb.com
 http://vols.evd.next.airbnb.com
-http://vpn.next.airbnb.com
 http://waheed.merchdirect.next.airbnb.com
 http://wamp.uat.next.airbnb.com
 http://wanjin1.moodle.next.airbnb.com
@@ -909,6 +904,7 @@ http://zubin.dev.next.airbnb.com
 http://zxx.express.next.airbnb.com
 https://0-tlcovid19-private.secure.admin.airbnb.com
 https://0.next.airbnb.com
+https://1.next.airbnb.com
 https://14.admin-lite.airbnb.com
 https://9covid19-el.next.airbnb.com
 https://a.next.airbnb.com
@@ -920,7 +916,6 @@ https://admin-lite-staging.airbnb.com
 https://admin-lite.airbnb.com
 https://admin-next.airbnb.com
 https://admin-staging.airbnb.com
-https://admin.airbnb.com
 https://admin.dev.staging.airbnb.com
 https://admin.next.airbnb.com
 https://airbnb.com
@@ -932,8 +927,6 @@ https://akamai-test.airbnb.com
 https://akamai-test.next.airbnb.com
 https://akamai.airbnb.com
 https://akamai.next.airbnb.com
-https://api-fastly-staging.airbnb.com
-https://api-fastly.airbnb.com
 https://api-www.next.airbnb.com
 https://api.admin.airbnb.com
 https://api.airbnb.com
@@ -970,7 +963,6 @@ https://blogs.next.airbnb.com
 https://bs.airbnb.com
 https://builder.next.airbnb.com
 https://bulletin.next.airbnb.com
-https://c.next.airbnb.com
 https://ca.airbnb.com
 https://callbacks.airbnb.com
 https://cam.next.airbnb.com
@@ -987,6 +979,7 @@ https://cert.next.airbnb.com
 https://certificate.next.airbnb.com
 https://check.next.airbnb.com
 https://chef.admin-lite.airbnb.com
+https://ci.next.airbnb.com
 https://cim-api-dev.next.airbnb.com
 https://cim-api-qa.next.airbnb.com
 https://cim-api-uat.next.airbnb.com
@@ -1011,7 +1004,6 @@ https://concierge.next.airbnb.com
 https://consul.next.airbnb.com
 https://covid19-private-zh-t.next.airbnb.com
 https://covid19demo-id.next.airbnb.com
-https://covid19elasticbeanstalk-el.next.airbnb.com
 https://covid19nov.next.airbnb.com
 https://cp.next.airbnb.com
 https://cpanel.next.airbnb.com
@@ -1045,8 +1037,8 @@ https://dqbo.admin-next.airbnb.com
 https://dyn.next.airbnb.com
 https://edge.next.airbnb.com
 https://editorial.next.airbnb.com
+https://el-covid19-service.next.airbnb.com
 https://el.airbnb.com
-https://el.next.airbnb.com
 https://elastic.next.airbnb.com
 https://email.airbnb.com
 https://email.next.airbnb.com
@@ -1057,9 +1049,6 @@ https://es.admin.airbnb.com
 https://es.airbnb.com
 https://et.airbnb.com
 https://exchange.next.airbnb.com
-https://fastly-dev.airbnb.com
-https://fastly-staging.airbnb.com
-https://fastly-test.airbnb.com
 https://fatsoma.next.airbnb.com
 https://fi.airbnb.com
 https://file.next.airbnb.com
@@ -1079,6 +1068,7 @@ https://ga.next.airbnb.com
 https://gac-rds-external-readonly-preprod.next.airbnb.com
 https://gac-rds-external-readonly.next.airbnb.com
 https://gaia.next.airbnb.com
+https://galileo.next.airbnb.com
 https://gcom-product-find-dev.next.airbnb.com
 https://gcom-product-find-qa.next.airbnb.com
 https://gdo.next.airbnb.com
@@ -1104,7 +1094,6 @@ https://hr.airbnb.com
 https://httpbin.next.airbnb.com
 https://hu-region-covid19.next.airbnb.com
 https://hu.airbnb.com
-https://hu.next.airbnb.com
 https://huoceania-covid19.next.airbnb.com
 https://husecuritycovid19.next.airbnb.com
 https://hwcdn-covid19hu.next.airbnb.com
@@ -1122,6 +1111,7 @@ https://images.next.airbnb.com
 https://imap.next.airbnb.com
 https://img.next.airbnb.com
 https://inbound.next.airbnb.com
+https://info.next.airbnb.com
 https://inst-www.next.airbnb.com
 https://inst.next.airbnb.com
 https://instwww.next.airbnb.com
@@ -1175,6 +1165,7 @@ https://lux.next.airbnb.com
 https://lv.airbnb.com
 https://lyf.airbnb.com
 https://m.airbnb.com
+https://m.next.airbnb.com
 https://mail1.next.airbnb.com
 https://mail11.next.airbnb.com
 https://mail2.next.airbnb.com
@@ -1185,7 +1176,6 @@ https://mail27.next.airbnb.com
 https://mail28.next.airbnb.com
 https://mail29.next.airbnb.com
 https://mail30.next.airbnb.com
-https://mail31.next.airbnb.com
 https://mail32.next.airbnb.com
 https://mail35.next.airbnb.com
 https://mailserver.next.airbnb.com
@@ -1204,7 +1194,6 @@ https://mobile.next.airbnb.com
 https://mobilegwstg.next.airbnb.com
 https://mongo.next.airbnb.com
 https://mongodb.next.airbnb.com
-https://moodle.next.airbnb.com
 https://ms.airbnb.com
 https://mssql.next.airbnb.com
 https://mt.airbnb.com
@@ -1257,8 +1246,8 @@ https://npictures.next.airbnb.com
 https://nprod.next.airbnb.com
 https://npub.next.airbnb.com
 https://nrikunabi.next.airbnb.com
+https://ns.next.airbnb.com
 https://ns1.next.airbnb.com
-https://ns2.next.airbnb.com
 https://ns3.next.airbnb.com
 https://ns4.next.airbnb.com
 https://nshift.next.airbnb.com
@@ -1282,13 +1271,13 @@ https://one.airbnb.com
 https://one.dev.staging.airbnb.com
 https://open.airbnb.com
 https://openweb.next.airbnb.com
-https://optimize.next.airbnb.com
 https://order.next.airbnb.com
 https://orders.next.airbnb.com
 https://origin-images.airbnb.com
 https://origin.next.airbnb.com
 https://outlook.next.airbnb.com
 https://owa.next.airbnb.com
+https://p2p.next.airbnb.com
 https://patchwork.next.airbnb.com
 https://pl.airbnb.com
 https://platform.airbnb.com
@@ -1316,6 +1305,7 @@ https://prototype.admin.airbnb.com
 https://provincial.next.airbnb.com
 https://proxy.next.airbnb.com
 https://pt.airbnb.com
+https://pub.next.airbnb.com
 https://publicpolicy.airbnb.com
 https://publishing-catalog.next.airbnb.com
 https://publishing-preview.next.airbnb.com
@@ -1331,6 +1321,7 @@ https://renault.next.airbnb.com
 https://resources.next.airbnb.com
 https://retail.next.airbnb.com
 https://rikunabi.next.airbnb.com
+https://rkai.next.airbnb.com
 https://ro.airbnb.com
 https://roku.next.airbnb.com
 https://root.next.airbnb.com
@@ -1338,6 +1329,7 @@ https://rpanel.next.airbnb.com
 https://ru.airbnb.com
 https://ru.next.airbnb.com
 https://rx.next.airbnb.com
+https://s.airbnb.com
 https://sagelabs.admin.airbnb.com
 https://samara.airbnb.com
 https://searchportal-dev.next.airbnb.com
@@ -1348,7 +1340,6 @@ https://securitycovid19-zh-t.next.airbnb.com
 https://server.next.airbnb.com
 https://server1.next.airbnb.com
 https://servers.next.airbnb.com
-https://shift.next.airbnb.com
 https://shop.next.airbnb.com
 https://signin.next.airbnb.com
 https://signup.next.airbnb.com
@@ -1370,7 +1361,6 @@ https://staging.next.airbnb.com
 https://statcont.next.airbnb.com
 https://static.next.airbnb.com
 https://stats.next.airbnb.com
-https://stg.next.airbnb.com
 https://store.next.airbnb.com
 https://storybook.next.airbnb.com
 https://styles-int.next.airbnb.com
@@ -1383,14 +1373,11 @@ https://sw.airbnb.com
 https://talos.next.airbnb.com
 https://tenshokuknowhow.next.airbnb.com
 https://th.airbnb.com
-https://th.next.airbnb.com
 https://the.next.airbnb.com
 https://tl-covid19-billing.next.airbnb.com
 https://tl-covid19demo.next.airbnb.com
-https://tl-region-covid19.next.airbnb.com
 https://tl.airbnb.com
 https://tl.next.airbnb.com
-https://tlcovid19-private.next.airbnb.com
 https://tls.next.airbnb.com
 https://tools.next.airbnb.com
 https://tr.airbnb.com
@@ -1404,6 +1391,7 @@ https://us-east-1.next.airbnb.com
 https://us-east.next.airbnb.com
 https://us.isit.admin.airbnb.com
 https://useast.next.airbnb.com
+https://v1.next.airbnb.com
 https://vault.next.airbnb.com
 https://vel.next.airbnb.com
 https://vendor-api.next.airbnb.com
@@ -1413,8 +1401,8 @@ https://vi.airbnb.com
 https://video.airbnb.com
 https://video.next.airbnb.com
 https://videos.next.airbnb.com
+https://view.next.airbnb.com
 https://voice.next.airbnb.com
-https://vpn.next.airbnb.com
 https://wap.next.airbnb.com
 https://web1.next.airbnb.com
 https://webdisk.next.airbnb.com

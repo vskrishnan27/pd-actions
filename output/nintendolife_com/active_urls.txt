@@ -24,6 +24,9 @@ http://images.nintendolife.com:8080
 http://images.nintendolife.com:8443
 http://m.nintendolife.com
 http://maliaeroports.comwww.nintendolife.com
+http://nintendolife.com
+http://nintendolife.com:8080
+http://nintendolife.com:8443
 http://pfadev.dijgtal.comwww.nintendolife.com
 http://retro.nintendolife.com
 http://snes.nintendolife.com
@@ -58,6 +61,7 @@ https://gogaragedoorrepairor.repairwww.nintendolife.com
 https://images.nintendolife.com
 https://m.nintendolife.com
 https://maliaeroports.comwww.nintendolife.com
+https://nintendolife.com
 https://pfadev.dijgtal.comwww.nintendolife.com
 https://retro.nintendolife.com
 https://snes.nintendolife.com

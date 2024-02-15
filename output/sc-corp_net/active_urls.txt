@@ -73,6 +73,7 @@ http://flowrida-ad-targeting.sc-corp.net
 http://flowrida-research.sc-corp.net
 http://flowrida-unlockables.sc-corp.net
 http://forge-staging-iap.sc-corp.net
+http://gae.sc-corp.net
 http://gerrit.sc-corp.net
 http://ghe-dev.sc-corp.net
 http://grafana-cluster.sc-corp.net
@@ -302,6 +303,7 @@ https://flowrida-ad-targeting.sc-corp.net
 https://flowrida-research.sc-corp.net
 https://flowrida-unlockables.sc-corp.net
 https://forge-staging-iap.sc-corp.net
+https://gae.sc-corp.net
 https://gerrit.sc-corp.net
 https://ghe-dev.sc-corp.net
 https://github-backup.sc-corp.net

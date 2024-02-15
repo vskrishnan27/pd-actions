@@ -217,9 +217,7 @@ deployment-master-prod.sc-corp.net:80
 deployment-master-stage.sc-corp.net:443
 deployment-master-stage.sc-corp.net:80
 des-staging.sc-corp.net:443
-des-staging.sc-corp.net:548
 des-staging.sc-corp.net:80
-des-staging.sc-corp.net:9999
 developer-portal.sc-corp.net:443
 developer-portal.sc-corp.net:80
 device-trust.sc-corp.net:443
@@ -265,6 +263,8 @@ flowrida-unlockables.sc-corp.net:443
 flowrida-unlockables.sc-corp.net:80
 forge-staging-iap.sc-corp.net:443
 forge-staging-iap.sc-corp.net:80
+gae.sc-corp.net:443
+gae.sc-corp.net:80
 gerrit.sc-corp.net:443
 gerrit.sc-corp.net:80
 ghe-dev.sc-corp.net:443
@@ -281,7 +281,6 @@ grr-admin.sc-corp.net:443
 grr-admin.sc-corp.net:80
 grr-ui.sc-corp.net:443
 grr-ui.sc-corp.net:80
-grr.sc-corp.net:3986
 grr.sc-corp.net:443
 grr.sc-corp.net:80
 grr.sc-corp.net:8080
@@ -907,7 +906,6 @@ spinnaker-dev-api.sc-corp.net:443
 spinnaker-dev-api.sc-corp.net:80
 spinnaker-dev.sc-corp.net:443
 spinnaker-dev.sc-corp.net:80
-spinnaker-dev.sc-corp.net:88
 spinnaker-snap-dev.sc-corp.net:443
 spinnaker-snap-dev.sc-corp.net:80
 spinnaker.sc-corp.net:443
@@ -981,7 +979,6 @@ vellum-dev.sc-corp.net:443
 vellum-dev.sc-corp.net:80
 vellum-stg.sc-corp.net:443
 vellum-stg.sc-corp.net:80
-vellum-stg.sc-corp.net:8000
 vellum.sc-corp.net:443
 vellum.sc-corp.net:80
 weinan-rstudio.secproxy.sc-corp.net:443

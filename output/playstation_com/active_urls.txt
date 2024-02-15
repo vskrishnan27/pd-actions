@@ -1,3 +1,4 @@
+http://accounts.api.playstation.com
 http://api.bridges.playstation.com
 http://api.direct.e1-np.playstation.com
 http://api.direct.playstation.com
@@ -145,7 +146,6 @@ http://io.playstation.com
 http://is.playstation.com
 http://jp.playstation.com
 http://juega.playstation.com
-http://la.playstation.com
 http://latam.playstation.com
 http://latino.playstation.com
 http://library.playstation.com
@@ -433,7 +433,6 @@ https://io.playstation.com
 https://is.playstation.com
 https://jp.playstation.com
 https://juega.playstation.com
-https://la.playstation.com
 https://latam.playstation.com
 https://latino.playstation.com
 https://library.playstation.com

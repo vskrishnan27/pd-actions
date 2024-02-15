@@ -32,6 +32,7 @@ http://autodiscover.ntd.nintendo.com
 http://badgearcade.nintendo.com
 http://bayonetta.nintendo.com
 http://bayonetta2.nintendo.com
+http://boxboy.nintendo.com
 http://boxingday.nintendo.com
 http://brainage.nintendo.com
 http://bravelydefault.nintendo.com
@@ -59,6 +60,7 @@ http://corporateevents.noa.nintendo.com
 http://cpsia.nintendo.com
 http://crashmo.nintendo.com
 http://crm-livecontent.nintendo.com
+http://crosswordsplus.nintendo.com
 http://csassets.nintendo.com
 http://daemonxmachina.nintendo.com
 http://dd1.dev-argta-2.nintendo.com
@@ -89,7 +91,7 @@ http://downloads.developer.nintendo.com
 http://dragonquest.nintendo.com
 http://dragonquest6.nintendo.com
 http://dragonquest7.nintendo.com
-http://dsioffer.nintendo.com
+http://drluigi.nintendo.com
 http://e3-poll.nintendo.com
 http://e3.nintendo.com
 http://e3src.nintendo.com
@@ -100,6 +102,7 @@ http://ec.paymentweb.nintendo.com
 http://ed193d809cb211e5aa6dac5221900864-sb-dev-studio.mii.nintendo.com
 http://en-americas-support.nintendo.com
 http://es-americas-support.nintendo.com
+http://es.nintendo.com
 http://events.nintendo.com
 http://everoasis.nintendo.com
 http://experience.nintendo.com
@@ -110,6 +113,7 @@ http://ffdos.nintendo.com
 http://ffiv.nintendo.com
 http://ffta.nintendo.com
 http://ffv.nintendo.com
+http://ffvi.nintendo.com
 http://fireemblem.nintendo.com
 http://fireemblemechoes.nintendo.com
 http://fireemblemfates.nintendo.com
@@ -123,7 +127,7 @@ http://forms-test.nintendo.com:8443
 http://forms.nintendo.com
 http://forms.nintendo.com:8080
 http://forms.nintendo.com:8443
-http://fortunestreet.nintendo.com
+http://forums.nintendo.com
 http://fossilfighters.nintendo.com
 http://fossilfightersfrontier.nintendo.com
 http://fr-americas-support.nintendo.com
@@ -131,6 +135,7 @@ http://freakyforms.nintendo.com
 http://gameandwario.nintendo.com
 http://gate-prime.nintendo.com
 http://gate-secure.nintendo.com
+http://gdc2011.nintendo.com
 http://giftcenter.nintendo.com
 http://gifts.nintendo.com
 http://goldensun.nintendo.com
@@ -287,7 +292,6 @@ http://pushmoworld.nintendo.com
 http://puzzleanddragons.nintendo.com
 http://qa.events.nintendo.com
 http://questsp1ique.nintendo.com:443
-http://register.nintendo.com
 http://repair-dev.nintendo.com
 http://repair-uat.nintendo.com
 http://repair.nintendo.com
@@ -360,6 +364,7 @@ http://td1.dev-argta-2.nintendo.com
 http://td1.dev-argta.nintendo.com
 http://test1.publisher.nintendo.com
 http://tetris99.nintendo.com
+http://thewonderful101.nintendo.com
 http://tickets.nintendo.com
 http://uat1.publisher.nintendo.com
 http://vertex-cloud.noa.nintendo.com
@@ -386,6 +391,7 @@ http://www-uat4.nintendo.com
 http://www-uat5.nintendo.com
 http://www.nerd.nintendo.com
 http://www.nintendo.com
+http://xenobladechronicles2.nintendo.com
 http://zelda.nintendo.com
 https://033dbdd425fb7c0250d5defbb40efd1f-sb.baas.nintendo.com
 https://035884b0e79530cac5ed32495d3566bf-sb.baas.nintendo.com
@@ -568,7 +574,6 @@ https://d02b288a1f23a968a85dd997f7a12e62-sb.baas.nintendo.com
 https://d1232b8a819e643c814e8d1b063697ef-sb.baas.nintendo.com
 https://d247e803ec1d2c87c55944728a72e579-sb.baas.nintendo.com
 https://d4b3255b2c3d3e77668984ff3bef1d83-sb.baas.nintendo.com
-https://d6bd036d949825c7a74e2fe7545507ea-sb.baas.nintendo.com
 https://d701a816f4d211e58f138b766ca8eda5-sb.baas.nintendo.com
 https://d755bd7119d550f3186784407829e1ef-sb.baas.nintendo.com
 https://daemonxmachina.nintendo.com
@@ -843,13 +848,12 @@ https://prod-store.nintendo.com
 https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
-https://ptdairwatch.noa.nintendo.com:22
-https://ptdairwatch.noa.nintendo.com:23
-https://ptdairwatch.noa.nintendo.com:3389
-https://ptdairwatch.noa.nintendo.com:445
-https://ptdairwatch.noa.nintendo.com:514
-https://ptdairwatch.noa.nintendo.com:5666
-https://ptdairwatch.noa.nintendo.com:8008
+https://ptdairwatch.noa.nintendo.com
+https://ptdairwatch.noa.nintendo.com:1110
+https://ptdairwatch.noa.nintendo.com:515
+https://ptdairwatch.noa.nintendo.com:548
+https://ptdairwatch.noa.nintendo.com:554
+https://ptdairwatch.noa.nintendo.com:7070
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com

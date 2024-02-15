@@ -192,7 +192,9 @@ http://inloox.freshworks.com
 http://intango.freshworks.com
 http://internalreferral.freshworks.com
 http://intuitionpublishingltd.freshworks.com
+http://investor.freshworks.com
 http://invohealthcare.freshworks.com
+http://ir.freshworks.com
 http://istonline.freshworks.com
 http://jacoinchelp.freshworks.com
 http://janlinders.freshworks.com

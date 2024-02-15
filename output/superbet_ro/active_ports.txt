@@ -86,17 +86,6 @@ promo02.superbet.ro:587
 promo02.superbet.ro:80
 promo02.superbet.ro:993
 promo02.superbet.ro:995
-promotii.superbet.ro:110
-promotii.superbet.ro:143
-promotii.superbet.ro:21
-promotii.superbet.ro:25
-promotii.superbet.ro:443
-promotii.superbet.ro:465
-promotii.superbet.ro:53
-promotii.superbet.ro:587
-promotii.superbet.ro:80
-promotii.superbet.ro:993
-promotii.superbet.ro:995
 qa.incubator.superbet.ro:443
 qa.superbet.ro:443
 qa.superbet.ro:80

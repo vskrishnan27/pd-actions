@@ -6,12 +6,12 @@ http://ablink.serviceinfo.crypto.com
 http://ablink.serviceinfo.crypto.com:8080
 http://advertising.crypto.com
 http://advertising.crypto.com:8080
+http://api.crypto.com
+http://api.crypto.com:8080
 http://app-api.nft.crypto.com
 http://app-api.nft.crypto.com:8080
 http://auth-x.crypto.com
 http://auth-x.crypto.com:8080
-http://auth.crypto.com
-http://auth.crypto.com:8080
 http://auth.tax.crypto.com
 http://auth.tax.crypto.com:8080
 http://black-cat.crypto.com
@@ -35,8 +35,6 @@ http://crypto-coin-info-api.crypto.com
 http://crypto-coin-info-api.crypto.com:8080
 http://crypto-nft-bridge-api.crypto.com
 http://crypto-nft-bridge-api.crypto.com:8080
-http://crypto.com
-http://crypto.com:8080
 http://deriv-api.crypto.com
 http://deriv-api.crypto.com:8080
 http://exchange-docs.crypto.com
@@ -59,6 +57,8 @@ http://limit-order.crypto.com
 http://limit-order.crypto.com:8080
 http://marketing-api.crypto.com
 http://marketing-api.crypto.com:8080
+http://mco.crypto.com
+http://mco.crypto.com:8080
 http://media.nft.crypto.com
 http://media.nft.crypto.com:8080
 http://merchant.crypto.com
@@ -112,6 +112,8 @@ http://static2.crypto.com:8080
 http://status.crypto.com
 http://stream.crypto.com
 http://stream.crypto.com:8080
+http://tax.crypto.com
+http://tax.crypto.com:8080
 http://tpp-tmp.crypto.com
 http://tpp-tmp.crypto.com:8080
 http://uat-content-hub.crypto.com
@@ -138,12 +140,12 @@ https://ablink.serviceinfo.crypto.com
 https://ablink.serviceinfo.crypto.com:8443
 https://advertising.crypto.com
 https://advertising.crypto.com:8443
+https://api.crypto.com
+https://api.crypto.com:8443
 https://app-api.nft.crypto.com
 https://app-api.nft.crypto.com:8443
 https://auth-x.crypto.com
 https://auth-x.crypto.com:8443
-https://auth.crypto.com
-https://auth.crypto.com:8443
 https://auth.tax.crypto.com
 https://auth.tax.crypto.com:8443
 https://black-cat.crypto.com
@@ -167,8 +169,6 @@ https://crypto-coin-info-api.crypto.com
 https://crypto-coin-info-api.crypto.com:8443
 https://crypto-nft-bridge-api.crypto.com
 https://crypto-nft-bridge-api.crypto.com:8443
-https://crypto.com
-https://crypto.com:8443
 https://deriv-api.crypto.com
 https://deriv-api.crypto.com:8443
 https://exchange-docs.crypto.com
@@ -191,6 +191,8 @@ https://limit-order.crypto.com
 https://limit-order.crypto.com:8443
 https://marketing-api.crypto.com
 https://marketing-api.crypto.com:8443
+https://mco.crypto.com
+https://mco.crypto.com:8443
 https://media.nft.crypto.com
 https://media.nft.crypto.com:8443
 https://merchant.crypto.com
@@ -244,6 +246,8 @@ https://static2.crypto.com:8443
 https://status.crypto.com
 https://stream.crypto.com
 https://stream.crypto.com:8443
+https://tax.crypto.com
+https://tax.crypto.com:8443
 https://tpp-tmp.crypto.com
 https://tpp-tmp.crypto.com:8443
 https://uat-content-hub.crypto.com

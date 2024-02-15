@@ -36,6 +36,7 @@ http://email.miro.com
 http://engineering.miro.com
 http://enterpriseadvocates.miro.com
 http://enterpriseadvocates.miro.com:8080
+http://enterpriseadvocates.miro.com:8443
 http://eu01.miro.com
 http://eventhub.eu01.miro.com
 http://eventhub.us01.miro.com
@@ -133,7 +134,6 @@ https://email.info.miro.com
 https://email.miro.com
 https://engineering.miro.com
 https://enterpriseadvocates.miro.com
-https://enterpriseadvocates.miro.com:8443
 https://eu01.miro.com
 https://eventhub.eu01.miro.com
 https://eventhub.us01.miro.com

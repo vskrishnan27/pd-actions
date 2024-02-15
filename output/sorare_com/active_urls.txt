@@ -5,7 +5,6 @@ http://api.sorare.com:8080
 http://api.sorare.com:8443
 http://assets.sorare.com
 http://assets.sorare.com:8080
-http://assets.sorare.com:8443
 http://blog.sorare.com
 http://frontend-assets.sorare.com
 http://frontend-assets.sorare.com:8080
@@ -14,6 +13,7 @@ http://go.sorare.com
 http://go.sorare.com:8080
 http://help.sorare.com
 http://help.sorare.com:8080
+http://help.sorare.com:8443
 http://img.sorare.com
 http://img.sorare.com:8080
 http://img.sorare.com:8443
@@ -35,12 +35,12 @@ https://admin.sorare.com
 https://admin.sorare.com:8443
 https://api.sorare.com
 https://assets.sorare.com
+https://assets.sorare.com:8443
 https://blog.sorare.com
 https://frontend-assets.sorare.com
 https://go.sorare.com
 https://go.sorare.com:8443
 https://help.sorare.com
-https://help.sorare.com:8443
 https://img.sorare.com
 https://mlbguide.sorare.com
 https://mlbguide.sorare.com:8443

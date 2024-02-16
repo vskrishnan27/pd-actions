@@ -7,6 +7,7 @@ http://any1.hostinger.com:8080
 http://any2.hostinger.com
 http://any2.hostinger.com:8080
 http://api.hostinger.com
+http://api.hostinger.com:8443
 http://apstiprina.hostinger.com
 http://assets.hostinger.com
 http://assets.hostinger.com:8443
@@ -15,7 +16,6 @@ http://autenticar.hostinger.com
 http://autentificacion.hostinger.com
 http://autentificar.hostinger.com
 http://auth.hostinger.com
-http://auth.hostinger.com:8080
 http://auth.hostinger.com:8443
 http://autoconfig.mail.hostinger.com
 http://autodiscover.mail.hostinger.com
@@ -121,6 +121,7 @@ http://verifikatsiya.hostinger.com
 http://webhooks.hostinger.com
 http://webhooks.hostinger.com:8443
 http://webmail.hostinger.com
+http://webmail.hostinger.com:8080
 http://webmail1.hostinger.com
 http://webmail1.hostinger.com:8443
 http://whois.hostinger.com
@@ -142,7 +143,6 @@ https://any1.hostinger.com:8443
 https://any2.hostinger.com
 https://any2.hostinger.com:8443
 https://api.hostinger.com
-https://api.hostinger.com:8443
 https://apstiprina.hostinger.com
 https://assets.hostinger.com
 https://autenticacion.hostinger.com

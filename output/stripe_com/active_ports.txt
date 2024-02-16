@@ -211,6 +211,8 @@ northwest.corp.stripe.com:443
 not-a-git.corp.stripe.com:443
 npm-registry.local.corp.stripe.com:443
 ops-docs.corp.stripe.com:443
+pay.stripe.com:443
+pay.stripe.com:80
 payments.stripe.com:443
 payments.stripe.com:80
 pdx.corp.stripe.com:443
@@ -297,8 +299,6 @@ support-conversations.stripe.com:443
 support-conversations.stripe.com:80
 support.stripe.com:443
 support.stripe.com:80
-t.stripe.com:443
-t.stripe.com:80
 terminal-simulator.stripe.com:443
 terminal-simulator.stripe.com:80
 terminal.stripe.com:443

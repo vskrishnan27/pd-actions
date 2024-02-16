@@ -19,6 +19,7 @@ http://api.ope.qa.events.nintendo.com
 http://api.ope.staging.events.nintendo.com
 http://api.qa.events.nintendo.com
 http://api.staging.events.nintendo.com
+http://apps.accounts.nintendo.com
 http://argta.nintendo.com
 http://arms.nintendo.com
 http://artacademy.nintendo.com
@@ -116,6 +117,7 @@ http://ffv.nintendo.com
 http://ffvi.nintendo.com
 http://fireemblem.nintendo.com
 http://fireemblemechoes.nintendo.com
+http://fireemblemfates.nintendo.com
 http://fireemblemwarriors.nintendo.com
 http://flingsmash.nintendo.com
 http://flipnotestudio.nintendo.com
@@ -191,8 +193,10 @@ http://lsapi.nintendo.com
 http://mario.nintendo.com
 http://mario25.nintendo.com
 http://marioanddk.nintendo.com
+http://marioandluigibowsersinsidestory.nintendo.com
 http://marioandluigidreamteam.nintendo.com
 http://marioandluigipaperjam.nintendo.com
+http://marioandluigisuperstarsaga.nintendo.com
 http://mariokart.nintendo.com
 http://mariokart7.nintendo.com
 http://mariokart8deluxe.nintendo.com
@@ -251,15 +255,14 @@ http://nstore.noa.nintendo.com
 http://nwc.nintendo.com
 http://octopathtraveler.nintendo.com
 http://ope-api.events.nintendo.com
-http://ope.dev.events.nintendo.com
 http://ope.events.nintendo.com
-http://ope.qa.events.nintendo.com
 http://ope.staging.events.nintendo.com
 http://p.nintendo.com
 http://pages.ccg.nintendo.com
 http://parentalcontrols.nintendo.com
 http://partners-uat.nintendo.com
 http://partners.nintendo.com
+http://patents.nintendo.com
 http://perf.dev-argta-2.nintendo.com
 http://photodojo.nintendo.com
 http://photoshowcase.nintendo.com
@@ -286,6 +289,7 @@ http://pug-sbjeffsa03.sandbox.svc.publisher.nintendo.com
 http://pug.dev1.svc.publisher.nintendo.com
 http://pug.dev2.svc.publisher.nintendo.com
 http://pushmo.nintendo.com
+http://pushmoworld.nintendo.com
 http://puzzleanddragons.nintendo.com
 http://qa.events.nintendo.com
 http://questsp1ique.nintendo.com:443
@@ -342,7 +346,6 @@ http://static.paymentweb.nintendo.com
 http://steeldiver.nintendo.com
 http://store-jp.nintendo.com
 http://store-jp.nintendo.com:8443
-http://store.nintendo.com
 http://storemedia.nintendo.com
 http://stretchmo.nintendo.com
 http://stylesavvy.nintendo.com
@@ -506,6 +509,7 @@ https://api.ope.staging.events.nintendo.com
 https://api.qa.events.nintendo.com
 https://api.sandbox.dev-argta.nintendo.com
 https://api.staging.events.nintendo.com
+https://apps.accounts.nintendo.com
 https://argta.nintendo.com
 https://arms.nintendo.com
 https://artacademy.nintendo.com
@@ -563,7 +567,6 @@ https://conversation.apps-jp.nintendo.com
 https://corporateevents-dev1.noa.nintendo.com
 https://corporateevents-uat1.noa.nintendo.com
 https://corporateevents.noa.nintendo.com
-https://cpsia.nintendo.com
 https://crashmo.nintendo.com
 https://crm-livecontent.nintendo.com
 https://crosswordsplus.nintendo.com
@@ -663,6 +666,7 @@ https://fossilfightersfrontier.nintendo.com
 https://fr-americas-support.nintendo.com
 https://freakyforms.nintendo.com
 https://gameandwario.nintendo.com
+https://gate-prime.nintendo.com
 https://gate-secure.nintendo.com
 https://gdc2011.nintendo.com
 https://giftcenter.nintendo.com
@@ -806,9 +810,7 @@ https://ntd-gp.ntd.nintendo.com
 https://nwc.nintendo.com
 https://octopathtraveler.nintendo.com
 https://ope-api.events.nintendo.com
-https://ope.dev.events.nintendo.com
 https://ope.events.nintendo.com
-https://ope.qa.events.nintendo.com
 https://ope.staging.events.nintendo.com
 https://orders.activities.prod.gbo.noa.nintendo.com
 https://p.nintendo.com
@@ -848,10 +850,9 @@ https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
 https://ptdairwatch.noa.nintendo.com:111
-https://ptdairwatch.noa.nintendo.com:23
+https://ptdairwatch.noa.nintendo.com:32768
 https://ptdairwatch.noa.nintendo.com:427
-https://ptdairwatch.noa.nintendo.com:49154
-https://ptdairwatch.noa.nintendo.com:5666
+https://ptdairwatch.noa.nintendo.com:8080
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com
@@ -922,7 +923,6 @@ https://starlight.nintendo.com
 https://static.paymentweb.nintendo.com
 https://steeldiver.nintendo.com
 https://store-jp.nintendo.com
-https://store.nintendo.com
 https://storemedia.nintendo.com
 https://stretchmo.nintendo.com
 https://stylesavvy.nintendo.com

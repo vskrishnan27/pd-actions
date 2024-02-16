@@ -99,7 +99,6 @@ http://monocle-qa.chime.com:8080
 http://monocle-qa.chime.com:8443
 http://monocle.chime.com
 http://monocle.chime.com:8080
-http://monocle.chime.com:8443
 http://penny-dev1.chime.com
 http://penny-dev1.chime.com:8080
 http://penny-dev1.chime.com:8443
@@ -138,6 +137,7 @@ http://wp-dev3.chime.com:8080
 http://wp-dev3.chime.com:8443
 http://wp-dev4.chime.com
 http://wp-dev4.chime.com:8080
+http://wp-dev4.chime.com:8443
 http://wp-dev5.chime.com
 http://wp-dev5.chime.com:8080
 http://wp-dev5.chime.com:8443
@@ -194,6 +194,7 @@ https://mobile-state.chime.com
 https://monocle-dev1.chime.com
 https://monocle-qa.chime.com
 https://monocle.chime.com
+https://monocle.chime.com:8443
 https://nd.chime.com
 https://penny-dev1.chime.com
 https://penny-qa.chime.com
@@ -210,7 +211,6 @@ https://wp-dev1.chime.com
 https://wp-dev2.chime.com
 https://wp-dev3.chime.com
 https://wp-dev4.chime.com
-https://wp-dev4.chime.com:8443
 https://wp-dev5.chime.com
 https://wp-integ.chime.com
 https://wp-qa.chime.com

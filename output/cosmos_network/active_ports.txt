@@ -166,10 +166,6 @@ cors.cosmos.network:443
 cors.cosmos.network:80
 cors.cosmos.network:8080
 cors.cosmos.network:8443
-cosmos.network:443
-cosmos.network:80
-cosmos.network:8080
-cosmos.network:8443
 dev.rest.bigbang.cosmos.network:443
 dev.rest.bigbang.cosmos.network:80
 dev.rest.bigbang.cosmos.network:8080

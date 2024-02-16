@@ -214,6 +214,8 @@ http://courier.shopify.com
 http://courier.shopify.com:8080
 http://crafted.shopify.com
 http://crafted.shopify.com:8080
+http://cs.shopify.com
+http://cs.shopify.com:8080
 http://cs.staging.shopify.com
 http://cs.staging.shopify.com:8080
 http://cselb.cs.shopify.com
@@ -255,6 +257,8 @@ http://devs.shopify.com
 http://devs.shopify.com:8080
 http://dk.shopify.com
 http://dk.shopify.com:8080
+http://dn.shopify.com
+http://dn.shopify.com:8080
 http://dns.ash.shopify.com
 http://dns.ash.shopify.com:8080
 http://docs.shopify.com
@@ -440,6 +444,8 @@ http://kiersten.shopify.com
 http://kiersten.shopify.com:8080
 http://l.ssl.shopify.com
 http://l.ssl.shopify.com:8080
+http://launch.shopify.com
+http://launch.shopify.com:8080
 http://launchpad.shopify.com
 http://launchpad.shopify.com:8080
 http://lbperf1.ash.shopify.com
@@ -511,8 +517,8 @@ http://milestones.shopify.com
 http://milestones.shopify.com:8080
 http://mobile.shopify.com
 http://mobile.shopify.com:8080
-http://mta2.email.shopify.com
-http://mta2.email.shopify.com:8080
+http://mta.email.shopify.com
+http://mta.email.shopify.com:8080
 http://mta3.email.shopify.com
 http://mta3.email.shopify.com:8080
 http://mta4.email.shopify.com
@@ -560,8 +566,6 @@ http://partner.shopify.com
 http://partner.shopify.com:8080
 http://partnerhub-japan.shopify.com
 http://partnerhub.shopify.com
-http://partners.shopify.com
-http://partners.shopify.com:8080
 http://pauchendelicacies.shopify.com
 http://pauchendelicacies.shopify.com:8080
 http://pay.shopify.com
@@ -910,8 +914,6 @@ http://win.shopify.com
 http://win.shopify.com:8080
 http://windsor.shopify.com
 http://windsor.shopify.com:8080
-http://ww.shopify.com
-http://ww.shopify.com:8080
 http://www.act.shopify.com
 http://www.act.shopify.com:8080
 http://www.badeaux.shopify.com
@@ -1142,6 +1144,8 @@ https://courier.shopify.com
 https://courier.shopify.com:8443
 https://crafted.shopify.com
 https://crafted.shopify.com:8443
+https://cs.shopify.com
+https://cs.shopify.com:8443
 https://cs.staging.shopify.com
 https://cs.staging.shopify.com:8443
 https://cselb.cs.shopify.com
@@ -1183,6 +1187,8 @@ https://devs.shopify.com
 https://devs.shopify.com:8443
 https://dk.shopify.com
 https://dk.shopify.com:8443
+https://dn.shopify.com
+https://dn.shopify.com:8443
 https://dns.ash.shopify.com
 https://dns.ash.shopify.com:8443
 https://docs.shopify.com
@@ -1371,6 +1377,8 @@ https://kiersten.shopify.com
 https://kiersten.shopify.com:8443
 https://l.ssl.shopify.com
 https://l.ssl.shopify.com:8443
+https://launch.shopify.com
+https://launch.shopify.com:8443
 https://launchpad.shopify.com
 https://launchpad.shopify.com:8443
 https://lbperf1.ash.shopify.com
@@ -1442,8 +1450,8 @@ https://milestones.shopify.com
 https://milestones.shopify.com:8443
 https://mobile.shopify.com
 https://mobile.shopify.com:8443
-https://mta2.email.shopify.com
-https://mta2.email.shopify.com:8443
+https://mta.email.shopify.com
+https://mta.email.shopify.com:8443
 https://mta3.email.shopify.com
 https://mta3.email.shopify.com:8443
 https://mta4.email.shopify.com
@@ -1491,8 +1499,6 @@ https://partner.shopify.com
 https://partner.shopify.com:8443
 https://partnerhub-japan.shopify.com
 https://partnerhub.shopify.com
-https://partners.shopify.com
-https://partners.shopify.com:8443
 https://pauchendelicacies.shopify.com
 https://pauchendelicacies.shopify.com:8443
 https://pay.shopify.com
@@ -1842,8 +1848,6 @@ https://win.shopify.com
 https://win.shopify.com:8443
 https://windsor.shopify.com
 https://windsor.shopify.com:8443
-https://ww.shopify.com
-https://ww.shopify.com:8443
 https://www.act.shopify.com
 https://www.act.shopify.com:8443
 https://www.badeaux.shopify.com

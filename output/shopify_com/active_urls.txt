@@ -156,6 +156,8 @@ http://changelog.shopify.com
 http://changelog.shopify.com:8080
 http://chat.shopify.com
 http://chat.shopify.com:8080
+http://checkout.hardware.shopify.com
+http://checkout.hardware.shopify.com:8080
 http://checkout.shopify.com
 http://checkout.shopify.com:8080
 http://chi.shopify.com
@@ -166,6 +168,8 @@ http://classic-help-staging.shopify.com
 http://classic-help.shopify.com
 http://classifieds.shopify.com
 http://classifieds.shopify.com:8080
+http://click.email.shopify.com
+http://click.email.shopify.com:8080
 http://cms.everest.shopify.com
 http://cms.everest.shopify.com:8080
 http://cms.shopify.com
@@ -257,8 +261,6 @@ http://devs.shopify.com
 http://devs.shopify.com:8080
 http://dk.shopify.com
 http://dk.shopify.com:8080
-http://dn.shopify.com
-http://dn.shopify.com:8080
 http://dns.ash.shopify.com
 http://dns.ash.shopify.com:8080
 http://docs.shopify.com
@@ -444,8 +446,6 @@ http://kiersten.shopify.com
 http://kiersten.shopify.com:8080
 http://l.ssl.shopify.com
 http://l.ssl.shopify.com:8080
-http://launch.shopify.com
-http://launch.shopify.com:8080
 http://launchpad.shopify.com
 http://launchpad.shopify.com:8080
 http://lbperf1.ash.shopify.com
@@ -566,6 +566,8 @@ http://partner.shopify.com
 http://partner.shopify.com:8080
 http://partnerhub-japan.shopify.com
 http://partnerhub.shopify.com
+http://partners.shopify.com
+http://partners.shopify.com:8080
 http://pauchendelicacies.shopify.com
 http://pauchendelicacies.shopify.com:8080
 http://pay.shopify.com
@@ -783,6 +785,8 @@ http://timber.shopify.com
 http://timber.shopify.com:8080
 http://tmt.shopify.com
 http://tmt.shopify.com:8080
+http://toronto.shopify.com
+http://toronto.shopify.com:8080
 http://torontoretailtour.shopify.com
 http://torontoretailtour.shopify.com:8080
 http://toykingdom.shopify.com
@@ -914,6 +918,8 @@ http://win.shopify.com
 http://win.shopify.com:8080
 http://windsor.shopify.com
 http://windsor.shopify.com:8080
+http://ww.shopify.com
+http://ww.shopify.com:8080
 http://www.act.shopify.com
 http://www.act.shopify.com:8080
 http://www.badeaux.shopify.com
@@ -1086,6 +1092,8 @@ https://changelog.shopify.com
 https://changelog.shopify.com:8443
 https://chat.shopify.com
 https://chat.shopify.com:8443
+https://checkout.hardware.shopify.com
+https://checkout.hardware.shopify.com:8443
 https://checkout.shopify.com
 https://checkout.shopify.com:8443
 https://chi.shopify.com
@@ -1096,6 +1104,8 @@ https://classic-help-staging.shopify.com
 https://classic-help.shopify.com
 https://classifieds.shopify.com
 https://classifieds.shopify.com:8443
+https://click.email.shopify.com
+https://click.email.shopify.com:8443
 https://cms.everest.shopify.com
 https://cms.everest.shopify.com:8443
 https://cms.shopify.com
@@ -1187,8 +1197,6 @@ https://devs.shopify.com
 https://devs.shopify.com:8443
 https://dk.shopify.com
 https://dk.shopify.com:8443
-https://dn.shopify.com
-https://dn.shopify.com:8443
 https://dns.ash.shopify.com
 https://dns.ash.shopify.com:8443
 https://docs.shopify.com
@@ -1377,8 +1385,6 @@ https://kiersten.shopify.com
 https://kiersten.shopify.com:8443
 https://l.ssl.shopify.com
 https://l.ssl.shopify.com:8443
-https://launch.shopify.com
-https://launch.shopify.com:8443
 https://launchpad.shopify.com
 https://launchpad.shopify.com:8443
 https://lbperf1.ash.shopify.com
@@ -1499,6 +1505,8 @@ https://partner.shopify.com
 https://partner.shopify.com:8443
 https://partnerhub-japan.shopify.com
 https://partnerhub.shopify.com
+https://partners.shopify.com
+https://partners.shopify.com:8443
 https://pauchendelicacies.shopify.com
 https://pauchendelicacies.shopify.com:8443
 https://pay.shopify.com
@@ -1717,6 +1725,8 @@ https://timber.shopify.com
 https://timber.shopify.com:8443
 https://tmt.shopify.com
 https://tmt.shopify.com:8443
+https://toronto.shopify.com
+https://toronto.shopify.com:8443
 https://torontoretailtour.shopify.com
 https://torontoretailtour.shopify.com:8443
 https://toykingdom.shopify.com
@@ -1848,6 +1858,8 @@ https://win.shopify.com
 https://win.shopify.com:8443
 https://windsor.shopify.com
 https://windsor.shopify.com:8443
+https://ww.shopify.com
+https://ww.shopify.com:8443
 https://www.act.shopify.com
 https://www.act.shopify.com:8443
 https://www.badeaux.shopify.com

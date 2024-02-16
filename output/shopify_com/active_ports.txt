@@ -313,6 +313,10 @@ chat.shopify.com:443
 chat.shopify.com:80
 chat.shopify.com:8080
 chat.shopify.com:8443
+checkout.hardware.shopify.com:443
+checkout.hardware.shopify.com:80
+checkout.hardware.shopify.com:8080
+checkout.hardware.shopify.com:8443
 checkout.shopify.com:443
 checkout.shopify.com:80
 checkout.shopify.com:8080
@@ -333,6 +337,10 @@ classifieds.shopify.com:443
 classifieds.shopify.com:80
 classifieds.shopify.com:8080
 classifieds.shopify.com:8443
+click.email.shopify.com:443
+click.email.shopify.com:80
+click.email.shopify.com:8080
+click.email.shopify.com:8443
 cms.everest.shopify.com:443
 cms.everest.shopify.com:80
 cms.everest.shopify.com:8080
@@ -515,10 +523,6 @@ dk.shopify.com:443
 dk.shopify.com:80
 dk.shopify.com:8080
 dk.shopify.com:8443
-dn.shopify.com:443
-dn.shopify.com:80
-dn.shopify.com:8080
-dn.shopify.com:8443
 dns.ash.shopify.com:443
 dns.ash.shopify.com:80
 dns.ash.shopify.com:8080
@@ -895,10 +899,6 @@ l.ssl.shopify.com:443
 l.ssl.shopify.com:80
 l.ssl.shopify.com:8080
 l.ssl.shopify.com:8443
-launch.shopify.com:443
-launch.shopify.com:80
-launch.shopify.com:8080
-launch.shopify.com:8443
 launchpad.shopify.com:443
 launchpad.shopify.com:80
 launchpad.shopify.com:8080
@@ -1140,6 +1140,10 @@ partnerhub-japan.shopify.com:443
 partnerhub-japan.shopify.com:80
 partnerhub.shopify.com:443
 partnerhub.shopify.com:80
+partners.shopify.com:443
+partners.shopify.com:80
+partners.shopify.com:8080
+partners.shopify.com:8443
 pauchendelicacies.shopify.com:443
 pauchendelicacies.shopify.com:80
 pauchendelicacies.shopify.com:8080
@@ -1576,6 +1580,10 @@ tmt.shopify.com:443
 tmt.shopify.com:80
 tmt.shopify.com:8080
 tmt.shopify.com:8443
+toronto.shopify.com:443
+toronto.shopify.com:80
+toronto.shopify.com:8080
+toronto.shopify.com:8443
 torontoretailtour.shopify.com:443
 torontoretailtour.shopify.com:80
 torontoretailtour.shopify.com:8080
@@ -1838,6 +1846,10 @@ windsor.shopify.com:443
 windsor.shopify.com:80
 windsor.shopify.com:8080
 windsor.shopify.com:8443
+ww.shopify.com:443
+ww.shopify.com:80
+ww.shopify.com:8080
+ww.shopify.com:8443
 www.act.shopify.com:443
 www.act.shopify.com:80
 www.act.shopify.com:8080

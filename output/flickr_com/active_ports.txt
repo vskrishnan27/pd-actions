@@ -163,8 +163,6 @@ test-jubilee.flickr.com:443
 test-jubilee.flickr.com:80
 trunk.guce.flickr.com:443
 trunk.guce.flickr.com:80
-up-resume.flickr.com:443
-up-resume.flickr.com:80
 up.flickr.com:443
 up.flickr.com:80
 widgets.flickr.com:443

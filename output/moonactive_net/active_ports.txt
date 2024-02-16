@@ -19,10 +19,13 @@ social-images.moonactive.net:8443
 static.moonactive.net:443
 static.moonactive.net:80
 vik-analytics-gke.moonactive.net:443
+vik-analytics-gke.moonactive.net:79
 vik-analytics-gke.moonactive.net:80
 vik-analytics.moonactive.net:443
+vik-analytics.moonactive.net:79
 vik-analytics.moonactive.net:80
 vik-ca.moonactive.net:443
+vik-ca.moonactive.net:79
 vik-ca.moonactive.net:80
 vik-game.moonactive.net:443
 vik-game.moonactive.net:80

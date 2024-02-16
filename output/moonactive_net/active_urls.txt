@@ -1,14 +1,15 @@
 http://client-metrics.moonactive.net
-http://client-metrics.moonactive.net:8443
 http://cm-minigames.moonactive.net
 http://moonactive.net
 http://moonactive.net:8080
 http://social-images.moonactive.net
+http://social-images.moonactive.net:8080
 http://social-images.moonactive.net:8443
 http://static.moonactive.net
 http://vik-game.moonactive.net
 http://vik-game.moonactive.net:8443
 https://client-metrics.moonactive.net
+https://client-metrics.moonactive.net:8443
 https://cm-analytics.moonactive.net
 https://cm-gs-analytics.moonactive.net
 https://cm-minigames.moonactive.net

@@ -93,6 +93,7 @@ http://jp.business.trustpilot.com
 http://jp.trustpilot.com
 http://la.business.trustpilot.com
 http://legal-preview.trustpilot.com
+http://legal.trustpilot.com
 http://link.trustpilot.com
 http://links.trustpilot.com
 http://looker.trustpilot.com
@@ -125,6 +126,7 @@ http://pl.trustpilot.com
 http://portalmailchimpfeed.business-preview.trustpilot.com
 http://portalmailchimpfeed.business-preview.trustpilot.com:443
 http://press.trustpilot.com
+http://preview.trustpilot.com
 http://productreviews-attachments.trustpilot.com
 http://productreviews.trustpilot.com
 http://productreviewswidgets.trustpilot.com
@@ -152,6 +154,7 @@ http://trustnet.trustpilot.com
 http://uk.business.trustpilot.com
 http://uk.legal.trustpilot.com
 http://uk.trustpilot.com
+http://us.business.trustpilot.com
 http://user-images.trustpilot.com
 http://widget.trustpilot.com
 http://wildcard-configurablehttpredirector.trustpilot.com
@@ -250,6 +253,7 @@ https://jp.business.trustpilot.com
 https://jp.trustpilot.com
 https://la.business.trustpilot.com
 https://legal-preview.trustpilot.com
+https://legal.trustpilot.com
 https://link.trustpilot.com
 https://links.trustpilot.com
 https://looker.trustpilot.com
@@ -279,6 +283,7 @@ https://pl.business.trustpilot.com
 https://pl.trustpilot.com
 https://ponychallenge.trustpilot.com
 https://press.trustpilot.com
+https://preview.trustpilot.com
 https://productreviews-attachments.trustpilot.com
 https://productreviews.trustpilot.com
 https://productreviewswidgets.trustpilot.com
@@ -304,6 +309,7 @@ https://trustnet.trustpilot.com
 https://uk.business.trustpilot.com
 https://uk.legal.trustpilot.com
 https://uk.trustpilot.com
+https://us.business.trustpilot.com
 https://user-images.trustpilot.com
 https://widget.trustpilot.com
 https://wildcard-configurablehttpredirector.trustpilot.com

@@ -77,6 +77,7 @@ http://download.aol.com
 http://downloaded.aol.com
 http://downloads.aol.com
 http://dynamic.aol.com
+http://e.aol.com
 http://ellen-startpage.aol.com
 http://ellen.aol.com
 http://engineering.aol.com
@@ -93,7 +94,6 @@ http://feeds.contenthub.aol.com
 http://finance.aol.com
 http://firefox-startpage.aol.com
 http://fireworks.aol.com
-http://free.aol.com
 http://freedompop.aol.com
 http://games.aol.com
 http://get.aol.com
@@ -116,15 +116,10 @@ http://hp-consumer.my.aol.com
 http://hp-desktop.aol.com
 http://hp-laptop.aol.com
 http://hp.aol.com
-http://in.aol.com
 http://industry.aol.com
-http://inhouse.aol.com
-http://inside.aol.com
 http://ipad.aol.com
-http://iphone.aol.com
 http://ir.aol.com
 http://jira.ops.aol.com
-http://jobs.aol.com
 http://jp.aol.com
 http://jp.learn.onedisplay.aol.com
 http://jp.onedisplay.aol.com
@@ -135,7 +130,6 @@ http://latino-n.welcomescreen.aol.com
 http://latino-w.welcomescreen.aol.com
 http://latino.aol.com
 http://latino.welcomescreen.aol.com
-http://learn.onedisplay.aol.com
 http://lifestore.aol.com
 http://lifestream.aol.com
 http://link.aol.com
@@ -150,6 +144,7 @@ http://m.verizon-b.aol.com
 http://m.verizon.aol.com
 http://m2.aol.com
 http://magnet.aol.com
+http://mail.aol.com
 http://mail.latino.aol.com
 http://mailpreview.aol.com
 http://main-n.welcomescreen.aol.com
@@ -165,16 +160,15 @@ http://mobile.aol.com
 http://monsterhelp.aol.com
 http://movies.aol.com
 http://music.aol.com
+http://my.aol.com
 http://my.screenname.aol.com
 http://myaccount.aol.com
 http://mybenefits.aol.com
 http://mypoints-startpage.aol.com
-http://n.bv.welcomescreen.aol.com
 http://n.latino.welcomescreen.aol.com
 http://n.main.welcomescreen.aol.com
 http://n.sb.welcomescreen.aol.com
 http://netscape.aol.com
-http://news.aol.com
 http://oc-startpage.aol.com
 http://oidc.billupdate.aol.com
 http://oidc.checkout.aol.com
@@ -230,6 +224,7 @@ http://preview.mail.aol.com
 http://pricecheck.aol.com
 http://prod.myaccount.pse.public.aol.com
 http://prod.origin.help.aol.com
+http://productcentral.aol.com
 http://projectphoenix.aol.com
 http://ps-search.aol.com
 http://pslca.web.aol.com
@@ -245,7 +240,6 @@ http://recipes.aol.com
 http://refer.aol.com
 http://register.aol.com
 http://registration.aol.com
-http://remotesupport.aol.com
 http://richmedia.aol.com
 http://rm.aol.com
 http://rss.aol.com
@@ -263,7 +257,6 @@ http://share.aol.com
 http://shield.aol.com
 http://shop.aol.com
 http://shopping.aol.com
-http://site.aol.com
 http://skywire.aol.com
 http://sony.aol.com
 http://spinner.aol.com
@@ -298,16 +291,15 @@ http://stage.origin.help.aol.com
 http://start.aol.com
 http://static.onecreative.aol.com
 http://subscribe.aol.com
-http://t.aol.com
 http://t.verizon-b.aol.com
 http://t.verizon.aol.com
 http://team.aol.com
-http://television.aol.com
 http://thanksgiving.aol.com
 http://thevoiceof.aol.com
 http://thr-startpage.aol.com
 http://thunderbird-startpage.aol.com
 http://tickets.aol.com
+http://tv.aol.com
 http://tw.aol.com
 http://uk.aol.com
 http://uk.learn.onedisplay.aol.com
@@ -328,6 +320,7 @@ http://w.sb.welcomescreen.aol.com
 http://w.verizon.aol.com
 http://wap.aol.com
 http://weather.aol.com
+http://webmail.aol.com
 http://webmail1.mail.aol.com
 http://webmail1.webmail.aol.com
 http://welcome.aol.com
@@ -406,7 +399,6 @@ https://compaq-desktop.release.sandbox.aol.com
 https://compaq-desktop.staging.sandbox.aol.com
 https://compaq-laptop.aol.com
 https://compaq-laptop.qa.sandbox.aol.com
-https://compaq-laptop.release.sandbox.aol.com
 https://compaq-laptop.staging.sandbox.aol.com
 https://computercheckup.aol.com
 https://connect.aol.com
@@ -427,6 +419,7 @@ https://download.aol.com
 https://downloaded.aol.com
 https://downloads.aol.com
 https://dynamic.aol.com
+https://e.aol.com
 https://ellen-startpage.aol.com
 https://ellen.aol.com
 https://engineering.aol.com
@@ -443,7 +436,6 @@ https://firefox-startpage.qa.sandbox.aol.com
 https://firefox-startpage.release.sandbox.aol.com
 https://firefox-startpage.staging.sandbox.aol.com
 https://fireworks.aol.com
-https://free.aol.com
 https://freedompop.aol.com
 https://games.aol.com
 https://get.aol.com
@@ -466,27 +458,17 @@ https://home.aol.com
 https://homepage.aol.com
 https://homepage.qa.sandbox.aol.com
 https://homepage.release.sandbox.aol.com
-https://homepage.staging.sandbox.aol.com
 https://homes.aol.com
 https://hp-consumer.my.aol.com
 https://hp-desktop.aol.com
 https://hp-desktop.qa.sandbox.aol.com
-https://hp-desktop.release.sandbox.aol.com
-https://hp-desktop.staging.sandbox.aol.com
 https://hp-laptop.aol.com
 https://hp-laptop.qa.sandbox.aol.com
-https://hp-laptop.release.sandbox.aol.com
-https://hp-laptop.staging.sandbox.aol.com
 https://hp.aol.com
-https://in.aol.com
 https://industry.aol.com
-https://inhouse.aol.com
-https://inside.aol.com
 https://ipad.aol.com
-https://iphone.aol.com
 https://ir.aol.com
 https://jira.ops.aol.com
-https://jobs.aol.com
 https://jp.aol.com
 https://jp.learn.onedisplay.aol.com
 https://jp.onedisplay.aol.com
@@ -497,7 +479,6 @@ https://latino-n.welcomescreen.aol.com
 https://latino-w.welcomescreen.aol.com
 https://latino.aol.com
 https://latino.welcomescreen.aol.com
-https://learn.onedisplay.aol.com
 https://lifestore.aol.com
 https://lifestream.aol.com
 https://link.aol.com
@@ -518,6 +499,7 @@ https://m.verizon.release.sandbox.aol.com
 https://m.verizon.staging.sandbox.aol.com
 https://m2.aol.com
 https://magnet.aol.com
+https://mail.aol.com
 https://mail.latino.aol.com
 https://mailpreview.aol.com
 https://main-n.welcomescreen.aol.com
@@ -533,11 +515,11 @@ https://mobile.aol.com
 https://monsterhelp.aol.com
 https://movies.aol.com
 https://music.aol.com
+https://my.aol.com
 https://my.screenname.aol.com
 https://myaccount.aol.com
 https://mybenefits.aol.com
 https://mypoints-startpage.aol.com
-https://n.bv.welcomescreen.aol.com
 https://n.latino.welcomescreen.aol.com
 https://n.main.welcomescreen.aol.com
 https://n.main.welcomescreen.qa.sandbox.aol.com
@@ -550,7 +532,6 @@ https://n.sb.welcomescreen.staging.sandbox.aol.com
 https://ncid.dev.obi.aol.com
 https://ncid.qat.obi.aol.com
 https://netscape.aol.com
-https://news.aol.com
 https://node-express-staging.api.aol.com
 https://oc-startpage.aol.com
 https://oidc.billupdate.aol.com
@@ -609,6 +590,7 @@ https://pricecheck.aol.com
 https://prod.msicontent.pse.public.aol.com
 https://prod.myaccount.pse.public.aol.com
 https://prod.origin.help.aol.com
+https://productcentral.aol.com
 https://projectphoenix.aol.com
 https://ps-search.aol.com
 https://pslca.web.aol.com
@@ -629,7 +611,6 @@ https://recipes.aol.com
 https://refer.aol.com
 https://register.aol.com
 https://registration.aol.com
-https://remotesupport.aol.com
 https://richmedia.aol.com
 https://rm.aol.com
 https://rpc-int.mail.aol.com
@@ -649,7 +630,6 @@ https://share.aol.com
 https://shield.aol.com
 https://shop.aol.com
 https://shopping.aol.com
-https://site.aol.com
 https://skywire.aol.com
 https://sony.aol.com
 https://spinner.aol.com
@@ -688,11 +668,9 @@ https://stage.origin.help.aol.com
 https://start.aol.com
 https://static.onecreative.aol.com
 https://subscribe.aol.com
-https://t.aol.com
 https://t.verizon-b.aol.com
 https://t.verizon.aol.com
 https://team.aol.com
-https://television.aol.com
 https://thanksgiving.aol.com
 https://thevoiceof.aol.com
 https://thr-startpage.aol.com
@@ -701,6 +679,7 @@ https://tickets.aol.com
 https://trunk.guce.aol.com
 https://trunk.guce.login.aol.com
 https://trunk.guce.oneadserver.aol.com
+https://tv.aol.com
 https://tw.aol.com
 https://uk.aol.com
 https://uk.learn.onedisplay.aol.com
@@ -721,6 +700,7 @@ https://w.sb.welcomescreen.aol.com
 https://w.verizon.aol.com
 https://wap.aol.com
 https://weather.aol.com
+https://webmail.aol.com
 https://webmail1.mail.aol.com
 https://webmail1.webmail.aol.com
 https://welcome.aol.com

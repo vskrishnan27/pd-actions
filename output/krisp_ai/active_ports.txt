@@ -2,10 +2,6 @@ account.krisp.ai:443
 account.krisp.ai:80
 account.krisp.ai:8080
 account.krisp.ai:8443
-analytics.krisp.ai:443
-analytics.krisp.ai:80
-analytics.krisp.ai:8080
-analytics.krisp.ai:8443
 api.krisp.ai:443
 api.krisp.ai:80
 api.krisp.ai:8080
@@ -78,6 +74,10 @@ metabase.krisp.ai:443
 metabase.krisp.ai:80
 metabase.krisp.ai:8080
 metabase.krisp.ai:8443
+new.account.krisp.ai:443
+new.account.krisp.ai:80
+new.account.krisp.ai:8080
+new.account.krisp.ai:8443
 old.account.krisp.ai:443
 old.account.krisp.ai:80
 old.account.krisp.ai:8080
@@ -164,6 +164,10 @@ ui.krisp.ai:443
 ui.krisp.ai:80
 ui.krisp.ai:8080
 ui.krisp.ai:8443
+upld.krisp.ai:443
+upld.krisp.ai:80
+upld.krisp.ai:8080
+upld.krisp.ai:8443
 upload.krisp.ai:443
 upload.krisp.ai:80
 url5145.krisp.ai:443

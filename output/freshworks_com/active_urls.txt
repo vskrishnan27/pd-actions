@@ -252,7 +252,6 @@ http://printbarato.freshworks.com
 http://priorityitsupport.freshworks.com
 http://ptsbv.freshworks.com
 http://publons.freshworks.com
-http://qcommission-reports.freshworks.com
 http://quizzes.freshworks.com
 http://radicallives.freshworks.com
 http://railyatri.freshworks.com
@@ -303,7 +302,6 @@ http://trust.internal.freshworks.com
 http://ubx-au.freshworks.com
 http://ubx-in.freshworks.com
 http://ubx-mec.freshworks.com
-http://ubx.freshworks.com
 http://uecelectronics.freshworks.com
 http://umt1.freshworks.com
 http://unacademy-team.freshworks.com
@@ -552,7 +550,6 @@ https://intango.freshworks.com
 https://integrations.freshworks.com
 https://internalreferral.freshworks.com
 https://intuitionpublishingltd.freshworks.com
-https://investor.freshworks.com
 https://invohealthcare.freshworks.com
 https://istonline.freshworks.com
 https://jacoinchelp.freshworks.com
@@ -610,7 +607,6 @@ https://printbarato.freshworks.com
 https://priorityitsupport.freshworks.com
 https://ptsbv.freshworks.com
 https://publons.freshworks.com
-https://qcommission-reports.freshworks.com
 https://quality.freshworks.com
 https://quizzes.freshworks.com
 https://radicallives.freshworks.com
@@ -661,7 +657,6 @@ https://trust.internal.freshworks.com
 https://ubx-au.freshworks.com
 https://ubx-in.freshworks.com
 https://ubx-mec.freshworks.com
-https://ubx.freshworks.com
 https://uecelectronics.freshworks.com
 https://umt1.freshworks.com
 https://unacademy-team.freshworks.com

@@ -10,6 +10,7 @@ betaapi.developers.miro.com
 bid46k4.3782705m.miro.com
 bid46k4.marketing.miro.com
 board-recording-storage.miro.com
+board-recording-storage.us.miro.com
 brand.miro.com
 brandkit.miro.com
 buf.miro.com

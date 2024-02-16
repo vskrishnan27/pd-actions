@@ -23,6 +23,8 @@ bid46k4.marketing.miro.com:443
 bid46k4.marketing.miro.com:80
 board-recording-storage.miro.com:443
 board-recording-storage.miro.com:80
+board-recording-storage.us.miro.com:443
+board-recording-storage.us.miro.com:80
 brand.miro.com:443
 brand.miro.com:80
 brandkit.miro.com:443
@@ -118,6 +120,8 @@ lubo.miro.com:443
 lubo.miro.com:80
 meet.miro.com:443
 meet.miro.com:80
+miro.com:443
+miro.com:80
 mobile.miro.com:443
 mobile.miro.com:80
 mwww.miro.com:443

@@ -25,6 +25,7 @@ http://internal.sandbox.delivery.indrive.com
 http://job.indrive.com
 http://landing.indrive.com
 http://lp-food.indrive.com
+http://lp-services.indrive.com
 http://media.indrive.com
 http://promo.indrive.com
 http://promotion.indrive.com
@@ -35,7 +36,6 @@ http://rideshare.indrive.com
 http://s.indrive.com
 http://services.indrive.com
 http://servicos.indrive.com
-http://servicos.indrive.com:443
 http://sgtm.indrive.com
 http://share.indrive.com
 http://sharetrip.indrive.com
@@ -84,6 +84,7 @@ https://internal.sandbox.delivery.indrive.com
 https://job.indrive.com
 https://landing.indrive.com
 https://lp-food.indrive.com
+https://lp-services.indrive.com
 https://media.indrive.com
 https://promo.indrive.com
 https://promotion.indrive.com
@@ -93,6 +94,7 @@ https://ref.indrive.com
 https://rideshare.indrive.com
 https://s.indrive.com
 https://services.indrive.com
+https://servicos.indrive.com
 https://sgtm.indrive.com
 https://share.indrive.com
 https://sharetrip.indrive.com

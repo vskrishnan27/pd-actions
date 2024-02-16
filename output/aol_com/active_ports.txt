@@ -182,8 +182,6 @@ downloads.aol.com:443
 downloads.aol.com:80
 dynamic.aol.com:443
 dynamic.aol.com:80
-e.aol.com:443
-e.aol.com:80
 east.us.imap.aol.com:993
 east.us.pop.aol.com:993
 east.us.smtp.aol.com:25
@@ -282,6 +280,7 @@ hp-laptop.release.sandbox.aol.com:443
 hp-laptop.staging.sandbox.aol.com:443
 hp.aol.com:443
 hp.aol.com:80
+imap.aol.com:993
 imap.ar.aol.com:993
 imap.au.aol.com:993
 imap.br.aol.com:993
@@ -470,6 +469,16 @@ olympics.aol.com:443
 olympics.aol.com:80
 one-qa.aol.com:443
 one-qa.aol.com:80
+one.aol.com:443
+one.aol.com:80
+oneadserver.aol.com:443
+oneadserver.aol.com:80
+oneapi-qa.aol.com:443
+oneapi.aol.com:443
+onedisplay.aol.com:443
+onedisplay.aol.com:80
+onemobile.aol.com:443
+onemobile.aol.com:80
 onevideo.aol.com:443
 onevideo.aol.com:80
 ops.aol.com:443
@@ -534,8 +543,6 @@ prod.partners-nlb.pse.public.aol.com:443
 prod.partners-nlb.pse.public.aol.com:8443
 prod.partners-tg.pse.public.aol.com:443
 prod.partners-tg.pse.public.aol.com:8443
-productcentral.aol.com:443
-productcentral.aol.com:80
 projectphoenix.aol.com:443
 projectphoenix.aol.com:80
 ps-search.aol.com:443
@@ -592,6 +599,8 @@ sb-n.welcomescreen.aol.com:443
 sb-n.welcomescreen.aol.com:80
 sb-w.welcomescreen.aol.com:443
 sb-w.welcomescreen.aol.com:80
+sb.welcomescreen.aol.com:443
+sb.welcomescreen.aol.com:80
 scare.obi.aol.com:443
 school.aol.com:443
 school.aol.com:80
@@ -719,6 +728,8 @@ static.onecreative.aol.com:80
 subscribe.aol.com:443
 subscribe.aol.com:80
 support.on.aol.com:443
+t.aol.com:443
+t.aol.com:80
 t.verizon-b.aol.com:443
 t.verizon-b.aol.com:80
 t.verizon.aol.com:443
@@ -737,15 +748,9 @@ thunderbird-startpage.aol.com:443
 thunderbird-startpage.aol.com:80
 tickets.aol.com:443
 tickets.aol.com:80
-travel.aol.com:443
-travel.aol.com:80
 trunk.guce.aol.com:443
 trunk.guce.login.aol.com:443
 trunk.guce.oneadserver.aol.com:443
-try.aol.com:443
-try.aol.com:80
-tv.aol.com:443
-tv.aol.com:80
 tw.aol.com:443
 tw.aol.com:80
 uk.aol.com:443
@@ -786,8 +791,6 @@ wap.aol.com:443
 wap.aol.com:80
 weather.aol.com:443
 weather.aol.com:80
-webmail.aol.com:443
-webmail.aol.com:80
 webmail1.mail.aol.com:443
 webmail1.mail.aol.com:80
 webmail1.webmail.aol.com:443

@@ -97,6 +97,7 @@ blogsint.zoho.com:8080
 blogsint.zoho.com:8443
 bluheron.wiki.zoho.com:443
 bookings.zoho.com:443
+bookings.zoho.com:80
 books.zoho.com:443
 books.zoho.com:80
 bugtracker.zoho.com:443
@@ -143,6 +144,7 @@ cursoblogywiki.wiki.zoho.com:443
 customer-books.zoho.com:443
 customer-books.zoho.com:80
 customer-campaign.zoho.com:443
+customer-campaign.zoho.com:80
 customer-connect.zoho.com:443
 customer-connect.zoho.com:80
 customer-creator.zoho.com:443
@@ -150,7 +152,6 @@ customer-creator.zoho.com:80
 customer-expense.zoho.com:443
 customer-expense.zoho.com:80
 customer-invoice.zoho.com:443
-customer-invoice.zoho.com:80
 customer-mail.zoho.com:443
 customer-mail.zoho.com:80
 customer-recruit.zoho.com:443
@@ -273,7 +274,6 @@ mailer-lp.zoho.com:80
 mailer-tu.zoho.com:443
 mailer-tu.zoho.com:80
 mailwsfree.zoho.com:443
-mailwsfree.zoho.com:80
 mailwsorg.zoho.com:443
 maps.zoho.com:443
 marketinghub.zoho.com:443
@@ -281,6 +281,7 @@ marketingplus.zoho.com:443
 marketplace.zoho.com:443
 masterjose07.wiki.zoho.com:443
 me.zoho.com:443
+me.zoho.com:80
 meet.zoho.com:443
 meeting-monitor.zoho.com:443
 meeting.zoho.com:443
@@ -358,7 +359,9 @@ project.zoho.com:443
 project.zoho.com:80
 projects-671153000000014017.wiki.zoho.com:443
 projects.zoho.com:443
+projects.zoho.com:80
 projectsapi.zoho.com:443
+projectsapi.zoho.com:80
 promocionecam.wiki.zoho.com:443
 psicobolario.wiki.zoho.com:443
 pubsub.zoho.com:443
@@ -406,7 +409,6 @@ status-internal.zoho.com:80
 status.zoho.com:443
 status.zoho.com:80
 store.zoho.com:443
-store.zoho.com:80
 subscriptions.zoho.com:443
 subscriptions.zoho.com:80
 superiordevelopment.wiki.zoho.com:443
@@ -473,6 +475,7 @@ zs-lc1-19-h2.zoho.com:443
 zs-lc1-19-ro.zoho.com:443
 zs-lc1-19-ro.zoho.com:80
 zs-lc1-19.zoho.com:443
+zs-lc1-19.zoho.com:80
 zs-lc1-25-h2.zoho.com:443
 zs-lc1-25.zoho.com:443
 zs-lc2-19-h2.zoho.com:443

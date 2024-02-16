@@ -49,7 +49,6 @@ cook-dev.sc-corp.net
 cook.sc-corp.net
 council-sfu.sc-corp.net
 crypt-dev.sc-corp.net
-crypt.sc-corp.net
 dap.sc-corp.net
 data-catalog-staging.sc-corp.net
 datamapping.sc-corp.net
@@ -136,7 +135,6 @@ live-notification-dev.api.ranking.sc-corp.net
 live-notification-dev.api.sc-corp.net
 live-notification-dev.api.search.sc-corp.net
 live-notification-prod.api.ranking.sc-corp.net
-live-notification-prod.api.sc-corp.net
 live-notification-prod.api.search.sc-corp.net
 livegrep.sc-corp.net
 lk-customerops.sc-corp.net
@@ -173,7 +171,6 @@ neo4j-prod.sc-corp.net
 neo4j-staging.sc-corp.net
 neo4j.sc-corp.net
 okr.sc-corp.net
-okta-preview.sc-corp.net
 olympus-staging.secproxy.sc-corp.net
 orca.sc-corp.net
 pacific.sc-corp.net

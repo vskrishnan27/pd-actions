@@ -34,7 +34,6 @@ http://events.chain.link
 http://faucet.chain.link
 http://faucet.chain.link:8443
 http://faucets-ui-preview.chain.link
-http://faucets-ui-preview.chain.link:8443
 http://faucets.chain.link
 http://faucets.chain.link:8443
 http://fms-rpc.chain.link
@@ -90,6 +89,7 @@ http://supply.chain.link:8080
 http://vrf.chain.link
 http://vrf.chain.link:8443
 http://ws-nd-061-873-799.mercury-srv.chain.link
+http://ws-nd-061-873-799.mercury-srv.chain.link:8080
 http://ws-nd-061-873-799.mercury-srv.chain.link:8443
 http://ws.dataengine.chain.link
 http://ws.dataengine.chain.link:8080
@@ -126,6 +126,7 @@ https://email.chain.link:8443
 https://events.chain.link
 https://faucet.chain.link
 https://faucets-ui-preview.chain.link
+https://faucets-ui-preview.chain.link:8443
 https://faucets.chain.link
 https://functions.chain.link
 https://go.chain.link

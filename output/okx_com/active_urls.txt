@@ -11,7 +11,6 @@ http://jpushws.okx.com
 http://jpushws.okx.com:8443
 http://newsletter.okx.com
 http://newsletter.okx.com:8080
-http://okbtestws.okx.com:8080
 http://okctools.okx.com
 http://okctools.okx.com:8443
 http://oktcsafe.okx.com
@@ -27,6 +26,7 @@ http://x1rpc.okx.com
 http://x1rpc.okx.com:8443
 http://x1testrpc.okx.com
 http://x1testrpc.okx.com:8443
+http://x1ws.okx.com
 https://aws.okx.com
 https://chainrpc.okx.com
 https://jpush.okx.com

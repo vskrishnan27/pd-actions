@@ -156,8 +156,6 @@ http://changelog.shopify.com
 http://changelog.shopify.com:8080
 http://chat.shopify.com
 http://chat.shopify.com:8080
-http://checkout.hardware.shopify.com
-http://checkout.hardware.shopify.com:8080
 http://checkout.shopify.com
 http://checkout.shopify.com:8080
 http://chi.shopify.com
@@ -216,8 +214,6 @@ http://courier.shopify.com
 http://courier.shopify.com:8080
 http://crafted.shopify.com
 http://crafted.shopify.com:8080
-http://cs.shopify.com
-http://cs.shopify.com:8080
 http://cs.staging.shopify.com
 http://cs.staging.shopify.com:8080
 http://cselb.cs.shopify.com
@@ -290,8 +286,6 @@ http://engineering.shopify.com
 http://engineering.shopify.com:8080
 http://enterprise.plus.shopify.com
 http://enterprise.plus.shopify.com:8080
-http://es.shopify.com
-http://es.shopify.com:8080
 http://eu.checkout.hardware.shopify.com
 http://eu.checkout.hardware.shopify.com:8080
 http://eurotour.shopify.com
@@ -392,6 +386,8 @@ http://ie.checkout.hardware.shopify.com
 http://ie.checkout.hardware.shopify.com:8080
 http://ihatewhatever.shopify.com
 http://ihatewhatever.shopify.com:8080
+http://image.email.shopify.com
+http://image.email.shopify.com:8080
 http://inbox.shopify.com
 http://inbox.shopify.com:8080
 http://incoming.shopify.com
@@ -515,6 +511,10 @@ http://milestones.shopify.com
 http://milestones.shopify.com:8080
 http://mobile.shopify.com
 http://mobile.shopify.com:8080
+http://mta2.email.shopify.com
+http://mta2.email.shopify.com:8080
+http://mta3.email.shopify.com
+http://mta3.email.shopify.com:8080
 http://mta4.email.shopify.com
 http://mta4.email.shopify.com:8080
 http://mx.shopify.com
@@ -910,6 +910,8 @@ http://win.shopify.com
 http://win.shopify.com:8080
 http://windsor.shopify.com
 http://windsor.shopify.com:8080
+http://ww.shopify.com
+http://ww.shopify.com:8080
 http://www.act.shopify.com
 http://www.act.shopify.com:8080
 http://www.badeaux.shopify.com
@@ -1082,8 +1084,6 @@ https://changelog.shopify.com
 https://changelog.shopify.com:8443
 https://chat.shopify.com
 https://chat.shopify.com:8443
-https://checkout.hardware.shopify.com
-https://checkout.hardware.shopify.com:8443
 https://checkout.shopify.com
 https://checkout.shopify.com:8443
 https://chi.shopify.com
@@ -1142,8 +1142,6 @@ https://courier.shopify.com
 https://courier.shopify.com:8443
 https://crafted.shopify.com
 https://crafted.shopify.com:8443
-https://cs.shopify.com
-https://cs.shopify.com:8443
 https://cs.staging.shopify.com
 https://cs.staging.shopify.com:8443
 https://cselb.cs.shopify.com
@@ -1219,8 +1217,6 @@ https://engineering.shopify.com
 https://engineering.shopify.com:8443
 https://enterprise.plus.shopify.com
 https://enterprise.plus.shopify.com:8443
-https://es.shopify.com
-https://es.shopify.com:8443
 https://eu.checkout.hardware.shopify.com
 https://eu.checkout.hardware.shopify.com:8443
 https://eurotour.shopify.com
@@ -1321,6 +1317,8 @@ https://ie.checkout.hardware.shopify.com
 https://ie.checkout.hardware.shopify.com:8443
 https://ihatewhatever.shopify.com
 https://ihatewhatever.shopify.com:8443
+https://image.email.shopify.com
+https://image.email.shopify.com:8443
 https://inbox.shopify.com
 https://inbox.shopify.com:8443
 https://incoming.shopify.com
@@ -1444,6 +1442,10 @@ https://milestones.shopify.com
 https://milestones.shopify.com:8443
 https://mobile.shopify.com
 https://mobile.shopify.com:8443
+https://mta2.email.shopify.com
+https://mta2.email.shopify.com:8443
+https://mta3.email.shopify.com
+https://mta3.email.shopify.com:8443
 https://mta4.email.shopify.com
 https://mta4.email.shopify.com:8443
 https://mx.shopify.com
@@ -1840,6 +1842,8 @@ https://win.shopify.com
 https://win.shopify.com:8443
 https://windsor.shopify.com
 https://windsor.shopify.com:8443
+https://ww.shopify.com
+https://ww.shopify.com:8443
 https://www.act.shopify.com
 https://www.act.shopify.com:8443
 https://www.badeaux.shopify.com

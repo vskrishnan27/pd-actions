@@ -29,10 +29,8 @@ http://go.recordedfuture.com:8080
 http://gslink.recordedfuture.com
 http://gsnlink.recordedfuture.com
 http://gsnlink.recordedfuture.com:8080
-http://gsnlink.recordedfuture.com:8443
 http://id.recordedfuture.com
 http://id.recordedfuture.com:8080
-http://id.recordedfuture.com:8443
 http://ideas.recordedfuture.com
 http://ideas.recordedfuture.com:8080
 http://ideas.recordedfuture.com:8443
@@ -48,9 +46,6 @@ http://preprod.cms.recordedfuture.com
 http://preprod.recordedfuture.com
 http://preprod.recordedfuture.com:8080
 http://preprod.recordedfuture.com:8443
-http://recordedfuture.com
-http://recordedfuture.com:8080
-http://recordedfuture.com:8443
 http://sandbox.recordedfuture.com
 http://sandbox.recordedfuture.com:8080
 http://status.recordedfuture.com
@@ -87,7 +82,9 @@ https://go.recordedfuture.com
 https://go.recordedfuture.com:8443
 https://gslink.recordedfuture.com
 https://gsnlink.recordedfuture.com
+https://gsnlink.recordedfuture.com:8443
 https://id.recordedfuture.com
+https://id.recordedfuture.com:8443
 https://ideas.recordedfuture.com
 https://insiktgroup.recordedfuture.com
 https://insiktgroup.recordedfuture.com:8443
@@ -98,7 +95,6 @@ https://partners.recordedfuture.com
 https://partners.recordedfuture.com:8443
 https://preprod.cms.recordedfuture.com
 https://preprod.recordedfuture.com
-https://recordedfuture.com
 https://sandbox.recordedfuture.com
 https://sandbox.recordedfuture.com:8443
 https://status.recordedfuture.com

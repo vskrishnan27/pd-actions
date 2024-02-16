@@ -55,6 +55,8 @@ http://edge-js-tree.stripe.com:443
 http://edge-js.stripe.com
 http://edge-manage.stripe.com
 http://edge-pay.stripe.com
+http://edge.stripe.com
+http://eidas-cert.stripe.com
 http://email-57.stripe.com
 http://email-74.stripe.com
 http://email-91.stripe.com
@@ -77,7 +79,6 @@ http://frontend-global-fiad2.stripe.com
 http://frontend-global-fsin1.stripe.com
 http://frontend-global-tree.stripe.com
 http://gateway.stripe.com
-http://gator.stripe.com
 http://gems.stripe.com
 http://git.corp.stripe.com:443
 http://global.stripe.com
@@ -287,7 +288,6 @@ https://qa-api.stripe.com
 https://qa-connect-js.stripe.com
 https://qa-connections-sandbox.stripe.com
 https://qa-crypto-js.stripe.com
-https://qa-ipaddr-3ds.stripe.com
 https://qa-status.stripe.com
 https://qa-support-conversations.stripe.com
 https://qr.stripe.com

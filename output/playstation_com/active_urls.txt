@@ -144,8 +144,10 @@ http://image.mail.asia.playstation.com
 http://image.mail.jp.playstation.com
 http://io.playstation.com
 http://is.playstation.com
+http://ivaldi.playstation.com
 http://jp.playstation.com
 http://juega.playstation.com
+http://la.playstation.com
 http://latam.playstation.com
 http://latino.playstation.com
 http://library.playstation.com
@@ -431,8 +433,10 @@ https://image.mail.asia.playstation.com
 https://image.mail.jp.playstation.com
 https://io.playstation.com
 https://is.playstation.com
+https://ivaldi.playstation.com
 https://jp.playstation.com
 https://juega.playstation.com
+https://la.playstation.com
 https://latam.playstation.com
 https://latino.playstation.com
 https://library.playstation.com

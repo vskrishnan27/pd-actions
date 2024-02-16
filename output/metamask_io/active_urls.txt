@@ -45,6 +45,7 @@ http://authentication.api.cx.metamask.io:8080
 http://authentication.api.cx.metamask.io:8443
 http://authentication.dev-api.cx.metamask.io
 http://authentication.dev-api.cx.metamask.io:8080
+http://authentication.dev-api.cx.metamask.io:8443
 http://authentication.uat-api.cx.metamask.io
 http://authentication.uat-api.cx.metamask.io:8080
 http://authentication.uat-api.cx.metamask.io:8443
@@ -103,6 +104,7 @@ http://gas.api.cx.metamask.io:8080
 http://gas.api.cx.metamask.io:8443
 http://gas.dev-api.cx.metamask.io
 http://gas.dev-api.cx.metamask.io:8080
+http://gas.dev-api.cx.metamask.io:8443
 http://gas.uat-api.cx.metamask.io
 http://gas.uat-api.cx.metamask.io:8080
 http://gas.uat-api.cx.metamask.io:8443
@@ -163,9 +165,9 @@ http://notification.uat-api.cx.metamask.io:8080
 http://notification.uat-api.cx.metamask.io:8443
 http://phishing-detection-us-east-2.api.cx.metamask.io
 http://phishing-detection-us-east-2.api.cx.metamask.io:8080
-http://phishing-detection-us-east-2.api.cx.metamask.io:8443
 http://phishing-detection-us-east-2.dev-api.cx.metamask.io
 http://phishing-detection-us-east-2.dev-api.cx.metamask.io:8080
+http://phishing-detection-us-east-2.dev-api.cx.metamask.io:8443
 http://phishing-detection-us-east-2.uat-api.cx.metamask.io
 http://phishing-detection-us-east-2.uat-api.cx.metamask.io:8080
 http://phishing-detection-us-east-2.uat-api.cx.metamask.io:8443
@@ -183,7 +185,6 @@ http://portfolio-us-east-2.api.cx.metamask.io:8080
 http://portfolio-us-east-2.api.cx.metamask.io:8443
 http://portfolio-us-east-2.dev-api.cx.metamask.io
 http://portfolio-us-east-2.dev-api.cx.metamask.io:8080
-http://portfolio-us-east-2.dev-api.cx.metamask.io:8443
 http://portfolio-us-east-2.uat-api.cx.metamask.io
 http://portfolio-us-east-2.uat-api.cx.metamask.io:8080
 http://portfolio-us-east-2.uat-api.cx.metamask.io:8443
@@ -217,7 +218,6 @@ http://price.uat-api.cx.metamask.io:8080
 http://price.uat-api.cx.metamask.io:8443
 http://primitives-us-east-2.api.cx.metamask.io
 http://primitives-us-east-2.api.cx.metamask.io:8080
-http://primitives-us-east-2.api.cx.metamask.io:8443
 http://primitives-us-east-2.dev-api.cx.metamask.io
 http://primitives-us-east-2.dev-api.cx.metamask.io:8080
 http://primitives-us-east-2.dev-api.cx.metamask.io:8443
@@ -262,12 +262,12 @@ http://push-us-east-2.uat-api.cx.metamask.io:8080
 http://push-us-east-2.uat-api.cx.metamask.io:8443
 http://push.api.cx.metamask.io
 http://push.api.cx.metamask.io:8080
+http://push.api.cx.metamask.io:8443
 http://push.dev-api.cx.metamask.io
 http://push.dev-api.cx.metamask.io:8080
 http://push.dev-api.cx.metamask.io:8443
 http://push.uat-api.cx.metamask.io
 http://push.uat-api.cx.metamask.io:8080
-http://push.uat-api.cx.metamask.io:8443
 http://snaps.metamask.io
 http://stage.portfolio.metamask.io
 http://start.metamask.io
@@ -325,6 +325,7 @@ http://trigger-us-east-2.uat-api.cx.metamask.io:8080
 http://trigger-us-east-2.uat-api.cx.metamask.io:8443
 http://trigger.api.cx.metamask.io
 http://trigger.api.cx.metamask.io:8080
+http://trigger.api.cx.metamask.io:8443
 http://trigger.dev-api.cx.metamask.io
 http://trigger.dev-api.cx.metamask.io:8080
 http://trigger.dev-api.cx.metamask.io:8443
@@ -375,7 +376,6 @@ https://authentication-us-east-2.dev-api.cx.metamask.io
 https://authentication-us-east-2.uat-api.cx.metamask.io
 https://authentication.api.cx.metamask.io
 https://authentication.dev-api.cx.metamask.io
-https://authentication.dev-api.cx.metamask.io:8443
 https://authentication.uat-api.cx.metamask.io
 https://beta.execution.metamask.io
 https://blockaid-false-positive-portal.metamask.io
@@ -405,7 +405,6 @@ https://gas-us-east-2.dev-api.cx.metamask.io
 https://gas-us-east-2.uat-api.cx.metamask.io
 https://gas.api.cx.metamask.io
 https://gas.dev-api.cx.metamask.io
-https://gas.dev-api.cx.metamask.io:8443
 https://gas.uat-api.cx.metamask.io
 https://get.metamask.io
 https://home.metamask.io
@@ -430,14 +429,15 @@ https://notification.api.cx.metamask.io
 https://notification.dev-api.cx.metamask.io
 https://notification.uat-api.cx.metamask.io
 https://phishing-detection-us-east-2.api.cx.metamask.io
+https://phishing-detection-us-east-2.api.cx.metamask.io:8443
 https://phishing-detection-us-east-2.dev-api.cx.metamask.io
-https://phishing-detection-us-east-2.dev-api.cx.metamask.io:8443
 https://phishing-detection-us-east-2.uat-api.cx.metamask.io
 https://phishing-detection.api.cx.metamask.io
 https://phishing-detection.dev-api.cx.metamask.io
 https://phishing-detection.uat-api.cx.metamask.io
 https://portfolio-us-east-2.api.cx.metamask.io
 https://portfolio-us-east-2.dev-api.cx.metamask.io
+https://portfolio-us-east-2.dev-api.cx.metamask.io:8443
 https://portfolio-us-east-2.uat-api.cx.metamask.io
 https://portfolio.api.cx.metamask.io
 https://portfolio.dev-api.cx.metamask.io
@@ -450,6 +450,7 @@ https://price.api.cx.metamask.io
 https://price.dev-api.cx.metamask.io
 https://price.uat-api.cx.metamask.io
 https://primitives-us-east-2.api.cx.metamask.io
+https://primitives-us-east-2.api.cx.metamask.io:8443
 https://primitives-us-east-2.dev-api.cx.metamask.io
 https://primitives-us-east-2.uat-api.cx.metamask.io
 https://primitives.api.cx.metamask.io
@@ -465,9 +466,9 @@ https://push-us-east-2.api.cx.metamask.io
 https://push-us-east-2.dev-api.cx.metamask.io
 https://push-us-east-2.uat-api.cx.metamask.io
 https://push.api.cx.metamask.io
-https://push.api.cx.metamask.io:8443
 https://push.dev-api.cx.metamask.io
 https://push.uat-api.cx.metamask.io
+https://push.uat-api.cx.metamask.io:8443
 https://snaps.metamask.io
 https://stage.portfolio.metamask.io
 https://start.metamask.io
@@ -492,7 +493,6 @@ https://trigger-us-east-2.api.cx.metamask.io
 https://trigger-us-east-2.dev-api.cx.metamask.io
 https://trigger-us-east-2.uat-api.cx.metamask.io
 https://trigger.api.cx.metamask.io
-https://trigger.api.cx.metamask.io:8443
 https://trigger.dev-api.cx.metamask.io
 https://trigger.uat-api.cx.metamask.io
 https://uat-static.cx.metamask.io

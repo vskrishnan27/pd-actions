@@ -10,6 +10,7 @@ http://api.hostinger.com
 http://api.hostinger.com:8443
 http://apstiprina.hostinger.com
 http://assets.hostinger.com
+http://assets.hostinger.com:8443
 http://autenticacion.hostinger.com
 http://autenticar.hostinger.com
 http://autentificacion.hostinger.com
@@ -55,8 +56,6 @@ http://flockcontacts.hostinger.com
 http://flockmail.hostinger.com
 http://help.hostinger.com
 http://help.hostinger.com:8080
-http://hostinger.com
-http://hostinger.com:8080
 http://hpanel.hostinger.com
 http://hpanel.hostinger.com:8443
 http://kontroll.hostinger.com
@@ -145,7 +144,6 @@ https://any2.hostinger.com:8443
 https://api.hostinger.com
 https://apstiprina.hostinger.com
 https://assets.hostinger.com
-https://assets.hostinger.com:8443
 https://autenticacion.hostinger.com
 https://autenticar.hostinger.com
 https://autentificacion.hostinger.com
@@ -174,8 +172,6 @@ https://flockcontacts.hostinger.com
 https://flockmail.hostinger.com
 https://help.hostinger.com
 https://help.hostinger.com:8443
-https://hostinger.com
-https://hostinger.com:8443
 https://hpanel.hostinger.com
 https://kontroll.hostinger.com
 https://mail.hostinger.com

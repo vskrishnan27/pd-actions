@@ -153,9 +153,6 @@ garage.github.com:443
 gist.github.com:22
 gist.github.com:443
 gist.github.com:80
-github.com:22
-github.com:443
-github.com:80
 gkz.github.com:443
 gkz.github.com:80
 glb-db52c2cf8be544.github.com:443
@@ -498,7 +495,6 @@ skyline.github.com:443
 skyline.github.com:80
 slack.github.com:443
 slack.github.com:80
-smtp.github.com:25
 ssh.github.com:22
 ssh.github.com:443
 ssh.github.com:80
@@ -542,8 +538,8 @@ web5622.github.com:443
 web5622.github.com:80
 web6014.github.com:443
 web6014.github.com:80
-workspaces-ppe.github.com:443
-workspaces-ppe.github.com:80
+workspaces-dev.github.com:443
+workspaces-dev.github.com:80
 ws.support.github.com:443
 ws.support.github.com:80
 www.api.security.github.com:443
@@ -565,10 +561,12 @@ www.partnerportal.github.com:443
 www.partnerportal.github.com:80
 www.render-lab.github.com:443
 www.render-lab.github.com:80
-www.smtp.github.com:443
-www.smtp.github.com:80
+www.skyline.github.com:443
+www.skyline.github.com:80
 www.visualstudio.github.com:443
 www.visualstudio.github.com:80
+www.ws.support.github.com:443
+www.ws.support.github.com:80
 xlcteam.github.com:443
 xlcteam.github.com:80
 yanjingcheng.github.com:443

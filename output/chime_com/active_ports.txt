@@ -104,7 +104,6 @@ inspector.chime.com:8080
 inspector.chime.com:8443
 interchange.chime.com:443
 interchange.chime.com:80
-interchange.chime.com:9999
 links.account.chime.com:443
 links.account.chime.com:80
 links.account.chime.com:8080

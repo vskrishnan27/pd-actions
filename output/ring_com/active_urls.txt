@@ -86,7 +86,6 @@ http://firmwares.ring.com:8443
 http://fr-fr.ring.com
 http://fr-fr.ring.com:8080
 http://fw-wrapup.ring.com
-http://fw-wrapup.ring.com:8443
 http://gamma.approvals.shuttle.ring.com
 http://gamma.ring.com
 http://get.ring.com
@@ -337,6 +336,7 @@ https://fr-fr.ring.com:8443
 https://fw-eventstream.ring.com
 https://fw-snaps.ring.com
 https://fw-wrapup.ring.com
+https://fw-wrapup.ring.com:8443
 https://gamma.approvals.shuttle.ring.com
 https://gamma.ring.com
 https://get.ring.com

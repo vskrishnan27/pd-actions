@@ -279,7 +279,6 @@ hec2.prod.splunk.dm.ring.com
 help.publicsafety.ring.com
 hf004.prod.splunk.dm.ring.com
 home.ringdev.dev.brinqa.sec.ring.com
-home.ringeval.eval.brinqa.sec.ring.com
 home.ringprod.prod.brinqa.sec.ring.com
 hpcam.ring.com
 internal.ap-northeast-1.ringo.ring.com

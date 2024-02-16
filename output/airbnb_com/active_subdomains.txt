@@ -83,6 +83,7 @@ autoconfig.next.airbnb.com
 autodiscover.next.airbnb.com
 awsdashboard.next.airbnb.com
 az.airbnb.com
+az.next.airbnb.com
 b.next.airbnb.com
 baesilri2.moodle.next.airbnb.com
 balaji.uk.next.airbnb.com
@@ -100,6 +101,7 @@ bessie.airbnb.com
 beta.next.airbnb.com
 beyond.airbnb.com
 bg.airbnb.com
+bg.next.airbnb.com
 blast2s-next.airbnb.com
 blast2s.airbnb.com
 blast2s.next.airbnb.com
@@ -117,6 +119,7 @@ bowlingadmin.evd.next.airbnb.com
 box4.optimize.next.airbnb.com
 brighton.optustvnow.next.airbnb.com
 bs.airbnb.com
+bs.next.airbnb.com
 bubu.merchdirect.next.airbnb.com
 builder.next.airbnb.com
 bulletin.next.airbnb.com
@@ -125,6 +128,7 @@ burlingtonvtpre.optustvnow.next.airbnb.com
 buyshock.pictures.next.airbnb.com
 c.next.airbnb.com
 ca.airbnb.com
+ca.next.airbnb.com
 callbacks.airbnb.com
 cam.next.airbnb.com
 canary.airbnb.com
@@ -170,6 +174,7 @@ cloud.next.airbnb.com
 cloudmonitor.airbnb.com
 cname.next.airbnb.com
 cnr.airbnb.com
+cnr.next.airbnb.com
 code.next.airbnb.com
 codex.optustvnow.next.airbnb.com
 codis-demo.airbnb.com
@@ -204,6 +209,7 @@ crea.new.next.airbnb.com
 create.airbnb.com
 crm.next.airbnb.com
 cs.airbnb.com
+cs.next.airbnb.com
 csc.uat.next.airbnb.com
 csg.express.next.airbnb.com
 cskcs.new.next.airbnb.com
@@ -212,6 +218,7 @@ cspi.next.airbnb.com
 ctlfrlay.evd.next.airbnb.com
 cveapi.next.airbnb.com
 da.airbnb.com
+da.next.airbnb.com
 danieapp.next.airbnb.com
 dashboard.next.airbnb.com
 databassano.evd.next.airbnb.com
@@ -269,11 +276,13 @@ engineering.airbnb.com
 enterprise.new.next.airbnb.com
 eric.1.next.airbnb.com
 es-l.airbnb.com
+es-l.next.airbnb.com
 es.admin.airbnb.com
 es.airbnb.com
 es.next.airbnb.com
 esxi05.dev.next.airbnb.com
 et.airbnb.com
+et.next.airbnb.com
 evd.next.airbnb.com
 eventhorizon.dev.next.airbnb.com
 exchange.next.airbnb.com
@@ -287,6 +296,7 @@ fatsoma.next.airbnb.com
 fencing.merchdirect.next.airbnb.com
 fernanda.p2p.next.airbnb.com
 fi.airbnb.com
+fi.next.airbnb.com
 file.next.airbnb.com
 finance.optustvnow.next.airbnb.com
 fishbowl.mail33.next.airbnb.com
@@ -357,11 +367,13 @@ happybaby1.moodle.next.airbnb.com
 harpreet.rkai.next.airbnb.com
 hawaii.moodle.next.airbnb.com
 he.airbnb.com
+he.next.airbnb.com
 heartful-travel-com.mystique.next.airbnb.com
 help.next.airbnb.com
 helpdesk.airbnb.com
 hens77.cspi.next.airbnb.com
 hi.airbnb.com
+hi.next.airbnb.com
 hibimarche-net.dev.next.airbnb.com
 historymedrenpre.dev.next.airbnb.com
 hit.moodle.next.airbnb.com
@@ -372,6 +384,7 @@ hopeless.q.next.airbnb.com
 host.next.airbnb.com
 hostmaster.next.airbnb.com
 hr.airbnb.com
+hr.next.airbnb.com
 httpbin.next.airbnb.com
 hu-region-covid19.next.airbnb.com
 hu.airbnb.com
@@ -383,6 +396,7 @@ huoceania-covid19.next.airbnb.com
 husecuritycovid19.next.airbnb.com
 hwcdn-covid19hu.next.airbnb.com
 hy.airbnb.com
+hy.next.airbnb.com
 i.canary.airbnb.com
 i.next.airbnb.com
 i18n.next.airbnb.com
@@ -428,6 +442,7 @@ ipayishop01.moodle.next.airbnb.com
 ipaynicekuma4.mystique.next.airbnb.com
 ipv6.next.airbnb.com
 is.airbnb.com
+is.next.airbnb.com
 isit.admin.airbnb.com
 it.airbnb.com
 it.next.airbnb.com
@@ -454,6 +469,7 @@ k-go-biz.ci.next.airbnb.com
 k12.admin.airbnb.com
 k8s.next.airbnb.com
 ka.airbnb.com
+ka.next.airbnb.com
 kaseya.new.next.airbnb.com
 kaution.canary.airbnb.com
 kazunori.info.next.airbnb.com
@@ -463,6 +479,7 @@ kerala.pictures.next.airbnb.com
 keyword.new.next.airbnb.com
 knowledgemanagement.next.airbnb.com
 ko.airbnb.com
+ko.next.airbnb.com
 kommunikation.moodle.next.airbnb.com
 ks-inventory-api.next.airbnb.com
 ks-invoice-api.next.airbnb.com
@@ -498,12 +515,14 @@ login.next.airbnb.com
 logs.next.airbnb.com
 longtail-seo-jp.new.next.airbnb.com
 lt.airbnb.com
+lt.next.airbnb.com
 luce.evd.next.airbnb.com
 lumen-next.airbnb.com
 lumen.airbnb.com
 lutron.adapter.next.airbnb.com
 lux.next.airbnb.com
 lv.airbnb.com
+lv.next.airbnb.com
 lyf.airbnb.com
 m.airbnb.com
 m.next.airbnb.com
@@ -590,6 +609,7 @@ mimosa.evd.next.airbnb.com
 minibird.mail31.next.airbnb.com
 ministryofsound.merchdirect.next.airbnb.com
 mk.airbnb.com
+mk.next.airbnb.com
 ml.next.airbnb.com
 mmedia.optustvnow.next.airbnb.com
 mmmobile.invenio.next.airbnb.com
@@ -609,8 +629,10 @@ moorootr.merchdirect.next.airbnb.com
 morrow.mail35.next.airbnb.com
 mosh.mystique.next.airbnb.com
 ms.airbnb.com
+ms.next.airbnb.com
 mssql.next.airbnb.com
 mt.airbnb.com
+mt.next.airbnb.com
 mta-sts.next.airbnb.com
 mta.mail.airbnb.com
 mundoanime.rkai.next.airbnb.com
@@ -665,6 +687,7 @@ ninvenio.next.airbnb.com
 nirwana.optustvnow.next.airbnb.com
 nkb.next.airbnb.com
 nl.airbnb.com
+nl.next.airbnb.com
 nlarue.next.airbnb.com
 nlux.next.airbnb.com
 nm.next.airbnb.com
@@ -675,6 +698,7 @@ nmedia-ncache-fp1.canary.airbnb.com
 nmoodle.next.airbnb.com
 nnew.next.airbnb.com
 no.airbnb.com
+no.next.airbnb.com
 nodejs-dev.next.airbnb.com
 nodejs.next.airbnb.com
 non-prod.next.airbnb.com
@@ -782,6 +806,7 @@ pino.merchdirect.next.airbnb.com
 pinterest.canary.airbnb.com
 pisirusi1.p2p.next.airbnb.com
 pl.airbnb.com
+pl.next.airbnb.com
 platform.airbnb.com
 playground.optustvnow.next.airbnb.com
 playstationadmin.apiwww.next.airbnb.com
@@ -816,6 +841,7 @@ prototype.admin.airbnb.com
 provincial.next.airbnb.com
 proxy.next.airbnb.com
 pt.airbnb.com
+pt.next.airbnb.com
 pub.next.airbnb.com
 publicpolicy.airbnb.com
 publishing-catalog.next.airbnb.com
@@ -846,6 +872,7 @@ rikunabi.next.airbnb.com
 riposte-cc.airbnb.com
 rkai.next.airbnb.com
 ro.airbnb.com
+ro.next.airbnb.com
 roambi.airbnb.com
 rockordie1.invenio.next.airbnb.com
 roku.next.airbnb.com
@@ -918,10 +945,12 @@ sip-capture-uswest2.iac.airbnb.com
 sip.next.airbnb.com
 sitecore.next.airbnb.com
 sk.airbnb.com
+sk.next.airbnb.com
 skybell.adapter.next.airbnb.com
 skyteam7.catalog.next.airbnb.com
 skywalker.us.isit.airbnb.com
 sl.airbnb.com
+sl.next.airbnb.com
 sli.moodle.next.airbnb.com
 sm.next.airbnb.com
 smtp.next.airbnb.com
@@ -931,9 +960,11 @@ source3.merchdirect.next.airbnb.com
 spf.next.airbnb.com
 springs.uat.next.airbnb.com
 sq.airbnb.com
+sq.next.airbnb.com
 sql.next.airbnb.com
 sqlweb.optustvnow.next.airbnb.com
 sr.airbnb.com
+sr.next.airbnb.com
 sriram.evd.next.airbnb.com
 ss13.evd.next.airbnb.com
 ssl.next.airbnb.com
@@ -965,6 +996,7 @@ support.next.airbnb.com
 surgeryadmin.mail33.next.airbnb.com
 survey.dev.next.airbnb.com
 sv.airbnb.com
+sv.next.airbnb.com
 sw.airbnb.com
 swapnil.optustvnow.next.airbnb.com
 syn.evd.next.airbnb.com

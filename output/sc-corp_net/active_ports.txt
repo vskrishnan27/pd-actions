@@ -41,8 +41,6 @@ build-hook-prod.sc-corp.net:443
 build-hook-prod.sc-corp.net:80
 build-hook-stage.sc-corp.net:443
 build-hook-stage.sc-corp.net:80
-builds.sc-corp.net:443
-builds.sc-corp.net:80
 ca-dev.sc-corp.net:443
 ca-dev.sc-corp.net:80
 ca-prod.sc-corp.net:443
@@ -195,6 +193,7 @@ council-sfu.sc-corp.net:443
 council-sfu.sc-corp.net:80
 crypt-dev.sc-corp.net:443
 crypt-dev.sc-corp.net:80
+crypt.sc-corp.net:443
 dap.sc-corp.net:443
 dap.sc-corp.net:80
 data-catalog-staging.sc-corp.net:443
@@ -268,6 +267,8 @@ ghe-dev.sc-corp.net:443
 ghe-dev.sc-corp.net:80
 github-backup.sc-corp.net:443
 github-backup.sc-corp.net:80
+github.sc-corp.net:443
+github.sc-corp.net:80
 grafana-backup.sc-corp.net:443
 grafana-backup.sc-corp.net:80
 grafana-cluster.sc-corp.net:443
@@ -303,12 +304,12 @@ jira-dev.sc-corp.net:443
 jira-dev.sc-corp.net:80
 jira-mx-dev.sc-corp.net:443
 jira-mx-dev.sc-corp.net:80
+jira-mx.sc-corp.net:443
+jira-mx.sc-corp.net:80
 jira-stage-api.sc-corp.net:443
 jira-stage-api.sc-corp.net:80
 jira-stage.sc-corp.net:443
 jira-stage.sc-corp.net:80
-jira.sc-corp.net:443
-jira.sc-corp.net:80
 key-master-beta.sc-corp.net:10000
 key-master-beta.sc-corp.net:1025
 key-master-beta.sc-corp.net:1026
@@ -537,6 +538,8 @@ live-notification-dev.api.search.sc-corp.net:443
 live-notification-dev.api.search.sc-corp.net:80
 live-notification-prod.api.ranking.sc-corp.net:443
 live-notification-prod.api.ranking.sc-corp.net:80
+live-notification-prod.api.sc-corp.net:443
+live-notification-prod.api.sc-corp.net:80
 live-notification-prod.api.search.sc-corp.net:443
 live-notification-prod.api.search.sc-corp.net:80
 livegrep.sc-corp.net:443

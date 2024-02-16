@@ -1,4 +1,3 @@
-magic.link
 miro.com
 malwarebytes.com
 recargapay.com.br
@@ -76,3 +75,4 @@ exodus.com
 basecamp.com
 forescout.com
 trustpilot.com
+magic.link

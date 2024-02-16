@@ -25,7 +25,6 @@ http://communitygroups.miro.com:8080
 http://communitygroups.miro.com:8443
 http://consultantcommunity.miro.com
 http://consultantcommunity.miro.com:8080
-http://consultantcommunity.miro.com:8443
 http://dam.miro.com
 http://desktop.miro.com
 http://developers.miro.com
@@ -63,7 +62,6 @@ http://links.m.miro.com
 http://links.m.miro.com:8443
 http://lubo.miro.com
 http://meet.miro.com
-http://miro.com
 http://mobile.miro.com
 http://mwww.miro.com
 http://notifications-overlay.svc.miro.com
@@ -126,6 +124,7 @@ https://cloud.e.miro.com
 https://community.miro.com
 https://communitygroups.miro.com
 https://consultantcommunity.miro.com
+https://consultantcommunity.miro.com:8443
 https://dam.miro.com
 https://desktop.miro.com
 https://developers.miro.com
@@ -158,7 +157,6 @@ https://learns.miro.com
 https://links.m.miro.com
 https://lubo.miro.com
 https://meet.miro.com
-https://miro.com
 https://mobile.miro.com
 https://mwww.miro.com
 https://notifications-overlay.svc.miro.com

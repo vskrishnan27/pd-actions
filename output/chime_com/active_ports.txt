@@ -80,9 +80,7 @@ flashpaper.chime.com:443
 flashpaper.chime.com:80
 flashpaper.chime.com:8080
 flashpaper.chime.com:8443
-handbooks.chime.com:143
 handbooks.chime.com:443
-handbooks.chime.com:49153
 handbooks.chime.com:80
 help-test.chime.com:443
 help-test.chime.com:80

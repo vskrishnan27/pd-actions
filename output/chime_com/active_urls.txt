@@ -30,7 +30,6 @@ http://developer.chime.com
 http://developer.chime.com:8080
 http://email.gh-mail.chime.com
 http://email.gh-mail.chime.com:8080
-http://email.gh-mail.chime.com:8443
 http://email.gh-mail.ext.chime.com
 http://email.gh-mail.ext.chime.com:8080
 http://email.gh-mail.ext.chime.com:8443
@@ -99,6 +98,7 @@ http://monocle-qa.chime.com:8080
 http://monocle-qa.chime.com:8443
 http://monocle.chime.com
 http://monocle.chime.com:8080
+http://monocle.chime.com:8443
 http://penny-dev1.chime.com
 http://penny-dev1.chime.com:8080
 http://penny-dev1.chime.com:8443
@@ -116,7 +116,6 @@ http://public-assets-qa.chime.com:8080
 http://public-assets-qa.chime.com:8443
 http://public-assets.chime.com
 http://public-assets.chime.com:8080
-http://public-assets.chime.com:8443
 http://static-attachments.chime.com
 http://static-attachments.chime.com:8080
 http://static-attachments.chime.com:8443
@@ -165,6 +164,7 @@ https://developer.chime.com:8443
 https://email.ethnio.chime.com
 https://email.ethnio.chime.com:80
 https://email.gh-mail.chime.com
+https://email.gh-mail.chime.com:8443
 https://email.gh-mail.ext.chime.com
 https://email.mg.chime.com
 https://email.talent.chime.com
@@ -194,7 +194,6 @@ https://mobile-state.chime.com
 https://monocle-dev1.chime.com
 https://monocle-qa.chime.com
 https://monocle.chime.com
-https://monocle.chime.com:8443
 https://nd.chime.com
 https://penny-dev1.chime.com
 https://penny-qa.chime.com
@@ -202,6 +201,7 @@ https://penny.chime.com
 https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
 https://public-assets.chime.com
+https://public-assets.chime.com:8443
 https://static-attachments.chime.com
 https://status.chime.com
 https://status.chime.com:8443

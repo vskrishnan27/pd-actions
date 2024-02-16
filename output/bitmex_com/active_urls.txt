@@ -13,7 +13,6 @@ http://devhk-static.bitmex.com
 http://devhk.bitmex.com
 http://devhk.bitmex.com:8080
 http://documents.bitmex.com
-http://documents.bitmex.com:443
 http://documents.bitmex.com:8080
 http://documents.devhk.bitmex.com
 http://documents.devhk.bitmex.com:8080
@@ -97,6 +96,7 @@ https://cn.research.bitmex.com
 https://devhk-static.bitmex.com
 https://devhk.bitmex.com
 https://devhk.bitmex.com:8443
+https://documents.bitmex.com
 https://documents.bitmex.com:8443
 https://documents.devhk.bitmex.com
 https://documents.devhk.bitmex.com:8443

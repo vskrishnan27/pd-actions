@@ -22,7 +22,6 @@ http://injob.indrive.com
 http://intercity.indrive.com
 http://internal.delivery.indrive.com
 http://internal.sandbox.delivery.indrive.com
-http://job.indrive.com
 http://landing.indrive.com
 http://lp-food.indrive.com
 http://lp-services.indrive.com
@@ -81,7 +80,6 @@ https://injob.indrive.com
 https://intercity.indrive.com
 https://internal.delivery.indrive.com
 https://internal.sandbox.delivery.indrive.com
-https://job.indrive.com
 https://landing.indrive.com
 https://lp-food.indrive.com
 https://lp-services.indrive.com

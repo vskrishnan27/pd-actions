@@ -194,7 +194,7 @@ msteams.launchdarkly.com
 partnersupport.launchdarkly.com
 pubnubtest.launchdarkly.com
 resources.launchdarkly.com
-retool.prod.tools.launchdarkly.com
+retool-staging.prod.tools.launchdarkly.com
 sdk-stg.launchdarkly.com
 sdk.dev.launchdarkly.com
 sdk.dr.launchdarkly.com

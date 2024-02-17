@@ -164,16 +164,13 @@ pubnubtest.launchdarkly.com:443
 pubnubtest.launchdarkly.com:80
 resources.launchdarkly.com:443
 resources.launchdarkly.com:80
-sdk-stg.launchdarkly.com:443
-sdk-stg.launchdarkly.com:80
+retool-staging.prod.tools.launchdarkly.com:443
 sdk.dev.launchdarkly.com:443
 sdk.dev.launchdarkly.com:80
 sdk.dev.launchdarkly.com:8080
 sdk.dev.launchdarkly.com:8443
 sdk.dr.launchdarkly.com:443
 sdk.dr.launchdarkly.com:80
-sdk.launchdarkly.com:443
-sdk.launchdarkly.com:80
 slack-app-stg.intuit.launchdarkly.com:443
 slack-app.intuit.launchdarkly.com:443
 slack-stg.launchdarkly.com:443

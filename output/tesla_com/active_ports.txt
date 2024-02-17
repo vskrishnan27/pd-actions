@@ -288,6 +288,8 @@ installations-ext-api.tesla.com:80
 integration.kronos.tesla.com:443
 inventory-assets.tesla.com:443
 inventory-assets.tesla.com:80
+ion.tesla.com:443
+ion.tesla.com:80
 ir.tesla.com:443
 ir.tesla.com:80
 itanswers.tesla.com:80
@@ -322,8 +324,6 @@ mfa.tesla.com:443
 mfa.tesla.com:80
 mfs-supplier-uat.tesla.com:443
 mfs-supplier-uat.tesla.com:80
-mfs-supplier.tesla.com:443
-mfs-supplier.tesla.com:80
 mobile-links-cdn.eng.vn.cloud.tesla.com:443
 mobile-links-cdn.eng.vn.cloud.tesla.com:80
 mobile-links-cdn.prd.vn.cloud.tesla.com:443
@@ -356,8 +356,6 @@ pay.tesla.com:443
 pay.tesla.com:80
 payment-public-stg.tesla.com:443
 pm-bounces.tesla.com:80
-powerhub.energy.tesla.com:443
-powerhub.energy.tesla.com:80
 profile.tesla.com:443
 profile.tesla.com:80
 pub.email.tesla.com:443
@@ -407,6 +405,8 @@ static-assets-pay.tesla.com:443
 static-assets-pay.tesla.com:80
 static-assets-teslaaccount.tesla.com:443
 static-assets-teslaaccount.tesla.com:80
+static-assets.tesla.com:443
+static-assets.tesla.com:80
 static-map.tesla.com:443
 static-map.tesla.com:80
 static.tesla.com:443

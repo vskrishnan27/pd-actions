@@ -41,6 +41,7 @@ http://support.forescout.com
 http://support.forescout.com:8443
 http://t.forescout.com
 http://trainingsurvey.forescout.com
+http://trainingsurvey.forescout.com:8080
 http://trainingsurvey.forescout.com:8443
 http://updates.forescout.com
 http://updates.forescout.com:8080

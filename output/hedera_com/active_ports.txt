@@ -33,6 +33,10 @@ golang.hedera.com:443
 golang.hedera.com:80
 hcs.mainnet.mirrornode.hedera.com:22
 hcs.testnet.mirrornode.hedera.com:22
+hedera.com:443
+hedera.com:80
+hedera.com:8080
+hedera.com:8443
 help.hedera.com:443
 help.hedera.com:80
 help.hedera.com:8080
@@ -67,8 +71,6 @@ netki.hedera.com:443
 netki.hedera.com:80
 netki.hedera.com:8080
 netki.hedera.com:8443
-portal.hedera.com:443
-portal.hedera.com:80
 previewnet.mirrornode.hedera.com:443
 previewnet.mirrornode.hedera.com:80
 sandbox.portal.hedera.com:25

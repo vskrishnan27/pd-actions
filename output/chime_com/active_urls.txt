@@ -30,12 +30,12 @@ http://developer.chime.com
 http://developer.chime.com:8080
 http://email.gh-mail.chime.com
 http://email.gh-mail.chime.com:8080
+http://email.gh-mail.chime.com:8443
 http://email.gh-mail.ext.chime.com
 http://email.gh-mail.ext.chime.com:8080
 http://email.gh-mail.ext.chime.com:8443
 http://email.mg.chime.com
 http://email.mg.chime.com:8080
-http://email.mg.chime.com:8443
 http://email.teamable.chime.com
 http://email.teamable.chime.com:8080
 http://email.teamable.chime.com:8443
@@ -54,7 +54,6 @@ http://flashpaper.chime.com:8443
 http://handbooks.chime.com
 http://help-test.chime.com
 http://help-test.chime.com:8080
-http://help-test.chime.com:8443
 http://help.chime.com
 http://help.chime.com:8080
 http://help.chime.com:8443
@@ -76,7 +75,6 @@ http://links.notify.chime.com:8080
 http://links.notify.chime.com:8443
 http://locations-qa.chime.com
 http://locations-qa.chime.com:8080
-http://locations-qa.chime.com:8443
 http://locations.chime.com
 http://locations.chime.com:8080
 http://locations.chime.com:8443
@@ -142,7 +140,6 @@ http://wp-dev5.chime.com:8080
 http://wp-dev5.chime.com:8443
 http://wp-integ.chime.com
 http://wp-integ.chime.com:8080
-http://wp-integ.chime.com:8443
 http://wp-qa.chime.com
 http://wp-qa.chime.com:8080
 http://wp-qa.chime.com:8443
@@ -164,9 +161,9 @@ https://developer.chime.com:8443
 https://email.ethnio.chime.com
 https://email.ethnio.chime.com:80
 https://email.gh-mail.chime.com
-https://email.gh-mail.chime.com:8443
 https://email.gh-mail.ext.chime.com
 https://email.mg.chime.com
+https://email.mg.chime.com:8443
 https://email.talent.chime.com
 https://email.talent.chime.com:80
 https://email.teamable.chime.com
@@ -178,6 +175,7 @@ https://flashpaper-qa.chime.com
 https://flashpaper.chime.com
 https://handbooks.chime.com
 https://help-test.chime.com
+https://help-test.chime.com:8443
 https://help.chime.com
 https://inspector-dev1.chime.com
 https://inspector-qa.chime.com
@@ -186,6 +184,7 @@ https://interchange.chime.com
 https://links.account.chime.com
 https://links.notify.chime.com
 https://locations-qa.chime.com
+https://locations-qa.chime.com:8443
 https://locations.chime.com
 https://member-dev1.chime.com
 https://member-qa.chime.com
@@ -213,5 +212,6 @@ https://wp-dev3.chime.com
 https://wp-dev4.chime.com
 https://wp-dev5.chime.com
 https://wp-integ.chime.com
+https://wp-integ.chime.com:8443
 https://wp-qa.chime.com
 https://www.chime.com

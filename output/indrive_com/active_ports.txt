@@ -1,5 +1,3 @@
-beginit.indrive.com:443
-beginit.indrive.com:80
 book.indrive.com:443
 book.indrive.com:80
 careers.indrive.com:443
@@ -37,8 +35,6 @@ inapps.indrive.com:443
 inapps.indrive.com:80
 inapps2.indrive.com:443
 inapps2.indrive.com:80
-indrive.com:443
-indrive.com:80
 injob.indrive.com:443
 injob.indrive.com:80
 intercity.indrive.com:443

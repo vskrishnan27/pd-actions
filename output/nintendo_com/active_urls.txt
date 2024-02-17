@@ -35,7 +35,6 @@ http://bayonetta2.nintendo.com
 http://boxboy.nintendo.com
 http://boxingday.nintendo.com
 http://brainage.nintendo.com
-http://bravelydefault.nintendo.com
 http://bravelysecond.nintendo.com
 http://c.nintendo.com
 http://captaintoad.nintendo.com
@@ -90,6 +89,7 @@ http://donkeykong.nintendo.com
 http://downloads.developer.nintendo.com
 http://dragonquest.nintendo.com
 http://dragonquest6.nintendo.com
+http://dragonquest7.nintendo.com
 http://drluigi.nintendo.com
 http://dsioffer.nintendo.com
 http://e3-poll.nintendo.com
@@ -102,7 +102,6 @@ http://ec.paymentweb.nintendo.com
 http://ed193d809cb211e5aa6dac5221900864-sb-dev-studio.mii.nintendo.com
 http://en-americas-support.nintendo.com
 http://es-americas-support.nintendo.com
-http://es.nintendo.com
 http://events.nintendo.com
 http://everoasis.nintendo.com
 http://experience.nintendo.com
@@ -118,11 +117,11 @@ http://fireemblem.nintendo.com
 http://fireemblemechoes.nintendo.com
 http://fireemblemfates.nintendo.com
 http://fireemblemwarriors.nintendo.com
+http://flingsmash.nintendo.com
 http://flipnotestudio.nintendo.com
 http://flipnotestudio3d.nintendo.com
 http://forms-test.nintendo.com
 http://forms-test.nintendo.com:8080
-http://forms-test.nintendo.com:8443
 http://forms.nintendo.com
 http://forms.nintendo.com:8080
 http://forms.nintendo.com:8443
@@ -164,6 +163,7 @@ http://jd1.dev-argta.nintendo.com
 http://joyconrepair-tst.nintendo.com
 http://joyconrepair.nintendo.com
 http://ketzalscorridors.nintendo.com
+http://kidicarus.nintendo.com
 http://kidicarusuprising.nintendo.com
 http://labo.nintendo.com
 http://laytonvsphoenixwright.nintendo.com
@@ -231,7 +231,6 @@ http://nerd.nintendo.com
 http://nesc.nintendo.com
 http://nesremix.nintendo.com
 http://nesremix2.nintendo.com
-http://newsupermariobros2.nintendo.com
 http://newsupermariobrosds.nintendo.com
 http://newsupermariobrosu.nintendo.com
 http://ninjagaiden3.nintendo.com
@@ -254,6 +253,8 @@ http://octopathtraveler.nintendo.com
 http://ope-api.events.nintendo.com
 http://ope.dev.events.nintendo.com
 http://ope.events.nintendo.com
+http://ope.qa.events.nintendo.com
+http://ope.staging.events.nintendo.com
 http://p.nintendo.com
 http://pages.ccg.nintendo.com
 http://parentalcontrols.nintendo.com
@@ -285,6 +286,7 @@ http://publisher.nintendo.com
 http://pug-sbjeffsa03.sandbox.svc.publisher.nintendo.com
 http://pug.dev1.svc.publisher.nintendo.com
 http://pug.dev2.svc.publisher.nintendo.com
+http://pushmo.nintendo.com
 http://pushmoworld.nintendo.com
 http://puzzleanddragons.nintendo.com
 http://qa.events.nintendo.com
@@ -328,7 +330,6 @@ http://snipperclips.nintendo.com
 http://sp1.dev-argta-2.nintendo.com
 http://sp1.dev-argta.nintendo.com
 http://spiritcamera.nintendo.com
-http://splatoon2.nintendo.com
 http://sports.nintendo.com
 http://staging-store.nintendo.com
 http://staging-store2.nintendo.com
@@ -342,8 +343,10 @@ http://static.paymentweb.nintendo.com
 http://steeldiver.nintendo.com
 http://store-jp.nintendo.com
 http://store-jp.nintendo.com:8443
+http://store.nintendo.com
 http://storemedia.nintendo.com
 http://stretchmo.nintendo.com
+http://studio.mii.nintendo.com
 http://stylesavvy.nintendo.com
 http://stylesavvy2.nintendo.com
 http://supermario3dland.nintendo.com
@@ -655,6 +658,7 @@ https://flingsmash.nintendo.com
 https://flipnotestudio.nintendo.com
 https://flipnotestudio3d.nintendo.com
 https://forms-test.nintendo.com
+https://forms-test.nintendo.com:8443
 https://forms.nintendo.com
 https://fortunestreet.nintendo.com
 https://forums.nintendo.com
@@ -809,6 +813,8 @@ https://octopathtraveler.nintendo.com
 https://ope-api.events.nintendo.com
 https://ope.dev.events.nintendo.com
 https://ope.events.nintendo.com
+https://ope.qa.events.nintendo.com
+https://ope.staging.events.nintendo.com
 https://orders.activities.prod.gbo.noa.nintendo.com
 https://p.nintendo.com
 https://pages.ccg.nintendo.com
@@ -846,10 +852,11 @@ https://prod-store.nintendo.com
 https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
-https://ptdairwatch.noa.nintendo.com:1025
-https://ptdairwatch.noa.nintendo.com:1026
-https://ptdairwatch.noa.nintendo.com:427
-https://ptdairwatch.noa.nintendo.com:80
+https://ptdairwatch.noa.nintendo.com:13
+https://ptdairwatch.noa.nintendo.com:465
+https://ptdairwatch.noa.nintendo.com:5060
+https://ptdairwatch.noa.nintendo.com:515
+https://ptdairwatch.noa.nintendo.com:81
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com
@@ -907,7 +914,6 @@ https://sp1.dev-argta-2.nintendo.com
 https://sp1.dev-argta.nintendo.com
 https://spiritcamera.nintendo.com
 https://splatoon2.nintendo.com
-https://sports.nintendo.com
 https://sq.cpo.noa.nintendo.com
 https://staging-store.nintendo.com
 https://staging-store2.nintendo.com
@@ -920,8 +926,10 @@ https://starlight.nintendo.com
 https://static.paymentweb.nintendo.com
 https://steeldiver.nintendo.com
 https://store-jp.nintendo.com
+https://store.nintendo.com
 https://storemedia.nintendo.com
 https://stretchmo.nintendo.com
+https://studio.mii.nintendo.com
 https://stylesavvy.nintendo.com
 https://stylesavvy2.nintendo.com
 https://supermario3dland.nintendo.com

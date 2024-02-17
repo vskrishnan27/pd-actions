@@ -81,6 +81,7 @@ http://test-flickr.flickr.com
 http://test-identity-api.flickr.com
 http://test-jubilee.flickr.com
 http://trunk.guce.flickr.com
+http://up-resume.flickr.com
 http://up.flickr.com
 http://widgets.flickr.com
 http://www.flickr.com
@@ -166,6 +167,7 @@ https://test-flickr.flickr.com
 https://test-identity-api.flickr.com
 https://test-jubilee.flickr.com
 https://trunk.guce.flickr.com
+https://up-resume.flickr.com
 https://up.flickr.com
 https://widgets.flickr.com
 https://www.flickr.com

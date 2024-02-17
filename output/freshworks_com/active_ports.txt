@@ -613,6 +613,8 @@ ptsbv.freshworks.com:443
 ptsbv.freshworks.com:80
 publons.freshworks.com:443
 publons.freshworks.com:80
+qcommission-reports.freshworks.com:443
+qcommission-reports.freshworks.com:80
 quality.freshworks.com:443
 quizzes.freshworks.com:443
 quizzes.freshworks.com:80
@@ -710,10 +712,14 @@ trust.internal.freshworks.com:443
 trust.internal.freshworks.com:80
 ubx-au.freshworks.com:443
 ubx-au.freshworks.com:80
+ubx-eu.freshworks.com:443
+ubx-eu.freshworks.com:80
 ubx-in.freshworks.com:443
 ubx-in.freshworks.com:80
 ubx-mec.freshworks.com:443
 ubx-mec.freshworks.com:80
+ubx.freshworks.com:443
+ubx.freshworks.com:80
 uecelectronics.freshworks.com:443
 uecelectronics.freshworks.com:80
 umt1.freshworks.com:443

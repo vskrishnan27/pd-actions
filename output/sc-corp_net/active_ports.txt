@@ -224,6 +224,8 @@ drone-ci.sc-corp.net:443
 drone-ci.sc-corp.net:80
 drone-github.sc-corp.net:443
 drone-github.sc-corp.net:80
+eatmyshortener.gae.sc-corp.net:443
+eatmyshortener.gae.sc-corp.net:80
 eelabinventory.sc-corp.net:443
 eelabinventory.sc-corp.net:80
 email-scheduler-beta.sc-corp.net:443
@@ -259,8 +261,6 @@ flowrida-unlockables.sc-corp.net:443
 flowrida-unlockables.sc-corp.net:80
 forge-staging-iap.sc-corp.net:443
 forge-staging-iap.sc-corp.net:80
-gae.sc-corp.net:443
-gae.sc-corp.net:80
 gerrit.sc-corp.net:443
 gerrit.sc-corp.net:80
 ghe-dev.sc-corp.net:443
@@ -304,12 +304,12 @@ jira-dev.sc-corp.net:443
 jira-dev.sc-corp.net:80
 jira-mx-dev.sc-corp.net:443
 jira-mx-dev.sc-corp.net:80
-jira-mx.sc-corp.net:443
-jira-mx.sc-corp.net:80
 jira-stage-api.sc-corp.net:443
 jira-stage-api.sc-corp.net:80
 jira-stage.sc-corp.net:443
 jira-stage.sc-corp.net:80
+jira.sc-corp.net:443
+jira.sc-corp.net:80
 key-master-beta.sc-corp.net:10000
 key-master-beta.sc-corp.net:1025
 key-master-beta.sc-corp.net:1026
@@ -868,6 +868,8 @@ smp-dev.api.search.sc-corp.net:443
 smp-dev.api.search.sc-corp.net:80
 smp-prod.api.search.sc-corp.net:443
 smp-prod.api.search.sc-corp.net:80
+snap-lion.gae.sc-corp.net:443
+snap-lion.gae.sc-corp.net:80
 snap-lion.sc-corp.net:443
 snap-lion.sc-corp.net:80
 snap-sre.gae.sc-corp.net:443

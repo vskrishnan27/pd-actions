@@ -303,6 +303,8 @@ io.playstation.com:443
 io.playstation.com:80
 is.playstation.com:443
 is.playstation.com:80
+ivaldi.playstation.com:443
+ivaldi.playstation.com:80
 jp.playstation.com:443
 jp.playstation.com:80
 juega.playstation.com:443
@@ -384,6 +386,9 @@ profile.api.playstation.com:443
 profile.api.playstation.com:80
 profiles.us.playstation.com:443
 profiles.us.playstation.com:80
+ps-support.playstation.com:443
+ps-support.playstation.com:80
+ps-support.playstation.com:8443
 ps.playstation.com:443
 ps3.us.playstation.com:443
 ps3.us.playstation.com:80

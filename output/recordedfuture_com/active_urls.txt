@@ -15,7 +15,6 @@ http://email.recordedfuture.com:8080
 http://email.recordedfuture.com:8443
 http://express-api.recordedfuture.com
 http://express-api.recordedfuture.com:8080
-http://express-api.recordedfuture.com:8443
 http://files.recordedfuture.com
 http://files.recordedfuture.com:443
 http://files.recordedfuture.com:8080
@@ -29,8 +28,10 @@ http://go.recordedfuture.com:8080
 http://gslink.recordedfuture.com
 http://gsnlink.recordedfuture.com
 http://gsnlink.recordedfuture.com:8080
+http://gsnlink.recordedfuture.com:8443
 http://id.recordedfuture.com
 http://id.recordedfuture.com:8080
+http://id.recordedfuture.com:8443
 http://ideas.recordedfuture.com
 http://ideas.recordedfuture.com:8080
 http://ideas.recordedfuture.com:8443
@@ -56,9 +57,6 @@ http://university.recordedfuture.com
 http://url5653.recordedfuture.com
 http://url5653.recordedfuture.com:8080
 http://url5653.recordedfuture.com:8443
-http://ww.recordedfuture.com
-http://ww.recordedfuture.com:8080
-http://ww.recordedfuture.com:8443
 http://www.cms.recordedfuture.com
 http://www.preprod.cms.recordedfuture.com
 http://www.preprod.recordedfuture.com
@@ -76,15 +74,14 @@ https://cms.recordedfuture.com
 https://community.recordedfuture.com
 https://email.recordedfuture.com
 https://express-api.recordedfuture.com
+https://express-api.recordedfuture.com:8443
 https://futuristuniversity.recordedfuture.com
 https://get.recordedfuture.com
 https://go.recordedfuture.com
 https://go.recordedfuture.com:8443
 https://gslink.recordedfuture.com
 https://gsnlink.recordedfuture.com
-https://gsnlink.recordedfuture.com:8443
 https://id.recordedfuture.com
-https://id.recordedfuture.com:8443
 https://ideas.recordedfuture.com
 https://insiktgroup.recordedfuture.com
 https://insiktgroup.recordedfuture.com:8443
@@ -101,7 +98,6 @@ https://status.recordedfuture.com
 https://support.recordedfuture.com
 https://university.recordedfuture.com
 https://url5653.recordedfuture.com
-https://ww.recordedfuture.com
 https://www.cms.recordedfuture.com
 https://www.preprod.cms.recordedfuture.com
 https://www.recordedfuture.com

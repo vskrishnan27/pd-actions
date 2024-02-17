@@ -109,10 +109,6 @@ cloud-api.coinbase.com:8080
 cloud-api.coinbase.com:8443
 cloud-docs-beta.coinbase.com:443
 cloud-docs-beta.coinbase.com:80
-cloud.coinbase.com:443
-cloud.coinbase.com:80
-cloud.coinbase.com:8080
-cloud.coinbase.com:8443
 cohort-service.crypto.coinbase.com:443
 cohort-service.crypto.coinbase.com:80
 cohort-service.crypto.coinbase.com:8080
@@ -121,10 +117,6 @@ comm.coinbase.com:443
 comm.coinbase.com:80
 comm.coinbase.com:8080
 comm.coinbase.com:8443
-commerce.coinbase.com:443
-commerce.coinbase.com:80
-commerce.coinbase.com:8080
-commerce.coinbase.com:8443
 community.coinbase.com:443
 community.coinbase.com:80
 community.coinbase.com:8080
@@ -141,6 +133,10 @@ contentful.coinbase.com:443
 contentful.coinbase.com:80
 contentful.coinbase.com:8080
 contentful.coinbase.com:8443
+custody.coinbase.com:443
+custody.coinbase.com:80
+custody.coinbase.com:8080
+custody.coinbase.com:8443
 data.coinbase.com:443
 data.coinbase.com:80
 data.coinbase.com:8080

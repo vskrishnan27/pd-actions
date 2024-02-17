@@ -16,6 +16,7 @@ http://go.moderntreasury.com
 http://help.moderntreasury.com
 http://help.moderntreasury.com:8080
 http://help.moderntreasury.com:8443
+http://ledgersync-dev.moderntreasury.com
 http://link.moderntreasury.com
 http://mta-sts.moderntreasury.com
 http://payments.demo.moderntreasury.com

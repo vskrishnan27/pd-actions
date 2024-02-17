@@ -1,6 +1,3 @@
-http://3.basecamp.com
-http://3.basecamp.com:8080
-http://3.basecamp.com:8443
 http://asset1.basecamp.com
 http://asset1.basecamp.com:8080
 http://asset1.basecamp.com:8443
@@ -20,6 +17,7 @@ http://chat.3.basecamp.com:8080
 http://chat.3.basecamp.com:8443
 http://clients.3.basecamp.com
 http://clients.3.basecamp.com:8080
+http://clients.3.basecamp.com:8443
 http://help.basecamp.com
 http://help.basecamp.com:8080
 http://marketing-staging.basecamp.com
@@ -62,7 +60,6 @@ http://www.basecamp.com
 http://www.basecamp.com:8080
 http://www.basecamp.com:8443
 http://www.updates.basecamp.com
-https://3.basecamp.com
 https://asset1.basecamp.com
 https://basecamp.com
 https://beta.basecamp.com
@@ -72,7 +69,6 @@ https://beta2.3.basecamp.com
 https://brasil.basecamp.com
 https://chat.3.basecamp.com
 https://clients.3.basecamp.com
-https://clients.3.basecamp.com:8443
 https://help.basecamp.com
 https://help.basecamp.com:8443
 https://marketing-staging.basecamp.com

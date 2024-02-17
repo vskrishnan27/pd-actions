@@ -15,9 +15,10 @@ http://bacchus.deribit.com
 http://blog.deribit.com
 http://blog.deribit.com:8080
 http://blog.deribit.com:8443
-http://chattest.deribit.com
+http://chat.deribit.com
 http://conference.chat.deribit.com
 http://conference.chattest.deribit.com
+http://deribit.com
 http://docs.deribit.com
 http://docs.deribit.com:8080
 http://docs.deribit.com:8443
@@ -62,9 +63,10 @@ https://assets.deribit.com
 https://bacchus-asia.deribit.com
 https://bacchus.deribit.com
 https://blog.deribit.com
-https://chattest.deribit.com
+https://chat.deribit.com
 https://conference.chat.deribit.com
 https://conference.chattest.deribit.com
+https://deribit.com
 https://docs.deribit.com
 https://echop.deribit.com
 https://echop.deribit.com:8443

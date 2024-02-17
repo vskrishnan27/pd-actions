@@ -282,6 +282,7 @@ merchant-feedback.shopify.com
 milestones.shopify.com
 mobile.shopify.com
 mta.email.shopify.com
+mta2.email.shopify.com
 mta3.email.shopify.com
 mta4.email.shopify.com
 mx.shopify.com
@@ -343,7 +344,6 @@ o6.mailer.shopify.com
 o7.mailer.shopify.com
 o8.mailer.shopify.com
 o9.mailer.shopify.com
-oob.toronto.shopify.com
 open.shopify.com
 p.ssl.shopify.com
 partner-training.shopify.com
@@ -473,7 +473,6 @@ thescroll.shopify.com
 tim-exclusive.shopify.com
 timber.shopify.com
 tmt.shopify.com
-toronto.shopify.com
 torontoretailtour.shopify.com
 toykingdom.shopify.com
 twominutetutorials.shopify.com
@@ -529,7 +528,6 @@ v200.ae2.br.hy094.chi2.shopify.com
 vault.shopify.com
 vaultapp1.ec2.shopify.com
 videomaker.shopify.com
-view.email.shopify.com
 vision.shopify.com
 wc.shopify.com
 weareopen.shopify.com

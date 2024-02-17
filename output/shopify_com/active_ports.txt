@@ -1116,10 +1116,6 @@ o.ssl.shopify.com:443
 o.ssl.shopify.com:80
 o.ssl.shopify.com:8080
 o.ssl.shopify.com:8443
-oob.toronto.shopify.com:443
-oob.toronto.shopify.com:80
-oob.toronto.shopify.com:8080
-oob.toronto.shopify.com:8443
 open.shopify.com:443
 open.shopify.com:80
 open.shopify.com:8080
@@ -1580,10 +1576,6 @@ tmt.shopify.com:443
 tmt.shopify.com:80
 tmt.shopify.com:8080
 tmt.shopify.com:8443
-toronto.shopify.com:443
-toronto.shopify.com:80
-toronto.shopify.com:8080
-toronto.shopify.com:8443
 torontoretailtour.shopify.com:443
 torontoretailtour.shopify.com:80
 torontoretailtour.shopify.com:8080
@@ -1790,10 +1782,6 @@ videomaker.shopify.com:443
 videomaker.shopify.com:80
 videomaker.shopify.com:8080
 videomaker.shopify.com:8443
-view.email.shopify.com:443
-view.email.shopify.com:80
-view.email.shopify.com:8080
-view.email.shopify.com:8443
 vision.shopify.com:443
 vision.shopify.com:80
 vision.shopify.com:8080

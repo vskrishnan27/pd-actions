@@ -554,8 +554,6 @@ http://nz.checkout.hardware.shopify.com
 http://nz.checkout.hardware.shopify.com:8080
 http://o.ssl.shopify.com
 http://o.ssl.shopify.com:8080
-http://oob.toronto.shopify.com
-http://oob.toronto.shopify.com:8080
 http://open.shopify.com
 http://open.shopify.com:8080
 http://p.ssl.shopify.com
@@ -785,8 +783,6 @@ http://timber.shopify.com
 http://timber.shopify.com:8080
 http://tmt.shopify.com
 http://tmt.shopify.com:8080
-http://toronto.shopify.com
-http://toronto.shopify.com:8080
 http://torontoretailtour.shopify.com
 http://torontoretailtour.shopify.com:8080
 http://toykingdom.shopify.com
@@ -890,8 +886,6 @@ http://vaultapp1.ec2.shopify.com
 http://vaultapp1.ec2.shopify.com:8080
 http://videomaker.shopify.com
 http://videomaker.shopify.com:8080
-http://view.email.shopify.com
-http://view.email.shopify.com:8080
 http://vision.shopify.com
 http://vision.shopify.com:8080
 http://wc.shopify.com
@@ -1493,8 +1487,6 @@ https://nz.checkout.hardware.shopify.com
 https://nz.checkout.hardware.shopify.com:8443
 https://o.ssl.shopify.com
 https://o.ssl.shopify.com:8443
-https://oob.toronto.shopify.com
-https://oob.toronto.shopify.com:8443
 https://open.shopify.com
 https://open.shopify.com:8443
 https://p.ssl.shopify.com
@@ -1725,8 +1717,6 @@ https://timber.shopify.com
 https://timber.shopify.com:8443
 https://tmt.shopify.com
 https://tmt.shopify.com:8443
-https://toronto.shopify.com
-https://toronto.shopify.com:8443
 https://torontoretailtour.shopify.com
 https://torontoretailtour.shopify.com:8443
 https://toykingdom.shopify.com
@@ -1830,8 +1820,6 @@ https://vaultapp1.ec2.shopify.com
 https://vaultapp1.ec2.shopify.com:8443
 https://videomaker.shopify.com
 https://videomaker.shopify.com:8443
-https://view.email.shopify.com
-https://view.email.shopify.com:8443
 https://vision.shopify.com
 https://vision.shopify.com:8443
 https://wc.shopify.com

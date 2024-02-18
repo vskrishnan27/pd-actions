@@ -66,7 +66,6 @@ http://mobileconfig.mail.hostinger.com
 http://ovjeriti.hostinger.com
 http://patvirtinti.hostinger.com
 http://payments.hostinger.com
-http://payments.hostinger.com:8443
 http://potvrdit.hostinger.com
 http://potvrzeni.hostinger.com
 http://rdns1.hostinger.com
@@ -85,6 +84,7 @@ http://se.email.hostinger.com:8443
 http://sql111.hostinger.com
 http://sql111.hostinger.com:443
 http://sso.hostinger.com
+http://sso.hostinger.com:8080
 http://sso.hostinger.com:8443
 http://statuspage.hostinger.com
 http://statuspage.hostinger.com:8080
@@ -128,6 +128,7 @@ http://www.flockcalendar.hostinger.com
 http://www.flockcontacts.hostinger.com
 http://www.flockmail.hostinger.com
 http://www.hostinger.com
+http://www.hostinger.com:8080
 http://www.hostinger.com:8443
 http://www.titancalendar.hostinger.com
 http://www.titancontacts.hostinger.com
@@ -180,6 +181,7 @@ https://mobileconfig.mail.hostinger.com
 https://ovjeriti.hostinger.com
 https://patvirtinti.hostinger.com
 https://payments.hostinger.com
+https://payments.hostinger.com:8443
 https://potvrdit.hostinger.com
 https://potvrzeni.hostinger.com
 https://rdns1.hostinger.com

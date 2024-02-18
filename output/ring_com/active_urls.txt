@@ -86,6 +86,7 @@ http://firmwares.ring.com:8443
 http://fr-fr.ring.com
 http://fr-fr.ring.com:8080
 http://fw-wrapup.ring.com
+http://fw-wrapup.ring.com:8443
 http://gamma.approvals.shuttle.ring.com
 http://gamma.ring.com
 http://get.ring.com
@@ -336,7 +337,6 @@ https://fr-fr.ring.com:8443
 https://fw-eventstream.ring.com
 https://fw-snaps.ring.com
 https://fw-wrapup.ring.com
-https://fw-wrapup.ring.com:8443
 https://gamma.approvals.shuttle.ring.com
 https://gamma.ring.com
 https://get.ring.com
@@ -346,20 +346,12 @@ https://gql.neighbors.ring.com
 https://gws.ap-northeast-1.ringo.ring.com
 https://gws.ap-south-1.ringo.ring.com
 https://gws.ap-southeast-1.ringo.ring.com
-https://gws.eu-west-1.ringo.dev.ring.com
-https://gws.eu-west-1.ringo.qa.ring.com
 https://gws.eu-west-1.ringo.ring.com
 https://gws.us-east-1.ringo.dev.ring.com
 https://gws.us-east-1.ringo.qa.ring.com
 https://gws.us-east-1.ringo.release.ring.com
 https://gws.us-east-1.ringo.ring.com
-https://gws.us-east-2.ringo.dev.ring.com
-https://gws.us-east-2.ringo.qa.ring.com
-https://gws.us-east-2.ringo.release.ring.com
 https://gws.us-east-2.ringo.ring.com
-https://gws.us-west-2.ringo.dev.ring.com
-https://gws.us-west-2.ringo.qa.ring.com
-https://gws.us-west-2.ringo.release.ring.com
 https://gws.us-west-2.ringo.ring.com
 https://help.publicsafety.ring.com
 https://ip.ring.com

@@ -20,7 +20,6 @@ http://cdg.corp.stripe.com:443
 http://cgk.corp.stripe.com:443
 http://checkout-cookies.stripe.com
 http://checkout.stripe.com
-http://climate.stripe.com
 http://cmh.corp.stripe.com:443
 http://code.stripe.com
 http://community.stripe.com
@@ -30,7 +29,6 @@ http://connections-auth.stripe.com
 http://connections-barclays.stripe.com
 http://connections-sandbox.stripe.com
 http://crypto-js.stripe.com
-http://dashboard-admin.stripe.com
 http://dashboard-canary-1-percent.stripe.com
 http://dashboard-canary-25-percent.stripe.com
 http://dashboard-canary-5-percent.stripe.com
@@ -51,7 +49,6 @@ http://edge-dashboard.stripe.com
 http://edge-donate.stripe.com
 http://edge-invoice.stripe.com
 http://edge-js-tree.stripe.com
-http://edge-js-tree.stripe.com:443
 http://edge-js.stripe.com
 http://edge-manage.stripe.com
 http://edge-pay.stripe.com
@@ -79,6 +76,7 @@ http://frontend-global-fiad2.stripe.com
 http://frontend-global-fsin1.stripe.com
 http://frontend-global-tree.stripe.com
 http://gateway.stripe.com
+http://gator.stripe.com
 http://gems.stripe.com
 http://git.corp.stripe.com:443
 http://global.stripe.com
@@ -101,7 +99,6 @@ http://lists.stripe.com
 http://local.corp.stripe.com:443
 http://lokalise-hooks.stripe.com
 http://mail.stripe.com
-http://manage.stripe.com
 http://marketplace.stripe.com
 http://media.stripe.com
 http://merchant-ui-api.stripe.com
@@ -109,12 +106,10 @@ http://northwest.corp.stripe.com:443
 http://not-a-git.corp.stripe.com:443
 http://npm-registry.local.corp.stripe.com:443
 http://ops-docs.corp.stripe.com:443
-http://pay.stripe.com
 http://payments.stripe.com
 http://pdx.corp.stripe.com:443
 http://pm-hooks.stripe.com
 http://pm-redirects.stripe.com
-http://ppm.stripe.com
 http://preprod-cmh.corp.stripe.com:443
 http://preprod-connect-js.stripe.com
 http://preprod-connections-sandbox.stripe.com
@@ -127,7 +122,6 @@ http://prod-frontend-flow.stripe.com
 http://prod-js-tree.stripe.com
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
-http://public.stripe.com
 http://q.stripe.com
 http://qa-api-global-bluegreen.stripe.com
 http://qa-api.stripe.com
@@ -146,6 +140,7 @@ http://qa-status.stripe.com
 http://qa-support-conversations.stripe.com
 http://qa.corp.stripe.com:443
 http://qr.stripe.com
+http://r.stripe.com
 http://sales-live-chat.stripe.com
 http://sessions.stripe.com
 http://shop.stripe.com
@@ -159,7 +154,6 @@ http://stripecli-ws-nw.stripe.com
 http://support-conversations.stripe.com
 http://support.stripe.com
 http://terminal-simulator.stripe.com
-http://terminal.stripe.com
 http://uploads.stripe.com
 http://verificator-main.stripe.com
 http://verify.stripe.com
@@ -196,7 +190,6 @@ https://connections-auth.stripe.com
 https://connections-barclays.stripe.com
 https://connections-sandbox.stripe.com
 https://crypto-js.stripe.com
-https://dashboard-admin.stripe.com
 https://dashboard-canary-1-percent.stripe.com
 https://dashboard-canary-25-percent.stripe.com
 https://dashboard-canary-5-percent.stripe.com
@@ -208,12 +201,12 @@ https://donate.stripe.com
 https://edge-billing.stripe.com
 https://edge-book.stripe.com
 https://edge-buy.stripe.com
-https://edge-checkout-tree.stripe.com
 https://edge-checkout.stripe.com
 https://edge-dashboard-admin.stripe.com
 https://edge-dashboard.stripe.com
 https://edge-donate.stripe.com
 https://edge-invoice.stripe.com
+https://edge-js-tree.stripe.com
 https://edge-js.stripe.com
 https://edge-manage.stripe.com
 https://edge-pay.stripe.com
@@ -263,11 +256,9 @@ https://lists.stripe.com
 https://lokalise-hooks.stripe.com
 https://m.stripe.com
 https://mail.stripe.com
-https://manage.stripe.com
 https://marketplace.stripe.com
 https://media.stripe.com
 https://merchant-ui-api.stripe.com
-https://pay.stripe.com
 https://payments.stripe.com
 https://pm-hooks.stripe.com
 https://pm-redirects.stripe.com
@@ -281,16 +272,17 @@ https://prod-frontend-flow.stripe.com
 https://prod-js-tree.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
-https://public.stripe.com
 https://q.stripe.com
 https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com
 https://qa-connect-js.stripe.com
 https://qa-connections-sandbox.stripe.com
 https://qa-crypto-js.stripe.com
+https://qa-ipaddr-3ds.stripe.com
 https://qa-status.stripe.com
 https://qa-support-conversations.stripe.com
 https://qr.stripe.com
+https://r.stripe.com
 https://sales-live-chat.stripe.com
 https://sessions.stripe.com
 https://shop.stripe.com

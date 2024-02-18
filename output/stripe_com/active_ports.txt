@@ -60,8 +60,6 @@ connections-sandbox.stripe.com:443
 connections-sandbox.stripe.com:80
 crypto-js.stripe.com:443
 crypto-js.stripe.com:80
-dashboard-admin.stripe.com:443
-dashboard-admin.stripe.com:80
 dashboard-canary-1-percent.stripe.com:443
 dashboard-canary-1-percent.stripe.com:80
 dashboard-canary-25-percent.stripe.com:443
@@ -199,8 +197,6 @@ lokalise-hooks.stripe.com:80
 m.stripe.com:443
 mail.stripe.com:443
 mail.stripe.com:80
-manage.stripe.com:443
-manage.stripe.com:80
 marketplace.stripe.com:443
 marketplace.stripe.com:80
 media.stripe.com:443
@@ -211,8 +207,6 @@ northwest.corp.stripe.com:443
 not-a-git.corp.stripe.com:443
 npm-registry.local.corp.stripe.com:443
 ops-docs.corp.stripe.com:443
-pay.stripe.com:443
-pay.stripe.com:80
 payments.stripe.com:443
 payments.stripe.com:80
 pdx.corp.stripe.com:443
@@ -243,8 +237,6 @@ prod-webhooks-flow.stripe.com:443
 prod-webhooks-flow.stripe.com:80
 products.stripe.com:443
 products.stripe.com:80
-public.stripe.com:443
-public.stripe.com:80
 q.stripe.com:443
 q.stripe.com:80
 qa-api-global-bluegreen.stripe.com:443
@@ -273,6 +265,8 @@ qa-support-conversations.stripe.com:80
 qa.corp.stripe.com:443
 qr.stripe.com:443
 qr.stripe.com:80
+r.stripe.com:443
+r.stripe.com:80
 sales-live-chat.stripe.com:443
 sales-live-chat.stripe.com:80
 sessions.stripe.com:443

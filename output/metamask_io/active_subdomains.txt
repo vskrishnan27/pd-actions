@@ -65,6 +65,8 @@ notification-us-east-2.uat-api.cx.metamask.io
 notification.api.cx.metamask.io
 notification.dev-api.cx.metamask.io
 notification.uat-api.cx.metamask.io
+oidc-us-east-2.dev-api.cx.metamask.io
+oidc.dev-api.cx.metamask.io
 phishing-detection-us-east-2.api.cx.metamask.io
 phishing-detection-us-east-2.dev-api.cx.metamask.io
 phishing-detection-us-east-2.uat-api.cx.metamask.io

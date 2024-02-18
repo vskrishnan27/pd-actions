@@ -67,7 +67,6 @@ http://bridge.api.cx.metamask.io:8080
 http://bridge.api.cx.metamask.io:8443
 http://bridge.dev-api.cx.metamask.io
 http://bridge.dev-api.cx.metamask.io:8080
-http://bridge.dev-api.cx.metamask.io:8443
 http://bridge.uat-api.cx.metamask.io
 http://bridge.uat-api.cx.metamask.io:8080
 http://bridge.uat-api.cx.metamask.io:8443
@@ -121,7 +120,6 @@ http://learn.metamask.io
 http://metabase.activity.metamask.io
 http://metabase.activity.metamask.io:8080
 http://metabase.activity.metamask.io:8443
-http://metamask.io
 http://mobile.metamask.io
 http://mobile.metamask.io:8080
 http://my-sample-api2-us-east-2.dev-api.cx.metamask.io
@@ -163,8 +161,15 @@ http://notification.dev-api.cx.metamask.io:8443
 http://notification.uat-api.cx.metamask.io
 http://notification.uat-api.cx.metamask.io:8080
 http://notification.uat-api.cx.metamask.io:8443
+http://oidc-us-east-2.dev-api.cx.metamask.io
+http://oidc-us-east-2.dev-api.cx.metamask.io:8080
+http://oidc-us-east-2.dev-api.cx.metamask.io:8443
+http://oidc.dev-api.cx.metamask.io
+http://oidc.dev-api.cx.metamask.io:8080
+http://oidc.dev-api.cx.metamask.io:8443
 http://phishing-detection-us-east-2.api.cx.metamask.io
 http://phishing-detection-us-east-2.api.cx.metamask.io:8080
+http://phishing-detection-us-east-2.api.cx.metamask.io:8443
 http://phishing-detection-us-east-2.dev-api.cx.metamask.io
 http://phishing-detection-us-east-2.dev-api.cx.metamask.io:8080
 http://phishing-detection-us-east-2.dev-api.cx.metamask.io:8443
@@ -185,6 +190,7 @@ http://portfolio-us-east-2.api.cx.metamask.io:8080
 http://portfolio-us-east-2.api.cx.metamask.io:8443
 http://portfolio-us-east-2.dev-api.cx.metamask.io
 http://portfolio-us-east-2.dev-api.cx.metamask.io:8080
+http://portfolio-us-east-2.dev-api.cx.metamask.io:8443
 http://portfolio-us-east-2.uat-api.cx.metamask.io
 http://portfolio-us-east-2.uat-api.cx.metamask.io:8080
 http://portfolio-us-east-2.uat-api.cx.metamask.io:8443
@@ -193,7 +199,6 @@ http://portfolio.api.cx.metamask.io:8080
 http://portfolio.api.cx.metamask.io:8443
 http://portfolio.dev-api.cx.metamask.io
 http://portfolio.dev-api.cx.metamask.io:8080
-http://portfolio.dev-api.cx.metamask.io:8443
 http://portfolio.metamask.io
 http://portfolio.uat-api.cx.metamask.io
 http://portfolio.uat-api.cx.metamask.io:8080
@@ -268,6 +273,7 @@ http://push.dev-api.cx.metamask.io:8080
 http://push.dev-api.cx.metamask.io:8443
 http://push.uat-api.cx.metamask.io
 http://push.uat-api.cx.metamask.io:8080
+http://push.uat-api.cx.metamask.io:8443
 http://snaps.metamask.io
 http://stage.portfolio.metamask.io
 http://start.metamask.io
@@ -386,6 +392,7 @@ https://bridge-us-east-2.dev-api.cx.metamask.io
 https://bridge-us-east-2.uat-api.cx.metamask.io
 https://bridge.api.cx.metamask.io
 https://bridge.dev-api.cx.metamask.io
+https://bridge.dev-api.cx.metamask.io:8443
 https://bridge.uat-api.cx.metamask.io
 https://community.metamask.io
 https://dev-static.cx.metamask.io
@@ -412,7 +419,6 @@ https://labels-us-east-2.dev-api.cx.metamask.io
 https://labels.dev-api.cx.metamask.io
 https://learn.metamask.io
 https://metabase.activity.metamask.io
-https://metamask.io
 https://mobile.metamask.io
 https://mobile.metamask.io:8443
 https://my-sample-api2-us-east-2.dev-api.cx.metamask.io
@@ -428,8 +434,9 @@ https://notification-us-east-2.uat-api.cx.metamask.io
 https://notification.api.cx.metamask.io
 https://notification.dev-api.cx.metamask.io
 https://notification.uat-api.cx.metamask.io
+https://oidc-us-east-2.dev-api.cx.metamask.io
+https://oidc.dev-api.cx.metamask.io
 https://phishing-detection-us-east-2.api.cx.metamask.io
-https://phishing-detection-us-east-2.api.cx.metamask.io:8443
 https://phishing-detection-us-east-2.dev-api.cx.metamask.io
 https://phishing-detection-us-east-2.uat-api.cx.metamask.io
 https://phishing-detection.api.cx.metamask.io
@@ -437,10 +444,10 @@ https://phishing-detection.dev-api.cx.metamask.io
 https://phishing-detection.uat-api.cx.metamask.io
 https://portfolio-us-east-2.api.cx.metamask.io
 https://portfolio-us-east-2.dev-api.cx.metamask.io
-https://portfolio-us-east-2.dev-api.cx.metamask.io:8443
 https://portfolio-us-east-2.uat-api.cx.metamask.io
 https://portfolio.api.cx.metamask.io
 https://portfolio.dev-api.cx.metamask.io
+https://portfolio.dev-api.cx.metamask.io:8443
 https://portfolio.metamask.io
 https://portfolio.uat-api.cx.metamask.io
 https://price-us-east-2.api.cx.metamask.io
@@ -468,7 +475,6 @@ https://push-us-east-2.uat-api.cx.metamask.io
 https://push.api.cx.metamask.io
 https://push.dev-api.cx.metamask.io
 https://push.uat-api.cx.metamask.io
-https://push.uat-api.cx.metamask.io:8443
 https://snaps.metamask.io
 https://stage.portfolio.metamask.io
 https://start.metamask.io

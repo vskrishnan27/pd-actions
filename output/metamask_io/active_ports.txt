@@ -174,8 +174,6 @@ metabase.activity.metamask.io:443
 metabase.activity.metamask.io:80
 metabase.activity.metamask.io:8080
 metabase.activity.metamask.io:8443
-metamask.io:443
-metamask.io:80
 mobile.metamask.io:443
 mobile.metamask.io:80
 mobile.metamask.io:8080
@@ -232,6 +230,14 @@ notification.uat-api.cx.metamask.io:443
 notification.uat-api.cx.metamask.io:80
 notification.uat-api.cx.metamask.io:8080
 notification.uat-api.cx.metamask.io:8443
+oidc-us-east-2.dev-api.cx.metamask.io:443
+oidc-us-east-2.dev-api.cx.metamask.io:80
+oidc-us-east-2.dev-api.cx.metamask.io:8080
+oidc-us-east-2.dev-api.cx.metamask.io:8443
+oidc.dev-api.cx.metamask.io:443
+oidc.dev-api.cx.metamask.io:80
+oidc.dev-api.cx.metamask.io:8080
+oidc.dev-api.cx.metamask.io:8443
 phishing-detection-us-east-2.api.cx.metamask.io:443
 phishing-detection-us-east-2.api.cx.metamask.io:80
 phishing-detection-us-east-2.api.cx.metamask.io:8080

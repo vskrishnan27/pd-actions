@@ -4,14 +4,12 @@ client-metrics.moonactive.net:8080
 client-metrics.moonactive.net:8443
 cm-analytics.moonactive.net:443
 cm-analytics.moonactive.net:80
+cm-analytics.moonactive.net:8081
 cm-gs-analytics.moonactive.net:443
 cm-gs-analytics.moonactive.net:80
+cm-gs-analytics.moonactive.net:8081
 cm-minigames.moonactive.net:443
 cm-minigames.moonactive.net:80
-moonactive.net:443
-moonactive.net:80
-moonactive.net:8080
-moonactive.net:8443
 social-images.moonactive.net:443
 social-images.moonactive.net:80
 social-images.moonactive.net:8080

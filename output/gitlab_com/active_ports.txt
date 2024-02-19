@@ -735,10 +735,6 @@ contributors.gitlab.com:443
 contributors.gitlab.com:80
 contributors.gitlab.com:8080
 contributors.gitlab.com:8443
-customers.gitlab.com:443
-customers.gitlab.com:80
-customers.gitlab.com:8080
-customers.gitlab.com:8443
 customers.staging-ref.gitlab.com:443
 customers.staging-ref.gitlab.com:80
 customers.staging-ref.gitlab.com:8080
@@ -759,6 +755,8 @@ developer.gitlab.com:443
 developer.gitlab.com:80
 doc.gitlab.com:443
 doc.gitlab.com:80
+docs.gitlab.com:443
+docs.gitlab.com:80
 ee.gitlab.com:443
 ee.gitlab.com:80
 ee.gitlab.com:8080

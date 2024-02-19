@@ -176,8 +176,6 @@ metabase.activity.metamask.io:443
 metabase.activity.metamask.io:80
 metabase.activity.metamask.io:8080
 metabase.activity.metamask.io:8443
-metamask.io:443
-metamask.io:80
 mobile.metamask.io:443
 mobile.metamask.io:80
 mobile.metamask.io:8080
@@ -388,6 +386,8 @@ push.uat-api.cx.metamask.io:443
 push.uat-api.cx.metamask.io:80
 push.uat-api.cx.metamask.io:8080
 push.uat-api.cx.metamask.io:8443
+snaps.metamask.io:443
+snaps.metamask.io:80
 stage.portfolio.metamask.io:443
 stage.portfolio.metamask.io:80
 start.metamask.io:443

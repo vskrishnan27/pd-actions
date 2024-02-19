@@ -25,6 +25,7 @@ http://internal.sandbox.delivery.indrive.com
 http://job.indrive.com
 http://landing.indrive.com
 http://lp-food.indrive.com
+http://lp-services.indrive.com
 http://media.indrive.com
 http://promo.indrive.com
 http://promotion.indrive.com
@@ -83,6 +84,7 @@ https://internal.sandbox.delivery.indrive.com
 https://job.indrive.com
 https://landing.indrive.com
 https://lp-food.indrive.com
+https://lp-services.indrive.com
 https://media.indrive.com
 https://promo.indrive.com
 https://promotion.indrive.com

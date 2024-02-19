@@ -198,6 +198,7 @@ http://jacoinchelp.freshworks.com
 http://janlinders.freshworks.com
 http://kds1-org.freshworks.com
 http://kindehelp.freshworks.com
+http://kunaexchange-org.freshworks.com
 http://kusd.freshworks.com
 http://lampemesterendk.freshworks.com
 http://learning.freshworks.com
@@ -300,7 +301,6 @@ http://topdownsystems.freshworks.com
 http://toyotacf.freshworks.com
 http://trust.freshworks.com
 http://trust.internal.freshworks.com
-http://ubx-au.freshworks.com
 http://ubx-eu.freshworks.com
 http://ubx-in.freshworks.com
 http://ubx-mec.freshworks.com
@@ -553,12 +553,14 @@ https://intango.freshworks.com
 https://integrations.freshworks.com
 https://internalreferral.freshworks.com
 https://intuitionpublishingltd.freshworks.com
+https://investor.freshworks.com
 https://invohealthcare.freshworks.com
 https://istonline.freshworks.com
 https://jacoinchelp.freshworks.com
 https://janlinders.freshworks.com
 https://kds1-org.freshworks.com
 https://kindehelp.freshworks.com
+https://kunaexchange-org.freshworks.com
 https://kusd.freshworks.com
 https://lampemesterendk.freshworks.com
 https://lighthouse.freshworks.com
@@ -658,7 +660,6 @@ https://topdownsystems.freshworks.com
 https://toyotacf.freshworks.com
 https://trust.freshworks.com
 https://trust.internal.freshworks.com
-https://ubx-au.freshworks.com
 https://ubx-eu.freshworks.com
 https://ubx-in.freshworks.com
 https://ubx-mec.freshworks.com

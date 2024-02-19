@@ -508,6 +508,8 @@ kds1-org.freshworks.com:443
 kds1-org.freshworks.com:80
 kindehelp.freshworks.com:443
 kindehelp.freshworks.com:80
+kunaexchange-org.freshworks.com:443
+kunaexchange-org.freshworks.com:80
 kusd.freshworks.com:443
 kusd.freshworks.com:80
 lampemesterendk.freshworks.com:443
@@ -710,8 +712,6 @@ trust.freshworks.com:443
 trust.freshworks.com:80
 trust.internal.freshworks.com:443
 trust.internal.freshworks.com:80
-ubx-au.freshworks.com:443
-ubx-au.freshworks.com:80
 ubx-eu.freshworks.com:443
 ubx-eu.freshworks.com:80
 ubx-in.freshworks.com:443

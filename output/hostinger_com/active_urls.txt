@@ -47,6 +47,7 @@ http://e.account.hostinger.com:8080
 http://e.account.hostinger.com:8443
 http://e.email.hostinger.com
 http://e.email.hostinger.com:8080
+http://e.email.hostinger.com:8443
 http://epikurwsi.hostinger.com
 http://file-manager.hostinger.com
 http://file-manager.hostinger.com:443
@@ -56,6 +57,7 @@ http://flockmail.hostinger.com
 http://help.hostinger.com
 http://help.hostinger.com:8080
 http://hpanel.hostinger.com
+http://hpanel.hostinger.com:8080
 http://hpanel.hostinger.com:8443
 http://kontroll.hostinger.com
 http://mail.hostinger.com
@@ -165,7 +167,6 @@ https://dogrula.hostinger.com
 https://domains.hostinger.com
 https://e.account.hostinger.com
 https://e.email.hostinger.com
-https://e.email.hostinger.com:8443
 https://epikurwsi.hostinger.com
 https://flockcalendar.hostinger.com
 https://flockcontacts.hostinger.com

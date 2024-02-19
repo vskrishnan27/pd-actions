@@ -55,6 +55,7 @@ http://status.grammarly.com
 http://subscription.grammarly.com
 http://support.grammarly.com
 http://support.grammarly.com:8080
+http://support.grammarly.com:8443
 http://tech.grammarly.com
 http://tracksp.grammarly.com
 http://ua-gec-dataset.grammarly.com
@@ -144,7 +145,6 @@ https://static.institution.grammarly.com
 https://status.grammarly.com
 https://subscription.grammarly.com
 https://support.grammarly.com
-https://support.grammarly.com:8443
 https://tech.grammarly.com
 https://tokens.grammarly.com
 https://tracksp.grammarly.com

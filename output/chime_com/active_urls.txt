@@ -3,7 +3,6 @@ http://16002407.account.chime.com:8080
 http://16002407.account.chime.com:8443
 http://16002407.notify.chime.com
 http://16002407.notify.chime.com:8080
-http://16002407.notify.chime.com:8443
 http://app.chime.com
 http://app.chime.com:8080
 http://app.chime.com:8443
@@ -64,9 +63,9 @@ http://inspector-dev1.chime.com:8080
 http://inspector-dev1.chime.com:8443
 http://inspector-qa.chime.com
 http://inspector-qa.chime.com:8080
-http://inspector-qa.chime.com:8443
 http://inspector.chime.com
 http://inspector.chime.com:8080
+http://inspector.chime.com:8443
 http://interchange.chime.com
 http://links.account.chime.com
 http://links.account.chime.com:8080
@@ -82,6 +81,7 @@ http://locations.chime.com:8080
 http://locations.chime.com:8443
 http://member-dev1.chime.com
 http://member-dev1.chime.com:8080
+http://member-dev1.chime.com:8443
 http://member-qa.chime.com
 http://member-qa.chime.com:8080
 http://member-qa.chime.com:8443
@@ -109,7 +109,6 @@ http://penny.chime.com:8080
 http://penny.chime.com:8443
 http://public-assets-dev1.chime.com
 http://public-assets-dev1.chime.com:8080
-http://public-assets-dev1.chime.com:8443
 http://public-assets-qa.chime.com
 http://public-assets-qa.chime.com:8080
 http://public-assets-qa.chime.com:8443
@@ -118,6 +117,7 @@ http://public-assets.chime.com:8080
 http://public-assets.chime.com:8443
 http://static-attachments.chime.com
 http://static-attachments.chime.com:8080
+http://static-attachments.chime.com:8443
 http://status.chime.com
 http://status.chime.com:8080
 http://transaction.chime.com
@@ -141,13 +141,13 @@ http://wp-dev5.chime.com:8080
 http://wp-dev5.chime.com:8443
 http://wp-integ.chime.com
 http://wp-integ.chime.com:8080
-http://wp-integ.chime.com:8443
 http://wp-qa.chime.com
 http://wp-qa.chime.com:8080
 http://wp-qa.chime.com:8443
 http://www.chime.com
 https://16002407.account.chime.com
 https://16002407.notify.chime.com
+https://16002407.notify.chime.com:8443
 https://app.chime.com
 https://attachments.chime.com
 https://autobots-dev1.chime.com
@@ -179,15 +179,14 @@ https://help-test.chime.com
 https://help.chime.com
 https://inspector-dev1.chime.com
 https://inspector-qa.chime.com
+https://inspector-qa.chime.com:8443
 https://inspector.chime.com
-https://inspector.chime.com:8443
 https://interchange.chime.com
 https://links.account.chime.com
 https://links.notify.chime.com
 https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
-https://member-dev1.chime.com:8443
 https://member-qa.chime.com
 https://member.chime.com
 https://mobile-state.chime.com
@@ -199,10 +198,10 @@ https://penny-dev1.chime.com
 https://penny-qa.chime.com
 https://penny.chime.com
 https://public-assets-dev1.chime.com
+https://public-assets-dev1.chime.com:8443
 https://public-assets-qa.chime.com
 https://public-assets.chime.com
 https://static-attachments.chime.com
-https://static-attachments.chime.com:8443
 https://status.chime.com
 https://status.chime.com:8443
 https://transaction.chime.com
@@ -213,5 +212,6 @@ https://wp-dev3.chime.com
 https://wp-dev4.chime.com
 https://wp-dev5.chime.com
 https://wp-integ.chime.com
+https://wp-integ.chime.com:8443
 https://wp-qa.chime.com
 https://www.chime.com

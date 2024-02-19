@@ -1,5 +1,4 @@
 http://client-metrics.moonactive.net
-http://client-metrics.moonactive.net:8080
 http://client-metrics.moonactive.net:8443
 http://cm-minigames.moonactive.net
 http://moonactive.net

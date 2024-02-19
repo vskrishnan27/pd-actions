@@ -19,7 +19,6 @@ http://api.ope.qa.events.nintendo.com
 http://api.ope.staging.events.nintendo.com
 http://api.qa.events.nintendo.com
 http://api.staging.events.nintendo.com
-http://apps.accounts.nintendo.com
 http://argta.nintendo.com
 http://arms.nintendo.com
 http://artacademy.nintendo.com
@@ -58,7 +57,6 @@ http://corporateevents-dev1.noa.nintendo.com
 http://corporateevents-uat1.noa.nintendo.com
 http://corporateevents.noa.nintendo.com
 http://cpsia.nintendo.com
-http://crashmo.nintendo.com
 http://crm-livecontent.nintendo.com
 http://crosswordsplus.nintendo.com
 http://csassets.nintendo.com
@@ -103,7 +101,6 @@ http://ec.paymentweb.nintendo.com
 http://ed193d809cb211e5aa6dac5221900864-sb-dev-studio.mii.nintendo.com
 http://en-americas-support.nintendo.com
 http://es-americas-support.nintendo.com
-http://es.nintendo.com
 http://events.nintendo.com
 http://everoasis.nintendo.com
 http://experience.nintendo.com
@@ -114,7 +111,6 @@ http://ffdos.nintendo.com
 http://ffiv.nintendo.com
 http://ffta.nintendo.com
 http://ffv.nintendo.com
-http://ffvi.nintendo.com
 http://fireemblem.nintendo.com
 http://fireemblemechoes.nintendo.com
 http://fireemblemfates.nintendo.com
@@ -134,10 +130,12 @@ http://fossilfighters.nintendo.com
 http://fossilfightersfrontier.nintendo.com
 http://fr-americas-support.nintendo.com
 http://freakyforms.nintendo.com
+http://gameandwario.nintendo.com
 http://gate-prime.nintendo.com
 http://gate-secure.nintendo.com
 http://gdc2011.nintendo.com
 http://giftcenter.nintendo.com
+http://gifts.nintendo.com
 http://goldensun.nintendo.com
 http://govacation.nintendo.com
 http://graph-dev.nintendo.com
@@ -195,9 +193,11 @@ http://marioandluigibowsersinsidestory.nintendo.com
 http://marioandluigidreamteam.nintendo.com
 http://marioandluigipaperjam.nintendo.com
 http://marioandluigisuperstarsaga.nintendo.com
+http://mariokart.nintendo.com
 http://mariokart7.nintendo.com
 http://mariokart8deluxe.nintendo.com
 http://mariomaker.nintendo.com
+http://marioparty10.nintendo.com
 http://marioparty100.nintendo.com
 http://mariopartyislandtour.nintendo.com
 http://mariopartystarrush.nintendo.com
@@ -236,6 +236,7 @@ http://newsupermariobrosu.nintendo.com
 http://ninjagaiden3.nintendo.com
 http://nintendo-switch-2022.nintendo.com
 http://nintendogspluscats.nintendo.com
+http://nintendoland.nintendo.com
 http://nintendolive2022.dev.events.nintendo.com
 http://nintendolive2022.events.nintendo.com
 http://nintendolive2022.qa.events.nintendo.com
@@ -250,9 +251,8 @@ http://nstore.noa.nintendo.com
 http://nwc.nintendo.com
 http://octopathtraveler.nintendo.com
 http://ope-api.events.nintendo.com
-http://ope.dev.events.nintendo.com
 http://ope.events.nintendo.com
-http://ope.qa.events.nintendo.com
+http://ope.staging.events.nintendo.com
 http://p.nintendo.com
 http://pages.ccg.nintendo.com
 http://parentalcontrols.nintendo.com
@@ -261,6 +261,7 @@ http://partners.nintendo.com
 http://patents.nintendo.com
 http://perf.dev-argta-2.nintendo.com
 http://photodojo.nintendo.com
+http://photoshowcase.nintendo.com
 http://picross3d.nintendo.com
 http://pikmin2.nintendo.com
 http://pikmin4.nintendo.com
@@ -283,7 +284,6 @@ http://publisher.nintendo.com
 http://pug-sbjeffsa03.sandbox.svc.publisher.nintendo.com
 http://pug.dev1.svc.publisher.nintendo.com
 http://pug.dev2.svc.publisher.nintendo.com
-http://pushmo.nintendo.com
 http://pushmoworld.nintendo.com
 http://puzzleanddragons.nintendo.com
 http://qa.events.nintendo.com
@@ -348,6 +348,7 @@ http://stylesavvy.nintendo.com
 http://stylesavvy2.nintendo.com
 http://supermario3dland.nintendo.com
 http://supermariobroswonder.nintendo.com
+http://supermariomaker2.nintendo.com
 http://supermarioparty.nintendo.com
 http://support.nintendo.com
 http://sushistriker.nintendo.com
@@ -504,7 +505,6 @@ https://api.ope.staging.events.nintendo.com
 https://api.qa.events.nintendo.com
 https://api.sandbox.dev-argta.nintendo.com
 https://api.staging.events.nintendo.com
-https://apps.accounts.nintendo.com
 https://argta.nintendo.com
 https://arms.nintendo.com
 https://artacademy.nintendo.com
@@ -628,7 +628,6 @@ https://ed193d809cb211e5aa6dac5221900864-sb-dev-studio.mii.nintendo.com
 https://ef7eb216a093be137b19fac2e2fd08c4-sb-dev.baas.nintendo.com
 https://en-americas-support.nintendo.com
 https://es-americas-support.nintendo.com
-https://es.nintendo.com
 https://events.nintendo.com
 https://everoasis.nintendo.com
 https://experience.nintendo.com
@@ -806,9 +805,8 @@ https://ntd-gp.ntd.nintendo.com
 https://nwc.nintendo.com
 https://octopathtraveler.nintendo.com
 https://ope-api.events.nintendo.com
-https://ope.dev.events.nintendo.com
 https://ope.events.nintendo.com
-https://ope.qa.events.nintendo.com
+https://ope.staging.events.nintendo.com
 https://orders.activities.prod.gbo.noa.nintendo.com
 https://p.nintendo.com
 https://pages.ccg.nintendo.com
@@ -846,12 +844,9 @@ https://prod-store.nintendo.com
 https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
-https://ptdairwatch.noa.nintendo.com:111
-https://ptdairwatch.noa.nintendo.com:1110
-https://ptdairwatch.noa.nintendo.com:513
-https://ptdairwatch.noa.nintendo.com:5190
-https://ptdairwatch.noa.nintendo.com:554
-https://ptdairwatch.noa.nintendo.com:79
+https://ptdairwatch.noa.nintendo.com:1026
+https://ptdairwatch.noa.nintendo.com:135
+https://ptdairwatch.noa.nintendo.com:8888
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com

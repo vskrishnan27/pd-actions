@@ -22,7 +22,6 @@ http://blog.ru.playstation.com
 http://blog.us.playstation.com
 http://blog.zh-hant.playstation.com
 http://br.playstation.com
-http://bridges.playstation.com
 http://ca.playstation.com
 http://camera-adaptor.support.playstation.com
 http://cdn.jp.playstation.com
@@ -31,7 +30,6 @@ http://cdn.us.playstation.com
 http://checkout.playstation.com
 http://china.playstation.com
 http://chinacdn.playstation.com
-http://chinacdn.playstation.com:443
 http://click.txn-email03.playstation.com
 http://cloud.txn-email03.playstation.com
 http://cloudtv.us.playstation.com
@@ -99,7 +97,6 @@ http://dev.wrapup.playstation.com
 http://direct-queue-stage.playstation.com
 http://direct-queue.playstation.com
 http://direct.e1-np.playstation.com
-http://direct.playstation.com
 http://dms.api.playstation.com
 http://docportal.playstation.com
 http://docs.playstation.com
@@ -145,10 +142,10 @@ http://image.mail.asia.playstation.com
 http://image.mail.jp.playstation.com
 http://io.playstation.com
 http://is.playstation.com
-http://ivaldi.playstation.com
 http://jp.playstation.com
 http://juega.playstation.com
 http://la.playstation.com
+http://latam.playstation.com
 http://latino.playstation.com
 http://library.playstation.com
 http://littlebigplanet.playstation.com
@@ -221,7 +218,6 @@ http://stage.api.ivaldi.playstation.com
 http://stage.bridges.playstation.com
 http://stage.io.playstation.com
 http://stage.ivaldi.playstation.com
-http://stage.playstation.com
 http://staging-blog.br.playstation.com
 http://staging-blog.latam.playstation.com
 http://staging-blog.us.playstation.com
@@ -266,6 +262,7 @@ http://web.sp-int.playstation.com
 http://webforms.playstation.com
 http://webformsstage.playstation.com
 http://webstore.playstation.com
+http://wrapup.playstation.com
 http://www.asia.playstation.com
 http://www.blog.playstation.com
 http://www.ca.playstation.com
@@ -280,6 +277,7 @@ http://www.qa.jp.playstation.com
 http://www.thelastofus.playstation.com
 http://www.us.playstation.com
 http://www.vive.playstation.com
+http://www.wrapup.playstation.com
 http://wwwqa.community.playstation.com
 https://accounts.api.playstation.com
 https://api.bridges.playstation.com
@@ -288,7 +286,6 @@ https://api.direct.playstation.com
 https://api.ivaldi.playstation.com
 https://app-perms.playstation.com
 https://asia.playstation.com
-https://author.direct.e1-np.playstation.com
 https://author.direct.playstation.com
 https://blog.br.playstation.com
 https://blog.de.playstation.com
@@ -305,7 +302,6 @@ https://blog.us.playstation.com
 https://blog.zh-hant.playstation.com
 https://bps.playstation.com
 https://br.playstation.com
-https://bridges.playstation.com
 https://ca.playstation.com
 https://camera-adaptor.support.playstation.com
 https://cdn.jp.playstation.com
@@ -313,6 +309,7 @@ https://cdn.latam.playstation.com
 https://cdn.us.playstation.com
 https://chat.playstation.com
 https://checkout.playstation.com
+https://chinacdn.playstation.com
 https://click.txn-email03.playstation.com
 https://cloud.txn-email03.playstation.com
 https://cloudtv.us.playstation.com
@@ -377,12 +374,10 @@ https://dev.api.bridges.playstation.com
 https://dev.bridges.playstation.com
 https://dev.io.playstation.com
 https://dev.jp.playstation.com
-https://dev.playstation.com
 https://dev.wrapup.playstation.com
 https://direct-queue-stage.playstation.com
 https://direct-queue.playstation.com
 https://direct.e1-np.playstation.com
-https://direct.playstation.com
 https://dms.api.playstation.com
 https://docportal.playstation.com
 https://docs.playstation.com
@@ -430,10 +425,10 @@ https://image.mail.asia.playstation.com
 https://image.mail.jp.playstation.com
 https://io.playstation.com
 https://is.playstation.com
-https://ivaldi.playstation.com
 https://jp.playstation.com
 https://juega.playstation.com
 https://la.playstation.com
+https://latam.playstation.com
 https://latino.playstation.com
 https://library.playstation.com
 https://lists.api.playstation.com
@@ -513,7 +508,6 @@ https://stage.api.ivaldi.playstation.com
 https://stage.bridges.playstation.com
 https://stage.io.playstation.com
 https://stage.ivaldi.playstation.com
-https://stage.playstation.com
 https://staging-blog.br.playstation.com
 https://staging-blog.latam.playstation.com
 https://staging-blog.us.playstation.com

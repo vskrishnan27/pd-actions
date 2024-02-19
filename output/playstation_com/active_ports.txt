@@ -46,8 +46,6 @@ blog.zh-hant.playstation.com:80
 bps.playstation.com:443
 br.playstation.com:443
 br.playstation.com:80
-bridges.playstation.com:443
-bridges.playstation.com:80
 byblos.asia.playstation.com:22
 c2.jp.playstation.com:25
 c3.jp.playstation.com:25
@@ -205,8 +203,6 @@ direct-queue.playstation.com:443
 direct-queue.playstation.com:80
 direct.e1-np.playstation.com:443
 direct.e1-np.playstation.com:80
-direct.playstation.com:443
-direct.playstation.com:80
 dms.api.playstation.com:443
 dms.api.playstation.com:80
 docportal.playstation.com:443
@@ -303,14 +299,14 @@ io.playstation.com:443
 io.playstation.com:80
 is.playstation.com:443
 is.playstation.com:80
-ivaldi.playstation.com:443
-ivaldi.playstation.com:80
 jp.playstation.com:443
 jp.playstation.com:80
 juega.playstation.com:443
 juega.playstation.com:80
 la.playstation.com:443
 la.playstation.com:80
+latam.playstation.com:443
+latam.playstation.com:80
 latino.playstation.com:443
 latino.playstation.com:80
 library.playstation.com:443
@@ -472,8 +468,6 @@ stage.io.playstation.com:443
 stage.io.playstation.com:80
 stage.ivaldi.playstation.com:443
 stage.ivaldi.playstation.com:80
-stage.playstation.com:443
-stage.playstation.com:80
 staging-blog.br.playstation.com:443
 staging-blog.br.playstation.com:80
 staging-blog.latam.playstation.com:443

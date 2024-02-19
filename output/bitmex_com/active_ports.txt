@@ -169,6 +169,10 @@ ws.devhk.bitmex.com:443
 ws.devhk.bitmex.com:80
 ws.devhk.bitmex.com:8080
 ws.devhk.bitmex.com:8443
+ws.testnet.bitmex.com:443
+ws.testnet.bitmex.com:80
+ws.testnet.bitmex.com:8080
+ws.testnet.bitmex.com:8443
 www.bitmex.com:443
 www.bitmex.com:80
 www.bitmex.com:8080

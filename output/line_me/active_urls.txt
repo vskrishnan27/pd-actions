@@ -257,6 +257,7 @@ http://ticket-st.line.me
 http://ticket.line.me
 http://timeline-creator.line.me
 http://timeline.line.me
+http://today.line.me
 http://toriyoshisyoten.pockeo.line.me
 http://tower.game.line.me
 http://tsubakiyacoffee.pockeo.line.me
@@ -583,6 +584,7 @@ https://ticket-st.line.me
 https://ticket.line.me
 https://timeline-creator.line.me
 https://timeline.line.me
+https://today.line.me
 https://toriyoshisyoten.pockeo.line.me
 https://tower.game.line.me
 https://tr.line.me

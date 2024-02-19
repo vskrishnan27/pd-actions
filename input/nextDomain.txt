@@ -1,4 +1,3 @@
-superbet.ro
 test.deribit.com
 deribit.com
 coinbase.com
@@ -77,3 +76,4 @@ snapchat.com
 moderntreasury.com
 zomato.com
 grammarly.com
+superbet.ro

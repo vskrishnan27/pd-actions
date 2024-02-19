@@ -325,6 +325,7 @@ www.skyline.github.com
 www.smtp.github.com
 www.support.enterprise.github.com
 www.visualstudio.github.com
+www.ws.support.github.com
 xlcteam.github.com
 yanjingcheng.github.com
 ymt2.github.com

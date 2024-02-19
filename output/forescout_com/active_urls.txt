@@ -41,12 +41,10 @@ http://support.forescout.com
 http://support.forescout.com:8443
 http://t.forescout.com
 http://trainingsurvey.forescout.com
-http://trainingsurvey.forescout.com:8080
 http://trainingsurvey.forescout.com:8443
 http://updates.forescout.com
 http://updates.forescout.com:8080
 http://www.forescout.com
-http://www.forescout.com:8443
 http://zh.forescout.com
 http://zh.forescout.com:8443
 https://api-dev.forescout.com
@@ -84,4 +82,5 @@ https://updates.forescout.com
 https://updates.forescout.com:8443
 https://upload.forescout.com
 https://www.forescout.com
+https://www.forescout.com:8443
 https://zh.forescout.com

@@ -29,6 +29,8 @@ brand.miro.com:443
 brand.miro.com:80
 brandkit.miro.com:443
 brandkit.miro.com:80
+buf.miro.com:443
+buf.miro.com:80
 click.account.miro.com:443
 click.account.miro.com:80
 click.e.miro.com:443

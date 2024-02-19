@@ -14,6 +14,7 @@ http://board-recording-storage.miro.com
 http://board-recording-storage.us.miro.com
 http://brand.miro.com
 http://brandkit.miro.com
+http://buf.miro.com
 http://click.account.miro.com
 http://click.e.miro.com
 http://cloud.account.miro.com
@@ -116,6 +117,7 @@ https://board-recording-storage.miro.com
 https://board-recording-storage.us.miro.com
 https://brand.miro.com
 https://brandkit.miro.com
+https://buf.miro.com
 https://click.account.miro.com
 https://click.e.miro.com
 https://cloud.account.miro.com

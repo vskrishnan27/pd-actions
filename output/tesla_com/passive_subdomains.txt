@@ -31,6 +31,7 @@
 20.tesla.com
 20.tesla.com
 20.tesla.com
+20.tesla.com
 3.tesla.com
 3.tesla.com
 3.tesla.com
@@ -64,6 +65,8 @@
 3.tesla.com
 3.tesla.com
 3.tesla.com
+3.tesla.com
+47.tesla.com
 47.tesla.com
 47.tesla.com
 47.tesla.com
@@ -126,6 +129,8 @@
 51-tesla.ay.tesla.com
 51-tesla.ay.tesla.com
 51-tesla.ay.tesla.com
+51-tesla.ay.tesla.com
+academiawashingtonribeiraopreto.tesla.com
 academiawashingtonribeiraopreto.tesla.com
 academiawashingtonribeiraopreto.tesla.com
 academiawashingtonribeiraopreto.tesla.com
@@ -192,6 +197,8 @@ acme-sentry-4.eng.use1.vn.cloud.tesla.com
 acme-sentry-4.eng.use1.vn.cloud.tesla.com
 acme-sentry-4.eng.use1.vn.cloud.tesla.com
 acme-sentry-4.eng.use1.vn.cloud.tesla.com
+acme-sentry-4.eng.use1.vn.cloud.tesla.com
+acme-sentry-4a.eng.use1.vn.cloud.tesla.com
 acme-sentry-4a.eng.use1.vn.cloud.tesla.com
 acme-sentry-4a.eng.use1.vn.cloud.tesla.com
 acme-sentry-4a.eng.use1.vn.cloud.tesla.com
@@ -258,6 +265,7 @@ akamai-apigateway-automation.tesla.com
 akamai-apigateway-automation.tesla.com
 akamai-apigateway-automation.tesla.com
 akamai-apigateway-automation.tesla.com
+akamai-apigateway-automation.tesla.com
 akamai-apigateway-bender.tesla.com
 akamai-apigateway-bender.tesla.com
 akamai-apigateway-bender.tesla.com
@@ -291,6 +299,8 @@ akamai-apigateway-bender.tesla.com
 akamai-apigateway-bender.tesla.com
 akamai-apigateway-bender.tesla.com
 akamai-apigateway-bender.tesla.com
+akamai-apigateway-bender.tesla.com
+akamai-apigateway-captiveunderwriting.tesla.com
 akamai-apigateway-captiveunderwriting.tesla.com
 akamai-apigateway-captiveunderwriting.tesla.com
 akamai-apigateway-captiveunderwriting.tesla.com
@@ -353,6 +363,8 @@ akamai-apigateway-charging-ownership.tesla.com
 akamai-apigateway-charging-ownership.tesla.com
 akamai-apigateway-charging-ownership.tesla.com
 akamai-apigateway-charging-ownership.tesla.com
+akamai-apigateway-charging-ownership.tesla.com
+akamai-apigateway-crawford-prd.tesla.com
 akamai-apigateway-crawford-prd.tesla.com
 akamai-apigateway-crawford-prd.tesla.com
 akamai-apigateway-crawford-prd.tesla.com
@@ -419,6 +431,8 @@ akamai-apigateway-crawford-stg.tesla.com
 akamai-apigateway-crawford-stg.tesla.com
 akamai-apigateway-crawford-stg.tesla.com
 akamai-apigateway-crawford-stg.tesla.com
+akamai-apigateway-crawford-stg.tesla.com
+akamai-apigateway-deliveryopsapi.tesla.com
 akamai-apigateway-deliveryopsapi.tesla.com
 akamai-apigateway-deliveryopsapi.tesla.com
 akamai-apigateway-deliveryopsapi.tesla.com
@@ -485,6 +499,8 @@ akamai-apigateway-deliveryopsapi1.tesla.com
 akamai-apigateway-deliveryopsapi1.tesla.com
 akamai-apigateway-deliveryopsapi1.tesla.com
 akamai-apigateway-deliveryopsapi1.tesla.com
+akamai-apigateway-deliveryopsapi1.tesla.com
+akamai-apigateway-deliveryopsvitu.tesla.com
 akamai-apigateway-deliveryopsvitu.tesla.com
 akamai-apigateway-deliveryopsvitu.tesla.com
 akamai-apigateway-deliveryopsvitu.tesla.com
@@ -551,6 +567,8 @@ akamai-apigateway-dev-captiveunderwriting.tesla.com
 akamai-apigateway-dev-captiveunderwriting.tesla.com
 akamai-apigateway-dev-captiveunderwriting.tesla.com
 akamai-apigateway-dev-captiveunderwriting.tesla.com
+akamai-apigateway-dev-captiveunderwriting.tesla.com
+akamai-apigateway-dev-warptmsapiserver-upgrade.tesla.com
 akamai-apigateway-dev-warptmsapiserver-upgrade.tesla.com
 akamai-apigateway-dev-warptmsapiserver-upgrade.tesla.com
 akamai-apigateway-dev-warptmsapiserver-upgrade.tesla.com
@@ -617,6 +635,8 @@ akamai-apigateway-dev-warptmsapiserver.tesla.com
 akamai-apigateway-dev-warptmsapiserver.tesla.com
 akamai-apigateway-dev-warptmsapiserver.tesla.com
 akamai-apigateway-dev-warptmsapiserver.tesla.com
+akamai-apigateway-dev-warptmsapiserver.tesla.com
+akamai-apigateway-ehs-stg.tesla.com
 akamai-apigateway-ehs-stg.tesla.com
 akamai-apigateway-ehs-stg.tesla.com
 akamai-apigateway-ehs-stg.tesla.com
@@ -683,6 +703,8 @@ akamai-apigateway-ehs.tesla.com
 akamai-apigateway-ehs.tesla.com
 akamai-apigateway-ehs.tesla.com
 akamai-apigateway-ehs.tesla.com
+akamai-apigateway-ehs.tesla.com
+akamai-apigateway-einvoicing.tesla.com
 akamai-apigateway-einvoicing.tesla.com
 akamai-apigateway-einvoicing.tesla.com
 akamai-apigateway-einvoicing.tesla.com
@@ -749,6 +771,8 @@ akamai-apigateway-finplat-prd.tesla.com
 akamai-apigateway-finplat-prd.tesla.com
 akamai-apigateway-finplat-prd.tesla.com
 akamai-apigateway-finplat-prd.tesla.com
+akamai-apigateway-finplat-prd.tesla.com
+akamai-apigateway-finplat-stg.tesla.com
 akamai-apigateway-finplat-stg.tesla.com
 akamai-apigateway-finplat-stg.tesla.com
 akamai-apigateway-finplat-stg.tesla.com
@@ -815,6 +839,8 @@ akamai-apigateway-finplateng-defi.tesla.com
 akamai-apigateway-finplateng-defi.tesla.com
 akamai-apigateway-finplateng-defi.tesla.com
 akamai-apigateway-finplateng-defi.tesla.com
+akamai-apigateway-finplateng-defi.tesla.com
+akamai-apigateway-finplateng-routeone.tesla.com
 akamai-apigateway-finplateng-routeone.tesla.com
 akamai-apigateway-finplateng-routeone.tesla.com
 akamai-apigateway-finplateng-routeone.tesla.com
@@ -881,6 +907,8 @@ akamai-apigateway-finplateng.tesla.com
 akamai-apigateway-finplateng.tesla.com
 akamai-apigateway-finplateng.tesla.com
 akamai-apigateway-finplateng.tesla.com
+akamai-apigateway-finplateng.tesla.com
+akamai-apigateway-fta.tesla.com
 akamai-apigateway-fta.tesla.com
 akamai-apigateway-fta.tesla.com
 akamai-apigateway-fta.tesla.com
@@ -947,6 +975,8 @@ akamai-apigateway-inventorytxnextapi.tesla.com
 akamai-apigateway-inventorytxnextapi.tesla.com
 akamai-apigateway-inventorytxnextapi.tesla.com
 akamai-apigateway-inventorytxnextapi.tesla.com
+akamai-apigateway-inventorytxnextapi.tesla.com
+akamai-apigateway-logisticsratesapi.tesla.com
 akamai-apigateway-logisticsratesapi.tesla.com
 akamai-apigateway-logisticsratesapi.tesla.com
 akamai-apigateway-logisticsratesapi.tesla.com
@@ -1013,6 +1043,8 @@ akamai-apigateway-materials.tesla.com
 akamai-apigateway-materials.tesla.com
 akamai-apigateway-materials.tesla.com
 akamai-apigateway-materials.tesla.com
+akamai-apigateway-materials.tesla.com
+akamai-apigateway-mfs-gfb-stg.tesla.com
 akamai-apigateway-mfs-gfb-stg.tesla.com
 akamai-apigateway-mfs-gfb-stg.tesla.com
 akamai-apigateway-mfs-gfb-stg.tesla.com
@@ -1079,6 +1111,8 @@ akamai-apigateway-mfs-supplier-uat.tesla.com
 akamai-apigateway-mfs-supplier-uat.tesla.com
 akamai-apigateway-mfs-supplier-uat.tesla.com
 akamai-apigateway-mfs-supplier-uat.tesla.com
+akamai-apigateway-mfs-supplier-uat.tesla.com
+akamai-apigateway-mfs-supplier.tesla.com
 akamai-apigateway-mfs-supplier.tesla.com
 akamai-apigateway-mfs-supplier.tesla.com
 akamai-apigateway-mfs-supplier.tesla.com
@@ -1145,6 +1179,8 @@ akamai-apigateway-ops-warp3pl.tesla.com
 akamai-apigateway-ops-warp3pl.tesla.com
 akamai-apigateway-ops-warp3pl.tesla.com
 akamai-apigateway-ops-warp3pl.tesla.com
+akamai-apigateway-ops-warp3pl.tesla.com
+akamai-apigateway-packaging2.tesla.com
 akamai-apigateway-packaging2.tesla.com
 akamai-apigateway-packaging2.tesla.com
 akamai-apigateway-packaging2.tesla.com
@@ -1211,6 +1247,8 @@ akamai-apigateway-payment.tesla.com
 akamai-apigateway-payment.tesla.com
 akamai-apigateway-payment.tesla.com
 akamai-apigateway-payment.tesla.com
+akamai-apigateway-payment.tesla.com
+akamai-apigateway-prd-global-deliveryopsapi.tesla.com
 akamai-apigateway-prd-global-deliveryopsapi.tesla.com
 akamai-apigateway-prd-global-deliveryopsapi.tesla.com
 akamai-apigateway-prd-global-deliveryopsapi.tesla.com
@@ -1277,6 +1315,8 @@ akamai-apigateway-procuretopayapi.tesla.com
 akamai-apigateway-procuretopayapi.tesla.com
 akamai-apigateway-procuretopayapi.tesla.com
 akamai-apigateway-procuretopayapi.tesla.com
+akamai-apigateway-procuretopayapi.tesla.com
+akamai-apigateway-profileapi.tesla.com
 akamai-apigateway-profileapi.tesla.com
 akamai-apigateway-profileapi.tesla.com
 akamai-apigateway-profileapi.tesla.com
@@ -1343,6 +1383,8 @@ akamai-apigateway-qa-captiveunderwriting.tesla.com
 akamai-apigateway-qa-captiveunderwriting.tesla.com
 akamai-apigateway-qa-captiveunderwriting.tesla.com
 akamai-apigateway-qa-captiveunderwriting.tesla.com
+akamai-apigateway-qa-captiveunderwriting.tesla.com
+akamai-apigateway-scraprecycle.tesla.com
 akamai-apigateway-scraprecycle.tesla.com
 akamai-apigateway-scraprecycle.tesla.com
 akamai-apigateway-scraprecycle.tesla.com
@@ -1409,6 +1451,8 @@ akamai-apigateway-shipmentplanningapi.tesla.com
 akamai-apigateway-shipmentplanningapi.tesla.com
 akamai-apigateway-shipmentplanningapi.tesla.com
 akamai-apigateway-shipmentplanningapi.tesla.com
+akamai-apigateway-shipmentplanningapi.tesla.com
+akamai-apigateway-stg-bender.tesla.com
 akamai-apigateway-stg-bender.tesla.com
 akamai-apigateway-stg-bender.tesla.com
 akamai-apigateway-stg-bender.tesla.com
@@ -1475,6 +1519,8 @@ akamai-apigateway-stg-captiveunderwriting.tesla.com
 akamai-apigateway-stg-captiveunderwriting.tesla.com
 akamai-apigateway-stg-captiveunderwriting.tesla.com
 akamai-apigateway-stg-captiveunderwriting.tesla.com
+akamai-apigateway-stg-captiveunderwriting.tesla.com
+akamai-apigateway-stg-deliveryopsapi.tesla.com
 akamai-apigateway-stg-deliveryopsapi.tesla.com
 akamai-apigateway-stg-deliveryopsapi.tesla.com
 akamai-apigateway-stg-deliveryopsapi.tesla.com
@@ -1541,6 +1587,8 @@ akamai-apigateway-stg-deliveryopsapi1.tesla.com
 akamai-apigateway-stg-deliveryopsapi1.tesla.com
 akamai-apigateway-stg-deliveryopsapi1.tesla.com
 akamai-apigateway-stg-deliveryopsapi1.tesla.com
+akamai-apigateway-stg-deliveryopsapi1.tesla.com
+akamai-apigateway-stg-deliveryopsvitu.tesla.com
 akamai-apigateway-stg-deliveryopsvitu.tesla.com
 akamai-apigateway-stg-deliveryopsvitu.tesla.com
 akamai-apigateway-stg-deliveryopsvitu.tesla.com
@@ -1607,6 +1655,8 @@ akamai-apigateway-stg-einvoicing.tesla.com
 akamai-apigateway-stg-einvoicing.tesla.com
 akamai-apigateway-stg-einvoicing.tesla.com
 akamai-apigateway-stg-einvoicing.tesla.com
+akamai-apigateway-stg-einvoicing.tesla.com
+akamai-apigateway-stg-finplateng-defi.tesla.com
 akamai-apigateway-stg-finplateng-defi.tesla.com
 akamai-apigateway-stg-finplateng-defi.tesla.com
 akamai-apigateway-stg-finplateng-defi.tesla.com
@@ -1673,6 +1723,8 @@ akamai-apigateway-stg-finplateng-routeone.tesla.com
 akamai-apigateway-stg-finplateng-routeone.tesla.com
 akamai-apigateway-stg-finplateng-routeone.tesla.com
 akamai-apigateway-stg-finplateng-routeone.tesla.com
+akamai-apigateway-stg-finplateng-routeone.tesla.com
+akamai-apigateway-stg-finplateng.tesla.com
 akamai-apigateway-stg-finplateng.tesla.com
 akamai-apigateway-stg-finplateng.tesla.com
 akamai-apigateway-stg-finplateng.tesla.com
@@ -1739,6 +1791,8 @@ akamai-apigateway-stg-fta.tesla.com
 akamai-apigateway-stg-fta.tesla.com
 akamai-apigateway-stg-fta.tesla.com
 akamai-apigateway-stg-fta.tesla.com
+akamai-apigateway-stg-fta.tesla.com
+akamai-apigateway-stg-global-deliveryopsapi.tesla.com
 akamai-apigateway-stg-global-deliveryopsapi.tesla.com
 akamai-apigateway-stg-global-deliveryopsapi.tesla.com
 akamai-apigateway-stg-global-deliveryopsapi.tesla.com
@@ -1805,6 +1859,8 @@ akamai-apigateway-stg-inventorytxnextapi.tesla.com
 akamai-apigateway-stg-inventorytxnextapi.tesla.com
 akamai-apigateway-stg-inventorytxnextapi.tesla.com
 akamai-apigateway-stg-inventorytxnextapi.tesla.com
+akamai-apigateway-stg-inventorytxnextapi.tesla.com
+akamai-apigateway-stg-materials.tesla.com
 akamai-apigateway-stg-materials.tesla.com
 akamai-apigateway-stg-materials.tesla.com
 akamai-apigateway-stg-materials.tesla.com
@@ -1871,6 +1927,8 @@ akamai-apigateway-stg-ops-warp3pl.tesla.com
 akamai-apigateway-stg-ops-warp3pl.tesla.com
 akamai-apigateway-stg-ops-warp3pl.tesla.com
 akamai-apigateway-stg-ops-warp3pl.tesla.com
+akamai-apigateway-stg-ops-warp3pl.tesla.com
+akamai-apigateway-stg-packaging2.tesla.com
 akamai-apigateway-stg-packaging2.tesla.com
 akamai-apigateway-stg-packaging2.tesla.com
 akamai-apigateway-stg-packaging2.tesla.com
@@ -1937,6 +1995,8 @@ akamai-apigateway-stg-payment.tesla.com
 akamai-apigateway-stg-payment.tesla.com
 akamai-apigateway-stg-payment.tesla.com
 akamai-apigateway-stg-payment.tesla.com
+akamai-apigateway-stg-payment.tesla.com
+akamai-apigateway-stg-procuretopayapi.tesla.com
 akamai-apigateway-stg-procuretopayapi.tesla.com
 akamai-apigateway-stg-procuretopayapi.tesla.com
 akamai-apigateway-stg-procuretopayapi.tesla.com
@@ -2003,6 +2063,8 @@ akamai-apigateway-stg-profileapi.tesla.com
 akamai-apigateway-stg-profileapi.tesla.com
 akamai-apigateway-stg-profileapi.tesla.com
 akamai-apigateway-stg-profileapi.tesla.com
+akamai-apigateway-stg-profileapi.tesla.com
+akamai-apigateway-stg-sandbox-automation.tesla.com
 akamai-apigateway-stg-sandbox-automation.tesla.com
 akamai-apigateway-stg-sandbox-automation.tesla.com
 akamai-apigateway-stg-sandbox-automation.tesla.com
@@ -2069,6 +2131,8 @@ akamai-apigateway-stg-shipmentplanningapi.tesla.com
 akamai-apigateway-stg-shipmentplanningapi.tesla.com
 akamai-apigateway-stg-shipmentplanningapi.tesla.com
 akamai-apigateway-stg-shipmentplanningapi.tesla.com
+akamai-apigateway-stg-shipmentplanningapi.tesla.com
+akamai-apigateway-stg-teslarpsapi.tesla.com
 akamai-apigateway-stg-teslarpsapi.tesla.com
 akamai-apigateway-stg-teslarpsapi.tesla.com
 akamai-apigateway-stg-teslarpsapi.tesla.com
@@ -2135,6 +2199,8 @@ akamai-apigateway-stg-translationpipeline.tesla.com
 akamai-apigateway-stg-translationpipeline.tesla.com
 akamai-apigateway-stg-translationpipeline.tesla.com
 akamai-apigateway-stg-translationpipeline.tesla.com
+akamai-apigateway-stg-translationpipeline.tesla.com
+akamai-apigateway-stg-vendorpartsapi.tesla.com
 akamai-apigateway-stg-vendorpartsapi.tesla.com
 akamai-apigateway-stg-vendorpartsapi.tesla.com
 akamai-apigateway-stg-vendorpartsapi.tesla.com
@@ -2201,6 +2267,8 @@ akamai-apigateway-stg-warp3pl.tesla.com
 akamai-apigateway-stg-warp3pl.tesla.com
 akamai-apigateway-stg-warp3pl.tesla.com
 akamai-apigateway-stg-warp3pl.tesla.com
+akamai-apigateway-stg-warp3pl.tesla.com
+akamai-apigateway-stg-warpassetapi.tesla.com
 akamai-apigateway-stg-warpassetapi.tesla.com
 akamai-apigateway-stg-warpassetapi.tesla.com
 akamai-apigateway-stg-warpassetapi.tesla.com
@@ -2267,6 +2335,8 @@ akamai-apigateway-stg-warpcxml.tesla.com
 akamai-apigateway-stg-warpcxml.tesla.com
 akamai-apigateway-stg-warpcxml.tesla.com
 akamai-apigateway-stg-warpcxml.tesla.com
+akamai-apigateway-stg-warpcxml.tesla.com
+akamai-apigateway-stg-warpdashboardapi.tesla.com
 akamai-apigateway-stg-warpdashboardapi.tesla.com
 akamai-apigateway-stg-warpdashboardapi.tesla.com
 akamai-apigateway-stg-warpdashboardapi.tesla.com
@@ -2333,6 +2403,8 @@ akamai-apigateway-stg-warpedi.tesla.com
 akamai-apigateway-stg-warpedi.tesla.com
 akamai-apigateway-stg-warpedi.tesla.com
 akamai-apigateway-stg-warpedi.tesla.com
+akamai-apigateway-stg-warpedi.tesla.com
+akamai-apigateway-stg-warptmsapiserver-upgrade.tesla.com
 akamai-apigateway-stg-warptmsapiserver-upgrade.tesla.com
 akamai-apigateway-stg-warptmsapiserver-upgrade.tesla.com
 akamai-apigateway-stg-warptmsapiserver-upgrade.tesla.com
@@ -2399,6 +2471,8 @@ akamai-apigateway-stg-warptmsapiserver.tesla.com
 akamai-apigateway-stg-warptmsapiserver.tesla.com
 akamai-apigateway-stg-warptmsapiserver.tesla.com
 akamai-apigateway-stg-warptmsapiserver.tesla.com
+akamai-apigateway-stg-warptmsapiserver.tesla.com
+akamai-apigateway-stg-warptqpapi.tesla.com
 akamai-apigateway-stg-warptqpapi.tesla.com
 akamai-apigateway-stg-warptqpapi.tesla.com
 akamai-apigateway-stg-warptqpapi.tesla.com
@@ -2465,6 +2539,8 @@ akamai-apigateway-stg2-deliveryopsapi.tesla.com
 akamai-apigateway-stg2-deliveryopsapi.tesla.com
 akamai-apigateway-stg2-deliveryopsapi.tesla.com
 akamai-apigateway-stg2-deliveryopsapi.tesla.com
+akamai-apigateway-stg2-deliveryopsapi.tesla.com
+akamai-apigateway-stg2-global-deliveryopsapi.tesla.com
 akamai-apigateway-stg2-global-deliveryopsapi.tesla.com
 akamai-apigateway-stg2-global-deliveryopsapi.tesla.com
 akamai-apigateway-stg2-global-deliveryopsapi.tesla.com
@@ -2531,6 +2607,8 @@ akamai-apigateway-teslarpsapi.tesla.com
 akamai-apigateway-teslarpsapi.tesla.com
 akamai-apigateway-teslarpsapi.tesla.com
 akamai-apigateway-teslarpsapi.tesla.com
+akamai-apigateway-teslarpsapi.tesla.com
+akamai-apigateway-translationpipeline.tesla.com
 akamai-apigateway-translationpipeline.tesla.com
 akamai-apigateway-translationpipeline.tesla.com
 akamai-apigateway-translationpipeline.tesla.com
@@ -2597,6 +2675,8 @@ akamai-apigateway-uat-materials.tesla.com
 akamai-apigateway-uat-materials.tesla.com
 akamai-apigateway-uat-materials.tesla.com
 akamai-apigateway-uat-materials.tesla.com
+akamai-apigateway-uat-materials.tesla.com
+akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com
 akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com
 akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com
 akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com
@@ -2663,6 +2743,8 @@ akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com
 akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com
 akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com
 akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com
+akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com
+akamai-apigateway-vendorpartsapi.tesla.com
 akamai-apigateway-vendorpartsapi.tesla.com
 akamai-apigateway-vendorpartsapi.tesla.com
 akamai-apigateway-vendorpartsapi.tesla.com
@@ -2729,6 +2811,8 @@ akamai-apigateway-warp3pl.tesla.com
 akamai-apigateway-warp3pl.tesla.com
 akamai-apigateway-warp3pl.tesla.com
 akamai-apigateway-warp3pl.tesla.com
+akamai-apigateway-warp3pl.tesla.com
+akamai-apigateway-warpassetapi.tesla.com
 akamai-apigateway-warpassetapi.tesla.com
 akamai-apigateway-warpassetapi.tesla.com
 akamai-apigateway-warpassetapi.tesla.com
@@ -2795,6 +2879,8 @@ akamai-apigateway-warpcxml.tesla.com
 akamai-apigateway-warpcxml.tesla.com
 akamai-apigateway-warpcxml.tesla.com
 akamai-apigateway-warpcxml.tesla.com
+akamai-apigateway-warpcxml.tesla.com
+akamai-apigateway-warpdashboardapi.tesla.com
 akamai-apigateway-warpdashboardapi.tesla.com
 akamai-apigateway-warpdashboardapi.tesla.com
 akamai-apigateway-warpdashboardapi.tesla.com
@@ -2861,6 +2947,8 @@ akamai-apigateway-warpedi.tesla.com
 akamai-apigateway-warpedi.tesla.com
 akamai-apigateway-warpedi.tesla.com
 akamai-apigateway-warpedi.tesla.com
+akamai-apigateway-warpedi.tesla.com
+akamai-apigateway-warptmsapiserver-upgrade.tesla.com
 akamai-apigateway-warptmsapiserver-upgrade.tesla.com
 akamai-apigateway-warptmsapiserver-upgrade.tesla.com
 akamai-apigateway-warptmsapiserver-upgrade.tesla.com
@@ -2927,6 +3015,7 @@ akamai-apigateway-warptmsapiserver.tesla.com
 akamai-apigateway-warptmsapiserver.tesla.com
 akamai-apigateway-warptmsapiserver.tesla.com
 akamai-apigateway-warptmsapiserver.tesla.com
+akamai-apigateway-warptmsapiserver.tesla.com
 akamai-apigateway-warptqpapi.tesla.com
 akamai-apigateway-warptqpapi.tesla.com
 akamai-apigateway-warptqpapi.tesla.com
@@ -2960,6 +3049,8 @@ akamai-apigateway-warptqpapi.tesla.com
 akamai-apigateway-warptqpapi.tesla.com
 akamai-apigateway-warptqpapi.tesla.com
 akamai-apigateway-warptqpapi.tesla.com
+akamai-apigateway-warptqpapi.tesla.com
+akamai-apigateway-zip3-suppliersequence.tesla.com
 akamai-apigateway-zip3-suppliersequence.tesla.com
 akamai-apigateway-zip3-suppliersequence.tesla.com
 akamai-apigateway-zip3-suppliersequence.tesla.com
@@ -3025,6 +3116,7 @@ ams13-gpgw1.tesla.com
 ams13-gpgw1.tesla.com
 ams13-gpgw1.tesla.com
 ams13-gpgw1.tesla.com
+ams13-gpgw1.tesla.com
 apac-cppm.tesla.com
 apac-cppm.tesla.com
 apac-cppm.tesla.com
@@ -3058,6 +3150,8 @@ apac-cppm.tesla.com
 apac-cppm.tesla.com
 apac-cppm.tesla.com
 apac-cppm.tesla.com
+apac-cppm.tesla.com
+apac-sso.tesla.com
 apac-sso.tesla.com
 apac-sso.tesla.com
 apac-sso.tesla.com
@@ -3123,6 +3217,8 @@ apac.logs.tesla.com
 apac.logs.tesla.com
 apac.logs.tesla.com
 apac.logs.tesla.com
+apac.logs.tesla.com
+apacvpn.tesla.com
 apacvpn.tesla.com
 apacvpn.tesla.com
 apacvpn.tesla.com
@@ -3189,6 +3285,8 @@ apacvpn1.tesla.com
 apacvpn1.tesla.com
 apacvpn1.tesla.com
 apacvpn1.tesla.com
+apacvpn1.tesla.com
+apacvpn2.tesla.com
 apacvpn2.tesla.com
 apacvpn2.tesla.com
 apacvpn2.tesla.com
@@ -3255,6 +3353,8 @@ apf-api.eng.vn.cloud.tesla.com
 apf-api.eng.vn.cloud.tesla.com
 apf-api.eng.vn.cloud.tesla.com
 apf-api.eng.vn.cloud.tesla.com
+apf-api.eng.vn.cloud.tesla.com
+apf-api.prd.vn.cloud.tesla.com
 apf-api.prd.vn.cloud.tesla.com
 apf-api.prd.vn.cloud.tesla.com
 apf-api.prd.vn.cloud.tesla.com
@@ -3321,6 +3421,8 @@ api-account-master.tesla.com
 api-account-master.tesla.com
 api-account-master.tesla.com
 api-account-master.tesla.com
+api-account-master.tesla.com
+api-firebolt-dev.tesla.com
 api-firebolt-dev.tesla.com
 api-firebolt-dev.tesla.com
 api-firebolt-dev.tesla.com
@@ -3387,6 +3489,8 @@ api-firebolt-stage.tesla.com
 api-firebolt-stage.tesla.com
 api-firebolt-stage.tesla.com
 api-firebolt-stage.tesla.com
+api-firebolt-stage.tesla.com
+api-firebolt.tesla.com
 api-firebolt.tesla.com
 api-firebolt.tesla.com
 api-firebolt.tesla.com
@@ -3453,6 +3557,8 @@ api-toolbox.tesla.com
 api-toolbox.tesla.com
 api-toolbox.tesla.com
 api-toolbox.tesla.com
+api-toolbox.tesla.com
+api.kronos.tesla.com
 api.kronos.tesla.com
 api.kronos.tesla.com
 api.kronos.tesla.com
@@ -3519,6 +3625,8 @@ app.tesla.com
 app.tesla.com
 app.tesla.com
 app.tesla.com
+app.tesla.com
+appplayer.tesla.com
 appplayer.tesla.com
 appplayer.tesla.com
 appplayer.tesla.com
@@ -3585,6 +3693,8 @@ apps.tesla.com
 apps.tesla.com
 apps.tesla.com
 apps.tesla.com
+apps.tesla.com
+assets.github-ap.tesla.com
 assets.github-ap.tesla.com
 assets.github-ap.tesla.com
 assets.github-ap.tesla.com
@@ -3651,6 +3761,8 @@ assets.github-fw.tesla.com
 assets.github-fw.tesla.com
 assets.github-fw.tesla.com
 assets.github-fw.tesla.com
+assets.github-fw.tesla.com
+assets.github-it.tesla.com
 assets.github-it.tesla.com
 assets.github-it.tesla.com
 assets.github-it.tesla.com
@@ -3717,6 +3829,8 @@ assets.github.tesla.com
 assets.github.tesla.com
 assets.github.tesla.com
 assets.github.tesla.com
+assets.github.tesla.com
+aurora-ordering-ext-qa.tesla.com
 aurora-ordering-ext-qa.tesla.com
 aurora-ordering-ext-qa.tesla.com
 aurora-ordering-ext-qa.tesla.com
@@ -3783,6 +3897,8 @@ aurora-ordering-ext-stg.tesla.com
 aurora-ordering-ext-stg.tesla.com
 aurora-ordering-ext-stg.tesla.com
 aurora-ordering-ext-stg.tesla.com
+aurora-ordering-ext-stg.tesla.com
+aurora-ordering-ext.tesla.com
 aurora-ordering-ext.tesla.com
 aurora-ordering-ext.tesla.com
 aurora-ordering-ext.tesla.com
@@ -3849,6 +3965,8 @@ auth-global-stage.tesla.com
 auth-global-stage.tesla.com
 auth-global-stage.tesla.com
 auth-global-stage.tesla.com
+auth-global-stage.tesla.com
+auth-global.tesla.com
 auth-global.tesla.com
 auth-global.tesla.com
 auth-global.tesla.com
@@ -3915,6 +4033,8 @@ auth.tesla.com
 auth.tesla.com
 auth.tesla.com
 auth.tesla.com
+auth.tesla.com
+autobidder-eng.powerhub.energy.tesla.com
 autobidder-eng.powerhub.energy.tesla.com
 autobidder-eng.powerhub.energy.tesla.com
 autobidder-eng.powerhub.energy.tesla.com
@@ -3981,6 +4101,8 @@ autobidder-preprd.powerhub.energy.tesla.com
 autobidder-preprd.powerhub.energy.tesla.com
 autobidder-preprd.powerhub.energy.tesla.com
 autobidder-preprd.powerhub.energy.tesla.com
+autobidder-preprd.powerhub.energy.tesla.com
+autobidder.powerhub.energy.tesla.com
 autobidder.powerhub.energy.tesla.com
 autobidder.powerhub.energy.tesla.com
 autobidder.powerhub.energy.tesla.com
@@ -4047,6 +4169,8 @@ autodiscover.contractors.contractors.tesla.com
 autodiscover.contractors.contractors.tesla.com
 autodiscover.contractors.contractors.tesla.com
 autodiscover.contractors.contractors.tesla.com
+autodiscover.contractors.contractors.tesla.com
+autodiscover.tesla.com
 autodiscover.tesla.com
 autodiscover.tesla.com
 autodiscover.tesla.com
@@ -4113,6 +4237,8 @@ avatars.github-ap.tesla.com
 avatars.github-ap.tesla.com
 avatars.github-ap.tesla.com
 avatars.github-ap.tesla.com
+avatars.github-ap.tesla.com
+avatars.github-fw.tesla.com
 avatars.github-fw.tesla.com
 avatars.github-fw.tesla.com
 avatars.github-fw.tesla.com
@@ -4179,6 +4305,8 @@ avatars.github-it.tesla.com
 avatars.github-it.tesla.com
 avatars.github-it.tesla.com
 avatars.github-it.tesla.com
+avatars.github-it.tesla.com
+avatars.github.tesla.com
 avatars.github.tesla.com
 avatars.github.tesla.com
 avatars.github.tesla.com
@@ -4245,6 +4373,8 @@ awsbtest.tesla.com
 awsbtest.tesla.com
 awsbtest.tesla.com
 awsbtest.tesla.com
+awsbtest.tesla.com
+bcl.tesla.com
 bcl.tesla.com
 bcl.tesla.com
 bcl.tesla.com
@@ -4311,6 +4441,8 @@ bctpay.tesla.com
 bctpay.tesla.com
 bctpay.tesla.com
 bctpay.tesla.com
+bctpay.tesla.com
+bender-auth.tesla.com
 bender-auth.tesla.com
 bender-auth.tesla.com
 bender-auth.tesla.com
@@ -4377,6 +4509,8 @@ beta-fvcarriers.tesla.com
 beta-fvcarriers.tesla.com
 beta-fvcarriers.tesla.com
 beta-fvcarriers.tesla.com
+beta-fvcarriers.tesla.com
+beta-partners.tesla.com
 beta-partners.tesla.com
 beta-partners.tesla.com
 beta-partners.tesla.com
@@ -4443,6 +4577,8 @@ beta-suppliers.tesla.com
 beta-suppliers.tesla.com
 beta-suppliers.tesla.com
 beta-suppliers.tesla.com
+beta-suppliers.tesla.com
+bi.tesla.com
 bi.tesla.com
 bi.tesla.com
 bi.tesla.com
@@ -4509,6 +4645,7 @@ billing.tesla.com
 billing.tesla.com
 billing.tesla.com
 billing.tesla.com
+billing.tesla.com
 blog.tesla.com
 blog.tesla.com
 blog.tesla.com
@@ -4542,6 +4679,8 @@ blog.tesla.com
 blog.tesla.com
 blog.tesla.com
 blog.tesla.com
+blog.tesla.com
+bolt.tesla.com
 bolt.tesla.com
 bolt.tesla.com
 bolt.tesla.com
@@ -4607,6 +4746,8 @@ bom01-gpgw1.tesla.com
 bom01-gpgw1.tesla.com
 bom01-gpgw1.tesla.com
 bom01-gpgw1.tesla.com
+bom01-gpgw1.tesla.com
+bounce.emails.tesla.com
 bounce.emails.tesla.com
 bounce.emails.tesla.com
 bounce.emails.tesla.com
@@ -4673,6 +4814,8 @@ business-ui-ownership.tesla.com
 business-ui-ownership.tesla.com
 business-ui-ownership.tesla.com
 business-ui-ownership.tesla.com
+business-ui-ownership.tesla.com
+c.tesla.com
 c.tesla.com
 c.tesla.com
 c.tesla.com
@@ -4739,6 +4882,8 @@ ca.tesla.com
 ca.tesla.com
 ca.tesla.com
 ca.tesla.com
+ca.tesla.com
+cdn-design.tesla.com
 cdn-design.tesla.com
 cdn-design.tesla.com
 cdn-design.tesla.com
@@ -4805,6 +4950,8 @@ cdns-content.tesla.com
 cdns-content.tesla.com
 cdns-content.tesla.com
 cdns-content.tesla.com
+cdns-content.tesla.com
+checkout-ui-assets.tesla.com
 checkout-ui-assets.tesla.com
 checkout-ui-assets.tesla.com
 checkout-ui-assets.tesla.com
@@ -4871,6 +5018,8 @@ cicerone.tesla.com
 cicerone.tesla.com
 cicerone.tesla.com
 cicerone.tesla.com
+cicerone.tesla.com
+ciscoguest.tesla.com
 ciscoguest.tesla.com
 ciscoguest.tesla.com
 ciscoguest.tesla.com
@@ -4937,6 +5086,8 @@ citiapiencpoc.tesla.com
 citiapiencpoc.tesla.com
 citiapiencpoc.tesla.com
 citiapiencpoc.tesla.com
+citiapiencpoc.tesla.com
+citiapiencpocv2.tesla.com
 citiapiencpocv2.tesla.com
 citiapiencpocv2.tesla.com
 citiapiencpocv2.tesla.com
@@ -5002,6 +5153,7 @@ citiapiencpocv3.tesla.com
 citiapiencpocv3.tesla.com
 citiapiencpocv3.tesla.com
 citiapiencpocv3.tesla.com
+citiapiencpocv3.tesla.com
 citiapisslpoc.tesla.com
 citiapisslpoc.tesla.com
 citiapisslpoc.tesla.com
@@ -5035,6 +5187,8 @@ citiapisslpoc.tesla.com
 citiapisslpoc.tesla.com
 citiapisslpoc.tesla.com
 citiapisslpoc.tesla.com
+citiapisslpoc.tesla.com
+citiapisslpocv2.tesla.com
 citiapisslpocv2.tesla.com
 citiapisslpocv2.tesla.com
 citiapisslpocv2.tesla.com
@@ -5100,6 +5254,8 @@ citiapisslpocv3.tesla.com
 citiapisslpocv3.tesla.com
 citiapisslpocv3.tesla.com
 citiapisslpocv3.tesla.com
+citiapisslpocv3.tesla.com
+citibankstatementsha512.tesla.com
 citibankstatementsha512.tesla.com
 citibankstatementsha512.tesla.com
 citibankstatementsha512.tesla.com
@@ -5166,6 +5322,8 @@ cld-ec.tesla.com
 cld-ec.tesla.com
 cld-ec.tesla.com
 cld-ec.tesla.com
+cld-ec.tesla.com
+click.email.tesla.com
 click.email.tesla.com
 click.email.tesla.com
 click.email.tesla.com
@@ -5232,6 +5390,8 @@ click.emails.tesla.com
 click.emails.tesla.com
 click.emails.tesla.com
 click.emails.tesla.com
+click.emails.tesla.com
+cloudprotect.tesla.com
 cloudprotect.tesla.com
 cloudprotect.tesla.com
 cloudprotect.tesla.com
@@ -5298,6 +5458,8 @@ cn.tesla.com
 cn.tesla.com
 cn.tesla.com
 cn.tesla.com
+cn.tesla.com
+cnvpn.tesla.com
 cnvpn.tesla.com
 cnvpn.tesla.com
 cnvpn.tesla.com
@@ -5364,6 +5526,8 @@ cnvpn1.tesla.com
 cnvpn1.tesla.com
 cnvpn1.tesla.com
 cnvpn1.tesla.com
+cnvpn1.tesla.com
+codeload.github-ap.tesla.com
 codeload.github-ap.tesla.com
 codeload.github-ap.tesla.com
 codeload.github-ap.tesla.com
@@ -5430,6 +5594,8 @@ codeload.github-fw.tesla.com
 codeload.github-fw.tesla.com
 codeload.github-fw.tesla.com
 codeload.github-fw.tesla.com
+codeload.github-fw.tesla.com
+codeload.github-it.tesla.com
 codeload.github-it.tesla.com
 codeload.github-it.tesla.com
 codeload.github-it.tesla.com
@@ -5496,6 +5662,8 @@ codeload.github.tesla.com
 codeload.github.tesla.com
 codeload.github.tesla.com
 codeload.github.tesla.com
+codeload.github.tesla.com
+com.tesla.com
 com.tesla.com
 com.tesla.com
 com.tesla.com
@@ -5562,6 +5730,8 @@ comparison.tesla.com
 comparison.tesla.com
 comparison.tesla.com
 comparison.tesla.com
+comparison.tesla.com
+courses.tesla.com
 courses.tesla.com
 courses.tesla.com
 courses.tesla.com
@@ -5628,6 +5798,8 @@ cradlepointtest01.tesla.com
 cradlepointtest01.tesla.com
 cradlepointtest01.tesla.com
 cradlepointtest01.tesla.com
+cradlepointtest01.tesla.com
+crpt.tesla.com
 crpt.tesla.com
 crpt.tesla.com
 crpt.tesla.com
@@ -5694,6 +5866,8 @@ cryptopay.tesla.com
 cryptopay.tesla.com
 cryptopay.tesla.com
 cryptopay.tesla.com
+cryptopay.tesla.com
+cryptopay2.tesla.com
 cryptopay2.tesla.com
 cryptopay2.tesla.com
 cryptopay2.tesla.com
@@ -5760,6 +5934,8 @@ cryptopay3.tesla.com
 cryptopay3.tesla.com
 cryptopay3.tesla.com
 cryptopay3.tesla.com
+cryptopay3.tesla.com
+cryptopay4.tesla.com
 cryptopay4.tesla.com
 cryptopay4.tesla.com
 cryptopay4.tesla.com
@@ -5826,6 +6002,8 @@ cx-apac-stg.tesla.com
 cx-apac-stg.tesla.com
 cx-apac-stg.tesla.com
 cx-apac-stg.tesla.com
+cx-apac-stg.tesla.com
+cx-apac.tesla.com
 cx-apac.tesla.com
 cx-apac.tesla.com
 cx-apac.tesla.com
@@ -5892,6 +6070,8 @@ cx-api-apac-stg.tesla.com
 cx-api-apac-stg.tesla.com
 cx-api-apac-stg.tesla.com
 cx-api-apac-stg.tesla.com
+cx-api-apac-stg.tesla.com
+cx-api-apac.tesla.com
 cx-api-apac.tesla.com
 cx-api-apac.tesla.com
 cx-api-apac.tesla.com
@@ -5958,6 +6138,8 @@ cxadmin-apac-stg.tesla.com
 cxadmin-apac-stg.tesla.com
 cxadmin-apac-stg.tesla.com
 cxadmin-apac-stg.tesla.com
+cxadmin-apac-stg.tesla.com
+cxadmin-apac.tesla.com
 cxadmin-apac.tesla.com
 cxadmin-apac.tesla.com
 cxadmin-apac.tesla.com
@@ -6024,6 +6206,8 @@ cxadmin-api-apac-stg.tesla.com
 cxadmin-api-apac-stg.tesla.com
 cxadmin-api-apac-stg.tesla.com
 cxadmin-api-apac-stg.tesla.com
+cxadmin-api-apac-stg.tesla.com
+cxadmin-api-apac.tesla.com
 cxadmin-api-apac.tesla.com
 cxadmin-api-apac.tesla.com
 cxadmin-api-apac.tesla.com
@@ -6090,6 +6274,7 @@ cxengine-apac-stg.tesla.com
 cxengine-apac-stg.tesla.com
 cxengine-apac-stg.tesla.com
 cxengine-apac-stg.tesla.com
+cxengine-apac-stg.tesla.com
 cxengine-apac.tesla.com
 cxengine-apac.tesla.com
 cxengine-apac.tesla.com
@@ -6123,6 +6308,8 @@ cxengine-apac.tesla.com
 cxengine-apac.tesla.com
 cxengine-apac.tesla.com
 cxengine-apac.tesla.com
+cxengine-apac.tesla.com
+cyberbeer.tesla.com
 cyberbeer.tesla.com
 cyberbeer.tesla.com
 cyberbeer.tesla.com
@@ -6188,6 +6375,8 @@ dal11-gpgw1.tesla.com
 dal11-gpgw1.tesla.com
 dal11-gpgw1.tesla.com
 dal11-gpgw1.tesla.com
+dal11-gpgw1.tesla.com
+darkfield.tesla.com
 darkfield.tesla.com
 darkfield.tesla.com
 darkfield.tesla.com
@@ -6254,6 +6443,8 @@ dataviz.tesla.com
 dataviz.tesla.com
 dataviz.tesla.com
 dataviz.tesla.com
+dataviz.tesla.com
+de.tesla.com
 de.tesla.com
 de.tesla.com
 de.tesla.com
@@ -6320,6 +6511,8 @@ dev.kronosdb.tesla.com
 dev.kronosdb.tesla.com
 dev.kronosdb.tesla.com
 dev.kronosdb.tesla.com
+dev.kronosdb.tesla.com
+dev.tesla.com
 dev.tesla.com
 dev.tesla.com
 dev.tesla.com
@@ -6386,6 +6579,8 @@ dgf.tesla.com
 dgf.tesla.com
 dgf.tesla.com
 dgf.tesla.com
+dgf.tesla.com
+digitalassets-accounts.tesla.com
 digitalassets-accounts.tesla.com
 digitalassets-accounts.tesla.com
 digitalassets-accounts.tesla.com
@@ -6452,6 +6647,8 @@ digitalassets-contents.tesla.com
 digitalassets-contents.tesla.com
 digitalassets-contents.tesla.com
 digitalassets-contents.tesla.com
+digitalassets-contents.tesla.com
+digitalassets-energy.tesla.com
 digitalassets-energy.tesla.com
 digitalassets-energy.tesla.com
 digitalassets-energy.tesla.com
@@ -6518,6 +6715,8 @@ digitalassets-learning.tesla.com
 digitalassets-learning.tesla.com
 digitalassets-learning.tesla.com
 digitalassets-learning.tesla.com
+digitalassets-learning.tesla.com
+digitalassets-secure.tesla.com
 digitalassets-secure.tesla.com
 digitalassets-secure.tesla.com
 digitalassets-secure.tesla.com
@@ -6584,6 +6783,8 @@ digitalassets-shop.tesla.com
 digitalassets-shop.tesla.com
 digitalassets-shop.tesla.com
 digitalassets-shop.tesla.com
+digitalassets-shop.tesla.com
+digitalassets-stage.tesla.com
 digitalassets-stage.tesla.com
 digitalassets-stage.tesla.com
 digitalassets-stage.tesla.com
@@ -6650,6 +6851,8 @@ digitalassets.tesla.com
 digitalassets.tesla.com
 digitalassets.tesla.com
 digitalassets.tesla.com
+digitalassets.tesla.com
+docker.github-ap.tesla.com
 docker.github-ap.tesla.com
 docker.github-ap.tesla.com
 docker.github-ap.tesla.com
@@ -6716,6 +6919,8 @@ docker.github-fw.tesla.com
 docker.github-fw.tesla.com
 docker.github-fw.tesla.com
 docker.github-fw.tesla.com
+docker.github-fw.tesla.com
+docker.github-it.tesla.com
 docker.github-it.tesla.com
 docker.github-it.tesla.com
 docker.github-it.tesla.com
@@ -6782,6 +6987,8 @@ docker.github.tesla.com
 docker.github.tesla.com
 docker.github.tesla.com
 docker.github.tesla.com
+docker.github.tesla.com
+eaa-setup.tesla.com
 eaa-setup.tesla.com
 eaa-setup.tesla.com
 eaa-setup.tesla.com
@@ -6848,6 +7055,8 @@ edgedns.tesla.com
 edgedns.tesla.com
 edgedns.tesla.com
 edgedns.tesla.com
+edgedns.tesla.com
+edr.tesla.com
 edr.tesla.com
 edr.tesla.com
 edr.tesla.com
@@ -6914,6 +7123,8 @@ ehs.tesla.com
 ehs.tesla.com
 ehs.tesla.com
 ehs.tesla.com
+ehs.tesla.com
+einvoicing.tesla.com
 einvoicing.tesla.com
 einvoicing.tesla.com
 einvoicing.tesla.com
@@ -6980,6 +7191,8 @@ em1.tesla.com
 em1.tesla.com
 em1.tesla.com
 em1.tesla.com
+em1.tesla.com
+em1488.tesla.com
 em1488.tesla.com
 em1488.tesla.com
 em1488.tesla.com
@@ -7046,6 +7259,8 @@ em1962.tesla.com
 em1962.tesla.com
 em1962.tesla.com
 em1962.tesla.com
+em1962.tesla.com
+em3490.tesla.com
 em3490.tesla.com
 em3490.tesla.com
 em3490.tesla.com
@@ -7112,6 +7327,8 @@ em5886.tesla.com
 em5886.tesla.com
 em5886.tesla.com
 em5886.tesla.com
+em5886.tesla.com
+em7799.tesla.com
 em7799.tesla.com
 em7799.tesla.com
 em7799.tesla.com
@@ -7178,6 +7395,8 @@ email.tesla.com
 email.tesla.com
 email.tesla.com
 email.tesla.com
+email.tesla.com
+email.vms.tesla.com
 email.vms.tesla.com
 email.vms.tesla.com
 email.vms.tesla.com
@@ -7244,6 +7463,8 @@ email1.tesla.com
 email1.tesla.com
 email1.tesla.com
 email1.tesla.com
+email1.tesla.com
+emails.tesla.com
 emails.tesla.com
 emails.tesla.com
 emails.tesla.com
@@ -7310,6 +7531,8 @@ employee-teslatequila.tesla.com
 employee-teslatequila.tesla.com
 employee-teslatequila.tesla.com
 employee-teslatequila.tesla.com
+employee-teslatequila.tesla.com
+employeefeedback.tesla.com
 employeefeedback.tesla.com
 employeefeedback.tesla.com
 employeefeedback.tesla.com
@@ -7376,6 +7599,8 @@ energy.tesla.com
 energy.tesla.com
 energy.tesla.com
 energy.tesla.com
+energy.tesla.com
+energydesk.tesla.com
 energydesk.tesla.com
 energydesk.tesla.com
 energydesk.tesla.com
@@ -7442,6 +7667,8 @@ energysupport.tesla.com
 energysupport.tesla.com
 energysupport.tesla.com
 energysupport.tesla.com
+energysupport.tesla.com
+engage.tesla.com
 engage.tesla.com
 engage.tesla.com
 engage.tesla.com
@@ -7508,6 +7735,8 @@ enterpriseregistration.c.tesla.com
 enterpriseregistration.c.tesla.com
 enterpriseregistration.c.tesla.com
 enterpriseregistration.c.tesla.com
+enterpriseregistration.c.tesla.com
+enterpriseregistration.contractors.contractors.tesla.com
 enterpriseregistration.contractors.contractors.tesla.com
 enterpriseregistration.contractors.contractors.tesla.com
 enterpriseregistration.contractors.contractors.tesla.com
@@ -7574,6 +7803,8 @@ enterpriseregistration.tesla.com
 enterpriseregistration.tesla.com
 enterpriseregistration.tesla.com
 enterpriseregistration.tesla.com
+enterpriseregistration.tesla.com
+envoy-finplat-stg.tesla.com
 envoy-finplat-stg.tesla.com
 envoy-finplat-stg.tesla.com
 envoy-finplat-stg.tesla.com
@@ -7640,6 +7871,8 @@ envoy-finplat-sunlight.tesla.com
 envoy-finplat-sunlight.tesla.com
 envoy-finplat-sunlight.tesla.com
 envoy-finplat-sunlight.tesla.com
+envoy-finplat-sunlight.tesla.com
+envoy-partnerleadsharing.tesla.com
 envoy-partnerleadsharing.tesla.com
 envoy-partnerleadsharing.tesla.com
 envoy-partnerleadsharing.tesla.com
@@ -7706,6 +7939,7 @@ envoy-partnertasks.tesla.com
 envoy-partnertasks.tesla.com
 envoy-partnertasks.tesla.com
 envoy-partnertasks.tesla.com
+envoy-partnertasks.tesla.com
 epc.tesla.com
 epc.tesla.com
 epc.tesla.com
@@ -7739,6 +7973,8 @@ epc.tesla.com
 epc.tesla.com
 epc.tesla.com
 epc.tesla.com
+epc.tesla.com
+epcapi.tesla.com
 epcapi.tesla.com
 epcapi.tesla.com
 epcapi.tesla.com
@@ -7801,6 +8037,7 @@ epuca-prd.usw2.vn.cloud.tesla.com
 epuca-prd.usw2.vn.cloud.tesla.com
 epuca-prd.usw2.vn.cloud.tesla.com
 epuca-prd.usw2.vn.cloud.tesla.com
+epuca-prd.usw2.vn.cloud.tesla.com
 errlog-stage.tesla.com
 errlog-stage.tesla.com
 errlog-stage.tesla.com
@@ -7834,6 +8071,8 @@ errlog-stage.tesla.com
 errlog-stage.tesla.com
 errlog-stage.tesla.com
 errlog-stage.tesla.com
+errlog-stage.tesla.com
+errlog.tesla.com
 errlog.tesla.com
 errlog.tesla.com
 errlog.tesla.com
@@ -7899,6 +8138,8 @@ eu.logs.tesla.com
 eu.logs.tesla.com
 eu.logs.tesla.com
 eu.logs.tesla.com
+eu.logs.tesla.com
+eu.tesla.com
 eu.tesla.com
 eu.tesla.com
 eu.tesla.com
@@ -7965,6 +8206,7 @@ eua-origin.tesla.com
 eua-origin.tesla.com
 eua-origin.tesla.com
 eua-origin.tesla.com
+eua-origin.tesla.com
 eumirror.tesla.com
 eumirror.tesla.com
 eumirror.tesla.com
@@ -7998,6 +8240,8 @@ eumirror.tesla.com
 eumirror.tesla.com
 eumirror.tesla.com
 eumirror.tesla.com
+eumirror.tesla.com
+events.tesla.com
 events.tesla.com
 events.tesla.com
 events.tesla.com
@@ -8060,6 +8304,8 @@ example.tesla.com
 example.tesla.com
 example.tesla.com
 example.tesla.com
+example.tesla.com
+excluded.tesla.com
 excluded.tesla.com
 excluded.tesla.com
 excluded.tesla.com
@@ -8126,6 +8372,8 @@ external-3pl-prd.tesla.com
 external-3pl-prd.tesla.com
 external-3pl-prd.tesla.com
 external-3pl-prd.tesla.com
+external-3pl-prd.tesla.com
+external-3pl-stg.tesla.com
 external-3pl-stg.tesla.com
 external-3pl-stg.tesla.com
 external-3pl-stg.tesla.com
@@ -8192,6 +8440,8 @@ external-automation.tesla.com
 external-automation.tesla.com
 external-automation.tesla.com
 external-automation.tesla.com
+external-automation.tesla.com
+external-sandbox-automation.tesla.com
 external-sandbox-automation.tesla.com
 external-sandbox-automation.tesla.com
 external-sandbox-automation.tesla.com
@@ -8258,6 +8508,8 @@ factory-berlin.tesla.com
 factory-berlin.tesla.com
 factory-berlin.tesla.com
 factory-berlin.tesla.com
+factory-berlin.tesla.com
+feedback.tesla.com
 feedback.tesla.com
 feedback.tesla.com
 feedback.tesla.com
@@ -8324,6 +8576,8 @@ financeplatform.tesla.com
 financeplatform.tesla.com
 financeplatform.tesla.com
 financeplatform.tesla.com
+financeplatform.tesla.com
+financial-gw-stg.tesla.com
 financial-gw-stg.tesla.com
 financial-gw-stg.tesla.com
 financial-gw-stg.tesla.com
@@ -8390,6 +8644,8 @@ financial-gw.tesla.com
 financial-gw.tesla.com
 financial-gw.tesla.com
 financial-gw.tesla.com
+financial-gw.tesla.com
+finops.tesla.com
 finops.tesla.com
 finops.tesla.com
 finops.tesla.com
@@ -8456,6 +8712,8 @@ fleet-api.prd.eu.vn.cloud.tesla.com
 fleet-api.prd.eu.vn.cloud.tesla.com
 fleet-api.prd.eu.vn.cloud.tesla.com
 fleet-api.prd.eu.vn.cloud.tesla.com
+fleet-api.prd.eu.vn.cloud.tesla.com
+fleet-api.prd.na.vn.cloud.tesla.com
 fleet-api.prd.na.vn.cloud.tesla.com
 fleet-api.prd.na.vn.cloud.tesla.com
 fleet-api.prd.na.vn.cloud.tesla.com
@@ -8522,6 +8780,8 @@ fleetview.america.fn.tesla.com
 fleetview.america.fn.tesla.com
 fleetview.america.fn.tesla.com
 fleetview.america.fn.tesla.com
+fleetview.america.fn.tesla.com
+fleetview.europe.fn.tesla.com
 fleetview.europe.fn.tesla.com
 fleetview.europe.fn.tesla.com
 fleetview.europe.fn.tesla.com
@@ -8588,6 +8848,8 @@ fleetview.fn.tesla.com
 fleetview.fn.tesla.com
 fleetview.fn.tesla.com
 fleetview.fn.tesla.com
+fleetview.fn.tesla.com
+fleetview.prd.america.fn.tesla.com
 fleetview.prd.america.fn.tesla.com
 fleetview.prd.america.fn.tesla.com
 fleetview.prd.america.fn.tesla.com
@@ -8654,6 +8916,8 @@ fleetview.prd.america.vn.cloud.tesla.com
 fleetview.prd.america.vn.cloud.tesla.com
 fleetview.prd.america.vn.cloud.tesla.com
 fleetview.prd.america.vn.cloud.tesla.com
+fleetview.prd.america.vn.cloud.tesla.com
+fleetview.prd.eu.fn.tesla.com
 fleetview.prd.eu.fn.tesla.com
 fleetview.prd.eu.fn.tesla.com
 fleetview.prd.eu.fn.tesla.com
@@ -8720,6 +8984,8 @@ fleetview.prd.europe.fn.tesla.com
 fleetview.prd.europe.fn.tesla.com
 fleetview.prd.europe.fn.tesla.com
 fleetview.prd.europe.fn.tesla.com
+fleetview.prd.europe.fn.tesla.com
+fleetview.prd.europe.vn.cloud.tesla.com
 fleetview.prd.europe.vn.cloud.tesla.com
 fleetview.prd.europe.vn.cloud.tesla.com
 fleetview.prd.europe.vn.cloud.tesla.com
@@ -8786,6 +9052,8 @@ fleetview.prd.euw1.fn.tesla.com
 fleetview.prd.euw1.fn.tesla.com
 fleetview.prd.euw1.fn.tesla.com
 fleetview.prd.euw1.fn.tesla.com
+fleetview.prd.euw1.fn.tesla.com
+fleetview.prd.na.fn.tesla.com
 fleetview.prd.na.fn.tesla.com
 fleetview.prd.na.fn.tesla.com
 fleetview.prd.na.fn.tesla.com
@@ -8852,6 +9120,8 @@ fleetview.prd.usw2.fn.tesla.com
 fleetview.prd.usw2.fn.tesla.com
 fleetview.prd.usw2.fn.tesla.com
 fleetview.prd.usw2.fn.tesla.com
+fleetview.prd.usw2.fn.tesla.com
+forums.tesla.com
 forums.tesla.com
 forums.tesla.com
 forums.tesla.com
@@ -8917,6 +9187,8 @@ fra05-gpgw1.tesla.com
 fra05-gpgw1.tesla.com
 fra05-gpgw1.tesla.com
 fra05-gpgw1.tesla.com
+fra05-gpgw1.tesla.com
+gantry.tesla.com
 gantry.tesla.com
 gantry.tesla.com
 gantry.tesla.com
@@ -8983,6 +9255,8 @@ gf-modeling-mpp.tesla.com
 gf-modeling-mpp.tesla.com
 gf-modeling-mpp.tesla.com
 gf-modeling-mpp.tesla.com
+gf-modeling-mpp.tesla.com
+gf.tesla.com
 gf.tesla.com
 gf.tesla.com
 gf.tesla.com
@@ -9049,6 +9323,8 @@ gigabier.tesla.com
 gigabier.tesla.com
 gigabier.tesla.com
 gigabier.tesla.com
+gigabier.tesla.com
+gist.github-ap.tesla.com
 gist.github-ap.tesla.com
 gist.github-ap.tesla.com
 gist.github-ap.tesla.com
@@ -9115,6 +9391,8 @@ gist.github-fw.tesla.com
 gist.github-fw.tesla.com
 gist.github-fw.tesla.com
 gist.github-fw.tesla.com
+gist.github-fw.tesla.com
+gist.github-it.tesla.com
 gist.github-it.tesla.com
 gist.github-it.tesla.com
 gist.github-it.tesla.com
@@ -9181,6 +9459,8 @@ gist.github.tesla.com
 gist.github.tesla.com
 gist.github.tesla.com
 gist.github.tesla.com
+gist.github.tesla.com
+github-ap.tesla.com
 github-ap.tesla.com
 github-ap.tesla.com
 github-ap.tesla.com
@@ -9247,6 +9527,8 @@ github-fw.tesla.com
 github-fw.tesla.com
 github-fw.tesla.com
 github-fw.tesla.com
+github-fw.tesla.com
+github-it.tesla.com
 github-it.tesla.com
 github-it.tesla.com
 github-it.tesla.com
@@ -9313,6 +9595,8 @@ github.tesla.com
 github.tesla.com
 github.tesla.com
 github.tesla.com
+github.tesla.com
+githubmirror.tesla.com
 githubmirror.tesla.com
 githubmirror.tesla.com
 githubmirror.tesla.com
@@ -9379,6 +9663,8 @@ githubmirroraus08.tesla.com
 githubmirroraus08.tesla.com
 githubmirroraus08.tesla.com
 githubmirroraus08.tesla.com
+githubmirroraus08.tesla.com
+githubmirrorber02.tesla.com
 githubmirrorber02.tesla.com
 githubmirrorber02.tesla.com
 githubmirrorber02.tesla.com
@@ -9444,6 +9730,8 @@ gpv.tesla.com
 gpv.tesla.com
 gpv.tesla.com
 gpv.tesla.com
+gpv.tesla.com
+grid.tesla.com
 grid.tesla.com
 grid.tesla.com
 grid.tesla.com
@@ -9510,6 +9798,8 @@ gridlogic-eng.energy.tesla.com
 gridlogic-eng.energy.tesla.com
 gridlogic-eng.energy.tesla.com
 gridlogic-eng.energy.tesla.com
+gridlogic-eng.energy.tesla.com
+gridlogic-eng.powerhub.energy.tesla.com
 gridlogic-eng.powerhub.energy.tesla.com
 gridlogic-eng.powerhub.energy.tesla.com
 gridlogic-eng.powerhub.energy.tesla.com
@@ -9576,6 +9866,8 @@ gridlogic-qa.energy.tesla.com
 gridlogic-qa.energy.tesla.com
 gridlogic-qa.energy.tesla.com
 gridlogic-qa.energy.tesla.com
+gridlogic-qa.energy.tesla.com
+gridlogic.energy.tesla.com
 gridlogic.energy.tesla.com
 gridlogic.energy.tesla.com
 gridlogic.energy.tesla.com
@@ -9642,6 +9934,8 @@ gridlogic.powerhub.energy.tesla.com
 gridlogic.powerhub.energy.tesla.com
 gridlogic.powerhub.energy.tesla.com
 gridlogic.powerhub.energy.tesla.com
+gridlogic.powerhub.energy.tesla.com
+group301.tesla.com
 group301.tesla.com
 group301.tesla.com
 group301.tesla.com
@@ -9707,6 +10001,8 @@ hnd13-gpgw1.tesla.com
 hnd13-gpgw1.tesla.com
 hnd13-gpgw1.tesla.com
 hnd13-gpgw1.tesla.com
+hnd13-gpgw1.tesla.com
+hub.tesla.com
 hub.tesla.com
 hub.tesla.com
 hub.tesla.com
@@ -9772,6 +10068,8 @@ iad05-gpgw1.tesla.com
 iad05-gpgw1.tesla.com
 iad05-gpgw1.tesla.com
 iad05-gpgw1.tesla.com
+iad05-gpgw1.tesla.com
+image-emails.tesla.com
 image-emails.tesla.com
 image-emails.tesla.com
 image-emails.tesla.com
@@ -9838,6 +10136,8 @@ image.email.tesla.com
 image.email.tesla.com
 image.email.tesla.com
 image.email.tesla.com
+image.email.tesla.com
+image.emails.tesla.com
 image.emails.tesla.com
 image.emails.tesla.com
 image.emails.tesla.com
@@ -9904,6 +10204,8 @@ imap.tesla.com
 imap.tesla.com
 imap.tesla.com
 imap.tesla.com
+imap.tesla.com
+inside-stg.tesla.com
 inside-stg.tesla.com
 inside-stg.tesla.com
 inside-stg.tesla.com
@@ -9970,6 +10272,8 @@ inside.tesla.com
 inside.tesla.com
 inside.tesla.com
 inside.tesla.com
+inside.tesla.com
+installations-ext-api.tesla.com
 installations-ext-api.tesla.com
 installations-ext-api.tesla.com
 installations-ext-api.tesla.com
@@ -10036,6 +10340,7 @@ integration.kronos.tesla.com
 integration.kronos.tesla.com
 integration.kronos.tesla.com
 integration.kronos.tesla.com
+integration.kronos.tesla.com
 inventory-assets.tesla.com
 inventory-assets.tesla.com
 inventory-assets.tesla.com
@@ -10069,6 +10374,8 @@ inventory-assets.tesla.com
 inventory-assets.tesla.com
 inventory-assets.tesla.com
 inventory-assets.tesla.com
+inventory-assets.tesla.com
+invest.tesla.com
 invest.tesla.com
 invest.tesla.com
 invest.tesla.com
@@ -10134,6 +10441,8 @@ ion.tesla.com
 ion.tesla.com
 ion.tesla.com
 ion.tesla.com
+ion.tesla.com
+ir.tesla.com
 ir.tesla.com
 ir.tesla.com
 ir.tesla.com
@@ -10200,6 +10509,8 @@ itanswers.tesla.com
 itanswers.tesla.com
 itanswers.tesla.com
 itanswers.tesla.com
+itanswers.tesla.com
+kpai7ycr7jxqkilp.tesla.com
 kpai7ycr7jxqkilp.tesla.com
 kpai7ycr7jxqkilp.tesla.com
 kpai7ycr7jxqkilp.tesla.com
@@ -10266,6 +10577,7 @@ kronos-dev.tesla.com
 kronos-dev.tesla.com
 kronos-dev.tesla.com
 kronos-dev.tesla.com
+kronos-dev.tesla.com
 kronos.tesla.com
 kronos.tesla.com
 kronos.tesla.com
@@ -10299,6 +10611,8 @@ kronos.tesla.com
 kronos.tesla.com
 kronos.tesla.com
 kronos.tesla.com
+kronos.tesla.com
+kronosdb.tesla.com
 kronosdb.tesla.com
 kronosdb.tesla.com
 kronosdb.tesla.com
@@ -10364,6 +10678,8 @@ lax32-gpgw1.tesla.com
 lax32-gpgw1.tesla.com
 lax32-gpgw1.tesla.com
 lax32-gpgw1.tesla.com
+lax32-gpgw1.tesla.com
+learning-apac-stg.tesla.com
 learning-apac-stg.tesla.com
 learning-apac-stg.tesla.com
 learning-apac-stg.tesla.com
@@ -10430,6 +10746,8 @@ learning-apac.tesla.com
 learning-apac.tesla.com
 learning-apac.tesla.com
 learning-apac.tesla.com
+learning-apac.tesla.com
+lighthouse.tesla.com
 lighthouse.tesla.com
 lighthouse.tesla.com
 lighthouse.tesla.com
@@ -10496,6 +10814,8 @@ link.qa.tesla.com
 link.qa.tesla.com
 link.qa.tesla.com
 link.qa.tesla.com
+link.qa.tesla.com
+link.tesla.com
 link.tesla.com
 link.tesla.com
 link.tesla.com
@@ -10562,6 +10882,8 @@ links.tesla.com
 links.tesla.com
 links.tesla.com
 links.tesla.com
+links.tesla.com
+lionpayshare.tesla.com
 lionpayshare.tesla.com
 lionpayshare.tesla.com
 lionpayshare.tesla.com
@@ -10628,6 +10950,8 @@ lionpaytest.tesla.com
 lionpaytest.tesla.com
 lionpaytest.tesla.com
 lionpaytest.tesla.com
+lionpaytest.tesla.com
+lionshare.tesla.com
 lionshare.tesla.com
 lionshare.tesla.com
 lionshare.tesla.com
@@ -10694,6 +11018,8 @@ livestream.tesla.com
 livestream.tesla.com
 livestream.tesla.com
 livestream.tesla.com
+livestream.tesla.com
+livestreamapi-test.tesla.com
 livestreamapi-test.tesla.com
 livestreamapi-test.tesla.com
 livestreamapi-test.tesla.com
@@ -10760,6 +11086,8 @@ livestreamapi.tesla.com
 livestreamapi.tesla.com
 livestreamapi.tesla.com
 livestreamapi.tesla.com
+livestreamapi.tesla.com
+location-services-prd.tesla.com
 location-services-prd.tesla.com
 location-services-prd.tesla.com
 location-services-prd.tesla.com
@@ -10826,6 +11154,7 @@ logcollection.tesla.com
 logcollection.tesla.com
 logcollection.tesla.com
 logcollection.tesla.com
+logcollection.tesla.com
 logcollector-ext.tesla.com
 logcollector-ext.tesla.com
 logcollector-ext.tesla.com
@@ -10859,6 +11188,8 @@ logcollector-ext.tesla.com
 logcollector-ext.tesla.com
 logcollector-ext.tesla.com
 logcollector-ext.tesla.com
+logcollector-ext.tesla.com
+logs.tesla.com
 logs.tesla.com
 logs.tesla.com
 logs.tesla.com
@@ -10924,6 +11255,8 @@ logtransit-ext.tesla.com
 logtransit-ext.tesla.com
 logtransit-ext.tesla.com
 logtransit-ext.tesla.com
+logtransit-ext.tesla.com
+lyncdiscover.c.tesla.com
 lyncdiscover.c.tesla.com
 lyncdiscover.c.tesla.com
 lyncdiscover.c.tesla.com
@@ -10990,6 +11323,8 @@ lyncdiscover.contractors.contractors.tesla.com
 lyncdiscover.contractors.contractors.tesla.com
 lyncdiscover.contractors.contractors.tesla.com
 lyncdiscover.contractors.contractors.tesla.com
+lyncdiscover.contractors.contractors.tesla.com
+lyncdiscover.tesla.com
 lyncdiscover.tesla.com
 lyncdiscover.tesla.com
 lyncdiscover.tesla.com
@@ -11056,6 +11391,8 @@ mail.tesla.com
 mail.tesla.com
 mail.tesla.com
 mail.tesla.com
+mail.tesla.com
+manager.courses.tesla.com
 manager.courses.tesla.com
 manager.courses.tesla.com
 manager.courses.tesla.com
@@ -11122,6 +11459,8 @@ marketing.tesla.com
 marketing.tesla.com
 marketing.tesla.com
 marketing.tesla.com
+marketing.tesla.com
+maven.github-ap.tesla.com
 maven.github-ap.tesla.com
 maven.github-ap.tesla.com
 maven.github-ap.tesla.com
@@ -11188,6 +11527,8 @@ maven.github-fw.tesla.com
 maven.github-fw.tesla.com
 maven.github-fw.tesla.com
 maven.github-fw.tesla.com
+maven.github-fw.tesla.com
+maven.github-it.tesla.com
 maven.github-it.tesla.com
 maven.github-it.tesla.com
 maven.github-it.tesla.com
@@ -11254,6 +11595,8 @@ maven.github.tesla.com
 maven.github.tesla.com
 maven.github.tesla.com
 maven.github.tesla.com
+maven.github.tesla.com
+media.github-ap.tesla.com
 media.github-ap.tesla.com
 media.github-ap.tesla.com
 media.github-ap.tesla.com
@@ -11320,6 +11663,8 @@ media.github-fw.tesla.com
 media.github-fw.tesla.com
 media.github-fw.tesla.com
 media.github-fw.tesla.com
+media.github-fw.tesla.com
+media.github-it.tesla.com
 media.github-it.tesla.com
 media.github-it.tesla.com
 media.github-it.tesla.com
@@ -11386,6 +11731,8 @@ media.github.tesla.com
 media.github.tesla.com
 media.github.tesla.com
 media.github.tesla.com
+media.github.tesla.com
+meet.tesla.com
 meet.tesla.com
 meet.tesla.com
 meet.tesla.com
@@ -11452,6 +11799,8 @@ mfa-dev.tesla.com
 mfa-dev.tesla.com
 mfa-dev.tesla.com
 mfa-dev.tesla.com
+mfa-dev.tesla.com
+mfa-reset.tesla.com
 mfa-reset.tesla.com
 mfa-reset.tesla.com
 mfa-reset.tesla.com
@@ -11518,6 +11867,8 @@ mfa-stage.tesla.com
 mfa-stage.tesla.com
 mfa-stage.tesla.com
 mfa-stage.tesla.com
+mfa-stage.tesla.com
+mfa.tesla.com
 mfa.tesla.com
 mfa.tesla.com
 mfa.tesla.com
@@ -11584,6 +11935,8 @@ mfamobile-dev.tesla.com
 mfamobile-dev.tesla.com
 mfamobile-dev.tesla.com
 mfamobile-dev.tesla.com
+mfamobile-dev.tesla.com
+mfauser-dev.tesla.com
 mfauser-dev.tesla.com
 mfauser-dev.tesla.com
 mfauser-dev.tesla.com
@@ -11650,6 +12003,8 @@ mfg.tesla.com
 mfg.tesla.com
 mfg.tesla.com
 mfg.tesla.com
+mfg.tesla.com
+mfs-supplier-uat.tesla.com
 mfs-supplier-uat.tesla.com
 mfs-supplier-uat.tesla.com
 mfs-supplier-uat.tesla.com
@@ -11716,6 +12071,8 @@ mfs-supplier.tesla.com
 mfs-supplier.tesla.com
 mfs-supplier.tesla.com
 mfs-supplier.tesla.com
+mfs-supplier.tesla.com
+mirror.tesla.com
 mirror.tesla.com
 mirror.tesla.com
 mirror.tesla.com
@@ -11781,6 +12138,7 @@ mobile-links-cdn.eng.vn.cloud.tesla.com
 mobile-links-cdn.eng.vn.cloud.tesla.com
 mobile-links-cdn.eng.vn.cloud.tesla.com
 mobile-links-cdn.eng.vn.cloud.tesla.com
+mobile-links-cdn.eng.vn.cloud.tesla.com
 mobile-links-cdn.prd.vn.cloud.tesla.com
 mobile-links-cdn.prd.vn.cloud.tesla.com
 mobile-links-cdn.prd.vn.cloud.tesla.com
@@ -11813,6 +12171,8 @@ mobile-links-cdn.prd.vn.cloud.tesla.com
 mobile-links-cdn.prd.vn.cloud.tesla.com
 mobile-links-cdn.prd.vn.cloud.tesla.com
 mobile-links-cdn.prd.vn.cloud.tesla.com
+mobile-links-cdn.prd.vn.cloud.tesla.com
+mobile-links.eng.vn.cloud.tesla.com
 mobile-links.eng.vn.cloud.tesla.com
 mobile-links.eng.vn.cloud.tesla.com
 mobile-links.eng.vn.cloud.tesla.com
@@ -11879,6 +12239,8 @@ mobile-links.prd.vn.cloud.tesla.com
 mobile-links.prd.vn.cloud.tesla.com
 mobile-links.prd.vn.cloud.tesla.com
 mobile-links.prd.vn.cloud.tesla.com
+mobile-links.prd.vn.cloud.tesla.com
+mobile-ops-links.prd.vn.cloud.tesla.com
 mobile-ops-links.prd.vn.cloud.tesla.com
 mobile-ops-links.prd.vn.cloud.tesla.com
 mobile-ops-links.prd.vn.cloud.tesla.com
@@ -11945,6 +12307,8 @@ mobile.kronos.tesla.com
 mobile.kronos.tesla.com
 mobile.kronos.tesla.com
 mobile.kronos.tesla.com
+mobile.kronos.tesla.com
+mobile.tesla.com
 mobile.tesla.com
 mobile.tesla.com
 mobile.tesla.com
@@ -12011,6 +12375,8 @@ model3.tesla.com
 model3.tesla.com
 model3.tesla.com
 model3.tesla.com
+model3.tesla.com
+monitoring-eu.tesla.com
 monitoring-eu.tesla.com
 monitoring-eu.tesla.com
 monitoring-eu.tesla.com
@@ -12077,6 +12443,8 @@ monitoring.tesla.com
 monitoring.tesla.com
 monitoring.tesla.com
 monitoring.tesla.com
+monitoring.tesla.com
+mrsproxy06.tesla.com
 mrsproxy06.tesla.com
 mrsproxy06.tesla.com
 mrsproxy06.tesla.com
@@ -12143,6 +12511,8 @@ msoid.contractors.contractors.tesla.com
 msoid.contractors.contractors.tesla.com
 msoid.contractors.contractors.tesla.com
 msoid.contractors.contractors.tesla.com
+msoid.contractors.contractors.tesla.com
+mta.email.tesla.com
 mta.email.tesla.com
 mta.email.tesla.com
 mta.email.tesla.com
@@ -12209,6 +12579,8 @@ mta.emails.tesla.com
 mta.emails.tesla.com
 mta.emails.tesla.com
 mta.emails.tesla.com
+mta.emails.tesla.com
+mta2.email.tesla.com
 mta2.email.tesla.com
 mta2.email.tesla.com
 mta2.email.tesla.com
@@ -12275,6 +12647,8 @@ mta2.emails.tesla.com
 mta2.emails.tesla.com
 mta2.emails.tesla.com
 mta2.emails.tesla.com
+mta2.emails.tesla.com
+mta2gh.emails.tesla.com
 mta2gh.emails.tesla.com
 mta2gh.emails.tesla.com
 mta2gh.emails.tesla.com
@@ -12341,6 +12715,7 @@ mta3.emails.tesla.com
 mta3.emails.tesla.com
 mta3.emails.tesla.com
 mta3.emails.tesla.com
+mta3.emails.tesla.com
 mta4.emails.tesla.com
 mta4.emails.tesla.com
 mta4.emails.tesla.com
@@ -12374,6 +12749,8 @@ mta4.emails.tesla.com
 mta4.emails.tesla.com
 mta4.emails.tesla.com
 mta4.emails.tesla.com
+mta4.emails.tesla.com
+mta5.emails.tesla.com
 mta5.emails.tesla.com
 mta5.emails.tesla.com
 mta5.emails.tesla.com
@@ -12436,6 +12813,8 @@ multiplier.tesla.com
 multiplier.tesla.com
 multiplier.tesla.com
 multiplier.tesla.com
+multiplier.tesla.com
+my.tesla.com
 my.tesla.com
 my.tesla.com
 my.tesla.com
@@ -12502,6 +12881,8 @@ myapps.tesla.com
 myapps.tesla.com
 myapps.tesla.com
 myapps.tesla.com
+myapps.tesla.com
+na-1-sso.tesla.com
 na-1-sso.tesla.com
 na-1-sso.tesla.com
 na-1-sso.tesla.com
@@ -12568,6 +12949,7 @@ na-2-sso.tesla.com
 na-2-sso.tesla.com
 na-2-sso.tesla.com
 na-2-sso.tesla.com
+na-2-sso.tesla.com
 na-eq-sso.tesla.com
 na-eq-sso.tesla.com
 na-eq-sso.tesla.com
@@ -12601,6 +12983,8 @@ na-eq-sso.tesla.com
 na-eq-sso.tesla.com
 na-eq-sso.tesla.com
 na-eq-sso.tesla.com
+na-eq-sso.tesla.com
+na-sso.tesla.com
 na-sso.tesla.com
 na-sso.tesla.com
 na-sso.tesla.com
@@ -12666,6 +13050,8 @@ na.logs.tesla.com
 na.logs.tesla.com
 na.logs.tesla.com
 na.logs.tesla.com
+na.logs.tesla.com
+naa-origin.tesla.com
 naa-origin.tesla.com
 naa-origin.tesla.com
 naa-origin.tesla.com
@@ -12732,6 +13118,8 @@ nas-origin.tesla.com
 nas-origin.tesla.com
 nas-origin.tesla.com
 nas-origin.tesla.com
+nas-origin.tesla.com
+new-dev.tesla.com
 new-dev.tesla.com
 new-dev.tesla.com
 new-dev.tesla.com
@@ -12798,6 +13186,8 @@ new.tesla.com
 new.tesla.com
 new.tesla.com
 new.tesla.com
+new.tesla.com
+noservice.tesla.com
 noservice.tesla.com
 noservice.tesla.com
 noservice.tesla.com
@@ -12864,6 +13254,8 @@ notebook.github-ap.tesla.com
 notebook.github-ap.tesla.com
 notebook.github-ap.tesla.com
 notebook.github-ap.tesla.com
+notebook.github-ap.tesla.com
+notebook.github-fw.tesla.com
 notebook.github-fw.tesla.com
 notebook.github-fw.tesla.com
 notebook.github-fw.tesla.com
@@ -12930,6 +13322,8 @@ notebook.github-it.tesla.com
 notebook.github-it.tesla.com
 notebook.github-it.tesla.com
 notebook.github-it.tesla.com
+notebook.github-it.tesla.com
+notebooks.github-ap.tesla.com
 notebooks.github-ap.tesla.com
 notebooks.github-ap.tesla.com
 notebooks.github-ap.tesla.com
@@ -12996,6 +13390,8 @@ notebooks.github-fw.tesla.com
 notebooks.github-fw.tesla.com
 notebooks.github-fw.tesla.com
 notebooks.github-fw.tesla.com
+notebooks.github-fw.tesla.com
+notebooks.github-it.tesla.com
 notebooks.github-it.tesla.com
 notebooks.github-it.tesla.com
 notebooks.github-it.tesla.com
@@ -13062,6 +13458,8 @@ notebooks.github.tesla.com
 notebooks.github.tesla.com
 notebooks.github.tesla.com
 notebooks.github.tesla.com
+notebooks.github.tesla.com
+npm.github-ap.tesla.com
 npm.github-ap.tesla.com
 npm.github-ap.tesla.com
 npm.github-ap.tesla.com
@@ -13128,6 +13526,7 @@ npm.github-fw.tesla.com
 npm.github-fw.tesla.com
 npm.github-fw.tesla.com
 npm.github-fw.tesla.com
+npm.github-fw.tesla.com
 npm.github-it.tesla.com
 npm.github-it.tesla.com
 npm.github-it.tesla.com
@@ -13161,6 +13560,8 @@ npm.github-it.tesla.com
 npm.github-it.tesla.com
 npm.github-it.tesla.com
 npm.github-it.tesla.com
+npm.github-it.tesla.com
+npm.github.tesla.com
 npm.github.tesla.com
 npm.github.tesla.com
 npm.github.tesla.com
@@ -13223,6 +13624,8 @@ npuv-prd.usw2.vn.cloud.tesla.com
 npuv-prd.usw2.vn.cloud.tesla.com
 npuv-prd.usw2.vn.cloud.tesla.com
 npuv-prd.usw2.vn.cloud.tesla.com
+npuv-prd.usw2.vn.cloud.tesla.com
+nuget.github-ap.tesla.com
 nuget.github-ap.tesla.com
 nuget.github-ap.tesla.com
 nuget.github-ap.tesla.com
@@ -13289,6 +13692,8 @@ nuget.github-fw.tesla.com
 nuget.github-fw.tesla.com
 nuget.github-fw.tesla.com
 nuget.github-fw.tesla.com
+nuget.github-fw.tesla.com
+nuget.github-it.tesla.com
 nuget.github-it.tesla.com
 nuget.github-it.tesla.com
 nuget.github-it.tesla.com
@@ -13355,6 +13760,8 @@ nuget.github.tesla.com
 nuget.github.tesla.com
 nuget.github.tesla.com
 nuget.github.tesla.com
+nuget.github.tesla.com
+nv.tesla.com
 nv.tesla.com
 nv.tesla.com
 nv.tesla.com
@@ -13421,6 +13828,8 @@ ny.tesla.com
 ny.tesla.com
 ny.tesla.com
 ny.tesla.com
+ny.tesla.com
+o1.ptr2410.link.tesla.com
 o1.ptr2410.link.tesla.com
 o1.ptr2410.link.tesla.com
 o1.ptr2410.link.tesla.com
@@ -13487,6 +13896,8 @@ o2.ptr556.tesla.com
 o2.ptr556.tesla.com
 o2.ptr556.tesla.com
 o2.ptr556.tesla.com
+o2.ptr556.tesla.com
+o3.ptr1444.tesla.com
 o3.ptr1444.tesla.com
 o3.ptr1444.tesla.com
 o3.ptr1444.tesla.com
@@ -13553,6 +13964,8 @@ o4.ptr1867.tesla.com
 o4.ptr1867.tesla.com
 o4.ptr1867.tesla.com
 o4.ptr1867.tesla.com
+o4.ptr1867.tesla.com
+o5.ptr8466.tesla.com
 o5.ptr8466.tesla.com
 o5.ptr8466.tesla.com
 o5.ptr8466.tesla.com
@@ -13619,6 +14032,8 @@ o6.ptr9437.tesla.com
 o6.ptr9437.tesla.com
 o6.ptr9437.tesla.com
 o6.ptr9437.tesla.com
+o6.ptr9437.tesla.com
+o7.ptr6980.tesla.com
 o7.ptr6980.tesla.com
 o7.ptr6980.tesla.com
 o7.ptr6980.tesla.com
@@ -13684,6 +14099,8 @@ obs.tesla.com
 obs.tesla.com
 obs.tesla.com
 obs.tesla.com
+obs.tesla.com
+onboard.tesla.com
 onboard.tesla.com
 onboard.tesla.com
 onboard.tesla.com
@@ -13750,6 +14167,8 @@ oneteam.tesla.com
 oneteam.tesla.com
 oneteam.tesla.com
 oneteam.tesla.com
+oneteam.tesla.com
+openadrclient.tesla.com
 openadrclient.tesla.com
 openadrclient.tesla.com
 openadrclient.tesla.com
@@ -13816,6 +14235,8 @@ origin-apps.tesla.com
 origin-apps.tesla.com
 origin-apps.tesla.com
 origin-apps.tesla.com
+origin-apps.tesla.com
+origin-aurora-ordering-ext.tesla.com
 origin-aurora-ordering-ext.tesla.com
 origin-aurora-ordering-ext.tesla.com
 origin-aurora-ordering-ext.tesla.com
@@ -13882,6 +14303,8 @@ origin-auth.tesla.com
 origin-auth.tesla.com
 origin-auth.tesla.com
 origin-auth.tesla.com
+origin-auth.tesla.com
+origin-bolt.tesla.com
 origin-bolt.tesla.com
 origin-bolt.tesla.com
 origin-bolt.tesla.com
@@ -13948,6 +14371,8 @@ origin-courses.tesla.com
 origin-courses.tesla.com
 origin-courses.tesla.com
 origin-courses.tesla.com
+origin-courses.tesla.com
+origin-edr.tesla.com
 origin-edr.tesla.com
 origin-edr.tesla.com
 origin-edr.tesla.com
@@ -14014,6 +14439,8 @@ origin-ehs-stg.tesla.com
 origin-ehs-stg.tesla.com
 origin-ehs-stg.tesla.com
 origin-ehs-stg.tesla.com
+origin-ehs-stg.tesla.com
+origin-ehs.tesla.com
 origin-ehs.tesla.com
 origin-ehs.tesla.com
 origin-ehs.tesla.com
@@ -14080,6 +14507,8 @@ origin-einvoicing.tesla.com
 origin-einvoicing.tesla.com
 origin-einvoicing.tesla.com
 origin-einvoicing.tesla.com
+origin-einvoicing.tesla.com
+origin-financialgateway-stg.tesla.com
 origin-financialgateway-stg.tesla.com
 origin-financialgateway-stg.tesla.com
 origin-financialgateway-stg.tesla.com
@@ -14146,6 +14575,8 @@ origin-financialgateway.tesla.com
 origin-financialgateway.tesla.com
 origin-financialgateway.tesla.com
 origin-financialgateway.tesla.com
+origin-financialgateway.tesla.com
+origin-finplat-prd.tesla.com
 origin-finplat-prd.tesla.com
 origin-finplat-prd.tesla.com
 origin-finplat-prd.tesla.com
@@ -14212,6 +14643,8 @@ origin-finplat-stg.tesla.com
 origin-finplat-stg.tesla.com
 origin-finplat-stg.tesla.com
 origin-finplat-stg.tesla.com
+origin-finplat-stg.tesla.com
+origin-grid.tesla.com
 origin-grid.tesla.com
 origin-grid.tesla.com
 origin-grid.tesla.com
@@ -14278,6 +14711,8 @@ origin-inside-stg.tesla.com
 origin-inside-stg.tesla.com
 origin-inside-stg.tesla.com
 origin-inside-stg.tesla.com
+origin-inside-stg.tesla.com
+origin-inside.tesla.com
 origin-inside.tesla.com
 origin-inside.tesla.com
 origin-inside.tesla.com
@@ -14344,6 +14779,8 @@ origin-installations-ext-api.tesla.com
 origin-installations-ext-api.tesla.com
 origin-installations-ext-api.tesla.com
 origin-installations-ext-api.tesla.com
+origin-installations-ext-api.tesla.com
+origin-itanswers.tesla.com
 origin-itanswers.tesla.com
 origin-itanswers.tesla.com
 origin-itanswers.tesla.com
@@ -14410,6 +14847,8 @@ origin-mfa.tesla.com
 origin-mfa.tesla.com
 origin-mfa.tesla.com
 origin-mfa.tesla.com
+origin-mfa.tesla.com
+origin-mobile.tesla.com
 origin-mobile.tesla.com
 origin-mobile.tesla.com
 origin-mobile.tesla.com
@@ -14476,6 +14915,8 @@ origin-ownership.tesla.com
 origin-ownership.tesla.com
 origin-ownership.tesla.com
 origin-ownership.tesla.com
+origin-ownership.tesla.com
+origin-pilotbpay.tesla.com
 origin-pilotbpay.tesla.com
 origin-pilotbpay.tesla.com
 origin-pilotbpay.tesla.com
@@ -14542,6 +14983,8 @@ origin-profile.tesla.com
 origin-profile.tesla.com
 origin-profile.tesla.com
 origin-profile.tesla.com
+origin-profile.tesla.com
+origin-profileapi.tesla.com
 origin-profileapi.tesla.com
 origin-profileapi.tesla.com
 origin-profileapi.tesla.com
@@ -14608,6 +15051,8 @@ origin-ranger-api.tesla.com
 origin-ranger-api.tesla.com
 origin-ranger-api.tesla.com
 origin-ranger-api.tesla.com
+origin-ranger-api.tesla.com
+origin-referral-app.tesla.com
 origin-referral-app.tesla.com
 origin-referral-app.tesla.com
 origin-referral-app.tesla.com
@@ -14674,6 +15119,8 @@ origin-slingsdlc.tesla.com
 origin-slingsdlc.tesla.com
 origin-slingsdlc.tesla.com
 origin-slingsdlc.tesla.com
+origin-slingsdlc.tesla.com
+origin-sspr.tesla.com
 origin-sspr.tesla.com
 origin-sspr.tesla.com
 origin-sspr.tesla.com
@@ -14740,6 +15187,8 @@ origin-tcc-gw-stg.tesla.com
 origin-tcc-gw-stg.tesla.com
 origin-tcc-gw-stg.tesla.com
 origin-tcc-gw-stg.tesla.com
+origin-tcc-gw-stg.tesla.com
+origin-tcc-gw.tesla.com
 origin-tcc-gw.tesla.com
 origin-tcc-gw.tesla.com
 origin-tcc-gw.tesla.com
@@ -14806,6 +15255,8 @@ origin-toolbox-beta.tesla.com
 origin-toolbox-beta.tesla.com
 origin-toolbox-beta.tesla.com
 origin-toolbox-beta.tesla.com
+origin-toolbox-beta.tesla.com
+origin-warp-stg.tesla.com
 origin-warp-stg.tesla.com
 origin-warp-stg.tesla.com
 origin-warp-stg.tesla.com
@@ -14872,6 +15323,8 @@ origin-warp.tesla.com
 origin-warp.tesla.com
 origin-warp.tesla.com
 origin-warp.tesla.com
+origin-warp.tesla.com
+origin-www-auth.tesla.com
 origin-www-auth.tesla.com
 origin-www-auth.tesla.com
 origin-www-auth.tesla.com
@@ -14938,6 +15391,8 @@ origin-www.tesla.com
 origin-www.tesla.com
 origin-www.tesla.com
 origin-www.tesla.com
+origin-www.tesla.com
+origin-wwwcdn.tesla.com
 origin-wwwcdn.tesla.com
 origin-wwwcdn.tesla.com
 origin-wwwcdn.tesla.com
@@ -15004,6 +15459,8 @@ os.tesla.com
 os.tesla.com
 os.tesla.com
 os.tesla.com
+os.tesla.com
+other.tesla.com
 other.tesla.com
 other.tesla.com
 other.tesla.com
@@ -15070,6 +15527,8 @@ owner-api.eng.vn.cloud.tesla.com
 owner-api.eng.vn.cloud.tesla.com
 owner-api.eng.vn.cloud.tesla.com
 owner-api.eng.vn.cloud.tesla.com
+owner-api.eng.vn.cloud.tesla.com
+ownership.tesla.com
 ownership.tesla.com
 ownership.tesla.com
 ownership.tesla.com
@@ -15136,6 +15595,8 @@ pages.email.tesla.com
 pages.email.tesla.com
 pages.email.tesla.com
 pages.email.tesla.com
+pages.email.tesla.com
+pages.emails.tesla.com
 pages.emails.tesla.com
 pages.emails.tesla.com
 pages.emails.tesla.com
@@ -15202,6 +15663,8 @@ pages.github-ap.tesla.com
 pages.github-ap.tesla.com
 pages.github-ap.tesla.com
 pages.github-ap.tesla.com
+pages.github-ap.tesla.com
+pages.github-fw.tesla.com
 pages.github-fw.tesla.com
 pages.github-fw.tesla.com
 pages.github-fw.tesla.com
@@ -15268,6 +15731,8 @@ pages.github-it.tesla.com
 pages.github-it.tesla.com
 pages.github-it.tesla.com
 pages.github-it.tesla.com
+pages.github-it.tesla.com
+pages.github.tesla.com
 pages.github.tesla.com
 pages.github.tesla.com
 pages.github.tesla.com
@@ -15334,6 +15799,8 @@ paloalto.tesla.com
 paloalto.tesla.com
 paloalto.tesla.com
 paloalto.tesla.com
+paloalto.tesla.com
+partnerleadsharing.tesla.com
 partnerleadsharing.tesla.com
 partnerleadsharing.tesla.com
 partnerleadsharing.tesla.com
@@ -15400,6 +15867,8 @@ partners.tesla.com
 partners.tesla.com
 partners.tesla.com
 partners.tesla.com
+partners.tesla.com
+pay.tesla.com
 pay.tesla.com
 pay.tesla.com
 pay.tesla.com
@@ -15466,6 +15935,7 @@ payment-public-stg.tesla.com
 payment-public-stg.tesla.com
 payment-public-stg.tesla.com
 payment-public-stg.tesla.com
+payment-public-stg.tesla.com
 paymentrecon-stage.tesla.com
 paymentrecon-stage.tesla.com
 paymentrecon-stage.tesla.com
@@ -15499,6 +15969,8 @@ paymentrecon-stage.tesla.com
 paymentrecon-stage.tesla.com
 paymentrecon-stage.tesla.com
 paymentrecon-stage.tesla.com
+paymentrecon-stage.tesla.com
+paymentrecon.tesla.com
 paymentrecon.tesla.com
 paymentrecon.tesla.com
 paymentrecon.tesla.com
@@ -15578,6 +16050,8 @@ phototravel.tesla.com
 phototravel.tesla.com
 phototravel.tesla.com
 phototravel.tesla.com
+phototravel.tesla.com
+pilot-bpay.tesla.com
 pilot-bpay.tesla.com
 pilot-bpay.tesla.com
 pilot-bpay.tesla.com
@@ -15644,6 +16118,8 @@ pm-bounces.tesla.com
 pm-bounces.tesla.com
 pm-bounces.tesla.com
 pm-bounces.tesla.com
+pm-bounces.tesla.com
+pop.tesla.com
 pop.tesla.com
 pop.tesla.com
 pop.tesla.com
@@ -15710,6 +16186,8 @@ powerhub.energy.tesla.com
 powerhub.energy.tesla.com
 powerhub.energy.tesla.com
 powerhub.energy.tesla.com
+powerhub.energy.tesla.com
+powerwall.tesla.com
 powerwall.tesla.com
 powerwall.tesla.com
 powerwall.tesla.com
@@ -15776,6 +16254,8 @@ productinfo.tesla.com
 productinfo.tesla.com
 productinfo.tesla.com
 productinfo.tesla.com
+productinfo.tesla.com
+profile.tesla.com
 profile.tesla.com
 profile.tesla.com
 profile.tesla.com
@@ -15842,6 +16322,8 @@ ptr1.tesla.com
 ptr1.tesla.com
 ptr1.tesla.com
 ptr1.tesla.com
+ptr1.tesla.com
+ptr2.tesla.com
 ptr2.tesla.com
 ptr2.tesla.com
 ptr2.tesla.com
@@ -15908,6 +16390,8 @@ pub.email.tesla.com
 pub.email.tesla.com
 pub.email.tesla.com
 pub.email.tesla.com
+pub.email.tesla.com
+q1haoturxk.tesla.com
 q1haoturxk.tesla.com
 q1haoturxk.tesla.com
 q1haoturxk.tesla.com
@@ -15974,6 +16458,8 @@ qa.tesla.com
 qa.tesla.com
 qa.tesla.com
 qa.tesla.com
+qa.tesla.com
+ranger-api.tesla.com
 ranger-api.tesla.com
 ranger-api.tesla.com
 ranger-api.tesla.com
@@ -16040,6 +16526,8 @@ raultest.tesla.com
 raultest.tesla.com
 raultest.tesla.com
 raultest.tesla.com
+raultest.tesla.com
+raw.github-ap.tesla.com
 raw.github-ap.tesla.com
 raw.github-ap.tesla.com
 raw.github-ap.tesla.com
@@ -16106,6 +16594,7 @@ raw.github-fw.tesla.com
 raw.github-fw.tesla.com
 raw.github-fw.tesla.com
 raw.github-fw.tesla.com
+raw.github-fw.tesla.com
 raw.github-it.tesla.com
 raw.github-it.tesla.com
 raw.github-it.tesla.com
@@ -16139,6 +16628,8 @@ raw.github-it.tesla.com
 raw.github-it.tesla.com
 raw.github-it.tesla.com
 raw.github-it.tesla.com
+raw.github-it.tesla.com
+raw.github.tesla.com
 raw.github.tesla.com
 raw.github.tesla.com
 raw.github.tesla.com
@@ -16201,6 +16692,8 @@ reassignment-ui.tesla.com
 reassignment-ui.tesla.com
 reassignment-ui.tesla.com
 reassignment-ui.tesla.com
+reassignment-ui.tesla.com
+referral-app.tesla.com
 referral-app.tesla.com
 referral-app.tesla.com
 referral-app.tesla.com
@@ -16267,6 +16760,8 @@ referral.tesla.com
 referral.tesla.com
 referral.tesla.com
 referral.tesla.com
+referral.tesla.com
+render.github-ap.tesla.com
 render.github-ap.tesla.com
 render.github-ap.tesla.com
 render.github-ap.tesla.com
@@ -16333,6 +16828,8 @@ render.github-fw.tesla.com
 render.github-fw.tesla.com
 render.github-fw.tesla.com
 render.github-fw.tesla.com
+render.github-fw.tesla.com
+render.github-it.tesla.com
 render.github-it.tesla.com
 render.github-it.tesla.com
 render.github-it.tesla.com
@@ -16399,6 +16896,8 @@ render.github.tesla.com
 render.github.tesla.com
 render.github.tesla.com
 render.github.tesla.com
+render.github.tesla.com
+repair.tesla.com
 repair.tesla.com
 repair.tesla.com
 repair.tesla.com
@@ -16465,6 +16964,8 @@ reply.github-ap.tesla.com
 reply.github-ap.tesla.com
 reply.github-ap.tesla.com
 reply.github-ap.tesla.com
+reply.github-ap.tesla.com
+reply.github-fw.tesla.com
 reply.github-fw.tesla.com
 reply.github-fw.tesla.com
 reply.github-fw.tesla.com
@@ -16531,6 +17032,8 @@ reply.github-it.tesla.com
 reply.github-it.tesla.com
 reply.github-it.tesla.com
 reply.github-it.tesla.com
+reply.github-it.tesla.com
+reply.github.tesla.com
 reply.github.tesla.com
 reply.github.tesla.com
 reply.github.tesla.com
@@ -16597,6 +17100,8 @@ resources.tesla.com
 resources.tesla.com
 resources.tesla.com
 resources.tesla.com
+resources.tesla.com
+rioolbuizens.tesla.com
 rioolbuizens.tesla.com
 rioolbuizens.tesla.com
 rioolbuizens.tesla.com
@@ -16659,6 +17164,8 @@ roadside.tesla.com
 roadside.tesla.com
 roadside.tesla.com
 roadside.tesla.com
+roadside.tesla.com
+roadsideinvoice.tesla.com
 roadsideinvoice.tesla.com
 roadsideinvoice.tesla.com
 roadsideinvoice.tesla.com
@@ -16725,6 +17232,8 @@ rubygems.github-ap.tesla.com
 rubygems.github-ap.tesla.com
 rubygems.github-ap.tesla.com
 rubygems.github-ap.tesla.com
+rubygems.github-ap.tesla.com
+rubygems.github-fw.tesla.com
 rubygems.github-fw.tesla.com
 rubygems.github-fw.tesla.com
 rubygems.github-fw.tesla.com
@@ -16791,6 +17300,8 @@ rubygems.github-it.tesla.com
 rubygems.github-it.tesla.com
 rubygems.github-it.tesla.com
 rubygems.github-it.tesla.com
+rubygems.github-it.tesla.com
+rubygems.github.tesla.com
 rubygems.github.tesla.com
 rubygems.github.tesla.com
 rubygems.github.tesla.com
@@ -16857,6 +17368,8 @@ rumipv6.tesla.com
 rumipv6.tesla.com
 rumipv6.tesla.com
 rumipv6.tesla.com
+rumipv6.tesla.com
+s3-sidekick-ssl.github.tesla.com
 s3-sidekick-ssl.github.tesla.com
 s3-sidekick-ssl.github.tesla.com
 s3-sidekick-ssl.github.tesla.com
@@ -16923,6 +17436,8 @@ sales-prd.tesla.com
 sales-prd.tesla.com
 sales-prd.tesla.com
 sales-prd.tesla.com
+sales-prd.tesla.com
+sandbox-manager.courses.tesla.com
 sandbox-manager.courses.tesla.com
 sandbox-manager.courses.tesla.com
 sandbox-manager.courses.tesla.com
@@ -16989,6 +17504,8 @@ sandbox-studio.courses.tesla.com
 sandbox-studio.courses.tesla.com
 sandbox-studio.courses.tesla.com
 sandbox-studio.courses.tesla.com
+sandbox-studio.courses.tesla.com
+sc-cppm.tesla.com
 sc-cppm.tesla.com
 sc-cppm.tesla.com
 sc-cppm.tesla.com
@@ -17055,6 +17572,8 @@ sca.tesla.com
 sca.tesla.com
 sca.tesla.com
 sca.tesla.com
+sca.tesla.com
+schedule.tesla.com
 schedule.tesla.com
 schedule.tesla.com
 schedule.tesla.com
@@ -17117,6 +17636,8 @@ search-akamai-apigateway-jinx.tesla.com
 search-akamai-apigateway-jinx.tesla.com
 search-akamai-apigateway-jinx.tesla.com
 search-akamai-apigateway-jinx.tesla.com
+search-akamai-apigateway-jinx.tesla.com
+search-akamai-apigateway-logisticsratesapi-13.tesla.com
 search-akamai-apigateway-logisticsratesapi-13.tesla.com
 search-akamai-apigateway-logisticsratesapi-13.tesla.com
 search-akamai-apigateway-logisticsratesapi-13.tesla.com
@@ -17175,6 +17696,8 @@ search-akamai-apigateway-logisticsratesapi-db.tesla.com
 search-akamai-apigateway-logisticsratesapi-db.tesla.com
 search-akamai-apigateway-logisticsratesapi-db.tesla.com
 search-akamai-apigateway-logisticsratesapi-db.tesla.com
+search-akamai-apigateway-logisticsratesapi-db.tesla.com
+search-akamai-apigateway-logisticsratesapi-engine.tesla.com
 search-akamai-apigateway-logisticsratesapi-engine.tesla.com
 search-akamai-apigateway-logisticsratesapi-engine.tesla.com
 search-akamai-apigateway-logisticsratesapi-engine.tesla.com
@@ -17233,6 +17756,8 @@ search-akamai-apigateway-logisticsratesapi-reset.tesla.com
 search-akamai-apigateway-logisticsratesapi-reset.tesla.com
 search-akamai-apigateway-logisticsratesapi-reset.tesla.com
 search-akamai-apigateway-logisticsratesapi-reset.tesla.com
+search-akamai-apigateway-logisticsratesapi-reset.tesla.com
+search-akamai-apigateway-logisticsratesapi.tesla.com
 search-akamai-apigateway-logisticsratesapi.tesla.com
 search-akamai-apigateway-logisticsratesapi.tesla.com
 search-akamai-apigateway-logisticsratesapi.tesla.com
@@ -17291,6 +17816,8 @@ search-akamai-apigateway-logisticsratesapi9.tesla.com
 search-akamai-apigateway-logisticsratesapi9.tesla.com
 search-akamai-apigateway-logisticsratesapi9.tesla.com
 search-akamai-apigateway-logisticsratesapi9.tesla.com
+search-akamai-apigateway-logisticsratesapi9.tesla.com
+search-akamai-apigateway-logisticsratesapiapp.tesla.com
 search-akamai-apigateway-logisticsratesapiapp.tesla.com
 search-akamai-apigateway-logisticsratesapiapp.tesla.com
 search-akamai-apigateway-logisticsratesapiapp.tesla.com
@@ -17349,6 +17876,8 @@ search-akamai-apigateway-logisticsratesapinl.tesla.com
 search-akamai-apigateway-logisticsratesapinl.tesla.com
 search-akamai-apigateway-logisticsratesapinl.tesla.com
 search-akamai-apigateway-logisticsratesapinl.tesla.com
+search-akamai-apigateway-logisticsratesapinl.tesla.com
+search-akamai-apigateway-poland.tesla.com
 search-akamai-apigateway-poland.tesla.com
 search-akamai-apigateway-poland.tesla.com
 search-akamai-apigateway-poland.tesla.com
@@ -17407,6 +17936,7 @@ search-akamai-apigateway-tomcat.tesla.com
 search-akamai-apigateway-tomcat.tesla.com
 search-akamai-apigateway-tomcat.tesla.com
 search-akamai-apigateway-tomcat.tesla.com
+search-akamai-apigateway-tomcat.tesla.com
 search-akamai-apigateway-trial.tesla.com
 search-akamai-apigateway-trial.tesla.com
 search-akamai-apigateway-trial.tesla.com
@@ -17436,6 +17966,8 @@ search-akamai-apigateway-trial.tesla.com
 search-akamai-apigateway-trial.tesla.com
 search-akamai-apigateway-trial.tesla.com
 search-akamai-apigateway-trial.tesla.com
+search-akamai-apigateway-trial.tesla.com
+secure-static-assets.tesla.com
 secure-static-assets.tesla.com
 secure-static-assets.tesla.com
 secure-static-assets.tesla.com
@@ -17502,6 +18034,8 @@ secureaccess.tesla.com
 secureaccess.tesla.com
 secureaccess.tesla.com
 secureaccess.tesla.com
+secureaccess.tesla.com
+secureguest.tesla.com
 secureguest.tesla.com
 secureguest.tesla.com
 secureguest.tesla.com
@@ -17568,6 +18102,8 @@ secureguestcn.tesla.com
 secureguestcn.tesla.com
 secureguestcn.tesla.com
 secureguestcn.tesla.com
+secureguestcn.tesla.com
+secureguesteu.tesla.com
 secureguesteu.tesla.com
 secureguesteu.tesla.com
 secureguesteu.tesla.com
@@ -17634,6 +18170,8 @@ sentry.app.tesla.com
 sentry.app.tesla.com
 sentry.app.tesla.com
 sentry.app.tesla.com
+sentry.app.tesla.com
+server.tesla.com
 server.tesla.com
 server.tesla.com
 server.tesla.com
@@ -17696,6 +18234,8 @@ service.tesla.com
 service.tesla.com
 service.tesla.com
 service.tesla.com
+service.tesla.com
+serviceapi-stg.tesla.com
 serviceapi-stg.tesla.com
 serviceapi-stg.tesla.com
 serviceapi-stg.tesla.com
@@ -17762,6 +18302,8 @@ serviceapi.tesla.com
 serviceapi.tesla.com
 serviceapi.tesla.com
 serviceapi.tesla.com
+serviceapi.tesla.com
+serviceapp.tesla.com
 serviceapp.tesla.com
 serviceapp.tesla.com
 serviceapp.tesla.com
@@ -17828,6 +18370,8 @@ share.tesla.com
 share.tesla.com
 share.tesla.com
 share.tesla.com
+share.tesla.com
+shop.eu.tesla.com
 shop.eu.tesla.com
 shop.eu.tesla.com
 shop.eu.tesla.com
@@ -17894,6 +18438,7 @@ shop.tesla.com
 shop.tesla.com
 shop.tesla.com
 shop.tesla.com
+shop.tesla.com
 signaling-robotics.eng.vn.cloud.tesla.com
 signaling-robotics.eng.vn.cloud.tesla.com
 signaling-robotics.eng.vn.cloud.tesla.com
@@ -17927,6 +18472,8 @@ signaling-robotics.eng.vn.cloud.tesla.com
 signaling-robotics.eng.vn.cloud.tesla.com
 signaling-robotics.eng.vn.cloud.tesla.com
 signaling-robotics.eng.vn.cloud.tesla.com
+signaling-robotics.eng.vn.cloud.tesla.com
+simpleorigin.tesla.com
 simpleorigin.tesla.com
 simpleorigin.tesla.com
 simpleorigin.tesla.com
@@ -17992,6 +18539,8 @@ sin05-gpgw1.tesla.com
 sin05-gpgw1.tesla.com
 sin05-gpgw1.tesla.com
 sin05-gpgw1.tesla.com
+sin05-gpgw1.tesla.com
+sip.contractors.contractors.tesla.com
 sip.contractors.contractors.tesla.com
 sip.contractors.contractors.tesla.com
 sip.contractors.contractors.tesla.com
@@ -18058,6 +18607,8 @@ sip.tesla.com
 sip.tesla.com
 sip.tesla.com
 sip.tesla.com
+sip.tesla.com
+sjc04d1rsaap02.tesla.com
 sjc04d1rsaap02.tesla.com
 sjc04d1rsaap02.tesla.com
 sjc04d1rsaap02.tesla.com
@@ -18123,6 +18674,8 @@ sjc36-gpgw1.tesla.com
 sjc36-gpgw1.tesla.com
 sjc36-gpgw1.tesla.com
 sjc36-gpgw1.tesla.com
+sjc36-gpgw1.tesla.com
+sling.tesla.com
 sling.tesla.com
 sling.tesla.com
 sling.tesla.com
@@ -18189,6 +18742,8 @@ smarttax.tesla.com
 smarttax.tesla.com
 smarttax.tesla.com
 smarttax.tesla.com
+smarttax.tesla.com
+smt.tesla.com
 smt.tesla.com
 smt.tesla.com
 smt.tesla.com
@@ -18255,6 +18810,8 @@ smtp.tesla.com
 smtp.tesla.com
 smtp.tesla.com
 smtp.tesla.com
+smtp.tesla.com
+solarbonds.tesla.com
 solarbonds.tesla.com
 solarbonds.tesla.com
 solarbonds.tesla.com
@@ -18321,6 +18878,8 @@ sso-dec.tesla.com
 sso-dec.tesla.com
 sso-dec.tesla.com
 sso-dec.tesla.com
+sso-dec.tesla.com
+sso-dev-origin.tesla.com
 sso-dev-origin.tesla.com
 sso-dev-origin.tesla.com
 sso-dev-origin.tesla.com
@@ -18387,6 +18946,8 @@ sso-dev.tesla.com
 sso-dev.tesla.com
 sso-dev.tesla.com
 sso-dev.tesla.com
+sso-dev.tesla.com
+sso-na.tesla.com
 sso-na.tesla.com
 sso-na.tesla.com
 sso-na.tesla.com
@@ -18453,6 +19014,8 @@ sso-sandbox.tesla.com
 sso-sandbox.tesla.com
 sso-sandbox.tesla.com
 sso-sandbox.tesla.com
+sso-sandbox.tesla.com
+sso-sig.tesla.com
 sso-sig.tesla.com
 sso-sig.tesla.com
 sso-sig.tesla.com
@@ -18519,6 +19082,8 @@ sso.tesla.com
 sso.tesla.com
 sso.tesla.com
 sso.tesla.com
+sso.tesla.com
+sspr.tesla.com
 sspr.tesla.com
 sspr.tesla.com
 sspr.tesla.com
@@ -18585,6 +19150,7 @@ stage-traffic-flow-test.tesla.com
 stage-traffic-flow-test.tesla.com
 stage-traffic-flow-test.tesla.com
 stage-traffic-flow-test.tesla.com
+stage-traffic-flow-test.tesla.com
 stage.tesla.com
 stage.tesla.com
 stage.tesla.com
@@ -18618,6 +19184,8 @@ stage.tesla.com
 stage.tesla.com
 stage.tesla.com
 stage.tesla.com
+stage.tesla.com
+static-assets-pay.tesla.com
 static-assets-pay.tesla.com
 static-assets-pay.tesla.com
 static-assets-pay.tesla.com
@@ -18680,6 +19248,8 @@ static-assets-teslaaccount.tesla.com
 static-assets-teslaaccount.tesla.com
 static-assets-teslaaccount.tesla.com
 static-assets-teslaaccount.tesla.com
+static-assets-teslaaccount.tesla.com
+static-assets.tesla.com
 static-assets.tesla.com
 static-assets.tesla.com
 static-assets.tesla.com
@@ -18746,6 +19316,8 @@ static-event-dev.tesla.com
 static-event-dev.tesla.com
 static-event-dev.tesla.com
 static-event-dev.tesla.com
+static-event-dev.tesla.com
+static-map.tesla.com
 static-map.tesla.com
 static-map.tesla.com
 static-map.tesla.com
@@ -18812,6 +19384,8 @@ static.tesla.com
 static.tesla.com
 static.tesla.com
 static.tesla.com
+static.tesla.com
+staticpay-origin-wwwcdn.tesla.com
 staticpay-origin-wwwcdn.tesla.com
 staticpay-origin-wwwcdn.tesla.com
 staticpay-origin-wwwcdn.tesla.com
@@ -18878,6 +19452,8 @@ stg-uc-twilio-bpm-webhook.tesla.com
 stg-uc-twilio-bpm-webhook.tesla.com
 stg-uc-twilio-bpm-webhook.tesla.com
 stg-uc-twilio-bpm-webhook.tesla.com
+stg-uc-twilio-bpm-webhook.tesla.com
+studio.courses.tesla.com
 studio.courses.tesla.com
 studio.courses.tesla.com
 studio.courses.tesla.com
@@ -18944,6 +19520,7 @@ studio.sandbox-courses.tesla.com
 studio.sandbox-courses.tesla.com
 studio.sandbox-courses.tesla.com
 studio.sandbox-courses.tesla.com
+studio.sandbox-courses.tesla.com
 surveys.tesla.com
 surveys.tesla.com
 surveys.tesla.com
@@ -18977,6 +19554,8 @@ surveys.tesla.com
 surveys.tesla.com
 surveys.tesla.com
 surveys.tesla.com
+surveys.tesla.com
+svopn.tesla.com
 svopn.tesla.com
 svopn.tesla.com
 svopn.tesla.com
@@ -19042,6 +19621,8 @@ syd14-gpgw1.tesla.com
 syd14-gpgw1.tesla.com
 syd14-gpgw1.tesla.com
 syd14-gpgw1.tesla.com
+syd14-gpgw1.tesla.com
+tcc-graph-stg.tesla.com
 tcc-graph-stg.tesla.com
 tcc-graph-stg.tesla.com
 tcc-graph-stg.tesla.com
@@ -19108,6 +19689,8 @@ tcc-graph.tesla.com
 tcc-graph.tesla.com
 tcc-graph.tesla.com
 tcc-graph.tesla.com
+tcc-graph.tesla.com
+tcc-gw-stg.tesla.com
 tcc-gw-stg.tesla.com
 tcc-gw-stg.tesla.com
 tcc-gw-stg.tesla.com
@@ -19174,6 +19757,8 @@ tcc-gw.tesla.com
 tcc-gw.tesla.com
 tcc-gw.tesla.com
 tcc-gw.tesla.com
+tcc-gw.tesla.com
+teamchat.tesla.com
 teamchat.tesla.com
 teamchat.tesla.com
 teamchat.tesla.com
@@ -19240,6 +19825,8 @@ teamchatcn.tesla.com
 teamchatcn.tesla.com
 teamchatcn.tesla.com
 teamchatcn.tesla.com
+teamchatcn.tesla.com
+teamchatgl.tesla.com
 teamchatgl.tesla.com
 teamchatgl.tesla.com
 teamchatgl.tesla.com
@@ -19303,6 +19890,8 @@ tesla.com
 tesla.com
 tesla.com
 tesla.com
+tesla.com
+teslacdpna0.tesla.com
 teslacdpna0.tesla.com
 teslacdpna0.tesla.com
 teslacdpna0.tesla.com
@@ -19369,6 +19958,8 @@ teslacis.tesla.com
 teslacis.tesla.com
 teslacis.tesla.com
 teslacis.tesla.com
+teslacis.tesla.com
+teslacmgap01.tesla.com
 teslacmgap01.tesla.com
 teslacmgap01.tesla.com
 teslacmgap01.tesla.com
@@ -19435,6 +20026,8 @@ teslacmgcn01.tesla.com
 teslacmgcn01.tesla.com
 teslacmgcn01.tesla.com
 teslacmgcn01.tesla.com
+teslacmgcn01.tesla.com
+teslacmgeu01.tesla.com
 teslacmgeu01.tesla.com
 teslacmgeu01.tesla.com
 teslacmgeu01.tesla.com
@@ -19501,6 +20094,8 @@ teslacmgna01.tesla.com
 teslacmgna01.tesla.com
 teslacmgna01.tesla.com
 teslacmgna01.tesla.com
+teslacmgna01.tesla.com
+teslacmgus0.tesla.com
 teslacmgus0.tesla.com
 teslacmgus0.tesla.com
 teslacmgus0.tesla.com
@@ -19567,6 +20162,8 @@ teslacmgus01.tesla.com
 teslacmgus01.tesla.com
 teslacmgus01.tesla.com
 teslacmgus01.tesla.com
+teslacmgus01.tesla.com
+teslaquila.tesla.com
 teslaquila.tesla.com
 teslaquila.tesla.com
 teslaquila.tesla.com
@@ -19633,6 +20230,8 @@ teslatequila.tesla.com
 teslatequila.tesla.com
 teslatequila.tesla.com
 teslatequila.tesla.com
+teslatequila.tesla.com
+testnotify.tesla.com
 testnotify.tesla.com
 testnotify.tesla.com
 testnotify.tesla.com
@@ -19699,6 +20298,7 @@ three.tesla.com
 three.tesla.com
 three.tesla.com
 three.tesla.com
+three.tesla.com
 toolbox-beta.tesla.com
 toolbox-beta.tesla.com
 toolbox-beta.tesla.com
@@ -19732,6 +20332,8 @@ toolbox-beta.tesla.com
 toolbox-beta.tesla.com
 toolbox-beta.tesla.com
 toolbox-beta.tesla.com
+toolbox-beta.tesla.com
+toolbox.tesla.com
 toolbox.tesla.com
 toolbox.tesla.com
 toolbox.tesla.com
@@ -19797,6 +20399,8 @@ track.tesla.com
 track.tesla.com
 track.tesla.com
 track.tesla.com
+track.tesla.com
+tradein.tesla.com
 tradein.tesla.com
 tradein.tesla.com
 tradein.tesla.com
@@ -19863,6 +20467,8 @@ tradepartnertickets.tesla.com
 tradepartnertickets.tesla.com
 tradepartnertickets.tesla.com
 tradepartnertickets.tesla.com
+tradepartnertickets.tesla.com
+trt.tesla.com
 trt.tesla.com
 trt.tesla.com
 trt.tesla.com
@@ -19929,6 +20535,8 @@ tssapi-aem-stg.tesla.com
 tssapi-aem-stg.tesla.com
 tssapi-aem-stg.tesla.com
 tssapi-aem-stg.tesla.com
+tssapi-aem-stg.tesla.com
+tssapi-aem.tesla.com
 tssapi-aem.tesla.com
 tssapi-aem.tesla.com
 tssapi-aem.tesla.com
@@ -19995,6 +20603,8 @@ tssapi-stg.tesla.com
 tssapi-stg.tesla.com
 tssapi-stg.tesla.com
 tssapi-stg.tesla.com
+tssapi-stg.tesla.com
+tssapi.tesla.com
 tssapi.tesla.com
 tssapi.tesla.com
 tssapi.tesla.com
@@ -20061,6 +20671,7 @@ tweventhook.tesla.com
 tweventhook.tesla.com
 tweventhook.tesla.com
 tweventhook.tesla.com
+tweventhook.tesla.com
 tx.tesla.com
 tx.tesla.com
 tx.tesla.com
@@ -20094,6 +20705,8 @@ tx.tesla.com
 tx.tesla.com
 tx.tesla.com
 tx.tesla.com
+tx.tesla.com
+ug.tesla.com
 ug.tesla.com
 ug.tesla.com
 ug.tesla.com
@@ -20156,6 +20769,8 @@ uicrashtracer.tesla.com
 uicrashtracer.tesla.com
 uicrashtracer.tesla.com
 uicrashtracer.tesla.com
+uicrashtracer.tesla.com
+uploads.github-ap.tesla.com
 uploads.github-ap.tesla.com
 uploads.github-ap.tesla.com
 uploads.github-ap.tesla.com
@@ -20222,6 +20837,8 @@ uploads.github-fw.tesla.com
 uploads.github-fw.tesla.com
 uploads.github-fw.tesla.com
 uploads.github-fw.tesla.com
+uploads.github-fw.tesla.com
+uploads.github-it.tesla.com
 uploads.github-it.tesla.com
 uploads.github-it.tesla.com
 uploads.github-it.tesla.com
@@ -20288,6 +20905,8 @@ uploads.github.tesla.com
 uploads.github.tesla.com
 uploads.github.tesla.com
 uploads.github.tesla.com
+uploads.github.tesla.com
+url1894.tesla.com
 url1894.tesla.com
 url1894.tesla.com
 url1894.tesla.com
@@ -20354,6 +20973,8 @@ url2547.tesla.com
 url2547.tesla.com
 url2547.tesla.com
 url2547.tesla.com
+url2547.tesla.com
+url4104.tesla.com
 url4104.tesla.com
 url4104.tesla.com
 url4104.tesla.com
@@ -20420,6 +21041,8 @@ url4211.tesla.com
 url4211.tesla.com
 url4211.tesla.com
 url4211.tesla.com
+url4211.tesla.com
+url4857.tesla.com
 url4857.tesla.com
 url4857.tesla.com
 url4857.tesla.com
@@ -20486,6 +21109,8 @@ url5196.tesla.com
 url5196.tesla.com
 url5196.tesla.com
 url5196.tesla.com
+url5196.tesla.com
+url5347.tesla.com
 url5347.tesla.com
 url5347.tesla.com
 url5347.tesla.com
@@ -20552,6 +21177,8 @@ url6661.tesla.com
 url6661.tesla.com
 url6661.tesla.com
 url6661.tesla.com
+url6661.tesla.com
+url7051.tesla.com
 url7051.tesla.com
 url7051.tesla.com
 url7051.tesla.com
@@ -20618,6 +21245,8 @@ url8833.tesla.com
 url8833.tesla.com
 url8833.tesla.com
 url8833.tesla.com
+url8833.tesla.com
+us-west-2-prd-it.k8s.tesla.com
 us-west-2-prd-it.k8s.tesla.com
 us-west-2-prd-it.k8s.tesla.com
 us-west-2-prd-it.k8s.tesla.com
@@ -20684,6 +21313,8 @@ vdi.tesla.com
 vdi.tesla.com
 vdi.tesla.com
 vdi.tesla.com
+vdi.tesla.com
+vehicle-files.eng.euw1.vn.cloud.tesla.com
 vehicle-files.eng.euw1.vn.cloud.tesla.com
 vehicle-files.eng.euw1.vn.cloud.tesla.com
 vehicle-files.eng.euw1.vn.cloud.tesla.com
@@ -20750,6 +21381,8 @@ vehicle-files.eng.usw2.vn.cloud.tesla.com
 vehicle-files.eng.usw2.vn.cloud.tesla.com
 vehicle-files.eng.usw2.vn.cloud.tesla.com
 vehicle-files.eng.usw2.vn.cloud.tesla.com
+vehicle-files.eng.usw2.vn.cloud.tesla.com
+vehicle-files.eng.vn.cloud.tesla.com
 vehicle-files.eng.vn.cloud.tesla.com
 vehicle-files.eng.vn.cloud.tesla.com
 vehicle-files.eng.vn.cloud.tesla.com
@@ -20816,6 +21449,8 @@ vehicle-files.prd.euw1.vn.cloud.tesla.com
 vehicle-files.prd.euw1.vn.cloud.tesla.com
 vehicle-files.prd.euw1.vn.cloud.tesla.com
 vehicle-files.prd.euw1.vn.cloud.tesla.com
+vehicle-files.prd.euw1.vn.cloud.tesla.com
+vehicle-files.prd.usw2.vn.cloud.tesla.com
 vehicle-files.prd.usw2.vn.cloud.tesla.com
 vehicle-files.prd.usw2.vn.cloud.tesla.com
 vehicle-files.prd.usw2.vn.cloud.tesla.com
@@ -20882,6 +21517,8 @@ vehicle-files.prd.vn.cloud.tesla.com
 vehicle-files.prd.vn.cloud.tesla.com
 vehicle-files.prd.vn.cloud.tesla.com
 vehicle-files.prd.vn.cloud.tesla.com
+vehicle-files.prd.vn.cloud.tesla.com
+view.email.tesla.com
 view.email.tesla.com
 view.email.tesla.com
 view.email.tesla.com
@@ -20948,6 +21585,8 @@ view.emails.tesla.com
 view.emails.tesla.com
 view.emails.tesla.com
 view.emails.tesla.com
+view.emails.tesla.com
+viewscreen.github-ap.tesla.com
 viewscreen.github-ap.tesla.com
 viewscreen.github-ap.tesla.com
 viewscreen.github-ap.tesla.com
@@ -21014,6 +21653,8 @@ viewscreen.github-fw.tesla.com
 viewscreen.github-fw.tesla.com
 viewscreen.github-fw.tesla.com
 viewscreen.github-fw.tesla.com
+viewscreen.github-fw.tesla.com
+viewscreen.github-it.tesla.com
 viewscreen.github-it.tesla.com
 viewscreen.github-it.tesla.com
 viewscreen.github-it.tesla.com
@@ -21080,6 +21721,8 @@ viewscreen.github.tesla.com
 viewscreen.github.tesla.com
 viewscreen.github.tesla.com
 viewscreen.github.tesla.com
+viewscreen.github.tesla.com
+vmanage-alerts.tesla.com
 vmanage-alerts.tesla.com
 vmanage-alerts.tesla.com
 vmanage-alerts.tesla.com
@@ -21145,6 +21788,8 @@ vpn.tesla.com
 vpn.tesla.com
 vpn.tesla.com
 vpn.tesla.com
+vpn.tesla.com
+vpn1.tesla.com
 vpn1.tesla.com
 vpn1.tesla.com
 vpn1.tesla.com
@@ -21211,6 +21856,8 @@ vpn2.tesla.com
 vpn2.tesla.com
 vpn2.tesla.com
 vpn2.tesla.com
+vpn2.tesla.com
+vpn3.tesla.com
 vpn3.tesla.com
 vpn3.tesla.com
 vpn3.tesla.com
@@ -21277,6 +21924,8 @@ vrp-stg.tesla.com
 vrp-stg.tesla.com
 vrp-stg.tesla.com
 vrp-stg.tesla.com
+vrp-stg.tesla.com
+w3-akamai-apigateway-procuretopayapi.tesla.com
 w3-akamai-apigateway-procuretopayapi.tesla.com
 w3-akamai-apigateway-procuretopayapi.tesla.com
 w3-akamai-apigateway-procuretopayapi.tesla.com
@@ -21343,6 +21992,8 @@ warehouse-stg.tesla.com
 warehouse-stg.tesla.com
 warehouse-stg.tesla.com
 warehouse-stg.tesla.com
+warehouse-stg.tesla.com
+warehouse.tesla.com
 warehouse.tesla.com
 warehouse.tesla.com
 warehouse.tesla.com
@@ -21409,6 +22060,8 @@ warpbilling.tesla.com
 warpbilling.tesla.com
 warpbilling.tesla.com
 warpbilling.tesla.com
+warpbilling.tesla.com
+wdm.kronos.tesla.com
 wdm.kronos.tesla.com
 wdm.kronos.tesla.com
 wdm.kronos.tesla.com
@@ -21475,6 +22128,8 @@ webmail.tesla.com
 webmail.tesla.com
 webmail.tesla.com
 webmail.tesla.com
+webmail.tesla.com
+wim.kronos.tesla.com
 wim.kronos.tesla.com
 wim.kronos.tesla.com
 wim.kronos.tesla.com
@@ -21537,6 +22192,8 @@ workforce.tesla.com
 workforce.tesla.com
 workforce.tesla.com
 workforce.tesla.com
+workforce.tesla.com
+ww.tesla.com
 ww.tesla.com
 ww.tesla.com
 ww.tesla.com
@@ -21603,6 +22260,8 @@ www-dev.tesla.com
 www-dev.tesla.com
 www-dev.tesla.com
 www-dev.tesla.com
+www-dev.tesla.com
+www-static-dev.tesla.com
 www-static-dev.tesla.com
 www-static-dev.tesla.com
 www-static-dev.tesla.com
@@ -21669,6 +22328,8 @@ www-static-prod.tesla.com
 www-static-prod.tesla.com
 www-static-prod.tesla.com
 www-static-prod.tesla.com
+www-static-prod.tesla.com
+www-static-qa.tesla.com
 www-static-qa.tesla.com
 www-static-qa.tesla.com
 www-static-qa.tesla.com
@@ -21735,6 +22396,8 @@ www-static-stage.tesla.com
 www-static-stage.tesla.com
 www-static-stage.tesla.com
 www-static-stage.tesla.com
+www-static-stage.tesla.com
+www-stg2.tesla.com
 www-stg2.tesla.com
 www-stg2.tesla.com
 www-stg2.tesla.com
@@ -21801,6 +22464,7 @@ www-test.tesla.com
 www-test.tesla.com
 www-test.tesla.com
 www-test.tesla.com
+www-test.tesla.com
 www-uat.tesla.com
 www-uat.tesla.com
 www-uat.tesla.com
@@ -21834,6 +22498,8 @@ www-uat.tesla.com
 www-uat.tesla.com
 www-uat.tesla.com
 www-uat.tesla.com
+www-uat.tesla.com
+www-uat2.tesla.com
 www-uat2.tesla.com
 www-uat2.tesla.com
 www-uat2.tesla.com
@@ -21896,6 +22562,8 @@ www.akamai-apigateway-charging-ownership.tesla.com
 www.akamai-apigateway-charging-ownership.tesla.com
 www.akamai-apigateway-charging-ownership.tesla.com
 www.akamai-apigateway-charging-ownership.tesla.com
+www.akamai-apigateway-charging-ownership.tesla.com
+www.auth.tesla.com
 www.auth.tesla.com
 www.auth.tesla.com
 www.auth.tesla.com
@@ -21954,6 +22622,8 @@ www.epc.tesla.com
 www.epc.tesla.com
 www.epc.tesla.com
 www.epc.tesla.com
+www.epc.tesla.com
+www.gridlogic.energy.tesla.com
 www.gridlogic.energy.tesla.com
 www.gridlogic.energy.tesla.com
 www.gridlogic.energy.tesla.com
@@ -22013,6 +22683,8 @@ www.ir.tesla.com
 www.ir.tesla.com
 www.ir.tesla.com
 www.ir.tesla.com
+www.ir.tesla.com
+www.powerhub.energy.tesla.com
 www.powerhub.energy.tesla.com
 www.powerhub.energy.tesla.com
 www.powerhub.energy.tesla.com
@@ -22073,6 +22745,8 @@ www.sandbox-studio.courses.tesla.com
 www.sandbox-studio.courses.tesla.com
 www.sandbox-studio.courses.tesla.com
 www.sandbox-studio.courses.tesla.com
+www.sandbox-studio.courses.tesla.com
+www.tesla.com
 www.tesla.com
 www.tesla.com
 www.tesla.com
@@ -22136,6 +22810,8 @@ www.teslaquila.tesla.com
 www.teslaquila.tesla.com
 www.teslaquila.tesla.com
 www.teslaquila.tesla.com
+www.teslaquila.tesla.com
+www.teslatequila.tesla.com
 www.teslatequila.tesla.com
 www.teslatequila.tesla.com
 www.teslatequila.tesla.com
@@ -22196,6 +22872,8 @@ www.toolbox.tesla.com
 www.toolbox.tesla.com
 www.toolbox.tesla.com
 www.toolbox.tesla.com
+www.toolbox.tesla.com
+www.ug.tesla.com
 www.ug.tesla.com
 www.ug.tesla.com
 www.ug.tesla.com
@@ -22255,6 +22933,7 @@ www.uicrashtracer.tesla.com
 www.uicrashtracer.tesla.com
 www.uicrashtracer.tesla.com
 www.uicrashtracer.tesla.com
+www.uicrashtracer.tesla.com
 www.vpn1.tesla.com
 www.vpn1.tesla.com
 www.vpn1.tesla.com
@@ -22285,6 +22964,8 @@ www.vpn1.tesla.com
 www.vpn1.tesla.com
 www.vpn1.tesla.com
 www.vpn1.tesla.com
+www.vpn1.tesla.com
+www45.tesla.com
 www45.tesla.com
 www45.tesla.com
 www45.tesla.com
@@ -22351,6 +23032,8 @@ wwwmta3-emailbjenkins.emails.tesla.com
 wwwmta3-emailbjenkins.emails.tesla.com
 wwwmta3-emailbjenkins.emails.tesla.com
 wwwmta3-emailbjenkins.emails.tesla.com
+wwwmta3-emailbjenkins.emails.tesla.com
+wy7vtk21un.tesla.com
 wy7vtk21un.tesla.com
 wy7vtk21un.tesla.com
 wy7vtk21un.tesla.com
@@ -22417,6 +23100,7 @@ xapps.tesla.com
 xapps.tesla.com
 xapps.tesla.com
 xapps.tesla.com
+xapps.tesla.com
 xmail.tesla.com
 xmail.tesla.com
 xmail.tesla.com
@@ -22450,6 +23134,8 @@ xmail.tesla.com
 xmail.tesla.com
 xmail.tesla.com
 xmail.tesla.com
+xmail.tesla.com
+zta-setup.tesla.com
 zta-setup.tesla.com
 zta-setup.tesla.com
 zta-setup.tesla.com

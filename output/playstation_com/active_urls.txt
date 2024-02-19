@@ -22,6 +22,7 @@ http://blog.ru.playstation.com
 http://blog.us.playstation.com
 http://blog.zh-hant.playstation.com
 http://br.playstation.com
+http://bridges.playstation.com
 http://ca.playstation.com
 http://camera-adaptor.support.playstation.com
 http://cdn.jp.playstation.com
@@ -218,6 +219,7 @@ http://stage.api.ivaldi.playstation.com
 http://stage.bridges.playstation.com
 http://stage.io.playstation.com
 http://stage.ivaldi.playstation.com
+http://stage.playstation.com
 http://staging-blog.br.playstation.com
 http://staging-blog.latam.playstation.com
 http://staging-blog.us.playstation.com
@@ -286,6 +288,7 @@ https://api.direct.playstation.com
 https://api.ivaldi.playstation.com
 https://app-perms.playstation.com
 https://asia.playstation.com
+https://author.direct.e1-np.playstation.com
 https://author.direct.playstation.com
 https://blog.br.playstation.com
 https://blog.de.playstation.com
@@ -302,6 +305,7 @@ https://blog.us.playstation.com
 https://blog.zh-hant.playstation.com
 https://bps.playstation.com
 https://br.playstation.com
+https://bridges.playstation.com
 https://ca.playstation.com
 https://camera-adaptor.support.playstation.com
 https://cdn.jp.playstation.com
@@ -374,6 +378,7 @@ https://dev.api.bridges.playstation.com
 https://dev.bridges.playstation.com
 https://dev.io.playstation.com
 https://dev.jp.playstation.com
+https://dev.playstation.com
 https://dev.wrapup.playstation.com
 https://direct-queue-stage.playstation.com
 https://direct-queue.playstation.com
@@ -461,6 +466,7 @@ https://playstation20.eu.playstation.com
 https://playstationvue.us.playstation.com
 https://presscenter.playstation.com
 https://preview.direct.e1-np.playstation.com
+https://preview.playstation.com
 https://previewer.playstation.com
 https://profile.api.playstation.com
 https://profiles.us.playstation.com
@@ -508,6 +514,7 @@ https://stage.api.ivaldi.playstation.com
 https://stage.bridges.playstation.com
 https://stage.io.playstation.com
 https://stage.ivaldi.playstation.com
+https://stage.playstation.com
 https://staging-blog.br.playstation.com
 https://staging-blog.latam.playstation.com
 https://staging-blog.us.playstation.com

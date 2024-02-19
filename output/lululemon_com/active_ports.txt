@@ -172,8 +172,6 @@ localhost.info.lululemon.com:22
 login.creators.lululemon.com:443
 login.creators.lululemon.com:80
 loopback.lululemon.com:22
-lululemon.com:443
-lululemon.com:80
 luluroute.lululemon.com:22
 media.lululemon.com:443
 media.lululemon.com:80
@@ -1125,8 +1123,6 @@ qa-identity.lululemon.com:80
 qa-iexpense.lululemon.com:443
 qa-info.eu.lululemon.com:443
 qa-info.eu.lululemon.com:80
-qa-info.lululemon.com:443
-qa-info.lululemon.com:80
 qa-plm.lululemon.com:443
 qa-plm.lululemon.com:80
 qa-pnimages.lululemon.com:443
@@ -1145,12 +1141,10 @@ qa2.info.eu.lululemon.com:443
 qa2.info.eu.lululemon.com:80
 qa20.preprod.lululemon.com:443
 qa20.preprod.lululemon.com:80
-qa21.preprod.lululemon.com:443
-qa21.preprod.lululemon.com:80
 qa22.preprod.lululemon.com:443
 qa22.preprod.lululemon.com:80
-qa23.preprod.lululemon.com:443
-qa23.preprod.lululemon.com:80
+qa24.preprod.lululemon.com:443
+qa24.preprod.lululemon.com:80
 qa25.preprod.lululemon.com:443
 qa25.preprod.lululemon.com:80
 qa26.preprod.lululemon.com:443
@@ -1159,8 +1153,12 @@ qa27.preprod.lululemon.com:443
 qa27.preprod.lululemon.com:80
 qa28.preprod.lululemon.com:443
 qa28.preprod.lululemon.com:80
+qa29.preprod.lululemon.com:443
+qa29.preprod.lululemon.com:80
 qa30.preprod.lululemon.com:443
 qa30.preprod.lululemon.com:80
+qa31.preprod.lululemon.com:443
+qa31.preprod.lululemon.com:80
 qa32.preprod.lululemon.com:443
 qa32.preprod.lululemon.com:80
 qa32.preprod.preprod.lululemon.com:443
@@ -1223,8 +1221,6 @@ stage.pos-api.lululemon.com:443
 stage.pos-api.lululemon.com:80
 stage62-info.eu.lululemon.com:443
 stage62-info.eu.lululemon.com:80
-stage62-info.lululemon.com:443
-stage62-info.lululemon.com:80
 stage62-pnimages.lululemon.com:443
 stage62-pnimages.lululemon.com:80
 stageb.preprod.lululemon.com:443
@@ -1248,6 +1244,8 @@ sustainability.eu.lululemon.com:443
 sustainability.eu.lululemon.com:80
 sustainability.lululemon.com:443
 sustainability.lululemon.com:80
+svcs.lululemon.com:443
+svcs.lululemon.com:80
 test-shop.lululemon.com:443
 test-shop.lululemon.com:80
 test.preprod-apis.lululemon.com:443
@@ -1267,3 +1265,5 @@ www.eu.lululemon.com:8080
 www.eu.lululemon.com:8443
 www.lululemon.com:443
 www.lululemon.com:80
+youlu.lululemon.com:443
+youlu.lululemon.com:80

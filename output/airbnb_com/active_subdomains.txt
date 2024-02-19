@@ -785,7 +785,6 @@ origin-images.airbnb.com
 origin-m.airbnb.com
 origin-misc.airbnb.com
 origin-www-cn.airbnb.com
-origin-www-cnprod.airbnb.com
 origin-www.airbnb.com
 origin.next.airbnb.com
 osman.optustvnow.next.airbnb.com

@@ -263,6 +263,7 @@ lotus.aol.com
 love.aol.com
 m.aol.com
 m.article.aol.com
+m.autos.aol.com
 m.verizon-b.aol.com
 m.verizon-b.qa.sandbox.aol.com
 m.verizon-b.release.sandbox.aol.com

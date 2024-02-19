@@ -1,3 +1,7 @@
+base.org:443
+base.org:80
+base.org:8080
+base.org:8443
 bridge.base.org:443
 bridge.base.org:80
 bridge.base.org:8080

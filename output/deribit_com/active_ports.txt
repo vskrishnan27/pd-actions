@@ -27,14 +27,15 @@ blog.deribit.com:8443
 chat.deribit.com:22
 chat.deribit.com:443
 chat.deribit.com:80
+chattest.deribit.com:22
+chattest.deribit.com:443
+chattest.deribit.com:80
 conference.chat.deribit.com:22
 conference.chat.deribit.com:443
 conference.chat.deribit.com:80
 conference.chattest.deribit.com:22
 conference.chattest.deribit.com:443
 conference.chattest.deribit.com:80
-deribit.com:443
-deribit.com:80
 docs.deribit.com:443
 docs.deribit.com:80
 docs.deribit.com:8080

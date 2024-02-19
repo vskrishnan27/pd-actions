@@ -302,6 +302,8 @@ uk.legal.trustpilot.com:443
 uk.legal.trustpilot.com:80
 uk.trustpilot.com:443
 uk.trustpilot.com:80
+us.business.trustpilot.com:443
+us.business.trustpilot.com:80
 user-images.trustpilot.com:443
 user-images.trustpilot.com:80
 widget.trustpilot.com:443

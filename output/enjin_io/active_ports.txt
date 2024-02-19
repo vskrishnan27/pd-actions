@@ -6,10 +6,6 @@ auth.enjin.io:443
 auth.enjin.io:80
 auth.enjin.io:8080
 auth.enjin.io:8443
-beam.enjin.io:443
-beam.enjin.io:80
-beam.enjin.io:8080
-beam.enjin.io:8443
 blog.enjin.io:443
 blog.enjin.io:80
 blog.enjin.io:8080
@@ -36,10 +32,6 @@ docs.enjin.io:443
 docs.enjin.io:80
 docs.enjin.io:8080
 docs.enjin.io:8443
-enjin.io:443
-enjin.io:80
-enjin.io:8080
-enjin.io:8443
 feedback.enjin.io:443
 feedback.enjin.io:80
 feedback.enjin.io:8080

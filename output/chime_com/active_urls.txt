@@ -33,6 +33,7 @@ http://email.gh-mail.chime.com:8080
 http://email.gh-mail.chime.com:8443
 http://email.gh-mail.ext.chime.com
 http://email.gh-mail.ext.chime.com:8080
+http://email.gh-mail.ext.chime.com:8443
 http://email.mg.chime.com
 http://email.mg.chime.com:8080
 http://email.mg.chime.com:8443
@@ -66,7 +67,6 @@ http://inspector-qa.chime.com:8080
 http://inspector-qa.chime.com:8443
 http://inspector.chime.com
 http://inspector.chime.com:8080
-http://inspector.chime.com:8443
 http://interchange.chime.com
 http://links.account.chime.com
 http://links.account.chime.com:8080
@@ -82,7 +82,6 @@ http://locations.chime.com:8080
 http://locations.chime.com:8443
 http://member-dev1.chime.com
 http://member-dev1.chime.com:8080
-http://member-dev1.chime.com:8443
 http://member-qa.chime.com
 http://member-qa.chime.com:8080
 http://member-qa.chime.com:8443
@@ -119,7 +118,6 @@ http://public-assets.chime.com:8080
 http://public-assets.chime.com:8443
 http://static-attachments.chime.com
 http://static-attachments.chime.com:8080
-http://static-attachments.chime.com:8443
 http://status.chime.com
 http://status.chime.com:8080
 http://transaction.chime.com
@@ -166,7 +164,6 @@ https://email.ethnio.chime.com
 https://email.ethnio.chime.com:80
 https://email.gh-mail.chime.com
 https://email.gh-mail.ext.chime.com
-https://email.gh-mail.ext.chime.com:8443
 https://email.mg.chime.com
 https://email.talent.chime.com
 https://email.talent.chime.com:80
@@ -183,12 +180,14 @@ https://help.chime.com
 https://inspector-dev1.chime.com
 https://inspector-qa.chime.com
 https://inspector.chime.com
+https://inspector.chime.com:8443
 https://interchange.chime.com
 https://links.account.chime.com
 https://links.notify.chime.com
 https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
+https://member-dev1.chime.com:8443
 https://member-qa.chime.com
 https://member.chime.com
 https://mobile-state.chime.com
@@ -203,6 +202,7 @@ https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
 https://public-assets.chime.com
 https://static-attachments.chime.com
+https://static-attachments.chime.com:8443
 https://status.chime.com
 https://status.chime.com:8443
 https://transaction.chime.com

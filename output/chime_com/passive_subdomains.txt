@@ -64,6 +64,7 @@
 16002407.account.chime.com
 16002407.account.chime.com
 16002407.account.chime.com
+16002407.account.chime.com
 16002407.notify.chime.com
 16002407.notify.chime.com
 16002407.notify.chime.com
@@ -130,6 +131,7 @@
 16002407.notify.chime.com
 16002407.notify.chime.com
 16002407.notify.chime.com
+16002407.notify.chime.com
 165.227.32.chime.com
 165.227.32.chime.com
 165.227.32.chime.com
@@ -650,6 +652,7 @@ adventurepop.chime.com
 adventurepop.chime.com
 adventurepop.chime.com
 adventurepop.chime.com
+affiliates.chime.com
 affiliates.chime.com
 affiliates.chime.com
 affiliates.chime.com
@@ -1430,6 +1433,8 @@ app.chime.com
 app.chime.com
 app.chime.com
 app.chime.com
+app.chime.com
+apply.chime.com
 apply.chime.com
 apply.chime.com
 apply.chime.com
@@ -1887,6 +1892,7 @@ attachments.chime.com
 attachments.chime.com
 attachments.chime.com
 attachments.chime.com
+attachments.chime.com
 autobots-dev1.chime.com
 autobots-dev1.chime.com
 autobots-dev1.chime.com
@@ -2537,6 +2543,7 @@ brainsong.chime.com
 brainsong.chime.com
 brainsong.chime.com
 brainsong.chime.com
+careers.chime.com
 careers.chime.com
 careers.chime.com
 careers.chime.com
@@ -2732,6 +2739,7 @@ chat.chime.com
 chat.chime.com
 chat.chime.com
 chat.chime.com
+chat.chime.com
 chat.viewstream.chime.com
 chat.viewstream.chime.com
 chat.viewstream.chime.com
@@ -3057,6 +3065,7 @@ chime-ubuntu16.chime.com
 chime-ubuntu16.chime.com
 chime-ubuntu16.chime.com
 chime-ubuntu16.chime.com
+chime.com
 chime.com
 chime.com
 chime.com
@@ -3575,6 +3584,8 @@ datadog-forwarder-nonprod.chime.com
 datadog-forwarder-nonprod.chime.com
 datadog-forwarder-nonprod.chime.com
 datadog-forwarder-nonprod.chime.com
+datadog-forwarder-nonprod.chime.com
+datadog-forwarder.chime.com
 datadog-forwarder.chime.com
 datadog-forwarder.chime.com
 datadog-forwarder.chime.com
@@ -3770,6 +3781,8 @@ dev.chime.com
 dev.chime.com
 dev.chime.com
 dev.chime.com
+dev.chime.com
+developer.chime.com
 developer.chime.com
 developer.chime.com
 developer.chime.com
@@ -4160,6 +4173,8 @@ element.chime.com
 element.chime.com
 element.chime.com
 element.chime.com
+element.chime.com
+email.ethnio.chime.com
 email.ethnio.chime.com
 email.ethnio.chime.com
 email.ethnio.chime.com
@@ -4292,6 +4307,8 @@ email.gh-mail.chime.com
 email.gh-mail.chime.com
 email.gh-mail.chime.com
 email.gh-mail.chime.com
+email.gh-mail.chime.com
+email.gh-mail.ext.chime.com
 email.gh-mail.ext.chime.com
 email.gh-mail.ext.chime.com
 email.gh-mail.ext.chime.com
@@ -4424,6 +4441,8 @@ email.mg.chime.com
 email.mg.chime.com
 email.mg.chime.com
 email.mg.chime.com
+email.mg.chime.com
+email.talent.chime.com
 email.talent.chime.com
 email.talent.chime.com
 email.talent.chime.com
@@ -4554,6 +4573,7 @@ email.teamable.chime.com
 email.teamable.chime.com
 email.teamable.chime.com
 email.teamable.chime.com
+email.teamable.chime.com
 enterpriseenrollment.chime.com
 enterpriseenrollment.chime.com
 enterpriseenrollment.chime.com
@@ -4749,6 +4769,7 @@ entourage.chime.com
 entourage.chime.com
 entourage.chime.com
 entourage.chime.com
+error-pages.chime.com
 error-pages.chime.com
 error-pages.chime.com
 error-pages.chime.com
@@ -5206,6 +5227,7 @@ flashpaper.chime.com
 flashpaper.chime.com
 flashpaper.chime.com
 flashpaper.chime.com
+flashpaper.chime.com
 flowerbooking.chime.com
 flowerbooking.chime.com
 flowerbooking.chime.com
@@ -5271,6 +5293,7 @@ flowerbooking.chime.com
 flowerbooking.chime.com
 flowerbooking.chime.com
 flowerbooking.chime.com
+flows.chime.com
 flows.chime.com
 flows.chime.com
 flows.chime.com
@@ -6181,6 +6204,8 @@ handbooks.chime.com
 handbooks.chime.com
 handbooks.chime.com
 handbooks.chime.com
+handbooks.chime.com
+help-test.chime.com
 help-test.chime.com
 help-test.chime.com
 help-test.chime.com
@@ -6313,6 +6338,7 @@ help.chime.com
 help.chime.com
 help.chime.com
 help.chime.com
+help.chime.com
 hirschfeld.chime.com
 hirschfeld.chime.com
 hirschfeld.chime.com
@@ -6833,6 +6859,7 @@ inspector-test.chime.com
 inspector-test.chime.com
 inspector-test.chime.com
 inspector-test.chime.com
+inspector.chime.com
 inspector.chime.com
 inspector.chime.com
 inspector.chime.com
@@ -6963,6 +6990,7 @@ interchange.chime.com
 interchange.chime.com
 interchange.chime.com
 interchange.chime.com
+interchange.chime.com
 jarsofclay.chime.com
 jarsofclay.chime.com
 jarsofclay.chime.com
@@ -7418,6 +7446,7 @@ join-qa1.chime.com
 join-qa1.chime.com
 join-qa1.chime.com
 join-qa1.chime.com
+join.chime.com
 join.chime.com
 join.chime.com
 join.chime.com
@@ -7940,6 +7969,8 @@ links.account.chime.com
 links.account.chime.com
 links.account.chime.com
 links.account.chime.com
+links.account.chime.com
+links.notify.chime.com
 links.notify.chime.com
 links.notify.chime.com
 links.notify.chime.com
@@ -8787,6 +8818,7 @@ member.chime.com
 member.chime.com
 member.chime.com
 member.chime.com
+member.chime.com
 menber.chime.com
 menber.chime.com
 menber.chime.com
@@ -8853,6 +8885,8 @@ menber.chime.com
 menber.chime.com
 menber.chime.com
 menber.chime.com
+menber.chime.com
+migration.chime.com
 migration.chime.com
 migration.chime.com
 migration.chime.com
@@ -9050,6 +9084,8 @@ mobile-state.chime.com
 mobile-state.chime.com
 mobile-state.chime.com
 mobile-state.chime.com
+mobile-state.chime.com
+mobilesite.chime.com
 mobilesite.chime.com
 mobilesite.chime.com
 mobilesite.chime.com
@@ -9572,6 +9608,7 @@ mx.chime.com
 mx.chime.com
 mx.chime.com
 mx.chime.com
+mx.chime.com
 mx2.chime.com
 mx2.chime.com
 mx2.chime.com
@@ -9637,6 +9674,7 @@ mx2.chime.com
 mx2.chime.com
 mx2.chime.com
 mx2.chime.com
+nd.chime.com
 nd.chime.com
 nd.chime.com
 nd.chime.com
@@ -10159,6 +10197,8 @@ o2939.em.notify.chime.com
 o2939.em.notify.chime.com
 o2939.em.notify.chime.com
 o2939.em.notify.chime.com
+o2939.em.notify.chime.com
+o2940.em.notify.chime.com
 o2940.em.notify.chime.com
 o2940.em.notify.chime.com
 o2940.em.notify.chime.com
@@ -10291,6 +10331,8 @@ o2941.em.notify.chime.com
 o2941.em.notify.chime.com
 o2941.em.notify.chime.com
 o2941.em.notify.chime.com
+o2941.em.notify.chime.com
+o2942.em.account.chime.com
 o2942.em.account.chime.com
 o2942.em.account.chime.com
 o2942.em.account.chime.com
@@ -10423,6 +10465,8 @@ o2943.em.account.chime.com
 o2943.em.account.chime.com
 o2943.em.account.chime.com
 o2943.em.account.chime.com
+o2943.em.account.chime.com
+o2944.em.account.chime.com
 o2944.em.account.chime.com
 o2944.em.account.chime.com
 o2944.em.account.chime.com
@@ -10555,6 +10599,8 @@ o2945.em.account.chime.com
 o2945.em.account.chime.com
 o2945.em.account.chime.com
 o2945.em.account.chime.com
+o2945.em.account.chime.com
+o2946.em.account.chime.com
 o2946.em.account.chime.com
 o2946.em.account.chime.com
 o2946.em.account.chime.com
@@ -10687,6 +10733,8 @@ o871.ptr2.jobalerts.chime.com
 o871.ptr2.jobalerts.chime.com
 o871.ptr2.jobalerts.chime.com
 o871.ptr2.jobalerts.chime.com
+o871.ptr2.jobalerts.chime.com
+o872.ptr329.careeralerts.chime.com
 o872.ptr329.careeralerts.chime.com
 o872.ptr329.careeralerts.chime.com
 o872.ptr329.careeralerts.chime.com
@@ -11077,6 +11125,7 @@ office.chime.com
 office.chime.com
 office.chime.com
 office.chime.com
+office.chime.com
 old-ns2.chime.com
 old-ns2.chime.com
 old-ns2.chime.com
@@ -11662,6 +11711,7 @@ penny-test.chime.com
 penny-test.chime.com
 penny-test.chime.com
 penny-test.chime.com
+penny.chime.com
 penny.chime.com
 penny.chime.com
 penny.chime.com
@@ -12249,6 +12299,7 @@ qa-wp.chime.com
 qa-wp.chime.com
 qa-wp.chime.com
 qa-wp.chime.com
+qa-wp.chime.com
 qa1.chime.com
 qa1.chime.com
 qa1.chime.com
@@ -13029,6 +13080,7 @@ sdev1.chime.com
 sdev1.chime.com
 sdev1.chime.com
 sdev1.chime.com
+secure.chime.com
 secure.chime.com
 secure.chime.com
 secure.chime.com
@@ -13616,6 +13668,7 @@ stage-wp.chime.com
 stage-wp.chime.com
 stage-wp.chime.com
 stage-wp.chime.com
+stage-wp.chime.com
 stage.chime.com
 stage.chime.com
 stage.chime.com
@@ -13746,6 +13799,7 @@ stage2.chime.com
 stage2.chime.com
 stage2.chime.com
 stage2.chime.com
+state.chime.com
 state.chime.com
 state.chime.com
 state.chime.com
@@ -13876,6 +13930,8 @@ static-attachments.chime.com
 static-attachments.chime.com
 static-attachments.chime.com
 static-attachments.chime.com
+static-attachments.chime.com
+status.chime.com
 status.chime.com
 status.chime.com
 status.chime.com
@@ -14528,6 +14584,7 @@ updates.chime.com
 updates.chime.com
 updates.chime.com
 updates.chime.com
+updates.chime.com
 viewstream.chime.com
 viewstream.chime.com
 viewstream.chime.com
@@ -14788,6 +14845,7 @@ workhorse.chime.com
 workhorse.chime.com
 workhorse.chime.com
 workhorse.chime.com
+wp-ci.chime.com
 wp-ci.chime.com
 wp-ci.chime.com
 wp-ci.chime.com
@@ -14920,6 +14978,8 @@ wp-dev1.chime.com
 wp-dev1.chime.com
 wp-dev1.chime.com
 wp-dev1.chime.com
+wp-dev1.chime.com
+wp-dev2.chime.com
 wp-dev2.chime.com
 wp-dev2.chime.com
 wp-dev2.chime.com
@@ -15052,6 +15112,8 @@ wp-dev3.chime.com
 wp-dev3.chime.com
 wp-dev3.chime.com
 wp-dev3.chime.com
+wp-dev3.chime.com
+wp-dev4.chime.com
 wp-dev4.chime.com
 wp-dev4.chime.com
 wp-dev4.chime.com
@@ -15184,6 +15246,8 @@ wp-dev5.chime.com
 wp-dev5.chime.com
 wp-dev5.chime.com
 wp-dev5.chime.com
+wp-dev5.chime.com
+wp-integ.chime.com
 wp-integ.chime.com
 wp-integ.chime.com
 wp-integ.chime.com
@@ -15316,6 +15380,7 @@ wp-qa.chime.com
 wp-qa.chime.com
 wp-qa.chime.com
 wp-qa.chime.com
+wp-qa.chime.com
 wp.chime.com
 wp.chime.com
 wp.chime.com
@@ -15445,6 +15510,8 @@ www.accounts.chime.com
 www.accounts.chime.com
 www.accounts.chime.com
 www.accounts.chime.com
+www.accounts.chime.com
+www.chime.com
 www.chime.com
 www.chime.com
 www.chime.com
@@ -15511,6 +15578,7 @@ www.chime.com
 www.chime.com
 www.chime.com
 www.chime.com
+www.mobilesite.chime.com
 www.mobilesite.chime.com
 www.mobilesite.chime.com
 www.mobilesite.chime.com

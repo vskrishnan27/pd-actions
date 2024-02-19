@@ -25,7 +25,6 @@ http://internal.sandbox.delivery.indrive.com
 http://job.indrive.com
 http://landing.indrive.com
 http://lp-food.indrive.com
-http://lp-services.indrive.com
 http://media.indrive.com
 http://promo.indrive.com
 http://promotion.indrive.com
@@ -56,6 +55,7 @@ http://www.sparklab.indrive.com
 http://www.supernovas.indrive.com
 http://www.updrive.indrive.com
 http://www.yourpace.indrive.com
+http://yourpace.indrive.com
 https://beginit.indrive.com
 https://book.indrive.com
 https://careers.indrive.com
@@ -83,7 +83,6 @@ https://internal.sandbox.delivery.indrive.com
 https://job.indrive.com
 https://landing.indrive.com
 https://lp-food.indrive.com
-https://lp-services.indrive.com
 https://media.indrive.com
 https://promo.indrive.com
 https://promotion.indrive.com
@@ -114,3 +113,4 @@ https://www.sparklab.indrive.com
 https://www.supernovas.indrive.com
 https://www.updrive.indrive.com
 https://www.yourpace.indrive.com
+https://yourpace.indrive.com

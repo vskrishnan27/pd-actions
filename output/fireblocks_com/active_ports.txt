@@ -27,9 +27,7 @@ info.fireblocks.com:443
 info.fireblocks.com:80
 info.fireblocks.com:8080
 info.fireblocks.com:8443
-marketplaceapi.gcp.fireblocks.com:1433
 marketplaceapi.gcp.fireblocks.com:443
-marketplaceapi.gcp.fireblocks.com:79
 marketplaceapi.gcp.fireblocks.com:80
 ncw-developers.fireblocks.com:443
 ncw-developers.fireblocks.com:80

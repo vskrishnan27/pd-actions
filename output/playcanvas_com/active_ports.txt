@@ -25,6 +25,8 @@ mmx.playcanvas.com:80
 msg.playcanvas.com:443
 msg.playcanvas.com:80
 phone.playcanvas.com:80
+playcanvas.com:443
+playcanvas.com:80
 rt.playcanvas.com:443
 rt.playcanvas.com:80
 seemore.playcanvas.com:80

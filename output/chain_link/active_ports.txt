@@ -38,6 +38,10 @@ data.chain.link:443
 data.chain.link:80
 data.chain.link:8080
 data.chain.link:8443
+dataengine.chain.link:443
+dataengine.chain.link:80
+dataengine.chain.link:8080
+dataengine.chain.link:8443
 defi.chain.link:443
 defi.chain.link:80
 defi.chain.link:8080
@@ -161,6 +165,10 @@ security.chain.link:443
 security.chain.link:80
 security.chain.link:8080
 security.chain.link:8443
+smartcon.chain.link:443
+smartcon.chain.link:80
+smartcon.chain.link:8080
+smartcon.chain.link:8443
 staking.chain.link:443
 staking.chain.link:80
 staking.chain.link:8080

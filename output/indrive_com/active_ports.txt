@@ -1,3 +1,5 @@
+beginit.indrive.com:443
+beginit.indrive.com:80
 book.indrive.com:443
 book.indrive.com:80
 careers.indrive.com:443
@@ -35,6 +37,8 @@ inapps.indrive.com:443
 inapps.indrive.com:80
 inapps2.indrive.com:443
 inapps2.indrive.com:80
+indrive.com:443
+indrive.com:80
 injob.indrive.com:443
 injob.indrive.com:80
 intercity.indrive.com:443
@@ -43,6 +47,8 @@ internal.delivery.indrive.com:443
 internal.delivery.indrive.com:80
 internal.sandbox.delivery.indrive.com:443
 internal.sandbox.delivery.indrive.com:80
+job.indrive.com:443
+job.indrive.com:80
 landing.indrive.com:443
 landing.indrive.com:80
 lp-food.indrive.com:443
@@ -119,5 +125,3 @@ www.updrive.indrive.com:443
 www.updrive.indrive.com:80
 www.yourpace.indrive.com:443
 www.yourpace.indrive.com:80
-yourpace.indrive.com:443
-yourpace.indrive.com:80

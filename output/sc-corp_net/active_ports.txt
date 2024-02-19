@@ -267,8 +267,6 @@ ghe-dev.sc-corp.net:443
 ghe-dev.sc-corp.net:80
 github-backup.sc-corp.net:443
 github-backup.sc-corp.net:80
-github.sc-corp.net:443
-github.sc-corp.net:80
 grafana-backup.sc-corp.net:443
 grafana-backup.sc-corp.net:80
 grafana-cluster.sc-corp.net:443
@@ -300,14 +298,12 @@ identity-broker-stage.sc-corp.net:443
 identity-broker-stage.sc-corp.net:80
 identityagent-dot-eatmyshortener.gae.sc-corp.net:443
 identityagent-dot-eatmyshortener.gae.sc-corp.net:80
-jira-dev.sc-corp.net:443
-jira-dev.sc-corp.net:80
 jira-mx-dev.sc-corp.net:443
 jira-mx-dev.sc-corp.net:80
+jira-mx.sc-corp.net:443
+jira-mx.sc-corp.net:80
 jira-stage-api.sc-corp.net:443
 jira-stage-api.sc-corp.net:80
-jira-stage.sc-corp.net:443
-jira-stage.sc-corp.net:80
 jira.sc-corp.net:443
 jira.sc-corp.net:80
 key-master-beta.sc-corp.net:10000

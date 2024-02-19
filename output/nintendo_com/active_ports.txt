@@ -8,6 +8,7 @@
 05c3f3edaaca0be2296d3f68b5e2bd4e-sb.baas.nintendo.com:80
 0693f502b668a7ce50906255e8a276ba-sb.baas.nintendo.com:443
 0693f502b668a7ce50906255e8a276ba-sb.baas.nintendo.com:80
+0693f502b668a7ce50906255e8a276ba-sb.baas.nintendo.com:9999
 07ac83298967f54727d5143fb4f505e9-sb.baas.nintendo.com:443
 07ac83298967f54727d5143fb4f505e9-sb.baas.nintendo.com:80
 080ef2dac8a7e1e4598bcd78c8ae27af-sb.baas.nintendo.com:443
@@ -158,6 +159,7 @@
 35153743b8955bc9c3d62b9d2e294384-sb.baas.nintendo.com:80
 3adf42f37cef4be9956ec4e5e40ac640-sb.baas.nintendo.com:443
 3adf42f37cef4be9956ec4e5e40ac640-sb.baas.nintendo.com:80
+3adf42f37cef4be9956ec4e5e40ac640-sb.baas.nintendo.com:9999
 3b025e131c9f3c03f8ccdbbd79f4f206-sb.baas.nintendo.com:443
 3b025e131c9f3c03f8ccdbbd79f4f206-sb.baas.nintendo.com:80
 3b15b6558b255c55b3101225ac34427c-sb.baas.nintendo.com:443
@@ -186,6 +188,7 @@
 4f504fd9be83851a20c1e34e43141901-sb.baas.nintendo.com:80
 50aa054e3327944fba81e0bdf16e81d9-sb.baas.nintendo.com:443
 50aa054e3327944fba81e0bdf16e81d9-sb.baas.nintendo.com:80
+50aa054e3327944fba81e0bdf16e81d9-sb.baas.nintendo.com:9999
 50e98c20967ff0480c02cd94254ffdbd-sb.baas.nintendo.com:443
 50e98c20967ff0480c02cd94254ffdbd-sb.baas.nintendo.com:80
 51cd526b37bcf8bf5627b1471e618e8c-sb.baas.nintendo.com:443
@@ -200,6 +203,7 @@
 5b00ada4ad1dfb5dfe52ccb20344aa28-sb.baas.nintendo.com:80
 5bfc2dd2b73d9b593e6b361fb4d9106b-sb.baas.nintendo.com:443
 5bfc2dd2b73d9b593e6b361fb4d9106b-sb.baas.nintendo.com:80
+5bfc2dd2b73d9b593e6b361fb4d9106b-sb.baas.nintendo.com:9999
 5c6d9158821f0ee0dfc1075761267cf4-sb.baas.nintendo.com:443
 5c6d9158821f0ee0dfc1075761267cf4-sb.baas.nintendo.com:80
 5e7fa488e9a8da3e3bbc09c257e1d752-sb.baas.nintendo.com:443
@@ -222,6 +226,7 @@
 702de4b573abaebdecdafe52d49863ec-sb.baas.nintendo.com:80
 7216e31bcecd93a4a68475c48dcd2825-sb.baas.nintendo.com:443
 7216e31bcecd93a4a68475c48dcd2825-sb.baas.nintendo.com:80
+7216e31bcecd93a4a68475c48dcd2825-sb.baas.nintendo.com:9999
 73bccf02c4b893199ac59f730fc4cb66-sb.baas.nintendo.com:443
 73bccf02c4b893199ac59f730fc4cb66-sb.baas.nintendo.com:80
 74bb8615e80d91084110a6704b1aea58-sb.baas.nintendo.com:443
@@ -250,6 +255,7 @@
 9541f77c0436318c23522b24090945d0-sb.baas.nintendo.com:80
 96064208e7b70d454bb0ae5ad9e593d9-sb.baas.nintendo.com:443
 96064208e7b70d454bb0ae5ad9e593d9-sb.baas.nintendo.com:80
+96064208e7b70d454bb0ae5ad9e593d9-sb.baas.nintendo.com:9999
 961957f5022880e370429cb53108e1b8-sb-dev.baas.nintendo.com:443
 961957f5022880e370429cb53108e1b8-sb-dev.baas.nintendo.com:80
 96ba1a854ab024b971db0120308f5c3f-sb.baas.nintendo.com:443
@@ -278,6 +284,7 @@ a1a157711aa44b190782b21ef181f179-sb.baas.nintendo.com:443
 a1a157711aa44b190782b21ef181f179-sb.baas.nintendo.com:80
 a65e01dda8f22637312e2a68d5bbd1bb-sb.baas.nintendo.com:443
 a65e01dda8f22637312e2a68d5bbd1bb-sb.baas.nintendo.com:80
+a65e01dda8f22637312e2a68d5bbd1bb-sb.baas.nintendo.com:9999
 a6913b7b80402974409b47079c29d775.baas.nintendo.com:443
 a6913b7b80402974409b47079c29d775.baas.nintendo.com:80
 a9bf4dad9af4483b726443d219ab83cc-sb.baas.nintendo.com:443
@@ -446,6 +453,7 @@ csassets.nintendo.com:443
 csassets.nintendo.com:80
 d02b288a1f23a968a85dd997f7a12e62-sb.baas.nintendo.com:443
 d02b288a1f23a968a85dd997f7a12e62-sb.baas.nintendo.com:80
+d02b288a1f23a968a85dd997f7a12e62-sb.baas.nintendo.com:9999
 d1232b8a819e643c814e8d1b063697ef-sb.baas.nintendo.com:443
 d1232b8a819e643c814e8d1b063697ef-sb.baas.nintendo.com:80
 d247e803ec1d2c87c55944728a72e579-sb.baas.nintendo.com:443
@@ -909,8 +917,6 @@ ope.events.nintendo.com:443
 ope.events.nintendo.com:80
 ope.qa.events.nintendo.com:443
 ope.qa.events.nintendo.com:80
-ope.staging.events.nintendo.com:443
-ope.staging.events.nintendo.com:80
 orders.activities.prod.gbo.noa.nintendo.com:443
 p.nintendo.com:443
 p.nintendo.com:80
@@ -976,12 +982,13 @@ professorlayton.nintendo.com:80
 profile.cpo.noa.nintendo.com:443
 pt-americas-support.nintendo.com:443
 pt-americas-support.nintendo.com:80
-ptdairwatch.noa.nintendo.com:13
-ptdairwatch.noa.nintendo.com:465
-ptdairwatch.noa.nintendo.com:5060
-ptdairwatch.noa.nintendo.com:515
-ptdairwatch.noa.nintendo.com:6001
-ptdairwatch.noa.nintendo.com:81
+ptdairwatch.noa.nintendo.com:1028
+ptdairwatch.noa.nintendo.com:111
+ptdairwatch.noa.nintendo.com:1110
+ptdairwatch.noa.nintendo.com:513
+ptdairwatch.noa.nintendo.com:5190
+ptdairwatch.noa.nintendo.com:554
+ptdairwatch.noa.nintendo.com:79
 ptdupload1.nintendo.com:21
 ptdupload1.nintendo.com:443
 ptdupload1.nintendo.com:990
@@ -1127,8 +1134,6 @@ storemedia.nintendo.com:443
 storemedia.nintendo.com:80
 stretchmo.nintendo.com:443
 stretchmo.nintendo.com:80
-studio.mii.nintendo.com:443
-studio.mii.nintendo.com:80
 stylesavvy.nintendo.com:443
 stylesavvy.nintendo.com:80
 stylesavvy2.nintendo.com:443
@@ -1250,11 +1255,23 @@ www-uat4.nintendo.com:443
 www-uat4.nintendo.com:80
 www-uat5.nintendo.com:443
 www-uat5.nintendo.com:80
+www.nerd.nintendo.com:10000
+www.nerd.nintendo.com:106
+www.nerd.nintendo.com:119
+www.nerd.nintendo.com:1723
+www.nerd.nintendo.com:2121
+www.nerd.nintendo.com:427
 www.nerd.nintendo.com:443
+www.nerd.nintendo.com:444
 www.nerd.nintendo.com:5000
-www.nerd.nintendo.com:543
+www.nerd.nintendo.com:513
+www.nerd.nintendo.com:5190
+www.nerd.nintendo.com:5900
 www.nerd.nintendo.com:7070
 www.nerd.nintendo.com:80
+www.nerd.nintendo.com:8443
+www.nerd.nintendo.com:9100
+www.nerd.nintendo.com:9999
 www.nintendo.com:443
 www.nintendo.com:80
 xenobladechronicles2.nintendo.com:443

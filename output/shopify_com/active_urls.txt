@@ -168,8 +168,6 @@ http://classic-help-staging.shopify.com
 http://classic-help.shopify.com
 http://classifieds.shopify.com
 http://classifieds.shopify.com:8080
-http://click.email.shopify.com
-http://click.email.shopify.com:8080
 http://cms.everest.shopify.com
 http://cms.everest.shopify.com:8080
 http://cms.shopify.com
@@ -188,8 +186,6 @@ http://collabs-merchants.shopify.com
 http://collabs-merchants.shopify.com:8080
 http://collabs-staging.shopify.com
 http://collabs-staging.shopify.com:8080
-http://collabs.shopify.com
-http://collabs.shopify.com:8080
 http://colourdecoded.shopify.com
 http://colourdecoded.shopify.com:8080
 http://commerceawards.shopify.com
@@ -261,6 +257,8 @@ http://devs.shopify.com
 http://devs.shopify.com:8080
 http://dk.shopify.com
 http://dk.shopify.com:8080
+http://dn.shopify.com
+http://dn.shopify.com:8080
 http://dns.ash.shopify.com
 http://dns.ash.shopify.com:8080
 http://docs.shopify.com
@@ -519,6 +517,8 @@ http://mobile.shopify.com
 http://mobile.shopify.com:8080
 http://mta.email.shopify.com
 http://mta.email.shopify.com:8080
+http://mta2.email.shopify.com
+http://mta2.email.shopify.com:8080
 http://mta3.email.shopify.com
 http://mta3.email.shopify.com:8080
 http://mta4.email.shopify.com
@@ -783,6 +783,8 @@ http://timber.shopify.com
 http://timber.shopify.com:8080
 http://tmt.shopify.com
 http://tmt.shopify.com:8080
+http://toronto.shopify.com
+http://toronto.shopify.com:8080
 http://torontoretailtour.shopify.com
 http://torontoretailtour.shopify.com:8080
 http://toykingdom.shopify.com
@@ -1098,8 +1100,6 @@ https://classic-help-staging.shopify.com
 https://classic-help.shopify.com
 https://classifieds.shopify.com
 https://classifieds.shopify.com:8443
-https://click.email.shopify.com
-https://click.email.shopify.com:8443
 https://cms.everest.shopify.com
 https://cms.everest.shopify.com:8443
 https://cms.shopify.com
@@ -1118,8 +1118,6 @@ https://collabs-merchants.shopify.com
 https://collabs-merchants.shopify.com:8443
 https://collabs-staging.shopify.com
 https://collabs-staging.shopify.com:8443
-https://collabs.shopify.com
-https://collabs.shopify.com:8443
 https://colourdecoded.shopify.com
 https://colourdecoded.shopify.com:8443
 https://commerceawards.shopify.com
@@ -1191,6 +1189,8 @@ https://devs.shopify.com
 https://devs.shopify.com:8443
 https://dk.shopify.com
 https://dk.shopify.com:8443
+https://dn.shopify.com
+https://dn.shopify.com:8443
 https://dns.ash.shopify.com
 https://dns.ash.shopify.com:8443
 https://docs.shopify.com
@@ -1452,6 +1452,8 @@ https://mobile.shopify.com
 https://mobile.shopify.com:8443
 https://mta.email.shopify.com
 https://mta.email.shopify.com:8443
+https://mta2.email.shopify.com
+https://mta2.email.shopify.com:8443
 https://mta3.email.shopify.com
 https://mta3.email.shopify.com:8443
 https://mta4.email.shopify.com
@@ -1717,6 +1719,8 @@ https://timber.shopify.com
 https://timber.shopify.com:8443
 https://tmt.shopify.com
 https://tmt.shopify.com:8443
+https://toronto.shopify.com
+https://toronto.shopify.com:8443
 https://torontoretailtour.shopify.com
 https://torontoretailtour.shopify.com:8443
 https://toykingdom.shopify.com

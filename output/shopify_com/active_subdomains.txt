@@ -86,7 +86,6 @@ cla.shopify.com
 classic-help-staging.shopify.com
 classic-help.shopify.com
 classifieds.shopify.com
-click.email.shopify.com
 cms.everest.shopify.com
 cms.shopify.com
 cname.shopify.com
@@ -473,6 +472,7 @@ thescroll.shopify.com
 tim-exclusive.shopify.com
 timber.shopify.com
 tmt.shopify.com
+toronto.shopify.com
 torontoretailtour.shopify.com
 toykingdom.shopify.com
 twominutetutorials.shopify.com
@@ -528,6 +528,7 @@ v200.ae2.br.hy094.chi2.shopify.com
 vault.shopify.com
 vaultapp1.ec2.shopify.com
 videomaker.shopify.com
+view.email.shopify.com
 vision.shopify.com
 wc.shopify.com
 weareopen.shopify.com

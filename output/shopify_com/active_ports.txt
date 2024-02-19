@@ -337,10 +337,6 @@ classifieds.shopify.com:443
 classifieds.shopify.com:80
 classifieds.shopify.com:8080
 classifieds.shopify.com:8443
-click.email.shopify.com:443
-click.email.shopify.com:80
-click.email.shopify.com:8080
-click.email.shopify.com:8443
 cms.everest.shopify.com:443
 cms.everest.shopify.com:80
 cms.everest.shopify.com:8080
@@ -377,10 +373,6 @@ collabs-staging.shopify.com:443
 collabs-staging.shopify.com:80
 collabs-staging.shopify.com:8080
 collabs-staging.shopify.com:8443
-collabs.shopify.com:443
-collabs.shopify.com:80
-collabs.shopify.com:8080
-collabs.shopify.com:8443
 colourdecoded.shopify.com:443
 colourdecoded.shopify.com:80
 colourdecoded.shopify.com:8080
@@ -523,6 +515,10 @@ dk.shopify.com:443
 dk.shopify.com:80
 dk.shopify.com:8080
 dk.shopify.com:8443
+dn.shopify.com:443
+dn.shopify.com:80
+dn.shopify.com:8080
+dn.shopify.com:8443
 dns.ash.shopify.com:443
 dns.ash.shopify.com:80
 dns.ash.shopify.com:8080
@@ -1045,6 +1041,10 @@ mta.email.shopify.com:443
 mta.email.shopify.com:80
 mta.email.shopify.com:8080
 mta.email.shopify.com:8443
+mta2.email.shopify.com:443
+mta2.email.shopify.com:80
+mta2.email.shopify.com:8080
+mta2.email.shopify.com:8443
 mta3.email.shopify.com:443
 mta3.email.shopify.com:80
 mta3.email.shopify.com:8080
@@ -1576,6 +1576,10 @@ tmt.shopify.com:443
 tmt.shopify.com:80
 tmt.shopify.com:8080
 tmt.shopify.com:8443
+toronto.shopify.com:443
+toronto.shopify.com:80
+toronto.shopify.com:8080
+toronto.shopify.com:8443
 torontoretailtour.shopify.com:443
 torontoretailtour.shopify.com:80
 torontoretailtour.shopify.com:8080

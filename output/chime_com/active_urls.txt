@@ -3,6 +3,7 @@ http://16002407.account.chime.com:8080
 http://16002407.account.chime.com:8443
 http://16002407.notify.chime.com
 http://16002407.notify.chime.com:8080
+http://16002407.notify.chime.com:8443
 http://app.chime.com
 http://app.chime.com:8080
 http://app.chime.com:8443
@@ -150,7 +151,6 @@ http://wp-qa.chime.com:8443
 http://www.chime.com
 https://16002407.account.chime.com
 https://16002407.notify.chime.com
-https://16002407.notify.chime.com:8443
 https://app.chime.com
 https://attachments.chime.com
 https://autobots-dev1.chime.com

@@ -15,6 +15,7 @@ http://developer.matomo.org
 http://developers.matomo.org
 http://docs.matomo.org
 http://el.matomo.org
+http://es.matomo.org
 http://forum.matomo.org
 http://fr-staging.matomo.org
 http://fr-staging.matomo.org:443
@@ -62,6 +63,7 @@ https://developer.matomo.org
 https://developers.matomo.org
 https://docs.matomo.org
 https://el.matomo.org
+https://es.matomo.org
 https://forum.matomo.org
 https://fr.matomo.org
 https://fr.staging.matomo.org

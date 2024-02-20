@@ -47,6 +47,8 @@ internal.delivery.indrive.com:443
 internal.delivery.indrive.com:80
 internal.sandbox.delivery.indrive.com:443
 internal.sandbox.delivery.indrive.com:80
+job.indrive.com:443
+job.indrive.com:80
 landing.indrive.com:443
 landing.indrive.com:80
 lp-food.indrive.com:443
@@ -89,8 +91,6 @@ share.indrive.com:443
 share.indrive.com:80
 sharetrip.indrive.com:443
 sharetrip.indrive.com:80
-sparklab.indrive.com:443
-sparklab.indrive.com:80
 supernovas.indrive.com:443
 supernovas.indrive.com:80
 updrive.indrive.com:443

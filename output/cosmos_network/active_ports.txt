@@ -170,10 +170,6 @@ cors.cosmos.network:443
 cors.cosmos.network:80
 cors.cosmos.network:8080
 cors.cosmos.network:8443
-cosmos.network:443
-cosmos.network:80
-cosmos.network:8080
-cosmos.network:8443
 dev.rest.bigbang.cosmos.network:443
 dev.rest.bigbang.cosmos.network:80
 dev.rest.bigbang.cosmos.network:8080
@@ -268,6 +264,10 @@ interchainacademy.cosmos.network:443
 interchainacademy.cosmos.network:80
 interchainacademy.cosmos.network:8080
 interchainacademy.cosmos.network:8443
+irisnet.cosmos.network:443
+irisnet.cosmos.network:80
+irisnet.cosmos.network:8080
+irisnet.cosmos.network:8443
 jobs.cosmos.network:443
 jobs.cosmos.network:80
 jobs.cosmos.network:8080
@@ -366,6 +366,10 @@ rpc.bigbang.cosmos.network:443
 rpc.bigbang.cosmos.network:80
 rpc.bigbang.cosmos.network:8080
 rpc.bigbang.cosmos.network:8443
+rpc.cosmos.network:443
+rpc.cosmos.network:80
+rpc.cosmos.network:8080
+rpc.cosmos.network:8443
 rpc.irisnet.cosmos.network:443
 rpc.irisnet.cosmos.network:80
 rpc.irisnet.cosmos.network:8080

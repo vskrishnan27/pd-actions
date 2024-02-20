@@ -1,4 +1,3 @@
-http://ambassadors.lululemon.com
 http://api-creator.lululemon.com
 http://api.lululemon.com
 http://apis-dev-np.lululemon.com:443
@@ -42,6 +41,7 @@ http://enterpriseregistration.lululemon.com
 http://eu.lululemon.com
 http://failover.lululemon.com
 http://fakeprod.preprod.lululemon.com
+http://fr-blog.lululemon.com
 http://fr-qa-info.lululemon.com
 http://fr-qa2-info.lululemon.com
 http://fr-qa21.lululemon.com
@@ -69,6 +69,7 @@ http://image.info.lululemon.com
 http://images.eu.lululemon.com
 http://images.info.lululemon.com
 http://images.lululemon.com
+http://info.lululemon.com
 http://instoreideas.lululemon.com
 http://internal-alpha.lululemon.com
 http://internal-beta.lululemon.com
@@ -549,7 +550,6 @@ http://preview-services.lululemon.com
 http://preview.lululemon.com
 http://qa-identity.lululemon.com
 http://qa-info.eu.lululemon.com
-http://qa-info.lululemon.com
 http://qa-plm.lululemon.com
 http://qa-pnimages.lululemon.com
 http://qa.pos-api.lululemon.com
@@ -558,19 +558,10 @@ http://qa2-info.eu.lululemon.com
 http://qa2-info.lululemon.com
 http://qa2-pnimages.lululemon.com
 http://qa2.info.eu.lululemon.com
-http://qa2.info.lululemon.com
-http://qa22.preprod.lululemon.com
 http://qa23.preprod.lululemon.com
-http://qa24.preprod.lululemon.com
-http://qa25.preprod.lululemon.com
 http://qa26.preprod.lululemon.com
-http://qa27.preprod.lululemon.com
-http://qa28.preprod.lululemon.com
-http://qa29.preprod.lululemon.com
-http://qa31.preprod.lululemon.com
 http://qa32.preprod.lululemon.com
 http://qa32.preprod.preprod.lululemon.com
-http://qa33.preprod.lululemon.com
 http://report.creators.lululemon.com
 http://sandbox-dev.preprod-apis.lululemon.com
 http://sandbox.preprod-apis.lululemon.com
@@ -609,6 +600,7 @@ http://strategicsales.lululemon.com
 http://summary.creators.lululemon.com
 http://sustainability.eu.lululemon.com
 http://sustainability.lululemon.com
+http://svcs.lululemon.com
 http://test-shop.lululemon.com
 http://test.preprod-apis.lululemon.com
 http://thesweatlife.lululemon.com
@@ -1164,10 +1156,10 @@ https://preview-qa31.preprod.lululemon.com
 https://preview-qa32.preprod.lululemon.com
 https://preview-qa33.preprod.lululemon.com
 https://preview-services.lululemon.com
+https://preview.lululemon.com
 https://qa-identity.lululemon.com
 https://qa-iexpense.lululemon.com
 https://qa-info.eu.lululemon.com
-https://qa-info.lululemon.com
 https://qa-plm.lululemon.com
 https://qa-pnimages.lululemon.com
 https://qa.pos-api.lululemon.com
@@ -1176,19 +1168,10 @@ https://qa2-info.eu.lululemon.com
 https://qa2-info.lululemon.com
 https://qa2-pnimages.lululemon.com
 https://qa2.info.eu.lululemon.com
-https://qa2.info.lululemon.com
-https://qa22.preprod.lululemon.com
 https://qa23.preprod.lululemon.com
-https://qa24.preprod.lululemon.com
-https://qa25.preprod.lululemon.com
 https://qa26.preprod.lululemon.com
-https://qa27.preprod.lululemon.com
-https://qa28.preprod.lululemon.com
-https://qa29.preprod.lululemon.com
-https://qa31.preprod.lululemon.com
 https://qa32.preprod.lululemon.com
 https://qa32.preprod.preprod.lululemon.com
-https://qa33.preprod.lululemon.com
 https://remote.lululemon.com
 https://report.creators.lululemon.com
 https://sandbox-dev.preprod-apis.lululemon.com
@@ -1228,6 +1211,7 @@ https://strategicsales.lululemon.com
 https://summary.creators.lululemon.com
 https://sustainability.eu.lululemon.com
 https://sustainability.lululemon.com
+https://svcs.lululemon.com
 https://test-shop.lululemon.com
 https://test.preprod-apis.lululemon.com
 https://thesweatlife.lululemon.com

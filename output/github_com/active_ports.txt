@@ -16,8 +16,6 @@ andrew-ironforge.github.com:443
 andrew-ironforge.github.com:80
 androxyde.github.com:443
 androxyde.github.com:80
-api.gist.github.com:443
-api.gist.github.com:80
 api.github.com:443
 api.github.com:80
 api.security.github.com:443
@@ -251,8 +249,6 @@ lb-140-82-112-27-iad.github.com:80
 lb-140-82-112-3-iad.github.com:22
 lb-140-82-112-3-iad.github.com:443
 lb-140-82-112-3-iad.github.com:80
-lb-140-82-112-30-iad.github.com:443
-lb-140-82-112-30-iad.github.com:80
 lb-140-82-112-34-iad.github.com:443
 lb-140-82-112-34-iad.github.com:80
 lb-140-82-112-36-iad.github.com:22
@@ -467,8 +463,6 @@ render-lab.github.com:80
 render.github.com:22
 render.github.com:443
 render.github.com:80
-res.communication.github.com:443
-res.communication.github.com:80
 resources.github.com:443
 resources.github.com:80
 rjhansen.github.com:443
@@ -538,10 +532,6 @@ web5622.github.com:443
 web5622.github.com:80
 web6014.github.com:443
 web6014.github.com:80
-workspaces-dev.github.com:443
-workspaces-dev.github.com:80
-workspaces-ppe.github.com:443
-workspaces-ppe.github.com:80
 ws.support.github.com:443
 ws.support.github.com:80
 www.api.security.github.com:443
@@ -553,8 +543,6 @@ www.github.com:443
 www.github.com:80
 www.graphql-stage.github.com:443
 www.graphql-stage.github.com:80
-www.graphql.github.com:443
-www.graphql.github.com:80
 www.jira.github.com:443
 www.jira.github.com:80
 www.networkx.github.com:443
@@ -567,6 +555,8 @@ www.smtp.github.com:443
 www.smtp.github.com:80
 www.support.enterprise.github.com:443
 www.support.enterprise.github.com:80
+www.visualstudio.github.com:443
+www.visualstudio.github.com:80
 xlcteam.github.com:443
 xlcteam.github.com:80
 yanjingcheng.github.com:443

@@ -85,7 +85,6 @@ js.grammarly.com
 localhost.em.grammarly.com
 localhost.security.grammarly.com
 m.grammarly.com
-mercury.grammarly.com
 ms96324907.grammarly.com
 msync-private.grammarly.com
 msync.grammarly.com

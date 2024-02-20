@@ -1,10 +1,13 @@
+http://accounts-ro.zoho.com
+http://analytics.zoho.com:443
 http://analyticsapi.zoho.com
+http://api-console.zoho.com:443
 http://api.creator.zoho.com
 http://api.wiki.zoho.com
-http://apidocs.zoho.com:443
 http://apihelp.zoho.com
 http://assist.zoho.com:443
 http://avcliq.zoho.com
+http://avcliq.zoho.com:443
 http://bigin.zoho.com
 http://billing.zoho.com
 http://blog.zoho.com
@@ -16,6 +19,8 @@ http://blogsint.zoho.com:8080
 http://books.zoho.com
 http://business.zoho.com
 http://calendar.zoho.com
+http://catalyst.zoho.com:443
+http://cdn.zoho.com:443
 http://checkout.zoho.com
 http://cm.zoho.com
 http://commerceplus.zoho.com
@@ -32,7 +37,6 @@ http://customer-recruit.zoho.com
 http://customer-reports.zoho.com
 http://customer-survey.zoho.com
 http://customer-wiki.zoho.com
-http://customer-wms.zoho.com
 http://customer1-creator.zoho.com
 http://customer1-recruit.zoho.com
 http://dashboards.zoho.com
@@ -48,6 +52,7 @@ http://instagramupdate-social.zoho.com
 http://inventory.zoho.com
 http://invoice.zoho.com
 http://kbase.creator.zoho.com
+http://logsapi.zoho.com
 http://mailer-lp.zoho.com
 http://mailer-tu.zoho.com
 http://marketplace.zoho.com
@@ -56,6 +61,7 @@ http://mobile-transmail.zoho.com
 http://mp-img1.zoho.com
 http://mp-img3.zoho.com
 http://mp-img4.zoho.com
+http://mproxy-transmail.zoho.com
 http://notification-kms.zoho.com
 http://notification.bugbounty.zoho.com
 http://notifications-sd.zoho.com
@@ -80,6 +86,8 @@ http://zapi.zoho.com
 http://zohosites.wiki.zoho.com
 http://zs-lc1-19-h2-ro.zoho.com
 http://zs-lc1-19-h2.zoho.com
+http://zs-lc1-19-ro.zoho.com
+http://zs-lc3-19-ro.zoho.com
 http://zs-us4-lcbooks-h2.zoho.com
 http://zurs-1.zoho.com
 http://zurs-2.zoho.com
@@ -146,20 +154,18 @@ https://albuterolsulfate.wiki.zoho.com
 https://alghassani.wiki.zoho.com
 https://allerganlatisse.wiki.zoho.com
 https://aluxner.wiki.zoho.com
-https://analytics.zoho.com
 https://analyticsapi.zoho.com
 https://antivirussoftwarecomparison.adss.wiki.zoho.com
-https://api-console.zoho.com
 https://api.catalyst.zoho.com
 https://api.creator.zoho.com
 https://api.wiki.zoho.com
+https://apidocs.zoho.com
 https://apihelp.wiki.zoho.com
 https://apihelp.zoho.com
 https://appmanager.wiki.zoho.com
 https://asiacalculator.wiki.zoho.com
 https://asthmaalbuterol.wiki.zoho.com
 https://autokaufreak355.wiki.zoho.com
-https://avcliq.zoho.com
 https://bigin.zoho.com
 https://billing.zoho.com
 https://blog.zoho.com
@@ -169,15 +175,12 @@ https://blogs.zoho.com:8443
 https://blogsint.zoho.com
 https://blogsint.zoho.com:8443
 https://bluheron.wiki.zoho.com
-https://bookings.zoho.com
 https://books.zoho.com
 https://bugtracker.zoho.com
 https://business.zoho.com
 https://buycareprost.wiki.zoho.com
 https://calendar.zoho.com
 https://campaigns.zoho.com
-https://catalyst.zoho.com
-https://cdn.zoho.com
 https://chairsanufacture.wiki.zoho.com
 https://charr123r.wiki.zoho.com
 https://chase37craig.wiki.zoho.com
@@ -234,7 +237,6 @@ https://domain.zoho.com
 https://domains.zoho.com
 https://download-accl.zoho.com
 https://download.zoho.com
-https://dre.zoho.com
 https://dysautonomia.wiki.zoho.com
 https://ebranscomb.wiki.zoho.com
 https://elicatel.wiki.zoho.com
@@ -248,7 +250,6 @@ https://files-me-accl.zoho.com
 https://files-me.zoho.com
 https://fireflysystems.wiki.zoho.com
 https://forums.catalyst.zoho.com
-https://forums.zoho.com
 https://gadgets.zoho.com
 https://game1clay.wiki.zoho.com
 https://gamesweplay.wiki.zoho.com
@@ -263,7 +264,6 @@ https://grupoindependientesindical.wiki.zoho.com
 https://health.wiki.zoho.com
 https://help.api.zoho.com
 https://help.discussions.zoho.com
-https://help.zoho.com
 https://hqdung.wiki.zoho.com
 https://html5fukuoka.wiki.zoho.com
 https://hympar.wiki.zoho.com
@@ -296,7 +296,6 @@ https://lesdelicespasteleria.wiki.zoho.com
 https://live.zoho.com
 https://logsapi.zoho.com
 https://lyman2manx.wiki.zoho.com
-https://ma.zoho.com
 https://mail-ro.zoho.com
 https://mail.zoho.com
 https://mailer-lp.zoho.com
@@ -304,11 +303,9 @@ https://mailer-tu.zoho.com
 https://mailwsfree.zoho.com
 https://mailwsorg.zoho.com
 https://maps.zoho.com
-https://marketinghub.zoho.com
 https://marketingplus.zoho.com
 https://marketplace.zoho.com
 https://masterjose07.wiki.zoho.com
-https://me.zoho.com
 https://meet.zoho.com
 https://meeting-monitor.zoho.com
 https://meeting.zoho.com
@@ -329,7 +326,6 @@ https://msync.zoho.com
 https://musicvideo.wiki.zoho.com
 https://nliebeaux.wiki.zoho.com
 https://northerngrids.wiki.zoho.com
-https://notebook.zoho.com
 https://notifications-sd.zoho.com
 https://notifymw.zoho.com
 https://office2010.wiki.zoho.com
@@ -377,6 +373,7 @@ https://reports.wiki.zoho.com
 https://reports.zoho.com
 https://running7continents.wiki.zoho.com
 https://salesiq-ro.zoho.com
+https://salesiq.zoho.com
 https://sdk-apptics.zoho.com
 https://sdlguide.wiki.zoho.com
 https://search360alerts.zoho.com
@@ -452,9 +449,7 @@ https://zohowikihelp.wiki.zoho.com
 https://zs-lc1-19-h2-ro.zoho.com
 https://zs-lc1-19-h2.zoho.com
 https://zs-lc1-19-ro.zoho.com
-https://zs-lc1-19.zoho.com
 https://zs-lc1-25-h2.zoho.com
-https://zs-lc1-25.zoho.com
 https://zs-lc2-19-h2.zoho.com
 https://zs-lc2-19.zoho.com
 https://zs-lc2-25-h2.zoho.com

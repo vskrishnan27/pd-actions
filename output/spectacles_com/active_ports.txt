@@ -46,6 +46,10 @@ ksa-en.orders.spectacles.com:443
 ksa-en.orders.spectacles.com:80
 ksa-en.orders.spectacles.com:8080
 ksa-en.orders.spectacles.com:8443
+orders.spectacles.com:443
+orders.spectacles.com:80
+orders.spectacles.com:8080
+orders.spectacles.com:8443
 pln-pl.orders.spectacles.com:443
 pln-pl.orders.spectacles.com:80
 pln-pl.orders.spectacles.com:8080

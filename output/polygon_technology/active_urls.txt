@@ -97,7 +97,6 @@ http://rpc-edgenet.polygon.technology:8080
 http://rpc-mumbai.polygon.technology
 http://rpc-mumbai.polygon.technology:8080
 http://sdk-docs.polygon.technology
-http://sdk-docs.polygon.technology:443
 http://sdk-docs.polygon.technology:8080
 http://snapshot-download.polygon.technology
 http://snapshot-download.polygon.technology:8080
@@ -221,6 +220,7 @@ https://rpc-edgenet.polygon.technology:8443
 https://rpc-mumbai.polygon.technology
 https://rpc-mumbai.polygon.technology:8443
 https://scim-bridge-1pass.polygon.technology
+https://sdk-docs.polygon.technology
 https://sdk-docs.polygon.technology:8443
 https://snapshot-download.polygon.technology
 https://snapshot-download.polygon.technology:8443

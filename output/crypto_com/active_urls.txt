@@ -6,6 +6,8 @@ http://ablink.serviceinfo.crypto.com
 http://ablink.serviceinfo.crypto.com:8080
 http://advertising.crypto.com
 http://advertising.crypto.com:8080
+http://api.crypto.com
+http://api.crypto.com:8080
 http://app-api.nft.crypto.com
 http://app-api.nft.crypto.com:8080
 http://auth-x.crypto.com
@@ -73,6 +75,8 @@ http://nft.crypto.com
 http://nft.crypto.com:8080
 http://opening-night.crypto.com
 http://opening-night.crypto.com:8080
+http://p.crypto.com
+http://p.crypto.com:8080
 http://pay-api.crypto.com
 http://pay-api.crypto.com:8080
 http://pay-docs.crypto.com
@@ -105,13 +109,13 @@ http://shop-directory.crypto.com
 http://shop-directory.crypto.com:8080
 http://shop.crypto.com
 http://shop.crypto.com:8080
+http://static.crypto.com
+http://static.crypto.com:8080
 http://static2.crypto.com
 http://static2.crypto.com:8080
 http://status.crypto.com
 http://stream.crypto.com
 http://stream.crypto.com:8080
-http://tax.crypto.com
-http://tax.crypto.com:8080
 http://tpp-tmp.crypto.com
 http://tpp-tmp.crypto.com:8080
 http://uat-content-hub.crypto.com
@@ -138,6 +142,8 @@ https://ablink.serviceinfo.crypto.com
 https://ablink.serviceinfo.crypto.com:8443
 https://advertising.crypto.com
 https://advertising.crypto.com:8443
+https://api.crypto.com
+https://api.crypto.com:8443
 https://app-api.nft.crypto.com
 https://app-api.nft.crypto.com:8443
 https://auth-x.crypto.com
@@ -205,6 +211,8 @@ https://nft.crypto.com
 https://nft.crypto.com:8443
 https://opening-night.crypto.com
 https://opening-night.crypto.com:8443
+https://p.crypto.com
+https://p.crypto.com:8443
 https://pay-api.crypto.com
 https://pay-api.crypto.com:8443
 https://pay-docs.crypto.com
@@ -237,13 +245,13 @@ https://shop-directory.crypto.com
 https://shop-directory.crypto.com:8443
 https://shop.crypto.com
 https://shop.crypto.com:8443
+https://static.crypto.com
+https://static.crypto.com:8443
 https://static2.crypto.com
 https://static2.crypto.com:8443
 https://status.crypto.com
 https://stream.crypto.com
 https://stream.crypto.com:8443
-https://tax.crypto.com
-https://tax.crypto.com:8443
 https://tpp-tmp.crypto.com
 https://tpp-tmp.crypto.com:8443
 https://uat-content-hub.crypto.com

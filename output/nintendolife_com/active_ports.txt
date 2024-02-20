@@ -55,6 +55,10 @@ m.nintendolife.com:80
 maliaeroports.comwww.nintendolife.com:22
 maliaeroports.comwww.nintendolife.com:443
 maliaeroports.comwww.nintendolife.com:80
+nintendolife.com:443
+nintendolife.com:80
+nintendolife.com:8080
+nintendolife.com:8443
 pfadev.dijgtal.comwww.nintendolife.com:22
 pfadev.dijgtal.comwww.nintendolife.com:443
 pfadev.dijgtal.comwww.nintendolife.com:80
@@ -73,9 +77,6 @@ static.nintendolife.com:8443
 support.nintendolife.com:22
 support.nintendolife.com:443
 support.nintendolife.com:80
-vc.nintendolife.com:22
-vc.nintendolife.com:443
-vc.nintendolife.com:80
 wii.nintendolife.com:22
 wii.nintendolife.com:443
 wii.nintendolife.com:80
@@ -88,6 +89,9 @@ wiiu.nintendolife.com:80
 wiiware.nintendolife.com:22
 wiiware.nintendolife.com:443
 wiiware.nintendolife.com:80
+ww.nintendolife.com:22
+ww.nintendolife.com:443
+ww.nintendolife.com:80
 www.nintendolife.com:443
 www.nintendolife.com:80
 www.nintendolife.com:8080

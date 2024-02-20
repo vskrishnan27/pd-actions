@@ -1,4 +1,3 @@
-forescout.com
 trustpilot.com
 magic.link
 miro.com
@@ -77,3 +76,4 @@ freshworks.com
 zoho.com
 exodus.com
 basecamp.com
+forescout.com

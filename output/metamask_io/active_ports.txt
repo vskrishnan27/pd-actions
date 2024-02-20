@@ -176,6 +176,8 @@ metabase.activity.metamask.io:443
 metabase.activity.metamask.io:80
 metabase.activity.metamask.io:8080
 metabase.activity.metamask.io:8443
+metamask.io:443
+metamask.io:80
 mobile.metamask.io:443
 mobile.metamask.io:80
 mobile.metamask.io:8080

@@ -1,4 +1,3 @@
-skale.network
 gitlab.com
 github.com
 ui.com
@@ -77,3 +76,4 @@ wickr.com
 crypto.com
 coinspot.com.au
 metamask.io
+skale.network

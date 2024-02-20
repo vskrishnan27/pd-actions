@@ -17,7 +17,6 @@ http://ic.indrive.com
 http://id.indrive.com
 http://inapps.indrive.com
 http://inapps2.indrive.com
-http://indrive.com
 http://injob.indrive.com
 http://intercity.indrive.com
 http://internal.delivery.indrive.com
@@ -49,6 +48,7 @@ http://www.beginit.indrive.com
 http://www.book.indrive.com
 http://www.indrive.com
 http://www.intercity.indrive.com
+http://www.lp-food.indrive.com
 http://www.lp-services.indrive.com
 http://www.sparklab.indrive.com
 http://www.supernovas.indrive.com
@@ -74,7 +74,6 @@ https://ic.indrive.com
 https://id.indrive.com
 https://inapps.indrive.com
 https://inapps2.indrive.com
-https://indrive.com
 https://injob.indrive.com
 https://intercity.indrive.com
 https://internal.delivery.indrive.com

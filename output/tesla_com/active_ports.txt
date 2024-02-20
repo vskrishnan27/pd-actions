@@ -289,6 +289,7 @@ kronos-dev.tesla.com:443
 kronos-dev.tesla.com:80
 kronos.tesla.com:443
 kronos.tesla.com:80
+lax32-gpgw1.tesla.com:443
 link.qa.tesla.com:443
 link.qa.tesla.com:80
 link.tesla.com:443
@@ -313,8 +314,6 @@ mfa-stage.tesla.com:443
 mfa-stage.tesla.com:80
 mfa.tesla.com:443
 mfa.tesla.com:80
-mfs-supplier-uat.tesla.com:443
-mfs-supplier-uat.tesla.com:80
 mfs-supplier.tesla.com:443
 mfs-supplier.tesla.com:80
 mobile-links-cdn.eng.vn.cloud.tesla.com:443
@@ -326,8 +325,6 @@ mobile-links.prd.vn.cloud.tesla.com:443
 mobile-ops-links.prd.vn.cloud.tesla.com:443
 mobile.tesla.com:443
 mobile.tesla.com:80
-monitoring.tesla.com:443
-monitoring.tesla.com:80
 myapps.tesla.com:443
 myapps.tesla.com:80
 npuv-prd.usw2.vn.cloud.tesla.com:443
@@ -341,6 +338,8 @@ origin-sspr.tesla.com:443
 origin-sspr.tesla.com:80
 origin-www.tesla.com:443
 origin-wwwcdn.tesla.com:443
+ownership.tesla.com:443
+ownership.tesla.com:80
 pages.email.tesla.com:443
 pages.email.tesla.com:80
 pages.emails.tesla.com:443
@@ -351,8 +350,6 @@ pay.tesla.com:443
 pay.tesla.com:80
 payment-public-stg.tesla.com:443
 pm-bounces.tesla.com:80
-powerhub.energy.tesla.com:443
-powerhub.energy.tesla.com:80
 profile.tesla.com:443
 profile.tesla.com:80
 pub.email.tesla.com:443

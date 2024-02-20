@@ -32,10 +32,6 @@ nbaguide.sorare.com:443
 nbaguide.sorare.com:80
 nbaguide.sorare.com:8080
 nbaguide.sorare.com:8443
-sorare.com:443
-sorare.com:80
-sorare.com:8080
-sorare.com:8443
 status.sorare.com:443
 status.sorare.com:80
 status.sorare.com:8080

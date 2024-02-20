@@ -113,6 +113,10 @@ cloud-api.coinbase.com:8080
 cloud-api.coinbase.com:8443
 cloud-docs-beta.coinbase.com:443
 cloud-docs-beta.coinbase.com:80
+cloud.coinbase.com:443
+cloud.coinbase.com:80
+cloud.coinbase.com:8080
+cloud.coinbase.com:8443
 cohort-service.crypto.coinbase.com:443
 cohort-service.crypto.coinbase.com:80
 cohort-service.crypto.coinbase.com:8080

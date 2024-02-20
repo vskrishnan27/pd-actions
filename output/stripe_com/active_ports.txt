@@ -158,7 +158,6 @@ gator.stripe.com:443
 gator.stripe.com:80
 gems.stripe.com:443
 gems.stripe.com:80
-git.corp.stripe.com:443
 global.stripe.com:443
 global.stripe.com:80
 groups.stripe.com:443
@@ -199,8 +198,6 @@ lokalise-hooks.stripe.com:80
 m.stripe.com:443
 mail.stripe.com:443
 mail.stripe.com:80
-manage.stripe.com:443
-manage.stripe.com:80
 marketplace.stripe.com:443
 marketplace.stripe.com:80
 media.stripe.com:443
@@ -243,6 +240,8 @@ prod-webhooks-flow.stripe.com:443
 prod-webhooks-flow.stripe.com:80
 products.stripe.com:443
 products.stripe.com:80
+public.stripe.com:443
+public.stripe.com:80
 q.stripe.com:443
 q.stripe.com:80
 qa-api-global-bluegreen.stripe.com:443
@@ -299,8 +298,6 @@ support-conversations.stripe.com:443
 support-conversations.stripe.com:80
 support.stripe.com:443
 support.stripe.com:80
-t.stripe.com:443
-t.stripe.com:80
 terminal-simulator.stripe.com:443
 terminal-simulator.stripe.com:80
 terminal.stripe.com:443

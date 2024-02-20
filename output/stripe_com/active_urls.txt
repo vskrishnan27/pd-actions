@@ -18,7 +18,6 @@ http://buy.stripe.com
 http://calendar.stripe.com
 http://cdg.corp.stripe.com:443
 http://cgk.corp.stripe.com:443
-http://checkout-cookies.stripe.com
 http://checkout.stripe.com
 http://climate.stripe.com
 http://cmh.corp.stripe.com:443
@@ -82,7 +81,6 @@ http://frontend-global-tree.stripe.com
 http://gateway.stripe.com
 http://gator.stripe.com
 http://gems.stripe.com
-http://git.corp.stripe.com:443
 http://global.stripe.com
 http://groups.stripe.com
 http://hooks.stripe.com
@@ -103,7 +101,6 @@ http://lists.stripe.com
 http://local.corp.stripe.com:443
 http://lokalise-hooks.stripe.com
 http://mail.stripe.com
-http://manage.stripe.com
 http://marketplace.stripe.com
 http://media.stripe.com
 http://merchant-ui-api.stripe.com
@@ -130,6 +127,7 @@ http://prod-js-tree.stripe.com
 http://prod-js-tree.stripe.com:443
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
+http://public.stripe.com
 http://q.stripe.com
 http://qa-api-global-bluegreen.stripe.com
 http://qa-api.stripe.com
@@ -161,7 +159,6 @@ http://stripe-cli.stripe.com
 http://stripecli-ws-nw.stripe.com
 http://support-conversations.stripe.com
 http://support.stripe.com
-http://t.stripe.com
 http://terminal-simulator.stripe.com
 http://terminal.stripe.com
 http://uploads.stripe.com
@@ -266,7 +263,6 @@ https://lists.stripe.com
 https://lokalise-hooks.stripe.com
 https://m.stripe.com
 https://mail.stripe.com
-https://manage.stripe.com
 https://marketplace.stripe.com
 https://media.stripe.com
 https://merchant-ui-api.stripe.com
@@ -283,6 +279,7 @@ https://prod-files-flow.stripe.com
 https://prod-frontend-flow.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
+https://public.stripe.com
 https://q.stripe.com
 https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com
@@ -306,7 +303,6 @@ https://stripe-cli.stripe.com
 https://stripecli-ws-nw.stripe.com
 https://support-conversations.stripe.com
 https://support.stripe.com
-https://t.stripe.com
 https://terminal-simulator.stripe.com
 https://terminal.stripe.com
 https://uploads.stripe.com

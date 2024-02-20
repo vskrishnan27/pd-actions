@@ -6,10 +6,6 @@ api.magic.link:443
 api.magic.link:80
 api.magic.link:8080
 api.magic.link:8443
-api.stagef.magic.link:443
-api.stagef.magic.link:80
-api.stagef.magic.link:8080
-api.stagef.magic.link:8443
 assets.auth.dev.magic.link:443
 assets.auth.dev.magic.link:80
 assets.auth.dev.magic.link:8080
@@ -118,6 +114,10 @@ landing.magic.link:8080
 landing.magic.link:8443
 links.magic.link:443
 links.magic.link:80
+magic.link:443
+magic.link:80
+magic.link:8080
+magic.link:8443
 next-dev.magic.link:443
 next-dev.magic.link:80
 next-stage.magic.link:443

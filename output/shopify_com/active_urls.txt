@@ -168,6 +168,8 @@ http://classic-help-staging.shopify.com
 http://classic-help.shopify.com
 http://classifieds.shopify.com
 http://classifieds.shopify.com:8080
+http://click.email.shopify.com
+http://click.email.shopify.com:8080
 http://cms.everest.shopify.com
 http://cms.everest.shopify.com:8080
 http://cms.shopify.com
@@ -392,6 +394,8 @@ http://ihatewhatever.shopify.com
 http://ihatewhatever.shopify.com:8080
 http://image.email.shopify.com
 http://image.email.shopify.com:8080
+http://in.shopify.com
+http://in.shopify.com:8080
 http://inbox.shopify.com
 http://inbox.shopify.com:8080
 http://incoming.shopify.com
@@ -463,8 +467,6 @@ http://locality.shopify.com
 http://locality.shopify.com:8080
 http://localsession.shopify.com
 http://localsession.shopify.com:8080
-http://log1.ash.shopify.com
-http://log1.ash.shopify.com:8080
 http://login.community-stage.shopify.com
 http://login.community-stage.shopify.com:8080
 http://login.community.shopify.com
@@ -517,8 +519,8 @@ http://milestones.shopify.com
 http://milestones.shopify.com:8080
 http://mobile.shopify.com
 http://mobile.shopify.com:8080
-http://mta2.email.shopify.com
-http://mta2.email.shopify.com:8080
+http://mta.email.shopify.com
+http://mta.email.shopify.com:8080
 http://mta3.email.shopify.com
 http://mta3.email.shopify.com:8080
 http://mta4.email.shopify.com
@@ -690,13 +692,13 @@ http://shopify-plus-meet-up.shopify.com
 http://shopify-plus-meet-up.shopify.com:8080
 http://simba-sleep.shopify.com
 http://simba-sleep.shopify.com:8080
+http://site.email.shopify.com
+http://site.email.shopify.com:8080
 http://sl.shopify.com
 http://sl2.shopify.com
 http://sl3.shopify.com
 http://slapshot.shopify.com
 http://slapshot.shopify.com:8080
-http://smarter-tv.shopify.com
-http://smarter-tv.shopify.com:8080
 http://smiley-staging.shopify.com
 http://smiley-staging.shopify.com:8080
 http://smiley.shopify.com
@@ -886,6 +888,8 @@ http://vaultapp1.ec2.shopify.com
 http://vaultapp1.ec2.shopify.com:8080
 http://videomaker.shopify.com
 http://videomaker.shopify.com:8080
+http://view.email.shopify.com
+http://view.email.shopify.com:8080
 http://vision.shopify.com
 http://vision.shopify.com:8080
 http://wc.shopify.com
@@ -1096,6 +1100,8 @@ https://classic-help-staging.shopify.com
 https://classic-help.shopify.com
 https://classifieds.shopify.com
 https://classifieds.shopify.com:8443
+https://click.email.shopify.com
+https://click.email.shopify.com:8443
 https://cms.everest.shopify.com
 https://cms.everest.shopify.com:8443
 https://cms.shopify.com
@@ -1323,6 +1329,8 @@ https://ihatewhatever.shopify.com
 https://ihatewhatever.shopify.com:8443
 https://image.email.shopify.com
 https://image.email.shopify.com:8443
+https://in.shopify.com
+https://in.shopify.com:8443
 https://inbox.shopify.com
 https://inbox.shopify.com:8443
 https://incoming.shopify.com
@@ -1394,8 +1402,6 @@ https://locality.shopify.com
 https://locality.shopify.com:8443
 https://localsession.shopify.com
 https://localsession.shopify.com:8443
-https://log1.ash.shopify.com
-https://log1.ash.shopify.com:8443
 https://login.community-stage.shopify.com
 https://login.community-stage.shopify.com:8443
 https://login.community.shopify.com
@@ -1448,8 +1454,8 @@ https://milestones.shopify.com
 https://milestones.shopify.com:8443
 https://mobile.shopify.com
 https://mobile.shopify.com:8443
-https://mta2.email.shopify.com
-https://mta2.email.shopify.com:8443
+https://mta.email.shopify.com
+https://mta.email.shopify.com:8443
 https://mta3.email.shopify.com
 https://mta3.email.shopify.com:8443
 https://mta4.email.shopify.com
@@ -1622,13 +1628,13 @@ https://shopify-plus-meet-up.shopify.com
 https://shopify-plus-meet-up.shopify.com:8443
 https://simba-sleep.shopify.com
 https://simba-sleep.shopify.com:8443
+https://site.email.shopify.com
+https://site.email.shopify.com:8443
 https://sl.shopify.com
 https://sl2.shopify.com
 https://sl3.shopify.com
 https://slapshot.shopify.com
 https://slapshot.shopify.com:8443
-https://smarter-tv.shopify.com
-https://smarter-tv.shopify.com:8443
 https://smiley-staging.shopify.com
 https://smiley-staging.shopify.com:8443
 https://smiley.shopify.com
@@ -1818,6 +1824,8 @@ https://vaultapp1.ec2.shopify.com
 https://vaultapp1.ec2.shopify.com:8443
 https://videomaker.shopify.com
 https://videomaker.shopify.com:8443
+https://view.email.shopify.com
+https://view.email.shopify.com:8443
 https://vision.shopify.com
 https://vision.shopify.com:8443
 https://wc.shopify.com

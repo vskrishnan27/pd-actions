@@ -78,6 +78,7 @@ http://expw-b-envproxy-use1.dev.rs.ring.com
 http://fileupload.cs-tools.dev.ring.com
 http://fileupload.cs-tools.ring.com
 http://firmwares.dev.ring.com
+http://firmwares.dev.ring.com:8080
 http://firmwares.dev.ring.com:8443
 http://firmwares.qa.ring.com
 http://firmwares.qa.ring.com:8443
@@ -187,7 +188,6 @@ http://videorequests.nw.dev.ring.com
 http://videorequests.nw.qa.ring.com
 http://videorequests.nw.ring.com
 http://wu.dev.ring.com
-http://wu.dev.ring.com:8080
 http://wu.dev.ring.com:8443
 http://wu.qa.ring.com
 http://wu.qa.ring.com:8443
@@ -389,6 +389,7 @@ https://nh-mobile-config.dev.ring.com
 https://nh-mobile-config.qa.ring.com
 https://nh-mobile-config.ring.com
 https://nhadmin.dev.ring.com
+https://nhadmin.qa.ring.com
 https://nhadmin.ring.com
 https://nl-nl.ring.com
 https://nl-nl.ring.com:8443

@@ -8,6 +8,7 @@ http://itsm.recargapay.com.br
 http://itsm.recargapay.com.br:8080
 http://itsm.recargapay.com.br:8443
 http://link.recargapay.com.br
+http://mtls-dapi.of.recargapay.com.br
 http://recargapay.com.br
 http://www.recargapay.com.br
 https://api.of.recargapay.com.br

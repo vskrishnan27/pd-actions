@@ -1,0 +1,1 @@
+[CVE-2017-5487:usernames] [http] [medium] https://krisp.ai/?rest_route=/wp/v2/users/ [Krisp,krispTeam,arbiz,krisp,blogkrisp2,Arbi Zargarian]

@@ -56,10 +56,13 @@ info.hedera.com:8443
 learn.hedera.com:443
 learn.hedera.com:80
 mainnet-private.mirrornode.hedera.com:443
+mainnet-private.mirrornode.hedera.com:5101
 mainnet-private.mirrornode.hedera.com:80
 mainnet-public.mirrornode.hedera.com:443
+mainnet-public.mirrornode.hedera.com:5101
 mainnet-public.mirrornode.hedera.com:80
 mainnet.mirrornode.hedera.com:443
+mainnet.mirrornode.hedera.com:5101
 mainnet.mirrornode.hedera.com:80
 members.hedera.com:25
 members.hedera.com:3306

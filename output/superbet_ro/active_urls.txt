@@ -57,6 +57,7 @@ http://suport.superbet.ro:8080
 http://suport.superbet.ro:8443
 http://tableau.superbet.ro
 http://tickets.web.superbet.ro
+http://tricousuperliga.superbet.ro
 http://www.club.dev.superbet.ro
 http://www.club.stage.superbet.ro
 http://www.dev.superbet.ro
@@ -123,6 +124,7 @@ https://superprono.superbet.ro
 https://suport.superbet.ro
 https://tableau.superbet.ro
 https://tickets.web.superbet.ro
+https://tricousuperliga.superbet.ro
 https://www.club.dev.superbet.ro
 https://www.club.stage.superbet.ro
 https://www.dev.superbet.ro

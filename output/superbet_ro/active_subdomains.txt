@@ -77,6 +77,7 @@ suport.superbet.ro
 tableau.superbet.ro
 test.learning.superbet.ro
 tickets.web.superbet.ro
+tricousuperliga.superbet.ro
 www.club.dev.superbet.ro
 www.club.stage.superbet.ro
 www.dev.superbet.ro

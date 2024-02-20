@@ -16,6 +16,7 @@ http://autenticar.hostinger.com
 http://autentificacion.hostinger.com
 http://autentificar.hostinger.com
 http://auth.hostinger.com
+http://auth.hostinger.com:8080
 http://auth.hostinger.com:8443
 http://autoconfig.mail.hostinger.com
 http://autodiscover.mail.hostinger.com
@@ -41,6 +42,7 @@ http://d.email.hostinger.com:8443
 http://design.hostinger.com
 http://dogrula.hostinger.com
 http://domains.hostinger.com
+http://domains.hostinger.com:8080
 http://domains.hostinger.com:8443
 http://e.account.hostinger.com
 http://e.account.hostinger.com:8080
@@ -57,7 +59,6 @@ http://flockmail.hostinger.com
 http://help.hostinger.com
 http://help.hostinger.com:8080
 http://hpanel.hostinger.com
-http://hpanel.hostinger.com:8080
 http://hpanel.hostinger.com:8443
 http://kontroll.hostinger.com
 http://mail.hostinger.com
@@ -73,6 +74,7 @@ http://potvrzeni.hostinger.com
 http://rdns1.hostinger.com
 http://rdns1.hostinger.com:8080
 http://rest-hosting.hostinger.com
+http://rest-hosting.hostinger.com:8080
 http://rest-hosting.hostinger.com:8443
 http://roadmap.hostinger.com
 http://roadmap.hostinger.com:8443

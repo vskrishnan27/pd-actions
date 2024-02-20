@@ -111,10 +111,6 @@ support.testnet.services.bitmex.com:443
 support.testnet.services.bitmex.com:80
 testnet-static.bitmex.com:443
 testnet-static.bitmex.com:80
-testnet.bitmex.com:443
-testnet.bitmex.com:80
-testnet.bitmex.com:8080
-testnet.bitmex.com:8443
 testnet2.bitmex.com:443
 testnet2.bitmex.com:80
 token.bitmex.com:443

@@ -18,7 +18,6 @@ http://bib.sc-corp.net
 http://build-hook-beta.sc-corp.net
 http://build-hook-prod.sc-corp.net
 http://build-hook-stage.sc-corp.net
-http://builds.sc-corp.net
 http://ca-dev.sc-corp.net
 http://ca-prod.sc-corp.net
 http://campaign-management-beta.sc-corp.net
@@ -139,6 +138,7 @@ http://neo4j-prod.sc-corp.net
 http://neo4j-staging.sc-corp.net
 http://neo4j.sc-corp.net
 http://okr.sc-corp.net
+http://okta-preview.sc-corp.net
 http://olympus-staging.secproxy.sc-corp.net
 http://orca.sc-corp.net
 http://perf.sc-corp.net
@@ -238,7 +238,6 @@ https://bib.sc-corp.net
 https://build-hook-beta.sc-corp.net
 https://build-hook-prod.sc-corp.net
 https://build-hook-stage.sc-corp.net
-https://builds.sc-corp.net
 https://ca-dev.sc-corp.net
 https://ca-prod.sc-corp.net
 https://campaign-management-beta.sc-corp.net
@@ -291,7 +290,6 @@ https://engflow-cache.sc-corp.net
 https://expresso.sc-corp.net
 https://facet-staging.sc-corp.net
 https://facet.sc-corp.net
-https://fleetdm-proxy.sc-corp.net
 https://fleetdm.sc-corp.net
 https://flowrida-ad-insights.sc-corp.net
 https://flowrida-ad-ranking.sc-corp.net
@@ -370,6 +368,7 @@ https://neo4j-prod.sc-corp.net
 https://neo4j-staging.sc-corp.net
 https://neo4j.sc-corp.net
 https://okr.sc-corp.net
+https://okta-preview.sc-corp.net
 https://olympus-staging.secproxy.sc-corp.net
 https://orca.sc-corp.net
 https://perf.sc-corp.net

@@ -3,6 +3,9 @@ http://account.krisp.ai:8080
 http://analytics.krisp.ai
 http://analytics.krisp.ai:8080
 http://analytics.krisp.ai:8443
+http://api.krisp.ai
+http://api.krisp.ai:8080
+http://api.krisp.ai:8443
 http://app.krisp.ai
 http://app.krisp.ai:8080
 http://bid47kc.4042051m.krisp.ai
@@ -22,12 +25,14 @@ http://dev.new.account.krisp.ai:8443
 http://dev.upld.krisp.ai
 http://dev.upld.krisp.ai:8080
 http://dev.upld.krisp.ai:8443
+http://download.krisp.ai
+http://download.krisp.ai:8080
+http://download.krisp.ai:8443
 http://files.krisp.ai
 http://files.prelive.krisp.ai
 http://help-jp.krisp.ai
 http://help.krisp.ai
 http://help.krisp.ai:8080
-http://help.krisp.ai:8443
 http://jobs.krisp.ai
 http://jobs.krisp.ai:8080
 http://jpmchase-uat.krisp.ai
@@ -93,6 +98,9 @@ http://teams.krisp.ai:8080
 http://teams.krisp.ai:8443
 http://ui.krisp.ai
 http://ui.krisp.ai:8080
+http://upld.krisp.ai
+http://upld.krisp.ai:8080
+http://upld.krisp.ai:8443
 http://upload.krisp.ai
 http://url5145.krisp.ai
 http://url5145.krisp.ai:8080
@@ -109,6 +117,7 @@ http://www.krisp.ai:8443
 https://account.krisp.ai
 https://account.krisp.ai:8443
 https://analytics.krisp.ai
+https://api.krisp.ai
 https://api.prelive.krisp.ai
 https://app.krisp.ai
 https://app.krisp.ai:8443
@@ -123,10 +132,12 @@ https://dev.app.krisp.ai:8443
 https://dev.new.account.krisp.ai
 https://dev.r.krisp.ai
 https://dev.upld.krisp.ai
+https://download.krisp.ai
 https://files.krisp.ai
 https://files.prelive.krisp.ai
 https://help-jp.krisp.ai
 https://help.krisp.ai
+https://help.krisp.ai:8443
 https://jobs.krisp.ai
 https://jobs.krisp.ai:8443
 https://jpmchase-uat.krisp.ai
@@ -172,6 +183,7 @@ https://syn-bt2ywgclz3.api.krisp.ai
 https://teams.krisp.ai
 https://ui.krisp.ai
 https://ui.krisp.ai:8443
+https://upld.krisp.ai
 https://upload.krisp.ai
 https://url5145.krisp.ai
 https://voice-ai-newsletter.krisp.ai

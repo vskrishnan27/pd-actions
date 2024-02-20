@@ -6,6 +6,10 @@ analytics.krisp.ai:443
 analytics.krisp.ai:80
 analytics.krisp.ai:8080
 analytics.krisp.ai:8443
+api.krisp.ai:443
+api.krisp.ai:80
+api.krisp.ai:8080
+api.krisp.ai:8443
 api.prelive.krisp.ai:443
 app.krisp.ai:443
 app.krisp.ai:80
@@ -40,6 +44,10 @@ dev.upld.krisp.ai:443
 dev.upld.krisp.ai:80
 dev.upld.krisp.ai:8080
 dev.upld.krisp.ai:8443
+download.krisp.ai:443
+download.krisp.ai:80
+download.krisp.ai:8080
+download.krisp.ai:8443
 files.krisp.ai:443
 files.krisp.ai:80
 files.prelive.krisp.ai:443
@@ -160,6 +168,10 @@ ui.krisp.ai:443
 ui.krisp.ai:80
 ui.krisp.ai:8080
 ui.krisp.ai:8443
+upld.krisp.ai:443
+upld.krisp.ai:80
+upld.krisp.ai:8080
+upld.krisp.ai:8443
 upload.krisp.ai:443
 upload.krisp.ai:80
 url5145.krisp.ai:443

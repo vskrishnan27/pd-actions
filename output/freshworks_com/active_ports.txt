@@ -332,6 +332,8 @@ enpersona360.freshworks.com:443
 enpersona360.freshworks.com:80
 ensorit.freshworks.com:443
 ensorit.freshworks.com:80
+erpis.freshworks.com:443
+erpis.freshworks.com:80
 essentialssupport.freshworks.com:443
 essentialssupport.freshworks.com:80
 esusaps.freshworks.com:443
@@ -475,8 +477,6 @@ imperativechemicalshelp.freshworks.com:443
 imperativechemicalshelp.freshworks.com:80
 in.accounts.freshworks.com:443
 in.accounts.freshworks.com:80
-in.freshworks.com:443
-in.freshworks.com:80
 ind-widget.freshworks.com:443
 ind-widget.freshworks.com:80
 indexer.freshworks.com:443
@@ -716,10 +716,10 @@ ubx-au.freshworks.com:443
 ubx-au.freshworks.com:80
 ubx-eu.freshworks.com:443
 ubx-eu.freshworks.com:80
-ubx-in.freshworks.com:443
-ubx-in.freshworks.com:80
 ubx-mec.freshworks.com:443
 ubx-mec.freshworks.com:80
+ubx.freshworks.com:443
+ubx.freshworks.com:80
 uecelectronics.freshworks.com:443
 uecelectronics.freshworks.com:80
 umt1.freshworks.com:443

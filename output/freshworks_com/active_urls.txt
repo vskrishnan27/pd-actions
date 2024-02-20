@@ -113,6 +113,7 @@ http://elitetechus.freshworks.com
 http://engage.freshworks.com
 http://enpersona360.freshworks.com
 http://ensorit.freshworks.com
+http://erpis.freshworks.com
 http://essentialssupport.freshworks.com
 http://esusaps.freshworks.com
 http://eu.accounts.freshworks.com
@@ -184,7 +185,6 @@ http://huboo.freshworks.com
 http://iemanet.freshworks.com
 http://imperativechemicalshelp.freshworks.com
 http://in.accounts.freshworks.com
-http://in.freshworks.com
 http://ind-widget.freshworks.com
 http://indexer.freshworks.com
 http://ingeniacommunities.freshworks.com
@@ -303,8 +303,8 @@ http://trust.freshworks.com
 http://trust.internal.freshworks.com
 http://ubx-au.freshworks.com
 http://ubx-eu.freshworks.com
-http://ubx-in.freshworks.com
 http://ubx-mec.freshworks.com
+http://ubx.freshworks.com
 http://uecelectronics.freshworks.com
 http://umt1.freshworks.com
 http://unacademy-team.freshworks.com
@@ -472,6 +472,7 @@ https://elitetechus.freshworks.com
 https://engage.freshworks.com
 https://enpersona360.freshworks.com
 https://ensorit.freshworks.com
+https://erpis.freshworks.com
 https://essentialssupport.freshworks.com
 https://esusaps.freshworks.com
 https://eu.accounts.freshworks.com
@@ -544,7 +545,6 @@ https://huboo.freshworks.com
 https://iemanet.freshworks.com
 https://imperativechemicalshelp.freshworks.com
 https://in.accounts.freshworks.com
-https://in.freshworks.com
 https://ind-widget.freshworks.com
 https://indexer.freshworks.com
 https://ingeniacommunities.freshworks.com
@@ -554,6 +554,7 @@ https://integrations.freshworks.com
 https://internalreferral.freshworks.com
 https://intuitionpublishingltd.freshworks.com
 https://invohealthcare.freshworks.com
+https://ir.freshworks.com
 https://istonline.freshworks.com
 https://jacoinchelp.freshworks.com
 https://janlinders.freshworks.com
@@ -661,8 +662,8 @@ https://trust.freshworks.com
 https://trust.internal.freshworks.com
 https://ubx-au.freshworks.com
 https://ubx-eu.freshworks.com
-https://ubx-in.freshworks.com
 https://ubx-mec.freshworks.com
+https://ubx.freshworks.com
 https://uecelectronics.freshworks.com
 https://umt1.freshworks.com
 https://unacademy-team.freshworks.com

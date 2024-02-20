@@ -11,6 +11,8 @@ accelerate-ui-stg.launchdarkly.com
 accelerate-ui.launchdarkly.com
 accelerate.app.launchdarkly.com
 accelerate.ld-stg.launchdarkly.com
+api.account-prov.prod.tools.launchdarkly.com
+api.account-prov.stg.tools.launchdarkly.com
 api.deploy.launchdarkly.com
 apidocs.launchdarkly.com
 app-east.intuit.launchdarkly.com
@@ -191,7 +193,6 @@ mobile.intuit.launchdarkly.com
 mobile.launchdarkly.com
 msteams-stg.launchdarkly.com
 msteams.launchdarkly.com
-orders.account-prov.prod.tools.launchdarkly.com
 partnersupport.launchdarkly.com
 pubnubtest.launchdarkly.com
 resources.launchdarkly.com

@@ -31,6 +31,9 @@ deltaconsultoresnoa.comwww.nintendolife.com:80
 dev.nintendolife.com:22
 dev.nintendolife.com:443
 dev.nintendolife.com:80
+ds.nintendolife.com:22
+ds.nintendolife.com:443
+ds.nintendolife.com:80
 dsiware.nintendolife.com:22
 dsiware.nintendolife.com:443
 dsiware.nintendolife.com:80
@@ -89,9 +92,6 @@ wiiu.nintendolife.com:80
 wiiware.nintendolife.com:22
 wiiware.nintendolife.com:443
 wiiware.nintendolife.com:80
-ww.nintendolife.com:22
-ww.nintendolife.com:443
-ww.nintendolife.com:80
 www.nintendolife.com:443
 www.nintendolife.com:80
 www.nintendolife.com:8080

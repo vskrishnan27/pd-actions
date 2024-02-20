@@ -28,6 +28,8 @@
 3ds.nintendolife.com
 3ds.nintendolife.com
 3ds.nintendolife.com
+3ds.nintendolife.com
+3dsvc.nintendolife.com
 3dsvc.nintendolife.com
 3dsvc.nintendolife.com
 3dsvc.nintendolife.com
@@ -88,6 +90,8 @@
 3dsware.nintendolife.com
 3dsware.nintendolife.com
 3dsware.nintendolife.com
+3dsware.nintendolife.com
+api.nintendolife.com
 api.nintendolife.com
 api.nintendolife.com
 api.nintendolife.com
@@ -148,6 +152,8 @@ beta.nintendolife.com
 beta.nintendolife.com
 beta.nintendolife.com
 beta.nintendolife.com
+beta.nintendolife.com
+cdn.nintendolife.com
 cdn.nintendolife.com
 cdn.nintendolife.com
 cdn.nintendolife.com
@@ -207,6 +213,8 @@ codes.nintendolife.com
 codes.nintendolife.com
 codes.nintendolife.com
 codes.nintendolife.com
+codes.nintendolife.com
+default.nintendolife.com
 default.nintendolife.com
 default.nintendolife.com
 default.nintendolife.com
@@ -267,6 +275,8 @@ deltaconsultoresnoa.comwww.nintendolife.com
 deltaconsultoresnoa.comwww.nintendolife.com
 deltaconsultoresnoa.comwww.nintendolife.com
 deltaconsultoresnoa.comwww.nintendolife.com
+deltaconsultoresnoa.comwww.nintendolife.com
+dev.nintendolife.com
 dev.nintendolife.com
 dev.nintendolife.com
 dev.nintendolife.com
@@ -327,6 +337,8 @@ ds.nintendolife.com
 ds.nintendolife.com
 ds.nintendolife.com
 ds.nintendolife.com
+ds.nintendolife.com
+dsiware.nintendolife.com
 dsiware.nintendolife.com
 dsiware.nintendolife.com
 dsiware.nintendolife.com
@@ -387,6 +399,8 @@ fpdual.faecta.coopwww.nintendolife.com
 fpdual.faecta.coopwww.nintendolife.com
 fpdual.faecta.coopwww.nintendolife.com
 fpdual.faecta.coopwww.nintendolife.com
+fpdual.faecta.coopwww.nintendolife.com
+fs.nintendolife.com
 fs.nintendolife.com
 fs.nintendolife.com
 fs.nintendolife.com
@@ -447,6 +461,8 @@ gmgroup.co.thwww.nintendolife.com
 gmgroup.co.thwww.nintendolife.com
 gmgroup.co.thwww.nintendolife.com
 gmgroup.co.thwww.nintendolife.com
+gmgroup.co.thwww.nintendolife.com
+gogaragedoorrepairor.repairwww.nintendolife.com
 gogaragedoorrepairor.repairwww.nintendolife.com
 gogaragedoorrepairor.repairwww.nintendolife.com
 gogaragedoorrepairor.repairwww.nintendolife.com
@@ -507,6 +523,7 @@ images.nintendolife.com
 images.nintendolife.com
 images.nintendolife.com
 images.nintendolife.com
+images.nintendolife.com
 m.nintendolife.com
 m.nintendolife.com
 m.nintendolife.com
@@ -537,6 +554,8 @@ m.nintendolife.com
 m.nintendolife.com
 m.nintendolife.com
 m.nintendolife.com
+m.nintendolife.com
+maliaeroports.comwww.nintendolife.com
 maliaeroports.comwww.nintendolife.com
 maliaeroports.comwww.nintendolife.com
 maliaeroports.comwww.nintendolife.com
@@ -596,6 +615,8 @@ nintendolife.com
 nintendolife.com
 nintendolife.com
 nintendolife.com
+nintendolife.com
+pfadev.dijgtal.comwww.nintendolife.com
 pfadev.dijgtal.comwww.nintendolife.com
 pfadev.dijgtal.comwww.nintendolife.com
 pfadev.dijgtal.comwww.nintendolife.com
@@ -656,6 +677,8 @@ retro.nintendolife.com
 retro.nintendolife.com
 retro.nintendolife.com
 retro.nintendolife.com
+retro.nintendolife.com
+snes.nintendolife.com
 snes.nintendolife.com
 snes.nintendolife.com
 snes.nintendolife.com
@@ -716,6 +739,8 @@ sp.nintendolife.com
 sp.nintendolife.com
 sp.nintendolife.com
 sp.nintendolife.com
+sp.nintendolife.com
+static.nintendolife.com
 static.nintendolife.com
 static.nintendolife.com
 static.nintendolife.com
@@ -776,6 +801,8 @@ support.nintendolife.com
 support.nintendolife.com
 support.nintendolife.com
 support.nintendolife.com
+support.nintendolife.com
+vc.nintendolife.com
 vc.nintendolife.com
 vc.nintendolife.com
 vc.nintendolife.com
@@ -836,6 +863,8 @@ wii.nintendolife.com
 wii.nintendolife.com
 wii.nintendolife.com
 wii.nintendolife.com
+wii.nintendolife.com
+wii2.nintendolife.com
 wii2.nintendolife.com
 wii2.nintendolife.com
 wii2.nintendolife.com
@@ -896,6 +925,8 @@ wiiu.nintendolife.com
 wiiu.nintendolife.com
 wiiu.nintendolife.com
 wiiu.nintendolife.com
+wiiu.nintendolife.com
+wiiware.nintendolife.com
 wiiware.nintendolife.com
 wiiware.nintendolife.com
 wiiware.nintendolife.com
@@ -956,6 +987,8 @@ ww.nintendolife.com
 ww.nintendolife.com
 ww.nintendolife.com
 ww.nintendolife.com
+ww.nintendolife.com
+www.nintendolife.com
 www.nintendolife.com
 www.nintendolife.com
 www.nintendolife.com

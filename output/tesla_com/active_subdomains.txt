@@ -197,7 +197,6 @@ mobile-ops-links.prd.vn.cloud.tesla.com
 mobile.kronos.tesla.com
 mobile.tesla.com
 model3.tesla.com
-monitoring.tesla.com
 mrsproxy06.tesla.com
 mta.email.tesla.com
 mta.emails.tesla.com

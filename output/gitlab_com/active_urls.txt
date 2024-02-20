@@ -333,7 +333,6 @@ http://dast-4456656-dast-default.design-staging.gitlab.com
 http://design.gitlab.com
 http://developer.gitlab.com
 http://doc.gitlab.com
-http://docs.gitlab.com
 http://ee.gitlab.com
 http://ee.gitlab.com:8080
 http://email.customers.gitlab.com
@@ -361,6 +360,7 @@ http://handbook.gitlab.com
 http://hub.gitlab.com
 http://hub.gitlab.com:8080
 http://internal.gitlab.com
+http://ir.gitlab.com
 http://jitsu-configurator.product-analytics.prototype.gitlab.com
 http://jitsu-server.product-analytics.prototype.gitlab.com
 http://jobs.gitlab.com
@@ -737,7 +737,6 @@ https://dast-4456656-dast-default.design-staging.gitlab.com
 https://design.gitlab.com
 https://developer.gitlab.com
 https://doc.gitlab.com
-https://docs.gitlab.com
 https://ee.gitlab.com
 https://ee.gitlab.com:8443
 https://email.customers.gitlab.com
@@ -760,6 +759,7 @@ https://handbook.gitlab.com
 https://hub.gitlab.com
 https://hub.gitlab.com:8443
 https://internal.gitlab.com
+https://ir.gitlab.com
 https://jitsu-configurator.product-analytics.prototype.gitlab.com
 https://jitsu-server.product-analytics.prototype.gitlab.com
 https://jobs.gitlab.com

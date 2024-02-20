@@ -121,10 +121,6 @@ cohort-service.crypto.coinbase.com:443
 cohort-service.crypto.coinbase.com:80
 cohort-service.crypto.coinbase.com:8080
 cohort-service.crypto.coinbase.com:8443
-coinbase.com:443
-coinbase.com:80
-coinbase.com:8080
-coinbase.com:8443
 comm.coinbase.com:443
 comm.coinbase.com:80
 comm.coinbase.com:8080
@@ -157,10 +153,6 @@ data.coinbase.com:443
 data.coinbase.com:80
 data.coinbase.com:8080
 data.coinbase.com:8443
-dev.coinbase.com:443
-dev.coinbase.com:80
-dev.coinbase.com:8080
-dev.coinbase.com:8443
 developer.coinbase.com:443
 developer.coinbase.com:80
 developer.coinbase.com:8080
@@ -229,10 +221,6 @@ exceptions2.coinbase.com:443
 exceptions2.coinbase.com:80
 exceptions2.coinbase.com:8080
 exceptions2.coinbase.com:8443
-exchange.coinbase.com:443
-exchange.coinbase.com:80
-exchange.coinbase.com:8080
-exchange.coinbase.com:8443
 goerli-etherscan.wallet.coinbase.com:443
 goerli-etherscan.wallet.coinbase.com:80
 goerli-etherscan.wallet.coinbase.com:8080
@@ -333,6 +321,10 @@ prime-staging.coinbase.com:443
 prime-staging.coinbase.com:80
 prime-staging.coinbase.com:8080
 prime-staging.coinbase.com:8443
+prime.coinbase.com:443
+prime.coinbase.com:80
+prime.coinbase.com:8080
+prime.coinbase.com:8443
 primebroker.coinbase.com:443
 primebroker.coinbase.com:80
 primebroker.coinbase.com:8080

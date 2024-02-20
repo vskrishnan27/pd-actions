@@ -42,7 +42,6 @@ http://d.email.hostinger.com:8443
 http://design.hostinger.com
 http://dogrula.hostinger.com
 http://domains.hostinger.com
-http://domains.hostinger.com:8080
 http://domains.hostinger.com:8443
 http://e.account.hostinger.com
 http://e.account.hostinger.com:8080
@@ -74,7 +73,6 @@ http://potvrzeni.hostinger.com
 http://rdns1.hostinger.com
 http://rdns1.hostinger.com:8080
 http://rest-hosting.hostinger.com
-http://rest-hosting.hostinger.com:8080
 http://rest-hosting.hostinger.com:8443
 http://roadmap.hostinger.com
 http://roadmap.hostinger.com:8443
@@ -91,7 +89,6 @@ http://sso.hostinger.com
 http://sso.hostinger.com:8443
 http://statuspage.hostinger.com
 http://statuspage.hostinger.com:8080
-http://statuspage.hostinger.com:8443
 http://support.hostinger.com
 http://support.hostinger.com:8080
 http://support.hostinger.com:8443
@@ -195,6 +192,7 @@ https://se.email.hostinger.com
 https://sql111.hostinger.com:8443
 https://sso.hostinger.com
 https://statuspage.hostinger.com
+https://statuspage.hostinger.com:8443
 https://support.hostinger.com
 https://titancalendar.hostinger.com
 https://titancontacts.hostinger.com

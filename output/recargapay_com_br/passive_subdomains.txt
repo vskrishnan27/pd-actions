@@ -35,6 +35,8 @@ api.of.recargapay.com.br
 api.of.recargapay.com.br
 api.of.recargapay.com.br
 api.of.recargapay.com.br
+api.of.recargapay.com.br
+blog.recargapay.com.br
 blog.recargapay.com.br
 blog.recargapay.com.br
 blog.recargapay.com.br
@@ -106,6 +108,8 @@ dapi.of.recargapay.com.br
 dapi.of.recargapay.com.br
 dapi.of.recargapay.com.br
 dapi.of.recargapay.com.br
+dapi.of.recargapay.com.br
+dev.recargapay.com.br
 dev.recargapay.com.br
 dev.recargapay.com.br
 dev.recargapay.com.br
@@ -180,6 +184,8 @@ devreact.recargapay.com.br
 devreact.recargapay.com.br
 devreact.recargapay.com.br
 devreact.recargapay.com.br
+devreact.recargapay.com.br
+faq.recargapay.com.br
 faq.recargapay.com.br
 faq.recargapay.com.br
 faq.recargapay.com.br
@@ -254,6 +260,7 @@ itsm.recargapay.com.br
 itsm.recargapay.com.br
 itsm.recargapay.com.br
 itsm.recargapay.com.br
+itsm.recargapay.com.br
 link.recargapay.com.br
 link.recargapay.com.br
 link.recargapay.com.br
@@ -291,6 +298,8 @@ link.recargapay.com.br
 link.recargapay.com.br
 link.recargapay.com.br
 link.recargapay.com.br
+link.recargapay.com.br
+meajuda.recargapay.com.br
 meajuda.recargapay.com.br
 meajuda.recargapay.com.br
 meajuda.recargapay.com.br
@@ -362,6 +371,8 @@ mtls-dapi.of.recargapay.com.br
 mtls-dapi.of.recargapay.com.br
 mtls-dapi.of.recargapay.com.br
 mtls-dapi.of.recargapay.com.br
+mtls-dapi.of.recargapay.com.br
+o285.em.recargapay.com.br
 o285.em.recargapay.com.br
 o285.em.recargapay.com.br
 o285.em.recargapay.com.br
@@ -436,6 +447,8 @@ o286.em.recargapay.com.br
 o286.em.recargapay.com.br
 o286.em.recargapay.com.br
 o286.em.recargapay.com.br
+o286.em.recargapay.com.br
+o977.em.recargapay.com.br
 o977.em.recargapay.com.br
 o977.em.recargapay.com.br
 o977.em.recargapay.com.br
@@ -510,6 +523,8 @@ o978.em.recargapay.com.br
 o978.em.recargapay.com.br
 o978.em.recargapay.com.br
 o978.em.recargapay.com.br
+o978.em.recargapay.com.br
+qa.recargapay.com.br
 qa.recargapay.com.br
 qa.recargapay.com.br
 qa.recargapay.com.br
@@ -580,6 +595,8 @@ recargapay.com.br
 recargapay.com.br
 recargapay.com.br
 recargapay.com.br
+recargapay.com.br
+www.api.of.recargapay.com.br
 www.api.of.recargapay.com.br
 www.api.of.recargapay.com.br
 www.api.of.recargapay.com.br
@@ -646,6 +663,7 @@ www.dapi.of.recargapay.com.br
 www.dapi.of.recargapay.com.br
 www.dapi.of.recargapay.com.br
 www.dapi.of.recargapay.com.br
+www.dapi.of.recargapay.com.br
 www.mtls-dapi.of.recargapay.com.br
 www.mtls-dapi.of.recargapay.com.br
 www.mtls-dapi.of.recargapay.com.br
@@ -679,6 +697,8 @@ www.mtls-dapi.of.recargapay.com.br
 www.mtls-dapi.of.recargapay.com.br
 www.mtls-dapi.of.recargapay.com.br
 www.mtls-dapi.of.recargapay.com.br
+www.mtls-dapi.of.recargapay.com.br
+www.recargapay.com.br
 www.recargapay.com.br
 www.recargapay.com.br
 www.recargapay.com.br

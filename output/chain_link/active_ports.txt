@@ -24,10 +24,6 @@ blog.chain.link:443
 blog.chain.link:80
 blog.chain.link:8080
 blog.chain.link:8443
-careers.chain.link:443
-careers.chain.link:80
-careers.chain.link:8080
-careers.chain.link:8443
 ccip.chain.link:443
 ccip.chain.link:80
 ccip.chain.link:8080
@@ -38,6 +34,10 @@ data.chain.link:443
 data.chain.link:80
 data.chain.link:8080
 data.chain.link:8443
+dataengine.chain.link:443
+dataengine.chain.link:80
+dataengine.chain.link:8080
+dataengine.chain.link:8443
 defi.chain.link:443
 defi.chain.link:80
 defi.chain.link:8080
@@ -131,10 +131,6 @@ mercury-srv.chain.link:443
 mercury-srv.chain.link:80
 mercury-srv.chain.link:8080
 mercury-srv.chain.link:8443
-on.chain.link:443
-on.chain.link:80
-on.chain.link:8080
-on.chain.link:8443
 pages.chain.link:443
 pages.chain.link:80
 pages.chain.link:8080
@@ -161,10 +157,6 @@ security.chain.link:443
 security.chain.link:80
 security.chain.link:8080
 security.chain.link:8443
-smartcon.chain.link:443
-smartcon.chain.link:80
-smartcon.chain.link:8080
-smartcon.chain.link:8443
 staking.chain.link:443
 staking.chain.link:80
 staking.chain.link:8080

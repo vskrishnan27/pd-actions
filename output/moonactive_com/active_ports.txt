@@ -6,10 +6,6 @@ gdpr.moonactive.com:443
 gdpr.moonactive.com:80
 gdpr.moonactive.com:8080
 gdpr.moonactive.com:8443
-moonactive.com:443
-moonactive.com:80
-moonactive.com:8080
-moonactive.com:8443
 tableau-admin.moonactive.com:443
 tableau-admin.moonactive.com:80
 tableau.moonactive.com:443

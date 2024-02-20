@@ -68,7 +68,6 @@ resources.forescout.com:443
 resources.forescout.com:80
 resources.forescout.com:8080
 resources.forescout.com:8443
-snapshot.forescout.com:443
 sra-emea2.forescout.com:443
 sra-emea2.forescout.com:80
 support.forescout.com:443

@@ -33,10 +33,6 @@ golang.hedera.com:443
 golang.hedera.com:80
 hcs.mainnet.mirrornode.hedera.com:22
 hcs.testnet.mirrornode.hedera.com:22
-hedera.com:443
-hedera.com:80
-hedera.com:8080
-hedera.com:8443
 help.hedera.com:443
 help.hedera.com:80
 help.hedera.com:8080
@@ -56,13 +52,10 @@ info.hedera.com:8443
 learn.hedera.com:443
 learn.hedera.com:80
 mainnet-private.mirrornode.hedera.com:443
-mainnet-private.mirrornode.hedera.com:5101
 mainnet-private.mirrornode.hedera.com:80
 mainnet-public.mirrornode.hedera.com:443
-mainnet-public.mirrornode.hedera.com:5101
 mainnet-public.mirrornode.hedera.com:80
 mainnet.mirrornode.hedera.com:443
-mainnet.mirrornode.hedera.com:5101
 mainnet.mirrornode.hedera.com:80
 members.hedera.com:25
 members.hedera.com:3306

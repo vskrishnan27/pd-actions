@@ -29,8 +29,6 @@ brand.miro.com:443
 brand.miro.com:80
 brandkit.miro.com:443
 brandkit.miro.com:80
-buf.miro.com:443
-buf.miro.com:80
 click.account.miro.com:443
 click.account.miro.com:80
 click.e.miro.com:443
@@ -192,6 +190,8 @@ view.account.miro.com:443
 view.account.miro.com:80
 view.e.miro.com:443
 view.e.miro.com:80
+ww.miro.com:443
+ww.miro.com:80
 www.events.miro.com:443
 www.events.miro.com:80
 www.jira-cards.miro.com:443

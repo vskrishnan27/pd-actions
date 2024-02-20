@@ -158,6 +158,7 @@ gator.stripe.com:443
 gator.stripe.com:80
 gems.stripe.com:443
 gems.stripe.com:80
+git.corp.stripe.com:443
 global.stripe.com:443
 global.stripe.com:80
 groups.stripe.com:443
@@ -186,8 +187,6 @@ issuing-hooks-public.stripe.com:443
 issuing-key.stripe.com:443
 issuing-key.stripe.com:80
 jira.corp.stripe.com:443
-js.stripe.com:443
-js.stripe.com:80
 jss.prod.corp.stripe.com:443
 jss.qa.corp.stripe.com:443
 lists.stripe.com:443
@@ -198,6 +197,8 @@ lokalise-hooks.stripe.com:80
 m.stripe.com:443
 mail.stripe.com:443
 mail.stripe.com:80
+manage.stripe.com:443
+manage.stripe.com:80
 marketplace.stripe.com:443
 marketplace.stripe.com:80
 media.stripe.com:443

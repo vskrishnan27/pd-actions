@@ -31,7 +31,6 @@ http://mainnet.mirrornode.hedera.com
 http://members.hedera.com
 http://netki.hedera.com
 http://netki.hedera.com:8080
-http://portal.hedera.com
 http://previewnet.mirrornode.hedera.com
 http://sandbox.portal.hedera.com
 http://shop.hedera.com
@@ -71,7 +70,6 @@ https://mainnet.mirrornode.hedera.com
 https://members.hedera.com
 https://netki.hedera.com
 https://netki.hedera.com:8443
-https://portal.hedera.com
 https://previewnet.mirrornode.hedera.com
 https://sandbox.portal.hedera.com
 https://shop.hedera.com

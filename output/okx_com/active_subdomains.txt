@@ -14,6 +14,7 @@ oktcsafe.okx.com
 okx.com
 static.okx.com
 tr.okx.com
+us.okx.com
 wallet.okx.com
 ws.okx.com
 wsaws.okx.com

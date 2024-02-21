@@ -19,6 +19,8 @@ http://okx.com
 http://static.okx.com
 http://tr.okx.com
 http://tr.okx.com:8443
+http://us.okx.com
+http://us.okx.com:8443
 http://wallet.okx.com
 http://www.okx.com
 http://www.okx.com:8443
@@ -41,6 +43,7 @@ https://oktcsafe.okx.com
 https://okx.com
 https://static.okx.com
 https://tr.okx.com
+https://us.okx.com
 https://wallet.okx.com
 https://wsaws.okx.com
 https://wsaws.okx.com:8443

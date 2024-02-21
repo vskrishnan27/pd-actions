@@ -22,8 +22,6 @@ http://mlbguide.sorare.com
 http://mlbguide.sorare.com:8080
 http://nbaguide.sorare.com
 http://nbaguide.sorare.com:8080
-http://sorare.com
-http://sorare.com:8080
 http://status.sorare.com
 http://status.sorare.com:8080
 http://status.sorare.com:8443
@@ -48,8 +46,6 @@ https://mlbguide.sorare.com
 https://mlbguide.sorare.com:8443
 https://nbaguide.sorare.com
 https://nbaguide.sorare.com:8443
-https://sorare.com
-https://sorare.com:8443
 https://status.sorare.com
 https://wallet.sorare.com
 https://ws.sorare.com

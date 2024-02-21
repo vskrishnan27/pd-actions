@@ -98,6 +98,7 @@ http://dev.wrapup.playstation.com
 http://direct-queue-stage.playstation.com
 http://direct-queue.playstation.com
 http://direct.e1-np.playstation.com
+http://direct.playstation.com
 http://dms.api.playstation.com
 http://docportal.playstation.com
 http://docs.playstation.com
@@ -142,7 +143,6 @@ http://image.api.playstation.com
 http://image.mail.asia.playstation.com
 http://image.mail.jp.playstation.com
 http://is.playstation.com
-http://ivaldi.playstation.com
 http://jp.playstation.com
 http://juega.playstation.com
 http://la.playstation.com
@@ -383,6 +383,7 @@ https://dev.wrapup.playstation.com
 https://direct-queue-stage.playstation.com
 https://direct-queue.playstation.com
 https://direct.e1-np.playstation.com
+https://direct.playstation.com
 https://dms.api.playstation.com
 https://docportal.playstation.com
 https://docs.playstation.com
@@ -429,7 +430,6 @@ https://image.api.playstation.com
 https://image.mail.asia.playstation.com
 https://image.mail.jp.playstation.com
 https://is.playstation.com
-https://ivaldi.playstation.com
 https://jp.playstation.com
 https://juega.playstation.com
 https://la.playstation.com

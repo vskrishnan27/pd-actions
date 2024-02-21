@@ -28,7 +28,6 @@ support.wickr.com:443
 support.wickr.com:80
 support.wickr.com:8080
 support.wickr.com:8443
-testing-amazon.wickr.com:443
 wickr.com:443
 wickr.com:80
 www.wickr.com:443

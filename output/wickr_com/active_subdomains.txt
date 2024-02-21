@@ -19,6 +19,5 @@ pro-download.wickr.com
 register.wickr.com
 status.wickr.com
 support.wickr.com
-testing-amazon.wickr.com
 wickr.com
 www.wickr.com

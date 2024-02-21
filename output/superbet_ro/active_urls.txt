@@ -24,9 +24,11 @@ http://legacy-web-stage.superbet.ro
 http://legacy-web.superbet.ro
 http://lp.superbet.ro
 http://lp.superbet.ro:8080
+http://lp.superbet.ro:8443
 http://lps.superbet.ro
 http://playground.superbet.ro
 http://promo.superbet.ro
+http://promo02.superbet.ro
 http://promotii.superbet.ro
 http://qa.superbet.ro
 http://quizanglia.superbet.ro
@@ -87,7 +89,6 @@ https://landing.superbet.ro
 https://legacy-web-stage.superbet.ro
 https://legacy-web.superbet.ro
 https://lp.superbet.ro
-https://lp.superbet.ro:8443
 https://lps.superbet.ro
 https://offer-server.prod.incubator.superbet.ro
 https://playground.superbet.ro

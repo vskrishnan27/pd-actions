@@ -196,7 +196,6 @@ orders.account-prov.stg.tools.launchdarkly.com
 partnersupport.launchdarkly.com
 pubnubtest.launchdarkly.com
 resources.launchdarkly.com
-retool-staging.prod.tools.launchdarkly.com
 retool.prod.tools.launchdarkly.com
 sdk-stg.launchdarkly.com
 sdk.dev.launchdarkly.com

@@ -35,6 +35,8 @@
 1password-scim-bridge.basecamp.com
 1password-scim-bridge.basecamp.com
 1password-scim-bridge.basecamp.com
+1password-scim-bridge.basecamp.com
+3.basecamp.com
 3.basecamp.com
 3.basecamp.com
 3.basecamp.com
@@ -108,6 +110,8 @@ _spf.basecamp.com
 _spf.basecamp.com
 _spf.basecamp.com
 _spf.basecamp.com
+_spf.basecamp.com
+ab-tasty.marketing-staging.basecamp.com
 ab-tasty.marketing-staging.basecamp.com
 ab-tasty.marketing-staging.basecamp.com
 ab-tasty.marketing-staging.basecamp.com
@@ -182,6 +186,8 @@ akamai.basecamp.com
 akamai.basecamp.com
 akamai.basecamp.com
 akamai.basecamp.com
+akamai.basecamp.com
+api.3.basecamp.com
 api.3.basecamp.com
 api.3.basecamp.com
 api.3.basecamp.com
@@ -256,6 +262,8 @@ asset1.basecamp.com
 asset1.basecamp.com
 asset1.basecamp.com
 asset1.basecamp.com
+asset1.basecamp.com
+assets.3.basecamp.com
 assets.3.basecamp.com
 assets.3.basecamp.com
 assets.3.basecamp.com
@@ -329,6 +337,8 @@ basecamp.com
 basecamp.com
 basecamp.com
 basecamp.com
+basecamp.com
+bc3-help.basecamp.com
 bc3-help.basecamp.com
 bc3-help.basecamp.com
 bc3-help.basecamp.com
@@ -403,6 +413,8 @@ bcx-staging.basecamp.com
 bcx-staging.basecamp.com
 bcx-staging.basecamp.com
 bcx-staging.basecamp.com
+bcx-staging.basecamp.com
+before-basecamp.marketing-staging.basecamp.com
 before-basecamp.marketing-staging.basecamp.com
 before-basecamp.marketing-staging.basecamp.com
 before-basecamp.marketing-staging.basecamp.com
@@ -477,6 +489,7 @@ beta.3.basecamp.com
 beta.3.basecamp.com
 beta.3.basecamp.com
 beta.3.basecamp.com
+beta.3.basecamp.com
 beta.basecamp.com
 beta.basecamp.com
 beta.basecamp.com
@@ -514,6 +527,8 @@ beta.basecamp.com
 beta.basecamp.com
 beta.basecamp.com
 beta.basecamp.com
+beta.basecamp.com
+beta1.3.basecamp.com
 beta1.3.basecamp.com
 beta1.3.basecamp.com
 beta1.3.basecamp.com
@@ -587,6 +602,7 @@ beta1.basecamp.com
 beta1.basecamp.com
 beta1.basecamp.com
 beta1.basecamp.com
+beta1.basecamp.com
 beta2.3.basecamp.com
 beta2.3.basecamp.com
 beta2.3.basecamp.com
@@ -623,6 +639,8 @@ beta2.3.basecamp.com
 beta2.3.basecamp.com
 beta2.3.basecamp.com
 beta2.3.basecamp.com
+beta2.3.basecamp.com
+betagcp.basecamp.com
 betagcp.basecamp.com
 betagcp.basecamp.com
 betagcp.basecamp.com
@@ -697,6 +715,8 @@ better-meta.marketing-staging.basecamp.com
 better-meta.marketing-staging.basecamp.com
 better-meta.marketing-staging.basecamp.com
 better-meta.marketing-staging.basecamp.com
+better-meta.marketing-staging.basecamp.com
+big-free.marketing-staging.basecamp.com
 big-free.marketing-staging.basecamp.com
 big-free.marketing-staging.basecamp.com
 big-free.marketing-staging.basecamp.com
@@ -770,6 +790,8 @@ brasil.basecamp.com
 brasil.basecamp.com
 brasil.basecamp.com
 brasil.basecamp.com
+brasil.basecamp.com
+cache-woff2.marketing-staging.basecamp.com
 cache-woff2.marketing-staging.basecamp.com
 cache-woff2.marketing-staging.basecamp.com
 cache-woff2.marketing-staging.basecamp.com
@@ -844,6 +866,8 @@ cdn.basecamp.com
 cdn.basecamp.com
 cdn.basecamp.com
 cdn.basecamp.com
+cdn.basecamp.com
+chat.3.basecamp.com
 chat.3.basecamp.com
 chat.3.basecamp.com
 chat.3.basecamp.com
@@ -918,6 +942,8 @@ clients.3.basecamp.com
 clients.3.basecamp.com
 clients.3.basecamp.com
 clients.3.basecamp.com
+clients.3.basecamp.com
+cloud.basecamp.com
 cloud.basecamp.com
 cloud.basecamp.com
 cloud.basecamp.com
@@ -989,6 +1015,8 @@ custiomail.basecamp.com
 custiomail.basecamp.com
 custiomail.basecamp.com
 custiomail.basecamp.com
+custiomail.basecamp.com
+drop-gtm.marketing-staging.basecamp.com
 drop-gtm.marketing-staging.basecamp.com
 drop-gtm.marketing-staging.basecamp.com
 drop-gtm.marketing-staging.basecamp.com
@@ -1063,6 +1091,7 @@ drop-marketing-position.marketing-staging.basecamp.com
 drop-marketing-position.marketing-staging.basecamp.com
 drop-marketing-position.marketing-staging.basecamp.com
 drop-marketing-position.marketing-staging.basecamp.com
+drop-marketing-position.marketing-staging.basecamp.com
 drop-test-pages.marketing-staging.basecamp.com
 drop-test-pages.marketing-staging.basecamp.com
 drop-test-pages.marketing-staging.basecamp.com
@@ -1100,6 +1129,8 @@ drop-test-pages.marketing-staging.basecamp.com
 drop-test-pages.marketing-staging.basecamp.com
 drop-test-pages.marketing-staging.basecamp.com
 drop-test-pages.marketing-staging.basecamp.com
+drop-test-pages.marketing-staging.basecamp.com
+eks.marketing-staging.basecamp.com
 eks.marketing-staging.basecamp.com
 eks.marketing-staging.basecamp.com
 eks.marketing-staging.basecamp.com
@@ -1171,6 +1202,8 @@ email.basecamp.com
 email.basecamp.com
 email.basecamp.com
 email.basecamp.com
+email.basecamp.com
+exclude-search.marketing-staging.basecamp.com
 exclude-search.marketing-staging.basecamp.com
 exclude-search.marketing-staging.basecamp.com
 exclude-search.marketing-staging.basecamp.com
@@ -1245,6 +1278,8 @@ fix-twitter-card.marketing-staging.basecamp.com
 fix-twitter-card.marketing-staging.basecamp.com
 fix-twitter-card.marketing-staging.basecamp.com
 fix-twitter-card.marketing-staging.basecamp.com
+fix-twitter-card.marketing-staging.basecamp.com
+getting-real-direct-download.marketing-staging.basecamp.com
 getting-real-direct-download.marketing-staging.basecamp.com
 getting-real-direct-download.marketing-staging.basecamp.com
 getting-real-direct-download.marketing-staging.basecamp.com
@@ -1319,6 +1354,8 @@ getting-real-pdf.marketing-staging.basecamp.com
 getting-real-pdf.marketing-staging.basecamp.com
 getting-real-pdf.marketing-staging.basecamp.com
 getting-real-pdf.marketing-staging.basecamp.com
+getting-real-pdf.marketing-staging.basecamp.com
+help.basecamp.com
 help.basecamp.com
 help.basecamp.com
 help.basecamp.com
@@ -1393,6 +1430,8 @@ hero-image.marketing-staging.basecamp.com
 hero-image.marketing-staging.basecamp.com
 hero-image.marketing-staging.basecamp.com
 hero-image.marketing-staging.basecamp.com
+hero-image.marketing-staging.basecamp.com
+jabber.basecamp.com
 jabber.basecamp.com
 jabber.basecamp.com
 jabber.basecamp.com
@@ -1467,6 +1506,8 @@ layout-tweaks.marketing-staging.basecamp.com
 layout-tweaks.marketing-staging.basecamp.com
 layout-tweaks.marketing-staging.basecamp.com
 layout-tweaks.marketing-staging.basecamp.com
+layout-tweaks.marketing-staging.basecamp.com
+logged-in-landing.marketing-staging.basecamp.com
 logged-in-landing.marketing-staging.basecamp.com
 logged-in-landing.marketing-staging.basecamp.com
 logged-in-landing.marketing-staging.basecamp.com
@@ -1541,6 +1582,8 @@ logo-animation.marketing-staging.basecamp.com
 logo-animation.marketing-staging.basecamp.com
 logo-animation.marketing-staging.basecamp.com
 logo-animation.marketing-staging.basecamp.com
+logo-animation.marketing-staging.basecamp.com
+mail-relay-01.3.basecamp.com
 mail-relay-01.3.basecamp.com
 mail-relay-01.3.basecamp.com
 mail-relay-01.3.basecamp.com
@@ -1615,6 +1658,8 @@ mail-relay-01.basecamp.com
 mail-relay-01.basecamp.com
 mail-relay-01.basecamp.com
 mail-relay-01.basecamp.com
+mail-relay-01.basecamp.com
+mail-relay-01.staging.basecamp.com
 mail-relay-01.staging.basecamp.com
 mail-relay-01.staging.basecamp.com
 mail-relay-01.staging.basecamp.com
@@ -1689,6 +1734,8 @@ mail-relay-02.3.basecamp.com
 mail-relay-02.3.basecamp.com
 mail-relay-02.3.basecamp.com
 mail-relay-02.3.basecamp.com
+mail-relay-02.3.basecamp.com
+mail-relay-02.basecamp.com
 mail-relay-02.basecamp.com
 mail-relay-02.basecamp.com
 mail-relay-02.basecamp.com
@@ -1763,6 +1810,8 @@ mail-relay-02.staging.basecamp.com
 mail-relay-02.staging.basecamp.com
 mail-relay-02.staging.basecamp.com
 mail-relay-02.staging.basecamp.com
+mail-relay-02.staging.basecamp.com
+mail-relay-03.3.basecamp.com
 mail-relay-03.3.basecamp.com
 mail-relay-03.3.basecamp.com
 mail-relay-03.3.basecamp.com
@@ -1837,6 +1886,8 @@ mail-relay-03.basecamp.com
 mail-relay-03.basecamp.com
 mail-relay-03.basecamp.com
 mail-relay-03.basecamp.com
+mail-relay-03.basecamp.com
+mail-relay-04.3.basecamp.com
 mail-relay-04.3.basecamp.com
 mail-relay-04.3.basecamp.com
 mail-relay-04.3.basecamp.com
@@ -1911,6 +1962,8 @@ mail-relay-04.basecamp.com
 mail-relay-04.basecamp.com
 mail-relay-04.basecamp.com
 mail-relay-04.basecamp.com
+mail-relay-04.basecamp.com
+mail-relay-05.3.basecamp.com
 mail-relay-05.3.basecamp.com
 mail-relay-05.3.basecamp.com
 mail-relay-05.3.basecamp.com
@@ -1985,6 +2038,8 @@ mail-relay-05.basecamp.com
 mail-relay-05.basecamp.com
 mail-relay-05.basecamp.com
 mail-relay-05.basecamp.com
+mail-relay-05.basecamp.com
+mail-relay-101.3.basecamp.com
 mail-relay-101.3.basecamp.com
 mail-relay-101.3.basecamp.com
 mail-relay-101.3.basecamp.com
@@ -2059,6 +2114,8 @@ mail-relay-101.basecamp.com
 mail-relay-101.basecamp.com
 mail-relay-101.basecamp.com
 mail-relay-101.basecamp.com
+mail-relay-101.basecamp.com
+mail-relay-101.staging.basecamp.com
 mail-relay-101.staging.basecamp.com
 mail-relay-101.staging.basecamp.com
 mail-relay-101.staging.basecamp.com
@@ -2133,6 +2190,8 @@ mail-relay-102.3.basecamp.com
 mail-relay-102.3.basecamp.com
 mail-relay-102.3.basecamp.com
 mail-relay-102.3.basecamp.com
+mail-relay-102.3.basecamp.com
+mail-relay-102.basecamp.com
 mail-relay-102.basecamp.com
 mail-relay-102.basecamp.com
 mail-relay-102.basecamp.com
@@ -2207,6 +2266,8 @@ mail-relay-102.staging.basecamp.com
 mail-relay-102.staging.basecamp.com
 mail-relay-102.staging.basecamp.com
 mail-relay-102.staging.basecamp.com
+mail-relay-102.staging.basecamp.com
+mail-relay-103.3.basecamp.com
 mail-relay-103.3.basecamp.com
 mail-relay-103.3.basecamp.com
 mail-relay-103.3.basecamp.com
@@ -2281,6 +2342,8 @@ mail-relay-103.basecamp.com
 mail-relay-103.basecamp.com
 mail-relay-103.basecamp.com
 mail-relay-103.basecamp.com
+mail-relay-103.basecamp.com
+mail-relay-104.3.basecamp.com
 mail-relay-104.3.basecamp.com
 mail-relay-104.3.basecamp.com
 mail-relay-104.3.basecamp.com
@@ -2355,6 +2418,8 @@ mail-relay-104.basecamp.com
 mail-relay-104.basecamp.com
 mail-relay-104.basecamp.com
 mail-relay-104.basecamp.com
+mail-relay-104.basecamp.com
+mail-relay-105.3.basecamp.com
 mail-relay-105.3.basecamp.com
 mail-relay-105.3.basecamp.com
 mail-relay-105.3.basecamp.com
@@ -2429,6 +2494,8 @@ mail-relay-105.basecamp.com
 mail-relay-105.basecamp.com
 mail-relay-105.basecamp.com
 mail-relay-105.basecamp.com
+mail-relay-105.basecamp.com
+marketing-staging.basecamp.com
 marketing-staging.basecamp.com
 marketing-staging.basecamp.com
 marketing-staging.basecamp.com
@@ -2503,6 +2570,8 @@ merch-pages-fix.marketing-staging.basecamp.com
 merch-pages-fix.marketing-staging.basecamp.com
 merch-pages-fix.marketing-staging.basecamp.com
 merch-pages-fix.marketing-staging.basecamp.com
+merch-pages-fix.marketing-staging.basecamp.com
+more-sitemap-pages.marketing-staging.basecamp.com
 more-sitemap-pages.marketing-staging.basecamp.com
 more-sitemap-pages.marketing-staging.basecamp.com
 more-sitemap-pages.marketing-staging.basecamp.com
@@ -2577,6 +2646,8 @@ mta-sts.mx.cloud.basecamp.com
 mta-sts.mx.cloud.basecamp.com
 mta-sts.mx.cloud.basecamp.com
 mta-sts.mx.cloud.basecamp.com
+mta-sts.mx.cloud.basecamp.com
+mx.3.basecamp.com
 mx.3.basecamp.com
 mx.3.basecamp.com
 mx.3.basecamp.com
@@ -2651,6 +2722,8 @@ mx.basecamp.com
 mx.basecamp.com
 mx.basecamp.com
 mx.basecamp.com
+mx.basecamp.com
+mx.cloud.basecamp.com
 mx.cloud.basecamp.com
 mx.cloud.basecamp.com
 mx.cloud.basecamp.com
@@ -2725,6 +2798,8 @@ mx.staging.3.basecamp.com
 mx.staging.3.basecamp.com
 mx.staging.3.basecamp.com
 mx.staging.3.basecamp.com
+mx.staging.3.basecamp.com
+mx.staging.basecamp.com
 mx.staging.basecamp.com
 mx.staging.basecamp.com
 mx.staging.basecamp.com
@@ -2799,6 +2874,8 @@ new-staging-domain.marketing-staging.basecamp.com
 new-staging-domain.marketing-staging.basecamp.com
 new-staging-domain.marketing-staging.basecamp.com
 new-staging-domain.marketing-staging.basecamp.com
+new-staging-domain.marketing-staging.basecamp.com
+on-prem.marketing-staging.basecamp.com
 on-prem.marketing-staging.basecamp.com
 on-prem.marketing-staging.basecamp.com
 on-prem.marketing-staging.basecamp.com
@@ -2873,6 +2950,8 @@ outbound-dns-01.basecamp.com
 outbound-dns-01.basecamp.com
 outbound-dns-01.basecamp.com
 outbound-dns-01.basecamp.com
+outbound-dns-01.basecamp.com
+outbound-dns-02.basecamp.com
 outbound-dns-02.basecamp.com
 outbound-dns-02.basecamp.com
 outbound-dns-02.basecamp.com
@@ -2947,6 +3026,8 @@ outbound-mail-01.basecamp.com
 outbound-mail-01.basecamp.com
 outbound-mail-01.basecamp.com
 outbound-mail-01.basecamp.com
+outbound-mail-01.basecamp.com
+outbound-mail-02.basecamp.com
 outbound-mail-02.basecamp.com
 outbound-mail-02.basecamp.com
 outbound-mail-02.basecamp.com
@@ -3021,6 +3102,8 @@ outbound-mail-03.basecamp.com
 outbound-mail-03.basecamp.com
 outbound-mail-03.basecamp.com
 outbound-mail-03.basecamp.com
+outbound-mail-03.basecamp.com
+outbound-mail-04.basecamp.com
 outbound-mail-04.basecamp.com
 outbound-mail-04.basecamp.com
 outbound-mail-04.basecamp.com
@@ -3095,6 +3178,8 @@ outbound-mail-05.basecamp.com
 outbound-mail-05.basecamp.com
 outbound-mail-05.basecamp.com
 outbound-mail-05.basecamp.com
+outbound-mail-05.basecamp.com
+outbound-mail-06.basecamp.com
 outbound-mail-06.basecamp.com
 outbound-mail-06.basecamp.com
 outbound-mail-06.basecamp.com
@@ -3169,6 +3254,8 @@ outbound-mail-101.basecamp.com
 outbound-mail-101.basecamp.com
 outbound-mail-101.basecamp.com
 outbound-mail-101.basecamp.com
+outbound-mail-101.basecamp.com
+outbound-mail-102.basecamp.com
 outbound-mail-102.basecamp.com
 outbound-mail-102.basecamp.com
 outbound-mail-102.basecamp.com
@@ -3243,6 +3330,8 @@ outbound-mail-103.basecamp.com
 outbound-mail-103.basecamp.com
 outbound-mail-103.basecamp.com
 outbound-mail-103.basecamp.com
+outbound-mail-103.basecamp.com
+outbound-mail-104.basecamp.com
 outbound-mail-104.basecamp.com
 outbound-mail-104.basecamp.com
 outbound-mail-104.basecamp.com
@@ -3317,6 +3406,8 @@ outbound-mail-105.basecamp.com
 outbound-mail-105.basecamp.com
 outbound-mail-105.basecamp.com
 outbound-mail-105.basecamp.com
+outbound-mail-105.basecamp.com
+outbound-mail-106.basecamp.com
 outbound-mail-106.basecamp.com
 outbound-mail-106.basecamp.com
 outbound-mail-106.basecamp.com
@@ -3391,6 +3482,8 @@ outbound-mail-107.basecamp.com
 outbound-mail-107.basecamp.com
 outbound-mail-107.basecamp.com
 outbound-mail-107.basecamp.com
+outbound-mail-107.basecamp.com
+outbound-mail-108.basecamp.com
 outbound-mail-108.basecamp.com
 outbound-mail-108.basecamp.com
 outbound-mail-108.basecamp.com
@@ -3465,6 +3558,8 @@ outbound-mail-109.basecamp.com
 outbound-mail-109.basecamp.com
 outbound-mail-109.basecamp.com
 outbound-mail-109.basecamp.com
+outbound-mail-109.basecamp.com
+outbound-mail-110.basecamp.com
 outbound-mail-110.basecamp.com
 outbound-mail-110.basecamp.com
 outbound-mail-110.basecamp.com
@@ -3539,6 +3634,8 @@ plan-compare-tweaks.marketing-staging.basecamp.com
 plan-compare-tweaks.marketing-staging.basecamp.com
 plan-compare-tweaks.marketing-staging.basecamp.com
 plan-compare-tweaks.marketing-staging.basecamp.com
+plan-compare-tweaks.marketing-staging.basecamp.com
+pmb-js-bundle.marketing-staging.basecamp.com
 pmb-js-bundle.marketing-staging.basecamp.com
 pmb-js-bundle.marketing-staging.basecamp.com
 pmb-js-bundle.marketing-staging.basecamp.com
@@ -3613,6 +3710,8 @@ preview.3.basecamp.com
 preview.3.basecamp.com
 preview.3.basecamp.com
 preview.3.basecamp.com
+preview.3.basecamp.com
+printable-book.marketing-staging.basecamp.com
 printable-book.marketing-staging.basecamp.com
 printable-book.marketing-staging.basecamp.com
 printable-book.marketing-staging.basecamp.com
@@ -3687,6 +3786,8 @@ progress.basecamp.com
 progress.basecamp.com
 progress.basecamp.com
 progress.basecamp.com
+progress.basecamp.com
+project-management-book.marketing-staging.basecamp.com
 project-management-book.marketing-staging.basecamp.com
 project-management-book.marketing-staging.basecamp.com
 project-management-book.marketing-staging.basecamp.com
@@ -3761,6 +3862,8 @@ public.3.basecamp.com
 public.3.basecamp.com
 public.3.basecamp.com
 public.3.basecamp.com
+public.3.basecamp.com
+public.basecamp.com
 public.basecamp.com
 public.basecamp.com
 public.basecamp.com
@@ -3835,6 +3938,8 @@ remove-sip-job.marketing-staging.basecamp.com
 remove-sip-job.marketing-staging.basecamp.com
 remove-sip-job.marketing-staging.basecamp.com
 remove-sip-job.marketing-staging.basecamp.com
+remove-sip-job.marketing-staging.basecamp.com
+remove-support-job.marketing-staging.basecamp.com
 remove-support-job.marketing-staging.basecamp.com
 remove-support-job.marketing-staging.basecamp.com
 remove-support-job.marketing-staging.basecamp.com
@@ -3906,6 +4011,8 @@ rollout-assets-rw-ash.basecamp.com
 rollout-assets-rw-ash.basecamp.com
 rollout-assets-rw-ash.basecamp.com
 rollout-assets-rw-ash.basecamp.com
+rollout-assets-rw-ash.basecamp.com
+rollout-assets.basecamp.com
 rollout-assets.basecamp.com
 rollout-assets.basecamp.com
 rollout-assets.basecamp.com
@@ -3974,6 +4081,8 @@ rw-ash-assets.basecamp.com
 rw-ash-assets.basecamp.com
 rw-ash-assets.basecamp.com
 rw-ash-assets.basecamp.com
+rw-ash-assets.basecamp.com
+rw-ash.basecamp.com
 rw-ash.basecamp.com
 rw-ash.basecamp.com
 rw-ash.basecamp.com
@@ -4048,6 +4157,8 @@ sc-chi.basecamp.com
 sc-chi.basecamp.com
 sc-chi.basecamp.com
 sc-chi.basecamp.com
+sc-chi.basecamp.com
+search.basecamp.com
 search.basecamp.com
 search.basecamp.com
 search.basecamp.com
@@ -4122,6 +4233,8 @@ seo-tweaks.marketing-staging.basecamp.com
 seo-tweaks.marketing-staging.basecamp.com
 seo-tweaks.marketing-staging.basecamp.com
 seo-tweaks.marketing-staging.basecamp.com
+seo-tweaks.marketing-staging.basecamp.com
+sip-job.marketing-staging.basecamp.com
 sip-job.marketing-staging.basecamp.com
 sip-job.marketing-staging.basecamp.com
 sip-job.marketing-staging.basecamp.com
@@ -4196,6 +4309,8 @@ staging-mx.basecamp.com
 staging-mx.basecamp.com
 staging-mx.basecamp.com
 staging-mx.basecamp.com
+staging-mx.basecamp.com
+staging.3.basecamp.com
 staging.3.basecamp.com
 staging.3.basecamp.com
 staging.3.basecamp.com
@@ -4269,6 +4384,8 @@ staging.basecamp.com
 staging.basecamp.com
 staging.basecamp.com
 staging.basecamp.com
+staging.basecamp.com
+star.basecamp.com
 star.basecamp.com
 star.basecamp.com
 star.basecamp.com
@@ -4343,6 +4460,8 @@ stats.basecamp.com
 stats.basecamp.com
 stats.basecamp.com
 stats.basecamp.com
+stats.basecamp.com
+status.basecamp.com
 status.basecamp.com
 status.basecamp.com
 status.basecamp.com
@@ -4417,6 +4536,8 @@ statuspage.basecamp.com
 statuspage.basecamp.com
 statuspage.basecamp.com
 statuspage.basecamp.com
+statuspage.basecamp.com
+storage.3.basecamp.com
 storage.3.basecamp.com
 storage.3.basecamp.com
 storage.3.basecamp.com
@@ -4491,6 +4612,8 @@ team-updates.marketing-staging.basecamp.com
 team-updates.marketing-staging.basecamp.com
 team-updates.marketing-staging.basecamp.com
 team-updates.marketing-staging.basecamp.com
+team-updates.marketing-staging.basecamp.com
+thedistance.basecamp.com
 thedistance.basecamp.com
 thedistance.basecamp.com
 thedistance.basecamp.com
@@ -4565,6 +4688,8 @@ tracking-cleanup.marketing-staging.basecamp.com
 tracking-cleanup.marketing-staging.basecamp.com
 tracking-cleanup.marketing-staging.basecamp.com
 tracking-cleanup.marketing-staging.basecamp.com
+tracking-cleanup.marketing-staging.basecamp.com
+update-planout.marketing-staging.basecamp.com
 update-planout.marketing-staging.basecamp.com
 update-planout.marketing-staging.basecamp.com
 update-planout.marketing-staging.basecamp.com
@@ -4639,6 +4764,8 @@ update-redirects.marketing-staging.basecamp.com
 update-redirects.marketing-staging.basecamp.com
 update-redirects.marketing-staging.basecamp.com
 update-redirects.marketing-staging.basecamp.com
+update-redirects.marketing-staging.basecamp.com
+updates.basecamp.com
 updates.basecamp.com
 updates.basecamp.com
 updates.basecamp.com
@@ -4713,6 +4840,8 @@ upload.3.basecamp.com
 upload.3.basecamp.com
 upload.3.basecamp.com
 upload.3.basecamp.com
+upload.3.basecamp.com
+upload.basecamp.com
 upload.basecamp.com
 upload.basecamp.com
 upload.basecamp.com
@@ -4787,6 +4916,8 @@ us-central1.betagcp.basecamp.com
 us-central1.betagcp.basecamp.com
 us-central1.betagcp.basecamp.com
 us-central1.betagcp.basecamp.com
+us-central1.betagcp.basecamp.com
+us-central1.status.staging.basecamp.com
 us-central1.status.staging.basecamp.com
 us-central1.status.staging.basecamp.com
 us-central1.status.staging.basecamp.com
@@ -4861,6 +4992,8 @@ use-font-display.marketing-staging.basecamp.com
 use-font-display.marketing-staging.basecamp.com
 use-font-display.marketing-staging.basecamp.com
 use-font-display.marketing-staging.basecamp.com
+use-font-display.marketing-staging.basecamp.com
+virt-gw.rw-ash.basecamp.com
 virt-gw.rw-ash.basecamp.com
 virt-gw.rw-ash.basecamp.com
 virt-gw.rw-ash.basecamp.com
@@ -4935,6 +5068,8 @@ virt-gw.sc-chi.basecamp.com
 virt-gw.sc-chi.basecamp.com
 virt-gw.sc-chi.basecamp.com
 virt-gw.sc-chi.basecamp.com
+virt-gw.sc-chi.basecamp.com
+wildcard.basecamp.com
 wildcard.basecamp.com
 wildcard.basecamp.com
 wildcard.basecamp.com
@@ -5009,6 +5144,8 @@ www.basecamp.com
 www.basecamp.com
 www.basecamp.com
 www.basecamp.com
+www.basecamp.com
+www.updates.basecamp.com
 www.updates.basecamp.com
 www.updates.basecamp.com
 www.updates.basecamp.com

@@ -37,7 +37,6 @@ mail-relay-105.basecamp.com
 marketing-staging.basecamp.com
 mx.3.basecamp.com
 mx.basecamp.com
-mx.staging.3.basecamp.com
 mx.staging.basecamp.com
 outbound-mail-01.basecamp.com
 outbound-mail-02.basecamp.com
@@ -65,7 +64,6 @@ rw-ash-assets.basecamp.com
 rw-ash.basecamp.com
 sc-chi.basecamp.com
 search.basecamp.com
-staging.3.basecamp.com
 status.basecamp.com
 statuspage.basecamp.com
 storage.3.basecamp.com

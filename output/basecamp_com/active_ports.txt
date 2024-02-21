@@ -1,3 +1,7 @@
+3.basecamp.com:443
+3.basecamp.com:80
+3.basecamp.com:8080
+3.basecamp.com:8443
 asset1.basecamp.com:443
 asset1.basecamp.com:80
 asset1.basecamp.com:8080
@@ -38,7 +42,6 @@ marketing-staging.basecamp.com:8080
 marketing-staging.basecamp.com:8443
 mx.3.basecamp.com:25
 mx.basecamp.com:25
-mx.staging.3.basecamp.com:25
 preview.3.basecamp.com:443
 preview.3.basecamp.com:80
 preview.3.basecamp.com:8080

@@ -1,9 +1,11 @@
+http://3.basecamp.com
+http://3.basecamp.com:8080
+http://3.basecamp.com:8443
 http://asset1.basecamp.com
 http://asset1.basecamp.com:8080
 http://asset1.basecamp.com:8443
 http://basecamp.com
 http://basecamp.com:8080
-http://basecamp.com:8443
 http://beta.3.basecamp.com
 http://beta.basecamp.com
 http://beta1.3.basecamp.com
@@ -60,8 +62,10 @@ http://www.basecamp.com
 http://www.basecamp.com:8080
 http://www.basecamp.com:8443
 http://www.updates.basecamp.com
+https://3.basecamp.com
 https://asset1.basecamp.com
 https://basecamp.com
+https://basecamp.com:8443
 https://beta.basecamp.com
 https://beta1.3.basecamp.com
 https://beta1.basecamp.com

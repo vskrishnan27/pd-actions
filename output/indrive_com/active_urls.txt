@@ -36,7 +36,6 @@ http://rideshare.indrive.com
 http://s.indrive.com
 http://services.indrive.com
 http://servicos.indrive.com
-http://servicos.indrive.com:443
 http://sgtm.indrive.com
 http://share.indrive.com
 http://sharetrip.indrive.com
@@ -51,7 +50,6 @@ http://www.beginit.indrive.com
 http://www.book.indrive.com
 http://www.indrive.com
 http://www.intercity.indrive.com
-http://www.lp-food.indrive.com
 http://www.lp-services.indrive.com
 http://www.sparklab.indrive.com
 http://www.supernovas.indrive.com
@@ -83,6 +81,7 @@ https://intercity.indrive.com
 https://internal.delivery.indrive.com
 https://internal.sandbox.delivery.indrive.com
 https://job.indrive.com
+https://landing.indrive.com
 https://lp-food.indrive.com
 https://lp-services.indrive.com
 https://media.indrive.com
@@ -94,6 +93,7 @@ https://ref.indrive.com
 https://rideshare.indrive.com
 https://s.indrive.com
 https://services.indrive.com
+https://servicos.indrive.com
 https://sgtm.indrive.com
 https://share.indrive.com
 https://sharetrip.indrive.com
@@ -105,7 +105,6 @@ https://us.indrive.com
 https://ventures.indrive.com
 https://wa-auth.indrive.com
 https://www.beginit.indrive.com
-https://www.book.indrive.com
 https://www.indrive.com
 https://www.intercity.indrive.com
 https://www.lp-food.indrive.com

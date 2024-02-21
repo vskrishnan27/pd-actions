@@ -16,7 +16,6 @@ http://autenticar.hostinger.com
 http://autentificacion.hostinger.com
 http://autentificar.hostinger.com
 http://auth.hostinger.com
-http://auth.hostinger.com:8080
 http://auth.hostinger.com:8443
 http://autoconfig.mail.hostinger.com
 http://autodiscover.mail.hostinger.com
@@ -27,6 +26,7 @@ http://builder.hostinger.com:8443
 http://cart.hostinger.com
 http://cart.hostinger.com:8443
 http://cdn.hostinger.com
+http://cdn.hostinger.com:8080
 http://cdn.hostinger.com:8443
 http://confirmar.hostinger.com
 http://connect.hostinger.com
@@ -79,7 +79,6 @@ http://roadmap.hostinger.com:8443
 http://sahkan.hostinger.com
 http://se.account.hostinger.com
 http://se.account.hostinger.com:8080
-http://se.account.hostinger.com:8443
 http://se.email.hostinger.com
 http://se.email.hostinger.com:8080
 http://se.email.hostinger.com:8443
@@ -89,6 +88,7 @@ http://sso.hostinger.com
 http://sso.hostinger.com:8443
 http://statuspage.hostinger.com
 http://statuspage.hostinger.com:8080
+http://statuspage.hostinger.com:8443
 http://support.hostinger.com
 http://support.hostinger.com:8080
 http://support.hostinger.com:8443
@@ -119,7 +119,6 @@ http://valideren.hostinger.com
 http://validieren.hostinger.com
 http://verifikatsiya.hostinger.com
 http://webhooks.hostinger.com
-http://webhooks.hostinger.com:8443
 http://webmail.hostinger.com
 http://webmail1.hostinger.com
 http://webmail1.hostinger.com:8443
@@ -188,11 +187,11 @@ https://rest-hosting.hostinger.com
 https://roadmap.hostinger.com
 https://sahkan.hostinger.com
 https://se.account.hostinger.com
+https://se.account.hostinger.com:8443
 https://se.email.hostinger.com
 https://sql111.hostinger.com:8443
 https://sso.hostinger.com
 https://statuspage.hostinger.com
-https://statuspage.hostinger.com:8443
 https://support.hostinger.com
 https://titancalendar.hostinger.com
 https://titancontacts.hostinger.com
@@ -221,6 +220,7 @@ https://valideren.hostinger.com
 https://validieren.hostinger.com
 https://verifikatsiya.hostinger.com
 https://webhooks.hostinger.com
+https://webhooks.hostinger.com:8443
 https://webmail.hostinger.com
 https://webmail.hostinger.com:8443
 https://webmail1.hostinger.com

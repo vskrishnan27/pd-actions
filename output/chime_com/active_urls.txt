@@ -89,6 +89,7 @@ http://member-qa.chime.com:8080
 http://member-qa.chime.com:8443
 http://member.chime.com
 http://member.chime.com:8080
+http://member.chime.com:8443
 http://mobile-state.chime.com
 http://monocle-dev1.chime.com
 http://monocle-dev1.chime.com:8080
@@ -192,7 +193,6 @@ https://locations.chime.com
 https://member-dev1.chime.com
 https://member-qa.chime.com
 https://member.chime.com
-https://member.chime.com:8443
 https://mobile-state.chime.com
 https://monocle-dev1.chime.com
 https://monocle-qa.chime.com

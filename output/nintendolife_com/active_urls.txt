@@ -14,7 +14,6 @@ http://codes.nintendolife.com:8443
 http://default.nintendolife.com
 http://deltaconsultoresnoa.comwww.nintendolife.com
 http://dev.nintendolife.com
-http://ds.nintendolife.com
 http://dsiware.nintendolife.com
 http://fpdual.faecta.coopwww.nintendolife.com
 http://fs.nintendolife.com
@@ -40,6 +39,7 @@ http://wii.nintendolife.com
 http://wii2.nintendolife.com
 http://wiiu.nintendolife.com
 http://wiiware.nintendolife.com
+http://ww.nintendolife.com
 http://www.nintendolife.com
 http://www.nintendolife.com:8080
 http://www.nintendolife.com:8443
@@ -53,7 +53,6 @@ https://codes.nintendolife.com
 https://default.nintendolife.com
 https://deltaconsultoresnoa.comwww.nintendolife.com
 https://dev.nintendolife.com
-https://ds.nintendolife.com
 https://dsiware.nintendolife.com
 https://fpdual.faecta.coopwww.nintendolife.com
 https://fs.nintendolife.com
@@ -73,4 +72,5 @@ https://wii.nintendolife.com
 https://wii2.nintendolife.com
 https://wiiu.nintendolife.com
 https://wiiware.nintendolife.com
+https://ww.nintendolife.com
 https://www.nintendolife.com

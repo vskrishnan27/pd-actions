@@ -607,6 +607,8 @@ phoenixrehabnew.freshworks.com:443
 phoenixrehabnew.freshworks.com:80
 pioneertitlecohelp.freshworks.com:443
 pioneertitlecohelp.freshworks.com:80
+podapsoutheastlogin.freshworks.com:443
+podapsoutheastlogin.freshworks.com:80
 pottervilla.freshworks.com:443
 pottervilla.freshworks.com:80
 printbarato.freshworks.com:443
@@ -718,8 +720,8 @@ ubx-au.freshworks.com:443
 ubx-au.freshworks.com:80
 ubx-eu.freshworks.com:443
 ubx-eu.freshworks.com:80
-ubx-mec.freshworks.com:443
-ubx-mec.freshworks.com:80
+ubx-in.freshworks.com:443
+ubx-in.freshworks.com:80
 ubx.freshworks.com:443
 ubx.freshworks.com:80
 uecelectronics.freshworks.com:443

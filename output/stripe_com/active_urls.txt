@@ -8,7 +8,6 @@ http://armada.stripe.com
 http://atlas.stripe.com
 http://auth.stripe.com
 http://barclays-hooks.stripe.com
-http://billing.stripe.com
 http://blik-hooks.stripe.com
 http://blog.stripe.com
 http://bom.corp.stripe.com:443
@@ -95,6 +94,7 @@ http://ip-54-187-119-242.stripe.com
 http://ip-54-187-159-182.stripe.com
 http://issuing-key.stripe.com
 http://jira.corp.stripe.com:443
+http://js.stripe.com
 http://jss.prod.corp.stripe.com:443
 http://lists.stripe.com
 http://local.corp.stripe.com:443
@@ -124,9 +124,9 @@ http://press.stripe.com
 http://prod-files-flow.stripe.com
 http://prod-frontend-flow.stripe.com
 http://prod-js-tree.stripe.com
+http://prod-js-tree.stripe.com:443
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
-http://public.stripe.com
 http://q.stripe.com
 http://qa-api-global-bluegreen.stripe.com
 http://qa-api.stripe.com
@@ -255,8 +255,10 @@ https://invoicedata.stripe.com
 https://ip-54-186-23-98.stripe.com
 https://ip-54-187-119-242.stripe.com
 https://ip-54-187-159-182.stripe.com
+https://ipaddr-3ds.stripe.com
 https://issuing-hooks-public.stripe.com
 https://issuing-key.stripe.com
+https://js.stripe.com
 https://jss.qa.corp.stripe.com
 https://lists.stripe.com
 https://lokalise-hooks.stripe.com
@@ -277,10 +279,8 @@ https://preprod-crypto-js.stripe.com
 https://press.stripe.com
 https://prod-files-flow.stripe.com
 https://prod-frontend-flow.stripe.com
-https://prod-js-tree.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
-https://public.stripe.com
 https://q.stripe.com
 https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com

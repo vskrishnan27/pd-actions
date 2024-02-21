@@ -76,6 +76,8 @@ status.miro.com
 studio.buf.miro.com
 svc.eu01.miro.com
 svc.us01.miro.com
+svg-convert.eu01.miro.com
+svg-convert.us01.miro.com
 team.miro.com
 template-metadata-service-public.svc.miro.com
 template-metadata-service-static.miro.com

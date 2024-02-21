@@ -63,7 +63,6 @@ http://links.m.miro.com
 http://links.m.miro.com:8443
 http://lubo.miro.com
 http://meet.miro.com
-http://miro.com
 http://mobile.miro.com
 http://mwww.miro.com
 http://notifications-overlay.svc.miro.com
@@ -85,7 +84,10 @@ http://status.miro.com
 http://studio.buf.miro.com
 http://svc.eu01.miro.com
 http://svc.us01.miro.com
+http://svg-convert.eu01.miro.com
+http://svg-convert.us01.miro.com
 http://team.miro.com
+http://team.miro.com:443
 http://template-metadata-service-public.svc.miro.com
 http://template-metadata-service-static.miro.com
 http://template-social-service-public.svc.miro.com
@@ -99,7 +101,6 @@ http://us.miro.com
 http://us01.miro.com
 http://view.account.miro.com
 http://view.e.miro.com
-http://ww.miro.com
 http://www.events.miro.com
 http://www.jira-cards.miro.com
 http://www.miro.com
@@ -158,7 +159,6 @@ https://learns.miro.com
 https://links.m.miro.com
 https://lubo.miro.com
 https://meet.miro.com
-https://miro.com
 https://mobile.miro.com
 https://mwww.miro.com
 https://notifications-overlay.svc.miro.com
@@ -180,7 +180,8 @@ https://status.miro.com
 https://studio.buf.miro.com
 https://svc.eu01.miro.com
 https://svc.us01.miro.com
-https://team.miro.com
+https://svg-convert.eu01.miro.com
+https://svg-convert.us01.miro.com
 https://template-metadata-service-public.svc.miro.com
 https://template-metadata-service-static.miro.com
 https://template-social-service-public.svc.miro.com
@@ -194,7 +195,6 @@ https://us.miro.com
 https://us01.miro.com
 https://view.account.miro.com
 https://view.e.miro.com
-https://ww.miro.com
 https://www.events.miro.com
 https://www.jira-cards.miro.com
 https://www.miro.com

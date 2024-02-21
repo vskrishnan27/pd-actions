@@ -24,6 +24,7 @@ dkms-customer-api.stagef.magic.link
 docs.magic.link
 editor.magic.link
 email.magic.link
+ethdenver.magic.link
 events-int.magic.link
 events.stagef.magic.link
 fcl.magic.link

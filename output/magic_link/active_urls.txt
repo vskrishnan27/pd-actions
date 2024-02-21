@@ -27,8 +27,6 @@ http://auth-sx-bet.partner-auth.magic.link:8080
 http://auth-sx-bet.partner-auth.magic.link:8443
 http://auth.dev.magic.link
 http://auth.dev.magic.link:8080
-http://auth.magic.link
-http://auth.magic.link:8080
 http://auth.stagef.magic.link
 http://auth.stagef.magic.link:8080
 http://box.magic.link
@@ -50,6 +48,7 @@ http://dkms-customer-api.stagef.magic.link:8080
 http://docs.magic.link
 http://editor.magic.link
 http://email.magic.link
+http://ethdenver.magic.link
 http://events-int.magic.link
 http://events-int.magic.link:8080
 http://events.stagef.magic.link
@@ -104,8 +103,6 @@ https://assets.auth.stagef.magic.link
 https://assets.auth.stagef.magic.link:8443
 https://auth.dev.magic.link
 https://auth.dev.magic.link:8443
-https://auth.magic.link
-https://auth.magic.link:8443
 https://auth.stagef.magic.link
 https://auth.stagef.magic.link:8443
 https://box.magic.link
@@ -127,6 +124,7 @@ https://dkms-customer-api.stagef.magic.link:8443
 https://docs.magic.link
 https://editor.magic.link
 https://email.magic.link
+https://ethdenver.magic.link
 https://events-int.magic.link
 https://events-int.magic.link:8443
 https://events.stagef.magic.link

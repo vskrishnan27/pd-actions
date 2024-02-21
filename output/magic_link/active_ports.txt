@@ -40,10 +40,6 @@ auth.dev.magic.link:443
 auth.dev.magic.link:80
 auth.dev.magic.link:8080
 auth.dev.magic.link:8443
-auth.magic.link:443
-auth.magic.link:80
-auth.magic.link:8080
-auth.magic.link:8443
 auth.stagef.magic.link:443
 auth.stagef.magic.link:80
 auth.stagef.magic.link:8080
@@ -86,6 +82,8 @@ editor.magic.link:443
 editor.magic.link:80
 email.magic.link:443
 email.magic.link:80
+ethdenver.magic.link:443
+ethdenver.magic.link:80
 events-int.magic.link:443
 events-int.magic.link:80
 events-int.magic.link:8080

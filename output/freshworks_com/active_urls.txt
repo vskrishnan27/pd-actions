@@ -304,8 +304,8 @@ http://toyotacf.freshworks.com
 http://trust.freshworks.com
 http://trust.internal.freshworks.com
 http://ubx-au.freshworks.com
-http://ubx-eu.freshworks.com
 http://ubx-in.freshworks.com
+http://ubx-mec.freshworks.com
 http://ubx.freshworks.com
 http://uecelectronics.freshworks.com
 http://umt1.freshworks.com
@@ -557,6 +557,7 @@ https://integrations.freshworks.com
 https://internalreferral.freshworks.com
 https://intuitionpublishingltd.freshworks.com
 https://invohealthcare.freshworks.com
+https://ir.freshworks.com
 https://istonline.freshworks.com
 https://jacoinchelp.freshworks.com
 https://janlinders.freshworks.com
@@ -664,8 +665,8 @@ https://toyotacf.freshworks.com
 https://trust.freshworks.com
 https://trust.internal.freshworks.com
 https://ubx-au.freshworks.com
-https://ubx-eu.freshworks.com
 https://ubx-in.freshworks.com
+https://ubx-mec.freshworks.com
 https://ubx.freshworks.com
 https://uecelectronics.freshworks.com
 https://umt1.freshworks.com

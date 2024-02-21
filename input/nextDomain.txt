@@ -1,4 +1,3 @@
-miro.com
 malwarebytes.com
 recargapay.com.br
 okx.com
@@ -77,3 +76,4 @@ basecamp.com
 forescout.com
 trustpilot.com
 magic.link
+miro.com

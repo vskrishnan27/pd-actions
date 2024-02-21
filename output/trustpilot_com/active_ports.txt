@@ -30,8 +30,6 @@ authentication.trustpilot.com:443
 authentication.trustpilot.com:80
 b2b.trustpilot.com:443
 b2b.trustpilot.com:80
-blog.trustpilot.com:443
-blog.trustpilot.com:80
 br.business.trustpilot.com:443
 br.business.trustpilot.com:80
 br.trustpilot.com:443
@@ -294,16 +292,12 @@ tech.trustpilot.com:443
 tech.trustpilot.com:80
 trustnet.trustpilot.com:443
 trustnet.trustpilot.com:80
-trustpilot.com:443
-trustpilot.com:80
 uk.business.trustpilot.com:443
 uk.business.trustpilot.com:80
 uk.legal.trustpilot.com:443
 uk.legal.trustpilot.com:80
 uk.trustpilot.com:443
 uk.trustpilot.com:80
-us.business.trustpilot.com:443
-us.business.trustpilot.com:80
 user-images.trustpilot.com:443
 user-images.trustpilot.com:80
 widget.trustpilot.com:443

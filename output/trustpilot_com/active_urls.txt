@@ -18,7 +18,6 @@ http://au.business.trustpilot.com
 http://au.trustpilot.com
 http://authentication.trustpilot.com
 http://b2b.trustpilot.com
-http://blog.trustpilot.com
 http://br.business.trustpilot.com
 http://br.trustpilot.com
 http://brand.trustpilot.com
@@ -151,11 +150,9 @@ http://support.trustpilot.com:8080
 http://support.trustpilot.com:8443
 http://tech.trustpilot.com
 http://trustnet.trustpilot.com
-http://trustpilot.com
 http://uk.business.trustpilot.com
 http://uk.legal.trustpilot.com
 http://uk.trustpilot.com
-http://us.business.trustpilot.com
 http://user-images.trustpilot.com
 http://widget.trustpilot.com
 http://wildcard-configurablehttpredirector.trustpilot.com
@@ -176,7 +173,6 @@ https://authenticate.b2b.trustpilot.com
 https://authenticate.trustpilot.com
 https://authentication.trustpilot.com
 https://b2b.trustpilot.com
-https://blog.trustpilot.com
 https://br.business.trustpilot.com
 https://br.trustpilot.com
 https://brand.trustpilot.com
@@ -307,11 +303,9 @@ https://status.trustpilot.com
 https://support.trustpilot.com
 https://tech.trustpilot.com
 https://trustnet.trustpilot.com
-https://trustpilot.com
 https://uk.business.trustpilot.com
 https://uk.legal.trustpilot.com
 https://uk.trustpilot.com
-https://us.business.trustpilot.com
 https://user-images.trustpilot.com
 https://widget.trustpilot.com
 https://wildcard-configurablehttpredirector.trustpilot.com

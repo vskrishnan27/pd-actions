@@ -42,7 +42,6 @@ http://captaintoad.nintendo.com
 http://careers.nintendo.com
 http://cdn.accounts.nintendo.com
 http://chibirobo-photofinder.nintendo.com
-http://chibirobo-ziplash.nintendo.com
 http://click.ccg.nintendo.com
 http://cloud.ccg.nintendo.com
 http://club-catalog.nintendo.com
@@ -104,11 +103,9 @@ http://ed193d809cb211e5aa6dac5221900864-sb-dev-studio.mii.nintendo.com
 http://en-americas-support.nintendo.com
 http://es-americas-support.nintendo.com
 http://es.nintendo.com
-http://events.nintendo.com
 http://everoasis.nintendo.com
 http://experience.nintendo.com
 http://fantasylife.nintendo.com
-http://fatalframe.nintendo.com
 http://ffcc.nintendo.com
 http://ffdos.nintendo.com
 http://ffiv.nintendo.com
@@ -201,6 +198,7 @@ http://mariokart.nintendo.com
 http://mariokart7.nintendo.com
 http://mariokart8deluxe.nintendo.com
 http://mariomaker.nintendo.com
+http://marioparty10.nintendo.com
 http://marioparty100.nintendo.com
 http://mariopartyislandtour.nintendo.com
 http://mariopartystarrush.nintendo.com
@@ -215,6 +213,7 @@ http://mediasrc.nintendo.com
 http://metroidprime.nintendo.com
 http://metroidsamusreturns.nintendo.com
 http://miitopia.nintendo.com
+http://minimario.nintendo.com
 http://mng-dev.redirect-support.nintendo.com
 http://monsterhunterstories.nintendo.com
 http://my.nintendo.com
@@ -291,8 +290,6 @@ http://pushmo.nintendo.com
 http://pushmoworld.nintendo.com
 http://puzzleanddragons.nintendo.com
 http://qa.events.nintendo.com
-http://questsp1ique.nintendo.com:443
-http://register.nintendo.com
 http://repair-dev.nintendo.com
 http://repair-uat.nintendo.com
 http://repair.nintendo.com
@@ -345,9 +342,7 @@ http://static.paymentweb.nintendo.com
 http://steeldiver.nintendo.com
 http://store-jp.nintendo.com
 http://store-jp.nintendo.com:8443
-http://storemedia.nintendo.com
 http://stretchmo.nintendo.com
-http://studio.mii.nintendo.com
 http://stylesavvy.nintendo.com
 http://stylesavvy2.nintendo.com
 http://supermario3dland.nintendo.com
@@ -579,7 +574,6 @@ https://d4b3255b2c3d3e77668984ff3bef1d83-sb.baas.nintendo.com
 https://d6bd036d949825c7a74e2fe7545507ea-sb.baas.nintendo.com
 https://d701a816f4d211e58f138b766ca8eda5-sb.baas.nintendo.com
 https://d755bd7119d550f3186784407829e1ef-sb.baas.nintendo.com
-https://daemonxmachina.nintendo.com
 https://datagateway.cleardive-nonprod.ntd.nintendo.com
 https://datagateway.cleardive.ntd.nintendo.com
 https://dd1.dev-argta-2.nintendo.com
@@ -634,7 +628,6 @@ https://ef7eb216a093be137b19fac2e2fd08c4-sb-dev.baas.nintendo.com
 https://en-americas-support.nintendo.com
 https://es-americas-support.nintendo.com
 https://es.nintendo.com
-https://events.nintendo.com
 https://everoasis.nintendo.com
 https://experience.nintendo.com
 https://f25932d58f9dd27e276512b310c575f5-sb.baas.nintendo.com
@@ -753,6 +746,7 @@ https://marioandluigisuperstarsaga.nintendo.com
 https://mariokart.nintendo.com
 https://mariokart7.nintendo.com
 https://mariokart8deluxe.nintendo.com
+https://mariomaker.nintendo.com
 https://marioparty10.nintendo.com
 https://marioparty100.nintendo.com
 https://mariopartyislandtour.nintendo.com
@@ -850,11 +844,11 @@ https://prod-store.nintendo.com
 https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
+https://ptdairwatch.noa.nintendo.com:1025
+https://ptdairwatch.noa.nintendo.com:106
 https://ptdairwatch.noa.nintendo.com:111
-https://ptdairwatch.noa.nintendo.com:143
-https://ptdairwatch.noa.nintendo.com:1755
-https://ptdairwatch.noa.nintendo.com:49153
-https://ptdairwatch.noa.nintendo.com:995
+https://ptdairwatch.noa.nintendo.com:25
+https://ptdairwatch.noa.nintendo.com:7
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com
@@ -927,7 +921,6 @@ https://steeldiver.nintendo.com
 https://store-jp.nintendo.com
 https://storemedia.nintendo.com
 https://stretchmo.nintendo.com
-https://studio.mii.nintendo.com
 https://stylesavvy.nintendo.com
 https://stylesavvy2.nintendo.com
 https://supermario3dland.nintendo.com

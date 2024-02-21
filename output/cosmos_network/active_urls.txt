@@ -103,6 +103,9 @@ http://backend.cosmos.network:8443
 http://beta.cosmos.network
 http://beta.cosmos.network:8080
 http://beta.cosmos.network:8443
+http://bigbang.cosmos.network
+http://bigbang.cosmos.network:8080
+http://bigbang.cosmos.network:8443
 http://billingapi.bigbang.cosmos.network
 http://billingapi.bigbang.cosmos.network:443
 http://billingapi.bigbang.cosmos.network:8080
@@ -227,9 +230,6 @@ http://int-rest.bigbang.cosmos.network:8080
 http://int-rest.bigbang.cosmos.network:8443
 http://interchainacademy.cosmos.network
 http://interchainacademy.cosmos.network:8080
-http://irisnet.cosmos.network
-http://irisnet.cosmos.network:8080
-http://irisnet.cosmos.network:8443
 http://jobs.cosmos.network
 http://jobs.cosmos.network:8080
 http://jobs.cosmos.network:8443
@@ -345,9 +345,6 @@ http://securerest.bigbang.cosmos.network:8443
 http://shop.cosmos.network
 http://shop.cosmos.network:8080
 http://signups.cosmos.network
-http://simulations.cosmos.network
-http://simulations.cosmos.network:8080
-http://simulations.cosmos.network:8443
 http://slack.cosmos.network
 http://slack.cosmos.network:8080
 http://slack.cosmos.network:8443
@@ -386,6 +383,7 @@ https://api.cosmos.network:8443
 https://atlas.cosmos.network
 https://backend.cosmos.network
 https://beta.cosmos.network
+https://bigbang.cosmos.network
 https://blog-feed.cosmos.network
 https://blog.cosmos.network
 https://blogrss.cosmos.network
@@ -416,7 +414,6 @@ https://hub.cosmos.network
 https://ibc.cosmos.network
 https://interchainacademy.cosmos.network
 https://interchainacademy.cosmos.network:8443
-https://irisnet.cosmos.network
 https://jobs.cosmos.network
 https://lunie.cosmos.network
 https://ml.cosmos.network
@@ -430,7 +427,6 @@ https://rpc.cosmos.network
 https://shop.cosmos.network
 https://shop.cosmos.network:8443
 https://signups.cosmos.network
-https://simulations.cosmos.network
 https://slack.cosmos.network
 https://stargate.cosmos.network
 https://store.cosmos.network

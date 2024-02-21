@@ -189,6 +189,8 @@ wp-ci.chime.com:8080
 wp-ci.chime.com:8443
 wp-dev1.chime.com:443
 wp-dev1.chime.com:80
+wp-dev1.chime.com:8080
+wp-dev1.chime.com:8443
 wp-dev2.chime.com:443
 wp-dev2.chime.com:80
 wp-dev2.chime.com:8080

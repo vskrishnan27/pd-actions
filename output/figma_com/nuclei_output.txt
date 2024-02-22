@@ -1,1 +1,1 @@
-[CVE-2015-8813] [http] [high] https://cors-image-proxy.figma.com/Umbraco/feedproxy.aspx?url=http://cnbfeq91p8ebo12paal0utjum44394izc.oast.pro
+[CVE-2015-8813] [http] [high] https://cors-image-proxy.figma.com/Umbraco/feedproxy.aspx?url=http://cnbn4kp1p8ebph15rqcghdnfu8bwhtx8a.oast.pro

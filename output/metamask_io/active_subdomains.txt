@@ -46,6 +46,7 @@ gas.api.cx.metamask.io
 gas.dev-api.cx.metamask.io
 gas.uat-api.cx.metamask.io
 get.metamask.io
+go.metamask.io
 home.metamask.io
 labels-us-east-2.dev-api.cx.metamask.io
 labels.dev-api.cx.metamask.io

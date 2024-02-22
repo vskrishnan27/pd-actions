@@ -78,6 +78,7 @@ http://expw-b-envproxy-use1.dev.rs.ring.com
 http://fileupload.cs-tools.dev.ring.com
 http://fileupload.cs-tools.ring.com
 http://firmwares.dev.ring.com
+http://firmwares.dev.ring.com:8080
 http://firmwares.dev.ring.com:8443
 http://firmwares.qa.ring.com
 http://firmwares.qa.ring.com:8443

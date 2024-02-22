@@ -297,7 +297,6 @@ api-staging.community.gitlab.com
 api.community.gitlab.com
 app-staging.community.gitlab.com
 app.community.gitlab.com
-aptly.gitlab.com
 archives.docs.gitlab.com
 auth.staging.gitlab.com
 blog.gitlab.com

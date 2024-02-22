@@ -220,8 +220,6 @@ edr.tesla.com:443
 edr.tesla.com:80
 ehs.tesla.com:443
 ehs.tesla.com:80
-einvoicing.tesla.com:443
-einvoicing.tesla.com:80
 email1.tesla.com:25
 emails.tesla.com:25
 employeefeedback.tesla.com:443
@@ -288,8 +286,6 @@ installations-ext-api.tesla.com:80
 integration.kronos.tesla.com:443
 inventory-assets.tesla.com:443
 inventory-assets.tesla.com:80
-ion.tesla.com:443
-ion.tesla.com:80
 ir.tesla.com:443
 ir.tesla.com:80
 itanswers.tesla.com:80
@@ -297,7 +293,6 @@ kronos-dev.tesla.com:443
 kronos-dev.tesla.com:80
 kronos.tesla.com:443
 kronos.tesla.com:80
-lax32-gpgw1.tesla.com:443
 link.qa.tesla.com:443
 link.qa.tesla.com:80
 link.tesla.com:443
@@ -324,6 +319,8 @@ mfa.tesla.com:443
 mfa.tesla.com:80
 mfs-supplier-uat.tesla.com:443
 mfs-supplier-uat.tesla.com:80
+mfs-supplier.tesla.com:443
+mfs-supplier.tesla.com:80
 mobile-links-cdn.eng.vn.cloud.tesla.com:443
 mobile-links-cdn.eng.vn.cloud.tesla.com:80
 mobile-links-cdn.prd.vn.cloud.tesla.com:443
@@ -348,11 +345,12 @@ origin-sspr.tesla.com:443
 origin-sspr.tesla.com:80
 origin-www.tesla.com:443
 origin-wwwcdn.tesla.com:443
+ownership.tesla.com:443
+ownership.tesla.com:80
 pages.email.tesla.com:443
 pages.email.tesla.com:80
 pages.emails.tesla.com:443
 pages.emails.tesla.com:80
-partnerleadsharing.tesla.com:80
 partners.tesla.com:443
 partners.tesla.com:80
 pay.tesla.com:443

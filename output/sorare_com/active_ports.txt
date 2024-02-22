@@ -6,10 +6,6 @@ api.sorare.com:443
 api.sorare.com:80
 api.sorare.com:8080
 api.sorare.com:8443
-assets.sorare.com:443
-assets.sorare.com:80
-assets.sorare.com:8080
-assets.sorare.com:8443
 blog.sorare.com:443
 blog.sorare.com:80
 frontend-assets.sorare.com:443
@@ -36,6 +32,10 @@ nbaguide.sorare.com:443
 nbaguide.sorare.com:80
 nbaguide.sorare.com:8080
 nbaguide.sorare.com:8443
+sorare.com:443
+sorare.com:80
+sorare.com:8080
+sorare.com:8443
 status.sorare.com:443
 status.sorare.com:80
 status.sorare.com:8080

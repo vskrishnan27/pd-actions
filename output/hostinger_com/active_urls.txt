@@ -26,7 +26,6 @@ http://builder.hostinger.com:8443
 http://cart.hostinger.com
 http://cart.hostinger.com:8443
 http://cdn.hostinger.com
-http://cdn.hostinger.com:8080
 http://cdn.hostinger.com:8443
 http://confirmar.hostinger.com
 http://connect.hostinger.com
@@ -119,6 +118,7 @@ http://valideren.hostinger.com
 http://validieren.hostinger.com
 http://verifikatsiya.hostinger.com
 http://webhooks.hostinger.com
+http://webhooks.hostinger.com:8443
 http://webmail.hostinger.com
 http://webmail1.hostinger.com
 http://webmail1.hostinger.com:8443
@@ -220,7 +220,6 @@ https://valideren.hostinger.com
 https://validieren.hostinger.com
 https://verifikatsiya.hostinger.com
 https://webhooks.hostinger.com
-https://webhooks.hostinger.com:8443
 https://webmail.hostinger.com
 https://webmail.hostinger.com:8443
 https://webmail1.hostinger.com

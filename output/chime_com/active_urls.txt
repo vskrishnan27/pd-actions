@@ -125,6 +125,7 @@ http://status.chime.com
 http://status.chime.com:8080
 http://transaction.chime.com
 http://transaction.chime.com:8080
+http://transaction.chime.com:8443
 http://wp-ci.chime.com
 http://wp-ci.chime.com:8080
 http://wp-ci.chime.com:8443
@@ -136,7 +137,6 @@ http://wp-dev2.chime.com:8080
 http://wp-dev2.chime.com:8443
 http://wp-dev3.chime.com
 http://wp-dev3.chime.com:8080
-http://wp-dev3.chime.com:8443
 http://wp-dev4.chime.com
 http://wp-dev4.chime.com:8080
 http://wp-dev4.chime.com:8443
@@ -148,7 +148,6 @@ http://wp-integ.chime.com:8080
 http://wp-integ.chime.com:8443
 http://wp-qa.chime.com
 http://wp-qa.chime.com:8080
-http://wp-qa.chime.com:8443
 http://www.chime.com
 https://16002407.account.chime.com
 https://16002407.notify.chime.com
@@ -207,13 +206,14 @@ https://static-attachments.chime.com
 https://status.chime.com
 https://status.chime.com:8443
 https://transaction.chime.com
-https://transaction.chime.com:8443
 https://wp-ci.chime.com
 https://wp-dev1.chime.com
 https://wp-dev2.chime.com
 https://wp-dev3.chime.com
+https://wp-dev3.chime.com:8443
 https://wp-dev4.chime.com
 https://wp-dev5.chime.com
 https://wp-integ.chime.com
 https://wp-qa.chime.com
+https://wp-qa.chime.com:8443
 https://www.chime.com

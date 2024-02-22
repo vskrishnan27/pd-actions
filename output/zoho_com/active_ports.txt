@@ -64,13 +64,11 @@ aluxner.wiki.zoho.com:443
 analytics.zoho.com:443
 analyticsapi.zoho.com:443
 antivirussoftwarecomparison.adss.wiki.zoho.com:443
-api-console.zoho.com:443
 api.catalyst.zoho.com:443
 api.creator.zoho.com:443
 api.creator.zoho.com:80
 api.wiki.zoho.com:443
 api.wiki.zoho.com:80
-apidocs.zoho.com:443
 apihelp.wiki.zoho.com:443
 apihelp.zoho.com:443
 apihelp.zoho.com:80
@@ -104,7 +102,9 @@ buycareprost.wiki.zoho.com:443
 calendar.zoho.com:443
 campaigns.zoho.com:443
 catalyst.zoho.com:443
+catalyst.zoho.com:80
 cdn.zoho.com:443
+cdn.zoho.com:80
 chairsanufacture.wiki.zoho.com:443
 charr123r.wiki.zoho.com:443
 chase37craig.wiki.zoho.com:443
@@ -120,9 +120,9 @@ commerce.zoho.com:443
 commerceplus.zoho.com:443
 commerceplus.zoho.com:80
 community.zoho.com:443
+community.zoho.com:80
 communitylink.wiki.zoho.com:443
 console.catalyst.zoho.com:443
-contacts.zoho.com:443
 coquiweb.wiki.zoho.com:443
 creator.zoho.com:443
 creatorapi.wiki.zoho.com:443
@@ -201,7 +201,6 @@ fireflysystems.wiki.zoho.com:443
 forums.catalyst.zoho.com:443
 forums.catalyst.zoho.com:80
 forums.zoho.com:443
-gadgets.zoho.com:443
 game1clay.wiki.zoho.com:443
 gamesweplay.wiki.zoho.com:443
 garretthawkins.wiki.zoho.com:443
@@ -228,6 +227,7 @@ ink.zoho.com:443
 inovagestao.wiki.zoho.com:443
 instagramupdate-social.zoho.com:443
 integrations.zoho.com:443
+integrations.zoho.com:80
 inventory.zoho.com:443
 invoice.zoho.com:443
 ipadrepairpetalingjaya.wiki.zoho.com:443
@@ -343,7 +343,6 @@ prezoho.zoho.com:443
 prezoho.zoho.com:80
 prezohoweb.zoho.com:443
 prezohoweb.zoho.com:80
-profile.zoho.com:443
 programaseducativos.wiki.zoho.com:443
 project.zoho.com:443
 project.zoho.com:80
@@ -363,7 +362,6 @@ reports.wiki.zoho.com:443
 reports.zoho.com:443
 running7continents.wiki.zoho.com:443
 salesiq-ro.zoho.com:443
-salesiq-ro.zoho.com:80
 salesiq.zoho.com:443
 sdk-apptics.zoho.com:443
 sdlguide.wiki.zoho.com:443
@@ -374,7 +372,6 @@ sheet.zoho.com:443
 shirachan.wiki.zoho.com:443
 show.zoho.com:443
 signwebhook.zoho.com:443
-signwebhook.zoho.com:80
 sirejeki.wiki.zoho.com:443
 site24x7.wiki.zoho.com:443
 site24x7.zoho.com:443
@@ -398,7 +395,6 @@ status-internal.zoho.com:80
 status.zoho.com:443
 status.zoho.com:80
 store.zoho.com:443
-store.zoho.com:80
 subscriptions.zoho.com:443
 superiordevelopment.wiki.zoho.com:443
 support.zoho.com:443
@@ -426,15 +422,16 @@ us4-wms5.zoho.com:443
 vault.zoho.com:443
 voice.zoho.com:443
 webfonts.zoho.com:443
-webinar.zoho.com:443
 whatiszoho.wiki.zoho.com:443
 wiki.zoho.com:443
 wikioffshore.wiki.zoho.com:443
 wmelvin.wiki.zoho.com:443
+wms.zoho.com:443
 workdrive.zoho.com:443
 worlddreambuilder.wiki.zoho.com:443
 writer.zoho.com:443
 www.zoho.com:443
+www.zoho.com:80
 xsdetect.wiki.zoho.com:443
 xtralog.wiki.zoho.com:443
 zapi.zoho.com:443
@@ -458,14 +455,15 @@ zohosites.wiki.zoho.com:80
 zohosso.wiki.zoho.com:443
 zohowikihelp.wiki.zoho.com:443
 zs-lc1-19-h2-ro.zoho.com:443
+zs-lc1-19-h2-ro.zoho.com:80
 zs-lc1-19-h2.zoho.com:443
 zs-lc1-19-ro.zoho.com:443
 zs-lc1-19.zoho.com:443
 zs-lc1-25-h2.zoho.com:443
 zs-lc1-25.zoho.com:443
 zs-lc2-19-h2.zoho.com:443
-zs-lc2-19.zoho.com:443
 zs-lc2-25-h2.zoho.com:443
+zs-lc2-25-h2.zoho.com:80
 zs-lc3-19-ro.zoho.com:443
 zs-lc3-19-ro.zoho.com:80
 zs-lc3-19.zoho.com:443

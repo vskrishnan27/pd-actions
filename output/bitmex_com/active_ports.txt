@@ -66,10 +66,6 @@ lib.academy.bitmex.com:443
 lib.academy.bitmex.com:80
 lib.academy.bitmex.com:8080
 lib.academy.bitmex.com:8443
-onfido.bitmex.com:443
-onfido.bitmex.com:80
-onfido.bitmex.com:8080
-onfido.bitmex.com:8443
 onfido.devhk.bitmex.com:443
 onfido.devhk.bitmex.com:80
 onfido.devhk.bitmex.com:8080
@@ -78,10 +74,6 @@ onfido.devsf3.bitmex.com:443
 onfido.devsf3.bitmex.com:80
 onfido.devsf3.bitmex.com:8080
 onfido.devsf3.bitmex.com:8443
-onfido.testnet.bitmex.com:443
-onfido.testnet.bitmex.com:80
-onfido.testnet.bitmex.com:8080
-onfido.testnet.bitmex.com:8443
 podcasts.academy.bitmex.com:443
 podcasts.academy.bitmex.com:80
 podcasts.academy.bitmex.com:8080
@@ -92,7 +84,6 @@ public.bitmex.com:443
 public.bitmex.com:80
 research.bitmex.com:443
 research.bitmex.com:80
-securemail.bitmex.com:10000
 securemail.bitmex.com:25
 securemail.bitmex.com:443
 static.bitmex.com:443
@@ -161,14 +152,6 @@ web-ws.testnet.bitmex.com:443
 web-ws.testnet.bitmex.com:80
 web-ws.testnet.bitmex.com:8080
 web-ws.testnet.bitmex.com:8443
-ws.devhk.bitmex.com:443
-ws.devhk.bitmex.com:80
-ws.devhk.bitmex.com:8080
-ws.devhk.bitmex.com:8443
-ws.testnet.bitmex.com:443
-ws.testnet.bitmex.com:80
-ws.testnet.bitmex.com:8080
-ws.testnet.bitmex.com:8443
 www.bitmex.com:443
 www.bitmex.com:80
 www.bitmex.com:8080

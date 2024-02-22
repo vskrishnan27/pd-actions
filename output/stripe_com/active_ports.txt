@@ -215,7 +215,6 @@ pay.stripe.com:443
 pay.stripe.com:80
 payments.stripe.com:443
 payments.stripe.com:80
-pdx.corp.stripe.com:443
 pm-hooks.stripe.com:443
 pm-hooks.stripe.com:80
 pm-redirects.stripe.com:443

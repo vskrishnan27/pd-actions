@@ -12,10 +12,8 @@ clients.3.basecamp.com
 help.basecamp.com
 mail-relay-01.3.basecamp.com
 mail-relay-01.basecamp.com
-mail-relay-01.staging.basecamp.com
 mail-relay-02.3.basecamp.com
 mail-relay-02.basecamp.com
-mail-relay-02.staging.basecamp.com
 mail-relay-03.3.basecamp.com
 mail-relay-03.basecamp.com
 mail-relay-04.3.basecamp.com
@@ -24,10 +22,8 @@ mail-relay-05.3.basecamp.com
 mail-relay-05.basecamp.com
 mail-relay-101.3.basecamp.com
 mail-relay-101.basecamp.com
-mail-relay-101.staging.basecamp.com
 mail-relay-102.3.basecamp.com
 mail-relay-102.basecamp.com
-mail-relay-102.staging.basecamp.com
 mail-relay-103.3.basecamp.com
 mail-relay-103.basecamp.com
 mail-relay-104.3.basecamp.com
@@ -37,7 +33,6 @@ mail-relay-105.basecamp.com
 marketing-staging.basecamp.com
 mx.3.basecamp.com
 mx.basecamp.com
-mx.staging.basecamp.com
 outbound-mail-01.basecamp.com
 outbound-mail-02.basecamp.com
 outbound-mail-03.basecamp.com

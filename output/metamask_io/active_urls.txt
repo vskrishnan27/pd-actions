@@ -70,6 +70,7 @@ http://bridge.dev-api.cx.metamask.io:8080
 http://bridge.dev-api.cx.metamask.io:8443
 http://bridge.uat-api.cx.metamask.io
 http://bridge.uat-api.cx.metamask.io:8080
+http://bridge.uat-api.cx.metamask.io:8443
 http://community.metamask.io
 http://dev-permissionles.snaps.metamask.io
 http://dev-static.cx.metamask.io
@@ -101,7 +102,6 @@ http://gas-us-east-2.uat-api.cx.metamask.io:8080
 http://gas-us-east-2.uat-api.cx.metamask.io:8443
 http://gas.api.cx.metamask.io
 http://gas.api.cx.metamask.io:8080
-http://gas.api.cx.metamask.io:8443
 http://gas.dev-api.cx.metamask.io
 http://gas.dev-api.cx.metamask.io:8080
 http://gas.dev-api.cx.metamask.io:8443
@@ -122,6 +122,7 @@ http://learn.metamask.io
 http://metabase.activity.metamask.io
 http://metabase.activity.metamask.io:8080
 http://metabase.activity.metamask.io:8443
+http://metamask.io
 http://mobile.metamask.io
 http://mobile.metamask.io:8080
 http://my-sample-api2-us-east-2.dev-api.cx.metamask.io
@@ -147,6 +148,7 @@ http://nft.uat-api.cx.metamask.io:8080
 http://nft.uat-api.cx.metamask.io:8443
 http://notification-us-east-2.api.cx.metamask.io
 http://notification-us-east-2.api.cx.metamask.io:8080
+http://notification-us-east-2.api.cx.metamask.io:8443
 http://notification-us-east-2.dev-api.cx.metamask.io
 http://notification-us-east-2.dev-api.cx.metamask.io:8080
 http://notification-us-east-2.dev-api.cx.metamask.io:8443
@@ -322,7 +324,6 @@ http://transaction.dev-api.cx.metamask.io:8080
 http://transaction.dev-api.cx.metamask.io:8443
 http://transaction.uat-api.cx.metamask.io
 http://transaction.uat-api.cx.metamask.io:8080
-http://transaction.uat-api.cx.metamask.io:8443
 http://trigger-us-east-2.api.cx.metamask.io
 http://trigger-us-east-2.api.cx.metamask.io:8080
 http://trigger-us-east-2.api.cx.metamask.io:8443
@@ -350,7 +351,6 @@ http://user-storage-us-east-2.dev-api.cx.metamask.io:8080
 http://user-storage-us-east-2.dev-api.cx.metamask.io:8443
 http://user-storage-us-east-2.uat-api.cx.metamask.io
 http://user-storage-us-east-2.uat-api.cx.metamask.io:8080
-http://user-storage-us-east-2.uat-api.cx.metamask.io:8443
 http://user-storage.api.cx.metamask.io
 http://user-storage.api.cx.metamask.io:8080
 http://user-storage.api.cx.metamask.io:8443
@@ -396,7 +396,6 @@ https://bridge-us-east-2.uat-api.cx.metamask.io
 https://bridge.api.cx.metamask.io
 https://bridge.dev-api.cx.metamask.io
 https://bridge.uat-api.cx.metamask.io
-https://bridge.uat-api.cx.metamask.io:8443
 https://community.metamask.io
 https://dev-permissionles.snaps.metamask.io
 https://dev-static.cx.metamask.io
@@ -415,6 +414,7 @@ https://gas-us-east-2.api.cx.metamask.io
 https://gas-us-east-2.dev-api.cx.metamask.io
 https://gas-us-east-2.uat-api.cx.metamask.io
 https://gas.api.cx.metamask.io
+https://gas.api.cx.metamask.io:8443
 https://gas.dev-api.cx.metamask.io
 https://gas.uat-api.cx.metamask.io
 https://get.metamask.io
@@ -424,6 +424,7 @@ https://labels-us-east-2.dev-api.cx.metamask.io
 https://labels.dev-api.cx.metamask.io
 https://learn.metamask.io
 https://metabase.activity.metamask.io
+https://metamask.io
 https://mobile.metamask.io
 https://mobile.metamask.io:8443
 https://my-sample-api2-us-east-2.dev-api.cx.metamask.io
@@ -434,7 +435,6 @@ https://nft.api.cx.metamask.io
 https://nft.dev-api.cx.metamask.io
 https://nft.uat-api.cx.metamask.io
 https://notification-us-east-2.api.cx.metamask.io
-https://notification-us-east-2.api.cx.metamask.io:8443
 https://notification-us-east-2.dev-api.cx.metamask.io
 https://notification-us-east-2.uat-api.cx.metamask.io
 https://notification.api.cx.metamask.io
@@ -499,6 +499,7 @@ https://transaction-us-east-2.uat-api.cx.metamask.io
 https://transaction.api.cx.metamask.io
 https://transaction.dev-api.cx.metamask.io
 https://transaction.uat-api.cx.metamask.io
+https://transaction.uat-api.cx.metamask.io:8443
 https://trigger-us-east-2.api.cx.metamask.io
 https://trigger-us-east-2.dev-api.cx.metamask.io
 https://trigger-us-east-2.uat-api.cx.metamask.io
@@ -509,6 +510,7 @@ https://uat-static.cx.metamask.io
 https://user-storage-us-east-2.api.cx.metamask.io
 https://user-storage-us-east-2.dev-api.cx.metamask.io
 https://user-storage-us-east-2.uat-api.cx.metamask.io
+https://user-storage-us-east-2.uat-api.cx.metamask.io:8443
 https://user-storage.api.cx.metamask.io
 https://user-storage.dev-api.cx.metamask.io
 https://user-storage.uat-api.cx.metamask.io

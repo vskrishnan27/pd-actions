@@ -1,4 +1,3 @@
-playstation.com
 nordsecurity.com
 snapchat.com
 moderntreasury.com
@@ -77,3 +76,4 @@ airbnb.com
 indrive.com
 hackerone.com
 amazon.com
+playstation.com

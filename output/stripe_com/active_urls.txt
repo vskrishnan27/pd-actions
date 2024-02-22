@@ -6,7 +6,6 @@ http://api-83wzadmhqo.stripe.com
 http://api.stripe.com
 http://armada.stripe.com
 http://atlas.stripe.com
-http://auth.stripe.com
 http://barclays-hooks.stripe.com
 http://billing.stripe.com
 http://blik-hooks.stripe.com
@@ -35,8 +34,8 @@ http://dashboard-canary-1-percent.stripe.com
 http://dashboard-canary-25-percent.stripe.com
 http://dashboard-canary-5-percent.stripe.com
 http://dashboard-canary-50-percent.stripe.com
+http://dashboard.stripe.com
 http://delegated-authentication.stripe.com
-http://docs.stripe.com
 http://donate.stripe.com
 http://dub.corp.stripe.com:443
 http://east.corp.stripe.com:443
@@ -44,13 +43,13 @@ http://edge-billing.stripe.com
 http://edge-book.stripe.com
 http://edge-buy.stripe.com
 http://edge-checkout-tree.stripe.com
+http://edge-checkout-tree.stripe.com:443
 http://edge-checkout.stripe.com
 http://edge-dashboard-admin.stripe.com
 http://edge-dashboard.stripe.com
 http://edge-donate.stripe.com
 http://edge-invoice.stripe.com
 http://edge-js-tree.stripe.com
-http://edge-js-tree.stripe.com:443
 http://edge-js.stripe.com
 http://edge-manage.stripe.com
 http://edge-pay.stripe.com
@@ -124,9 +123,9 @@ http://press.stripe.com
 http://prod-files-flow.stripe.com
 http://prod-frontend-flow.stripe.com
 http://prod-js-tree.stripe.com
-http://prod-js-tree.stripe.com:443
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
+http://public.stripe.com
 http://q.stripe.com
 http://qa-api-global-bluegreen.stripe.com
 http://qa-api.stripe.com
@@ -145,7 +144,6 @@ http://qa-status.stripe.com
 http://qa-support-conversations.stripe.com
 http://qa.corp.stripe.com:443
 http://qr.stripe.com
-http://r.stripe.com
 http://sales-live-chat.stripe.com
 http://sessions.stripe.com
 http://shop.stripe.com
@@ -158,6 +156,7 @@ http://stripe-cli.stripe.com
 http://stripecli-ws-nw.stripe.com
 http://support-conversations.stripe.com
 http://support.stripe.com
+http://t.stripe.com
 http://terminal-simulator.stripe.com
 http://terminal.stripe.com
 http://uploads.stripe.com
@@ -208,12 +207,12 @@ https://donate.stripe.com
 https://edge-billing.stripe.com
 https://edge-book.stripe.com
 https://edge-buy.stripe.com
-https://edge-checkout-tree.stripe.com
 https://edge-checkout.stripe.com
 https://edge-dashboard-admin.stripe.com
 https://edge-dashboard.stripe.com
 https://edge-donate.stripe.com
 https://edge-invoice.stripe.com
+https://edge-js-tree.stripe.com
 https://edge-js.stripe.com
 https://edge-manage.stripe.com
 https://edge-pay.stripe.com
@@ -254,7 +253,6 @@ https://invoicedata.stripe.com
 https://ip-54-186-23-98.stripe.com
 https://ip-54-187-119-242.stripe.com
 https://ip-54-187-159-182.stripe.com
-https://ipaddr-3ds.stripe.com
 https://issuing-hooks-public.stripe.com
 https://issuing-key.stripe.com
 https://js.stripe.com
@@ -278,8 +276,10 @@ https://preprod-crypto-js.stripe.com
 https://press.stripe.com
 https://prod-files-flow.stripe.com
 https://prod-frontend-flow.stripe.com
+https://prod-js-tree.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
+https://public.stripe.com
 https://q.stripe.com
 https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com
@@ -290,7 +290,6 @@ https://qa-ipaddr-3ds.stripe.com
 https://qa-status.stripe.com
 https://qa-support-conversations.stripe.com
 https://qr.stripe.com
-https://r.stripe.com
 https://sales-live-chat.stripe.com
 https://sessions.stripe.com
 https://shop.stripe.com
@@ -303,6 +302,7 @@ https://stripe-cli.stripe.com
 https://stripecli-ws-nw.stripe.com
 https://support-conversations.stripe.com
 https://support.stripe.com
+https://t.stripe.com
 https://terminal-simulator.stripe.com
 https://terminal.stripe.com
 https://uploads.stripe.com

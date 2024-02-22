@@ -1,6 +1,5 @@
 http://api.of.recargapay.com.br
 http://blog.recargapay.com.br
-http://dapi.of.recargapay.com.br
 http://faq.recargapay.com.br
 http://faq.recargapay.com.br:8080
 http://faq.recargapay.com.br:8443

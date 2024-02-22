@@ -19,9 +19,6 @@ http://deeplink.wallet.enjin.io
 http://deeplink.wallet.enjin.io:8080
 http://docs.enjin.io
 http://docs.enjin.io:8080
-http://enjin.io
-http://enjin.io:8080
-http://enjin.io:8443
 http://feedback.enjin.io
 http://feedback.enjin.io:8080
 http://jumpnet.cloud.enjin.io
@@ -31,6 +28,7 @@ http://legacy.docs.enjin.io
 http://legacy.docs.enjin.io:8080
 http://legal.enjin.io
 http://legal.enjin.io:8080
+http://legal.enjin.io:8443
 http://login.enjin.io
 http://mail.enjin.io
 http://mail.enjin.io:8080
@@ -74,14 +72,12 @@ https://deeplink.wallet.enjin.io
 https://deeplink.wallet.enjin.io:8443
 https://docs.enjin.io
 https://docs.enjin.io:8443
-https://enjin.io
 https://feedback.enjin.io
 https://feedback.enjin.io:8443
 https://jumpnet.cloud.enjin.io
 https://legacy.docs.enjin.io
 https://legacy.docs.enjin.io:8443
 https://legal.enjin.io
-https://legal.enjin.io:8443
 https://login.enjin.io
 https://mail.enjin.io
 https://mail.enjin.io:8443

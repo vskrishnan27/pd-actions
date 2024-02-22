@@ -2,8 +2,6 @@ analytics-test-off.moonactive.com
 analytics-test-on.moonactive.com
 gdpr.moonactive.com
 moonactive.com
-tableau-admin.moonactive.com
-tableau.moonactive.com
 thespace-warsaw.moonactive.com
 thespace.moonactive.com
 tlv-vpn.moonactive.com

@@ -75,6 +75,7 @@ http://flowrida-unlockables.sc-corp.net
 http://forge-staging-iap.sc-corp.net
 http://gerrit.sc-corp.net
 http://ghe-dev.sc-corp.net
+http://github.sc-corp.net
 http://grafana-cluster.sc-corp.net
 http://grafana-dashboard.sc-corp.net
 http://grr-admin.sc-corp.net
@@ -93,7 +94,6 @@ http://jira-dev.sc-corp.net
 http://jira-mx-dev.sc-corp.net
 http://jira-mx.sc-corp.net
 http://jira-stage-api.sc-corp.net
-http://jira-stage.sc-corp.net
 http://jira.sc-corp.net
 http://key-master-prod.sc-corp.net
 http://key-master-stage.sc-corp.net
@@ -304,6 +304,7 @@ https://forge-staging-iap.sc-corp.net
 https://gerrit.sc-corp.net
 https://ghe-dev.sc-corp.net
 https://github-backup.sc-corp.net
+https://github.sc-corp.net
 https://grafana-backup.sc-corp.net
 https://grafana-cluster.sc-corp.net
 https://grafana-dashboard.sc-corp.net
@@ -322,7 +323,6 @@ https://jira-dev.sc-corp.net
 https://jira-mx-dev.sc-corp.net
 https://jira-mx.sc-corp.net
 https://jira-stage-api.sc-corp.net
-https://jira-stage.sc-corp.net
 https://jira.sc-corp.net
 https://key-master-prod.sc-corp.net
 https://key-master-stage.sc-corp.net

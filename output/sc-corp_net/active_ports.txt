@@ -53,7 +53,6 @@ campaign-management-dev.sc-corp.net:443
 campaign-management-dev.sc-corp.net:80
 campaign-management-prod.sc-corp.net:443
 campaign-management-prod.sc-corp.net:80
-campus-connect-dev.sc-corp.net:1027
 campus-connect-dev.sc-corp.net:443
 campus-connect-dev.sc-corp.net:80
 campus-connect.sc-corp.net:443
@@ -218,7 +217,6 @@ deployment-master-prod.sc-corp.net:80
 deployment-master-stage.sc-corp.net:443
 deployment-master-stage.sc-corp.net:80
 des-staging.sc-corp.net:443
-des-staging.sc-corp.net:514
 des-staging.sc-corp.net:80
 developer-portal.sc-corp.net:443
 developer-portal.sc-corp.net:80
@@ -271,6 +269,8 @@ ghe-dev.sc-corp.net:443
 ghe-dev.sc-corp.net:80
 github-backup.sc-corp.net:443
 github-backup.sc-corp.net:80
+github.sc-corp.net:443
+github.sc-corp.net:80
 grafana-backup.sc-corp.net:443
 grafana-backup.sc-corp.net:80
 grafana-cluster.sc-corp.net:443
@@ -310,8 +310,6 @@ jira-mx.sc-corp.net:443
 jira-mx.sc-corp.net:80
 jira-stage-api.sc-corp.net:443
 jira-stage-api.sc-corp.net:80
-jira-stage.sc-corp.net:443
-jira-stage.sc-corp.net:80
 jira.sc-corp.net:443
 jira.sc-corp.net:80
 key-master-beta.sc-corp.net:10000
@@ -520,7 +518,6 @@ lca-metrics.sc-corp.net:995
 lca-metrics.sc-corp.net:9999
 lease.sc-corp.net:443
 lease.sc-corp.net:80
-lego-prod.sc-corp.net:1029
 lego-prod.sc-corp.net:443
 lego-prod.sc-corp.net:80
 lego-staging.sc-corp.net:443

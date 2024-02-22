@@ -46,6 +46,10 @@ ksa-en.orders.spectacles.com:443
 ksa-en.orders.spectacles.com:80
 ksa-en.orders.spectacles.com:8080
 ksa-en.orders.spectacles.com:8443
+orders.spectacles.com:443
+orders.spectacles.com:80
+orders.spectacles.com:8080
+orders.spectacles.com:8443
 pln-pl.orders.spectacles.com:443
 pln-pl.orders.spectacles.com:80
 pln-pl.orders.spectacles.com:8080
@@ -53,6 +57,7 @@ pln-pl.orders.spectacles.com:8443
 returns.spectacles.com:443
 returns.spectacles.com:80
 spectacles.com:443
+spectacles.com:5190
 spectacles.com:80
 support.spectacles.com:443
 support.spectacles.com:80
@@ -67,4 +72,5 @@ us-dev.orders.spectacles.com:80
 us-dev.orders.spectacles.com:8080
 us-dev.orders.spectacles.com:8443
 www.spectacles.com:443
+www.spectacles.com:5190
 www.spectacles.com:80

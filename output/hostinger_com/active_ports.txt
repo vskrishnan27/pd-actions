@@ -106,6 +106,10 @@ help.hostinger.com:443
 help.hostinger.com:80
 help.hostinger.com:8080
 help.hostinger.com:8443
+hostinger.com:443
+hostinger.com:80
+hostinger.com:8080
+hostinger.com:8443
 hpanel.hostinger.com:443
 hpanel.hostinger.com:80
 hpanel.hostinger.com:8080

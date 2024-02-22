@@ -16,6 +16,7 @@ http://autenticar.hostinger.com
 http://autentificacion.hostinger.com
 http://autentificar.hostinger.com
 http://auth.hostinger.com
+http://auth.hostinger.com:8080
 http://auth.hostinger.com:8443
 http://autoconfig.mail.hostinger.com
 http://autodiscover.mail.hostinger.com
@@ -44,7 +45,6 @@ http://domains.hostinger.com
 http://domains.hostinger.com:8443
 http://e.account.hostinger.com
 http://e.account.hostinger.com:8080
-http://e.account.hostinger.com:8443
 http://e.email.hostinger.com
 http://e.email.hostinger.com:8080
 http://e.email.hostinger.com:8443
@@ -56,6 +56,8 @@ http://flockcontacts.hostinger.com
 http://flockmail.hostinger.com
 http://help.hostinger.com
 http://help.hostinger.com:8080
+http://hostinger.com
+http://hostinger.com:8080
 http://hpanel.hostinger.com
 http://hpanel.hostinger.com:8443
 http://kontroll.hostinger.com
@@ -78,6 +80,7 @@ http://roadmap.hostinger.com:8443
 http://sahkan.hostinger.com
 http://se.account.hostinger.com
 http://se.account.hostinger.com:8080
+http://se.account.hostinger.com:8443
 http://se.email.hostinger.com
 http://se.email.hostinger.com:8080
 http://se.email.hostinger.com:8443
@@ -164,6 +167,7 @@ https://design.hostinger.com
 https://dogrula.hostinger.com
 https://domains.hostinger.com
 https://e.account.hostinger.com
+https://e.account.hostinger.com:8443
 https://e.email.hostinger.com
 https://epikurwsi.hostinger.com
 https://flockcalendar.hostinger.com
@@ -171,6 +175,8 @@ https://flockcontacts.hostinger.com
 https://flockmail.hostinger.com
 https://help.hostinger.com
 https://help.hostinger.com:8443
+https://hostinger.com
+https://hostinger.com:8443
 https://hpanel.hostinger.com
 https://kontroll.hostinger.com
 https://mail.hostinger.com
@@ -187,7 +193,6 @@ https://rest-hosting.hostinger.com
 https://roadmap.hostinger.com
 https://sahkan.hostinger.com
 https://se.account.hostinger.com
-https://se.account.hostinger.com:8443
 https://se.email.hostinger.com
 https://sql111.hostinger.com:8443
 https://sso.hostinger.com

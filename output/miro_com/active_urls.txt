@@ -87,7 +87,6 @@ http://svc.us01.miro.com
 http://svg-convert.eu01.miro.com
 http://svg-convert.us01.miro.com
 http://team.miro.com
-http://team.miro.com:443
 http://template-metadata-service-public.svc.miro.com
 http://template-metadata-service-static.miro.com
 http://template-social-service-public.svc.miro.com
@@ -101,6 +100,7 @@ http://us.miro.com
 http://us01.miro.com
 http://view.account.miro.com
 http://view.e.miro.com
+http://ww.miro.com
 http://www.events.miro.com
 http://www.jira-cards.miro.com
 http://www.miro.com
@@ -182,6 +182,7 @@ https://svc.eu01.miro.com
 https://svc.us01.miro.com
 https://svg-convert.eu01.miro.com
 https://svg-convert.us01.miro.com
+https://team.miro.com
 https://template-metadata-service-public.svc.miro.com
 https://template-metadata-service-static.miro.com
 https://template-social-service-public.svc.miro.com
@@ -195,6 +196,7 @@ https://us.miro.com
 https://us01.miro.com
 https://view.account.miro.com
 https://view.e.miro.com
+https://ww.miro.com
 https://www.events.miro.com
 https://www.jira-cards.miro.com
 https://www.miro.com

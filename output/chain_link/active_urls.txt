@@ -7,6 +7,7 @@ http://apps.chain.link:8443
 http://archive.docs.chain.link
 http://archive.docs.chain.link:8080
 http://automation.chain.link
+http://automation.chain.link:8443
 http://bid470x.20755222t.chain.link
 http://blog.chain.link
 http://blog.chain.link:8443
@@ -31,7 +32,6 @@ http://email.chain.link
 http://email.chain.link:8080
 http://events.chain.link
 http://faucet.chain.link
-http://faucet.chain.link:8443
 http://faucets-ui-preview.chain.link
 http://faucets-ui-preview.chain.link:8443
 http://faucets.chain.link
@@ -56,6 +56,7 @@ http://keepers.chain.link:8443
 http://ko.chain.link
 http://ko.chain.link:8080
 http://kovan.chain.link
+http://kovan.chain.link:8443
 http://lambda.chain.link
 http://lambda.chain.link:8443
 http://mercury-arbitrum-mainnet.chain.link
@@ -108,7 +109,6 @@ https://apps.chain.link
 https://archive.docs.chain.link
 https://archive.docs.chain.link:8443
 https://automation.chain.link
-https://automation.chain.link:8443
 https://blog.chain.link
 https://careers.chain.link
 https://careers.chain.link:8443
@@ -126,6 +126,7 @@ https://email.chain.link
 https://email.chain.link:8443
 https://events.chain.link
 https://faucet.chain.link
+https://faucet.chain.link:8443
 https://faucets-ui-preview.chain.link
 https://faucets.chain.link
 https://functions.chain.link
@@ -140,7 +141,6 @@ https://keepers.chain.link
 https://ko.chain.link
 https://ko.chain.link:8443
 https://kovan.chain.link
-https://kovan.chain.link:8443
 https://lambda.chain.link
 https://mercury-arbitrum-mainnet.chain.link
 https://mercury-arbitrum-testnet.chain.link

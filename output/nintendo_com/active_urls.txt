@@ -103,7 +103,9 @@ http://ec.paymentweb.nintendo.com
 http://ed193d809cb211e5aa6dac5221900864-sb-dev-studio.mii.nintendo.com
 http://en-americas-support.nintendo.com
 http://es-americas-support.nintendo.com
+http://es.nintendo.com
 http://events.nintendo.com
+http://everoasis.nintendo.com
 http://experience.nintendo.com
 http://fantasylife.nintendo.com
 http://fatalframe.nintendo.com
@@ -341,13 +343,14 @@ http://staging.events.nintendo.com
 http://starfox.nintendo.com
 http://starfox643d.nintendo.com
 http://starfoxzero.nintendo.com
+http://starlight.nintendo.com
 http://static.paymentweb.nintendo.com
 http://steeldiver.nintendo.com
 http://store-jp.nintendo.com
 http://store-jp.nintendo.com:8443
-http://store.nintendo.com
 http://storemedia.nintendo.com
 http://stretchmo.nintendo.com
+http://studio.mii.nintendo.com
 http://stylesavvy.nintendo.com
 http://stylesavvy2.nintendo.com
 http://supermario3dland.nintendo.com
@@ -365,6 +368,7 @@ http://td1-development-store-jp.nintendo.com:8443
 http://td1.dev-argta-2.nintendo.com
 http://td1.dev-argta.nintendo.com
 http://test1.publisher.nintendo.com
+http://tetris99.nintendo.com
 http://thewonderful101.nintendo.com
 http://tickets.nintendo.com
 http://uat1.publisher.nintendo.com
@@ -632,6 +636,7 @@ https://ed193d809cb211e5aa6dac5221900864-sb-dev-studio.mii.nintendo.com
 https://ef7eb216a093be137b19fac2e2fd08c4-sb-dev.baas.nintendo.com
 https://en-americas-support.nintendo.com
 https://es-americas-support.nintendo.com
+https://es.nintendo.com
 https://events.nintendo.com
 https://everoasis.nintendo.com
 https://experience.nintendo.com
@@ -719,7 +724,6 @@ https://ketzalscorridors.nintendo.com
 https://kidicarus.nintendo.com
 https://kidicarusuprising.nintendo.com
 https://labo.nintendo.com
-https://laytonvsphoenixwright.nintendo.com
 https://lbx.nintendo.com
 https://legocity3ds.nintendo.com
 https://legocityu.nintendo.com
@@ -746,7 +750,6 @@ https://mario25.nintendo.com
 https://marioanddk.nintendo.com
 https://marioandluigibowsersinsidestory.nintendo.com
 https://marioandluigidreamteam.nintendo.com
-https://marioandluigipaperjam.nintendo.com
 https://marioandluigisuperstarsaga.nintendo.com
 https://mariokart.nintendo.com
 https://mariokart7.nintendo.com
@@ -781,7 +784,6 @@ https://mysupport-api.nintendo.com
 https://mysupport-sandbox.nintendo.com
 https://mysupport.nintendo.com
 https://ndi.developer.nintendo.com
-https://nerd.nintendo.com
 https://nesc.nintendo.com
 https://nesremix.nintendo.com
 https://nesremix2.nintendo.com
@@ -850,10 +852,10 @@ https://prod-store.nintendo.com
 https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
-https://ptdairwatch.noa.nintendo.com:1026
-https://ptdairwatch.noa.nintendo.com:111
-https://ptdairwatch.noa.nintendo.com:5190
-https://ptdairwatch.noa.nintendo.com:995
+https://ptdairwatch.noa.nintendo.com:3389
+https://ptdairwatch.noa.nintendo.com:445
+https://ptdairwatch.noa.nintendo.com:5000
+https://ptdairwatch.noa.nintendo.com:515
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com
@@ -920,15 +922,13 @@ https://staging.events.nintendo.com
 https://starfox.nintendo.com
 https://starfox643d.nintendo.com
 https://starfoxzero.nintendo.com
-https://starlight.nintendo.com
 https://static.paymentweb.nintendo.com
 https://steeldiver.nintendo.com
 https://store-jp.nintendo.com
-https://store.nintendo.com
 https://storemedia.nintendo.com
 https://stretchmo.nintendo.com
+https://studio.mii.nintendo.com
 https://stylesavvy.nintendo.com
-https://stylesavvy2.nintendo.com
 https://supermario3dland.nintendo.com
 https://supermariobroswonder.nintendo.com
 https://supermariomaker2.nintendo.com

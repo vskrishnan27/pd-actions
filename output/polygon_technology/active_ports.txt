@@ -30,6 +30,10 @@ bridge-explorer.polygon.technology:443
 bridge-explorer.polygon.technology:80
 bridge-explorer.polygon.technology:8080
 bridge-explorer.polygon.technology:8443
+burn-staging.polygon.technology:443
+burn-staging.polygon.technology:80
+burn-staging.polygon.technology:8080
+burn-staging.polygon.technology:8443
 burn.polygon.technology:443
 burn.polygon.technology:80
 burn.polygon.technology:8080

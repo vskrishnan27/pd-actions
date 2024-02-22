@@ -14,6 +14,8 @@ http://blog.polygon.technology
 http://blog.polygon.technology:8080
 http://bridge-explorer.polygon.technology
 http://bridge-explorer.polygon.technology:8080
+http://burn-staging.polygon.technology
+http://burn-staging.polygon.technology:8080
 http://burn.polygon.technology
 http://burn.polygon.technology:8080
 http://community.polygon.technology
@@ -140,6 +142,8 @@ https://blog.polygon.technology
 https://blog.polygon.technology:8443
 https://bridge-explorer.polygon.technology
 https://bridge-explorer.polygon.technology:8443
+https://burn-staging.polygon.technology
+https://burn-staging.polygon.technology:8443
 https://burn.polygon.technology
 https://burn.polygon.technology:8443
 https://community.polygon.technology

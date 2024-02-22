@@ -30,7 +30,6 @@ acaicoloncleanse.wiki.zoho.com:443
 accounts-ro.zoho.com:443
 accounts-ro.zoho.com:80
 accounts.zoho.com:443
-accounts.zoho.com:80
 ackermanvkc.wiki.zoho.com:443
 acnescartreatmen.wiki.zoho.com:443
 acquisto.wiki.zoho.com:443
@@ -293,7 +292,6 @@ mproxy-transmail.zoho.com:80
 msosisterhood2.wiki.zoho.com:443
 msp.wiki.zoho.com:443
 msync.zoho.com:443
-msync.zoho.com:80
 musicvideo.wiki.zoho.com:443
 mx-desk.zoho.com:25
 mx.zoho.com:25
@@ -400,6 +398,7 @@ status-internal.zoho.com:80
 status.zoho.com:443
 status.zoho.com:80
 store.zoho.com:443
+store.zoho.com:80
 subscriptions.zoho.com:443
 superiordevelopment.wiki.zoho.com:443
 support.zoho.com:443
@@ -432,7 +431,6 @@ whatiszoho.wiki.zoho.com:443
 wiki.zoho.com:443
 wikioffshore.wiki.zoho.com:443
 wmelvin.wiki.zoho.com:443
-wms.zoho.com:443
 workdrive.zoho.com:443
 worlddreambuilder.wiki.zoho.com:443
 writer.zoho.com:443
@@ -460,10 +458,8 @@ zohosites.wiki.zoho.com:80
 zohosso.wiki.zoho.com:443
 zohowikihelp.wiki.zoho.com:443
 zs-lc1-19-h2-ro.zoho.com:443
-zs-lc1-19-h2-ro.zoho.com:80
 zs-lc1-19-h2.zoho.com:443
 zs-lc1-19-ro.zoho.com:443
-zs-lc1-19-ro.zoho.com:80
 zs-lc1-19.zoho.com:443
 zs-lc1-25-h2.zoho.com:443
 zs-lc1-25.zoho.com:443

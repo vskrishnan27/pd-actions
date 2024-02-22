@@ -1,5 +1,4 @@
 http://accounts-ro.zoho.com
-http://accounts.zoho.com
 http://api.creator.zoho.com
 http://api.wiki.zoho.com
 http://apihelp.zoho.com
@@ -13,15 +12,16 @@ http://cm.zoho.com
 http://commerceplus.zoho.com
 http://crmkbase.zoho.com
 http://csuiteinfo.zoho.com
-http://customer-books.zoho.com
 http://customer-connect.zoho.com
 http://customer-creator.zoho.com
 http://customer-expense.zoho.com
+http://customer-invoice.zoho.com
 http://customer-mail.zoho.com
 http://customer-recruit.zoho.com
 http://customer-reports.zoho.com
 http://customer-survey.zoho.com
 http://customer-wiki.zoho.com
+http://customer-wms.zoho.com
 http://customer1-creator.zoho.com
 http://customer1-recruit.zoho.com
 http://discussion.zoho.com
@@ -36,7 +36,6 @@ http://mailer-tu.zoho.com
 http://memktg.wiki.zoho.com
 http://mobile-transmail.zoho.com
 http://mproxy-transmail.zoho.com
-http://msync.zoho.com
 http://notification-kms.zoho.com
 http://notification.bugbounty.zoho.com
 http://notifications-sd.zoho.com
@@ -52,12 +51,13 @@ http://signwebhook.zoho.com
 http://site24x7.zoho.com
 http://status-internal.zoho.com
 http://status.zoho.com
+http://store.zoho.com
 http://task.zoho.com
 http://tlstest.zoho.com
 http://zohosites.wiki.zoho.com
-http://zs-lc1-19-h2-ro.zoho.com
-http://zs-lc1-19-ro.zoho.com
+http://zs-lc3-19-ro.zoho.com
 http://zurs-1.zoho.com
+http://zurs-2.zoho.com
 http://zurs.zoho.com
 https://10th543.wiki.zoho.com
 https://150mgantivirussoftwarecomparisonmaf.wiki.zoho.com
@@ -407,7 +407,6 @@ https://whatiszoho.wiki.zoho.com
 https://wiki.zoho.com
 https://wikioffshore.wiki.zoho.com
 https://wmelvin.wiki.zoho.com
-https://wms.zoho.com
 https://workdrive.zoho.com
 https://worlddreambuilder.wiki.zoho.com
 https://writer.zoho.com

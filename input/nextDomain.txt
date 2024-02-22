@@ -1,4 +1,3 @@
-sc-corp.net
 lululemon.com
 moonactive.net
 moonactive.com
@@ -77,3 +76,4 @@ bitstrips.com
 spectacles.com
 playcanv.as
 sc-core.net
+sc-corp.net

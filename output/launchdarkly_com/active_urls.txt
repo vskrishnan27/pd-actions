@@ -24,12 +24,10 @@ http://clientstream-stg-alb.launchdarkly.com
 http://clientstream-stg-apac.launchdarkly.com
 http://clientstream-stg-euw1.launchdarkly.com
 http://clientstream-stg-use1.launchdarkly.com
-http://clientstream-stg.intuit.launchdarkly.com
+http://clientstream-stg-use2.intuit.launchdarkly.com
 http://clientstream-stg.launchdarkly.com
 http://clientstream-use1.launchdarkly.com
 http://clientstream-use2.intuit.launchdarkly.com
-http://clientstream.intuit.launchdarkly.com
-http://clientstream.intuit.launchdarkly.com:443
 http://clientstream.launchdarkly.com
 http://courier-webhook.dev.launchdarkly.com
 http://data-export-tester-prod.launchdarkly.com:8080
@@ -68,6 +66,7 @@ http://pubnubtest.launchdarkly.com
 http://resources.launchdarkly.com
 http://sdk-stg.launchdarkly.com
 http://sdk.dev.launchdarkly.com:8443
+http://sdk.dr.launchdarkly.com
 http://smart.launchdarkly.com
 http://spacecamp.launchdarkly.com
 http://static.launchdarkly.com
@@ -127,6 +126,7 @@ https://clientstream-use1.launchdarkly.com
 https://clientstream-use2.intuit.launchdarkly.com
 https://clientstream-usw2.intuit.launchdarkly.com
 https://clientstream.dr.launchdarkly.com
+https://clientstream.intuit.launchdarkly.com
 https://clientstream.launchdarkly.com
 https://courier-webhook.dev.launchdarkly.com
 https://data-export-tester-prod.launchdarkly.com
@@ -179,13 +179,12 @@ https://mobile.intuit.launchdarkly.com
 https://mobile.launchdarkly.com
 https://msteams-stg.launchdarkly.com
 https://msteams.launchdarkly.com
-https://orders.account-prov.prod.tools.launchdarkly.com
 https://partnersupport.launchdarkly.com
 https://pubnubtest.launchdarkly.com
 https://resources.launchdarkly.com
-https://retool.prod.tools.launchdarkly.com
 https://sdk-stg.launchdarkly.com
 https://sdk.dev.launchdarkly.com
+https://sdk.dr.launchdarkly.com
 https://slack-app-stg.intuit.launchdarkly.com
 https://slack-app.intuit.launchdarkly.com
 https://slack-stg.launchdarkly.com

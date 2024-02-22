@@ -24,9 +24,6 @@ http://images.nintendolife.com:8080
 http://images.nintendolife.com:8443
 http://m.nintendolife.com
 http://maliaeroports.comwww.nintendolife.com
-http://nintendolife.com
-http://nintendolife.com:8080
-http://nintendolife.com:8443
 http://pfadev.dijgtal.comwww.nintendolife.com
 http://retro.nintendolife.com
 http://snes.nintendolife.com
@@ -35,7 +32,6 @@ http://static.nintendolife.com
 http://static.nintendolife.com:8080
 http://static.nintendolife.com:8443
 http://support.nintendolife.com
-http://vc.nintendolife.com
 http://wii.nintendolife.com
 http://wii2.nintendolife.com
 http://wiiu.nintendolife.com
@@ -61,14 +57,12 @@ https://gogaragedoorrepairor.repairwww.nintendolife.com
 https://images.nintendolife.com
 https://m.nintendolife.com
 https://maliaeroports.comwww.nintendolife.com
-https://nintendolife.com
 https://pfadev.dijgtal.comwww.nintendolife.com
 https://retro.nintendolife.com
 https://snes.nintendolife.com
 https://sp.nintendolife.com
 https://static.nintendolife.com
 https://support.nintendolife.com
-https://vc.nintendolife.com
 https://wii.nintendolife.com
 https://wii2.nintendolife.com
 https://wiiu.nintendolife.com

@@ -1,6 +1,7 @@
 http://3p-access.grammarly.com
 http://account.grammarly.com
 http://answers.grammarly.com
+http://api.payments.grammarly.com:443
 http://app.grammarly.com
 http://applet-bundles-static.grammarly.com
 http://applet-bundles.grammarly.com
@@ -31,6 +32,7 @@ http://download-office.grammarly.com
 http://download-windows.grammarly.com
 http://ed.grammarly.com
 http://go.grammarly.com
+http://grammarly.com
 http://handbook.grammarly.com
 http://id.grammarly.com
 http://image.send.grammarly.com
@@ -69,7 +71,6 @@ http://www.nspl.grammarly.com
 https://3p-access.grammarly.com
 https://account.grammarly.com
 https://answers.grammarly.com
-https://api.payments.grammarly.com
 https://app.grammarly.com
 https://applet-bundles-static.grammarly.com
 https://applet-bundles.grammarly.com
@@ -118,6 +119,7 @@ https://geoproximity.bixby.grammarly.com
 https://gnar.grammarly.com
 https://go.grammarly.com
 https://goldengate.grammarly.com
+https://grammarly.com
 https://handbook.grammarly.com
 https://id.grammarly.com
 https://image.send.grammarly.com

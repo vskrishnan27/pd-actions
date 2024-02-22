@@ -7,7 +7,6 @@ http://apps.chain.link:8443
 http://archive.docs.chain.link
 http://archive.docs.chain.link:8080
 http://automation.chain.link
-http://automation.chain.link:8443
 http://bid470x.20755222t.chain.link
 http://blog.chain.link
 http://blog.chain.link:8443
@@ -57,13 +56,11 @@ http://keepers.chain.link:8443
 http://ko.chain.link
 http://ko.chain.link:8080
 http://kovan.chain.link
-http://kovan.chain.link:8443
 http://lambda.chain.link
 http://lambda.chain.link:8443
 http://mercury-arbitrum-mainnet.chain.link
 http://mercury-arbitrum-mainnet.chain.link:8443
 http://mercury-arbitrum-testnet.chain.link
-http://mercury-arbitrum-testnet.chain.link:8080
 http://mercury-arbitrum-testnet.chain.link:8443
 http://mercury-arbitrum-testnet.stage.chain.link
 http://mercury-arbitrum-testnet.stage.chain.link:8443
@@ -84,6 +81,8 @@ http://ropsten.chain.link
 http://ropsten.chain.link:8080
 http://security.chain.link
 http://security.chain.link:8080
+http://smartcon.chain.link
+http://smartcon.chain.link:8443
 http://staking.chain.link
 http://staking.chain.link:8443
 http://supply.chain.link
@@ -109,6 +108,7 @@ https://apps.chain.link
 https://archive.docs.chain.link
 https://archive.docs.chain.link:8443
 https://automation.chain.link
+https://automation.chain.link:8443
 https://blog.chain.link
 https://careers.chain.link
 https://careers.chain.link:8443
@@ -140,6 +140,7 @@ https://keepers.chain.link
 https://ko.chain.link
 https://ko.chain.link:8443
 https://kovan.chain.link
+https://kovan.chain.link:8443
 https://lambda.chain.link
 https://mercury-arbitrum-mainnet.chain.link
 https://mercury-arbitrum-testnet.chain.link
@@ -158,6 +159,7 @@ https://ropsten.chain.link
 https://ropsten.chain.link:8443
 https://security.chain.link
 https://security.chain.link:8443
+https://smartcon.chain.link
 https://staking.chain.link
 https://supply.chain.link
 https://supply.chain.link:8443

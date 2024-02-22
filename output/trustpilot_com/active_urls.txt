@@ -25,6 +25,7 @@ http://brand.trustpilot.com
 http://browserextension.trustpilot.com
 http://business-configurablehttpredirector.trustpilot.com
 http://business-preview.trustpilot.com
+http://business.trustpilot.com
 http://businessapp.b2b.trustpilot.com
 http://businessauthentication-app.trustpilot.com
 http://businessunitproducts-images.trustpilot.com
@@ -153,6 +154,7 @@ http://trustnet.trustpilot.com
 http://uk.business.trustpilot.com
 http://uk.legal.trustpilot.com
 http://uk.trustpilot.com
+http://us.business.trustpilot.com
 http://user-images.trustpilot.com
 http://widget.trustpilot.com
 http://wildcard-configurablehttpredirector.trustpilot.com
@@ -180,6 +182,7 @@ https://brand.trustpilot.com
 https://browserextension.trustpilot.com
 https://business-configurablehttpredirector.trustpilot.com
 https://business-preview.trustpilot.com
+https://business.trustpilot.com
 https://businessapp.b2b.trustpilot.com
 https://businessauthentication-app.trustpilot.com
 https://businessunitproducts-images.trustpilot.com
@@ -306,6 +309,7 @@ https://trustnet.trustpilot.com
 https://uk.business.trustpilot.com
 https://uk.legal.trustpilot.com
 https://uk.trustpilot.com
+https://us.business.trustpilot.com
 https://user-images.trustpilot.com
 https://widget.trustpilot.com
 https://wildcard-configurablehttpredirector.trustpilot.com

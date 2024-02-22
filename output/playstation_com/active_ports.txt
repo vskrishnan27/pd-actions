@@ -203,8 +203,6 @@ direct-queue-stage.playstation.com:443
 direct-queue-stage.playstation.com:80
 direct-queue.playstation.com:443
 direct-queue.playstation.com:80
-direct.e1-np.playstation.com:443
-direct.e1-np.playstation.com:80
 direct.playstation.com:443
 direct.playstation.com:80
 dms.api.playstation.com:443
@@ -299,8 +297,12 @@ image.mail.asia.playstation.com:443
 image.mail.asia.playstation.com:80
 image.mail.jp.playstation.com:443
 image.mail.jp.playstation.com:80
+io.playstation.com:443
+io.playstation.com:80
 is.playstation.com:443
 is.playstation.com:80
+ivaldi.playstation.com:443
+ivaldi.playstation.com:80
 jp.playstation.com:443
 jp.playstation.com:80
 juega.playstation.com:443

@@ -30,6 +30,8 @@ authentication.trustpilot.com:443
 authentication.trustpilot.com:80
 b2b.trustpilot.com:443
 b2b.trustpilot.com:80
+blog.trustpilot.com:443
+blog.trustpilot.com:80
 br.business.trustpilot.com:443
 br.business.trustpilot.com:80
 br.trustpilot.com:443
@@ -42,8 +44,6 @@ business-configurablehttpredirector.trustpilot.com:443
 business-configurablehttpredirector.trustpilot.com:80
 business-preview.trustpilot.com:443
 business-preview.trustpilot.com:80
-business.trustpilot.com:443
-business.trustpilot.com:80
 businessapp.b2b.trustpilot.com:443
 businessapp.b2b.trustpilot.com:80
 businessauthentication-app.trustpilot.com:443

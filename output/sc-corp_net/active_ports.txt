@@ -41,8 +41,6 @@ build-hook-prod.sc-corp.net:443
 build-hook-prod.sc-corp.net:80
 build-hook-stage.sc-corp.net:443
 build-hook-stage.sc-corp.net:80
-builds.sc-corp.net:443
-builds.sc-corp.net:80
 ca-dev.sc-corp.net:443
 ca-dev.sc-corp.net:80
 ca-prod.sc-corp.net:443
@@ -310,8 +308,8 @@ jira-mx.sc-corp.net:443
 jira-mx.sc-corp.net:80
 jira-stage-api.sc-corp.net:443
 jira-stage-api.sc-corp.net:80
-jira.sc-corp.net:443
-jira.sc-corp.net:80
+jira-stage.sc-corp.net:443
+jira-stage.sc-corp.net:80
 key-master-beta.sc-corp.net:10000
 key-master-beta.sc-corp.net:1025
 key-master-beta.sc-corp.net:1026
@@ -608,6 +606,8 @@ neo4j.sc-corp.net:443
 neo4j.sc-corp.net:80
 okr.sc-corp.net:443
 okr.sc-corp.net:80
+okta-preview.sc-corp.net:443
+okta-preview.sc-corp.net:80
 olympus-staging.secproxy.sc-corp.net:443
 olympus-staging.secproxy.sc-corp.net:80
 orca.sc-corp.net:443
@@ -870,6 +870,8 @@ smp-dev.api.search.sc-corp.net:443
 smp-dev.api.search.sc-corp.net:80
 smp-prod.api.search.sc-corp.net:443
 smp-prod.api.search.sc-corp.net:80
+snap-lion.gae.sc-corp.net:443
+snap-lion.gae.sc-corp.net:80
 snap-lion.sc-corp.net:443
 snap-lion.sc-corp.net:80
 snap-sre.gae.sc-corp.net:443

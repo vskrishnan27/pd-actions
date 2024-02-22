@@ -364,6 +364,7 @@ cook-dev.sc-core.net
 cook-dev.sc-core.net
 cook-dev.sc-core.net
 cook-dev.sc-core.net
+cook-dev.sc-core.net
 cook.sc-core.net
 cook.sc-core.net
 cook.sc-core.net
@@ -632,6 +633,8 @@ globalfi.sc-core.net
 globalfi.sc-core.net
 globalfi.sc-core.net
 globalfi.sc-core.net
+globalfi.sc-core.net
+infoblox.sc-core.net
 infoblox.sc-core.net
 infoblox.sc-core.net
 infoblox.sc-core.net
@@ -1120,6 +1123,7 @@ ogp-com-use.users.sc-core.net
 ogp-com-use.users.sc-core.net
 ogp-com-use.users.sc-core.net
 ogp-com-use.users.sc-core.net
+orion.sc-core.net
 orion.sc-core.net
 orion.sc-core.net
 orion.sc-core.net
@@ -1459,6 +1463,7 @@ scim.sc-core.net
 scim.sc-core.net
 scim.sc-core.net
 scim.sc-core.net
+scim.sc-core.net
 scmobile.sc-core.net
 scmobile.sc-core.net
 scmobile.sc-core.net
@@ -1535,6 +1540,8 @@ sh2.splunk.sc-core.net
 sh2.splunk.sc-core.net
 sh2.splunk.sc-core.net
 sh2.splunk.sc-core.net
+sh2.splunk.sc-core.net
+si.sc-core.net
 si.sc-core.net
 si.sc-core.net
 si.sc-core.net
@@ -1687,6 +1694,7 @@ smartzoneus.sc-core.net
 smartzoneus.sc-core.net
 smartzoneus.sc-core.net
 smartzoneus.sc-core.net
+splunk.sc-core.net
 splunk.sc-core.net
 splunk.sc-core.net
 splunk.sc-core.net

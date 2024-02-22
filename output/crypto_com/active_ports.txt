@@ -26,6 +26,10 @@ auth-x.crypto.com:443
 auth-x.crypto.com:80
 auth-x.crypto.com:8080
 auth-x.crypto.com:8443
+auth.crypto.com:443
+auth.crypto.com:80
+auth.crypto.com:8080
+auth.crypto.com:8443
 auth.tax.crypto.com:443
 auth.tax.crypto.com:80
 auth.tax.crypto.com:8080

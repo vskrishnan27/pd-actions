@@ -12,6 +12,8 @@ http://app-api.nft.crypto.com
 http://app-api.nft.crypto.com:8080
 http://auth-x.crypto.com
 http://auth-x.crypto.com:8080
+http://auth.crypto.com
+http://auth.crypto.com:8080
 http://auth.tax.crypto.com
 http://auth.tax.crypto.com:8080
 http://black-cat.crypto.com
@@ -142,6 +144,8 @@ https://app-api.nft.crypto.com
 https://app-api.nft.crypto.com:8443
 https://auth-x.crypto.com
 https://auth-x.crypto.com:8443
+https://auth.crypto.com
+https://auth.crypto.com:8443
 https://auth.tax.crypto.com
 https://auth.tax.crypto.com:8443
 https://black-cat.crypto.com

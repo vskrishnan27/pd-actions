@@ -36,6 +36,8 @@
 148api.zomato.com
 148api.zomato.com
 148api.zomato.com
+148api.zomato.com
+166api.zomato.com
 166api.zomato.com
 166api.zomato.com
 166api.zomato.com
@@ -110,6 +112,8 @@
 1api.zomato.com
 1api.zomato.com
 1api.zomato.com
+1api.zomato.com
+a.zomato.com
 a.zomato.com
 a.zomato.com
 a.zomato.com
@@ -184,6 +188,8 @@ a1.zomato.com
 a1.zomato.com
 a1.zomato.com
 a1.zomato.com
+a1.zomato.com
+a2.zomato.com
 a2.zomato.com
 a2.zomato.com
 a2.zomato.com
@@ -258,6 +264,8 @@ a3.zomato.com
 a3.zomato.com
 a3.zomato.com
 a3.zomato.com
+a3.zomato.com
+accounts.zomato.com
 accounts.zomato.com
 accounts.zomato.com
 accounts.zomato.com
@@ -334,6 +342,8 @@ api.zomato.com
 api.zomato.com
 api.zomato.com
 api.zomato.com
+api.zomato.com
+apibeta.zomato.com
 apibeta.zomato.com
 apibeta.zomato.com
 apibeta.zomato.com
@@ -409,6 +419,8 @@ apimail.zomato.com
 apimail.zomato.com
 apimail.zomato.com
 apimail.zomato.com
+apimail.zomato.com
+apitest.zomato.com
 apitest.zomato.com
 apitest.zomato.com
 apitest.zomato.com
@@ -484,6 +496,8 @@ auth.zomato.com
 auth.zomato.com
 auth.zomato.com
 auth.zomato.com
+auth.zomato.com
+blog.zomato.com
 blog.zomato.com
 blog.zomato.com
 blog.zomato.com
@@ -558,6 +572,7 @@ book.zomato.com
 book.zomato.com
 book.zomato.com
 book.zomato.com
+book.zomato.com
 business-blog.zomato.com
 business-blog.zomato.com
 business-blog.zomato.com
@@ -595,6 +610,7 @@ business-blog.zomato.com
 business-blog.zomato.com
 business-blog.zomato.com
 business-blog.zomato.com
+business-blog.zomato.com
 business.zomato.com
 business.zomato.com
 business.zomato.com
@@ -633,6 +649,8 @@ business.zomato.com
 business.zomato.com
 business.zomato.com
 business.zomato.com
+business.zomato.com
+cc.zomato.com
 cc.zomato.com
 cc.zomato.com
 cc.zomato.com
@@ -705,6 +723,7 @@ cc2.zomato.com
 cc2.zomato.com
 cc2.zomato.com
 cc2.zomato.com
+cc2.zomato.com
 ccc.zomato.com
 ccc.zomato.com
 ccc.zomato.com
@@ -742,6 +761,8 @@ ccc.zomato.com
 ccc.zomato.com
 ccc.zomato.com
 ccc.zomato.com
+ccc.zomato.com
+cert1.zomato.com
 cert1.zomato.com
 cert1.zomato.com
 cert1.zomato.com
@@ -818,6 +839,8 @@ cert2.zomato.com
 cert2.zomato.com
 cert2.zomato.com
 cert2.zomato.com
+cert2.zomato.com
+cert3.zomato.com
 cert3.zomato.com
 cert3.zomato.com
 cert3.zomato.com
@@ -928,6 +951,8 @@ chat.zomato.com
 chat.zomato.com
 chat.zomato.com
 chat.zomato.com
+chat.zomato.com
+community.zomato.com
 community.zomato.com
 community.zomato.com
 community.zomato.com
@@ -1003,6 +1028,8 @@ corp.zomato.com
 corp.zomato.com
 corp.zomato.com
 corp.zomato.com
+corp.zomato.com
+corporate.zomato.com
 corporate.zomato.com
 corporate.zomato.com
 corporate.zomato.com
@@ -1077,6 +1104,8 @@ cssclean.zomato.com
 cssclean.zomato.com
 cssclean.zomato.com
 cssclean.zomato.com
+cssclean.zomato.com
+culture.zomato.com
 culture.zomato.com
 culture.zomato.com
 culture.zomato.com
@@ -1152,6 +1181,8 @@ cupcake.zomato.com
 cupcake.zomato.com
 cupcake.zomato.com
 cupcake.zomato.com
+cupcake.zomato.com
+d1.zomato.com
 d1.zomato.com
 d1.zomato.com
 d1.zomato.com
@@ -1226,6 +1257,7 @@ d2.zomato.com
 d2.zomato.com
 d2.zomato.com
 d2.zomato.com
+d2.zomato.com
 d3.zomato.com
 d3.zomato.com
 d3.zomato.com
@@ -1263,6 +1295,8 @@ d3.zomato.com
 d3.zomato.com
 d3.zomato.com
 d3.zomato.com
+d3.zomato.com
+d4.zomato.com
 d4.zomato.com
 d4.zomato.com
 d4.zomato.com
@@ -1335,6 +1369,7 @@ delivery.emails.zomato.com
 delivery.emails.zomato.com
 delivery.emails.zomato.com
 delivery.emails.zomato.com
+delivery.emails.zomato.com
 demo.zomato.com
 demo.zomato.com
 demo.zomato.com
@@ -1372,6 +1407,8 @@ demo.zomato.com
 demo.zomato.com
 demo.zomato.com
 demo.zomato.com
+demo.zomato.com
+developer.zomato.com
 developer.zomato.com
 developer.zomato.com
 developer.zomato.com
@@ -1448,6 +1485,7 @@ developers.zomato.com
 developers.zomato.com
 developers.zomato.com
 developers.zomato.com
+developers.zomato.com
 engineering.zomato.com
 engineering.zomato.com
 engineering.zomato.com
@@ -1486,6 +1524,8 @@ engineering.zomato.com
 engineering.zomato.com
 engineering.zomato.com
 engineering.zomato.com
+engineering.zomato.com
+fddkim.zomato.com
 fddkim.zomato.com
 fddkim.zomato.com
 fddkim.zomato.com
@@ -1561,6 +1601,8 @@ giegh1eith9quae.zomato.com
 giegh1eith9quae.zomato.com
 giegh1eith9quae.zomato.com
 giegh1eith9quae.zomato.com
+giegh1eith9quae.zomato.com
+h1.zomato.com
 h1.zomato.com
 h1.zomato.com
 h1.zomato.com
@@ -1635,6 +1677,7 @@ h2.zomato.com
 h2.zomato.com
 h2.zomato.com
 h2.zomato.com
+h2.zomato.com
 jumbo.zomato.com
 jumbo.zomato.com
 jumbo.zomato.com
@@ -1673,6 +1716,8 @@ jumbo.zomato.com
 jumbo.zomato.com
 jumbo.zomato.com
 jumbo.zomato.com
+jumbo.zomato.com
+link.zomato.com
 link.zomato.com
 link.zomato.com
 link.zomato.com
@@ -1748,6 +1793,8 @@ m.zomato.com
 m.zomato.com
 m.zomato.com
 m.zomato.com
+m.zomato.com
+mail.zomato.com
 mail.zomato.com
 mail.zomato.com
 mail.zomato.com
@@ -1820,6 +1867,8 @@ mailer.zomato.com
 mailer.zomato.com
 mailer.zomato.com
 mailer.zomato.com
+mailer.zomato.com
+maps.zomato.com
 maps.zomato.com
 maps.zomato.com
 maps.zomato.com
@@ -1894,6 +1943,8 @@ mobile.zomato.com
 mobile.zomato.com
 mobile.zomato.com
 mobile.zomato.com
+mobile.zomato.com
+o1.email.zomato.com
 o1.email.zomato.com
 o1.email.zomato.com
 o1.email.zomato.com
@@ -1969,6 +2020,7 @@ o10.mailers.zomato.com
 o10.mailers.zomato.com
 o10.mailers.zomato.com
 o10.mailers.zomato.com
+o10.mailers.zomato.com
 o11.et.zomato.com
 o11.et.zomato.com
 o11.et.zomato.com
@@ -2006,6 +2058,8 @@ o11.et.zomato.com
 o11.et.zomato.com
 o11.et.zomato.com
 o11.et.zomato.com
+o11.et.zomato.com
+o1122.ptr1573.zomato.com
 o1122.ptr1573.zomato.com
 o1122.ptr1573.zomato.com
 o1122.ptr1573.zomato.com
@@ -2082,6 +2136,8 @@ o1189.ptr7920.mailers.zomato.com
 o1189.ptr7920.mailers.zomato.com
 o1189.ptr7920.mailers.zomato.com
 o1189.ptr7920.mailers.zomato.com
+o1189.ptr7920.mailers.zomato.com
+o1190.ptr5884.mailers.zomato.com
 o1190.ptr5884.mailers.zomato.com
 o1190.ptr5884.mailers.zomato.com
 o1190.ptr5884.mailers.zomato.com
@@ -2158,6 +2214,8 @@ o1191.ptr6670.mailers.zomato.com
 o1191.ptr6670.mailers.zomato.com
 o1191.ptr6670.mailers.zomato.com
 o1191.ptr6670.mailers.zomato.com
+o1191.ptr6670.mailers.zomato.com
+o1192.ptr5741.mailers.zomato.com
 o1192.ptr5741.mailers.zomato.com
 o1192.ptr5741.mailers.zomato.com
 o1192.ptr5741.mailers.zomato.com
@@ -2234,6 +2292,7 @@ o1193.ptr9755.zomato.com
 o1193.ptr9755.zomato.com
 o1193.ptr9755.zomato.com
 o1193.ptr9755.zomato.com
+o1193.ptr9755.zomato.com
 o1194.ptr2932.zomato.com
 o1194.ptr2932.zomato.com
 o1194.ptr2932.zomato.com
@@ -2272,6 +2331,8 @@ o1194.ptr2932.zomato.com
 o1194.ptr2932.zomato.com
 o1194.ptr2932.zomato.com
 o1194.ptr2932.zomato.com
+o1194.ptr2932.zomato.com
+o4.sg1.zomato.com
 o4.sg1.zomato.com
 o4.sg1.zomato.com
 o4.sg1.zomato.com
@@ -2347,6 +2408,7 @@ o6.mailers.zomato.com
 o6.mailers.zomato.com
 o6.mailers.zomato.com
 o6.mailers.zomato.com
+o6.mailers.zomato.com
 o7.mailers.zomato.com
 o7.mailers.zomato.com
 o7.mailers.zomato.com
@@ -2384,6 +2446,8 @@ o7.mailers.zomato.com
 o7.mailers.zomato.com
 o7.mailers.zomato.com
 o7.mailers.zomato.com
+o7.mailers.zomato.com
+o8.mailers.zomato.com
 o8.mailers.zomato.com
 o8.mailers.zomato.com
 o8.mailers.zomato.com
@@ -2459,6 +2523,8 @@ o9.mailers.zomato.com
 o9.mailers.zomato.com
 o9.mailers.zomato.com
 o9.mailers.zomato.com
+o9.mailers.zomato.com
+payments-preprod.zomato.com
 payments-preprod.zomato.com
 payments-preprod.zomato.com
 payments-preprod.zomato.com
@@ -2534,6 +2600,8 @@ payments.zomato.com
 payments.zomato.com
 payments.zomato.com
 payments.zomato.com
+payments.zomato.com
+reviews.zomato.com
 reviews.zomato.com
 reviews.zomato.com
 reviews.zomato.com
@@ -2608,6 +2676,8 @@ s1.zomato.com
 s1.zomato.com
 s1.zomato.com
 s1.zomato.com
+s1.zomato.com
+s2.zomato.com
 s2.zomato.com
 s2.zomato.com
 s2.zomato.com
@@ -2682,6 +2752,7 @@ s3.zomato.com
 s3.zomato.com
 s3.zomato.com
 s3.zomato.com
+s3.zomato.com
 secretx.zomato.com
 secretx.zomato.com
 secretx.zomato.com
@@ -2719,6 +2790,8 @@ secretx.zomato.com
 secretx.zomato.com
 secretx.zomato.com
 secretx.zomato.com
+secretx.zomato.com
+send.zomato.com
 send.zomato.com
 send.zomato.com
 send.zomato.com
@@ -2794,6 +2867,8 @@ send2.zomato.com
 send2.zomato.com
 send2.zomato.com
 send2.zomato.com
+send2.zomato.com
+success.zomato.com
 success.zomato.com
 success.zomato.com
 success.zomato.com
@@ -2870,6 +2945,7 @@ techblog.zomato.com
 techblog.zomato.com
 techblog.zomato.com
 techblog.zomato.com
+techblog.zomato.com
 trace.zomato.com
 trace.zomato.com
 trace.zomato.com
@@ -2908,6 +2984,8 @@ trace.zomato.com
 trace.zomato.com
 trace.zomato.com
 trace.zomato.com
+trace.zomato.com
+traceapi.zomato.com
 traceapi.zomato.com
 traceapi.zomato.com
 traceapi.zomato.com
@@ -2983,6 +3061,8 @@ track.zomato.com
 track.zomato.com
 track.zomato.com
 track.zomato.com
+track.zomato.com
+trackemail.zomato.com
 trackemail.zomato.com
 trackemail.zomato.com
 trackemail.zomato.com
@@ -3058,6 +3138,8 @@ trackemail2.zomato.com
 trackemail2.zomato.com
 trackemail2.zomato.com
 trackemail2.zomato.com
+trackemail2.zomato.com
+upload.zomato.com
 upload.zomato.com
 upload.zomato.com
 upload.zomato.com
@@ -3131,6 +3213,8 @@ url7479.zomato.com
 url7479.zomato.com
 url7479.zomato.com
 url7479.zomato.com
+url7479.zomato.com
+w4b.zomato.com
 w4b.zomato.com
 w4b.zomato.com
 w4b.zomato.com
@@ -3206,6 +3290,8 @@ webserver3.zomato.com
 webserver3.zomato.com
 webserver3.zomato.com
 webserver3.zomato.com
+webserver3.zomato.com
+webserver4.zomato.com
 webserver4.zomato.com
 webserver4.zomato.com
 webserver4.zomato.com
@@ -3316,6 +3402,8 @@ winecellar.zomato.com
 winecellar.zomato.com
 winecellar.zomato.com
 winecellar.zomato.com
+winecellar.zomato.com
+ws-callcenter.zomato.com
 ws-callcenter.zomato.com
 ws-callcenter.zomato.com
 ws-callcenter.zomato.com
@@ -3566,6 +3654,8 @@ www.success.zomato.com
 www.success.zomato.com
 www.success.zomato.com
 www.success.zomato.com
+www.success.zomato.com
+www.techblog.zomato.com
 www.techblog.zomato.com
 www.techblog.zomato.com
 www.techblog.zomato.com
@@ -3782,6 +3872,7 @@ www.zomato.com
 www.zomato.com
 www.zomato.com
 www.zomato.com
+www.zomato.com
 www.zpay.zomato.com
 www.zpay.zomato.com
 www.zpay.zomato.com
@@ -3890,6 +3981,8 @@ zpay-test.zomato.com
 zpay-test.zomato.com
 zpay-test.zomato.com
 zpay-test.zomato.com
+zpay-test.zomato.com
+zpay.zomato.com
 zpay.zomato.com
 zpay.zomato.com
 zpay.zomato.com
@@ -3965,6 +4058,8 @@ zpaytest.zomato.com
 zpaytest.zomato.com
 zpaytest.zomato.com
 zpaytest.zomato.com
+zpaytest.zomato.com
+zwstatic.zomato.com
 zwstatic.zomato.com
 zwstatic.zomato.com
 zwstatic.zomato.com

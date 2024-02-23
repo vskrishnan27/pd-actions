@@ -1,6 +1,3 @@
-http://analytics.krisp.ai
-http://analytics.krisp.ai:8080
-http://analytics.krisp.ai:8443
 http://api.krisp.ai
 http://api.krisp.ai:8080
 http://api.krisp.ai:8443
@@ -110,7 +107,6 @@ http://whatsnew.krisp.ai
 http://www.krisp.ai
 http://www.krisp.ai:8080
 http://www.krisp.ai:8443
-https://analytics.krisp.ai
 https://api.krisp.ai
 https://api.prelive.krisp.ai
 https://app.krisp.ai

@@ -1,5 +1,5 @@
-book.indrive.com:443
-book.indrive.com:80
+beginit.indrive.com:443
+beginit.indrive.com:80
 careers.indrive.com:443
 careers.indrive.com:80
 cargo.indrive.com:443
@@ -45,8 +45,6 @@ internal.delivery.indrive.com:443
 internal.delivery.indrive.com:80
 internal.sandbox.delivery.indrive.com:443
 internal.sandbox.delivery.indrive.com:80
-job.indrive.com:443
-job.indrive.com:80
 landing.indrive.com:443
 landing.indrive.com:80
 lp-food.indrive.com:443

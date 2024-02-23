@@ -36,10 +36,6 @@ auth-sx-bet.partner-auth.magic.link:443
 auth-sx-bet.partner-auth.magic.link:80
 auth-sx-bet.partner-auth.magic.link:8080
 auth-sx-bet.partner-auth.magic.link:8443
-auth.dev.magic.link:443
-auth.dev.magic.link:80
-auth.dev.magic.link:8080
-auth.dev.magic.link:8443
 auth.magic.link:443
 auth.magic.link:80
 auth.magic.link:8080
@@ -120,10 +116,6 @@ landing.magic.link:8080
 landing.magic.link:8443
 links.magic.link:443
 links.magic.link:80
-magic.link:443
-magic.link:80
-magic.link:8080
-magic.link:8443
 next-dev.magic.link:443
 next-dev.magic.link:80
 next-stage.magic.link:443

@@ -32,6 +32,7 @@ http://email.chain.link
 http://email.chain.link:8080
 http://events.chain.link
 http://faucet.chain.link
+http://faucet.chain.link:8443
 http://faucets-ui-preview.chain.link
 http://faucets-ui-preview.chain.link:8443
 http://faucets.chain.link
@@ -77,13 +78,12 @@ http://register.smartcon.chain.link
 http://register.smartcon.chain.link:8443
 http://research.chain.link
 http://rinkeby.chain.link
+http://rinkeby.chain.link:8080
 http://rinkeby.chain.link:8443
 http://ropsten.chain.link
 http://ropsten.chain.link:8080
 http://security.chain.link
 http://security.chain.link:8080
-http://smartcon.chain.link
-http://smartcon.chain.link:8443
 http://staking.chain.link
 http://staking.chain.link:8443
 http://supply.chain.link
@@ -126,7 +126,6 @@ https://email.chain.link
 https://email.chain.link:8443
 https://events.chain.link
 https://faucet.chain.link
-https://faucet.chain.link:8443
 https://faucets-ui-preview.chain.link
 https://faucets.chain.link
 https://functions.chain.link
@@ -159,7 +158,6 @@ https://ropsten.chain.link
 https://ropsten.chain.link:8443
 https://security.chain.link
 https://security.chain.link:8443
-https://smartcon.chain.link
 https://staking.chain.link
 https://supply.chain.link
 https://supply.chain.link:8443

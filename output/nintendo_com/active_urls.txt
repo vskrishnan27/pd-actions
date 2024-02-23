@@ -109,11 +109,9 @@ http://everoasis.nintendo.com
 http://experience.nintendo.com
 http://fantasylife.nintendo.com
 http://fatalframe.nintendo.com
-http://ffcc.nintendo.com
 http://ffdos.nintendo.com
 http://ffiv.nintendo.com
 http://ffta.nintendo.com
-http://ffv.nintendo.com
 http://ffvi.nintendo.com
 http://fireemblem.nintendo.com
 http://fireemblemechoes.nintendo.com
@@ -130,7 +128,6 @@ http://forms.nintendo.com:8080
 http://forms.nintendo.com:8443
 http://fortunestreet.nintendo.com
 http://forums.nintendo.com
-http://fossilfighters.nintendo.com
 http://fossilfightersfrontier.nintendo.com
 http://fr-americas-support.nintendo.com
 http://freakyforms.nintendo.com
@@ -204,13 +201,11 @@ http://mariomaker.nintendo.com
 http://marioparty10.nintendo.com
 http://marioparty100.nintendo.com
 http://mariopartyislandtour.nintendo.com
-http://mariopartystarrush.nintendo.com
 http://mariopowertennis.nintendo.com
 http://mariosportssuperstars.nintendo.com
 http://mariotennis.nintendo.com
 http://mariotennisopen.nintendo.com
 http://mariovsdk.nintendo.com
-http://marvelultimatealliance3.nintendo.com
 http://media.nintendo.com
 http://mediasrc.nintendo.com
 http://metroidprime.nintendo.com
@@ -329,7 +324,6 @@ http://smartreturnsystem-uat.noa.nintendo.com
 http://smartreturnsystem.noa.nintendo.com
 http://smashbros.nintendo.com
 http://smetrics.nintendo.com
-http://snesc.nintendo.com
 http://snipperclips.nintendo.com
 http://sp1.dev-argta-2.nintendo.com
 http://sp1.dev-argta.nintendo.com
@@ -348,13 +342,10 @@ http://static.paymentweb.nintendo.com
 http://steeldiver.nintendo.com
 http://store-jp.nintendo.com
 http://store-jp.nintendo.com:8443
-http://store.nintendo.com
 http://storemedia.nintendo.com
 http://stretchmo.nintendo.com
-http://studio.mii.nintendo.com
 http://stylesavvy.nintendo.com
 http://stylesavvy2.nintendo.com
-http://supermario3dland.nintendo.com
 http://supermariobroswonder.nintendo.com
 http://supermariomaker2.nintendo.com
 http://supermarioparty.nintendo.com
@@ -370,7 +361,6 @@ http://td1.dev-argta-2.nintendo.com
 http://td1.dev-argta.nintendo.com
 http://test1.publisher.nintendo.com
 http://tetris99.nintendo.com
-http://thewonderful101.nintendo.com
 http://tickets.nintendo.com
 http://uat1.publisher.nintendo.com
 http://vertex-cloud.noa.nintendo.com
@@ -660,7 +650,6 @@ https://fireemblemechoes.nintendo.com
 https://fireemblemfates.nintendo.com
 https://fireemblemwarriors.nintendo.com
 https://flingsmash.nintendo.com
-https://flipnotestudio.nintendo.com
 https://flipnotestudio3d.nintendo.com
 https://forms-test.nintendo.com
 https://forms.nintendo.com
@@ -787,7 +776,6 @@ https://mysupport-api.nintendo.com
 https://mysupport-sandbox.nintendo.com
 https://mysupport.nintendo.com
 https://ndi.developer.nintendo.com
-https://nerd.nintendo.com
 https://nesc.nintendo.com
 https://nesremix.nintendo.com
 https://nesremix2.nintendo.com
@@ -811,7 +799,6 @@ https://nowpass.noa.nintendo.com
 https://nstore-test.noa.nintendo.com
 https://nstore.noa.nintendo.com
 https://ntd-gp-split.ntd.nintendo.com
-https://ntd-gp.ntd.nintendo.com
 https://nwc.nintendo.com
 https://octopathtraveler.nintendo.com
 https://ope-api.events.nintendo.com
@@ -834,7 +821,6 @@ https://perf.dev-argta-2.nintendo.com
 https://photodojo.nintendo.com
 https://photoshowcase.nintendo.com
 https://picross3d.nintendo.com
-https://pikmin2.nintendo.com
 https://pikmin4.nintendo.com
 https://pilotwingsresort.nintendo.com
 https://play-dev.nintendo.com
@@ -856,9 +842,10 @@ https://prod-store.nintendo.com
 https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
-https://ptdairwatch.noa.nintendo.com:10000
-https://ptdairwatch.noa.nintendo.com:26
+https://ptdairwatch.noa.nintendo.com:1900
 https://ptdairwatch.noa.nintendo.com:3986
+https://ptdairwatch.noa.nintendo.com:49156
+https://ptdairwatch.noa.nintendo.com:8080
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com
@@ -929,10 +916,8 @@ https://starlight.nintendo.com
 https://static.paymentweb.nintendo.com
 https://steeldiver.nintendo.com
 https://store-jp.nintendo.com
-https://store.nintendo.com
 https://storemedia.nintendo.com
 https://stretchmo.nintendo.com
-https://studio.mii.nintendo.com
 https://stylesavvy.nintendo.com
 https://stylesavvy2.nintendo.com
 https://supermario3dland.nintendo.com

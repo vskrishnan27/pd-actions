@@ -7,7 +7,6 @@ http://da.matomo.org
 http://de-staging.matomo.org
 http://de.matomo.org
 http://debian.matomo.org
-http://demo-web.matomo.org
 http://demo.matomo.org
 http://demo2.matomo.org
 http://dev.matomo.org
@@ -15,6 +14,7 @@ http://developer.matomo.org
 http://developers.matomo.org
 http://docs.matomo.org
 http://el.matomo.org
+http://es.matomo.org
 http://forum.matomo.org
 http://fr-staging.matomo.org
 http://fr-staging.matomo.org:443
@@ -43,6 +43,7 @@ http://staging.matomo.org
 http://survey.matomo.org
 http://sv.matomo.org
 http://test-tag-manager.matomo.org
+http://themes.matomo.org
 http://translations.matomo.org
 http://video.matomo.org
 http://www.matomo.org
@@ -63,6 +64,7 @@ https://developer.matomo.org
 https://developers.matomo.org
 https://docs.matomo.org
 https://el.matomo.org
+https://es.matomo.org
 https://forum.matomo.org
 https://fr.matomo.org
 https://fr.staging.matomo.org
@@ -89,6 +91,7 @@ https://staging.matomo.org
 https://survey.matomo.org
 https://sv.matomo.org
 https://test-tag-manager.matomo.org
+https://themes.matomo.org
 https://translations.matomo.org
 https://video.matomo.org
 https://www.matomo.org

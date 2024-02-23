@@ -18,6 +18,10 @@ docs.hackerone.com:8080
 docs.hackerone.com:8443
 gslink.hackerone.com:443
 gslink.hackerone.com:80
+hackerone.com:443
+hackerone.com:80
+hackerone.com:8080
+hackerone.com:8443
 mta-sts.forwarding.hackerone.com:443
 mta-sts.forwarding.hackerone.com:80
 mta-sts.hackerone.com:443

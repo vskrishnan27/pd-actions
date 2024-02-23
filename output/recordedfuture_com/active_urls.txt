@@ -12,6 +12,7 @@ http://community.recordedfuture.com:8080
 http://community.recordedfuture.com:8443
 http://email.recordedfuture.com
 http://email.recordedfuture.com:8080
+http://email.recordedfuture.com:8443
 http://express-api.recordedfuture.com
 http://express-api.recordedfuture.com:8080
 http://express-api.recordedfuture.com:8443
@@ -44,9 +45,9 @@ http://partners.recordedfuture.com
 http://partners.recordedfuture.com:8080
 http://pgg391.info.recordedfuture.com
 http://preprod.cms.recordedfuture.com
-http://preprod.recordedfuture.com
-http://preprod.recordedfuture.com:8080
-http://preprod.recordedfuture.com:8443
+http://recordedfuture.com
+http://recordedfuture.com:8080
+http://recordedfuture.com:8443
 http://sandbox.recordedfuture.com
 http://sandbox.recordedfuture.com:8080
 http://status.recordedfuture.com
@@ -76,7 +77,6 @@ https://blog.recordedfuture.com:8443
 https://cms.recordedfuture.com
 https://community.recordedfuture.com
 https://email.recordedfuture.com
-https://email.recordedfuture.com:8443
 https://express-api.recordedfuture.com
 https://futuristuniversity.recordedfuture.com
 https://get.recordedfuture.com
@@ -94,7 +94,7 @@ https://lyra.recordedfuture.com
 https://partners.recordedfuture.com
 https://partners.recordedfuture.com:8443
 https://preprod.cms.recordedfuture.com
-https://preprod.recordedfuture.com
+https://recordedfuture.com
 https://sandbox.recordedfuture.com
 https://sandbox.recordedfuture.com:8443
 https://status.recordedfuture.com

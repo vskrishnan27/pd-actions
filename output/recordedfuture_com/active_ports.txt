@@ -70,10 +70,10 @@ pgg391.info.recordedfuture.com:25
 pgg391.info.recordedfuture.com:80
 preprod.cms.recordedfuture.com:443
 preprod.cms.recordedfuture.com:80
-preprod.recordedfuture.com:443
-preprod.recordedfuture.com:80
-preprod.recordedfuture.com:8080
-preprod.recordedfuture.com:8443
+recordedfuture.com:443
+recordedfuture.com:80
+recordedfuture.com:8080
+recordedfuture.com:8443
 sandbox.recordedfuture.com:443
 sandbox.recordedfuture.com:80
 sandbox.recordedfuture.com:8080

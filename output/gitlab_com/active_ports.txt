@@ -759,6 +759,8 @@ developer.gitlab.com:443
 developer.gitlab.com:80
 doc.gitlab.com:443
 doc.gitlab.com:80
+docs.gitlab.com:443
+docs.gitlab.com:80
 ee.gitlab.com:443
 ee.gitlab.com:80
 ee.gitlab.com:8080

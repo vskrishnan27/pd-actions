@@ -14,6 +14,7 @@ http://blog.stripe.com
 http://bom.corp.stripe.com:443
 http://book.stripe.com
 http://button.stripe.com
+http://buy.stripe.com
 http://calendar.stripe.com
 http://cdg.corp.stripe.com:443
 http://cgk.corp.stripe.com:443
@@ -24,6 +25,7 @@ http://cmh.corp.stripe.com:443
 http://code.stripe.com
 http://community.stripe.com
 http://connect-js.stripe.com
+http://connect.stripe.com
 http://connections-auth.stripe.com
 http://connections-barclays.stripe.com
 http://connections-sandbox.stripe.com
@@ -81,6 +83,7 @@ http://gems.stripe.com
 http://git.corp.stripe.com:443
 http://global.stripe.com
 http://groups.stripe.com
+http://hooks.stripe.com
 http://hubble.corp.stripe.com:443
 http://identity-hooks.stripe.com
 http://indonesia-bt.stripe.com
@@ -122,7 +125,6 @@ http://press.stripe.com
 http://prod-files-flow.stripe.com
 http://prod-frontend-flow.stripe.com
 http://prod-js-tree.stripe.com
-http://prod-js-tree.stripe.com:443
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
 http://public.stripe.com
@@ -144,7 +146,6 @@ http://qa-status.stripe.com
 http://qa-support-conversations.stripe.com
 http://qa.corp.stripe.com:443
 http://qr.stripe.com
-http://r.stripe.com
 http://sales-live-chat.stripe.com
 http://sessions.stripe.com
 http://shop.stripe.com
@@ -182,6 +183,7 @@ https://blik-hooks.stripe.com
 https://blog.stripe.com
 https://book.stripe.com
 https://button.stripe.com
+https://buy.stripe.com
 https://calendar.stripe.com
 https://checkout-cookies.stripe.com
 https://checkout.stripe.com
@@ -244,6 +246,7 @@ https://gator.stripe.com
 https://gems.stripe.com
 https://global.stripe.com
 https://groups.stripe.com
+https://hooks.stripe.com
 https://identity-hooks.stripe.com
 https://indonesia-bt.stripe.com
 https://info-link.stripe.com
@@ -252,7 +255,6 @@ https://invoicedata.stripe.com
 https://ip-54-186-23-98.stripe.com
 https://ip-54-187-119-242.stripe.com
 https://ip-54-187-159-182.stripe.com
-https://ipaddr-3ds.stripe.com
 https://issuing-hooks-public.stripe.com
 https://issuing-key.stripe.com
 https://js.stripe.com
@@ -276,6 +278,7 @@ https://preprod-crypto-js.stripe.com
 https://press.stripe.com
 https://prod-files-flow.stripe.com
 https://prod-frontend-flow.stripe.com
+https://prod-js-tree.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
 https://public.stripe.com
@@ -285,10 +288,10 @@ https://qa-api.stripe.com
 https://qa-connect-js.stripe.com
 https://qa-connections-sandbox.stripe.com
 https://qa-crypto-js.stripe.com
+https://qa-ipaddr-3ds.stripe.com
 https://qa-status.stripe.com
 https://qa-support-conversations.stripe.com
 https://qr.stripe.com
-https://r.stripe.com
 https://sales-live-chat.stripe.com
 https://sessions.stripe.com
 https://shop.stripe.com

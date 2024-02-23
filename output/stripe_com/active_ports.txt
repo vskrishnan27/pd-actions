@@ -31,6 +31,8 @@ bounce.e.stripe.com:25
 bounce.info.stripe.com:25
 button.stripe.com:443
 button.stripe.com:80
+buy.stripe.com:443
+buy.stripe.com:80
 calendar.stripe.com:443
 calendar.stripe.com:80
 cdg.corp.stripe.com:443
@@ -161,6 +163,8 @@ global.stripe.com:443
 global.stripe.com:80
 groups.stripe.com:443
 groups.stripe.com:80
+hooks.stripe.com:443
+hooks.stripe.com:80
 hubble.corp.stripe.com:443
 identity-hooks.stripe.com:443
 identity-hooks.stripe.com:80
@@ -259,6 +263,7 @@ qa-crypto-js.stripe.com:443
 qa-crypto-js.stripe.com:80
 qa-dub.corp.stripe.com:443
 qa-east.corp.stripe.com:443
+qa-ipaddr-3ds.stripe.com:443
 qa-northwest.corp.stripe.com:443
 qa-pdx.corp.stripe.com:443
 qa-status.stripe.com:443
@@ -268,8 +273,6 @@ qa-support-conversations.stripe.com:80
 qa.corp.stripe.com:443
 qr.stripe.com:443
 qr.stripe.com:80
-r.stripe.com:443
-r.stripe.com:80
 sales-live-chat.stripe.com:443
 sales-live-chat.stripe.com:80
 sessions.stripe.com:443

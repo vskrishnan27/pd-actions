@@ -360,7 +360,6 @@ http://porn405.xvideos.com
 http://porn900.xvideos.com
 http://porn999.xvideos.com
 http://proxy-cdn77.xvideos.com
-http://s.xvideos.com
 http://static-dev-xvlive.xvideos.com
 http://static-hw.xvideos.com
 http://static-org.xvideos.com
@@ -382,11 +381,13 @@ http://vc.xvideos.com
 http://vmmscazz.xvideos.com
 http://webmaster-tools.xvideos.com
 http://wg-xvdev.xvideos.com
+http://ww.xvideos.com
 http://wws.xvideos.com
 http://www.test.xvideos.com
 http://www.xvideos.com
 http://www.xxux.xvideos.com
 http://wwww.xvideos.com
+http://wwwww.xvideos.com
 http://wwwwwww.xvideos.com
 http://xnxx.commobile.xvideos.com
 http://xv130.xvideos.com
@@ -746,7 +747,6 @@ https://porn271.xvideos.com
 https://porn405.xvideos.com
 https://porn900.xvideos.com
 https://porn999.xvideos.com
-https://s.xvideos.com
 https://static-dev-xvlive.xvideos.com
 https://static-org.xvideos.com
 https://static.xvideos.com
@@ -762,11 +762,13 @@ https://vc.xvideos.com
 https://vmmscazz.xvideos.com
 https://webmaster-tools.xvideos.com
 https://wg-xvdev.xvideos.com
+https://ww.xvideos.com
 https://wws.xvideos.com
 https://www.test.xvideos.com
 https://www.xvideos.com
 https://www.xxux.xvideos.com
 https://wwww.xvideos.com
+https://wwwww.xvideos.com
 https://wwwwwww.xvideos.com
 https://xnxx.commobile.xvideos.com
 https://xv130.xvideos.com

@@ -189,7 +189,6 @@ http://videorequests.nw.ring.com
 http://wu.dev.ring.com
 http://wu.dev.ring.com:8443
 http://wu.qa.ring.com
-http://wu.qa.ring.com:8080
 http://wu.qa.ring.com:8443
 http://wu.ring.com
 http://wu.ring.com:8443

@@ -135,10 +135,6 @@ mercury-srv.chain.link:443
 mercury-srv.chain.link:80
 mercury-srv.chain.link:8080
 mercury-srv.chain.link:8443
-on.chain.link:443
-on.chain.link:80
-on.chain.link:8080
-on.chain.link:8443
 pages.chain.link:443
 pages.chain.link:80
 pages.chain.link:8080
@@ -165,6 +161,10 @@ security.chain.link:443
 security.chain.link:80
 security.chain.link:8080
 security.chain.link:8443
+smartcon.chain.link:443
+smartcon.chain.link:80
+smartcon.chain.link:8080
+smartcon.chain.link:8443
 staking.chain.link:443
 staking.chain.link:80
 staking.chain.link:8080

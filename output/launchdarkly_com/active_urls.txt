@@ -65,7 +65,6 @@ http://partnersupport.launchdarkly.com:8080
 http://partnersupport.launchdarkly.com:8443
 http://pubnubtest.launchdarkly.com
 http://resources.launchdarkly.com
-http://sdk-stg.launchdarkly.com
 http://sdk.dev.launchdarkly.com:8443
 http://sdk.dr.launchdarkly.com
 http://smart.launchdarkly.com
@@ -101,6 +100,7 @@ https://api.deploy.launchdarkly.com
 https://apidocs.launchdarkly.com
 https://app-east.intuit.launchdarkly.com
 https://app-stg.intuit.launchdarkly.com
+https://app-test.intuit.launchdarkly.com
 https://app.dr.launchdarkly.com
 https://app.intuit.launchdarkly.com
 https://app.launchdarkly.com
@@ -125,6 +125,7 @@ https://clientstream-stg.launchdarkly.com
 https://clientstream-use1.launchdarkly.com
 https://clientstream-use2.intuit.launchdarkly.com
 https://clientstream.dr.launchdarkly.com
+https://clientstream.intuit.launchdarkly.com
 https://clientstream.launchdarkly.com
 https://courier-webhook.dev.launchdarkly.com
 https://data-export-tester-prod.launchdarkly.com
@@ -180,7 +181,6 @@ https://msteams.launchdarkly.com
 https://partnersupport.launchdarkly.com
 https://pubnubtest.launchdarkly.com
 https://resources.launchdarkly.com
-https://sdk-stg.launchdarkly.com
 https://sdk.dev.launchdarkly.com
 https://sdk.dr.launchdarkly.com
 https://slack-app-stg.intuit.launchdarkly.com

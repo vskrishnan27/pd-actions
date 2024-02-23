@@ -661,6 +661,7 @@ prod-coext-01.lululemon.com
 prod-plm.lululemon.com
 prod-possmtp-01.receipts.lululemon.com
 prod-smtp-02.lululemon.com
+producttesting.lululemon.com
 qa-bandha.lululemon.com
 qa-identity.lululemon.com
 qa-iexpense.lululemon.com

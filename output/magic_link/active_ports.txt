@@ -2,10 +2,6 @@ api.dev.magic.link:443
 api.dev.magic.link:80
 api.dev.magic.link:8080
 api.dev.magic.link:8443
-api.magic.link:443
-api.magic.link:80
-api.magic.link:8080
-api.magic.link:8443
 api.stagef.magic.link:443
 api.stagef.magic.link:80
 api.stagef.magic.link:8080
@@ -120,6 +116,10 @@ landing.magic.link:8080
 landing.magic.link:8443
 links.magic.link:443
 links.magic.link:80
+magic.link:443
+magic.link:80
+magic.link:8080
+magic.link:8443
 next-dev.magic.link:443
 next-dev.magic.link:80
 next-stage.magic.link:443
@@ -136,6 +136,10 @@ nft-contracts.magic.link:443
 nft-contracts.magic.link:80
 nftnyc.magic.link:443
 nftnyc.magic.link:80
+partner-auth.magic.link:443
+partner-auth.magic.link:80
+partner-auth.magic.link:8080
+partner-auth.magic.link:8443
 permissionless23.magic.link:443
 permissionless23.magic.link:80
 redpacket.magic.link:443

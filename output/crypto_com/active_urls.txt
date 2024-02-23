@@ -57,8 +57,6 @@ http://limit-order.crypto.com
 http://limit-order.crypto.com:8080
 http://marketing-api.crypto.com
 http://marketing-api.crypto.com:8080
-http://mco.crypto.com
-http://mco.crypto.com:8080
 http://media.nft.crypto.com
 http://media.nft.crypto.com:8080
 http://merchant.crypto.com
@@ -73,8 +71,6 @@ http://nft.crypto.com
 http://nft.crypto.com:8080
 http://opening-night.crypto.com
 http://opening-night.crypto.com:8080
-http://p.crypto.com
-http://p.crypto.com:8080
 http://pay-api.crypto.com
 http://pay-api.crypto.com:8080
 http://pay-docs.crypto.com
@@ -112,8 +108,6 @@ http://static2.crypto.com:8080
 http://status.crypto.com
 http://stream.crypto.com
 http://stream.crypto.com:8080
-http://tax.crypto.com
-http://tax.crypto.com:8080
 http://tpp-tmp.crypto.com
 http://tpp-tmp.crypto.com:8080
 http://uat-content-hub.crypto.com
@@ -191,8 +185,6 @@ https://limit-order.crypto.com
 https://limit-order.crypto.com:8443
 https://marketing-api.crypto.com
 https://marketing-api.crypto.com:8443
-https://mco.crypto.com
-https://mco.crypto.com:8443
 https://media.nft.crypto.com
 https://media.nft.crypto.com:8443
 https://merchant.crypto.com
@@ -207,8 +199,6 @@ https://nft.crypto.com
 https://nft.crypto.com:8443
 https://opening-night.crypto.com
 https://opening-night.crypto.com:8443
-https://p.crypto.com
-https://p.crypto.com:8443
 https://pay-api.crypto.com
 https://pay-api.crypto.com:8443
 https://pay-docs.crypto.com
@@ -246,8 +236,6 @@ https://static2.crypto.com:8443
 https://status.crypto.com
 https://stream.crypto.com
 https://stream.crypto.com:8443
-https://tax.crypto.com
-https://tax.crypto.com:8443
 https://tpp-tmp.crypto.com
 https://tpp-tmp.crypto.com:8443
 https://uat-content-hub.crypto.com

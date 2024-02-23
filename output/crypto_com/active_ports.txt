@@ -117,10 +117,6 @@ marketing-api.crypto.com:443
 marketing-api.crypto.com:80
 marketing-api.crypto.com:8080
 marketing-api.crypto.com:8443
-mco.crypto.com:443
-mco.crypto.com:80
-mco.crypto.com:8080
-mco.crypto.com:8443
 media.nft.crypto.com:443
 media.nft.crypto.com:80
 media.nft.crypto.com:8080
@@ -149,10 +145,6 @@ opening-night.crypto.com:443
 opening-night.crypto.com:80
 opening-night.crypto.com:8080
 opening-night.crypto.com:8443
-p.crypto.com:443
-p.crypto.com:80
-p.crypto.com:8080
-p.crypto.com:8443
 pay-api.crypto.com:443
 pay-api.crypto.com:80
 pay-api.crypto.com:8080
@@ -227,10 +219,6 @@ stream.crypto.com:443
 stream.crypto.com:80
 stream.crypto.com:8080
 stream.crypto.com:8443
-tax.crypto.com:443
-tax.crypto.com:80
-tax.crypto.com:8080
-tax.crypto.com:8443
 tpp-tmp.crypto.com:443
 tpp-tmp.crypto.com:80
 tpp-tmp.crypto.com:8080

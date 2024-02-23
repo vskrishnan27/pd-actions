@@ -52,6 +52,10 @@ us.okx.com:443
 us.okx.com:80
 us.okx.com:8080
 us.okx.com:8443
+ustemp.okx.com:443
+ustemp.okx.com:80
+ustemp.okx.com:8080
+ustemp.okx.com:8443
 wallet.okx.com:443
 wallet.okx.com:80
 wsaws.okx.com:443

@@ -33,6 +33,7 @@ http://oa.matomo.org
 http://origin.matomo.org
 http://origin.staging.matomo.org
 http://pl.matomo.org
+http://plugins.matomo.org
 http://ru.matomo.org
 http://staging-plugins.matomo.org
 http://staging-shop.matomo.org
@@ -78,6 +79,7 @@ https://oa.matomo.org
 https://origin.matomo.org
 https://origin.staging.matomo.org
 https://pl.matomo.org
+https://plugins.matomo.org
 https://ru.matomo.org
 https://staging-plugins.matomo.org
 https://staging-shop.matomo.org

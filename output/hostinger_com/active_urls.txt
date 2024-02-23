@@ -31,14 +31,12 @@ http://confirmar.hostinger.com
 http://connect.hostinger.com
 http://convalida.hostinger.com
 http://cpanel.hostinger.com
-http://cpanel.hostinger.com:8080
 http://cpanel.hostinger.com:8443
 http://d.account.hostinger.com
 http://d.account.hostinger.com:8080
 http://d.account.hostinger.com:8443
 http://d.email.hostinger.com
 http://d.email.hostinger.com:8080
-http://d.email.hostinger.com:8443
 http://design.hostinger.com
 http://dogrula.hostinger.com
 http://domains.hostinger.com
@@ -58,7 +56,6 @@ http://flockmail.hostinger.com
 http://help.hostinger.com
 http://help.hostinger.com:8080
 http://hpanel.hostinger.com
-http://hpanel.hostinger.com:8443
 http://kontroll.hostinger.com
 http://mail.hostinger.com
 http://mail.hostinger.com:8443
@@ -79,12 +76,14 @@ http://roadmap.hostinger.com:8443
 http://sahkan.hostinger.com
 http://se.account.hostinger.com
 http://se.account.hostinger.com:8080
+http://se.account.hostinger.com:8443
 http://se.email.hostinger.com
 http://se.email.hostinger.com:8080
 http://se.email.hostinger.com:8443
 http://sql111.hostinger.com
 http://sql111.hostinger.com:443
 http://sso.hostinger.com
+http://sso.hostinger.com:8080
 http://sso.hostinger.com:8443
 http://statuspage.hostinger.com
 http://statuspage.hostinger.com:8080
@@ -161,6 +160,7 @@ https://convalida.hostinger.com
 https://cpanel.hostinger.com
 https://d.account.hostinger.com
 https://d.email.hostinger.com
+https://d.email.hostinger.com:8443
 https://design.hostinger.com
 https://dogrula.hostinger.com
 https://domains.hostinger.com
@@ -173,6 +173,7 @@ https://flockmail.hostinger.com
 https://help.hostinger.com
 https://help.hostinger.com:8443
 https://hpanel.hostinger.com
+https://hpanel.hostinger.com:8443
 https://kontroll.hostinger.com
 https://mail.hostinger.com
 https://marketing.hostinger.com
@@ -188,7 +189,6 @@ https://rest-hosting.hostinger.com
 https://roadmap.hostinger.com
 https://sahkan.hostinger.com
 https://se.account.hostinger.com
-https://se.account.hostinger.com:8443
 https://se.email.hostinger.com
 https://sql111.hostinger.com:8443
 https://sso.hostinger.com

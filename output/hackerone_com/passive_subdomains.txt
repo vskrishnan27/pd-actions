@@ -36,6 +36,8 @@
 3d.hackerone.com
 3d.hackerone.com
 3d.hackerone.com
+3d.hackerone.com
+a.ns.hackerone.com
 a.ns.hackerone.com
 a.ns.hackerone.com
 a.ns.hackerone.com
@@ -118,6 +120,8 @@ api.hackerone.com
 api.hackerone.com
 api.hackerone.com
 api.hackerone.com
+api.hackerone.com
+b.ns.hackerone.com
 b.ns.hackerone.com
 b.ns.hackerone.com
 b.ns.hackerone.com
@@ -200,6 +204,8 @@ design.hackerone.com
 design.hackerone.com
 design.hackerone.com
 design.hackerone.com
+design.hackerone.com
+docs.hackerone.com
 docs.hackerone.com
 docs.hackerone.com
 docs.hackerone.com
@@ -282,6 +288,7 @@ events.hackerone.com
 events.hackerone.com
 events.hackerone.com
 events.hackerone.com
+events.hackerone.com
 go.hackerone.com
 go.hackerone.com
 go.hackerone.com
@@ -323,6 +330,8 @@ go.hackerone.com
 go.hackerone.com
 go.hackerone.com
 go.hackerone.com
+go.hackerone.com
+gslink.hackerone.com
 gslink.hackerone.com
 gslink.hackerone.com
 gslink.hackerone.com
@@ -403,6 +412,8 @@ hackerone.com
 hackerone.com
 hackerone.com
 hackerone.com
+hackerone.com
+info.hackerone.com
 info.hackerone.com
 info.hackerone.com
 info.hackerone.com
@@ -485,6 +496,8 @@ links.hackerone.com
 links.hackerone.com
 links.hackerone.com
 links.hackerone.com
+links.hackerone.com
+mta-sts.forwarding.hackerone.com
 mta-sts.forwarding.hackerone.com
 mta-sts.forwarding.hackerone.com
 mta-sts.forwarding.hackerone.com
@@ -567,6 +580,8 @@ mta-sts.hackerone.com
 mta-sts.hackerone.com
 mta-sts.hackerone.com
 mta-sts.hackerone.com
+mta-sts.hackerone.com
+mta-sts.managed.hackerone.com
 mta-sts.managed.hackerone.com
 mta-sts.managed.hackerone.com
 mta-sts.managed.hackerone.com
@@ -646,6 +661,7 @@ resources.hackerone.com
 resources.hackerone.com
 resources.hackerone.com
 resources.hackerone.com
+resources.hackerone.com
 support.hackerone.com
 support.hackerone.com
 support.hackerone.com
@@ -687,6 +703,8 @@ support.hackerone.com
 support.hackerone.com
 support.hackerone.com
 support.hackerone.com
+support.hackerone.com
+www.hackerone.com
 www.hackerone.com
 www.hackerone.com
 www.hackerone.com

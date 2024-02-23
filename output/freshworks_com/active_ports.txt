@@ -258,7 +258,6 @@ community.developers.freshworks.com:443
 community.developers.freshworks.com:80
 community.freshworks.com:443
 community.freshworks.com:80
-communityevents.freshworks.com:1900
 communityevents.freshworks.com:443
 communityevents.freshworks.com:80
 company-assets.freshworks.com:443

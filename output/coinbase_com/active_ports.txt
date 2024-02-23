@@ -15,10 +15,6 @@ api-test.prime.coinbase.com:443
 api-test.prime.coinbase.com:80
 api-test.prime.coinbase.com:8080
 api-test.prime.coinbase.com:8443
-api.coinbase.com:443
-api.coinbase.com:80
-api.coinbase.com:8080
-api.coinbase.com:8443
 api.commerce.coinbase.com:443
 api.commerce.coinbase.com:80
 api.commerce.coinbase.com:8080
@@ -121,6 +117,10 @@ cohort-service.crypto.coinbase.com:443
 cohort-service.crypto.coinbase.com:80
 cohort-service.crypto.coinbase.com:8080
 cohort-service.crypto.coinbase.com:8443
+coinbase.com:443
+coinbase.com:80
+coinbase.com:8080
+coinbase.com:8443
 comm.coinbase.com:443
 comm.coinbase.com:80
 comm.coinbase.com:8080
@@ -333,6 +333,10 @@ primebroker.coinbase.com:443
 primebroker.coinbase.com:80
 primebroker.coinbase.com:8080
 primebroker.coinbase.com:8443
+pro.coinbase.com:443
+pro.coinbase.com:80
+pro.coinbase.com:8080
+pro.coinbase.com:8443
 profile.coinbase.com:443
 profile.coinbase.com:80
 profile.coinbase.com:8080

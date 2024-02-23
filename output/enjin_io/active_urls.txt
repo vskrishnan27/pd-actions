@@ -13,7 +13,6 @@ http://cloud.enjin.io:8080
 http://cloud.enjin.io:8443
 http://console.enjin.io
 http://console.enjin.io:8080
-http://console.enjin.io:8443
 http://csharp.docs.enjin.io
 http://deeplink.wallet.enjin.io
 http://deeplink.wallet.enjin.io:8080
@@ -67,6 +66,7 @@ https://blog.enjin.io:8443
 https://cdn.enjin.io
 https://cloud.enjin.io
 https://console.enjin.io
+https://console.enjin.io:8443
 https://csharp.docs.enjin.io
 https://deeplink.wallet.enjin.io
 https://deeplink.wallet.enjin.io:8443

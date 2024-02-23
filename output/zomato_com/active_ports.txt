@@ -58,8 +58,6 @@ secretx.zomato.com:443
 secretx.zomato.com:80
 send.zomato.com:443
 send.zomato.com:80
-techblog.zomato.com:443
-techblog.zomato.com:80
 trackemail.zomato.com:443
 trackemail.zomato.com:80
 trackemail2.zomato.com:443

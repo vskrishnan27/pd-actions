@@ -1,5 +1,3 @@
-beginit.indrive.com:443
-beginit.indrive.com:80
 book.indrive.com:443
 book.indrive.com:80
 careers.indrive.com:443
@@ -57,6 +55,8 @@ lp-services.indrive.com:443
 lp-services.indrive.com:80
 media.indrive.com:443
 media.indrive.com:80
+money.indrive.com:443
+money.indrive.com:80
 promo.indrive.com:443
 promo.indrive.com:80
 promotion.indrive.com:443

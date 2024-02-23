@@ -1,4 +1,3 @@
-http://beginit.indrive.com
 http://book.indrive.com
 http://careers.indrive.com
 http://cargo.indrive.com
@@ -27,6 +26,7 @@ http://landing.indrive.com
 http://lp-food.indrive.com
 http://lp-services.indrive.com
 http://media.indrive.com
+http://money.indrive.com
 http://promo.indrive.com
 http://promotion.indrive.com
 http://rabota.indrive.com
@@ -56,7 +56,6 @@ http://www.supernovas.indrive.com
 http://www.updrive.indrive.com
 http://www.yourpace.indrive.com
 http://yourpace.indrive.com
-https://beginit.indrive.com
 https://book.indrive.com
 https://careers.indrive.com
 https://cargo.indrive.com
@@ -85,6 +84,7 @@ https://landing.indrive.com
 https://lp-food.indrive.com
 https://lp-services.indrive.com
 https://media.indrive.com
+https://money.indrive.com
 https://promo.indrive.com
 https://promotion.indrive.com
 https://rabota.indrive.com

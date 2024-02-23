@@ -29,6 +29,7 @@ landing.indrive.com
 lp-food.indrive.com
 lp-services.indrive.com
 media.indrive.com
+money.indrive.com
 promo.indrive.com
 promotion.indrive.com
 rabota.indrive.com

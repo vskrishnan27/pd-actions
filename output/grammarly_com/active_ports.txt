@@ -84,8 +84,6 @@ gnar.grammarly.com:443
 go.grammarly.com:443
 go.grammarly.com:80
 goldengate.grammarly.com:443
-grammarly.com:443
-grammarly.com:80
 handbook.grammarly.com:443
 handbook.grammarly.com:80
 id.grammarly.com:443

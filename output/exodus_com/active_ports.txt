@@ -18,10 +18,7 @@ extension.exodus.com:443
 extension.exodus.com:80
 extension.exodus.com:8080
 extension.exodus.com:8443
-get.exodus.com:2049
 get.exodus.com:443
-get.exodus.com:544
-get.exodus.com:631
 get.exodus.com:80
 help.exodus.com:443
 help.exodus.com:80

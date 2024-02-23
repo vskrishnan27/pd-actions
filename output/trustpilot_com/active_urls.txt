@@ -25,6 +25,7 @@ http://brand.trustpilot.com
 http://browserextension.trustpilot.com
 http://business-configurablehttpredirector.trustpilot.com
 http://business-preview.trustpilot.com
+http://business.trustpilot.com
 http://businessapp.b2b.trustpilot.com
 http://businessauthentication-app.trustpilot.com
 http://businessunitproducts-images.trustpilot.com
@@ -125,7 +126,6 @@ http://pl.trustpilot.com
 http://portalmailchimpfeed.business-preview.trustpilot.com
 http://portalmailchimpfeed.business-preview.trustpilot.com:443
 http://press.trustpilot.com
-http://preview.trustpilot.com
 http://productreviews-attachments.trustpilot.com
 http://productreviews.trustpilot.com
 http://productreviewswidgets.trustpilot.com
@@ -181,6 +181,7 @@ https://brand.trustpilot.com
 https://browserextension.trustpilot.com
 https://business-configurablehttpredirector.trustpilot.com
 https://business-preview.trustpilot.com
+https://business.trustpilot.com
 https://businessapp.b2b.trustpilot.com
 https://businessauthentication-app.trustpilot.com
 https://businessunitproducts-images.trustpilot.com
@@ -281,7 +282,6 @@ https://pl.business.trustpilot.com
 https://pl.trustpilot.com
 https://ponychallenge.trustpilot.com
 https://press.trustpilot.com
-https://preview.trustpilot.com
 https://productreviews-attachments.trustpilot.com
 https://productreviews.trustpilot.com
 https://productreviewswidgets.trustpilot.com

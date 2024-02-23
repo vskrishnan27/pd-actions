@@ -26,6 +26,7 @@ portal.hedera.com
 previewnet.mirrornode.hedera.com
 sandbox.portal.hedera.com
 shop.hedera.com
+staging.hedera.com
 status.hedera.com
 support.hedera.com
 testnet.mirrornode.hedera.com

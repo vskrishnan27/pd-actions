@@ -1,4 +1,3 @@
-krisp.ai
 aol.com
 tesla.com
 recordedfuture.com
@@ -77,3 +76,4 @@ deribit.com
 coinbase.com
 base.org
 sorare.com
+krisp.ai

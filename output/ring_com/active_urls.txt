@@ -127,8 +127,6 @@ http://nw.qa.ring.com
 http://nw.ring.com
 http://nz-en.ring.com
 http://nz-en.ring.com:8080
-http://oauth.ring.com
-http://oauth.ring.com:8080
 http://oauth.ring.com:8443
 http://order-details.cs-tools.dev.ring.com
 http://order-details.cs-tools.qa.ring.com
@@ -191,6 +189,7 @@ http://videorequests.nw.ring.com
 http://wu.dev.ring.com
 http://wu.dev.ring.com:8443
 http://wu.qa.ring.com
+http://wu.qa.ring.com:8080
 http://wu.qa.ring.com:8443
 http://wu.ring.com
 http://wu.ring.com:8443

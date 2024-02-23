@@ -8,7 +8,6 @@ http://cognito-app-admin.demo.moderntreasury.com
 http://cognito-app-admin.moderntreasury.com
 http://cognito.demo.moderntreasury.com
 http://cognito.moderntreasury.com
-http://demo.moderntreasury.com
 http://docs.moderntreasury.com
 http://docs.moderntreasury.com:8080
 http://events.moderntreasury.com
@@ -16,6 +15,7 @@ http://go.moderntreasury.com
 http://help.moderntreasury.com
 http://help.moderntreasury.com:8080
 http://help.moderntreasury.com:8443
+http://ledgersync-dev.moderntreasury.com
 http://link.moderntreasury.com
 http://mta-sts.moderntreasury.com
 http://payments.demo.moderntreasury.com
@@ -39,12 +39,12 @@ https://cognito-app-admin.demo.moderntreasury.com
 https://cognito-app-admin.moderntreasury.com
 https://cognito.demo.moderntreasury.com
 https://cognito.moderntreasury.com
-https://demo.moderntreasury.com
 https://docs.moderntreasury.com
 https://docs.moderntreasury.com:8443
 https://events.moderntreasury.com
 https://go.moderntreasury.com
 https://help.moderntreasury.com
+https://ledgersync-dev.moderntreasury.com
 https://link.moderntreasury.com
 https://mta-sts.moderntreasury.com
 https://payments.demo.moderntreasury.com

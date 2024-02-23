@@ -173,7 +173,6 @@ neo4j-prod.sc-corp.net
 neo4j-staging.sc-corp.net
 neo4j.sc-corp.net
 okr.sc-corp.net
-okta-preview.sc-corp.net
 olympus-staging.secproxy.sc-corp.net
 orca.sc-corp.net
 pacific.sc-corp.net

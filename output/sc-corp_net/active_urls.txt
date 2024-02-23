@@ -56,7 +56,6 @@ http://developer-portal.sc-corp.net
 http://device-trust.sc-corp.net
 http://drone-ci.sc-corp.net
 http://drone-github.sc-corp.net
-http://eatmyshortener.gae.sc-corp.net
 http://eelabinventory.sc-corp.net
 http://email-scheduler-beta.sc-corp.net
 http://email-scheduler-dev.sc-corp.net
@@ -74,7 +73,6 @@ http://flowrida-unlockables.sc-corp.net
 http://forge-staging-iap.sc-corp.net
 http://gerrit.sc-corp.net
 http://ghe-dev.sc-corp.net
-http://github.sc-corp.net
 http://grafana-cluster.sc-corp.net
 http://grafana-dashboard.sc-corp.net
 http://grr-admin.sc-corp.net
@@ -94,6 +92,7 @@ http://jira-mx-dev.sc-corp.net
 http://jira-mx.sc-corp.net
 http://jira-stage-api.sc-corp.net
 http://jira-stage.sc-corp.net
+http://jira.sc-corp.net
 http://key-master-prod.sc-corp.net
 http://key-master-stage.sc-corp.net
 http://lease.sc-corp.net
@@ -139,7 +138,6 @@ http://neo4j-prod.sc-corp.net
 http://neo4j-staging.sc-corp.net
 http://neo4j.sc-corp.net
 http://okr.sc-corp.net
-http://okta-preview.sc-corp.net
 http://olympus-staging.secproxy.sc-corp.net
 http://orca.sc-corp.net
 http://perf.sc-corp.net
@@ -169,7 +167,6 @@ http://shappy.sc-corp.net
 http://shiny-tool.secproxy.sc-corp.net
 http://smp-dev.api.search.sc-corp.net
 http://smp-prod.api.search.sc-corp.net
-http://snap-lion.gae.sc-corp.net
 http://snap-lion.sc-corp.net
 http://snap-sre.gae.sc-corp.net
 http://snap-web-preview-dot-entapps-web-dev.gae.sc-corp.net
@@ -281,7 +278,6 @@ https://developer-portal.sc-corp.net
 https://device-trust.sc-corp.net
 https://drone-ci.sc-corp.net
 https://drone-github.sc-corp.net
-https://eatmyshortener.gae.sc-corp.net
 https://eelabinventory.sc-corp.net
 https://email-scheduler-beta.sc-corp.net
 https://email-scheduler-dev.sc-corp.net
@@ -304,7 +300,6 @@ https://forge-staging-iap.sc-corp.net
 https://gerrit.sc-corp.net
 https://ghe-dev.sc-corp.net
 https://github-backup.sc-corp.net
-https://github.sc-corp.net
 https://grafana-backup.sc-corp.net
 https://grafana-cluster.sc-corp.net
 https://grafana-dashboard.sc-corp.net
@@ -324,6 +319,7 @@ https://jira-mx-dev.sc-corp.net
 https://jira-mx.sc-corp.net
 https://jira-stage-api.sc-corp.net
 https://jira-stage.sc-corp.net
+https://jira.sc-corp.net
 https://key-master-prod.sc-corp.net
 https://key-master-stage.sc-corp.net
 https://lease.sc-corp.net
@@ -372,7 +368,6 @@ https://neo4j-prod.sc-corp.net
 https://neo4j-staging.sc-corp.net
 https://neo4j.sc-corp.net
 https://okr.sc-corp.net
-https://okta-preview.sc-corp.net
 https://olympus-staging.secproxy.sc-corp.net
 https://orca.sc-corp.net
 https://perf.sc-corp.net
@@ -404,7 +399,6 @@ https://shiny-tool.secproxy.sc-corp.net
 https://sm-ca.sc-corp.net
 https://smp-dev.api.search.sc-corp.net
 https://smp-prod.api.search.sc-corp.net
-https://snap-lion.gae.sc-corp.net
 https://snap-lion.sc-corp.net
 https://snap-sre.gae.sc-corp.net
 https://snap-web-preview-dot-entapps-web-dev.gae.sc-corp.net

@@ -8,6 +8,8 @@ http://docs.base.org:8080
 http://docs.base.org:8443
 http://goerli.base.org
 http://goerli.base.org:8080
+http://mainnet.base.org
+http://mainnet.base.org:8080
 http://mint.base.org
 http://mint.base.org:8080
 http://quests.base.org
@@ -29,6 +31,8 @@ https://developer-access-mainnet.base.org:8443
 https://docs.base.org
 https://goerli.base.org
 https://goerli.base.org:8443
+https://mainnet.base.org
+https://mainnet.base.org:8443
 https://mint.base.org
 https://mint.base.org:8443
 https://quests.base.org

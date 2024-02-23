@@ -735,10 +735,6 @@ contributors.gitlab.com:443
 contributors.gitlab.com:80
 contributors.gitlab.com:8080
 contributors.gitlab.com:8443
-customers.gitlab.com:443
-customers.gitlab.com:80
-customers.gitlab.com:8080
-customers.gitlab.com:8443
 customers.staging-ref.gitlab.com:443
 customers.staging-ref.gitlab.com:80
 customers.staging-ref.gitlab.com:8080
@@ -917,10 +913,8 @@ internal.gitlab.com:443
 internal.gitlab.com:80
 ir.gitlab.com:443
 ir.gitlab.com:80
-jitsu-configurator.product-analytics.prototype.gitlab.com:2001
 jitsu-configurator.product-analytics.prototype.gitlab.com:443
 jitsu-configurator.product-analytics.prototype.gitlab.com:80
-jitsu-server.product-analytics.prototype.gitlab.com:1027
 jitsu-server.product-analytics.prototype.gitlab.com:443
 jitsu-server.product-analytics.prototype.gitlab.com:80
 jobs.gitlab.com:443

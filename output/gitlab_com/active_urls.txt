@@ -319,9 +319,6 @@ http://content.gitlab.com
 http://content.gitlab.com:8443
 http://contributors.gitlab.com
 http://contributors.gitlab.com:8080
-http://customers.gitlab.com
-http://customers.gitlab.com:8080
-http://customers.gitlab.com:8443
 http://customers.staging-ref.gitlab.com
 http://customers.staging-ref.gitlab.com:8443
 http://customers.staging.gitlab.com
@@ -361,6 +358,7 @@ http://handbook.gitlab.com
 http://hub.gitlab.com
 http://hub.gitlab.com:8080
 http://internal.gitlab.com
+http://ir.gitlab.com
 http://jitsu-configurator.product-analytics.prototype.gitlab.com
 http://jitsu-server.product-analytics.prototype.gitlab.com
 http://jobs.gitlab.com
@@ -728,7 +726,6 @@ https://codesuggestions.gitlab.com
 https://content.gitlab.com
 https://contributors.gitlab.com
 https://contributors.gitlab.com:8443
-https://customers.gitlab.com
 https://customers.staging-ref.gitlab.com
 https://customers.staging.gitlab.com
 https://cxr.gitlab.com

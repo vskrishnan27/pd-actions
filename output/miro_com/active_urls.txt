@@ -1,7 +1,6 @@
 http://005-svc.miro.com
 http://academy.miro.com
 http://academy.miro.com:8080
-http://academy.miro.com:8443
 http://admin.miro.com
 http://admin.us.miro.com
 http://api.buf.miro.com
@@ -101,12 +100,14 @@ http://us.miro.com
 http://us01.miro.com
 http://view.account.miro.com
 http://view.e.miro.com
+http://ww.miro.com
 http://www.events.miro.com
 http://www.jira-cards.miro.com
 http://www.miro.com
 http://wwww.miro.com
 https://005-svc.miro.com
 https://academy.miro.com
+https://academy.miro.com:8443
 https://admin.miro.com
 https://admin.us.miro.com
 https://api.buf.miro.com
@@ -197,6 +198,7 @@ https://us.miro.com
 https://us01.miro.com
 https://view.account.miro.com
 https://view.e.miro.com
+https://ww.miro.com
 https://www.events.miro.com
 https://www.jira-cards.miro.com
 https://www.miro.com

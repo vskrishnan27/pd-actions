@@ -18,6 +18,7 @@ http://bib.sc-corp.net
 http://build-hook-beta.sc-corp.net
 http://build-hook-prod.sc-corp.net
 http://build-hook-stage.sc-corp.net
+http://builds.sc-corp.net
 http://ca-dev.sc-corp.net
 http://ca-prod.sc-corp.net
 http://campaign-management-beta.sc-corp.net
@@ -56,6 +57,7 @@ http://developer-portal.sc-corp.net
 http://device-trust.sc-corp.net
 http://drone-ci.sc-corp.net
 http://drone-github.sc-corp.net
+http://eatmyshortener.gae.sc-corp.net
 http://eelabinventory.sc-corp.net
 http://email-scheduler-beta.sc-corp.net
 http://email-scheduler-dev.sc-corp.net
@@ -71,6 +73,7 @@ http://flowrida-ad-targeting.sc-corp.net
 http://flowrida-research.sc-corp.net
 http://flowrida-unlockables.sc-corp.net
 http://forge-staging-iap.sc-corp.net
+http://gae.sc-corp.net
 http://gerrit.sc-corp.net
 http://ghe-dev.sc-corp.net
 http://grafana-cluster.sc-corp.net
@@ -91,7 +94,6 @@ http://jira-dev.sc-corp.net
 http://jira-mx-dev.sc-corp.net
 http://jira-mx.sc-corp.net
 http://jira-stage-api.sc-corp.net
-http://jira-stage.sc-corp.net
 http://jira.sc-corp.net
 http://key-master-prod.sc-corp.net
 http://key-master-stage.sc-corp.net
@@ -167,6 +169,7 @@ http://shappy.sc-corp.net
 http://shiny-tool.secproxy.sc-corp.net
 http://smp-dev.api.search.sc-corp.net
 http://smp-prod.api.search.sc-corp.net
+http://snap-lion.gae.sc-corp.net
 http://snap-lion.sc-corp.net
 http://snap-sre.gae.sc-corp.net
 http://snap-web-preview-dot-entapps-web-dev.gae.sc-corp.net
@@ -237,6 +240,7 @@ https://bib.sc-corp.net
 https://build-hook-beta.sc-corp.net
 https://build-hook-prod.sc-corp.net
 https://build-hook-stage.sc-corp.net
+https://builds.sc-corp.net
 https://ca-dev.sc-corp.net
 https://ca-prod.sc-corp.net
 https://campaign-management-beta.sc-corp.net
@@ -278,6 +282,7 @@ https://developer-portal.sc-corp.net
 https://device-trust.sc-corp.net
 https://drone-ci.sc-corp.net
 https://drone-github.sc-corp.net
+https://eatmyshortener.gae.sc-corp.net
 https://eelabinventory.sc-corp.net
 https://email-scheduler-beta.sc-corp.net
 https://email-scheduler-dev.sc-corp.net
@@ -297,6 +302,7 @@ https://flowrida-ad-targeting.sc-corp.net
 https://flowrida-research.sc-corp.net
 https://flowrida-unlockables.sc-corp.net
 https://forge-staging-iap.sc-corp.net
+https://gae.sc-corp.net
 https://gerrit.sc-corp.net
 https://ghe-dev.sc-corp.net
 https://github-backup.sc-corp.net
@@ -318,7 +324,6 @@ https://jira-dev.sc-corp.net
 https://jira-mx-dev.sc-corp.net
 https://jira-mx.sc-corp.net
 https://jira-stage-api.sc-corp.net
-https://jira-stage.sc-corp.net
 https://jira.sc-corp.net
 https://key-master-prod.sc-corp.net
 https://key-master-stage.sc-corp.net
@@ -399,6 +404,7 @@ https://shiny-tool.secproxy.sc-corp.net
 https://sm-ca.sc-corp.net
 https://smp-dev.api.search.sc-corp.net
 https://smp-prod.api.search.sc-corp.net
+https://snap-lion.gae.sc-corp.net
 https://snap-lion.sc-corp.net
 https://snap-sre.gae.sc-corp.net
 https://snap-web-preview-dot-entapps-web-dev.gae.sc-corp.net

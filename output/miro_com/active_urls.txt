@@ -1,6 +1,7 @@
 http://005-svc.miro.com
 http://academy.miro.com
 http://academy.miro.com:8080
+http://academy.miro.com:8443
 http://admin.miro.com
 http://admin.us.miro.com
 http://api.buf.miro.com
@@ -62,7 +63,6 @@ http://links.m.miro.com
 http://links.m.miro.com:8443
 http://lubo.miro.com
 http://meet.miro.com
-http://miro.com
 http://mobile.miro.com
 http://mwww.miro.com
 http://notifications-overlay.svc.miro.com
@@ -107,7 +107,6 @@ http://www.miro.com
 http://wwww.miro.com
 https://005-svc.miro.com
 https://academy.miro.com
-https://academy.miro.com:8443
 https://admin.miro.com
 https://admin.us.miro.com
 https://api.buf.miro.com
@@ -160,7 +159,6 @@ https://learns.miro.com
 https://links.m.miro.com
 https://lubo.miro.com
 https://meet.miro.com
-https://miro.com
 https://mobile.miro.com
 https://mwww.miro.com
 https://notifications-overlay.svc.miro.com

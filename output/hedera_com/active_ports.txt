@@ -71,6 +71,8 @@ netki.hedera.com:443
 netki.hedera.com:80
 netki.hedera.com:8080
 netki.hedera.com:8443
+portal.hedera.com:443
+portal.hedera.com:80
 previewnet.mirrornode.hedera.com:443
 previewnet.mirrornode.hedera.com:80
 sandbox.portal.hedera.com:25
@@ -91,6 +93,7 @@ support.hedera.com:80
 support.hedera.com:8080
 support.hedera.com:8443
 testnet.mirrornode.hedera.com:443
+testnet.mirrornode.hedera.com:5631
 testnet.mirrornode.hedera.com:80
 www.hedera.com:443
 www.hedera.com:80

@@ -19,14 +19,13 @@ http://akamai-apigateway-inventorytxnextapi.tesla.com
 http://akamai-apigateway-logisticsratesapi.tesla.com
 http://akamai-apigateway-materials.tesla.com
 http://akamai-apigateway-mfs-supplier-uat.tesla.com
-http://akamai-apigateway-mfs-supplier.tesla.com
 http://akamai-apigateway-ops-warp3pl.tesla.com
 http://akamai-apigateway-packaging2.tesla.com
-http://akamai-apigateway-payment.tesla.com
 http://akamai-apigateway-procuretopayapi.tesla.com
 http://akamai-apigateway-profileapi.tesla.com
 http://akamai-apigateway-qa-captiveunderwriting.tesla.com
 http://akamai-apigateway-shipmentplanningapi.tesla.com
+http://akamai-apigateway-stg-captiveunderwriting.tesla.com
 http://akamai-apigateway-stg-deliveryopsapi.tesla.com
 http://akamai-apigateway-stg-deliveryopsapi1.tesla.com
 http://akamai-apigateway-stg-deliveryopsvitu.tesla.com
@@ -41,11 +40,9 @@ http://akamai-apigateway-stg-ops-warp3pl.tesla.com
 http://akamai-apigateway-stg-packaging2.tesla.com
 http://akamai-apigateway-stg-payment.tesla.com
 http://akamai-apigateway-stg-procuretopayapi.tesla.com
-http://akamai-apigateway-stg-profileapi.tesla.com
 http://akamai-apigateway-stg-shipmentplanningapi.tesla.com
 http://akamai-apigateway-stg-teslarpsapi.tesla.com
 http://akamai-apigateway-stg-translationpipeline.tesla.com
-http://akamai-apigateway-stg-vendorpartsapi.tesla.com
 http://akamai-apigateway-stg-warp3pl.tesla.com
 http://akamai-apigateway-stg-warpassetapi.tesla.com
 http://akamai-apigateway-stg-warpcxml.tesla.com
@@ -77,6 +74,7 @@ http://api-firebolt.tesla.com
 http://apps.tesla.com
 http://auth-global-stage.tesla.com
 http://auth-global.tesla.com
+http://auth.tesla.com
 http://autobidder-preprd.powerhub.energy.tesla.com
 http://autobidder.powerhub.energy.tesla.com
 http://autodiscover.tesla.com
@@ -132,6 +130,7 @@ http://image.emails.tesla.com
 http://inside.tesla.com
 http://installations-ext-api.tesla.com
 http://inventory-assets.tesla.com
+http://ion.tesla.com
 http://ir.tesla.com
 http://itanswers.tesla.com
 http://kronos-dev.tesla.com
@@ -148,7 +147,6 @@ http://logcollector-ext.tesla.com
 http://mfa-reset.tesla.com
 http://mfa.tesla.com
 http://mfs-supplier-uat.tesla.com
-http://mfs-supplier.tesla.com
 http://mobile-links-cdn.eng.vn.cloud.tesla.com
 http://mobile-links-cdn.prd.vn.cloud.tesla.com
 http://mobile.tesla.com
@@ -162,6 +160,7 @@ http://pages.emails.tesla.com
 http://partners.tesla.com
 http://pay.tesla.com
 http://pm-bounces.tesla.com
+http://powerhub.energy.tesla.com
 http://profile.tesla.com
 http://pub.email.tesla.com
 http://ranger-api.tesla.com
@@ -174,7 +173,6 @@ http://schedule.tesla.com
 http://secure-static-assets.tesla.com
 http://service.tesla.com
 http://serviceapi-stg.tesla.com
-http://serviceapi.tesla.com
 http://serviceapp.tesla.com
 http://simpleorigin.tesla.com
 http://solarbonds.tesla.com
@@ -373,6 +371,7 @@ https://image.emails.tesla.com
 https://inside.tesla.com
 https://installations-ext-api.tesla.com
 https://inventory-assets.tesla.com
+https://ion.tesla.com
 https://ir.tesla.com
 https://kronos-dev.tesla.com
 https://kronos.tesla.com
@@ -388,7 +387,6 @@ https://logcollector-ext.tesla.com
 https://mfa-reset.tesla.com
 https://mfa.tesla.com
 https://mfs-supplier-uat.tesla.com
-https://mfs-supplier.tesla.com
 https://mobile-links-cdn.eng.vn.cloud.tesla.com
 https://mobile-links-cdn.prd.vn.cloud.tesla.com
 https://mobile-links.eng.vn.cloud.tesla.com
@@ -403,6 +401,7 @@ https://pages.email.tesla.com
 https://pages.emails.tesla.com
 https://partners.tesla.com
 https://pay.tesla.com
+https://powerhub.energy.tesla.com
 https://profile.tesla.com
 https://pub.email.tesla.com
 https://ranger-api.tesla.com
@@ -437,7 +436,6 @@ https://tcc-graph.tesla.com
 https://tcc-gw-stg.tesla.com
 https://tcc-gw.tesla.com
 https://teamchat.tesla.com
-https://tesla.com
 https://teslacmgap01.tesla.com
 https://teslacmgcn01.tesla.com
 https://teslacmgeu01.tesla.com

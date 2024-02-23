@@ -13,7 +13,6 @@ http://login.playcanvas.com
 http://mmx.playcanvas.com
 http://msg.playcanvas.com
 http://phone.playcanvas.com
-http://playcanvas.com
 http://rt.playcanvas.com
 http://seemore.playcanvas.com
 http://static.playcanvas.com
@@ -33,6 +32,5 @@ https://launch.playcanvas.com
 https://login.playcanvas.com
 https://mmx.playcanvas.com
 https://msg.playcanvas.com
-https://playcanvas.com
 https://rt.playcanvas.com
 https://store.playcanvas.com

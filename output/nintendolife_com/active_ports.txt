@@ -92,9 +92,6 @@ wiiu.nintendolife.com:80
 wiiware.nintendolife.com:22
 wiiware.nintendolife.com:443
 wiiware.nintendolife.com:80
-ww.nintendolife.com:22
-ww.nintendolife.com:443
-ww.nintendolife.com:80
 www.nintendolife.com:443
 www.nintendolife.com:80
 www.nintendolife.com:8080

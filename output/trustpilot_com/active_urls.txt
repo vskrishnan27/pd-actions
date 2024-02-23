@@ -151,10 +151,10 @@ http://support.trustpilot.com:8080
 http://support.trustpilot.com:8443
 http://tech.trustpilot.com
 http://trustnet.trustpilot.com
+http://trustpilot.com
 http://uk.business.trustpilot.com
 http://uk.legal.trustpilot.com
 http://uk.trustpilot.com
-http://us.business.trustpilot.com
 http://user-images.trustpilot.com
 http://widget.trustpilot.com
 http://wildcard-configurablehttpredirector.trustpilot.com
@@ -306,10 +306,10 @@ https://status.trustpilot.com
 https://support.trustpilot.com
 https://tech.trustpilot.com
 https://trustnet.trustpilot.com
+https://trustpilot.com
 https://uk.business.trustpilot.com
 https://uk.legal.trustpilot.com
 https://uk.trustpilot.com
-https://us.business.trustpilot.com
 https://user-images.trustpilot.com
 https://widget.trustpilot.com
 https://wildcard-configurablehttpredirector.trustpilot.com

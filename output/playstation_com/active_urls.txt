@@ -22,7 +22,6 @@ http://blog.ru.playstation.com
 http://blog.us.playstation.com
 http://blog.zh-hant.playstation.com
 http://br.playstation.com
-http://bridges.playstation.com
 http://ca.playstation.com
 http://camera-adaptor.support.playstation.com
 http://cdn.jp.playstation.com
@@ -179,7 +178,6 @@ http://presscenter.playstation.com
 http://preview.direct.e1-np.playstation.com
 http://previewer.playstation.com
 http://profiles.us.playstation.com
-http://ps-support.playstation.com
 http://ps3.us.playstation.com
 http://ps4.us.playstation.com
 http://psapp.playstation.com
@@ -247,7 +245,6 @@ http://transact.playstation.com
 http://tw.playstation.com
 http://update-psnow.playstation.com
 http://updates.playstation.com
-http://us.playstation.com
 http://userguides.eu.playstation.com
 http://usgdev.playstation.com
 http://usgqa.playstation.com
@@ -307,7 +304,6 @@ https://blog.us.playstation.com
 https://blog.zh-hant.playstation.com
 https://bps.playstation.com
 https://br.playstation.com
-https://bridges.playstation.com
 https://ca.playstation.com
 https://camera-adaptor.support.playstation.com
 https://cdn.jp.playstation.com
@@ -472,8 +468,6 @@ https://preview.direct.e1-np.playstation.com
 https://previewer.playstation.com
 https://profile.api.playstation.com
 https://profiles.us.playstation.com
-https://ps-support.playstation.com
-https://ps-support.playstation.com:8443
 https://ps.playstation.com
 https://ps3.us.playstation.com
 https://ps4.us.playstation.com
@@ -545,7 +539,6 @@ https://twitch.playstation.com
 https://update-psnow.playstation.com
 https://updates.playstation.com
 https://upload.studiocrs.playstation.com
-https://us.playstation.com
 https://userguides.eu.playstation.com
 https://usgdev.playstation.com
 https://usgqa.playstation.com

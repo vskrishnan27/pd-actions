@@ -46,8 +46,6 @@ blog.zh-hant.playstation.com:80
 bps.playstation.com:443
 br.playstation.com:443
 br.playstation.com:80
-bridges.playstation.com:443
-bridges.playstation.com:80
 byblos.asia.playstation.com:22
 c2.jp.playstation.com:25
 c3.jp.playstation.com:25
@@ -386,9 +384,6 @@ profile.api.playstation.com:443
 profile.api.playstation.com:80
 profiles.us.playstation.com:443
 profiles.us.playstation.com:80
-ps-support.playstation.com:443
-ps-support.playstation.com:80
-ps-support.playstation.com:8443
 ps.playstation.com:443
 ps3.us.playstation.com:443
 ps3.us.playstation.com:80
@@ -530,8 +525,6 @@ update-psnow.playstation.com:80
 updates.playstation.com:443
 updates.playstation.com:80
 upload.studiocrs.playstation.com:443
-us.playstation.com:443
-us.playstation.com:80
 userguides.eu.playstation.com:443
 userguides.eu.playstation.com:80
 usgdev.playstation.com:443

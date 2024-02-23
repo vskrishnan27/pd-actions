@@ -23,6 +23,7 @@ http://apps.accounts.nintendo.com
 http://argta.nintendo.com
 http://arms.nintendo.com
 http://artacademy.nintendo.com
+http://artstyle.nintendo.com
 http://assets.nintendo.com
 http://astralchain.nintendo.com
 http://autodiscover.noa.nintendo.com
@@ -59,6 +60,7 @@ http://corporateevents.noa.nintendo.com
 http://cpsia.nintendo.com
 http://crashmo.nintendo.com
 http://crm-livecontent.nintendo.com
+http://crosswordsplus.nintendo.com
 http://csassets.nintendo.com
 http://daemonxmachina.nintendo.com
 http://dd1.dev-argta-2.nintendo.com
@@ -110,6 +112,7 @@ http://fatalframe.nintendo.com
 http://ffcc.nintendo.com
 http://ffdos.nintendo.com
 http://ffiv.nintendo.com
+http://ffta.nintendo.com
 http://ffv.nintendo.com
 http://ffvi.nintendo.com
 http://fireemblem.nintendo.com
@@ -255,6 +258,7 @@ http://ope-api.events.nintendo.com
 http://ope.dev.events.nintendo.com
 http://ope.events.nintendo.com
 http://ope.qa.events.nintendo.com
+http://ope.staging.events.nintendo.com
 http://p.nintendo.com
 http://pages.ccg.nintendo.com
 http://parentalcontrols.nintendo.com
@@ -291,6 +295,7 @@ http://pushmoworld.nintendo.com
 http://puzzleanddragons.nintendo.com
 http://qa.events.nintendo.com
 http://questsp1ique.nintendo.com:443
+http://register.nintendo.com
 http://repair-dev.nintendo.com
 http://repair-uat.nintendo.com
 http://repair.nintendo.com
@@ -343,6 +348,7 @@ http://static.paymentweb.nintendo.com
 http://steeldiver.nintendo.com
 http://store-jp.nintendo.com
 http://store-jp.nintendo.com:8443
+http://store.nintendo.com
 http://storemedia.nintendo.com
 http://stretchmo.nintendo.com
 http://studio.mii.nintendo.com
@@ -720,6 +726,7 @@ https://kidicarus.nintendo.com
 https://kidicarusuprising.nintendo.com
 https://labo.nintendo.com
 https://laytonvsphoenixwright.nintendo.com
+https://lbx.nintendo.com
 https://legocity3ds.nintendo.com
 https://legocityu.nintendo.com
 https://letssupermario.nintendo.com
@@ -804,12 +811,14 @@ https://nowpass.noa.nintendo.com
 https://nstore-test.noa.nintendo.com
 https://nstore.noa.nintendo.com
 https://ntd-gp-split.ntd.nintendo.com
+https://ntd-gp.ntd.nintendo.com
 https://nwc.nintendo.com
 https://octopathtraveler.nintendo.com
 https://ope-api.events.nintendo.com
 https://ope.dev.events.nintendo.com
 https://ope.events.nintendo.com
 https://ope.qa.events.nintendo.com
+https://ope.staging.events.nintendo.com
 https://orders.activities.prod.gbo.noa.nintendo.com
 https://p.nintendo.com
 https://pages.ccg.nintendo.com
@@ -847,10 +856,9 @@ https://prod-store.nintendo.com
 https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
-https://ptdairwatch.noa.nintendo.com:22
-https://ptdairwatch.noa.nintendo.com:445
-https://ptdairwatch.noa.nintendo.com:49156
-https://ptdairwatch.noa.nintendo.com:990
+https://ptdairwatch.noa.nintendo.com:10000
+https://ptdairwatch.noa.nintendo.com:26
+https://ptdairwatch.noa.nintendo.com:3986
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com
@@ -921,6 +929,7 @@ https://starlight.nintendo.com
 https://static.paymentweb.nintendo.com
 https://steeldiver.nintendo.com
 https://store-jp.nintendo.com
+https://store.nintendo.com
 https://storemedia.nintendo.com
 https://stretchmo.nintendo.com
 https://studio.mii.nintendo.com

@@ -45,6 +45,9 @@ http://krisp-dev.krisp.ai:8443
 http://metabase.krisp.ai
 http://metabase.krisp.ai:8080
 http://metabase.krisp.ai:8443
+http://new.account.krisp.ai
+http://new.account.krisp.ai:8080
+http://new.account.krisp.ai:8443
 http://old.account.krisp.ai
 http://old.account.krisp.ai:8080
 http://old.account.krisp.ai:8443
@@ -88,6 +91,7 @@ http://stage.upld.krisp.ai
 http://stage.upld.krisp.ai:8080
 http://syn-bt2ywgclz3.api.krisp.ai
 http://syn-bt2ywgclz3.api.krisp.ai:8080
+http://syn-bt2ywgclz3.api.krisp.ai:8443
 http://teams.krisp.ai
 http://teams.krisp.ai:8080
 http://teams.krisp.ai:8443
@@ -134,6 +138,7 @@ https://jpmchase.krisp.ai
 https://krisp-blog-dev.krisp.ai
 https://krisp-dev.krisp.ai
 https://metabase.krisp.ai
+https://new.account.krisp.ai
 https://old.account.krisp.ai
 https://plive.account.krisp.ai
 https://plive.account.krisp.ai:8443
@@ -168,7 +173,6 @@ https://stage.upld.krisp.ai
 https://stage.upld.krisp.ai:8443
 https://stage.websocket.krisp.ai
 https://syn-bt2ywgclz3.api.krisp.ai
-https://syn-bt2ywgclz3.api.krisp.ai:8443
 https://teams.krisp.ai
 https://ui.krisp.ai
 https://ui.krisp.ai:8443

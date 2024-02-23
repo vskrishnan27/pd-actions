@@ -74,6 +74,10 @@ metabase.krisp.ai:443
 metabase.krisp.ai:80
 metabase.krisp.ai:8080
 metabase.krisp.ai:8443
+new.account.krisp.ai:443
+new.account.krisp.ai:80
+new.account.krisp.ai:8080
+new.account.krisp.ai:8443
 old.account.krisp.ai:443
 old.account.krisp.ai:80
 old.account.krisp.ai:8080

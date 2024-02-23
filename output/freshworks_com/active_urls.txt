@@ -185,7 +185,6 @@ http://huboo.freshworks.com
 http://iemanet.freshworks.com
 http://imperativechemicalshelp.freshworks.com
 http://in.accounts.freshworks.com
-http://in.freshworks.com
 http://ind-widget.freshworks.com
 http://indexer.freshworks.com
 http://ingeniacommunities.freshworks.com
@@ -305,7 +304,7 @@ http://trust.freshworks.com
 http://trust.internal.freshworks.com
 http://ubx-au.freshworks.com
 http://ubx-eu.freshworks.com
-http://ubx-mec.freshworks.com
+http://ubx-in.freshworks.com
 http://ubx.freshworks.com
 http://uecelectronics.freshworks.com
 http://umt1.freshworks.com
@@ -547,7 +546,6 @@ https://huboo.freshworks.com
 https://iemanet.freshworks.com
 https://imperativechemicalshelp.freshworks.com
 https://in.accounts.freshworks.com
-https://in.freshworks.com
 https://ind-widget.freshworks.com
 https://indexer.freshworks.com
 https://ingeniacommunities.freshworks.com
@@ -665,7 +663,7 @@ https://trust.freshworks.com
 https://trust.internal.freshworks.com
 https://ubx-au.freshworks.com
 https://ubx-eu.freshworks.com
-https://ubx-mec.freshworks.com
+https://ubx-in.freshworks.com
 https://ubx.freshworks.com
 https://uecelectronics.freshworks.com
 https://umt1.freshworks.com

@@ -258,6 +258,7 @@ community.developers.freshworks.com:443
 community.developers.freshworks.com:80
 community.freshworks.com:443
 community.freshworks.com:80
+communityevents.freshworks.com:1900
 communityevents.freshworks.com:443
 communityevents.freshworks.com:80
 company-assets.freshworks.com:443
@@ -477,8 +478,6 @@ imperativechemicalshelp.freshworks.com:443
 imperativechemicalshelp.freshworks.com:80
 in.accounts.freshworks.com:443
 in.accounts.freshworks.com:80
-in.freshworks.com:443
-in.freshworks.com:80
 ind-widget.freshworks.com:443
 ind-widget.freshworks.com:80
 indexer.freshworks.com:443
@@ -720,8 +719,8 @@ ubx-au.freshworks.com:443
 ubx-au.freshworks.com:80
 ubx-eu.freshworks.com:443
 ubx-eu.freshworks.com:80
-ubx-mec.freshworks.com:443
-ubx-mec.freshworks.com:80
+ubx-in.freshworks.com:443
+ubx-in.freshworks.com:80
 ubx.freshworks.com:443
 ubx.freshworks.com:80
 uecelectronics.freshworks.com:443

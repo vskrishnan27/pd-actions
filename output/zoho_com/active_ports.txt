@@ -66,6 +66,7 @@ analyticsapi.zoho.com:443
 antivirussoftwarecomparison.adss.wiki.zoho.com:443
 api-console.zoho.com:443
 api.catalyst.zoho.com:443
+api.catalyst.zoho.com:80
 api.creator.zoho.com:443
 api.creator.zoho.com:80
 api.wiki.zoho.com:443
@@ -122,6 +123,7 @@ commerceplus.zoho.com:80
 community.zoho.com:443
 communitylink.wiki.zoho.com:443
 console.catalyst.zoho.com:443
+console.catalyst.zoho.com:80
 contacts.zoho.com:443
 coquiweb.wiki.zoho.com:443
 creator.zoho.com:443
@@ -130,6 +132,7 @@ crm.zoho.com:443
 crmkbase.zoho.com:443
 crmkbase.zoho.com:80
 crmlab.zoho.com:443
+crmplus.zoho.com:443
 crossrider.wiki.zoho.com:443
 csoa.wiki.zoho.com:443
 csuiteinfo.zoho.com:443
@@ -179,7 +182,6 @@ docuwind.wiki.zoho.com:443
 domain.zoho.com:443
 domain.zoho.com:80
 domains.zoho.com:443
-domains.zoho.com:80
 download-accl.zoho.com:443
 download.zoho.com:443
 dre.zoho.com:443
@@ -228,6 +230,7 @@ ink.zoho.com:443
 inovagestao.wiki.zoho.com:443
 instagramupdate-social.zoho.com:443
 integrations.zoho.com:443
+integrations.zoho.com:80
 inventory.zoho.com:443
 invoice.zoho.com:443
 ipadrepairpetalingjaya.wiki.zoho.com:443
@@ -265,10 +268,10 @@ mailer-lp.zoho.com:80
 mailer-tu.zoho.com:443
 mailer-tu.zoho.com:80
 mailwsfree.zoho.com:443
-mailwsfree.zoho.com:80
 mailwsorg.zoho.com:443
 maps.zoho.com:443
 marketinghub.zoho.com:443
+marketingplus.zoho.com:443
 marketplace.zoho.com:443
 masterjose07.wiki.zoho.com:443
 me.zoho.com:443
@@ -316,7 +319,6 @@ office2010.wiki.zoho.com:443
 ol8kozh5cq.wiki.zoho.com:443
 olevde.wiki.zoho.com:443
 one.zoho.com:443
-one.zoho.com:80
 opmanagerondemanduserguide.wiki.zoho.com:443
 oscillosofthelp.wiki.zoho.com:443
 packetpower.wiki.zoho.com:443
@@ -330,6 +332,7 @@ people.zoho.com:443
 peopleplus.zoho.com:443
 percobaan.wiki.zoho.com:443
 pet4ar27ch.wiki.zoho.com:443
+platform.zoho.com:443
 pmaginstockblogs.wiki.zoho.com:443
 pop.zoho.com:995
 poppro.zoho.com:995
@@ -364,16 +367,17 @@ reports.zoho.com:443
 running7continents.wiki.zoho.com:443
 salesiq-ro.zoho.com:443
 salesiq-ro.zoho.com:80
+salesiq.zoho.com:443
 sdk-apptics.zoho.com:443
 sdlguide.wiki.zoho.com:443
 search360alerts.zoho.com:443
 search360alerts.zoho.com:80
 serviceplus.zoho.com:443
-serviceplus.zoho.com:80
 sheet.zoho.com:443
 shirachan.wiki.zoho.com:443
 show.zoho.com:443
 signwebhook.zoho.com:443
+signwebhook.zoho.com:80
 sirejeki.wiki.zoho.com:443
 site24x7.wiki.zoho.com:443
 site24x7.zoho.com:443
@@ -388,10 +392,9 @@ smtppro.zoho.com:465
 smtppro.zoho.com:587
 socialmediacomplete.wiki.zoho.com:443
 solo.zoho.com:443
-solo.zoho.com:80
+solutions.zoho.com:443
 soupgander89.wiki.zoho.com:443
 st-mon1.zoho.com:443
-st-mon1.zoho.com:80
 start.zoho.com:443
 status-internal.zoho.com:443
 status-internal.zoho.com:80
@@ -415,7 +418,6 @@ toondoo.wiki.zoho.com:443
 tu-test.zoho.com:443
 ukaeepages.wiki.zoho.com:443
 ulaa.zoho.com:443
-ulaa.zoho.com:80
 upload-accl.zoho.com:443
 upload.zoho.com:443
 us4-dms.zoho.com:443
@@ -436,7 +438,6 @@ worlddreambuilder.wiki.zoho.com:443
 writer.zoho.com:443
 www.zoho.com:443
 xsdetect.wiki.zoho.com:443
-xtralog.wiki.zoho.com:443
 zapi.zoho.com:443
 zassist.wiki.zoho.com:443
 zdiscussions.wiki.zoho.com:443
@@ -472,7 +473,6 @@ zs-lc3-19-ro.zoho.com:443
 zs-lc3-19-ro.zoho.com:80
 zs-lc3-19.zoho.com:443
 zs-us4-lc3.zoho.com:443
-zs-us4-lc3.zoho.com:80
 zs-us4-lcbooks-h2.zoho.com:443
 zurs-1.zoho.com:443
 zurs-1.zoho.com:80

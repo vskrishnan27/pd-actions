@@ -8,7 +8,6 @@ http://chainrpc.okx.com:8443
 http://jpush.okx.com
 http://jpush.okx.com:8443
 http://jpushws.okx.com
-http://jpushws.okx.com:8443
 http://newsletter.okx.com
 http://newsletter.okx.com:8080
 http://okctools.okx.com
@@ -18,11 +17,11 @@ http://oktcsafe.okx.com:8443
 http://okx.com
 http://static.okx.com
 http://tr.okx.com
+http://tr.okx.com:8080
 http://tr.okx.com:8443
 http://us.okx.com
 http://us.okx.com:8443
 http://wallet.okx.com
-http://wsweb.okx.com:8080
 http://www.okx.com
 http://www.okx.com:8443
 http://x1rpc.okx.com
@@ -33,6 +32,7 @@ https://aws.okx.com
 https://chainrpc.okx.com
 https://jpush.okx.com
 https://jpushws.okx.com
+https://jpushws.okx.com:8443
 https://newsletter.okx.com
 https://newsletter.okx.com:8443
 https://okbtestws.okx.com

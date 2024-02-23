@@ -31,8 +31,6 @@ bounce.e.stripe.com:25
 bounce.info.stripe.com:25
 button.stripe.com:443
 button.stripe.com:80
-buy.stripe.com:443
-buy.stripe.com:80
 calendar.stripe.com:443
 calendar.stripe.com:80
 cdg.corp.stripe.com:443
@@ -163,8 +161,6 @@ global.stripe.com:443
 global.stripe.com:80
 groups.stripe.com:443
 groups.stripe.com:80
-hooks.stripe.com:443
-hooks.stripe.com:80
 hubble.corp.stripe.com:443
 identity-hooks.stripe.com:443
 identity-hooks.stripe.com:80
@@ -182,6 +178,7 @@ ip-54-187-119-242.stripe.com:443
 ip-54-187-119-242.stripe.com:80
 ip-54-187-159-182.stripe.com:443
 ip-54-187-159-182.stripe.com:80
+ipaddr-3ds.stripe.com:443
 issuing-hooks-public.stripe.com:443
 issuing-key.stripe.com:443
 issuing-key.stripe.com:80
@@ -262,7 +259,6 @@ qa-crypto-js.stripe.com:443
 qa-crypto-js.stripe.com:80
 qa-dub.corp.stripe.com:443
 qa-east.corp.stripe.com:443
-qa-ipaddr-3ds.stripe.com:443
 qa-northwest.corp.stripe.com:443
 qa-pdx.corp.stripe.com:443
 qa-status.stripe.com:443
@@ -300,8 +296,6 @@ support-conversations.stripe.com:443
 support-conversations.stripe.com:80
 support.stripe.com:443
 support.stripe.com:80
-t.stripe.com:443
-t.stripe.com:80
 terminal-simulator.stripe.com:443
 terminal-simulator.stripe.com:80
 terminal.stripe.com:443

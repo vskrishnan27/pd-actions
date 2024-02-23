@@ -102,6 +102,8 @@ business.zoho.com:443
 business.zoho.com:80
 buycareprost.wiki.zoho.com:443
 calendar.zoho.com:443
+campaigns.zoho.com:443
+campaigns.zoho.com:80
 catalyst.zoho.com:443
 cdn.zoho.com:443
 chairsanufacture.wiki.zoho.com:443
@@ -115,6 +117,7 @@ cloudsql.wiki.zoho.com:443
 club50001.wiki.zoho.com:443
 cm.zoho.com:443
 cm.zoho.com:80
+commerce.zoho.com:443
 commerceplus.zoho.com:443
 commerceplus.zoho.com:80
 community.zoho.com:443
@@ -135,6 +138,7 @@ csuiteinfo.zoho.com:443
 csuiteinfo.zoho.com:80
 cursoblogywiki.wiki.zoho.com:443
 customer-books.zoho.com:443
+customer-books.zoho.com:80
 customer-campaign.zoho.com:443
 customer-connect.zoho.com:443
 customer-connect.zoho.com:80
@@ -143,6 +147,7 @@ customer-creator.zoho.com:80
 customer-expense.zoho.com:443
 customer-expense.zoho.com:80
 customer-invoice.zoho.com:443
+customer-invoice.zoho.com:80
 customer-mail.zoho.com:443
 customer-mail.zoho.com:80
 customer-recruit.zoho.com:443
@@ -224,6 +229,7 @@ ink.zoho.com:443
 inovagestao.wiki.zoho.com:443
 instagramupdate-social.zoho.com:443
 integrations.zoho.com:443
+integrations.zoho.com:80
 inventory.zoho.com:443
 invoice.zoho.com:443
 ipadrepairpetalingjaya.wiki.zoho.com:443
@@ -270,9 +276,7 @@ masterjose07.wiki.zoho.com:443
 me.zoho.com:443
 meet.zoho.com:443
 meeting-monitor.zoho.com:443
-meeting-monitor.zoho.com:80
 meeting.zoho.com:443
-meeting.zoho.com:80
 melvinsl.wiki.zoho.com:443
 memktg.wiki.zoho.com:443
 memktg.wiki.zoho.com:80
@@ -376,6 +380,7 @@ sirejeki.wiki.zoho.com:443
 site24x7.wiki.zoho.com:443
 site24x7.zoho.com:443
 site24x7.zoho.com:80
+sites.zoho.com:443
 smtp.zoho.com:465
 smtp.zoho.com:587
 smtpin.zoho.com:25
@@ -383,6 +388,7 @@ smtpin2.zoho.com:25
 smtpin3.zoho.com:25
 smtppro.zoho.com:465
 smtppro.zoho.com:587
+social.zoho.com:443
 socialmediacomplete.wiki.zoho.com:443
 solo.zoho.com:443
 solutions.zoho.com:443
@@ -413,8 +419,8 @@ ukaeepages.wiki.zoho.com:443
 ulaa.zoho.com:443
 upload-accl.zoho.com:443
 upload.zoho.com:443
+upload.zoho.com:80
 us4-dms.zoho.com:443
-us4-dms.zoho.com:80
 us4-pre-external.zoho.com:443
 us4-wms.zoho.com:443
 us4-wms2.zoho.com:443
@@ -464,7 +470,6 @@ zs-lc1-25.zoho.com:443
 zs-lc2-19-h2.zoho.com:443
 zs-lc2-19.zoho.com:443
 zs-lc2-25-h2.zoho.com:443
-zs-lc2-25-h2.zoho.com:80
 zs-lc3-19-ro.zoho.com:443
 zs-lc3-19-ro.zoho.com:80
 zs-lc3-19.zoho.com:443

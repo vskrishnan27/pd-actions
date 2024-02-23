@@ -1,4 +1,5 @@
 http://accounts-ro.zoho.com
+http://analytics.zoho.com:443
 http://api.creator.zoho.com
 http://api.wiki.zoho.com
 http://apihelp.zoho.com
@@ -9,13 +10,15 @@ http://blogs.zoho.com:8080
 http://blogsint.zoho.com
 http://blogsint.zoho.com:8080
 http://business.zoho.com
-http://cm.zoho.com
+http://campaigns.zoho.com
 http://commerceplus.zoho.com
 http://crmkbase.zoho.com
 http://csuiteinfo.zoho.com
+http://customer-books.zoho.com
 http://customer-connect.zoho.com
 http://customer-creator.zoho.com
 http://customer-expense.zoho.com
+http://customer-invoice.zoho.com
 http://customer-mail.zoho.com
 http://customer-recruit.zoho.com
 http://customer-reports.zoho.com
@@ -30,15 +33,13 @@ http://domain.zoho.com
 http://forums.catalyst.zoho.com
 http://help.api.zoho.com
 http://help.discussions.zoho.com
+http://integrations.zoho.com
 http://kbase.creator.zoho.com
 http://mailer-lp.zoho.com
 http://mailer-tu.zoho.com
-http://meeting-monitor.zoho.com
-http://meeting.zoho.com
 http://memktg.wiki.zoho.com
 http://mobile-transmail.zoho.com
 http://mproxy-transmail.zoho.com
-http://notification-kms.zoho.com
 http://notification.bugbounty.zoho.com
 http://notifications-sd.zoho.com
 http://notifications.antivirus.zoho.com
@@ -54,10 +55,11 @@ http://status-internal.zoho.com
 http://status.zoho.com
 http://task.zoho.com
 http://tlstest.zoho.com
-http://us4-dms.zoho.com
+http://upload.zoho.com
 http://zohosites.wiki.zoho.com
 http://zs-lc1-19-h2-ro.zoho.com
-http://zs-lc2-25-h2.zoho.com
+http://zs-lc1-19-ro.zoho.com
+http://zs-lc3-19-ro.zoho.com
 http://zurs-1.zoho.com
 http://zurs-2.zoho.com
 http://zurs.zoho.com
@@ -123,8 +125,6 @@ https://albuterolsulfate.wiki.zoho.com
 https://alghassani.wiki.zoho.com
 https://allerganlatisse.wiki.zoho.com
 https://aluxner.wiki.zoho.com
-https://analytics.zoho.com
-https://analyticsapi.zoho.com
 https://antivirussoftwarecomparison.adss.wiki.zoho.com
 https://api-console.zoho.com
 https://api.catalyst.zoho.com
@@ -154,6 +154,7 @@ https://bugtracker.zoho.com
 https://business.zoho.com
 https://buycareprost.wiki.zoho.com
 https://calendar.zoho.com
+https://campaigns.zoho.com
 https://catalyst.zoho.com
 https://cdn.zoho.com
 https://chairsanufacture.wiki.zoho.com
@@ -166,6 +167,7 @@ https://cliq.zoho.com
 https://cloudsql.wiki.zoho.com
 https://club50001.wiki.zoho.com
 https://cm.zoho.com
+https://commerce.zoho.com
 https://commerceplus.zoho.com
 https://community.zoho.com
 https://communitylink.wiki.zoho.com
@@ -367,6 +369,8 @@ https://signwebhook.zoho.com
 https://sirejeki.wiki.zoho.com
 https://site24x7.wiki.zoho.com
 https://site24x7.zoho.com
+https://sites.zoho.com
+https://social.zoho.com
 https://socialmediacomplete.wiki.zoho.com
 https://solo.zoho.com
 https://solutions.zoho.com

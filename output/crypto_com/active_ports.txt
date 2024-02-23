@@ -117,6 +117,10 @@ marketing-api.crypto.com:443
 marketing-api.crypto.com:80
 marketing-api.crypto.com:8080
 marketing-api.crypto.com:8443
+mco.crypto.com:443
+mco.crypto.com:80
+mco.crypto.com:8080
+mco.crypto.com:8443
 media.nft.crypto.com:443
 media.nft.crypto.com:80
 media.nft.crypto.com:8080
@@ -137,10 +141,6 @@ mpro-content-hub.crypto.com:443
 mpro-content-hub.crypto.com:80
 mpro-content-hub.crypto.com:8080
 mpro-content-hub.crypto.com:8443
-nft.crypto.com:443
-nft.crypto.com:80
-nft.crypto.com:8080
-nft.crypto.com:8443
 opening-night.crypto.com:443
 opening-night.crypto.com:80
 opening-night.crypto.com:8080

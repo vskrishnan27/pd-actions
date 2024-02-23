@@ -57,6 +57,8 @@ http://limit-order.crypto.com
 http://limit-order.crypto.com:8080
 http://marketing-api.crypto.com
 http://marketing-api.crypto.com:8080
+http://mco.crypto.com
+http://mco.crypto.com:8080
 http://media.nft.crypto.com
 http://media.nft.crypto.com:8080
 http://merchant.crypto.com
@@ -67,8 +69,6 @@ http://missions.crypto.com
 http://missions.crypto.com:8080
 http://mpro-content-hub.crypto.com
 http://mpro-content-hub.crypto.com:8080
-http://nft.crypto.com
-http://nft.crypto.com:8080
 http://opening-night.crypto.com
 http://opening-night.crypto.com:8080
 http://pay-api.crypto.com
@@ -185,6 +185,8 @@ https://limit-order.crypto.com
 https://limit-order.crypto.com:8443
 https://marketing-api.crypto.com
 https://marketing-api.crypto.com:8443
+https://mco.crypto.com
+https://mco.crypto.com:8443
 https://media.nft.crypto.com
 https://media.nft.crypto.com:8443
 https://merchant.crypto.com
@@ -195,8 +197,6 @@ https://missions.crypto.com
 https://missions.crypto.com:8443
 https://mpro-content-hub.crypto.com
 https://mpro-content-hub.crypto.com:8443
-https://nft.crypto.com
-https://nft.crypto.com:8443
 https://opening-night.crypto.com
 https://opening-night.crypto.com:8443
 https://pay-api.crypto.com

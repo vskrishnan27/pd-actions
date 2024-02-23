@@ -1,4 +1,3 @@
-exodus.com
 basecamp.com
 forescout.com
 trustpilot.com
@@ -77,3 +76,4 @@ flickr.com
 bitmex.com
 freshworks.com
 zoho.com
+exodus.com

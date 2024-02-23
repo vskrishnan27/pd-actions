@@ -40,6 +40,8 @@ account.eero.com
 account.eero.com
 account.eero.com
 account.eero.com
+account.eero.com
+accounts.eero.com
 accounts.eero.com
 accounts.eero.com
 accounts.eero.com
@@ -124,6 +126,8 @@ ap.account.eero.com
 ap.account.eero.com
 ap.account.eero.com
 ap.account.eero.com
+ap.account.eero.com
+ap.test-accounts.eero.com
 ap.test-accounts.eero.com
 ap.test-accounts.eero.com
 ap.test-accounts.eero.com
@@ -208,6 +212,8 @@ apps.bizops.eero.com
 apps.bizops.eero.com
 apps.bizops.eero.com
 apps.bizops.eero.com
+apps.bizops.eero.com
+apps.bizops.staging.eero.com
 apps.bizops.staging.eero.com
 apps.bizops.staging.eero.com
 apps.bizops.staging.eero.com
@@ -288,6 +294,8 @@ assets.beta.eero.com
 assets.beta.eero.com
 assets.beta.eero.com
 assets.beta.eero.com
+assets.beta.eero.com
+assets.marketing-test.eero.com
 assets.marketing-test.eero.com
 assets.marketing-test.eero.com
 assets.marketing-test.eero.com
@@ -372,6 +380,8 @@ assets.marketing.eero.com
 assets.marketing.eero.com
 assets.marketing.eero.com
 assets.marketing.eero.com
+assets.marketing.eero.com
+assets.prod.eero.com
 assets.prod.eero.com
 assets.prod.eero.com
 assets.prod.eero.com
@@ -452,6 +462,8 @@ assets.stage.beta.eero.com
 assets.stage.beta.eero.com
 assets.stage.beta.eero.com
 assets.stage.beta.eero.com
+assets.stage.beta.eero.com
+assets.test.beta.eero.com
 assets.test.beta.eero.com
 assets.test.beta.eero.com
 assets.test.beta.eero.com
@@ -528,6 +540,8 @@ beta.eero.com
 beta.eero.com
 beta.eero.com
 beta.eero.com
+beta.eero.com
+bizops.eero.com
 bizops.eero.com
 bizops.eero.com
 bizops.eero.com
@@ -612,6 +626,8 @@ bizops.staging.eero.com
 bizops.staging.eero.com
 bizops.staging.eero.com
 bizops.staging.eero.com
+bizops.staging.eero.com
+blocked.eero.com
 blocked.eero.com
 blocked.eero.com
 blocked.eero.com
@@ -695,6 +711,7 @@ blog.eero.com
 blog.eero.com
 blog.eero.com
 blog.eero.com
+blog.eero.com
 community.eero.com
 community.eero.com
 community.eero.com
@@ -736,6 +753,7 @@ community.eero.com
 community.eero.com
 community.eero.com
 community.eero.com
+community.eero.com
 dashboard.eero.com
 dashboard.eero.com
 dashboard.eero.com
@@ -778,6 +796,8 @@ dashboard.eero.com
 dashboard.eero.com
 dashboard.eero.com
 dashboard.eero.com
+dashboard.eero.com
+dev.eero.com
 dev.eero.com
 dev.eero.com
 dev.eero.com
@@ -857,6 +877,7 @@ distributor.bizops.eero.com
 distributor.bizops.eero.com
 distributor.bizops.eero.com
 distributor.bizops.eero.com
+distributor.bizops.eero.com
 distributor.bizops.staging.eero.com
 distributor.bizops.staging.eero.com
 distributor.bizops.staging.eero.com
@@ -898,6 +919,8 @@ distributor.bizops.staging.eero.com
 distributor.bizops.staging.eero.com
 distributor.bizops.staging.eero.com
 distributor.bizops.staging.eero.com
+distributor.bizops.staging.eero.com
+distributorasn.eero.com
 distributorasn.eero.com
 distributorasn.eero.com
 distributorasn.eero.com
@@ -981,6 +1004,8 @@ distributorasn.staging.eero.com
 distributorasn.staging.eero.com
 distributorasn.staging.eero.com
 distributorasn.staging.eero.com
+distributorasn.staging.eero.com
+docparser.bizops.eero.com
 docparser.bizops.eero.com
 docparser.bizops.eero.com
 docparser.bizops.eero.com
@@ -1065,6 +1090,7 @@ docparser.bizops.staging.eero.com
 docparser.bizops.staging.eero.com
 docparser.bizops.staging.eero.com
 docparser.bizops.staging.eero.com
+docparser.bizops.staging.eero.com
 dsar-stage.eero.com
 dsar-stage.eero.com
 dsar-stage.eero.com
@@ -1107,6 +1133,8 @@ dsar-stage.eero.com
 dsar-stage.eero.com
 dsar-stage.eero.com
 dsar-stage.eero.com
+dsar-stage.eero.com
+dsar.eero.com
 dsar.eero.com
 dsar.eero.com
 dsar.eero.com
@@ -1187,6 +1215,8 @@ eero.com
 eero.com
 eero.com
 eero.com
+eero.com
+image.email.eero.com
 image.email.eero.com
 image.email.eero.com
 image.email.eero.com
@@ -1265,6 +1295,7 @@ lg-vpn-test.eero.com
 lg-vpn-test.eero.com
 lg-vpn-test.eero.com
 lg-vpn-test.eero.com
+lg-vpn-test.eero.com
 mail.eero.com
 mail.eero.com
 mail.eero.com
@@ -1305,6 +1336,8 @@ mail.eero.com
 mail.eero.com
 mail.eero.com
 mail.eero.com
+mail.eero.com
+marketing-test.eero.com
 marketing-test.eero.com
 marketing-test.eero.com
 marketing-test.eero.com
@@ -1389,6 +1422,7 @@ marketing.eero.com
 marketing.eero.com
 marketing.eero.com
 marketing.eero.com
+marketing.eero.com
 mta.email.eero.com
 mta.email.eero.com
 mta.email.eero.com
@@ -1431,6 +1465,8 @@ mta.email.eero.com
 mta.email.eero.com
 mta.email.eero.com
 mta.email.eero.com
+mta.email.eero.com
+netsuite.bizops.eero.com
 netsuite.bizops.eero.com
 netsuite.bizops.eero.com
 netsuite.bizops.eero.com
@@ -1511,6 +1547,7 @@ netsuite.bizops.staging.eero.com
 netsuite.bizops.staging.eero.com
 netsuite.bizops.staging.eero.com
 netsuite.bizops.staging.eero.com
+netsuite.bizops.staging.eero.com
 pause-stage.eero.com
 pause-stage.eero.com
 pause-stage.eero.com
@@ -1552,6 +1589,8 @@ pause-stage.eero.com
 pause-stage.eero.com
 pause-stage.eero.com
 pause-stage.eero.com
+pause-stage.eero.com
+pause.eero.com
 pause.eero.com
 pause.eero.com
 pause.eero.com
@@ -1635,6 +1674,7 @@ pro-stage.eero.com
 pro-stage.eero.com
 pro-stage.eero.com
 pro-stage.eero.com
+pro-stage.eero.com
 pro.eero.com
 pro.eero.com
 pro.eero.com
@@ -1677,6 +1717,8 @@ pro.eero.com
 pro.eero.com
 pro.eero.com
 pro.eero.com
+pro.eero.com
+prod.eero.com
 prod.eero.com
 prod.eero.com
 prod.eero.com
@@ -1759,6 +1801,8 @@ reseller.eero.com
 reseller.eero.com
 reseller.eero.com
 reseller.eero.com
+reseller.eero.com
+stage.beta.eero.com
 stage.beta.eero.com
 stage.beta.eero.com
 stage.beta.eero.com
@@ -1842,6 +1886,8 @@ stage.eero.com
 stage.eero.com
 stage.eero.com
 stage.eero.com
+stage.eero.com
+store.eero.com
 store.eero.com
 store.eero.com
 store.eero.com
@@ -1924,6 +1970,8 @@ support.eero.com
 support.eero.com
 support.eero.com
 support.eero.com
+support.eero.com
+test-accounts.eero.com
 test-accounts.eero.com
 test-accounts.eero.com
 test-accounts.eero.com
@@ -2004,6 +2052,8 @@ test.beta.eero.com
 test.beta.eero.com
 test.beta.eero.com
 test.beta.eero.com
+test.beta.eero.com
+tour-stage.eero.com
 tour-stage.eero.com
 tour-stage.eero.com
 tour-stage.eero.com
@@ -2086,6 +2136,8 @@ tour.eero.com
 tour.eero.com
 tour.eero.com
 tour.eero.com
+tour.eero.com
+training-stage.eero.com
 training-stage.eero.com
 training-stage.eero.com
 training-stage.eero.com
@@ -2170,6 +2222,7 @@ training.eero.com
 training.eero.com
 training.eero.com
 training.eero.com
+training.eero.com
 webhooks.bizops.eero.com
 webhooks.bizops.eero.com
 webhooks.bizops.eero.com
@@ -2212,6 +2265,8 @@ webhooks.bizops.eero.com
 webhooks.bizops.eero.com
 webhooks.bizops.eero.com
 webhooks.bizops.eero.com
+webhooks.bizops.eero.com
+webhooks.bizops.staging.eero.com
 webhooks.bizops.staging.eero.com
 webhooks.bizops.staging.eero.com
 webhooks.bizops.staging.eero.com
@@ -2292,6 +2347,8 @@ www.blog.eero.com
 www.blog.eero.com
 www.blog.eero.com
 www.blog.eero.com
+www.blog.eero.com
+www.eero.com
 www.eero.com
 www.eero.com
 www.eero.com
@@ -2374,6 +2431,7 @@ www.joesshop.eero.com
 www.joesshop.eero.com
 www.joesshop.eero.com
 www.joesshop.eero.com
+www.joesshop.eero.com
 zapier.bizops.eero.com
 zapier.bizops.eero.com
 zapier.bizops.eero.com
@@ -2416,6 +2474,8 @@ zapier.bizops.eero.com
 zapier.bizops.eero.com
 zapier.bizops.eero.com
 zapier.bizops.eero.com
+zapier.bizops.eero.com
+zapier.bizops.staging.eero.com
 zapier.bizops.staging.eero.com
 zapier.bizops.staging.eero.com
 zapier.bizops.staging.eero.com

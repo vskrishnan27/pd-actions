@@ -18,11 +18,13 @@ http://oktcsafe.okx.com:8443
 http://okx.com
 http://static.okx.com
 http://tr.okx.com
+http://tr.okx.com:8443
 http://us.okx.com
 http://us.okx.com:8443
 http://ustemp.okx.com
 http://ustemp.okx.com:8443
 http://wallet.okx.com
+http://wssfppap.okx.com:8080
 http://www.okx.com
 http://www.okx.com:8443
 http://x1rpc.okx.com
@@ -44,7 +46,6 @@ https://oktcsafe.okx.com
 https://okx.com
 https://static.okx.com
 https://tr.okx.com
-https://tr.okx.com:8443
 https://us.okx.com
 https://ustemp.okx.com
 https://wallet.okx.com

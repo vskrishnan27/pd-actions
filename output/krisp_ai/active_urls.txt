@@ -1,8 +1,9 @@
-http://account.krisp.ai
-http://account.krisp.ai:8080
 http://analytics.krisp.ai
 http://analytics.krisp.ai:8080
 http://analytics.krisp.ai:8443
+http://api.krisp.ai
+http://api.krisp.ai:8080
+http://api.krisp.ai:8443
 http://app.krisp.ai
 http://app.krisp.ai:8080
 http://bid47kc.4042051m.krisp.ai
@@ -21,6 +22,7 @@ http://dev.new.account.krisp.ai:8080
 http://dev.new.account.krisp.ai:8443
 http://dev.upld.krisp.ai
 http://dev.upld.krisp.ai:8080
+http://dev.upld.krisp.ai:8443
 http://download.krisp.ai
 http://download.krisp.ai:8080
 http://download.krisp.ai:8443
@@ -40,9 +42,6 @@ http://krisp-blog-dev.krisp.ai:8443
 http://krisp-dev.krisp.ai
 http://krisp-dev.krisp.ai:8080
 http://krisp-dev.krisp.ai:8443
-http://krisp.ai
-http://krisp.ai:8080
-http://krisp.ai:8443
 http://metabase.krisp.ai
 http://metabase.krisp.ai:8080
 http://metabase.krisp.ai:8443
@@ -89,7 +88,6 @@ http://stage.upld.krisp.ai
 http://stage.upld.krisp.ai:8080
 http://syn-bt2ywgclz3.api.krisp.ai
 http://syn-bt2ywgclz3.api.krisp.ai:8080
-http://syn-bt2ywgclz3.api.krisp.ai:8443
 http://teams.krisp.ai
 http://teams.krisp.ai:8080
 http://teams.krisp.ai:8443
@@ -108,9 +106,8 @@ http://whatsnew.krisp.ai
 http://www.krisp.ai
 http://www.krisp.ai:8080
 http://www.krisp.ai:8443
-https://account.krisp.ai
-https://account.krisp.ai:8443
 https://analytics.krisp.ai
+https://api.krisp.ai
 https://api.prelive.krisp.ai
 https://app.krisp.ai
 https://app.krisp.ai:8443
@@ -125,7 +122,6 @@ https://dev.app.krisp.ai:8443
 https://dev.new.account.krisp.ai
 https://dev.r.krisp.ai
 https://dev.upld.krisp.ai
-https://dev.upld.krisp.ai:8443
 https://download.krisp.ai
 https://files.krisp.ai
 https://files.prelive.krisp.ai
@@ -137,7 +133,6 @@ https://jpmchase-uat.krisp.ai
 https://jpmchase.krisp.ai
 https://krisp-blog-dev.krisp.ai
 https://krisp-dev.krisp.ai
-https://krisp.ai
 https://metabase.krisp.ai
 https://old.account.krisp.ai
 https://plive.account.krisp.ai
@@ -173,6 +168,7 @@ https://stage.upld.krisp.ai
 https://stage.upld.krisp.ai:8443
 https://stage.websocket.krisp.ai
 https://syn-bt2ywgclz3.api.krisp.ai
+https://syn-bt2ywgclz3.api.krisp.ai:8443
 https://teams.krisp.ai
 https://ui.krisp.ai
 https://ui.krisp.ai:8443

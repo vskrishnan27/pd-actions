@@ -3,6 +3,7 @@ http://3.basecamp.com:8080
 http://3.basecamp.com:8443
 http://asset1.basecamp.com
 http://asset1.basecamp.com:8080
+http://asset1.basecamp.com:8443
 http://basecamp.com
 http://basecamp.com:8080
 http://basecamp.com:8443
@@ -36,7 +37,6 @@ http://public.3.basecamp.com:8080
 http://public.3.basecamp.com:8443
 http://public.basecamp.com
 http://public.basecamp.com:8080
-http://public.basecamp.com:8443
 http://rollout-assets-rw-ash.basecamp.com
 http://rollout-assets.basecamp.com
 http://rw-ash-assets.basecamp.com
@@ -64,7 +64,6 @@ http://www.basecamp.com:8443
 http://www.updates.basecamp.com
 https://3.basecamp.com
 https://asset1.basecamp.com
-https://asset1.basecamp.com:8443
 https://basecamp.com
 https://beta.basecamp.com
 https://beta1.3.basecamp.com
@@ -80,6 +79,7 @@ https://preview.3.basecamp.com
 https://progress.basecamp.com
 https://public.3.basecamp.com
 https://public.basecamp.com
+https://public.basecamp.com:8443
 https://rollout-assets.basecamp.com
 https://rw-ash-assets.basecamp.com
 https://rw-ash.basecamp.com

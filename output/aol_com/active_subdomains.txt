@@ -89,7 +89,6 @@ compaq-laptop.qa.sandbox.aol.com
 compaq-laptop.release.sandbox.aol.com
 compaq-laptop.staging.sandbox.aol.com
 computercheckup.aol.com
-connect.aol.com
 console.oneadserver.aol.com
 console.onedisplaymp.aol.com
 contacts.aol.com
@@ -195,7 +194,6 @@ hp-laptop.qa.sandbox.aol.com
 hp-laptop.release.sandbox.aol.com
 hp-laptop.staging.sandbox.aol.com
 hp.aol.com
-ie3.proxy.aol.com
 imap-mce03e.mx.aol.com
 imap.aol.com
 imap.ar.aol.com
@@ -233,7 +231,6 @@ imb-m12e.mx.aol.com
 imb-m13e.mx.aol.com
 in.aol.com
 industry.aol.com
-inhouse.aol.com
 inside.aol.com
 ipad.aol.com
 iphone.aol.com
@@ -271,7 +268,6 @@ m.verizon-b.staging.sandbox.aol.com
 m.verizon.aol.com
 m.verizon.qa.sandbox.aol.com
 m.verizon.release.sandbox.aol.com
-m.verizon.staging.sandbox.aol.com
 m2.aol.com
 magicvacation.aol.com
 magnet.aol.com
@@ -327,7 +323,6 @@ oc-startpage.aol.com
 oidc.billupdate.aol.com
 oidc.checkout.aol.com
 oidc.feedback.aol.com
-oidc.get.aol.com
 oidc.guce.aol.com
 oidc.help.aol.com
 oidc.homepage.aol.com
@@ -350,7 +345,6 @@ omr-a003e.mx.aol.com
 omr-a004e.mx.aol.com
 omr-a005e.mx.aol.com
 omr-a006e.mx.aol.com
-omr-a007e.mx.aol.com
 omr-a008e.mx.aol.com
 omr-a009e.mx.aol.com
 omr-a010e.mx.aol.com
@@ -420,19 +414,16 @@ oms-m013e.mx.aol.com
 oms-m014e.mx.aol.com
 oms-m015e.mx.aol.com
 oms-m016e.mx.aol.com
-oms-m017e.mx.aol.com
 oms-m018e.mx.aol.com
 oms-m019e.mx.aol.com
 oms-m020e.mx.aol.com
 on.aol.com
-one-qa.aol.com
 one.aol.com
 oneadserver.aol.com
 oneapi-qa.aol.com
 oneapi.aol.com
 onedisplay.aol.com
 onemobile.aol.com
-onevideo.aol.com
 ops.aol.com
 oscars.aol.com
 outlook.aol.com
@@ -441,7 +432,6 @@ parentalcontrols.latino.aol.com
 partner.imap.aol.com
 payments.aol.com
 pea01-dmh.gen3.aol.com
-pea02-dmh.gen3.aol.com
 people.aol.com
 peopleplace.ops.aol.com
 personals.aol.com
@@ -473,7 +463,6 @@ prod.partners-tg.pse.public.aol.com
 productcentral.aol.com
 projectphoenix.aol.com
 ps-search.aol.com
-pslca.web.aol.com
 publish.aol.com
 qa.cms.aol.com
 qa.feeds.contenthub.aol.com
@@ -490,7 +479,6 @@ r.aol.com
 radio.aol.com
 recipes.aol.com
 refer.aol.com
-register.aol.com
 registration.aol.com
 rel.remote.aol.com
 remotesupport.aol.com
@@ -506,15 +494,12 @@ sales.aol.com
 sb-n.welcomescreen.aol.com
 sb-w.welcomescreen.aol.com
 sb.welcomescreen.aol.com
-scare.obi.aol.com
-school.aol.com
 search.aol.com
 sec-a01e.mail.aol.com
 sec-a02e.mail.aol.com
 sec-a03e.mail.aol.com
 sec-a04e.mail.aol.com
 sec-a05e.mail.aol.com
-sec-a06e.mail.aol.com
 sec-a07e.mail.aol.com
 sec-a08e.mail.aol.com
 sec-a09e.mail.aol.com
@@ -538,13 +523,11 @@ share.aol.com
 shield.aol.com
 shop.aol.com
 shopping.aol.com
-site.aol.com
 skywire.aol.com
 smr-a01e.mx.aol.com
 smr-a02e.mx.aol.com
 smr-a03e.mx.aol.com
 smr-a04e.mx.aol.com
-smr-m03e.mx.aol.com
 smr-m04e.mx.aol.com
 smr-m05e.mx.aol.com
 smr-m06e.mx.aol.com
@@ -572,7 +555,6 @@ stage.h.aol.com
 stage.help.aol.com
 stage.login.aol.com
 stage.msicontent.pse.public.aol.com
-stage.myaccount.pse.public.aol.com
 stage.oidc.billupdate.aol.com
 stage.oidc.checkout.aol.com
 stage.oidc.feedback.aol.com
@@ -583,7 +565,6 @@ stage.oidc.homepage.aol.com
 stage.oidc.identityapp.aol.com
 stage.oidc.mail.aol.com
 stage.oidc.marketingpreferences.aol.com
-stage.oidc.membernotifications.aol.com
 stage.oidc.mold.aol.com
 stage.oidc.myaccount.aol.com
 stage.oidc.mybenefits.aol.com
@@ -594,7 +575,6 @@ stage.oidc.productcentral.aol.com
 stage.oidc.search.aol.com
 stage.origin.help.aol.com
 stage.partners-tg.pse.public.aol.com
-start.aol.com
 startpage.aol.com
 static.onecreative.aol.com
 subscribe.aol.com
@@ -608,7 +588,6 @@ taclomr-a002e.mx.aol.com
 taclomr-a003e.mx.aol.com
 taclomr-a004e.mx.aol.com
 taclomr-a005e.mx.aol.com
-taclomr-a006e.mx.aol.com
 taclomr-a007e.mx.aol.com
 taclomr-a008e.mx.aol.com
 taclomr-m001e.mx.aol.com
@@ -633,7 +612,6 @@ trunk.guce.oneadserver.aol.com
 try.aol.com
 tv.aol.com
 tw.aol.com
-uk.aol.com
 uk.learn.onedisplay.aol.com
 uk.onedisplay.aol.com
 update.aol.com
@@ -650,7 +628,6 @@ vantageweb01-dmh.gen3.aol.com
 vantageweb02-dmh.gen3.aol.com
 verizon-online.aol.com
 video.aol.com
-video.oneapi.aol.com
 videos.aol.com
 vip.aol.com
 vzomr-a01e.mx.aol.com
@@ -664,7 +641,6 @@ w.sb.welcomescreen.aol.com
 w.verizon.aol.com
 wap.aol.com
 weather.aol.com
-web01-dmh.gen3.aol.com
 web02-dmh.gen3.aol.com
 webby.aol.com
 webmail.aol.com
@@ -675,7 +651,6 @@ welcomescreen.aol.com
 widgets.onemobile.aol.com
 www.aol.com
 www.get.aol.com
-www.help.aol.com
 www.jp.aol.com
 www.lifestore.aol.com
 www.netfind.aol.com
@@ -683,5 +658,4 @@ www.welcomescreen.aol.com
 yellowpages.aol.com
 yhomr-a01e.mx.aol.com
 yhomr-a02e.mx.aol.com
-yhomr-m01e.mx.aol.com
 yhomr-m02e.mx.aol.com

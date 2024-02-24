@@ -22,6 +22,7 @@ http://status.fireblocks.com
 http://survey.fireblocks.com
 http://tracking.fireblocks.com
 http://www.fireblocks.com
+http://www.fireblocks.com:8080
 http://www.fireblocks.com:8443
 https://blog.fireblocks.com
 https://checkout.fireblocks.com

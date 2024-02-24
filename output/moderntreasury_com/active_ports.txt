@@ -25,7 +25,6 @@ docs.moderntreasury.com:8443
 events.moderntreasury.com:443
 events.moderntreasury.com:80
 go.moderntreasury.com:443
-go.moderntreasury.com:5190
 go.moderntreasury.com:80
 help.moderntreasury.com:443
 help.moderntreasury.com:80

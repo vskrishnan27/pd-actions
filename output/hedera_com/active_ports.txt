@@ -93,7 +93,6 @@ support.hedera.com:80
 support.hedera.com:8080
 support.hedera.com:8443
 testnet.mirrornode.hedera.com:443
-testnet.mirrornode.hedera.com:5631
 testnet.mirrornode.hedera.com:80
 www.hedera.com:443
 www.hedera.com:80

@@ -275,7 +275,6 @@ http://sclhelpdesk.freshworks.com
 http://sitelink.freshworks.com
 http://sixer.freshworks.com
 http://solutions.freshworks.com
-http://solutions.freshworks.com:8443
 http://spainhelpdesktool.freshworks.com
 http://spectra.freshworks.com
 http://spillc.freshworks.com
@@ -305,6 +304,7 @@ http://trust.internal.freshworks.com
 http://ubx-au.freshworks.com
 http://ubx-eu.freshworks.com
 http://ubx-in.freshworks.com
+http://ubx-mec.freshworks.com
 http://ubx.freshworks.com
 http://uecelectronics.freshworks.com
 http://umt1.freshworks.com
@@ -635,6 +635,7 @@ https://sclhelpdesk.freshworks.com
 https://sitelink.freshworks.com
 https://sixer.freshworks.com
 https://solutions.freshworks.com
+https://solutions.freshworks.com:8443
 https://spainhelpdesktool.freshworks.com
 https://spectra.freshworks.com
 https://spillc.freshworks.com
@@ -664,6 +665,7 @@ https://trust.internal.freshworks.com
 https://ubx-au.freshworks.com
 https://ubx-eu.freshworks.com
 https://ubx-in.freshworks.com
+https://ubx-mec.freshworks.com
 https://ubx.freshworks.com
 https://uecelectronics.freshworks.com
 https://umt1.freshworks.com

@@ -102,10 +102,8 @@ em.launchdarkly.com:80
 em.launchdarkly.com:8080
 em.launchdarkly.com:8443
 email.mg.launchdarkly.com:443
-email.mg.launchdarkly.com:49152
 email.mg.launchdarkly.com:80
 email.recruiting.launchdarkly.com:443
-email.recruiting.launchdarkly.com:49152
 email.recruiting.launchdarkly.com:80
 events-east.intuit.launchdarkly.com:443
 events-stg-tls10.launchdarkly.com:443
@@ -166,6 +164,7 @@ pubnubtest.launchdarkly.com:443
 pubnubtest.launchdarkly.com:80
 resources.launchdarkly.com:443
 resources.launchdarkly.com:80
+retool-staging.prod.tools.launchdarkly.com:443
 sdk.dev.launchdarkly.com:443
 sdk.dev.launchdarkly.com:80
 sdk.dev.launchdarkly.com:8080

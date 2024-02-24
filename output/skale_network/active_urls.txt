@@ -11,7 +11,6 @@ http://faucet.skale.network
 http://faucet.skale.network:8443
 http://forum.skale.network
 http://hackathon.skale.network:443
-http://hackathon.skale.network:8080
 http://hackathon.skale.network:8443
 http://link.skale.network
 http://p2e.skale.network

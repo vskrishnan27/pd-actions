@@ -216,8 +216,6 @@ eaa-setup.tesla.com:443
 eaa-setup.tesla.com:80
 edr.tesla.com:443
 edr.tesla.com:80
-einvoicing.tesla.com:443
-einvoicing.tesla.com:80
 email1.tesla.com:25
 emails.tesla.com:25
 employeefeedback.tesla.com:443
@@ -284,6 +282,8 @@ installations-ext-api.tesla.com:80
 integration.kronos.tesla.com:443
 inventory-assets.tesla.com:443
 inventory-assets.tesla.com:80
+ion.tesla.com:443
+ion.tesla.com:80
 ir.tesla.com:443
 ir.tesla.com:80
 itanswers.tesla.com:80
@@ -291,6 +291,7 @@ kronos-dev.tesla.com:443
 kronos-dev.tesla.com:80
 kronos.tesla.com:443
 kronos.tesla.com:80
+lax32-gpgw1.tesla.com:443
 link.qa.tesla.com:443
 link.qa.tesla.com:80
 link.tesla.com:443
@@ -353,6 +354,8 @@ pay.tesla.com:443
 pay.tesla.com:80
 payment-public-stg.tesla.com:443
 pm-bounces.tesla.com:80
+powerhub.energy.tesla.com:443
+powerhub.energy.tesla.com:80
 profile.tesla.com:443
 profile.tesla.com:80
 pub.email.tesla.com:443

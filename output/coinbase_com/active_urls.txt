@@ -1,4 +1,3 @@
-http://accounts.coinbase.com
 http://accounts.coinbase.com:8443
 http://api-public.sandbox.exchange.coinbase.com:8080
 http://api-public.sandbox.exchange.coinbase.com:8443
@@ -8,6 +7,8 @@ http://api-public.sandbox.pro.coinbase.com:8443
 http://api-test.prime.coinbase.com
 http://api-test.prime.coinbase.com:8080
 http://api-test.prime.coinbase.com:8443
+http://api.coinbase.com
+http://api.coinbase.com:8080
 http://api.commerce.coinbase.com
 http://api.commerce.coinbase.com:8080
 http://api.commerce.coinbase.com:8443
@@ -74,6 +75,7 @@ http://cloud-api.coinbase.com:8443
 http://cloud-docs-beta.coinbase.com
 http://cloud.coinbase.com
 http://cloud.coinbase.com:8080
+http://cloud.coinbase.com:8443
 http://cohort-service.crypto.coinbase.com
 http://cohort-service.crypto.coinbase.com:8080
 http://cohort-service.crypto.coinbase.com:8443
@@ -205,6 +207,7 @@ http://ota.coinbase.com:8080
 http://ota.coinbase.com:8443
 http://pay.coinbase.com
 http://pay.coinbase.com:8080
+http://pay.coinbase.com:8443
 http://polygon-mumbai-infura.wallet.coinbase.com
 http://polygon-mumbai-infura.wallet.coinbase.com:8080
 http://polygon-mumbai-infura.wallet.coinbase.com:8443
@@ -267,6 +270,7 @@ http://status.prime.coinbase.com
 http://status.prime.coinbase.com:8080
 http://status.prime.coinbase.com:8443
 http://status.pro.coinbase.com
+http://status.pro.coinbase.com:443
 http://status.pro.coinbase.com:8080
 http://status.pro.coinbase.com:8443
 http://support-dev.coinbase.com
@@ -314,6 +318,9 @@ http://verify.coinbase.com:8443
 http://wallet.commerce.coinbase.com
 http://wallet.commerce.coinbase.com:8080
 http://wallet.commerce.coinbase.com:8443
+http://widget.coinbase.com
+http://widget.coinbase.com:8080
+http://widget.coinbase.com:8443
 http://ws-feed-public.sandbox.pro.coinbase.com
 http://ws-feed-public.sandbox.pro.coinbase.com:8080
 http://ws-feed-public.sandbox.pro.coinbase.com:8443
@@ -336,6 +343,8 @@ https://api-n5e1.coinbase.com
 https://api-public.sandbox.exchange.coinbase.com
 https://api-public.sandbox.pro.coinbase.com
 https://api-test.prime.coinbase.com
+https://api.coinbase.com
+https://api.coinbase.com:8443
 https://api.commerce.coinbase.com
 https://api.custody.coinbase.com
 https://api.exchange.coinbase.com
@@ -365,7 +374,6 @@ https://chain-proxy.wallet.coinbase.com
 https://cloud-api.coinbase.com
 https://cloud-docs-beta.coinbase.com
 https://cloud.coinbase.com
-https://cloud.coinbase.com:8443
 https://cohort-service.crypto.coinbase.com
 https://coinbase.com
 https://comm.coinbase.com
@@ -430,7 +438,6 @@ https://nft.coinbase.com:8443
 https://optimism-mainnet.wallet.coinbase.com
 https://ota.coinbase.com
 https://pay.coinbase.com
-https://pay.coinbase.com:8443
 https://polygon-mumbai-infura.wallet.coinbase.com
 https://polygon.coinbase.com
 https://polygon.coinbase.com:8443
@@ -458,7 +465,6 @@ https://status.commerce.coinbase.com
 https://status.custody.coinbase.com
 https://status.exchange.coinbase.com
 https://status.prime.coinbase.com
-https://status.pro.coinbase.com
 https://support-dev.coinbase.com
 https://support-dev.coinbase.com:8443
 https://support-dev.prime.coinbase.com
@@ -490,6 +496,7 @@ https://ventures.coinbase.com
 https://ventures.coinbase.com:8443
 https://verify.coinbase.com
 https://wallet.commerce.coinbase.com
+https://widget.coinbase.com
 https://ws-feed-public.sandbox.pro.coinbase.com
 https://ws-feed.exchange.coinbase.com
 https://ws-feed.prime.coinbase.com

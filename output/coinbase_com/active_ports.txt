@@ -15,6 +15,10 @@ api-test.prime.coinbase.com:443
 api-test.prime.coinbase.com:80
 api-test.prime.coinbase.com:8080
 api-test.prime.coinbase.com:8443
+api.coinbase.com:443
+api.coinbase.com:80
+api.coinbase.com:8080
+api.coinbase.com:8443
 api.commerce.coinbase.com:443
 api.commerce.coinbase.com:80
 api.commerce.coinbase.com:8080
@@ -479,6 +483,10 @@ wallet.commerce.coinbase.com:443
 wallet.commerce.coinbase.com:80
 wallet.commerce.coinbase.com:8080
 wallet.commerce.coinbase.com:8443
+widget.coinbase.com:443
+widget.coinbase.com:80
+widget.coinbase.com:8080
+widget.coinbase.com:8443
 ws-feed-public.sandbox.pro.coinbase.com:443
 ws-feed-public.sandbox.pro.coinbase.com:80
 ws-feed-public.sandbox.pro.coinbase.com:8080

@@ -73,7 +73,6 @@ http://flowrida-ad-targeting.sc-corp.net
 http://flowrida-research.sc-corp.net
 http://flowrida-unlockables.sc-corp.net
 http://forge-staging-iap.sc-corp.net
-http://gae.sc-corp.net
 http://gerrit.sc-corp.net
 http://ghe-dev.sc-corp.net
 http://grafana-cluster.sc-corp.net
@@ -94,7 +93,6 @@ http://jira-dev.sc-corp.net
 http://jira-mx-dev.sc-corp.net
 http://jira-mx.sc-corp.net
 http://jira-stage-api.sc-corp.net
-http://jira.sc-corp.net
 http://key-master-prod.sc-corp.net
 http://key-master-stage.sc-corp.net
 http://lease.sc-corp.net
@@ -140,6 +138,7 @@ http://neo4j-prod.sc-corp.net
 http://neo4j-staging.sc-corp.net
 http://neo4j.sc-corp.net
 http://okr.sc-corp.net
+http://okta-preview.sc-corp.net
 http://olympus-staging.secproxy.sc-corp.net
 http://orca.sc-corp.net
 http://perf.sc-corp.net
@@ -302,7 +301,6 @@ https://flowrida-ad-targeting.sc-corp.net
 https://flowrida-research.sc-corp.net
 https://flowrida-unlockables.sc-corp.net
 https://forge-staging-iap.sc-corp.net
-https://gae.sc-corp.net
 https://gerrit.sc-corp.net
 https://ghe-dev.sc-corp.net
 https://github-backup.sc-corp.net
@@ -324,7 +322,6 @@ https://jira-dev.sc-corp.net
 https://jira-mx-dev.sc-corp.net
 https://jira-mx.sc-corp.net
 https://jira-stage-api.sc-corp.net
-https://jira.sc-corp.net
 https://key-master-prod.sc-corp.net
 https://key-master-stage.sc-corp.net
 https://lease.sc-corp.net
@@ -373,6 +370,7 @@ https://neo4j-prod.sc-corp.net
 https://neo4j-staging.sc-corp.net
 https://neo4j.sc-corp.net
 https://okr.sc-corp.net
+https://okta-preview.sc-corp.net
 https://olympus-staging.secproxy.sc-corp.net
 https://orca.sc-corp.net
 https://perf.sc-corp.net

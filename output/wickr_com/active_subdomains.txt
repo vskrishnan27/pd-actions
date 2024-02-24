@@ -9,10 +9,8 @@ fedramp.wickr.com
 finra.wickr.com
 fips-gw-pro-prod.wickr.com
 gov-cloud-download.wickr.com
-gw-me-prod.wickr.com
 gw-pro-prod.wickr.com
 me-download.wickr.com
-messaging-me-prod.wickr.com
 messaging-pro-prod.wickr.com
 niap.wickr.com
 pro-download.wickr.com

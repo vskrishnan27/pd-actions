@@ -2,8 +2,6 @@ http://admin.wickr.com
 http://enterprise-download.wickr.com
 http://enterprise.wickr.com
 http://gov-cloud-download.wickr.com
-http://gw-me-prod.wickr.com
-http://gw-me-prod.wickr.com:443
 http://gw-pro-prod.wickr.com
 http://me-download.wickr.com
 http://me-download.wickr.com:443

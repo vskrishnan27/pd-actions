@@ -9,8 +9,6 @@ enterprise.wickr.com:80
 fedramp.wickr.com:443
 gov-cloud-download.wickr.com:443
 gov-cloud-download.wickr.com:80
-gw-me-prod.wickr.com:443
-gw-me-prod.wickr.com:80
 gw-pro-prod.wickr.com:443
 gw-pro-prod.wickr.com:80
 me-download.wickr.com:443

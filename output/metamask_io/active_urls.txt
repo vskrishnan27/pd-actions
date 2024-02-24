@@ -18,6 +18,7 @@ http://accounts-us-east-2.dev-api.cx.metamask.io:8080
 http://accounts-us-east-2.dev-api.cx.metamask.io:8443
 http://accounts-us-east-2.uat-api.cx.metamask.io
 http://accounts-us-east-2.uat-api.cx.metamask.io:8080
+http://accounts-us-east-2.uat-api.cx.metamask.io:8443
 http://accounts.api.cx.metamask.io
 http://accounts.api.cx.metamask.io:8080
 http://accounts.api.cx.metamask.io:8443
@@ -57,7 +58,6 @@ http://bridge-us-east-2.api.cx.metamask.io:8080
 http://bridge-us-east-2.api.cx.metamask.io:8443
 http://bridge-us-east-2.dev-api.cx.metamask.io
 http://bridge-us-east-2.dev-api.cx.metamask.io:8080
-http://bridge-us-east-2.dev-api.cx.metamask.io:8443
 http://bridge-us-east-2.uat-api.cx.metamask.io
 http://bridge-us-east-2.uat-api.cx.metamask.io:8080
 http://bridge-us-east-2.uat-api.cx.metamask.io:8443
@@ -98,6 +98,7 @@ http://gas-us-east-2.dev-api.cx.metamask.io:8080
 http://gas-us-east-2.dev-api.cx.metamask.io:8443
 http://gas-us-east-2.uat-api.cx.metamask.io
 http://gas-us-east-2.uat-api.cx.metamask.io:8080
+http://gas-us-east-2.uat-api.cx.metamask.io:8443
 http://gas.api.cx.metamask.io
 http://gas.api.cx.metamask.io:8080
 http://gas.api.cx.metamask.io:8443
@@ -126,12 +127,12 @@ http://mobile.metamask.io
 http://mobile.metamask.io:8080
 http://my-sample-api2-us-east-2.dev-api.cx.metamask.io
 http://my-sample-api2-us-east-2.dev-api.cx.metamask.io:8080
+http://my-sample-api2-us-east-2.dev-api.cx.metamask.io:8443
 http://nft-us-east-2.api.cx.metamask.io
 http://nft-us-east-2.api.cx.metamask.io:8080
 http://nft-us-east-2.api.cx.metamask.io:8443
 http://nft-us-east-2.dev-api.cx.metamask.io
 http://nft-us-east-2.dev-api.cx.metamask.io:8080
-http://nft-us-east-2.dev-api.cx.metamask.io:8443
 http://nft-us-east-2.uat-api.cx.metamask.io
 http://nft-us-east-2.uat-api.cx.metamask.io:8080
 http://nft-us-east-2.uat-api.cx.metamask.io:8443
@@ -277,7 +278,6 @@ http://push.dev-api.cx.metamask.io:8443
 http://push.uat-api.cx.metamask.io
 http://push.uat-api.cx.metamask.io:8080
 http://push.uat-api.cx.metamask.io:8443
-http://snaps.metamask.io
 http://stage.portfolio.metamask.io
 http://start.metamask.io
 http://static.cx.metamask.io
@@ -376,7 +376,6 @@ https://account.uat-api.cx.metamask.io
 https://accounts-us-east-2.api.cx.metamask.io
 https://accounts-us-east-2.dev-api.cx.metamask.io
 https://accounts-us-east-2.uat-api.cx.metamask.io
-https://accounts-us-east-2.uat-api.cx.metamask.io:8443
 https://accounts.api.cx.metamask.io
 https://accounts.dev-api.cx.metamask.io
 https://accounts.uat-api.cx.metamask.io
@@ -393,6 +392,7 @@ https://blog.metamask.io
 https://blog.metamask.io:8443
 https://bridge-us-east-2.api.cx.metamask.io
 https://bridge-us-east-2.dev-api.cx.metamask.io
+https://bridge-us-east-2.dev-api.cx.metamask.io:8443
 https://bridge-us-east-2.uat-api.cx.metamask.io
 https://bridge.api.cx.metamask.io
 https://bridge.dev-api.cx.metamask.io
@@ -414,7 +414,6 @@ https://fwd.metamask.io
 https://gas-us-east-2.api.cx.metamask.io
 https://gas-us-east-2.dev-api.cx.metamask.io
 https://gas-us-east-2.uat-api.cx.metamask.io
-https://gas-us-east-2.uat-api.cx.metamask.io:8443
 https://gas.api.cx.metamask.io
 https://gas.dev-api.cx.metamask.io
 https://gas.uat-api.cx.metamask.io
@@ -429,9 +428,9 @@ https://metamask.io
 https://mobile.metamask.io
 https://mobile.metamask.io:8443
 https://my-sample-api2-us-east-2.dev-api.cx.metamask.io
-https://my-sample-api2-us-east-2.dev-api.cx.metamask.io:8443
 https://nft-us-east-2.api.cx.metamask.io
 https://nft-us-east-2.dev-api.cx.metamask.io
+https://nft-us-east-2.dev-api.cx.metamask.io:8443
 https://nft-us-east-2.uat-api.cx.metamask.io
 https://nft.api.cx.metamask.io
 https://nft.dev-api.cx.metamask.io
@@ -481,7 +480,6 @@ https://push-us-east-2.uat-api.cx.metamask.io
 https://push.api.cx.metamask.io
 https://push.dev-api.cx.metamask.io
 https://push.uat-api.cx.metamask.io
-https://snaps.metamask.io
 https://stage.portfolio.metamask.io
 https://start.metamask.io
 https://static.cx.metamask.io

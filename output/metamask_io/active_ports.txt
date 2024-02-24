@@ -160,13 +160,7 @@ get.metamask.io:443
 get.metamask.io:80
 get.metamask.io:8080
 get.metamask.io:8443
-go.metamask.io:1110
-go.metamask.io:13
-go.metamask.io:1433
-go.metamask.io:2049
 go.metamask.io:443
-go.metamask.io:543
-go.metamask.io:5666
 go.metamask.io:80
 home.metamask.io:443
 home.metamask.io:80
@@ -396,8 +390,6 @@ push.uat-api.cx.metamask.io:443
 push.uat-api.cx.metamask.io:80
 push.uat-api.cx.metamask.io:8080
 push.uat-api.cx.metamask.io:8443
-snaps.metamask.io:443
-snaps.metamask.io:80
 stage.portfolio.metamask.io:443
 stage.portfolio.metamask.io:80
 start.metamask.io:443

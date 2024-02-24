@@ -63,7 +63,6 @@ http://links.m.miro.com
 http://links.m.miro.com:8443
 http://lubo.miro.com
 http://meet.miro.com
-http://miro.com
 http://mobile.miro.com
 http://mwww.miro.com
 http://notifications-overlay.svc.miro.com
@@ -159,7 +158,6 @@ https://learns.miro.com
 https://links.m.miro.com
 https://lubo.miro.com
 https://meet.miro.com
-https://miro.com
 https://mobile.miro.com
 https://mwww.miro.com
 https://notifications-overlay.svc.miro.com

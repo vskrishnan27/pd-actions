@@ -9,6 +9,7 @@ http://app.chime.com:8080
 http://app.chime.com:8443
 http://attachments.chime.com
 http://attachments.chime.com:8080
+http://attachments.chime.com:8443
 http://autobots-dev1.chime.com
 http://autobots-dev1.chime.com:8080
 http://autobots-dev1.chime.com:8443
@@ -17,7 +18,6 @@ http://autobots-qa.chime.com:8080
 http://autobots-qa.chime.com:8443
 http://autobots.chime.com
 http://autobots.chime.com:8080
-http://autobots.chime.com:8443
 http://careers.chime.com
 http://chat.chime.com
 http://chat.chime.com:8080
@@ -29,6 +29,7 @@ http://developer.chime.com
 http://developer.chime.com:8080
 http://email.gh-mail.chime.com
 http://email.gh-mail.chime.com:8080
+http://email.gh-mail.chime.com:8443
 http://email.gh-mail.ext.chime.com
 http://email.gh-mail.ext.chime.com:8080
 http://email.gh-mail.ext.chime.com:8443
@@ -84,7 +85,6 @@ http://member-dev1.chime.com:8080
 http://member-dev1.chime.com:8443
 http://member-qa.chime.com
 http://member-qa.chime.com:8080
-http://member-qa.chime.com:8443
 http://member.chime.com
 http://member.chime.com:8080
 http://member.chime.com:8443
@@ -109,6 +109,7 @@ http://penny.chime.com:8080
 http://penny.chime.com:8443
 http://public-assets-dev1.chime.com
 http://public-assets-dev1.chime.com:8080
+http://public-assets-dev1.chime.com:8443
 http://public-assets-qa.chime.com
 http://public-assets-qa.chime.com:8080
 http://public-assets-qa.chime.com:8443
@@ -143,6 +144,7 @@ http://wp-dev5.chime.com:8080
 http://wp-dev5.chime.com:8443
 http://wp-integ.chime.com
 http://wp-integ.chime.com:8080
+http://wp-integ.chime.com:8443
 http://wp-qa.chime.com
 http://wp-qa.chime.com:8080
 http://wp-qa.chime.com:8443
@@ -151,10 +153,10 @@ https://16002407.account.chime.com
 https://16002407.notify.chime.com
 https://app.chime.com
 https://attachments.chime.com
-https://attachments.chime.com:8443
 https://autobots-dev1.chime.com
 https://autobots-qa.chime.com
 https://autobots.chime.com
+https://autobots.chime.com:8443
 https://careers.chime.com
 https://chat.chime.com
 https://chime.com
@@ -165,7 +167,6 @@ https://developer.chime.com:8443
 https://email.ethnio.chime.com
 https://email.ethnio.chime.com:80
 https://email.gh-mail.chime.com
-https://email.gh-mail.chime.com:8443
 https://email.gh-mail.ext.chime.com
 https://email.mg.chime.com
 https://email.talent.chime.com
@@ -190,6 +191,7 @@ https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
 https://member-qa.chime.com
+https://member-qa.chime.com:8443
 https://member.chime.com
 https://mobile-state.chime.com
 https://monocle-dev1.chime.com
@@ -200,7 +202,6 @@ https://penny-dev1.chime.com
 https://penny-qa.chime.com
 https://penny.chime.com
 https://public-assets-dev1.chime.com
-https://public-assets-dev1.chime.com:8443
 https://public-assets-qa.chime.com
 https://public-assets.chime.com
 https://static-attachments.chime.com
@@ -214,6 +215,5 @@ https://wp-dev3.chime.com
 https://wp-dev4.chime.com
 https://wp-dev5.chime.com
 https://wp-integ.chime.com
-https://wp-integ.chime.com:8443
 https://wp-qa.chime.com
 https://www.chime.com

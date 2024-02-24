@@ -1,4 +1,3 @@
-eero.com
 ring.com
 yuga.com
 polygon.technology
@@ -77,3 +76,4 @@ sc-corp.net
 lululemon.com
 moonactive.net
 moonactive.com
+eero.com

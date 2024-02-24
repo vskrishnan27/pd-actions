@@ -50,8 +50,6 @@ farm8.static.flickr.com:443
 farm8.static.flickr.com:80
 farm9.static.flickr.com:443
 farm9.static.flickr.com:80
-flickr.com:443
-flickr.com:80
 flimg.flickr.com:443
 flimg.flickr.com:80
 guce.flickr.com:443

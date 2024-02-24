@@ -7,7 +7,6 @@ http://blog.enjin.io
 http://blog.enjin.io:8080
 http://cdn.enjin.io
 http://cdn.enjin.io:8080
-http://cdn.enjin.io:8443
 http://cloud.enjin.io
 http://cloud.enjin.io:8080
 http://cloud.enjin.io:8443
@@ -65,6 +64,7 @@ https://auth.enjin.io:8443
 https://blog.enjin.io
 https://blog.enjin.io:8443
 https://cdn.enjin.io
+https://cdn.enjin.io:8443
 https://cloud.enjin.io
 https://console.enjin.io
 https://csharp.docs.enjin.io

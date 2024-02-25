@@ -71,10 +71,10 @@ http://missions.crypto.com
 http://missions.crypto.com:8080
 http://mpro-content-hub.crypto.com
 http://mpro-content-hub.crypto.com:8080
+http://nft.crypto.com
+http://nft.crypto.com:8080
 http://opening-night.crypto.com
 http://opening-night.crypto.com:8080
-http://p.crypto.com
-http://p.crypto.com:8080
 http://pay-api.crypto.com
 http://pay-api.crypto.com:8080
 http://pay-docs.crypto.com
@@ -114,8 +114,6 @@ http://static2.crypto.com:8080
 http://status.crypto.com
 http://stream.crypto.com
 http://stream.crypto.com:8080
-http://tax.crypto.com
-http://tax.crypto.com:8080
 http://tpp-tmp.crypto.com
 http://tpp-tmp.crypto.com:8080
 http://uat-content-hub.crypto.com
@@ -207,10 +205,10 @@ https://missions.crypto.com
 https://missions.crypto.com:8443
 https://mpro-content-hub.crypto.com
 https://mpro-content-hub.crypto.com:8443
+https://nft.crypto.com
+https://nft.crypto.com:8443
 https://opening-night.crypto.com
 https://opening-night.crypto.com:8443
-https://p.crypto.com
-https://p.crypto.com:8443
 https://pay-api.crypto.com
 https://pay-api.crypto.com:8443
 https://pay-docs.crypto.com
@@ -250,8 +248,6 @@ https://static2.crypto.com:8443
 https://status.crypto.com
 https://stream.crypto.com
 https://stream.crypto.com:8443
-https://tax.crypto.com
-https://tax.crypto.com:8443
 https://tpp-tmp.crypto.com
 https://tpp-tmp.crypto.com:8443
 https://uat-content-hub.crypto.com

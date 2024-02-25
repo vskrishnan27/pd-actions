@@ -343,6 +343,7 @@ http://email.gitlab.com:8443
 http://enable.gitlab.com
 http://federal-support.gitlab.com
 http://federal-support.gitlab.com:8080
+http://federal-support.gitlab.com:8443
 http://feedback.gitlab.com
 http://feedback.gitlab.com:8080
 http://forum.gitlab.com
@@ -741,7 +742,6 @@ https://email.customers.gitlab.com
 https://email.gitlab.com
 https://enable.gitlab.com
 https://federal-support.gitlab.com
-https://federal-support.gitlab.com:8443
 https://feedback.gitlab.com
 https://feedback.gitlab.com:8443
 https://forum.gitlab.com

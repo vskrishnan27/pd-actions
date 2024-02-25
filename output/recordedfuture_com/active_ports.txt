@@ -68,8 +68,6 @@ partners.recordedfuture.com:8080
 partners.recordedfuture.com:8443
 pgg391.info.recordedfuture.com:25
 pgg391.info.recordedfuture.com:80
-preprod.cms.recordedfuture.com:443
-preprod.cms.recordedfuture.com:80
 preprod.recordedfuture.com:443
 preprod.recordedfuture.com:80
 preprod.recordedfuture.com:8080

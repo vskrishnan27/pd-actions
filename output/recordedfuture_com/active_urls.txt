@@ -19,7 +19,6 @@ http://express-api.recordedfuture.com:8443
 http://files.recordedfuture.com
 http://files.recordedfuture.com:443
 http://files.recordedfuture.com:8080
-http://files.recordedfuture.com:8443
 http://futuristuniversity.recordedfuture.com
 http://get.recordedfuture.com
 http://get.recordedfuture.com:8080
@@ -44,7 +43,6 @@ http://lyra.recordedfuture.com
 http://partners.recordedfuture.com
 http://partners.recordedfuture.com:8080
 http://pgg391.info.recordedfuture.com
-http://preprod.cms.recordedfuture.com
 http://preprod.recordedfuture.com
 http://preprod.recordedfuture.com:8080
 http://preprod.recordedfuture.com:8443
@@ -81,6 +79,7 @@ https://cms.recordedfuture.com
 https://community.recordedfuture.com
 https://email.recordedfuture.com
 https://express-api.recordedfuture.com
+https://files.recordedfuture.com:8443
 https://futuristuniversity.recordedfuture.com
 https://get.recordedfuture.com
 https://go.recordedfuture.com
@@ -96,7 +95,6 @@ https://learning.recordedfuture.com:8443
 https://lyra.recordedfuture.com
 https://partners.recordedfuture.com
 https://partners.recordedfuture.com:8443
-https://preprod.cms.recordedfuture.com
 https://preprod.recordedfuture.com
 https://recordedfuture.com
 https://sandbox.recordedfuture.com

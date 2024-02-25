@@ -265,13 +265,13 @@ rainmeter.github.com
 raw.github.com
 realwds.github.com
 redirect.github.com
-registry.github.com
 remeniuk.github.com
 remy.github.com
 render-lab.github.com
 render.github.com
 res.communication.github.com
 resources.github.com
+review-lab.github.com
 rjhansen.github.com
 robey.github.com
 rodrigofalvarez.github.com
@@ -307,7 +307,7 @@ web3395.github.com
 web3421.github.com
 web5622.github.com
 web6014.github.com
-workspaces-ppe.github.com
+workspaces-dev.github.com
 workspaces.github.com
 ws.support.github.com
 www.api.security.github.com
@@ -316,10 +316,11 @@ www.github.com
 www.graphql-stage.github.com
 www.graphql.github.com
 www.jira.github.com
+www.maintainers.github.com
 www.networkx.github.com
 www.partnerportal.github.com
 www.render-lab.github.com
-www.skyline.github.com
+www.smtp.github.com
 www.support.enterprise.github.com
 www.visualstudio.github.com
 www.ws.support.github.com

@@ -69,8 +69,6 @@ http://ambiclimate.shopify.com
 http://ambiclimate.shopify.com:8080
 http://analytics.shopify.com
 http://analytics.shopify.com:8080
-http://api.collabs.shopify.com
-http://api.collabs.shopify.com:8080
 http://api.shopify.com
 http://api.shopify.com:8080
 http://apm.shopify.com
@@ -156,6 +154,8 @@ http://changelog.shopify.com
 http://changelog.shopify.com:8080
 http://chat.shopify.com
 http://chat.shopify.com:8080
+http://checkout.hardware.shopify.com
+http://checkout.hardware.shopify.com:8080
 http://checkout.shopify.com
 http://checkout.shopify.com:8080
 http://chi.shopify.com
@@ -166,8 +166,6 @@ http://classic-help-staging.shopify.com
 http://classic-help.shopify.com
 http://classifieds.shopify.com
 http://classifieds.shopify.com:8080
-http://click.email.shopify.com
-http://click.email.shopify.com:8080
 http://cms.everest.shopify.com
 http://cms.everest.shopify.com:8080
 http://cms.shopify.com
@@ -257,8 +255,6 @@ http://devs.shopify.com
 http://devs.shopify.com:8080
 http://dk.shopify.com
 http://dk.shopify.com:8080
-http://dn.shopify.com
-http://dn.shopify.com:8080
 http://dns.ash.shopify.com
 http://dns.ash.shopify.com:8080
 http://docs.shopify.com
@@ -390,6 +386,8 @@ http://ie.checkout.hardware.shopify.com
 http://ie.checkout.hardware.shopify.com:8080
 http://ihatewhatever.shopify.com
 http://ihatewhatever.shopify.com:8080
+http://image.email.shopify.com
+http://image.email.shopify.com:8080
 http://inbox.shopify.com
 http://inbox.shopify.com:8080
 http://incoming.shopify.com
@@ -461,10 +459,6 @@ http://locality.shopify.com
 http://locality.shopify.com:8080
 http://localsession.shopify.com
 http://localsession.shopify.com:8080
-http://log1.ash.shopify.com
-http://log1.ash.shopify.com:8080
-http://log2.ash.shopify.com
-http://log2.ash.shopify.com:8080
 http://login.community-stage.shopify.com
 http://login.community-stage.shopify.com:8080
 http://login.community.shopify.com
@@ -521,6 +515,10 @@ http://mta.email.shopify.com
 http://mta.email.shopify.com:8080
 http://mta2.email.shopify.com
 http://mta2.email.shopify.com:8080
+http://mta3.email.shopify.com
+http://mta3.email.shopify.com:8080
+http://mta4.email.shopify.com
+http://mta4.email.shopify.com:8080
 http://mx.shopify.com
 http://mx.shopify.com:8080
 http://my.shopify.com
@@ -573,6 +571,7 @@ http://pay.shopify.com:8080
 http://people-analytics.data.shopify.com
 http://phoenix.shopify.com
 http://photos.shopify.com
+http://photos.shopify.com:8080
 http://pin.shopify.com
 http://pin.shopify.com:8080
 http://pins.shopify.com
@@ -687,8 +686,6 @@ http://shopify-plus-meet-up.shopify.com
 http://shopify-plus-meet-up.shopify.com:8080
 http://simba-sleep.shopify.com
 http://simba-sleep.shopify.com:8080
-http://site.email.shopify.com
-http://site.email.shopify.com:8080
 http://sl.shopify.com
 http://sl2.shopify.com
 http://sl3.shopify.com
@@ -1000,8 +997,6 @@ https://ambiclimate.shopify.com
 https://ambiclimate.shopify.com:8443
 https://analytics.shopify.com
 https://analytics.shopify.com:8443
-https://api.collabs.shopify.com
-https://api.collabs.shopify.com:8443
 https://api.shopify.com
 https://api.shopify.com:8443
 https://apm.shopify.com
@@ -1085,6 +1080,8 @@ https://changelog.shopify.com
 https://changelog.shopify.com:8443
 https://chat.shopify.com
 https://chat.shopify.com:8443
+https://checkout.hardware.shopify.com
+https://checkout.hardware.shopify.com:8443
 https://checkout.shopify.com
 https://checkout.shopify.com:8443
 https://chi.shopify.com
@@ -1095,8 +1092,6 @@ https://classic-help-staging.shopify.com
 https://classic-help.shopify.com
 https://classifieds.shopify.com
 https://classifieds.shopify.com:8443
-https://click.email.shopify.com
-https://click.email.shopify.com:8443
 https://cms.everest.shopify.com
 https://cms.everest.shopify.com:8443
 https://cms.shopify.com
@@ -1186,8 +1181,6 @@ https://devs.shopify.com
 https://devs.shopify.com:8443
 https://dk.shopify.com
 https://dk.shopify.com:8443
-https://dn.shopify.com
-https://dn.shopify.com:8443
 https://dns.ash.shopify.com
 https://dns.ash.shopify.com:8443
 https://docs.shopify.com
@@ -1322,6 +1315,8 @@ https://ie.checkout.hardware.shopify.com
 https://ie.checkout.hardware.shopify.com:8443
 https://ihatewhatever.shopify.com
 https://ihatewhatever.shopify.com:8443
+https://image.email.shopify.com
+https://image.email.shopify.com:8443
 https://inbox.shopify.com
 https://inbox.shopify.com:8443
 https://incoming.shopify.com
@@ -1393,10 +1388,6 @@ https://locality.shopify.com
 https://locality.shopify.com:8443
 https://localsession.shopify.com
 https://localsession.shopify.com:8443
-https://log1.ash.shopify.com
-https://log1.ash.shopify.com:8443
-https://log2.ash.shopify.com
-https://log2.ash.shopify.com:8443
 https://login.community-stage.shopify.com
 https://login.community-stage.shopify.com:8443
 https://login.community.shopify.com
@@ -1453,6 +1444,10 @@ https://mta.email.shopify.com
 https://mta.email.shopify.com:8443
 https://mta2.email.shopify.com
 https://mta2.email.shopify.com:8443
+https://mta3.email.shopify.com
+https://mta3.email.shopify.com:8443
+https://mta4.email.shopify.com
+https://mta4.email.shopify.com:8443
 https://mx.shopify.com
 https://mx.shopify.com:8443
 https://my.shopify.com
@@ -1621,8 +1616,6 @@ https://shopify-plus-meet-up.shopify.com
 https://shopify-plus-meet-up.shopify.com:8443
 https://simba-sleep.shopify.com
 https://simba-sleep.shopify.com:8443
-https://site.email.shopify.com
-https://site.email.shopify.com:8443
 https://sl.shopify.com
 https://sl2.shopify.com
 https://sl3.shopify.com

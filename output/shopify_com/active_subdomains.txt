@@ -86,7 +86,6 @@ cla.shopify.com
 classic-help-staging.shopify.com
 classic-help.shopify.com
 classifieds.shopify.com
-click.email.shopify.com
 cms.everest.shopify.com
 cms.shopify.com
 cname.shopify.com
@@ -209,6 +208,7 @@ icinga.ash.shopify.com
 icinga.chi2.shopify.com
 ie.checkout.hardware.shopify.com
 ihatewhatever.shopify.com
+image.email.shopify.com
 in.shopify.com
 inbox.shopify.com
 incoming.shopify.com
@@ -282,6 +282,7 @@ milestones.shopify.com
 mobile.shopify.com
 mta.email.shopify.com
 mta2.email.shopify.com
+mta3.email.shopify.com
 mta4.email.shopify.com
 mx.shopify.com
 mxmkto.email.plus.shopify.com
@@ -419,7 +420,6 @@ shopclass.shopify.com
 shopify-plus-meet-up.shopify.com
 shopify.com
 simba-sleep.shopify.com
-site.email.shopify.com
 sl.shopify.com
 sl2.shopify.com
 sl3.shopify.com
@@ -528,6 +528,7 @@ v200.ae2.br.hy094.chi2.shopify.com
 vault.shopify.com
 vaultapp1.ec2.shopify.com
 videomaker.shopify.com
+view.email.shopify.com
 vision.shopify.com
 wc.shopify.com
 weareopen.shopify.com

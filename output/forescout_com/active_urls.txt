@@ -45,6 +45,7 @@ http://trainingsurvey.forescout.com:8443
 http://updates.forescout.com
 http://updates.forescout.com:8080
 http://www.forescout.com
+http://www.forescout.com:8080
 http://www.forescout.com:8443
 http://zh.forescout.com
 http://zh.forescout.com:8443

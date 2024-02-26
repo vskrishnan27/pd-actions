@@ -24,6 +24,7 @@ http://us.okx.com:8443
 http://ustemp.okx.com
 http://ustemp.okx.com:8443
 http://wallet.okx.com
+http://wssfp.okx.com
 http://www.okx.com
 http://www.okx.com:8443
 http://x1rpc.okx.com

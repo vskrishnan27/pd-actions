@@ -185,6 +185,7 @@ http://huboo.freshworks.com
 http://iemanet.freshworks.com
 http://imperativechemicalshelp.freshworks.com
 http://in.accounts.freshworks.com
+http://in.freshworks.com
 http://ind-widget.freshworks.com
 http://indexer.freshworks.com
 http://ingeniacommunities.freshworks.com
@@ -193,6 +194,7 @@ http://intango.freshworks.com
 http://internalreferral.freshworks.com
 http://intuitionpublishingltd.freshworks.com
 http://invohealthcare.freshworks.com
+http://ir.freshworks.com
 http://istonline.freshworks.com
 http://jacoinchelp.freshworks.com
 http://janlinders.freshworks.com
@@ -275,6 +277,7 @@ http://sclhelpdesk.freshworks.com
 http://sitelink.freshworks.com
 http://sixer.freshworks.com
 http://solutions.freshworks.com
+http://solutions.freshworks.com:8443
 http://spainhelpdesktool.freshworks.com
 http://spectra.freshworks.com
 http://spillc.freshworks.com
@@ -302,7 +305,6 @@ http://toyotacf.freshworks.com
 http://trust.freshworks.com
 http://trust.internal.freshworks.com
 http://ubx-au.freshworks.com
-http://ubx-eu.freshworks.com
 http://ubx-in.freshworks.com
 http://ubx-mec.freshworks.com
 http://ubx.freshworks.com
@@ -546,6 +548,7 @@ https://huboo.freshworks.com
 https://iemanet.freshworks.com
 https://imperativechemicalshelp.freshworks.com
 https://in.accounts.freshworks.com
+https://in.freshworks.com
 https://ind-widget.freshworks.com
 https://indexer.freshworks.com
 https://ingeniacommunities.freshworks.com
@@ -554,7 +557,9 @@ https://intango.freshworks.com
 https://integrations.freshworks.com
 https://internalreferral.freshworks.com
 https://intuitionpublishingltd.freshworks.com
+https://investor.freshworks.com
 https://invohealthcare.freshworks.com
+https://ir.freshworks.com
 https://istonline.freshworks.com
 https://jacoinchelp.freshworks.com
 https://janlinders.freshworks.com
@@ -635,7 +640,6 @@ https://sclhelpdesk.freshworks.com
 https://sitelink.freshworks.com
 https://sixer.freshworks.com
 https://solutions.freshworks.com
-https://solutions.freshworks.com:8443
 https://spainhelpdesktool.freshworks.com
 https://spectra.freshworks.com
 https://spillc.freshworks.com
@@ -663,7 +667,6 @@ https://toyotacf.freshworks.com
 https://trust.freshworks.com
 https://trust.internal.freshworks.com
 https://ubx-au.freshworks.com
-https://ubx-eu.freshworks.com
 https://ubx-in.freshworks.com
 https://ubx-mec.freshworks.com
 https://ubx.freshworks.com

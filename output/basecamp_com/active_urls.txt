@@ -31,7 +31,6 @@ http://preview.3.basecamp.com:8080
 http://preview.3.basecamp.com:8443
 http://progress.basecamp.com
 http://progress.basecamp.com:8080
-http://progress.basecamp.com:8443
 http://public.3.basecamp.com
 http://public.3.basecamp.com:8080
 http://public.3.basecamp.com:8443
@@ -78,6 +77,7 @@ https://help.basecamp.com:8443
 https://marketing-staging.basecamp.com
 https://preview.3.basecamp.com
 https://progress.basecamp.com
+https://progress.basecamp.com:8443
 https://public.3.basecamp.com
 https://public.basecamp.com
 https://rollout-assets.basecamp.com

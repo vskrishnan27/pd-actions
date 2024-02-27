@@ -82,6 +82,7 @@ http://devkit-ecomm-uat.noa.nintendo.com
 http://devkit-ecomm.noa.nintendo.com
 http://devopsmaker-dev.noa.nintendo.com
 http://devopsmaker.noa.nintendo.com
+http://dillonsrollingwestern.nintendo.com
 http://disney.nintendo.com
 http://disneymagicalworld.nintendo.com
 http://disneymagicalworld2.nintendo.com
@@ -104,13 +105,11 @@ http://en-americas-support.nintendo.com
 http://es-americas-support.nintendo.com
 http://es.nintendo.com
 http://events.nintendo.com
-http://everoasis.nintendo.com
 http://experience.nintendo.com
 http://fantasylife.nintendo.com
 http://fatalframe.nintendo.com
 http://ffcc.nintendo.com
 http://ffdos.nintendo.com
-http://ffiv.nintendo.com
 http://ffta.nintendo.com
 http://ffv.nintendo.com
 http://ffvi.nintendo.com
@@ -194,7 +193,6 @@ http://mario25.nintendo.com
 http://marioanddk.nintendo.com
 http://marioandluigibowsersinsidestory.nintendo.com
 http://marioandluigidreamteam.nintendo.com
-http://marioandluigipaperjam.nintendo.com
 http://marioandluigisuperstarsaga.nintendo.com
 http://mariokart.nintendo.com
 http://mariokart7.nintendo.com
@@ -212,7 +210,6 @@ http://mariovsdk.nintendo.com
 http://marvelultimatealliance3.nintendo.com
 http://media.nintendo.com
 http://mediasrc.nintendo.com
-http://metroidprime.nintendo.com
 http://metroidsamusreturns.nintendo.com
 http://miitopia.nintendo.com
 http://minimario.nintendo.com
@@ -257,7 +254,6 @@ http://ope-api.events.nintendo.com
 http://ope.dev.events.nintendo.com
 http://ope.events.nintendo.com
 http://ope.qa.events.nintendo.com
-http://ope.staging.events.nintendo.com
 http://p.nintendo.com
 http://pages.ccg.nintendo.com
 http://parentalcontrols.nintendo.com
@@ -321,7 +317,6 @@ http://sherpa-api-test.noa.nintendo.com
 http://sherpa-api.noa.nintendo.com
 http://shn-jp.nintendo.com
 http://shn-jp.nintendo.com:8443
-http://shock.nintendo.com
 http://skyrim.nintendo.com
 http://slc.prod1.ms.developer.nintendo.com
 http://smartreturnsystem-uat.noa.nintendo.com
@@ -350,6 +345,7 @@ http://store-jp.nintendo.com:8443
 http://store.nintendo.com
 http://storemedia.nintendo.com
 http://stretchmo.nintendo.com
+http://studio.mii.nintendo.com
 http://stylesavvy.nintendo.com
 http://stylesavvy2.nintendo.com
 http://supermario3dland.nintendo.com
@@ -618,7 +614,6 @@ https://downloads.developer.nintendo.com
 https://dragonquest.nintendo.com
 https://dragonquest6.nintendo.com
 https://dragonquest7.nintendo.com
-https://drluigi.nintendo.com
 https://dsioffer.nintendo.com
 https://e3-poll.nintendo.com
 https://e3.nintendo.com
@@ -816,7 +811,6 @@ https://ope-api.events.nintendo.com
 https://ope.dev.events.nintendo.com
 https://ope.events.nintendo.com
 https://ope.qa.events.nintendo.com
-https://ope.staging.events.nintendo.com
 https://orders.activities.prod.gbo.noa.nintendo.com
 https://p.nintendo.com
 https://pages.ccg.nintendo.com
@@ -854,11 +848,10 @@ https://prod-store.nintendo.com
 https://professorlayton.nintendo.com
 https://profile.cpo.noa.nintendo.com
 https://pt-americas-support.nintendo.com
-https://ptdairwatch.noa.nintendo.com:2000
-https://ptdairwatch.noa.nintendo.com:2049
-https://ptdairwatch.noa.nintendo.com:3986
-https://ptdairwatch.noa.nintendo.com:465
-https://ptdairwatch.noa.nintendo.com:8000
+https://ptdairwatch.noa.nintendo.com:106
+https://ptdairwatch.noa.nintendo.com:1433
+https://ptdairwatch.noa.nintendo.com:49152
+https://ptdairwatch.noa.nintendo.com:80
 https://ptdupload1.nintendo.com
 https://ptdupload2.nintendo.com
 https://publisher.nintendo.com
@@ -932,6 +925,7 @@ https://store-jp.nintendo.com
 https://store.nintendo.com
 https://storemedia.nintendo.com
 https://stretchmo.nintendo.com
+https://studio.mii.nintendo.com
 https://stylesavvy.nintendo.com
 https://stylesavvy2.nintendo.com
 https://supermario3dland.nintendo.com

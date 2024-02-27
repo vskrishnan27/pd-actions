@@ -121,10 +121,6 @@ cohort-service.crypto.coinbase.com:443
 cohort-service.crypto.coinbase.com:80
 cohort-service.crypto.coinbase.com:8080
 cohort-service.crypto.coinbase.com:8443
-coinbase.com:443
-coinbase.com:80
-coinbase.com:8080
-coinbase.com:8443
 comm.coinbase.com:443
 comm.coinbase.com:80
 comm.coinbase.com:8080

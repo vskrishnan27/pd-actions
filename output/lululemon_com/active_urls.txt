@@ -29,6 +29,7 @@ http://cloudflare-sandbox.lululemon.com:8080
 http://corporate.lululemon.com
 http://creator.lululemon.com
 http://delivery.lululemon.com
+http://dev.pos-api.lululemon.com
 http://dev.preprod-apis.lululemon.com
 http://developers-dev.lululemon.com
 http://developers.lululemon.com
@@ -49,6 +50,7 @@ http://fr-test-shop.lululemon.com
 http://fr.lululemon.com
 http://fr.preview.lululemon.com
 http://fr.qa2.info.lululemon.com
+http://fr.shop.lululemon.com
 http://fr.stage.lululemon.com
 http://fr.stage10.lululemon.com
 http://fr.sustainability.lululemon.com
@@ -556,17 +558,16 @@ http://qa2-info.eu.lululemon.com
 http://qa2-info.lululemon.com
 http://qa2-pnimages.lululemon.com
 http://qa2.info.eu.lululemon.com
-http://qa2.info.lululemon.com
+http://qa20.preprod.lululemon.com
 http://qa21.preprod.lululemon.com
 http://qa22.preprod.lululemon.com
 http://qa23.preprod.lululemon.com
 http://qa24.preprod.lululemon.com
-http://qa26.preprod.lululemon.com
-http://qa27.preprod.lululemon.com
 http://qa28.preprod.lululemon.com
+http://qa30.preprod.lululemon.com
 http://qa31.preprod.lululemon.com
-http://qa32.preprod.lululemon.com
 http://qa32.preprod.preprod.lululemon.com
+http://qa33.preprod.lululemon.com
 http://report.creators.lululemon.com
 http://sandbox-dev.preprod-apis.lululemon.com
 http://sandbox.preprod-apis.lululemon.com
@@ -594,6 +595,7 @@ http://stage.info.lululemon.com
 http://stage.lululemon.com
 http://stage.pos-api.lululemon.com
 http://stage62-info.eu.lululemon.com
+http://stage62-info.lululemon.com
 http://stage62-pnimages.lululemon.com
 http://stageb.preprod.lululemon.com
 http://static.eu.lululemon.com
@@ -604,6 +606,7 @@ http://strategicsales.lululemon.com
 http://summary.creators.lululemon.com
 http://sustainability.eu.lululemon.com
 http://sustainability.lululemon.com
+http://svcs.lululemon.com
 http://test-shop.lululemon.com
 http://test.preprod-apis.lululemon.com
 http://thesweatlife.lululemon.com
@@ -622,6 +625,7 @@ https://apps-youlu.lululemon.com
 https://apps.youlu.lululemon.com
 https://blog.lululemon.com
 https://branch.lululemon.com
+https://careers.lululemon.com
 https://cdn-contentful.lululemon.com
 https://cdn.lululemon.com
 https://cdp.lululemon.com
@@ -676,7 +680,6 @@ https://image.info.lululemon.com
 https://images.eu.lululemon.com
 https://images.info.lululemon.com
 https://images.lululemon.com
-https://info.lululemon.com
 https://instoreideas.lululemon.com
 https://internal-alpha.lululemon.com
 https://internal-beta.lululemon.com
@@ -1171,17 +1174,16 @@ https://qa2-info.eu.lululemon.com
 https://qa2-info.lululemon.com
 https://qa2-pnimages.lululemon.com
 https://qa2.info.eu.lululemon.com
-https://qa2.info.lululemon.com
+https://qa20.preprod.lululemon.com
 https://qa21.preprod.lululemon.com
 https://qa22.preprod.lululemon.com
 https://qa23.preprod.lululemon.com
 https://qa24.preprod.lululemon.com
-https://qa26.preprod.lululemon.com
-https://qa27.preprod.lululemon.com
 https://qa28.preprod.lululemon.com
+https://qa30.preprod.lululemon.com
 https://qa31.preprod.lululemon.com
-https://qa32.preprod.lululemon.com
 https://qa32.preprod.preprod.lululemon.com
+https://qa33.preprod.lululemon.com
 https://remote.lululemon.com
 https://report.creators.lululemon.com
 https://sandbox-dev.preprod-apis.lululemon.com
@@ -1209,6 +1211,7 @@ https://stage.info.lululemon.com
 https://stage.lululemon.com
 https://stage.pos-api.lululemon.com
 https://stage62-info.eu.lululemon.com
+https://stage62-info.lululemon.com
 https://stage62-pnimages.lululemon.com
 https://stageb.preprod.lululemon.com
 https://static.eu.lululemon.com
@@ -1220,6 +1223,7 @@ https://strategicsales.lululemon.com
 https://summary.creators.lululemon.com
 https://sustainability.eu.lululemon.com
 https://sustainability.lululemon.com
+https://svcs.lululemon.com
 https://test-shop.lululemon.com
 https://test.preprod-apis.lululemon.com
 https://thesweatlife.lululemon.com

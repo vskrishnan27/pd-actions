@@ -6,7 +6,8 @@ http://any1.hostinger.com
 http://any1.hostinger.com:8080
 http://any2.hostinger.com
 http://any2.hostinger.com:8080
-http://api.hostinger.com:8443
+http://api.hostinger.com
+http://api.hostinger.com:8080
 http://apstiprina.hostinger.com
 http://assets.hostinger.com
 http://assets.hostinger.com:8443
@@ -29,11 +30,10 @@ http://cdn.hostinger.com:8443
 http://confirmar.hostinger.com
 http://connect.hostinger.com
 http://convalida.hostinger.com
-http://cpanel.hostinger.com:443
-http://cpanel.hostinger.com:8443
+http://cpanel.hostinger.com
+http://cpanel.hostinger.com:8080
 http://d.account.hostinger.com
 http://d.account.hostinger.com:8080
-http://d.account.hostinger.com:8443
 http://d.email.hostinger.com
 http://d.email.hostinger.com:8080
 http://d.email.hostinger.com:8443
@@ -141,6 +141,7 @@ https://any1.hostinger.com:8443
 https://any2.hostinger.com
 https://any2.hostinger.com:8443
 https://api.hostinger.com
+https://api.hostinger.com:8443
 https://apstiprina.hostinger.com
 https://assets.hostinger.com
 https://autenticacion.hostinger.com
@@ -157,7 +158,10 @@ https://cdn.hostinger.com
 https://confirmar.hostinger.com
 https://connect.hostinger.com
 https://convalida.hostinger.com
+https://cpanel.hostinger.com
+https://cpanel.hostinger.com:8443
 https://d.account.hostinger.com
+https://d.account.hostinger.com:8443
 https://d.email.hostinger.com
 https://design.hostinger.com
 https://dogrula.hostinger.com

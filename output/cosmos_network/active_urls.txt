@@ -86,6 +86,9 @@ http://apiredirector.bigbang.cosmos.network
 http://apiredirector.bigbang.cosmos.network:443
 http://apiredirector.bigbang.cosmos.network:8080
 http://apiredirector.bigbang.cosmos.network:8443
+http://atlas.cosmos.network
+http://atlas.cosmos.network:8080
+http://atlas.cosmos.network:8443
 http://atlas.demo.cosmos.network
 http://atlas.demo.cosmos.network:443
 http://atlas.demo.cosmos.network:8080
@@ -96,6 +99,9 @@ http://backend.cosmos.network:8443
 http://beta.cosmos.network
 http://beta.cosmos.network:8080
 http://beta.cosmos.network:8443
+http://bigbang.cosmos.network
+http://bigbang.cosmos.network:8080
+http://bigbang.cosmos.network:8443
 http://billingapi.bigbang.cosmos.network
 http://billingapi.bigbang.cosmos.network:443
 http://billingapi.bigbang.cosmos.network:8080
@@ -144,6 +150,7 @@ http://contribute.cosmos.network:8443
 http://conversations.cosmos.network
 http://cors.cosmos.network
 http://cors.cosmos.network:8080
+http://cors.cosmos.network:8443
 http://dev.rest.bigbang.cosmos.network
 http://dev.rest.bigbang.cosmos.network:443
 http://dev.rest.bigbang.cosmos.network:8080
@@ -203,7 +210,6 @@ http://go.cosmos.network:8443
 http://goz.cosmos.network
 http://grpc.cosmos.network
 http://grpc.cosmos.network:8080
-http://grpc.cosmos.network:8443
 http://grpc.testnet.cosmos.network
 http://grpc.testnet.cosmos.network:443
 http://grpc.testnet.cosmos.network:8080
@@ -219,6 +225,9 @@ http://int-rest.bigbang.cosmos.network:8080
 http://int-rest.bigbang.cosmos.network:8443
 http://interchainacademy.cosmos.network
 http://interchainacademy.cosmos.network:8080
+http://irisnet.cosmos.network
+http://irisnet.cosmos.network:8080
+http://irisnet.cosmos.network:8443
 http://jobs.cosmos.network
 http://jobs.cosmos.network:8080
 http://jobs.cosmos.network:8443
@@ -315,6 +324,10 @@ http://rpc.irisnet.cosmos.network
 http://rpc.irisnet.cosmos.network:443
 http://rpc.irisnet.cosmos.network:8080
 http://rpc.irisnet.cosmos.network:8443
+http://rpc.testnet.cosmos.network
+http://rpc.testnet.cosmos.network:443
+http://rpc.testnet.cosmos.network:8080
+http://rpc.testnet.cosmos.network:8443
 http://s3-rest.bigbang.cosmos.network
 http://s3-rest.bigbang.cosmos.network:443
 http://s3-rest.bigbang.cosmos.network:8080
@@ -330,6 +343,9 @@ http://securerest.bigbang.cosmos.network:8443
 http://shop.cosmos.network
 http://shop.cosmos.network:8080
 http://signups.cosmos.network
+http://simulations.cosmos.network
+http://simulations.cosmos.network:8080
+http://simulations.cosmos.network:8443
 http://slack.cosmos.network
 http://slack.cosmos.network:8080
 http://slack.cosmos.network:8443
@@ -357,6 +373,7 @@ http://turkey-rest.bigbang.cosmos.network:8080
 http://turkey-rest.bigbang.cosmos.network:8443
 http://tutorials.cosmos.network
 http://v1.cosmos.network
+http://v1.cosmos.network:8080
 http://www.api.atlas.cosmos.network
 http://www.api.atlas.cosmos.network:443
 http://www.api.atlas.cosmos.network:8080
@@ -368,8 +385,10 @@ https://academy.cosmos.network
 https://academy.cosmos.network:8443
 https://api.cosmos.network
 https://api.cosmos.network:8443
+https://atlas.cosmos.network
 https://backend.cosmos.network
 https://beta.cosmos.network
+https://bigbang.cosmos.network
 https://blog-feed.cosmos.network
 https://blog.cosmos.network
 https://blogrss.cosmos.network
@@ -381,7 +400,6 @@ https://cli-testnet-us.cosmos.network
 https://contribute.cosmos.network
 https://conversations.cosmos.network
 https://cors.cosmos.network
-https://cors.cosmos.network:8443
 https://developers.cosmos.network
 https://developers.cosmos.network:8443
 https://docs.cosmos.network
@@ -396,11 +414,13 @@ https://fundraiser.cosmos.network
 https://go.cosmos.network
 https://goz.cosmos.network
 https://grpc.cosmos.network
+https://grpc.cosmos.network:8443
 https://hackatom-berlin.cosmos.network
 https://hub.cosmos.network
 https://ibc.cosmos.network
 https://interchainacademy.cosmos.network
 https://interchainacademy.cosmos.network:8443
+https://irisnet.cosmos.network
 https://jobs.cosmos.network
 https://lunie.cosmos.network
 https://ml.cosmos.network
@@ -414,6 +434,7 @@ https://rpc.cosmos.network
 https://shop.cosmos.network
 https://shop.cosmos.network:8443
 https://signups.cosmos.network
+https://simulations.cosmos.network
 https://slack.cosmos.network
 https://stargate.cosmos.network
 https://store.cosmos.network
@@ -421,4 +442,5 @@ https://testnet.cosmos.network
 https://torus.cosmos.network
 https://tutorials.cosmos.network
 https://v1.cosmos.network
+https://v1.cosmos.network:8443
 https://www.cosmos.network

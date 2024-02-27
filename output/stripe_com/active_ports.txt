@@ -24,6 +24,7 @@ blik-hooks.stripe.com:443
 blik-hooks.stripe.com:80
 blog.stripe.com:443
 blog.stripe.com:80
+bom.corp.stripe.com:443
 book.stripe.com:443
 book.stripe.com:80
 bounce.e.stripe.com:25
@@ -186,8 +187,6 @@ issuing-hooks-public.stripe.com:443
 issuing-key.stripe.com:443
 issuing-key.stripe.com:80
 jira.corp.stripe.com:443
-js.stripe.com:443
-js.stripe.com:80
 jss.prod.corp.stripe.com:443
 jss.qa.corp.stripe.com:443
 lists.stripe.com:443
@@ -214,7 +213,6 @@ pay.stripe.com:443
 pay.stripe.com:80
 payments.stripe.com:443
 payments.stripe.com:80
-pdx.corp.stripe.com:443
 pm-hooks.stripe.com:443
 pm-hooks.stripe.com:80
 pm-redirects.stripe.com:443
@@ -242,8 +240,6 @@ prod-webhooks-flow.stripe.com:443
 prod-webhooks-flow.stripe.com:80
 products.stripe.com:443
 products.stripe.com:80
-public.stripe.com:443
-public.stripe.com:80
 q.stripe.com:443
 q.stripe.com:80
 qa-api-global-bluegreen.stripe.com:443
@@ -300,8 +296,6 @@ support-conversations.stripe.com:443
 support-conversations.stripe.com:80
 support.stripe.com:443
 support.stripe.com:80
-t.stripe.com:443
-t.stripe.com:80
 terminal-simulator.stripe.com:443
 terminal-simulator.stripe.com:80
 terminal.stripe.com:443

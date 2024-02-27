@@ -11,6 +11,7 @@ http://barclays-hooks.stripe.com
 http://billing.stripe.com
 http://blik-hooks.stripe.com
 http://blog.stripe.com
+http://bom.corp.stripe.com:443
 http://book.stripe.com
 http://button.stripe.com
 http://buy.stripe.com
@@ -71,6 +72,7 @@ http://files-global-fdub2.stripe.com
 http://files-global-fnrt2.stripe.com
 http://files-global-fsin2.stripe.com
 http://files-global-tree.stripe.com
+http://files.stripe.com
 http://frontend-global-bluegreen-dub.stripe.com
 http://frontend-global-bluegreen-syd.stripe.com
 http://frontend-global-fiad2.stripe.com
@@ -94,7 +96,6 @@ http://ip-54-187-119-242.stripe.com
 http://ip-54-187-159-182.stripe.com
 http://issuing-key.stripe.com
 http://jira.corp.stripe.com:443
-http://js.stripe.com
 http://jss.prod.corp.stripe.com:443
 http://lists.stripe.com
 http://local.corp.stripe.com:443
@@ -110,7 +111,6 @@ http://npm-registry.local.corp.stripe.com:443
 http://ops-docs.corp.stripe.com:443
 http://pay.stripe.com
 http://payments.stripe.com
-http://pdx.corp.stripe.com:443
 http://pm-hooks.stripe.com
 http://pm-redirects.stripe.com
 http://ppm.stripe.com
@@ -126,7 +126,6 @@ http://prod-frontend-flow.stripe.com
 http://prod-js-tree.stripe.com
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
-http://public.stripe.com
 http://q.stripe.com
 http://qa-api-global-bluegreen.stripe.com
 http://qa-api.stripe.com
@@ -158,7 +157,6 @@ http://stripe-cli.stripe.com
 http://stripecli-ws-nw.stripe.com
 http://support-conversations.stripe.com
 http://support.stripe.com
-http://t.stripe.com
 http://terminal-simulator.stripe.com
 http://terminal.stripe.com
 http://uploads.stripe.com
@@ -258,7 +256,6 @@ https://ip-54-187-159-182.stripe.com
 https://ipaddr-3ds.stripe.com
 https://issuing-hooks-public.stripe.com
 https://issuing-key.stripe.com
-https://js.stripe.com
 https://jss.qa.corp.stripe.com
 https://lists.stripe.com
 https://lokalise-hooks.stripe.com
@@ -282,7 +279,6 @@ https://prod-frontend-flow.stripe.com
 https://prod-js-tree.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
-https://public.stripe.com
 https://q.stripe.com
 https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com
@@ -306,7 +302,6 @@ https://stripe-cli.stripe.com
 https://stripecli-ws-nw.stripe.com
 https://support-conversations.stripe.com
 https://support.stripe.com
-https://t.stripe.com
 https://terminal-simulator.stripe.com
 https://terminal.stripe.com
 https://uploads.stripe.com

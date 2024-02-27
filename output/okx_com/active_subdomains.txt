@@ -15,7 +15,6 @@ okx.com
 static.okx.com
 tr.okx.com
 us.okx.com
-ustemp.okx.com
 wallet.okx.com
 ws.okx.com
 wsaws.okx.com

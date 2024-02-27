@@ -24,7 +24,6 @@ blik-hooks.stripe.com:443
 blik-hooks.stripe.com:80
 blog.stripe.com:443
 blog.stripe.com:80
-bom.corp.stripe.com:443
 book.stripe.com:443
 book.stripe.com:80
 bounce.e.stripe.com:25
@@ -158,6 +157,7 @@ gator.stripe.com:443
 gator.stripe.com:80
 gems.stripe.com:443
 gems.stripe.com:80
+git.corp.stripe.com:443
 global.stripe.com:443
 global.stripe.com:80
 groups.stripe.com:443
@@ -210,6 +210,8 @@ northwest.corp.stripe.com:443
 not-a-git.corp.stripe.com:443
 npm-registry.local.corp.stripe.com:443
 ops-docs.corp.stripe.com:443
+pay.stripe.com:443
+pay.stripe.com:80
 payments.stripe.com:443
 payments.stripe.com:80
 pdx.corp.stripe.com:443
@@ -240,6 +242,8 @@ prod-webhooks-flow.stripe.com:443
 prod-webhooks-flow.stripe.com:80
 products.stripe.com:443
 products.stripe.com:80
+public.stripe.com:443
+public.stripe.com:80
 q.stripe.com:443
 q.stripe.com:80
 qa-api-global-bluegreen.stripe.com:443
@@ -268,6 +272,8 @@ qa-support-conversations.stripe.com:80
 qa.corp.stripe.com:443
 qr.stripe.com:443
 qr.stripe.com:80
+r.stripe.com:443
+r.stripe.com:80
 sales-live-chat.stripe.com:443
 sales-live-chat.stripe.com:80
 sessions.stripe.com:443
@@ -294,6 +300,8 @@ support-conversations.stripe.com:443
 support-conversations.stripe.com:80
 support.stripe.com:443
 support.stripe.com:80
+t.stripe.com:443
+t.stripe.com:80
 terminal-simulator.stripe.com:443
 terminal-simulator.stripe.com:80
 terminal.stripe.com:443

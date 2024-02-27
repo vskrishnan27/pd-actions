@@ -2,6 +2,10 @@ blog.exodus.com:443
 blog.exodus.com:80
 blog.exodus.com:8080
 blog.exodus.com:8443
+crypto-pill-playground-d.exodus.com:443
+crypto-pill-playground-d.exodus.com:80
+crypto-pill-playground-d.exodus.com:8080
+crypto-pill-playground-d.exodus.com:8443
 crypto-pill-playground.exodus.com:443
 crypto-pill-playground.exodus.com:80
 crypto-pill-playground.exodus.com:8080
@@ -10,6 +14,10 @@ downloads.exodus.com:443
 downloads.exodus.com:80
 downloads.exodus.com:8080
 downloads.exodus.com:8443
+exodus.com:443
+exodus.com:80
+exodus.com:8080
+exodus.com:8443
 exokit.ot.exodus.com:443
 exokit.ot.exodus.com:80
 exokit.ot.exodus.com:8080

@@ -1,4 +1,5 @@
 blog.exodus.com
+crypto-pill-playground-d.exodus.com
 crypto-pill-playground.exodus.com
 downloads.exodus.com
 exodus.com

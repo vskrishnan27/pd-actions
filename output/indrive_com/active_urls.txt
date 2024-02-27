@@ -6,6 +6,7 @@ http://classified.indrive.com
 http://compliance.indrive.com
 http://couriers.indrive.com
 http://cr.indrive.com
+http://delivery.indrive.com
 http://dxy.indrive.com
 http://empleo.indrive.com
 http://food.indrive.com
@@ -26,6 +27,7 @@ http://lp-food.indrive.com
 http://lp-services.indrive.com
 http://media.indrive.com
 http://money.indrive.com
+http://promo.indrive.com
 http://promotion.indrive.com
 http://rabota.indrive.com
 http://rd.indrive.com
@@ -33,13 +35,11 @@ http://ref.indrive.com
 http://rideshare.indrive.com
 http://s.indrive.com
 http://services.indrive.com
-http://servicos.indrive.com
 http://sgtm.indrive.com
 http://share.indrive.com
 http://sharetrip.indrive.com
 http://sparklab.indrive.com
 http://supernovas.indrive.com
-http://updrive.indrive.com
 http://url-checker.indrive.com
 http://us.indrive.com
 http://ventures.indrive.com
@@ -54,7 +54,6 @@ http://www.sparklab.indrive.com
 http://www.supernovas.indrive.com
 http://www.updrive.indrive.com
 http://www.yourpace.indrive.com
-http://yourpace.indrive.com
 https://beginit.indrive.com
 https://book.indrive.com
 https://careers.indrive.com
@@ -63,6 +62,7 @@ https://classified.indrive.com
 https://compliance.indrive.com
 https://couriers.indrive.com
 https://cr.indrive.com
+https://delivery.indrive.com
 https://dxy.indrive.com
 https://empleo.indrive.com
 https://food.indrive.com
@@ -83,8 +83,10 @@ https://lp-food.indrive.com
 https://lp-services.indrive.com
 https://media.indrive.com
 https://money.indrive.com
+https://promo.indrive.com
 https://promotion.indrive.com
 https://rabota.indrive.com
+https://rd.indrive.com
 https://ref.indrive.com
 https://rideshare.indrive.com
 https://s.indrive.com
@@ -95,7 +97,6 @@ https://share.indrive.com
 https://sharetrip.indrive.com
 https://sparklab.indrive.com
 https://supernovas.indrive.com
-https://updrive.indrive.com
 https://url-checker.indrive.com
 https://us.indrive.com
 https://ventures.indrive.com
@@ -110,4 +111,3 @@ https://www.sparklab.indrive.com
 https://www.supernovas.indrive.com
 https://www.updrive.indrive.com
 https://www.yourpace.indrive.com
-https://yourpace.indrive.com

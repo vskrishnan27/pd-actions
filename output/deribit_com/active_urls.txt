@@ -30,7 +30,6 @@ http://his.deribit.com
 http://history.deribit.com
 http://insights.deribit.com
 http://insights.deribit.com:8080
-http://insights.deribit.com:8443
 http://legacy.deribit.com
 http://metrics.deribit.com
 http://new.deribit.com
@@ -76,6 +75,7 @@ https://gateway.deribit.com
 https://his.deribit.com
 https://history.deribit.com
 https://insights.deribit.com
+https://insights.deribit.com:8443
 https://legacy.deribit.com
 https://metrics.deribit.com
 https://new.deribit.com

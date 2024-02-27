@@ -150,7 +150,6 @@ http://support.trustpilot.com:8080
 http://support.trustpilot.com:8443
 http://tech.trustpilot.com
 http://trustnet.trustpilot.com
-http://trustpilot.com
 http://uk.business.trustpilot.com
 http://uk.legal.trustpilot.com
 http://uk.trustpilot.com
@@ -305,7 +304,6 @@ https://status.trustpilot.com
 https://support.trustpilot.com
 https://tech.trustpilot.com
 https://trustnet.trustpilot.com
-https://trustpilot.com
 https://uk.business.trustpilot.com
 https://uk.legal.trustpilot.com
 https://uk.trustpilot.com

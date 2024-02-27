@@ -25,7 +25,6 @@ bridge.api.cx.metamask.io
 bridge.dev-api.cx.metamask.io
 bridge.uat-api.cx.metamask.io
 community.metamask.io
-dev-permissionles.snaps.metamask.io
 dev-static.cx.metamask.io
 dev.data.snaps.metamask.io
 dev.execution.metamask.io
@@ -69,6 +68,7 @@ notification.dev-api.cx.metamask.io
 notification.uat-api.cx.metamask.io
 oidc-us-east-2.dev-api.cx.metamask.io
 oidc.dev-api.cx.metamask.io
+permissionless.snaps.metamask.io
 phishing-detection-us-east-2.api.cx.metamask.io
 phishing-detection-us-east-2.dev-api.cx.metamask.io
 phishing-detection-us-east-2.uat-api.cx.metamask.io
@@ -110,6 +110,7 @@ snaps.metamask.io
 stage.portfolio.metamask.io
 start.metamask.io
 static.cx.metamask.io
+static.dev.execution.metamask.io
 support.metamask.io
 swag.metamask.io
 tickets.metamask.io
@@ -138,7 +139,6 @@ user-storage-us-east-2.uat-api.cx.metamask.io
 user-storage.api.cx.metamask.io
 user-storage.dev-api.cx.metamask.io
 user-storage.uat-api.cx.metamask.io
-www.dev-static.cx.metamask.io
 www.dev.portfolio.metamask.io
 www.home.metamask.io
 www.metamask.io

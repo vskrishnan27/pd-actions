@@ -100,8 +100,6 @@ bridge.uat-api.cx.metamask.io:8080
 bridge.uat-api.cx.metamask.io:8443
 community.metamask.io:443
 community.metamask.io:80
-dev-permissionles.snaps.metamask.io:443
-dev-permissionles.snaps.metamask.io:80
 dev-static.cx.metamask.io:443
 dev-static.cx.metamask.io:80
 dev.data.snaps.metamask.io:443
@@ -244,6 +242,8 @@ oidc.dev-api.cx.metamask.io:443
 oidc.dev-api.cx.metamask.io:80
 oidc.dev-api.cx.metamask.io:8080
 oidc.dev-api.cx.metamask.io:8443
+permissionless.snaps.metamask.io:443
+permissionless.snaps.metamask.io:80
 phishing-detection-us-east-2.api.cx.metamask.io:443
 phishing-detection-us-east-2.api.cx.metamask.io:80
 phishing-detection-us-east-2.api.cx.metamask.io:8080
@@ -398,6 +398,8 @@ start.metamask.io:443
 start.metamask.io:80
 static.cx.metamask.io:443
 static.cx.metamask.io:80
+static.dev.execution.metamask.io:443
+static.dev.execution.metamask.io:80
 support.metamask.io:443
 support.metamask.io:80
 support.metamask.io:8080
@@ -506,8 +508,6 @@ user-storage.uat-api.cx.metamask.io:443
 user-storage.uat-api.cx.metamask.io:80
 user-storage.uat-api.cx.metamask.io:8080
 user-storage.uat-api.cx.metamask.io:8443
-www.dev-static.cx.metamask.io:443
-www.dev-static.cx.metamask.io:80
 www.dev.portfolio.metamask.io:443
 www.dev.portfolio.metamask.io:80
 www.home.metamask.io:443

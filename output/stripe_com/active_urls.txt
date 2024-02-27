@@ -45,13 +45,13 @@ http://edge-billing.stripe.com
 http://edge-book.stripe.com
 http://edge-buy.stripe.com
 http://edge-checkout-tree.stripe.com
-http://edge-checkout-tree.stripe.com:443
 http://edge-checkout.stripe.com
 http://edge-dashboard-admin.stripe.com
 http://edge-dashboard.stripe.com
 http://edge-donate.stripe.com
 http://edge-invoice.stripe.com
 http://edge-js-tree.stripe.com
+http://edge-js-tree.stripe.com:443
 http://edge-js.stripe.com
 http://edge-manage.stripe.com
 http://edge-pay.stripe.com
@@ -79,9 +79,7 @@ http://frontend-global-fiad2.stripe.com
 http://frontend-global-fsin1.stripe.com
 http://frontend-global-tree.stripe.com
 http://gateway.stripe.com
-http://gator.stripe.com
 http://gems.stripe.com
-http://git.corp.stripe.com:443
 http://global.stripe.com
 http://groups.stripe.com
 http://hooks.stripe.com
@@ -110,7 +108,6 @@ http://northwest.corp.stripe.com:443
 http://not-a-git.corp.stripe.com:443
 http://npm-registry.local.corp.stripe.com:443
 http://ops-docs.corp.stripe.com:443
-http://pay.stripe.com
 http://payments.stripe.com
 http://pdx.corp.stripe.com:443
 http://pm-hooks.stripe.com
@@ -129,7 +126,6 @@ http://prod-js-tree.stripe.com
 http://prod-js-tree.stripe.com:443
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
-http://public.stripe.com
 http://q.stripe.com
 http://qa-api-global-bluegreen.stripe.com
 http://qa-api.stripe.com
@@ -210,6 +206,7 @@ https://donate.stripe.com
 https://edge-billing.stripe.com
 https://edge-book.stripe.com
 https://edge-buy.stripe.com
+https://edge-checkout-tree.stripe.com
 https://edge-checkout.stripe.com
 https://edge-dashboard-admin.stripe.com
 https://edge-dashboard.stripe.com
@@ -268,7 +265,6 @@ https://manage.stripe.com
 https://marketplace.stripe.com
 https://media.stripe.com
 https://merchant-ui-api.stripe.com
-https://pay.stripe.com
 https://payments.stripe.com
 https://pm-hooks.stripe.com
 https://pm-redirects.stripe.com
@@ -281,7 +277,6 @@ https://prod-files-flow.stripe.com
 https://prod-frontend-flow.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
-https://public.stripe.com
 https://q.stripe.com
 https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com

@@ -37,6 +37,8 @@ inapps.indrive.com:443
 inapps.indrive.com:80
 inapps2.indrive.com:443
 inapps2.indrive.com:80
+indrive.com:443
+indrive.com:80
 injob.indrive.com:443
 injob.indrive.com:80
 intercity.indrive.com:443
@@ -47,6 +49,8 @@ internal.sandbox.delivery.indrive.com:443
 internal.sandbox.delivery.indrive.com:80
 landing.indrive.com:443
 landing.indrive.com:80
+lp-food.indrive.com:443
+lp-food.indrive.com:80
 lp-services.indrive.com:443
 lp-services.indrive.com:80
 media.indrive.com:443

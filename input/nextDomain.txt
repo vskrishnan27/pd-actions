@@ -1,4 +1,3 @@
-sorare.com
 krisp.ai
 aol.com
 tesla.com
@@ -77,3 +76,4 @@ test.deribit.com
 deribit.com
 coinbase.com
 base.org
+sorare.com

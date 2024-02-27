@@ -1,5 +1,8 @@
 http://account.krisp.ai
 http://account.krisp.ai:8080
+http://analytics.krisp.ai
+http://analytics.krisp.ai:8080
+http://analytics.krisp.ai:8443
 http://api.krisp.ai
 http://api.krisp.ai:8080
 http://api.krisp.ai:8443
@@ -99,6 +102,9 @@ http://teams.krisp.ai:8080
 http://teams.krisp.ai:8443
 http://ui.krisp.ai
 http://ui.krisp.ai:8080
+http://upld.krisp.ai
+http://upld.krisp.ai:8080
+http://upld.krisp.ai:8443
 http://upload.krisp.ai
 http://url5145.krisp.ai
 http://url5145.krisp.ai:8080
@@ -114,6 +120,7 @@ http://www.krisp.ai:8080
 http://www.krisp.ai:8443
 https://account.krisp.ai
 https://account.krisp.ai:8443
+https://analytics.krisp.ai
 https://api.krisp.ai
 https://api.prelive.krisp.ai
 https://app.krisp.ai
@@ -180,6 +187,7 @@ https://syn-bt2ywgclz3.api.krisp.ai
 https://teams.krisp.ai
 https://ui.krisp.ai
 https://ui.krisp.ai:8443
+https://upld.krisp.ai
 https://upload.krisp.ai
 https://url5145.krisp.ai
 https://voice-ai-newsletter.krisp.ai

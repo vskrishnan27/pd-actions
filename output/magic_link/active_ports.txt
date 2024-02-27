@@ -36,14 +36,6 @@ auth-sx-bet.partner-auth.magic.link:443
 auth-sx-bet.partner-auth.magic.link:80
 auth-sx-bet.partner-auth.magic.link:8080
 auth-sx-bet.partner-auth.magic.link:8443
-auth.dev.magic.link:443
-auth.dev.magic.link:80
-auth.dev.magic.link:8080
-auth.dev.magic.link:8443
-auth.stagef.magic.link:443
-auth.stagef.magic.link:80
-auth.stagef.magic.link:8080
-auth.stagef.magic.link:8443
 box.magic.link:443
 box.magic.link:80
 community.magic.link:443

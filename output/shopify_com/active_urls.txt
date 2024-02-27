@@ -69,6 +69,8 @@ http://ambiclimate.shopify.com
 http://ambiclimate.shopify.com:8080
 http://analytics.shopify.com
 http://analytics.shopify.com:8080
+http://api.collabs.shopify.com
+http://api.collabs.shopify.com:8080
 http://api.shopify.com
 http://api.shopify.com:8080
 http://apm.shopify.com
@@ -154,8 +156,6 @@ http://changelog.shopify.com
 http://changelog.shopify.com:8080
 http://chat.shopify.com
 http://chat.shopify.com:8080
-http://checkout.hardware.shopify.com
-http://checkout.hardware.shopify.com:8080
 http://checkout.shopify.com
 http://checkout.shopify.com:8080
 http://chi.shopify.com
@@ -166,6 +166,8 @@ http://classic-help-staging.shopify.com
 http://classic-help.shopify.com
 http://classifieds.shopify.com
 http://classifieds.shopify.com:8080
+http://click.email.shopify.com
+http://click.email.shopify.com:8080
 http://cms.everest.shopify.com
 http://cms.everest.shopify.com:8080
 http://cms.shopify.com
@@ -214,6 +216,8 @@ http://courier.shopify.com
 http://courier.shopify.com:8080
 http://crafted.shopify.com
 http://crafted.shopify.com:8080
+http://cs.shopify.com
+http://cs.shopify.com:8080
 http://cs.staging.shopify.com
 http://cs.staging.shopify.com:8080
 http://cselb.cs.shopify.com
@@ -388,6 +392,8 @@ http://ihatewhatever.shopify.com
 http://ihatewhatever.shopify.com:8080
 http://image.email.shopify.com
 http://image.email.shopify.com:8080
+http://in.shopify.com
+http://in.shopify.com:8080
 http://inbox.shopify.com
 http://inbox.shopify.com:8080
 http://incoming.shopify.com
@@ -440,6 +446,8 @@ http://kiersten.shopify.com
 http://kiersten.shopify.com:8080
 http://l.ssl.shopify.com
 http://l.ssl.shopify.com:8080
+http://launch.shopify.com
+http://launch.shopify.com:8080
 http://launchpad.shopify.com
 http://launchpad.shopify.com:8080
 http://lbperf1.ash.shopify.com
@@ -459,6 +467,8 @@ http://locality.shopify.com
 http://locality.shopify.com:8080
 http://localsession.shopify.com
 http://localsession.shopify.com:8080
+http://log1.ash.shopify.com
+http://log1.ash.shopify.com:8080
 http://login.community-stage.shopify.com
 http://login.community-stage.shopify.com:8080
 http://login.community.shopify.com
@@ -511,8 +521,6 @@ http://milestones.shopify.com
 http://milestones.shopify.com:8080
 http://mobile.shopify.com
 http://mobile.shopify.com:8080
-http://mta.email.shopify.com
-http://mta.email.shopify.com:8080
 http://mta2.email.shopify.com
 http://mta2.email.shopify.com:8080
 http://mta3.email.shopify.com
@@ -997,6 +1005,8 @@ https://ambiclimate.shopify.com
 https://ambiclimate.shopify.com:8443
 https://analytics.shopify.com
 https://analytics.shopify.com:8443
+https://api.collabs.shopify.com
+https://api.collabs.shopify.com:8443
 https://api.shopify.com
 https://api.shopify.com:8443
 https://apm.shopify.com
@@ -1080,8 +1090,6 @@ https://changelog.shopify.com
 https://changelog.shopify.com:8443
 https://chat.shopify.com
 https://chat.shopify.com:8443
-https://checkout.hardware.shopify.com
-https://checkout.hardware.shopify.com:8443
 https://checkout.shopify.com
 https://checkout.shopify.com:8443
 https://chi.shopify.com
@@ -1092,6 +1100,8 @@ https://classic-help-staging.shopify.com
 https://classic-help.shopify.com
 https://classifieds.shopify.com
 https://classifieds.shopify.com:8443
+https://click.email.shopify.com
+https://click.email.shopify.com:8443
 https://cms.everest.shopify.com
 https://cms.everest.shopify.com:8443
 https://cms.shopify.com
@@ -1140,6 +1150,8 @@ https://courier.shopify.com
 https://courier.shopify.com:8443
 https://crafted.shopify.com
 https://crafted.shopify.com:8443
+https://cs.shopify.com
+https://cs.shopify.com:8443
 https://cs.staging.shopify.com
 https://cs.staging.shopify.com:8443
 https://cselb.cs.shopify.com
@@ -1317,6 +1329,8 @@ https://ihatewhatever.shopify.com
 https://ihatewhatever.shopify.com:8443
 https://image.email.shopify.com
 https://image.email.shopify.com:8443
+https://in.shopify.com
+https://in.shopify.com:8443
 https://inbox.shopify.com
 https://inbox.shopify.com:8443
 https://incoming.shopify.com
@@ -1369,6 +1383,8 @@ https://kiersten.shopify.com
 https://kiersten.shopify.com:8443
 https://l.ssl.shopify.com
 https://l.ssl.shopify.com:8443
+https://launch.shopify.com
+https://launch.shopify.com:8443
 https://launchpad.shopify.com
 https://launchpad.shopify.com:8443
 https://lbperf1.ash.shopify.com
@@ -1388,6 +1404,8 @@ https://locality.shopify.com
 https://locality.shopify.com:8443
 https://localsession.shopify.com
 https://localsession.shopify.com:8443
+https://log1.ash.shopify.com
+https://log1.ash.shopify.com:8443
 https://login.community-stage.shopify.com
 https://login.community-stage.shopify.com:8443
 https://login.community.shopify.com
@@ -1440,8 +1458,6 @@ https://milestones.shopify.com
 https://milestones.shopify.com:8443
 https://mobile.shopify.com
 https://mobile.shopify.com:8443
-https://mta.email.shopify.com
-https://mta.email.shopify.com:8443
 https://mta2.email.shopify.com
 https://mta2.email.shopify.com:8443
 https://mta3.email.shopify.com

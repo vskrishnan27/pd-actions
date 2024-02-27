@@ -333,6 +333,7 @@ http://dast-4456656-dast-default.design-staging.gitlab.com
 http://design.gitlab.com
 http://developer.gitlab.com
 http://doc.gitlab.com
+http://docs.gitlab.com
 http://ee.gitlab.com
 http://ee.gitlab.com:8080
 http://email.customers.gitlab.com
@@ -347,7 +348,6 @@ http://federal-support.gitlab.com:8443
 http://feedback.gitlab.com
 http://feedback.gitlab.com:8080
 http://forum.gitlab.com
-http://geo.staging-ref.gitlab.com
 http://gitlab-org-gitlab-services-design-gitlab-com.design.gitlab.com
 http://gitlab.com
 http://glchat.prototype.gitlab.com
@@ -388,7 +388,6 @@ http://page.gitlab.com:8443
 http://partnerflash.gitlab.com
 http://partners.gitlab.com
 http://pre.gitlab.com
-http://registry.geo.staging-ref.gitlab.com
 http://registry.gitlab.com
 http://registry.pre.gitlab.com
 http://registry.staging-ref.gitlab.com
@@ -736,6 +735,7 @@ https://dast-4456656-dast-default.design-staging.gitlab.com
 https://design.gitlab.com
 https://developer.gitlab.com
 https://doc.gitlab.com
+https://docs.gitlab.com
 https://ee.gitlab.com
 https://ee.gitlab.com:8443
 https://email.customers.gitlab.com
@@ -745,7 +745,6 @@ https://federal-support.gitlab.com
 https://feedback.gitlab.com
 https://feedback.gitlab.com:8443
 https://forum.gitlab.com
-https://geo.staging-ref.gitlab.com
 https://gitlab-org-gitlab-services-design-gitlab-com.design.gitlab.com
 https://gitlab.com
 https://glchat.prototype.gitlab.com
@@ -758,6 +757,7 @@ https://handbook.gitlab.com
 https://hub.gitlab.com
 https://hub.gitlab.com:8443
 https://internal.gitlab.com
+https://ir.gitlab.com
 https://jitsu-configurator.product-analytics.prototype.gitlab.com
 https://jitsu-server.product-analytics.prototype.gitlab.com
 https://jobs.gitlab.com
@@ -782,7 +782,6 @@ https://page.gitlab.com
 https://partnerflash.gitlab.com
 https://partners.gitlab.com
 https://pre.gitlab.com
-https://registry.geo.staging-ref.gitlab.com
 https://registry.gitlab.com
 https://registry.pre.gitlab.com
 https://registry.staging-ref.gitlab.com

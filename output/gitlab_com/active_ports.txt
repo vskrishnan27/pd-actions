@@ -759,6 +759,8 @@ developer.gitlab.com:443
 developer.gitlab.com:80
 doc.gitlab.com:443
 doc.gitlab.com:80
+docs.gitlab.com:443
+docs.gitlab.com:80
 ee.gitlab.com:443
 ee.gitlab.com:80
 ee.gitlab.com:8080
@@ -783,9 +785,6 @@ feedback.gitlab.com:8080
 feedback.gitlab.com:8443
 forum.gitlab.com:443
 forum.gitlab.com:80
-geo.staging-ref.gitlab.com:22
-geo.staging-ref.gitlab.com:443
-geo.staging-ref.gitlab.com:80
 gitlab-org-gitlab-services-design-gitlab-com.design.gitlab.com:443
 gitlab-org-gitlab-services-design-gitlab-com.design.gitlab.com:80
 gitlab.com:10000
@@ -1269,9 +1268,6 @@ partners.gitlab.com:80
 pre.gitlab.com:22
 pre.gitlab.com:443
 pre.gitlab.com:80
-registry.geo.staging-ref.gitlab.com:22
-registry.geo.staging-ref.gitlab.com:443
-registry.geo.staging-ref.gitlab.com:80
 registry.gitlab.com:443
 registry.gitlab.com:80
 registry.pre.gitlab.com:443

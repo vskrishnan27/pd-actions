@@ -2,7 +2,6 @@ http://bridge.skale.network
 http://countdown.skale.network
 http://countdown.skale.network:8080
 http://delegations-helper.skale.network
-http://delegations-helper.skale.network:8443
 http://developers.skale.network
 http://developers.skale.network:8080
 http://docs.skale.network
@@ -25,6 +24,7 @@ https://bridge.skale.network
 https://countdown.skale.network
 https://countdown.skale.network:8443
 https://delegations-helper.skale.network
+https://delegations-helper.skale.network:8443
 https://deployer.skale.network
 https://developers.skale.network
 https://developers.skale.network:8443

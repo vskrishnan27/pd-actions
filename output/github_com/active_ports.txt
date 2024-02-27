@@ -16,6 +16,8 @@ andrew-ironforge.github.com:443
 andrew-ironforge.github.com:80
 androxyde.github.com:443
 androxyde.github.com:80
+api.gist.github.com:443
+api.gist.github.com:80
 api.github.com:443
 api.github.com:80
 api.security.github.com:443
@@ -418,7 +420,6 @@ osrg.github.com:443
 osrg.github.com:80
 osxfuse.github.com:443
 osxfuse.github.com:80
-out-17.smtp.github.com:25
 out-18.smtp.github.com:25
 out-19.smtp.github.com:25
 out-20.smtp.github.com:25
@@ -481,8 +482,6 @@ rodzen.github.com:443
 rodzen.github.com:80
 rosarior.github.com:443
 rosarior.github.com:80
-rs.github.com:443
-rs.github.com:80
 schrauger.github.com:443
 schrauger.github.com:80
 sebastianbergmann.github.com:443
@@ -549,10 +548,10 @@ www.github.com:443
 www.github.com:80
 www.graphql-stage.github.com:443
 www.graphql-stage.github.com:80
+www.graphql.github.com:443
+www.graphql.github.com:80
 www.jira.github.com:443
 www.jira.github.com:80
-www.maintainers.github.com:443
-www.maintainers.github.com:80
 www.networkx.github.com:443
 www.networkx.github.com:80
 www.partnerportal.github.com:443
@@ -563,6 +562,8 @@ www.skyline.github.com:443
 www.skyline.github.com:80
 www.smtp.github.com:443
 www.smtp.github.com:80
+www.support.enterprise.github.com:443
+www.support.enterprise.github.com:80
 www.visualstudio.github.com:443
 www.visualstudio.github.com:80
 xlcteam.github.com:443

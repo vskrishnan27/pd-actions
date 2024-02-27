@@ -18,8 +18,6 @@ http://ccip.chain.link:8443
 http://chain.link
 http://data.chain.link
 http://data.chain.link:8443
-http://dataengine.chain.link
-http://dataengine.chain.link:8080
 http://defi.chain.link
 http://defi.chain.link:8080
 http://dev.chain.link
@@ -51,6 +49,7 @@ http://jwh.chain.link
 http://keeper.chain.link
 http://keeper.chain.link:8443
 http://keepers-beta.chain.link
+http://keepers-beta.chain.link:8080
 http://keepers-beta.chain.link:8443
 http://keepers.chain.link
 http://keepers.chain.link:8443
@@ -68,6 +67,8 @@ http://mercury-arbitrum-testnet.stage.chain.link
 http://mercury-arbitrum-testnet.stage.chain.link:8443
 http://mercury-srv.chain.link
 http://mercury-srv.chain.link:8080
+http://on.chain.link
+http://on.chain.link:8080
 http://pages.chain.link
 http://pages.chain.link:8080
 http://pegswap.chain.link
@@ -114,8 +115,6 @@ https://careers.chain.link:8443
 https://ccip.chain.link
 https://chain.link
 https://data.chain.link
-https://dataengine.chain.link
-https://dataengine.chain.link:8443
 https://defi.chain.link
 https://defi.chain.link:8443
 https://dev.chain.link
@@ -145,6 +144,8 @@ https://mercury-arbitrum-testnet.chain.link
 https://mercury-arbitrum-testnet.stage.chain.link
 https://mercury-srv.chain.link
 https://mercury-srv.chain.link:8443
+https://on.chain.link
+https://on.chain.link:8443
 https://pages.chain.link
 https://pages.chain.link:8443
 https://pegswap.chain.link

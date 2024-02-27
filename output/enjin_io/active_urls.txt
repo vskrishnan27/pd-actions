@@ -8,6 +8,9 @@ http://blog.enjin.io:8080
 http://cdn.enjin.io
 http://cdn.enjin.io:8080
 http://cdn.enjin.io:8443
+http://cloud.enjin.io
+http://cloud.enjin.io:8080
+http://cloud.enjin.io:8443
 http://console.enjin.io
 http://console.enjin.io:8080
 http://console.enjin.io:8443
@@ -18,7 +21,6 @@ http://docs.enjin.io
 http://docs.enjin.io:8080
 http://enjin.io
 http://enjin.io:8080
-http://enjin.io:8443
 http://feedback.enjin.io
 http://feedback.enjin.io:8080
 http://jumpnet.cloud.enjin.io
@@ -55,6 +57,8 @@ http://platform.enjin.io:8080
 http://support.enjin.io
 http://support.enjin.io:8080
 http://support.enjin.io:8443
+http://wallet.enjin.io
+http://wallet.enjin.io:8080
 http://www.enjin.io
 https://assets.enjin.io
 https://auth.enjin.io
@@ -62,6 +66,7 @@ https://auth.enjin.io:8443
 https://blog.enjin.io
 https://blog.enjin.io:8443
 https://cdn.enjin.io
+https://cloud.enjin.io
 https://console.enjin.io
 https://csharp.docs.enjin.io
 https://deeplink.wallet.enjin.io
@@ -69,6 +74,7 @@ https://deeplink.wallet.enjin.io:8443
 https://docs.enjin.io
 https://docs.enjin.io:8443
 https://enjin.io
+https://enjin.io:8443
 https://feedback.enjin.io
 https://feedback.enjin.io:8443
 https://jumpnet.cloud.enjin.io
@@ -101,4 +107,6 @@ https://p2p.2.us.bootnode.relay.canary.enjin.io
 https://platform.enjin.io
 https://platform.enjin.io:8443
 https://support.enjin.io
+https://wallet.enjin.io
+https://wallet.enjin.io:8443
 https://www.enjin.io

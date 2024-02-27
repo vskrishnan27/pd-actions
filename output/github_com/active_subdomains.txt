@@ -306,6 +306,7 @@ web3395.github.com
 web3421.github.com
 web5622.github.com
 web6014.github.com
+workspaces-dev.github.com
 workspaces-ppe.github.com
 ws.support.github.com
 www.api.security.github.com
@@ -314,6 +315,7 @@ www.github.com
 www.graphql-stage.github.com
 www.graphql.github.com
 www.jira.github.com
+www.maintainers.github.com
 www.networkx.github.com
 www.partnerportal.github.com
 www.render-lab.github.com

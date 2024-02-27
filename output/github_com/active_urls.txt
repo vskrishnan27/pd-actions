@@ -211,6 +211,7 @@ http://robey.github.com
 http://rodrigofalvarez.github.com
 http://rodzen.github.com
 http://rosarior.github.com
+http://rs.github.com
 http://schrauger.github.com
 http://sebastianbergmann.github.com
 http://shop.github.com
@@ -237,13 +238,14 @@ http://web3395.github.com
 http://web3421.github.com
 http://web5622.github.com
 http://web6014.github.com
+http://workspaces-ppe.github.com
 http://ws.support.github.com
 http://www.api.security.github.com
 http://www.api.stars.github.com
 http://www.github.com
 http://www.graphql-stage.github.com
-http://www.graphql.github.com
 http://www.jira.github.com
+http://www.maintainers.github.com
 http://www.networkx.github.com
 http://www.partnerportal.github.com
 http://www.render-lab.github.com
@@ -474,6 +476,7 @@ https://robey.github.com
 https://rodrigofalvarez.github.com
 https://rodzen.github.com
 https://rosarior.github.com
+https://rs.github.com
 https://schrauger.github.com
 https://sebastianbergmann.github.com
 https://shop.github.com
@@ -499,13 +502,14 @@ https://web3395.github.com
 https://web3421.github.com
 https://web5622.github.com
 https://web6014.github.com
+https://workspaces-ppe.github.com
 https://ws.support.github.com
 https://www.api.security.github.com
 https://www.api.stars.github.com
 https://www.github.com
 https://www.graphql-stage.github.com
-https://www.graphql.github.com
 https://www.jira.github.com
+https://www.maintainers.github.com
 https://www.networkx.github.com
 https://www.partnerportal.github.com
 https://www.render-lab.github.com

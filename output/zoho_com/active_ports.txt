@@ -103,23 +103,19 @@ business.zoho.com:443
 business.zoho.com:80
 buycareprost.wiki.zoho.com:443
 calendar.zoho.com:443
-campaigns.zoho.com:443
 catalyst.zoho.com:443
 cdn.zoho.com:443
 chairsanufacture.wiki.zoho.com:443
 charr123r.wiki.zoho.com:443
 chase37craig.wiki.zoho.com:443
 chat.zoho.com:443
-chat.zoho.com:80
 checkout.zoho.com:443
 cheslock.wiki.zoho.com:443
 cliq.zoho.com:443
-cliq.zoho.com:80
 cloudsql.wiki.zoho.com:443
 club50001.wiki.zoho.com:443
 cm.zoho.com:443
 cm.zoho.com:80
-commerce.zoho.com:443
 commerceplus.zoho.com:443
 commerceplus.zoho.com:80
 community.zoho.com:443
@@ -147,9 +143,7 @@ customer-connect.zoho.com:80
 customer-creator.zoho.com:443
 customer-creator.zoho.com:80
 customer-expense.zoho.com:443
-customer-expense.zoho.com:80
 customer-invoice.zoho.com:443
-customer-invoice.zoho.com:80
 customer-mail.zoho.com:443
 customer-mail.zoho.com:80
 customer-recruit.zoho.com:443
@@ -161,7 +155,6 @@ customer-survey.zoho.com:80
 customer-wiki.zoho.com:443
 customer-wiki.zoho.com:80
 customer-wms.zoho.com:443
-customer-wms.zoho.com:80
 customer1-creator.zoho.com:443
 customer1-creator.zoho.com:80
 customer1-recruit.zoho.com:443
@@ -178,6 +171,7 @@ discussion.zoho.com:80
 discussions.zoho.com:443
 discussions.zoho.com:80
 docs.zoho.com:443
+docs.zoho.com:80
 docuseek2.wiki.zoho.com:443
 docuwind.wiki.zoho.com:443
 domain.zoho.com:443
@@ -323,7 +317,6 @@ opmanagerondemanduserguide.wiki.zoho.com:443
 oscillosofthelp.wiki.zoho.com:443
 packetpower.wiki.zoho.com:443
 pagesense-collect.zoho.com:443
-pagesense-collect.zoho.com:80
 pagesense.zoho.com:443
 palemonium.wiki.zoho.com:443
 partner-support.wiki.zoho.com:443
@@ -338,7 +331,6 @@ pmaginstockblogs.wiki.zoho.com:443
 pop.zoho.com:995
 poppro.zoho.com:995
 pre-external-h2.zoho.com:443
-pre-external-h2.zoho.com:80
 pre-external.zoho.com:443
 previewengine-accl.zoho.com:443
 previewengine.zoho.com:443
@@ -357,7 +349,6 @@ projects.zoho.com:443
 projectsapi.zoho.com:443
 promocionecam.wiki.zoho.com:443
 psicobolario.wiki.zoho.com:443
-pubsub.zoho.com:443
 purchasebestvideomonitor.wiki.zoho.com:443
 quux.wiki.zoho.com:443
 ra-krems.wiki.zoho.com:443
@@ -384,7 +375,6 @@ sirejeki.wiki.zoho.com:443
 site24x7.wiki.zoho.com:443
 site24x7.zoho.com:443
 site24x7.zoho.com:80
-sites.zoho.com:443
 smtp.zoho.com:465
 smtp.zoho.com:587
 smtpin.zoho.com:25
@@ -435,6 +425,7 @@ whatiszoho.wiki.zoho.com:443
 wiki.zoho.com:443
 wikioffshore.wiki.zoho.com:443
 wmelvin.wiki.zoho.com:443
+wms.zoho.com:443
 workdrive.zoho.com:443
 worlddreambuilder.wiki.zoho.com:443
 writer.zoho.com:443

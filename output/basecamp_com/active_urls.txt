@@ -20,7 +20,6 @@ http://chat.3.basecamp.com:8080
 http://chat.3.basecamp.com:8443
 http://clients.3.basecamp.com
 http://clients.3.basecamp.com:8080
-http://clients.3.basecamp.com:8443
 http://help.basecamp.com
 http://help.basecamp.com:8080
 http://marketing-staging.basecamp.com
@@ -31,6 +30,7 @@ http://preview.3.basecamp.com:8080
 http://preview.3.basecamp.com:8443
 http://progress.basecamp.com
 http://progress.basecamp.com:8080
+http://progress.basecamp.com:8443
 http://public.3.basecamp.com
 http://public.3.basecamp.com:8080
 http://public.3.basecamp.com:8443
@@ -72,12 +72,12 @@ https://beta2.3.basecamp.com
 https://brasil.basecamp.com
 https://chat.3.basecamp.com
 https://clients.3.basecamp.com
+https://clients.3.basecamp.com:8443
 https://help.basecamp.com
 https://help.basecamp.com:8443
 https://marketing-staging.basecamp.com
 https://preview.3.basecamp.com
 https://progress.basecamp.com
-https://progress.basecamp.com:8443
 https://public.3.basecamp.com
 https://public.basecamp.com
 https://rollout-assets.basecamp.com

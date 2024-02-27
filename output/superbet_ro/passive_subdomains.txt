@@ -41,6 +41,8 @@ abo.superbet.ro
 abo.superbet.ro
 abo.superbet.ro
 abo.superbet.ro
+abo.superbet.ro
+abs.superbet.ro
 abs.superbet.ro
 abs.superbet.ro
 abs.superbet.ro
@@ -127,6 +129,8 @@ ads.superbet.ro
 ads.superbet.ro
 ads.superbet.ro
 ads.superbet.ro
+ads.superbet.ro
+affiliates.superbet.ro
 affiliates.superbet.ro
 affiliates.superbet.ro
 affiliates.superbet.ro
@@ -213,6 +217,8 @@ api.web.production.betler.superbet.ro
 api.web.production.betler.superbet.ro
 api.web.production.betler.superbet.ro
 api.web.production.betler.superbet.ro
+api.web.production.betler.superbet.ro
+app.superbet.ro
 app.superbet.ro
 app.superbet.ro
 app.superbet.ro
@@ -303,6 +309,8 @@ appmobile.superbet.ro
 appmobile.superbet.ro
 appmobile.superbet.ro
 appmobile.superbet.ro
+appmobile.superbet.ro
+apps.stage.superbet.ro
 apps.stage.superbet.ro
 apps.stage.superbet.ro
 apps.stage.superbet.ro
@@ -393,6 +401,8 @@ apps.superbet.ro
 apps.superbet.ro
 apps.superbet.ro
 apps.superbet.ro
+apps.superbet.ro
+ax-bcknd.betinvent.superbet.ro
 ax-bcknd.betinvent.superbet.ro
 ax-bcknd.betinvent.superbet.ro
 ax-bcknd.betinvent.superbet.ro
@@ -483,6 +493,8 @@ ax-www-pub.superbet.ro
 ax-www-pub.superbet.ro
 ax-www-pub.superbet.ro
 ax-www-pub.superbet.ro
+ax-www-pub.superbet.ro
+ax-www.betinvent.superbet.ro
 ax-www.betinvent.superbet.ro
 ax-www.betinvent.superbet.ro
 ax-www.betinvent.superbet.ro
@@ -571,6 +583,7 @@ beta.superbet.ro
 beta.superbet.ro
 beta.superbet.ro
 beta.superbet.ro
+beta.superbet.ro
 betting.dev.in.superbet.ro
 betting.dev.in.superbet.ro
 betting.dev.in.superbet.ro
@@ -614,6 +627,8 @@ betting.dev.in.superbet.ro
 betting.dev.in.superbet.ro
 betting.dev.in.superbet.ro
 betting.dev.in.superbet.ro
+betting.dev.in.superbet.ro
+betting.dev.superbet.ro
 betting.dev.superbet.ro
 betting.dev.superbet.ro
 betting.dev.superbet.ro
@@ -702,6 +717,7 @@ betting.in.superbet.ro
 betting.in.superbet.ro
 betting.in.superbet.ro
 betting.in.superbet.ro
+betting.in.superbet.ro
 betting.qa.in.superbet.ro
 betting.qa.in.superbet.ro
 betting.qa.in.superbet.ro
@@ -747,6 +763,8 @@ betting.qa.in.superbet.ro
 betting.qa.in.superbet.ro
 betting.qa.in.superbet.ro
 betting.qa.in.superbet.ro
+betting.qa.in.superbet.ro
+betting.qa.superbet.ro
 betting.qa.superbet.ro
 betting.qa.superbet.ro
 betting.qa.superbet.ro
@@ -835,6 +853,8 @@ betting.stage.in.superbet.ro
 betting.stage.in.superbet.ro
 betting.stage.in.superbet.ro
 betting.stage.in.superbet.ro
+betting.stage.in.superbet.ro
+betting.stage.superbet.ro
 betting.stage.superbet.ro
 betting.stage.superbet.ro
 betting.stage.superbet.ro
@@ -925,6 +945,8 @@ betting.superbet.ro
 betting.superbet.ro
 betting.superbet.ro
 betting.superbet.ro
+betting.superbet.ro
+bonuscasino.superbet.ro
 bonuscasino.superbet.ro
 bonuscasino.superbet.ro
 bonuscasino.superbet.ro
@@ -1015,6 +1037,8 @@ bonussport.superbet.ro
 bonussport.superbet.ro
 bonussport.superbet.ro
 bonussport.superbet.ro
+bonussport.superbet.ro
+cashout.web.superbet.ro
 cashout.web.superbet.ro
 cashout.web.superbet.ro
 cashout.web.superbet.ro
@@ -1105,6 +1129,8 @@ cldftp.superbet.ro
 cldftp.superbet.ro
 cldftp.superbet.ro
 cldftp.superbet.ro
+cldftp.superbet.ro
+club.dev.superbet.ro
 club.dev.superbet.ro
 club.dev.superbet.ro
 club.dev.superbet.ro
@@ -1193,6 +1219,8 @@ club.sc.superbet.ro
 club.sc.superbet.ro
 club.sc.superbet.ro
 club.sc.superbet.ro
+club.sc.superbet.ro
+club.stage.superbet.ro
 club.stage.superbet.ro
 club.stage.superbet.ro
 club.stage.superbet.ro
@@ -1283,6 +1311,8 @@ club.superbet.ro
 club.superbet.ro
 club.superbet.ro
 club.superbet.ro
+club.superbet.ro
+ct-dev-www.superbet.ro
 ct-dev-www.superbet.ro
 ct-dev-www.superbet.ro
 ct-dev-www.superbet.ro
@@ -1373,6 +1403,7 @@ ct-st-www.superbet.ro
 ct-st-www.superbet.ro
 ct-st-www.superbet.ro
 ct-st-www.superbet.ro
+ct-st-www.superbet.ro
 dev.incubator.superbet.ro
 dev.incubator.superbet.ro
 dev.incubator.superbet.ro
@@ -1418,6 +1449,8 @@ dev.incubator.superbet.ro
 dev.incubator.superbet.ro
 dev.incubator.superbet.ro
 dev.incubator.superbet.ro
+dev.incubator.superbet.ro
+dev.superbet.ro
 dev.superbet.ro
 dev.superbet.ro
 dev.superbet.ro
@@ -1506,6 +1539,7 @@ dev.trading.superbet.ro
 dev.trading.superbet.ro
 dev.trading.superbet.ro
 dev.trading.superbet.ro
+dev.trading.superbet.ro
 elc.superbet.ro
 elc.superbet.ro
 elc.superbet.ro
@@ -1549,6 +1583,8 @@ elc.superbet.ro
 elc.superbet.ro
 elc.superbet.ro
 elc.superbet.ro
+elc.superbet.ro
+epic.superbet.ro
 epic.superbet.ro
 epic.superbet.ro
 epic.superbet.ro
@@ -1639,6 +1675,8 @@ fantasticduels.stage.superbet.ro
 fantasticduels.stage.superbet.ro
 fantasticduels.stage.superbet.ro
 fantasticduels.stage.superbet.ro
+fantasticduels.stage.superbet.ro
+fantasticduels.superbet.ro
 fantasticduels.superbet.ro
 fantasticduels.superbet.ro
 fantasticduels.superbet.ro
@@ -1727,6 +1765,8 @@ financiar.superbet.ro
 financiar.superbet.ro
 financiar.superbet.ro
 financiar.superbet.ro
+financiar.superbet.ro
+gaming.web.dev.superbet.ro
 gaming.web.dev.superbet.ro
 gaming.web.dev.superbet.ro
 gaming.web.dev.superbet.ro
@@ -1813,6 +1853,8 @@ gaming.web.qa.superbet.ro
 gaming.web.qa.superbet.ro
 gaming.web.qa.superbet.ro
 gaming.web.qa.superbet.ro
+gaming.web.qa.superbet.ro
+gaming.web.silent.superbet.ro
 gaming.web.silent.superbet.ro
 gaming.web.silent.superbet.ro
 gaming.web.silent.superbet.ro
@@ -1903,6 +1945,8 @@ gaming.web.stage.superbet.ro
 gaming.web.stage.superbet.ro
 gaming.web.stage.superbet.ro
 gaming.web.stage.superbet.ro
+gaming.web.stage.superbet.ro
+gaming.web.superbet.ro
 gaming.web.superbet.ro
 gaming.web.superbet.ro
 gaming.web.superbet.ro
@@ -1993,6 +2037,8 @@ gdpr-webform.superbet.ro
 gdpr-webform.superbet.ro
 gdpr-webform.superbet.ro
 gdpr-webform.superbet.ro
+gdpr-webform.superbet.ro
+gw.epic.superbet.ro
 gw.epic.superbet.ro
 gw.epic.superbet.ro
 gw.epic.superbet.ro
@@ -2083,6 +2129,8 @@ gw.st-epic.superbet.ro
 gw.st-epic.superbet.ro
 gw.st-epic.superbet.ro
 gw.st-epic.superbet.ro
+gw.st-epic.superbet.ro
+insta.superbet.ro
 insta.superbet.ro
 insta.superbet.ro
 insta.superbet.ro
@@ -2173,6 +2221,8 @@ intranet.superbet.ro
 intranet.superbet.ro
 intranet.superbet.ro
 intranet.superbet.ro
+intranet.superbet.ro
+jocuri.superbet.ro
 jocuri.superbet.ro
 jocuri.superbet.ro
 jocuri.superbet.ro
@@ -2263,6 +2313,8 @@ landing.superbet.ro
 landing.superbet.ro
 landing.superbet.ro
 landing.superbet.ro
+landing.superbet.ro
+lb-offer-01.betting.superbet.ro
 lb-offer-01.betting.superbet.ro
 lb-offer-01.betting.superbet.ro
 lb-offer-01.betting.superbet.ro
@@ -2353,6 +2405,8 @@ lb-offer-02.betting.superbet.ro
 lb-offer-02.betting.superbet.ro
 lb-offer-02.betting.superbet.ro
 lb-offer-02.betting.superbet.ro
+lb-offer-02.betting.superbet.ro
+learning.superbet.ro
 learning.superbet.ro
 learning.superbet.ro
 learning.superbet.ro
@@ -2443,6 +2497,8 @@ legacy-web-stage.superbet.ro
 legacy-web-stage.superbet.ro
 legacy-web-stage.superbet.ro
 legacy-web-stage.superbet.ro
+legacy-web-stage.superbet.ro
+legacy-web.secure.betting.stage.superbet.ro
 legacy-web.secure.betting.stage.superbet.ro
 legacy-web.secure.betting.stage.superbet.ro
 legacy-web.secure.betting.stage.superbet.ro
@@ -2533,6 +2589,8 @@ legacy-web.superbet.ro
 legacy-web.superbet.ro
 legacy-web.superbet.ro
 legacy-web.superbet.ro
+legacy-web.superbet.ro
+legendacontinua.superbet.ro
 legendacontinua.superbet.ro
 legendacontinua.superbet.ro
 legendacontinua.superbet.ro
@@ -2621,6 +2679,8 @@ loial.superbet.ro
 loial.superbet.ro
 loial.superbet.ro
 loial.superbet.ro
+loial.superbet.ro
+lp.superbet.ro
 lp.superbet.ro
 lp.superbet.ro
 lp.superbet.ro
@@ -2707,6 +2767,8 @@ lpi.superbet.ro
 lpi.superbet.ro
 lpi.superbet.ro
 lpi.superbet.ro
+lpi.superbet.ro
+lps.superbet.ro
 lps.superbet.ro
 lps.superbet.ro
 lps.superbet.ro
@@ -2795,6 +2857,7 @@ mail.video.superbet.ro
 mail.video.superbet.ro
 mail.video.superbet.ro
 mail.video.superbet.ro
+mail.video.superbet.ro
 mirrorapi.superbet.ro
 mirrorapi.superbet.ro
 mirrorapi.superbet.ro
@@ -2840,6 +2903,8 @@ mirrorapi.superbet.ro
 mirrorapi.superbet.ro
 mirrorapi.superbet.ro
 mirrorapi.superbet.ro
+mirrorapi.superbet.ro
+mirrorcms.superbet.ro
 mirrorcms.superbet.ro
 mirrorcms.superbet.ro
 mirrorcms.superbet.ro
@@ -2928,6 +2993,7 @@ new.superbet.ro
 new.superbet.ro
 new.superbet.ro
 new.superbet.ro
+new.superbet.ro
 o114.email.mail.superbet.ro
 o114.email.mail.superbet.ro
 o114.email.mail.superbet.ro
@@ -2973,6 +3039,8 @@ o114.email.mail.superbet.ro
 o114.email.mail.superbet.ro
 o114.email.mail.superbet.ro
 o114.email.mail.superbet.ro
+o114.email.mail.superbet.ro
+o192.trans.tmail.superbet.ro
 o192.trans.tmail.superbet.ro
 o192.trans.tmail.superbet.ro
 o192.trans.tmail.superbet.ro
@@ -3061,6 +3129,8 @@ offer-server.prod.incubator.superbet.ro
 offer-server.prod.incubator.superbet.ro
 offer-server.prod.incubator.superbet.ro
 offer-server.prod.incubator.superbet.ro
+offer-server.prod.incubator.superbet.ro
+old.superbet.ro
 old.superbet.ro
 old.superbet.ro
 old.superbet.ro
@@ -3149,6 +3219,8 @@ on.superbet.ro
 on.superbet.ro
 on.superbet.ro
 on.superbet.ro
+on.superbet.ro
+pariurinoi.superbet.ro
 pariurinoi.superbet.ro
 pariurinoi.superbet.ro
 pariurinoi.superbet.ro
@@ -3239,6 +3311,8 @@ petrecerecraciun.superbet.ro
 petrecerecraciun.superbet.ro
 petrecerecraciun.superbet.ro
 petrecerecraciun.superbet.ro
+petrecerecraciun.superbet.ro
+playground.superbet.ro
 playground.superbet.ro
 playground.superbet.ro
 playground.superbet.ro
@@ -3329,6 +3403,8 @@ prod.incubator.superbet.ro
 prod.incubator.superbet.ro
 prod.incubator.superbet.ro
 prod.incubator.superbet.ro
+prod.incubator.superbet.ro
+promo.superbet.ro
 promo.superbet.ro
 promo.superbet.ro
 promo.superbet.ro
@@ -3419,6 +3495,8 @@ promo01.superbet.ro
 promo01.superbet.ro
 promo01.superbet.ro
 promo01.superbet.ro
+promo01.superbet.ro
+promo02.superbet.ro
 promo02.superbet.ro
 promo02.superbet.ro
 promo02.superbet.ro
@@ -3509,6 +3587,8 @@ promo03.superbet.ro
 promo03.superbet.ro
 promo03.superbet.ro
 promo03.superbet.ro
+promo03.superbet.ro
+promotii.superbet.ro
 promotii.superbet.ro
 promotii.superbet.ro
 promotii.superbet.ro
@@ -3599,6 +3679,8 @@ qa.incubator.superbet.ro
 qa.incubator.superbet.ro
 qa.incubator.superbet.ro
 qa.incubator.superbet.ro
+qa.incubator.superbet.ro
+qa.superbet.ro
 qa.superbet.ro
 qa.superbet.ro
 qa.superbet.ro
@@ -3687,6 +3769,8 @@ qa.trading.superbet.ro
 qa.trading.superbet.ro
 qa.trading.superbet.ro
 qa.trading.superbet.ro
+qa.trading.superbet.ro
+quiz.superbet.ro
 quiz.superbet.ro
 quiz.superbet.ro
 quiz.superbet.ro
@@ -3777,6 +3861,8 @@ quizanglia.superbet.ro
 quizanglia.superbet.ro
 quizanglia.superbet.ro
 quizanglia.superbet.ro
+quizanglia.superbet.ro
+quizucluj.superbet.ro
 quizucluj.superbet.ro
 quizucluj.superbet.ro
 quizucluj.superbet.ro
@@ -3865,6 +3951,8 @@ redrock-bloombergmarketingaccess.prometheus.vna.dev.incubator.superbet.ro
 redrock-bloombergmarketingaccess.prometheus.vna.dev.incubator.superbet.ro
 redrock-bloombergmarketingaccess.prometheus.vna.dev.incubator.superbet.ro
 redrock-bloombergmarketingaccess.prometheus.vna.dev.incubator.superbet.ro
+redrock-bloombergmarketingaccess.prometheus.vna.dev.incubator.superbet.ro
+retail.offer-display.live.stage.superbet.ro
 retail.offer-display.live.stage.superbet.ro
 retail.offer-display.live.stage.superbet.ro
 retail.offer-display.live.stage.superbet.ro
@@ -3955,6 +4043,7 @@ retail.offer-display.live.superbet.ro
 retail.offer-display.live.superbet.ro
 retail.offer-display.live.superbet.ro
 retail.offer-display.live.superbet.ro
+retail.offer-display.live.superbet.ro
 seo-stage.superbet.ro
 seo-stage.superbet.ro
 seo-stage.superbet.ro
@@ -4000,6 +4089,8 @@ seo-stage.superbet.ro
 seo-stage.superbet.ro
 seo-stage.superbet.ro
 seo-stage.superbet.ro
+seo-stage.superbet.ro
+seo.superbet.ro
 seo.superbet.ro
 seo.superbet.ro
 seo.superbet.ro
@@ -4088,6 +4179,8 @@ shield.superbet.ro
 shield.superbet.ro
 shield.superbet.ro
 shield.superbet.ro
+shield.superbet.ro
+shops.web.dev.superbet.ro
 shops.web.dev.superbet.ro
 shops.web.dev.superbet.ro
 shops.web.dev.superbet.ro
@@ -4174,6 +4267,8 @@ shops.web.qa.superbet.ro
 shops.web.qa.superbet.ro
 shops.web.qa.superbet.ro
 shops.web.qa.superbet.ro
+shops.web.qa.superbet.ro
+shops.web.silent.superbet.ro
 shops.web.silent.superbet.ro
 shops.web.silent.superbet.ro
 shops.web.silent.superbet.ro
@@ -4264,6 +4359,8 @@ shops.web.stage.superbet.ro
 shops.web.stage.superbet.ro
 shops.web.stage.superbet.ro
 shops.web.stage.superbet.ro
+shops.web.stage.superbet.ro
+shops.web.superbet.ro
 shops.web.superbet.ro
 shops.web.superbet.ro
 shops.web.superbet.ro
@@ -4354,6 +4451,7 @@ silent.superbet.ro
 silent.superbet.ro
 silent.superbet.ro
 silent.superbet.ro
+silent.superbet.ro
 social.web.superbet.ro
 social.web.superbet.ro
 social.web.superbet.ro
@@ -4399,6 +4497,8 @@ social.web.superbet.ro
 social.web.superbet.ro
 social.web.superbet.ro
 social.web.superbet.ro
+social.web.superbet.ro
+sport.superbet.ro
 sport.superbet.ro
 sport.superbet.ro
 sport.superbet.ro
@@ -4487,6 +4587,8 @@ ssbt.dev.superbet.ro
 ssbt.dev.superbet.ro
 ssbt.dev.superbet.ro
 ssbt.dev.superbet.ro
+ssbt.dev.superbet.ro
+ssbt.silent.superbet.ro
 ssbt.silent.superbet.ro
 ssbt.silent.superbet.ro
 ssbt.silent.superbet.ro
@@ -4577,6 +4679,8 @@ ssbt.superbet.ro
 ssbt.superbet.ro
 ssbt.superbet.ro
 ssbt.superbet.ro
+ssbt.superbet.ro
+st-backoffice.club.superbet.ro
 st-backoffice.club.superbet.ro
 st-backoffice.club.superbet.ro
 st-backoffice.club.superbet.ro
@@ -4667,6 +4771,8 @@ st-club.superbet.ro
 st-club.superbet.ro
 st-club.superbet.ro
 st-club.superbet.ro
+st-club.superbet.ro
+st-epic.superbet.ro
 st-epic.superbet.ro
 st-epic.superbet.ro
 st-epic.superbet.ro
@@ -4755,6 +4861,7 @@ stage-be.superbet.ro
 stage-be.superbet.ro
 stage-be.superbet.ro
 stage-be.superbet.ro
+stage-be.superbet.ro
 stage.incubator.superbet.ro
 stage.incubator.superbet.ro
 stage.incubator.superbet.ro
@@ -4800,6 +4907,8 @@ stage.incubator.superbet.ro
 stage.incubator.superbet.ro
 stage.incubator.superbet.ro
 stage.incubator.superbet.ro
+stage.incubator.superbet.ro
+stage.superbet.ro
 stage.superbet.ro
 stage.superbet.ro
 stage.superbet.ro
@@ -4888,6 +4997,8 @@ stats.web.superbet.ro
 stats.web.superbet.ro
 stats.web.superbet.ro
 stats.web.superbet.ro
+stats.web.superbet.ro
+superbet.ro
 superbet.ro
 superbet.ro
 superbet.ro
@@ -4974,6 +5085,8 @@ supermillion.superbet.ro
 supermillion.superbet.ro
 supermillion.superbet.ro
 supermillion.superbet.ro
+supermillion.superbet.ro
+superprono.stage.superbet.ro
 superprono.stage.superbet.ro
 superprono.stage.superbet.ro
 superprono.stage.superbet.ro
@@ -5064,6 +5177,8 @@ superprono.superbet.ro
 superprono.superbet.ro
 superprono.superbet.ro
 superprono.superbet.ro
+superprono.superbet.ro
+superstats.epic.superbet.ro
 superstats.epic.superbet.ro
 superstats.epic.superbet.ro
 superstats.epic.superbet.ro
@@ -5152,6 +5267,8 @@ suport.superbet.ro
 suport.superbet.ro
 suport.superbet.ro
 suport.superbet.ro
+suport.superbet.ro
+tableau.superbet.ro
 tableau.superbet.ro
 tableau.superbet.ro
 tableau.superbet.ro
@@ -5240,6 +5357,8 @@ test.flex.superbet.ro
 test.flex.superbet.ro
 test.flex.superbet.ro
 test.flex.superbet.ro
+test.flex.superbet.ro
+test.learning.superbet.ro
 test.learning.superbet.ro
 test.learning.superbet.ro
 test.learning.superbet.ro
@@ -5328,6 +5447,7 @@ tickets-cache.betting.superbet.ro
 tickets-cache.betting.superbet.ro
 tickets-cache.betting.superbet.ro
 tickets-cache.betting.superbet.ro
+tickets-cache.betting.superbet.ro
 tickets-cache.superbet.ro
 tickets-cache.superbet.ro
 tickets-cache.superbet.ro
@@ -5373,6 +5493,8 @@ tickets-cache.superbet.ro
 tickets-cache.superbet.ro
 tickets-cache.superbet.ro
 tickets-cache.superbet.ro
+tickets-cache.superbet.ro
+tickets.web.superbet.ro
 tickets.web.superbet.ro
 tickets.web.superbet.ro
 tickets.web.superbet.ro
@@ -5461,6 +5583,7 @@ trading.dev.superbet.ro
 trading.dev.superbet.ro
 trading.dev.superbet.ro
 trading.dev.superbet.ro
+trading.dev.superbet.ro
 trading.qa.superbet.ro
 trading.qa.superbet.ro
 trading.qa.superbet.ro
@@ -5506,6 +5629,8 @@ trading.qa.superbet.ro
 trading.qa.superbet.ro
 trading.qa.superbet.ro
 trading.qa.superbet.ro
+trading.qa.superbet.ro
+trading.stage.superbet.ro
 trading.stage.superbet.ro
 trading.stage.superbet.ro
 trading.stage.superbet.ro
@@ -5594,6 +5719,7 @@ trading.superbet.ro
 trading.superbet.ro
 trading.superbet.ro
 trading.superbet.ro
+trading.superbet.ro
 training.superbet.ro
 training.superbet.ro
 training.superbet.ro
@@ -5637,6 +5763,8 @@ training.superbet.ro
 training.superbet.ro
 training.superbet.ro
 training.superbet.ro
+training.superbet.ro
+tricoudinamo.superbet.ro
 tricoudinamo.superbet.ro
 tricoudinamo.superbet.ro
 tricoudinamo.superbet.ro
@@ -5727,6 +5855,8 @@ tricoufarul.superbet.ro
 tricoufarul.superbet.ro
 tricoufarul.superbet.ro
 tricoufarul.superbet.ro
+tricoufarul.superbet.ro
+tricoufcarges.superbet.ro
 tricoufcarges.superbet.ro
 tricoufcarges.superbet.ro
 tricoufcarges.superbet.ro
@@ -5817,6 +5947,8 @@ tricoufcu1948.superbet.ro
 tricoufcu1948.superbet.ro
 tricoufcu1948.superbet.ro
 tricoufcu1948.superbet.ro
+tricoufcu1948.superbet.ro
+tricourapid.superbet.ro
 tricourapid.superbet.ro
 tricourapid.superbet.ro
 tricourapid.superbet.ro
@@ -5905,6 +6037,8 @@ tricousuperliga.superbet.ro
 tricousuperliga.superbet.ro
 tricousuperliga.superbet.ro
 tricousuperliga.superbet.ro
+tricousuperliga.superbet.ro
+tricouucluj.superbet.ro
 tricouucluj.superbet.ro
 tricouucluj.superbet.ro
 tricouucluj.superbet.ro
@@ -5995,6 +6129,8 @@ unique-one.stage.superbet.ro
 unique-one.stage.superbet.ro
 unique-one.stage.superbet.ro
 unique-one.stage.superbet.ro
+unique-one.stage.superbet.ro
+unique-one.superbet.ro
 unique-one.superbet.ro
 unique-one.superbet.ro
 unique-one.superbet.ro
@@ -6083,6 +6219,8 @@ video.superbet.ro
 video.superbet.ro
 video.superbet.ro
 video.superbet.ro
+video.superbet.ro
+vip-supereuro.superbet.ro
 vip-supereuro.superbet.ro
 vip-supereuro.superbet.ro
 vip-supereuro.superbet.ro
@@ -6169,6 +6307,8 @@ web.baldrick.betler.superbet.ro
 web.baldrick.betler.superbet.ro
 web.baldrick.betler.superbet.ro
 web.baldrick.betler.superbet.ro
+web.baldrick.betler.superbet.ro
+web.crm.betler.superbet.ro
 web.crm.betler.superbet.ro
 web.crm.betler.superbet.ro
 web.crm.betler.superbet.ro
@@ -6255,6 +6395,7 @@ web.dev01.betler.superbet.ro
 web.dev01.betler.superbet.ro
 web.dev01.betler.superbet.ro
 web.dev01.betler.superbet.ro
+web.dev01.betler.superbet.ro
 web.integ01.betler.superbet.ro
 web.integ01.betler.superbet.ro
 web.integ01.betler.superbet.ro
@@ -6298,6 +6439,8 @@ web.integ01.betler.superbet.ro
 web.integ01.betler.superbet.ro
 web.integ01.betler.superbet.ro
 web.integ01.betler.superbet.ro
+web.integ01.betler.superbet.ro
+web.load.betler.superbet.ro
 web.load.betler.superbet.ro
 web.load.betler.superbet.ro
 web.load.betler.superbet.ro
@@ -6386,6 +6529,8 @@ web.load01.betler.superbet.ro
 web.load01.betler.superbet.ro
 web.load01.betler.superbet.ro
 web.load01.betler.superbet.ro
+web.load01.betler.superbet.ro
+web.load02.betler.superbet.ro
 web.load02.betler.superbet.ro
 web.load02.betler.superbet.ro
 web.load02.betler.superbet.ro
@@ -6474,6 +6619,8 @@ web.loadgam.betler.superbet.ro
 web.loadgam.betler.superbet.ro
 web.loadgam.betler.superbet.ro
 web.loadgam.betler.superbet.ro
+web.loadgam.betler.superbet.ro
+web.loadpam.betler.superbet.ro
 web.loadpam.betler.superbet.ro
 web.loadpam.betler.superbet.ro
 web.loadpam.betler.superbet.ro
@@ -6560,6 +6707,8 @@ web.loadtest01.betler.superbet.ro
 web.loadtest01.betler.superbet.ro
 web.loadtest01.betler.superbet.ro
 web.loadtest01.betler.superbet.ro
+web.loadtest01.betler.superbet.ro
+web.mig.betler.superbet.ro
 web.mig.betler.superbet.ro
 web.mig.betler.superbet.ro
 web.mig.betler.superbet.ro
@@ -6648,6 +6797,7 @@ web.production.betler.superbet.ro
 web.production.betler.superbet.ro
 web.production.betler.superbet.ro
 web.production.betler.superbet.ro
+web.production.betler.superbet.ro
 web.qa.betler.superbet.ro
 web.qa.betler.superbet.ro
 web.qa.betler.superbet.ro
@@ -6693,6 +6843,8 @@ web.qa.betler.superbet.ro
 web.qa.betler.superbet.ro
 web.qa.betler.superbet.ro
 web.qa.betler.superbet.ro
+web.qa.betler.superbet.ro
+web.rsb.betler.superbet.ro
 web.rsb.betler.superbet.ro
 web.rsb.betler.superbet.ro
 web.rsb.betler.superbet.ro
@@ -6781,6 +6933,7 @@ web.silent.superbet.ro
 web.silent.superbet.ro
 web.silent.superbet.ro
 web.silent.superbet.ro
+web.silent.superbet.ro
 web.stage.betler.superbet.ro
 web.stage.betler.superbet.ro
 web.stage.betler.superbet.ro
@@ -6826,6 +6979,8 @@ web.stage.betler.superbet.ro
 web.stage.betler.superbet.ro
 web.stage.betler.superbet.ro
 web.stage.betler.superbet.ro
+web.stage.betler.superbet.ro
+web.stage.superbet.ro
 web.stage.superbet.ro
 web.stage.superbet.ro
 web.stage.superbet.ro
@@ -6914,6 +7069,7 @@ web.superbet.ro
 web.superbet.ro
 web.superbet.ro
 web.superbet.ro
+web.superbet.ro
 web.tw01.betler.superbet.ro
 web.tw01.betler.superbet.ro
 web.tw01.betler.superbet.ro
@@ -6957,6 +7113,8 @@ web.tw01.betler.superbet.ro
 web.tw01.betler.superbet.ro
 web.tw01.betler.superbet.ro
 web.tw01.betler.superbet.ro
+web.tw01.betler.superbet.ro
+web.wallet.betler.superbet.ro
 web.wallet.betler.superbet.ro
 web.wallet.betler.superbet.ro
 web.wallet.betler.superbet.ro
@@ -7045,6 +7203,8 @@ wiki.superbet.ro
 wiki.superbet.ro
 wiki.superbet.ro
 wiki.superbet.ro
+wiki.superbet.ro
+www.app.superbet.ro
 www.app.superbet.ro
 www.app.superbet.ro
 www.app.superbet.ro
@@ -7131,6 +7291,7 @@ www.apps.superbet.ro
 www.apps.superbet.ro
 www.apps.superbet.ro
 www.apps.superbet.ro
+www.apps.superbet.ro
 www.club.dev.superbet.ro
 www.club.dev.superbet.ro
 www.club.dev.superbet.ro
@@ -7176,6 +7337,8 @@ www.club.dev.superbet.ro
 www.club.dev.superbet.ro
 www.club.dev.superbet.ro
 www.club.dev.superbet.ro
+www.club.dev.superbet.ro
+www.club.stage.superbet.ro
 www.club.stage.superbet.ro
 www.club.stage.superbet.ro
 www.club.stage.superbet.ro
@@ -7264,6 +7427,8 @@ www.dev.superbet.ro
 www.dev.superbet.ro
 www.dev.superbet.ro
 www.dev.superbet.ro
+www.dev.superbet.ro
+www.elc.superbet.ro
 www.elc.superbet.ro
 www.elc.superbet.ro
 www.elc.superbet.ro
@@ -7350,6 +7515,8 @@ www.epic.superbet.ro
 www.epic.superbet.ro
 www.epic.superbet.ro
 www.epic.superbet.ro
+www.epic.superbet.ro
+www.gw.epic.superbet.ro
 www.gw.epic.superbet.ro
 www.gw.epic.superbet.ro
 www.gw.epic.superbet.ro
@@ -7436,6 +7603,8 @@ www.legendacontinua.superbet.ro
 www.legendacontinua.superbet.ro
 www.legendacontinua.superbet.ro
 www.legendacontinua.superbet.ro
+www.legendacontinua.superbet.ro
+www.lpi.superbet.ro
 www.lpi.superbet.ro
 www.lpi.superbet.ro
 www.lpi.superbet.ro
@@ -7522,6 +7691,7 @@ www.lps.superbet.ro
 www.lps.superbet.ro
 www.lps.superbet.ro
 www.lps.superbet.ro
+www.lps.superbet.ro
 www.new.superbet.ro
 www.new.superbet.ro
 www.new.superbet.ro
@@ -7565,6 +7735,8 @@ www.new.superbet.ro
 www.new.superbet.ro
 www.new.superbet.ro
 www.new.superbet.ro
+www.new.superbet.ro
+www.pariurinoi.superbet.ro
 www.pariurinoi.superbet.ro
 www.pariurinoi.superbet.ro
 www.pariurinoi.superbet.ro
@@ -7653,6 +7825,8 @@ www.promo.superbet.ro
 www.promo.superbet.ro
 www.promo.superbet.ro
 www.promo.superbet.ro
+www.promo.superbet.ro
+www.promotii.superbet.ro
 www.promotii.superbet.ro
 www.promotii.superbet.ro
 www.promotii.superbet.ro
@@ -7739,6 +7913,7 @@ www.silent.superbet.ro
 www.silent.superbet.ro
 www.silent.superbet.ro
 www.silent.superbet.ro
+www.silent.superbet.ro
 www.stage.superbet.ro
 www.stage.superbet.ro
 www.stage.superbet.ro
@@ -7784,6 +7959,8 @@ www.stage.superbet.ro
 www.stage.superbet.ro
 www.stage.superbet.ro
 www.stage.superbet.ro
+www.stage.superbet.ro
+www.superbet.ro
 www.superbet.ro
 www.superbet.ro
 www.superbet.ro
@@ -7872,6 +8049,7 @@ www.tableau.superbet.ro
 www.tableau.superbet.ro
 www.tableau.superbet.ro
 www.tableau.superbet.ro
+www.tableau.superbet.ro
 www.video.superbet.ro
 www.video.superbet.ro
 www.video.superbet.ro
@@ -7915,6 +8093,8 @@ www.video.superbet.ro
 www.video.superbet.ro
 www.video.superbet.ro
 www.video.superbet.ro
+www.video.superbet.ro
+www.vip-supereuro.superbet.ro
 www.vip-supereuro.superbet.ro
 www.vip-supereuro.superbet.ro
 www.vip-supereuro.superbet.ro

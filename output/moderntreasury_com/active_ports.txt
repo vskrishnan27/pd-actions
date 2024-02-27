@@ -14,8 +14,6 @@ cognito-app-admin.demo.moderntreasury.com:443
 cognito-app-admin.demo.moderntreasury.com:80
 cognito-app-admin.moderntreasury.com:443
 cognito-app-admin.moderntreasury.com:80
-cognito.demo.moderntreasury.com:443
-cognito.demo.moderntreasury.com:80
 cognito.moderntreasury.com:443
 cognito.moderntreasury.com:80
 demo.moderntreasury.com:443

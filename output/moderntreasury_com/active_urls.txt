@@ -6,7 +6,6 @@ http://cdn.demo.moderntreasury.com
 http://cdn.moderntreasury.com
 http://cognito-app-admin.demo.moderntreasury.com
 http://cognito-app-admin.moderntreasury.com
-http://cognito.demo.moderntreasury.com
 http://cognito.moderntreasury.com
 http://demo.moderntreasury.com
 http://docs.moderntreasury.com
@@ -38,7 +37,6 @@ https://cdn.demo.moderntreasury.com
 https://cdn.moderntreasury.com
 https://cognito-app-admin.demo.moderntreasury.com
 https://cognito-app-admin.moderntreasury.com
-https://cognito.demo.moderntreasury.com
 https://cognito.moderntreasury.com
 https://demo.moderntreasury.com
 https://docs.moderntreasury.com

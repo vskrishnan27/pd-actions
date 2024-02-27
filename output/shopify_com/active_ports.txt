@@ -333,10 +333,6 @@ classifieds.shopify.com:443
 classifieds.shopify.com:80
 classifieds.shopify.com:8080
 classifieds.shopify.com:8443
-click.email.shopify.com:443
-click.email.shopify.com:80
-click.email.shopify.com:8080
-click.email.shopify.com:8443
 cms.everest.shopify.com:443
 cms.everest.shopify.com:80
 cms.everest.shopify.com:8080
@@ -791,10 +787,6 @@ image.email.shopify.com:443
 image.email.shopify.com:80
 image.email.shopify.com:8080
 image.email.shopify.com:8443
-in.shopify.com:443
-in.shopify.com:80
-in.shopify.com:8080
-in.shopify.com:8443
 inbox.shopify.com:443
 inbox.shopify.com:80
 inbox.shopify.com:8080
@@ -899,10 +891,6 @@ l.ssl.shopify.com:443
 l.ssl.shopify.com:80
 l.ssl.shopify.com:8080
 l.ssl.shopify.com:8443
-launch.shopify.com:443
-launch.shopify.com:80
-launch.shopify.com:8080
-launch.shopify.com:8443
 launchpad.shopify.com:443
 launchpad.shopify.com:80
 launchpad.shopify.com:8080
@@ -941,10 +929,6 @@ localsession.shopify.com:443
 localsession.shopify.com:80
 localsession.shopify.com:8080
 localsession.shopify.com:8443
-log1.ash.shopify.com:443
-log1.ash.shopify.com:80
-log1.ash.shopify.com:8080
-log1.ash.shopify.com:8443
 login.community-stage.shopify.com:443
 login.community-stage.shopify.com:80
 login.community-stage.shopify.com:8080
@@ -1053,10 +1037,6 @@ mta2.email.shopify.com:443
 mta2.email.shopify.com:80
 mta2.email.shopify.com:8080
 mta2.email.shopify.com:8443
-mta3.email.shopify.com:443
-mta3.email.shopify.com:80
-mta3.email.shopify.com:8080
-mta3.email.shopify.com:8443
 mta4.email.shopify.com:443
 mta4.email.shopify.com:80
 mta4.email.shopify.com:8080
@@ -1790,6 +1770,10 @@ videomaker.shopify.com:443
 videomaker.shopify.com:80
 videomaker.shopify.com:8080
 videomaker.shopify.com:8443
+view.email.shopify.com:443
+view.email.shopify.com:80
+view.email.shopify.com:8080
+view.email.shopify.com:8443
 vision.shopify.com:443
 vision.shopify.com:80
 vision.shopify.com:8080

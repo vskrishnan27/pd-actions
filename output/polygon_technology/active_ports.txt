@@ -150,8 +150,6 @@ partnersupport.polygon.technology:443
 partnersupport.polygon.technology:80
 partnersupport.polygon.technology:8080
 partnersupport.polygon.technology:8443
-polygon.technology:443
-polygon.technology:80
 polytech-assets.polygon.technology:443
 polytech-assets.polygon.technology:80
 polytech-assets.polygon.technology:8080

@@ -203,7 +203,6 @@ http://ghcpi.rest.bigbang.cosmos.network:8080
 http://ghcpi.rest.bigbang.cosmos.network:8443
 http://go.cosmos.network
 http://go.cosmos.network:8080
-http://go.cosmos.network:8443
 http://goz.cosmos.network
 http://grpc.cosmos.network
 http://grpc.cosmos.network:8080
@@ -223,9 +222,6 @@ http://int-rest.bigbang.cosmos.network:8080
 http://int-rest.bigbang.cosmos.network:8443
 http://interchainacademy.cosmos.network
 http://interchainacademy.cosmos.network:8080
-http://irisnet.cosmos.network
-http://irisnet.cosmos.network:8080
-http://irisnet.cosmos.network:8443
 http://jobs.cosmos.network
 http://jobs.cosmos.network:8080
 http://jobs.cosmos.network:8443
@@ -315,6 +311,9 @@ http://rpc.bigbang.cosmos.network
 http://rpc.bigbang.cosmos.network:443
 http://rpc.bigbang.cosmos.network:8080
 http://rpc.bigbang.cosmos.network:8443
+http://rpc.cosmos.network
+http://rpc.cosmos.network:8080
+http://rpc.cosmos.network:8443
 http://rpc.irisnet.cosmos.network
 http://rpc.irisnet.cosmos.network:443
 http://rpc.irisnet.cosmos.network:8080
@@ -338,6 +337,9 @@ http://securerest.bigbang.cosmos.network:8443
 http://shop.cosmos.network
 http://shop.cosmos.network:8080
 http://signups.cosmos.network
+http://simulations.cosmos.network
+http://simulations.cosmos.network:8080
+http://simulations.cosmos.network:8443
 http://slack.cosmos.network
 http://slack.cosmos.network:8080
 http://slack.cosmos.network:8443
@@ -399,6 +401,7 @@ https://forum.cosmos.network
 https://full-node.cosmos.network
 https://fundraiser.cosmos.network
 https://go.cosmos.network
+https://go.cosmos.network:8443
 https://goz.cosmos.network
 https://grpc.cosmos.network
 https://hackatom-berlin.cosmos.network
@@ -406,7 +409,6 @@ https://hub.cosmos.network
 https://ibc.cosmos.network
 https://interchainacademy.cosmos.network
 https://interchainacademy.cosmos.network:8443
-https://irisnet.cosmos.network
 https://jobs.cosmos.network
 https://lunie.cosmos.network
 https://ml.cosmos.network
@@ -416,9 +418,11 @@ https://rpc-testnet-eu.cosmos.network
 https://rpc-testnet-jpn.cosmos.network
 https://rpc-testnet-sgp.cosmos.network
 https://rpc-testnet-us.cosmos.network
+https://rpc.cosmos.network
 https://shop.cosmos.network
 https://shop.cosmos.network:8443
 https://signups.cosmos.network
+https://simulations.cosmos.network
 https://slack.cosmos.network
 https://stargate.cosmos.network
 https://store.cosmos.network

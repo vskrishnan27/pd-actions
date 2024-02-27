@@ -101,6 +101,7 @@ http://us.miro.com
 http://us01.miro.com
 http://view.account.miro.com
 http://view.e.miro.com
+http://ww.miro.com
 http://www.events.miro.com
 http://www.jira-cards.miro.com
 http://www.miro.com
@@ -197,6 +198,7 @@ https://us.miro.com
 https://us01.miro.com
 https://view.account.miro.com
 https://view.e.miro.com
+https://ww.miro.com
 https://www.events.miro.com
 https://www.jira-cards.miro.com
 https://www.miro.com

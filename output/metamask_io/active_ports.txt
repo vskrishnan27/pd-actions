@@ -398,8 +398,6 @@ start.metamask.io:443
 start.metamask.io:80
 static.cx.metamask.io:443
 static.cx.metamask.io:80
-static.dev.execution.metamask.io:443
-static.dev.execution.metamask.io:80
 support.metamask.io:443
 support.metamask.io:80
 support.metamask.io:8080

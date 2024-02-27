@@ -110,7 +110,6 @@ snaps.metamask.io
 stage.portfolio.metamask.io
 start.metamask.io
 static.cx.metamask.io
-static.dev.execution.metamask.io
 support.metamask.io
 swag.metamask.io
 tickets.metamask.io

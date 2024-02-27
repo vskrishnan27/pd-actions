@@ -24,8 +24,7 @@ http://clientstream-stg-alb.launchdarkly.com
 http://clientstream-stg-apac.launchdarkly.com
 http://clientstream-stg-euw1.launchdarkly.com
 http://clientstream-stg-use1.launchdarkly.com
-http://clientstream-stg.intuit.launchdarkly.com
-http://clientstream-stg.intuit.launchdarkly.com:443
+http://clientstream-stg-use2.intuit.launchdarkly.com
 http://clientstream-stg.launchdarkly.com
 http://clientstream-use1.launchdarkly.com
 http://clientstream-use2.intuit.launchdarkly.com
@@ -123,6 +122,7 @@ https://clientstream-stg-euw1.launchdarkly.com
 https://clientstream-stg-use1.launchdarkly.com
 https://clientstream-stg-use2.intuit.launchdarkly.com
 https://clientstream-stg-usw2.intuit.launchdarkly.com
+https://clientstream-stg.intuit.launchdarkly.com
 https://clientstream-stg.launchdarkly.com
 https://clientstream-use1.launchdarkly.com
 https://clientstream-use2.intuit.launchdarkly.com
@@ -181,11 +181,9 @@ https://mobile.intuit.launchdarkly.com
 https://mobile.launchdarkly.com
 https://msteams-stg.launchdarkly.com
 https://msteams.launchdarkly.com
-https://orders.account-prov.stg.tools.launchdarkly.com
 https://partnersupport.launchdarkly.com
 https://pubnubtest.launchdarkly.com
 https://resources.launchdarkly.com
-https://retool.prod.tools.launchdarkly.com
 https://sdk-stg.launchdarkly.com
 https://sdk.dev.launchdarkly.com
 https://sdk.dr.launchdarkly.com

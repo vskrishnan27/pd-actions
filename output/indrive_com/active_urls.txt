@@ -22,8 +22,8 @@ http://injob.indrive.com
 http://intercity.indrive.com
 http://internal.delivery.indrive.com
 http://internal.sandbox.delivery.indrive.com
+http://job.indrive.com
 http://landing.indrive.com
-http://lp-food.indrive.com
 http://lp-services.indrive.com
 http://media.indrive.com
 http://money.indrive.com
@@ -35,11 +35,13 @@ http://ref.indrive.com
 http://rideshare.indrive.com
 http://s.indrive.com
 http://services.indrive.com
+http://servicos.indrive.com
 http://sgtm.indrive.com
 http://share.indrive.com
 http://sharetrip.indrive.com
 http://sparklab.indrive.com
 http://supernovas.indrive.com
+http://updrive.indrive.com
 http://url-checker.indrive.com
 http://us.indrive.com
 http://ventures.indrive.com
@@ -54,6 +56,7 @@ http://www.sparklab.indrive.com
 http://www.supernovas.indrive.com
 http://www.updrive.indrive.com
 http://www.yourpace.indrive.com
+http://yourpace.indrive.com
 https://beginit.indrive.com
 https://book.indrive.com
 https://careers.indrive.com
@@ -78,8 +81,8 @@ https://injob.indrive.com
 https://intercity.indrive.com
 https://internal.delivery.indrive.com
 https://internal.sandbox.delivery.indrive.com
+https://job.indrive.com
 https://landing.indrive.com
-https://lp-food.indrive.com
 https://lp-services.indrive.com
 https://media.indrive.com
 https://money.indrive.com
@@ -97,6 +100,7 @@ https://share.indrive.com
 https://sharetrip.indrive.com
 https://sparklab.indrive.com
 https://supernovas.indrive.com
+https://updrive.indrive.com
 https://url-checker.indrive.com
 https://us.indrive.com
 https://ventures.indrive.com
@@ -111,3 +115,4 @@ https://www.sparklab.indrive.com
 https://www.supernovas.indrive.com
 https://www.updrive.indrive.com
 https://www.yourpace.indrive.com
+https://yourpace.indrive.com

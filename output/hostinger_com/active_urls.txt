@@ -6,7 +6,6 @@ http://any1.hostinger.com
 http://any1.hostinger.com:8080
 http://any2.hostinger.com
 http://any2.hostinger.com:8080
-http://api.hostinger.com
 http://api.hostinger.com:8443
 http://apstiprina.hostinger.com
 http://assets.hostinger.com
@@ -24,17 +23,17 @@ http://builder.hostinger.com
 http://builder.hostinger.com:8080
 http://builder.hostinger.com:8443
 http://cart.hostinger.com
-http://cart.hostinger.com:8080
 http://cart.hostinger.com:8443
 http://cdn.hostinger.com
 http://cdn.hostinger.com:8443
 http://confirmar.hostinger.com
 http://connect.hostinger.com
 http://convalida.hostinger.com
-http://cpanel.hostinger.com
+http://cpanel.hostinger.com:443
 http://cpanel.hostinger.com:8443
 http://d.account.hostinger.com
 http://d.account.hostinger.com:8080
+http://d.account.hostinger.com:8443
 http://d.email.hostinger.com
 http://d.email.hostinger.com:8080
 http://d.email.hostinger.com:8443
@@ -57,7 +56,6 @@ http://flockmail.hostinger.com
 http://help.hostinger.com
 http://help.hostinger.com:8080
 http://hpanel.hostinger.com
-http://hpanel.hostinger.com:8080
 http://hpanel.hostinger.com:8443
 http://kontroll.hostinger.com
 http://mail.hostinger.com
@@ -73,6 +71,7 @@ http://potvrzeni.hostinger.com
 http://rdns1.hostinger.com
 http://rdns1.hostinger.com:8080
 http://rest-hosting.hostinger.com
+http://rest-hosting.hostinger.com:8443
 http://roadmap.hostinger.com
 http://roadmap.hostinger.com:8443
 http://sahkan.hostinger.com
@@ -158,9 +157,7 @@ https://cdn.hostinger.com
 https://confirmar.hostinger.com
 https://connect.hostinger.com
 https://convalida.hostinger.com
-https://cpanel.hostinger.com
 https://d.account.hostinger.com
-https://d.account.hostinger.com:8443
 https://d.email.hostinger.com
 https://design.hostinger.com
 https://dogrula.hostinger.com
@@ -186,7 +183,6 @@ https://potvrzeni.hostinger.com
 https://rdns1.hostinger.com
 https://rdns1.hostinger.com:8443
 https://rest-hosting.hostinger.com
-https://rest-hosting.hostinger.com:8443
 https://roadmap.hostinger.com
 https://sahkan.hostinger.com
 https://se.account.hostinger.com

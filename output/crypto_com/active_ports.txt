@@ -77,6 +77,10 @@ crypto-nft-bridge-api.crypto.com:443
 crypto-nft-bridge-api.crypto.com:80
 crypto-nft-bridge-api.crypto.com:8080
 crypto-nft-bridge-api.crypto.com:8443
+crypto.com:443
+crypto.com:80
+crypto.com:8080
+crypto.com:8443
 deriv-api.crypto.com:443
 deriv-api.crypto.com:80
 deriv-api.crypto.com:8080

@@ -37,6 +37,8 @@ http://crypto-coin-info-api.crypto.com
 http://crypto-coin-info-api.crypto.com:8080
 http://crypto-nft-bridge-api.crypto.com
 http://crypto-nft-bridge-api.crypto.com:8080
+http://crypto.com
+http://crypto.com:8080
 http://deriv-api.crypto.com
 http://deriv-api.crypto.com:8080
 http://exchange-docs.crypto.com
@@ -171,6 +173,8 @@ https://crypto-coin-info-api.crypto.com
 https://crypto-coin-info-api.crypto.com:8443
 https://crypto-nft-bridge-api.crypto.com
 https://crypto-nft-bridge-api.crypto.com:8443
+https://crypto.com
+https://crypto.com:8443
 https://deriv-api.crypto.com
 https://deriv-api.crypto.com:8443
 https://exchange-docs.crypto.com

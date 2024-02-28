@@ -1,7 +1,6 @@
 http://3p-access.grammarly.com
 http://account.grammarly.com
 http://answers.grammarly.com
-http://api.payments.grammarly.com:443
 http://app.grammarly.com
 http://applet-bundles-static.grammarly.com
 http://applet-bundles.grammarly.com
@@ -71,6 +70,7 @@ http://www.nspl.grammarly.com
 https://3p-access.grammarly.com
 https://account.grammarly.com
 https://answers.grammarly.com
+https://api.payments.grammarly.com
 https://app.grammarly.com
 https://applet-bundles-static.grammarly.com
 https://applet-bundles.grammarly.com

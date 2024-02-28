@@ -1,3 +1,5 @@
+http://base.org
+http://base.org:8080
 http://bridge.base.org
 http://bridge.base.org:8080
 http://bridge.base.org:8443
@@ -25,6 +27,8 @@ http://status.base.org:8443
 http://www.base.org
 http://www.base.org:8080
 http://www.base.org:8443
+https://base.org
+https://base.org:8443
 https://bridge.base.org
 https://developer-access-mainnet.base.org
 https://developer-access-mainnet.base.org:8443

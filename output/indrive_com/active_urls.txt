@@ -1,4 +1,5 @@
 http://beginit.indrive.com
+http://book.indrive.com
 http://careers.indrive.com
 http://cargo.indrive.com
 http://classified.indrive.com
@@ -36,6 +37,7 @@ http://rideshare.indrive.com
 http://s.indrive.com
 http://services.indrive.com
 http://servicos.indrive.com
+http://servicos.indrive.com:443
 http://sgtm.indrive.com
 http://share.indrive.com
 http://sharetrip.indrive.com
@@ -47,10 +49,8 @@ http://us.indrive.com
 http://ventures.indrive.com
 http://wa-auth.indrive.com
 http://www.beginit.indrive.com
-http://www.book.indrive.com
 http://www.indrive.com
 http://www.intercity.indrive.com
-http://www.lp-food.indrive.com
 http://www.lp-services.indrive.com
 http://www.sparklab.indrive.com
 http://www.supernovas.indrive.com
@@ -58,6 +58,7 @@ http://www.updrive.indrive.com
 http://www.yourpace.indrive.com
 http://yourpace.indrive.com
 https://beginit.indrive.com
+https://book.indrive.com
 https://careers.indrive.com
 https://cargo.indrive.com
 https://classified.indrive.com
@@ -94,7 +95,6 @@ https://ref.indrive.com
 https://rideshare.indrive.com
 https://s.indrive.com
 https://services.indrive.com
-https://servicos.indrive.com
 https://sgtm.indrive.com
 https://share.indrive.com
 https://sharetrip.indrive.com

@@ -1,5 +1,7 @@
 beginit.indrive.com:443
 beginit.indrive.com:80
+book.indrive.com:443
+book.indrive.com:80
 careers.indrive.com:443
 careers.indrive.com:80
 cargo.indrive.com:443

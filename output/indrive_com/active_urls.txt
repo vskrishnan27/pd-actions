@@ -1,5 +1,4 @@
 http://beginit.indrive.com
-http://book.indrive.com
 http://careers.indrive.com
 http://cargo.indrive.com
 http://classified.indrive.com
@@ -25,6 +24,7 @@ http://internal.sandbox.delivery.indrive.com
 http://job.indrive.com
 http://landing.indrive.com
 http://lp-food.indrive.com
+http://lp-services.indrive.com
 http://media.indrive.com
 http://money.indrive.com
 http://promo.indrive.com
@@ -35,6 +35,7 @@ http://ref.indrive.com
 http://rideshare.indrive.com
 http://s.indrive.com
 http://services.indrive.com
+http://servicos.indrive.com
 http://sgtm.indrive.com
 http://share.indrive.com
 http://sharetrip.indrive.com
@@ -57,7 +58,6 @@ http://www.updrive.indrive.com
 http://www.yourpace.indrive.com
 http://yourpace.indrive.com
 https://beginit.indrive.com
-https://book.indrive.com
 https://careers.indrive.com
 https://cargo.indrive.com
 https://classified.indrive.com
@@ -83,6 +83,7 @@ https://internal.sandbox.delivery.indrive.com
 https://job.indrive.com
 https://landing.indrive.com
 https://lp-food.indrive.com
+https://lp-services.indrive.com
 https://media.indrive.com
 https://money.indrive.com
 https://promo.indrive.com

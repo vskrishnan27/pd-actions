@@ -6,10 +6,6 @@ api.sorare.com:443
 api.sorare.com:80
 api.sorare.com:8080
 api.sorare.com:8443
-assets.sorare.com:443
-assets.sorare.com:80
-assets.sorare.com:8080
-assets.sorare.com:8443
 blog.sorare.com:443
 blog.sorare.com:80
 frontend-assets.sorare.com:443

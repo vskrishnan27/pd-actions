@@ -3,9 +3,6 @@ http://admin.sorare.com:8080
 http://api.sorare.com
 http://api.sorare.com:8080
 http://api.sorare.com:8443
-http://assets.sorare.com
-http://assets.sorare.com:8080
-http://assets.sorare.com:8443
 http://blog.sorare.com
 http://frontend-assets.sorare.com
 http://frontend-assets.sorare.com:8080
@@ -38,7 +35,6 @@ http://www.sorare.com:8080
 https://admin.sorare.com
 https://admin.sorare.com:8443
 https://api.sorare.com
-https://assets.sorare.com
 https://blog.sorare.com
 https://frontend-assets.sorare.com
 https://go.sorare.com

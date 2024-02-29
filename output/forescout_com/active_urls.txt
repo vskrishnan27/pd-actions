@@ -36,7 +36,6 @@ http://marketplace.forescout.com:8080
 http://marketplace.forescout.com:8443
 http://resources.forescout.com
 http://resources.forescout.com:8443
-http://sra-emea2.forescout.com
 http://support.forescout.com
 http://support.forescout.com:8443
 http://t.forescout.com
@@ -75,7 +74,6 @@ https://kb.forescout.com
 https://license2.forescout.com
 https://marketplace.forescout.com
 https://resources.forescout.com
-https://sra-emea2.forescout.com
 https://support.forescout.com
 https://t.forescout.com
 https://trainingsurvey.forescout.com

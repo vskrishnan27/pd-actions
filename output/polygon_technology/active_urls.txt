@@ -75,6 +75,7 @@ http://open-api-staging.polygon.technology
 http://open-api-staging.polygon.technology:8080
 http://partnersupport.polygon.technology
 http://partnersupport.polygon.technology:8080
+http://polygon.technology
 http://polytech-assets.polygon.technology
 http://polytech-assets.polygon.technology:8080
 http://rfs-dev-api.polygon.technology
@@ -99,8 +100,6 @@ http://snapshots.polygon.technology:8080
 http://spotlight.polygon.technology
 http://staking.polygon.technology
 http://staking.polygon.technology:8080
-http://status-staging.polygon.technology
-http://status-staging.polygon.technology:8080
 http://support.polygon.technology
 http://university.polygon.technology
 http://university.polygon.technology:8080
@@ -119,6 +118,7 @@ http://zkevm.polygon.technology
 http://zkevm.polygon.technology:8080
 https://academy.polygon.technology
 https://academy.polygon.technology:8443
+https://agglayer-dev.polygon.technology
 https://ai.polygon.technology
 https://analytics-dashboard.polygon.technology
 https://analytics-dashboard.polygon.technology:8443
@@ -192,6 +192,7 @@ https://open-api-staging.polygon.technology
 https://open-api-staging.polygon.technology:8443
 https://partnersupport.polygon.technology
 https://partnersupport.polygon.technology:8443
+https://polygon.technology
 https://polytech-assets.polygon.technology
 https://polytech-assets.polygon.technology:8443
 https://rfs-dev-api.polygon.technology
@@ -215,8 +216,6 @@ https://snapshots.polygon.technology:8443
 https://spotlight.polygon.technology
 https://staking.polygon.technology
 https://staking.polygon.technology:8443
-https://status-staging.polygon.technology
-https://status-staging.polygon.technology:8443
 https://support.polygon.technology
 https://university.polygon.technology
 https://university.polygon.technology:8443

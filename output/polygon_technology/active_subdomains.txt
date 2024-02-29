@@ -1,4 +1,6 @@
 academy.polygon.technology
+agglayer-dev.polygon.technology
+agglayer-test.polygon.technology
 ai.polygon.technology
 analytics-dashboard.polygon.technology
 analytics.polygon.technology
@@ -6,6 +8,7 @@ api-polygon-tokens.polygon.technology
 argocd.polygon.technology
 beta.polygon.technology
 blog.polygon.technology
+cdk-agglayer-dev.polygon.technology
 community.polygon.technology
 developersupport-zkevm.polygon.technology
 developersupport.polygon.technology
@@ -55,7 +58,6 @@ snapshot-download.polygon.technology
 snapshots.polygon.technology
 spotlight.polygon.technology
 staking.polygon.technology
-status-staging.polygon.technology
 support.polygon.technology
 university.polygon.technology
 wagmijobs.polygon.technology

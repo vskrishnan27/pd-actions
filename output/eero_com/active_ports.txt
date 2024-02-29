@@ -28,8 +28,6 @@ docparser.bizops.eero.com:443
 docparser.bizops.staging.eero.com:443
 dsar-stage.eero.com:443
 dsar.eero.com:443
-eero.com:443
-eero.com:80
 image.email.eero.com:443
 image.email.eero.com:80
 mail.eero.com:25

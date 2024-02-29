@@ -6,6 +6,7 @@ http://bid484j.5507270m.okx.com
 http://chainrpc.okx.com
 http://chainrpc.okx.com:8443
 http://jpush.okx.com
+http://jpush.okx.com:8080
 http://jpush.okx.com:8443
 http://jpushws.okx.com
 http://jpushws.okx.com:8443
@@ -21,13 +22,20 @@ http://tr.okx.com
 http://tr.okx.com:8443
 http://us.okx.com
 http://us.okx.com:8443
+http://ustest.okx.com
+http://ustest.okx.com:8443
 http://wallet.okx.com
+http://wsdexpre.okx.com:8080
 http://www.okx.com
 http://www.okx.com:8443
 http://x1rpc.okx.com
 http://x1rpc.okx.com:8443
 http://x1testrpc.okx.com
 http://x1testrpc.okx.com:8443
+http://xlayerrpc.okx.com
+http://xlayerrpc.okx.com:8443
+http://xlayertestrpc.okx.com
+http://xlayertestrpc.okx.com:8443
 https://aws.okx.com
 https://chainrpc.okx.com
 https://jpush.okx.com
@@ -44,6 +52,7 @@ https://okx.com
 https://static.okx.com
 https://tr.okx.com
 https://us.okx.com
+https://ustest.okx.com
 https://wallet.okx.com
 https://wsaws.okx.com
 https://wsaws.okx.com:8443
@@ -74,3 +83,9 @@ https://x1testws.okx.com
 https://x1testws.okx.com:8443
 https://x1ws.okx.com
 https://x1ws.okx.com:8443
+https://xlayerrpc.okx.com
+https://xlayertestrpc.okx.com
+https://xlayertestws.okx.com
+https://xlayertestws.okx.com:8443
+https://xlayerws.okx.com
+https://xlayerws.okx.com:8443

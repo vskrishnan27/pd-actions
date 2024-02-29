@@ -15,6 +15,7 @@ okx.com
 static.okx.com
 tr.okx.com
 us.okx.com
+ustest.okx.com
 wallet.okx.com
 ws.okx.com
 wsaws.okx.com
@@ -33,3 +34,7 @@ x1rpc.okx.com
 x1testrpc.okx.com
 x1testws.okx.com
 x1ws.okx.com
+xlayerrpc.okx.com
+xlayertestrpc.okx.com
+xlayertestws.okx.com
+xlayerws.okx.com

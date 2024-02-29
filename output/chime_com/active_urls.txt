@@ -120,6 +120,7 @@ http://public-assets.chime.com:8080
 http://public-assets.chime.com:8443
 http://static-attachments.chime.com
 http://static-attachments.chime.com:8080
+http://static-attachments.chime.com:8443
 http://status.chime.com
 http://status.chime.com:8080
 http://transaction.chime.com
@@ -204,7 +205,6 @@ https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
 https://public-assets.chime.com
 https://static-attachments.chime.com
-https://static-attachments.chime.com:8443
 https://status.chime.com
 https://status.chime.com:8443
 https://transaction.chime.com

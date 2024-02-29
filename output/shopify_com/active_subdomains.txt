@@ -86,6 +86,7 @@ cla.shopify.com
 classic-help-staging.shopify.com
 classic-help.shopify.com
 classifieds.shopify.com
+click.email.shopify.com
 cms.everest.shopify.com
 cms.shopify.com
 cname.shopify.com
@@ -281,7 +282,6 @@ merchant-feedback.shopify.com
 milestones.shopify.com
 mobile.shopify.com
 mta.email.shopify.com
-mta2.email.shopify.com
 mta4.email.shopify.com
 mx.shopify.com
 mxmkto.email.plus.shopify.com
@@ -472,6 +472,7 @@ thescroll.shopify.com
 tim-exclusive.shopify.com
 timber.shopify.com
 tmt.shopify.com
+toronto.shopify.com
 torontoretailtour.shopify.com
 toykingdom.shopify.com
 twominutetutorials.shopify.com

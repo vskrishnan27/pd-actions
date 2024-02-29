@@ -513,8 +513,8 @@ http://milestones.shopify.com
 http://milestones.shopify.com:8080
 http://mobile.shopify.com
 http://mobile.shopify.com:8080
-http://mta2.email.shopify.com
-http://mta2.email.shopify.com:8080
+http://mta.email.shopify.com
+http://mta.email.shopify.com:8080
 http://mta4.email.shopify.com
 http://mta4.email.shopify.com:8080
 http://mx.shopify.com
@@ -684,6 +684,8 @@ http://shopify-plus-meet-up.shopify.com
 http://shopify-plus-meet-up.shopify.com:8080
 http://simba-sleep.shopify.com
 http://simba-sleep.shopify.com:8080
+http://site.email.shopify.com
+http://site.email.shopify.com:8080
 http://sl.shopify.com
 http://sl2.shopify.com
 http://sl3.shopify.com
@@ -880,8 +882,6 @@ http://vaultapp1.ec2.shopify.com
 http://vaultapp1.ec2.shopify.com:8080
 http://videomaker.shopify.com
 http://videomaker.shopify.com:8080
-http://view.email.shopify.com
-http://view.email.shopify.com:8080
 http://vision.shopify.com
 http://vision.shopify.com:8080
 http://wc.shopify.com
@@ -1442,8 +1442,8 @@ https://milestones.shopify.com
 https://milestones.shopify.com:8443
 https://mobile.shopify.com
 https://mobile.shopify.com:8443
-https://mta2.email.shopify.com
-https://mta2.email.shopify.com:8443
+https://mta.email.shopify.com
+https://mta.email.shopify.com:8443
 https://mta4.email.shopify.com
 https://mta4.email.shopify.com:8443
 https://mx.shopify.com
@@ -1614,6 +1614,8 @@ https://shopify-plus-meet-up.shopify.com
 https://shopify-plus-meet-up.shopify.com:8443
 https://simba-sleep.shopify.com
 https://simba-sleep.shopify.com:8443
+https://site.email.shopify.com
+https://site.email.shopify.com:8443
 https://sl.shopify.com
 https://sl2.shopify.com
 https://sl3.shopify.com
@@ -1810,8 +1812,6 @@ https://vaultapp1.ec2.shopify.com
 https://vaultapp1.ec2.shopify.com:8443
 https://videomaker.shopify.com
 https://videomaker.shopify.com:8443
-https://view.email.shopify.com
-https://view.email.shopify.com:8443
 https://vision.shopify.com
 https://vision.shopify.com:8443
 https://wc.shopify.com

@@ -1033,10 +1033,10 @@ mobile.shopify.com:443
 mobile.shopify.com:80
 mobile.shopify.com:8080
 mobile.shopify.com:8443
-mta2.email.shopify.com:443
-mta2.email.shopify.com:80
-mta2.email.shopify.com:8080
-mta2.email.shopify.com:8443
+mta.email.shopify.com:443
+mta.email.shopify.com:80
+mta.email.shopify.com:8080
+mta.email.shopify.com:8443
 mta4.email.shopify.com:443
 mta4.email.shopify.com:80
 mta4.email.shopify.com:8080
@@ -1378,6 +1378,10 @@ simba-sleep.shopify.com:443
 simba-sleep.shopify.com:80
 simba-sleep.shopify.com:8080
 simba-sleep.shopify.com:8443
+site.email.shopify.com:443
+site.email.shopify.com:80
+site.email.shopify.com:8080
+site.email.shopify.com:8443
 sl.shopify.com:443
 sl.shopify.com:80
 sl2.shopify.com:443
@@ -1770,10 +1774,6 @@ videomaker.shopify.com:443
 videomaker.shopify.com:80
 videomaker.shopify.com:8080
 videomaker.shopify.com:8443
-view.email.shopify.com:443
-view.email.shopify.com:80
-view.email.shopify.com:8080
-view.email.shopify.com:8443
 vision.shopify.com:443
 vision.shopify.com:80
 vision.shopify.com:8080

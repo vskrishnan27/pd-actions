@@ -34,6 +34,7 @@ http://cpanel.hostinger.com
 http://cpanel.hostinger.com:8080
 http://d.account.hostinger.com
 http://d.account.hostinger.com:8080
+http://d.account.hostinger.com:8443
 http://d.email.hostinger.com
 http://d.email.hostinger.com:8080
 http://d.email.hostinger.com:8443
@@ -161,7 +162,6 @@ https://convalida.hostinger.com
 https://cpanel.hostinger.com
 https://cpanel.hostinger.com:8443
 https://d.account.hostinger.com
-https://d.account.hostinger.com:8443
 https://d.email.hostinger.com
 https://design.hostinger.com
 https://dogrula.hostinger.com

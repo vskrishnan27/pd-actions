@@ -4,8 +4,6 @@ apps.stage.superbet.ro
 apps.superbet.ro
 ax-bcknd.betinvent.superbet.ro
 ax-www.betinvent.superbet.ro
-betting.qa.superbet.ro
-betting.stage.superbet.ro
 bonuscasino.superbet.ro
 bonussport.superbet.ro
 cashout.web.superbet.ro

@@ -218,6 +218,7 @@ learning.freshworks.com
 lighthouse.freshworks.com
 loupentecnologia.freshworks.com
 lucida.freshworks.com
+lumapix.freshworks.com
 macombcountygovernment-org.freshworks.com
 mailserviceeuc-internal.freshworks.com
 mancosa.freshworks.com

@@ -477,6 +477,8 @@ imperativechemicalshelp.freshworks.com:443
 imperativechemicalshelp.freshworks.com:80
 in.accounts.freshworks.com:443
 in.accounts.freshworks.com:80
+in.freshworks.com:443
+in.freshworks.com:80
 ind-widget.freshworks.com:443
 ind-widget.freshworks.com:80
 indexer.freshworks.com:443
@@ -522,6 +524,8 @@ loupentecnologia.freshworks.com:443
 loupentecnologia.freshworks.com:80
 lucida.freshworks.com:443
 lucida.freshworks.com:80
+lumapix.freshworks.com:443
+lumapix.freshworks.com:80
 macombcountygovernment-org.freshworks.com:443
 macombcountygovernment-org.freshworks.com:80
 mancosa.freshworks.com:443
@@ -714,14 +718,12 @@ trust.freshworks.com:443
 trust.freshworks.com:80
 trust.internal.freshworks.com:443
 trust.internal.freshworks.com:80
-ubx-eu.freshworks.com:443
-ubx-eu.freshworks.com:80
+ubx-au.freshworks.com:443
+ubx-au.freshworks.com:80
 ubx-in.freshworks.com:443
 ubx-in.freshworks.com:80
 ubx-mec.freshworks.com:443
 ubx-mec.freshworks.com:80
-ubx.freshworks.com:443
-ubx.freshworks.com:80
 uecelectronics.freshworks.com:443
 uecelectronics.freshworks.com:80
 umt1.freshworks.com:443

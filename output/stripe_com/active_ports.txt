@@ -187,11 +187,12 @@ issuing-hooks-public.stripe.com:443
 issuing-key.stripe.com:443
 issuing-key.stripe.com:80
 jira.corp.stripe.com:443
+js.stripe.com:443
+js.stripe.com:80
 jss.prod.corp.stripe.com:443
 jss.qa.corp.stripe.com:443
 lists.stripe.com:443
 lists.stripe.com:80
-local.corp.stripe.com:443
 lokalise-hooks.stripe.com:443
 lokalise-hooks.stripe.com:80
 m.stripe.com:443
@@ -213,6 +214,7 @@ pay.stripe.com:443
 pay.stripe.com:80
 payments.stripe.com:443
 payments.stripe.com:80
+pdx.corp.stripe.com:443
 pm-hooks.stripe.com:443
 pm-hooks.stripe.com:80
 pm-redirects.stripe.com:443

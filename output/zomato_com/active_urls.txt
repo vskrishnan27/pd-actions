@@ -6,7 +6,6 @@ http://blog.zomato.com
 http://book.zomato.com
 http://business-blog.zomato.com
 http://business.zomato.com
-http://cc.zomato.com
 http://cc2.zomato.com
 http://ccc.zomato.com
 http://cert1.zomato.com
@@ -19,6 +18,7 @@ http://culture.zomato.com
 http://developers.zomato.com
 http://engineering.zomato.com
 http://link.zomato.com
+http://link.zomato.com:8080
 http://m.zomato.com
 http://mail.zomato.com
 http://maps.zomato.com
@@ -47,7 +47,6 @@ https://blog.zomato.com
 https://book.zomato.com
 https://business-blog.zomato.com
 https://business.zomato.com
-https://cc.zomato.com
 https://cc2.zomato.com
 https://ccc.zomato.com
 https://cert1.zomato.com
@@ -61,6 +60,7 @@ https://developers.zomato.com
 https://engineering.zomato.com
 https://jumbo.zomato.com
 https://link.zomato.com
+https://link.zomato.com:8443
 https://m.zomato.com
 https://maps.zomato.com
 https://mobile.zomato.com

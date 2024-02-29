@@ -13,7 +13,6 @@ http://devhk-static.bitmex.com
 http://devhk.bitmex.com
 http://devhk.bitmex.com:8080
 http://documents.bitmex.com
-http://documents.bitmex.com:443
 http://documents.bitmex.com:8080
 http://documents.devhk.bitmex.com
 http://documents.devhk.bitmex.com:8080
@@ -24,9 +23,9 @@ http://documents.testnet.bitmex.com:8080
 http://eu.onfido.bitmex.com
 http://eu.onfido.bitmex.com:8080
 http://eu.onfido.devhk.bitmex.com
-http://eu.onfido.devhk.bitmex.com:443
 http://eu.onfido.devhk.bitmex.com:8080
 http://eu.onfido.testnet.bitmex.com
+http://eu.onfido.testnet.bitmex.com:443
 http://eu.onfido.testnet.bitmex.com:8080
 http://l.m.bitmex.com
 http://l.m.testnet.bitmex.com
@@ -54,8 +53,6 @@ http://support.services.bitmex.com
 http://support.testnet.bitmex.com
 http://support.testnet.services.bitmex.com
 http://testnet-static.bitmex.com
-http://testnet.bitmex.com
-http://testnet.bitmex.com:8443
 http://testnet2.bitmex.com
 http://token.bitmex.com
 http://token.bitmex.com:8080
@@ -81,8 +78,6 @@ http://web-ws.testnet.bitmex.com
 http://web-ws.testnet.bitmex.com:8443
 http://ws.bitmex.com
 http://ws.bitmex.com:8080
-http://ws.devhk.bitmex.com
-http://ws.devhk.bitmex.com:8080
 http://www.bitmex.com
 http://www.bitmex.com:8443
 https://academy.bitmex.com
@@ -96,6 +91,7 @@ https://cn.research.bitmex.com
 https://devhk-static.bitmex.com
 https://devhk.bitmex.com
 https://devhk.bitmex.com:8443
+https://documents.bitmex.com
 https://documents.bitmex.com:8443
 https://documents.devhk.bitmex.com
 https://documents.devhk.bitmex.com:8443
@@ -107,8 +103,8 @@ https://email.mg.bitmex.com
 https://email.mg.bitmex.com:80
 https://eu.onfido.bitmex.com
 https://eu.onfido.bitmex.com:8443
+https://eu.onfido.devhk.bitmex.com
 https://eu.onfido.devhk.bitmex.com:8443
-https://eu.onfido.testnet.bitmex.com
 https://eu.onfido.testnet.bitmex.com:8443
 https://fbnotify.dev.devhk.services.bitmex.com
 https://fbnotify.devhk.services.bitmex.com
@@ -140,7 +136,6 @@ https://support.services.bitmex.com
 https://support.testnet.bitmex.com
 https://support.testnet.services.bitmex.com
 https://testnet-static.bitmex.com
-https://testnet.bitmex.com
 https://testnet2.bitmex.com
 https://token.bitmex.com
 https://token.bitmex.com:8443
@@ -164,6 +159,4 @@ https://web-ws.devhk.bitmex.com:8443
 https://web-ws.testnet.bitmex.com
 https://ws.bitmex.com
 https://ws.bitmex.com:8443
-https://ws.devhk.bitmex.com
-https://ws.devhk.bitmex.com:8443
 https://www.bitmex.com

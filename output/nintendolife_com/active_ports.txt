@@ -31,6 +31,9 @@ deltaconsultoresnoa.comwww.nintendolife.com:80
 dev.nintendolife.com:22
 dev.nintendolife.com:443
 dev.nintendolife.com:80
+ds.nintendolife.com:22
+ds.nintendolife.com:443
+ds.nintendolife.com:80
 dsiware.nintendolife.com:22
 dsiware.nintendolife.com:443
 dsiware.nintendolife.com:80
@@ -55,10 +58,6 @@ m.nintendolife.com:80
 maliaeroports.comwww.nintendolife.com:22
 maliaeroports.comwww.nintendolife.com:443
 maliaeroports.comwww.nintendolife.com:80
-nintendolife.com:443
-nintendolife.com:80
-nintendolife.com:8080
-nintendolife.com:8443
 pfadev.dijgtal.comwww.nintendolife.com:22
 pfadev.dijgtal.comwww.nintendolife.com:443
 pfadev.dijgtal.comwww.nintendolife.com:80
@@ -77,9 +76,6 @@ static.nintendolife.com:8443
 support.nintendolife.com:22
 support.nintendolife.com:443
 support.nintendolife.com:80
-vc.nintendolife.com:22
-vc.nintendolife.com:443
-vc.nintendolife.com:80
 wii.nintendolife.com:22
 wii.nintendolife.com:443
 wii.nintendolife.com:80

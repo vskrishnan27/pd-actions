@@ -1,0 +1,2 @@
+[credentials-disclosure] [http] [unknown] https://www.fireblocks.com [apiSecret = fs]
+[credentials-disclosure] [http] [unknown] https://www.fireblocks.com/ [apiSecret = fs]

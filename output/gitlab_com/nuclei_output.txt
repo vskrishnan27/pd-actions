@@ -1,0 +1,46 @@
+
+
+
+</body>
+</body>
+</body>
+</html>
+</html>
+</html>
+<body>
+<body>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<center><h1>400 Bad Request</h1></center>
+<center><h1>400 Bad Request</h1></center>
+<head><title>400 Bad Request</title></head>
+<head><title>400 Bad Request</title></head>
+<head><title>400 Bad Request</title></head>
+<hr><center>nginx</center>
+<hr><center>nginx</center>
+<hr><center>nginx</center>
+<html>
+<html>
+<html>
+Connection: close
+Connection: close
+Connection: close
+Content-Length: 150
+Content-Length: 150
+Content-Length: 150
+Content-Type: text/html
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 01 Mar 2024 20:43:34 GMT
+Date: Fri, 01 Mar 2024 20:43:34 GMT
+Date: Fri, 01 Mar 2024 20:43:54 GMT
+[credentials-disclosure] [http] [unknown] https://handbook.gitlab.com [apiKey: "71feb3efa6044f78ab6b8a7422e727b7",indexName: 'handbook-gitlab',indexName: "handbook-gitlab",apiKey: '71feb3efa6044f78ab6b8a7422e727b7']
+[credentials-disclosure] [http] [unknown] https://handbook.gitlab.com/ [indexName: 'handbook-gitlab',indexName: "handbook-gitlab",apiKey: '71feb3efa6044f78ab6b8a7422e727b7',apiKey: "71feb3efa6044f78ab6b8a7422e727b7"]
+[credentials-disclosure] [http] [unknown] https://university.gitlab.com [AppToken: '6edac779d2b6e90c7f4d93f2a22910fe']
+[credentials-disclosure] [http] [unknown] https://university.gitlab.com/ [AppToken: '6edac779d2b6e90c7f4d93f2a22910fe']
+[erlang-daemon:default-instances] [tcp] [low] 4456656-review-14369-updat-77up3w.design-staging.gitlab.com:443 [HTTP/1.1 400 Bad Request
+[erlang-daemon:default-instances] [tcp] [low] 4456656-review-14369-updat-pod18c.design-staging.gitlab.com:443 [HTTP/1.1 400 Bad Request
+[erlang-daemon:default-instances] [tcp] [low] 4456656-review-dev-14369-u-micvmc.design-staging.gitlab.com:443 [HTTP/1.1 400 Bad Request
+]
+]
+]

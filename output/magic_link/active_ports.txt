@@ -136,10 +136,6 @@ nft-contracts.magic.link:443
 nft-contracts.magic.link:80
 nftnyc.magic.link:443
 nftnyc.magic.link:80
-partner-auth.magic.link:443
-partner-auth.magic.link:80
-partner-auth.magic.link:8080
-partner-auth.magic.link:8443
 permissionless23.magic.link:443
 permissionless23.magic.link:80
 redpacket.magic.link:443

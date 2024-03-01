@@ -1,0 +1,1 @@
+[config-rb] [http] [unknown] https://playcanvas.com/config.rb

@@ -32,6 +32,7 @@ http://email.chain.link
 http://email.chain.link:8080
 http://events.chain.link
 http://faucet.chain.link
+http://faucet.chain.link:8080
 http://faucet.chain.link:8443
 http://faucets-ui-preview.chain.link
 http://faucets-ui-preview.chain.link:8443

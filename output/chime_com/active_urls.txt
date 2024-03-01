@@ -86,7 +86,6 @@ http://member-dev1.chime.com:8080
 http://member-dev1.chime.com:8443
 http://member-qa.chime.com
 http://member-qa.chime.com:8080
-http://member-qa.chime.com:8443
 http://member.chime.com
 http://member.chime.com:8080
 http://member.chime.com:8443
@@ -143,6 +142,7 @@ http://wp-dev4.chime.com:8080
 http://wp-dev4.chime.com:8443
 http://wp-dev5.chime.com
 http://wp-dev5.chime.com:8080
+http://wp-dev5.chime.com:8443
 http://wp-integ.chime.com
 http://wp-integ.chime.com:8080
 http://wp-integ.chime.com:8443
@@ -191,6 +191,7 @@ https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
 https://member-qa.chime.com
+https://member-qa.chime.com:8443
 https://member.chime.com
 https://mobile-state.chime.com
 https://monocle-dev1.chime.com
@@ -213,7 +214,6 @@ https://wp-dev2.chime.com
 https://wp-dev3.chime.com
 https://wp-dev4.chime.com
 https://wp-dev5.chime.com
-https://wp-dev5.chime.com:8443
 https://wp-integ.chime.com
 https://wp-qa.chime.com
 https://www.chime.com

@@ -141,6 +141,10 @@ mpro-content-hub.crypto.com:443
 mpro-content-hub.crypto.com:80
 mpro-content-hub.crypto.com:8080
 mpro-content-hub.crypto.com:8443
+nft.crypto.com:443
+nft.crypto.com:80
+nft.crypto.com:8080
+nft.crypto.com:8443
 opening-night.crypto.com:443
 opening-night.crypto.com:80
 opening-night.crypto.com:8080
@@ -227,6 +231,10 @@ stream.crypto.com:443
 stream.crypto.com:80
 stream.crypto.com:8080
 stream.crypto.com:8443
+tax.crypto.com:443
+tax.crypto.com:80
+tax.crypto.com:8080
+tax.crypto.com:8443
 tpp-tmp.crypto.com:443
 tpp-tmp.crypto.com:80
 tpp-tmp.crypto.com:8080

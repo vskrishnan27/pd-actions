@@ -162,12 +162,12 @@ jobs:
 
       - name: List Nuclei Templates
         run: |
-          ls -lt /home/runner/nuclei-templates/conifg/
+          ls -lt /home/runner/nuclei-templates/config
         shell: bash
 
       - name: Running Nuclei for vulnerability assessment
         run: |
-          nuclei -config /home/runner/nuclei-templateconfig/bugbounty.yml -l ${{ env.folder_path }}/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee ${{ env.folder_path }}/nuclei_output.txt
+          nuclei -config /home/runner/nuclei-templates/config/bugbounty.yml -l ${{ env.folder_path }}/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee ${{ env.folder_path }}/nuclei_output.txt
         shell: bash
 
       - name: Notify CVE details 

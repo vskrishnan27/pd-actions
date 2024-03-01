@@ -88,6 +88,7 @@ http://identity-broker-beta.sc-corp.net
 http://identity-broker-prod.sc-corp.net
 http://identity-broker-stage.sc-corp.net
 http://identityagent-dot-eatmyshortener.gae.sc-corp.net
+http://jira-dev.sc-corp.net
 http://jira-mx-dev.sc-corp.net
 http://jira-mx.sc-corp.net
 http://jira-stage-api.sc-corp.net
@@ -314,6 +315,7 @@ https://identity-broker-beta.sc-corp.net
 https://identity-broker-prod.sc-corp.net
 https://identity-broker-stage.sc-corp.net
 https://identityagent-dot-eatmyshortener.gae.sc-corp.net
+https://jira-dev.sc-corp.net
 https://jira-mx-dev.sc-corp.net
 https://jira-mx.sc-corp.net
 https://jira-stage-api.sc-corp.net

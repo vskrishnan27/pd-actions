@@ -173,8 +173,9 @@ jobs:
       - name: Notify CVE details 
         run: |
           FILE_CONTENT=$(<"$GITHUB_WORKSPACE/${{ env.folder_path }}/nuclei_output.txt")
+          echo "$FILE_CONTENT" 
           bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "File Contents :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} ::: $FILE_CONTENT"
-          
+
       - name: Notify Status End
         run: |
           bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh end

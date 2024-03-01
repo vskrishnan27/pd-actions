@@ -107,5 +107,9 @@ support.enjin.io:443
 support.enjin.io:80
 support.enjin.io:8080
 support.enjin.io:8443
+wallet.enjin.io:443
+wallet.enjin.io:80
+wallet.enjin.io:8080
+wallet.enjin.io:8443
 www.enjin.io:443
 www.enjin.io:80

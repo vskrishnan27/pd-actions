@@ -6,7 +6,6 @@ http://bid484j.5507270m.okx.com
 http://chainrpc.okx.com
 http://chainrpc.okx.com:8443
 http://jpush.okx.com
-http://jpush.okx.com:8080
 http://jpush.okx.com:8443
 http://jpushws.okx.com
 http://jpushws.okx.com:8443
@@ -25,7 +24,6 @@ http://us.okx.com:8443
 http://ustest.okx.com
 http://ustest.okx.com:8443
 http://wallet.okx.com
-http://wsdexpre.okx.com:8080
 http://www.okx.com
 http://www.okx.com:8443
 http://x1rpc.okx.com

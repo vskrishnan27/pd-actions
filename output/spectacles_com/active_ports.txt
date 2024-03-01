@@ -22,6 +22,10 @@ gbp-en.orders.spectacles.com:443
 gbp-en.orders.spectacles.com:80
 gbp-en.orders.spectacles.com:8080
 gbp-en.orders.spectacles.com:8443
+orders.spectacles.com:443
+orders.spectacles.com:80
+orders.spectacles.com:8080
+orders.spectacles.com:8443
 pln-pl.orders.spectacles.com:443
 pln-pl.orders.spectacles.com:80
 pln-pl.orders.spectacles.com:8080

@@ -1,5 +1,9 @@
 http://academy.polygon.technology
 http://academy.polygon.technology:8080
+http://agglayer-dev.polygon.technology
+http://agglayer-dev.polygon.technology:8080
+http://agglayer-test.polygon.technology
+http://agglayer-test.polygon.technology:8080
 http://ai.polygon.technology
 http://analytics-dashboard.polygon.technology
 http://analytics-dashboard.polygon.technology:8080
@@ -119,6 +123,9 @@ http://zkevm.polygon.technology:8080
 https://academy.polygon.technology
 https://academy.polygon.technology:8443
 https://agglayer-dev.polygon.technology
+https://agglayer-dev.polygon.technology:8443
+https://agglayer-test.polygon.technology
+https://agglayer-test.polygon.technology:8443
 https://ai.polygon.technology
 https://analytics-dashboard.polygon.technology
 https://analytics-dashboard.polygon.technology:8443

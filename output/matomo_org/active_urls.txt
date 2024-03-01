@@ -44,6 +44,7 @@ http://staging.matomo.org
 http://survey.matomo.org
 http://sv.matomo.org
 http://test-tag-manager.matomo.org
+http://themes.matomo.org
 http://translations.matomo.org
 http://video.matomo.org
 http://www.matomo.org
@@ -91,6 +92,7 @@ https://staging.matomo.org
 https://survey.matomo.org
 https://sv.matomo.org
 https://test-tag-manager.matomo.org
+https://themes.matomo.org
 https://translations.matomo.org
 https://video.matomo.org
 https://www.matomo.org

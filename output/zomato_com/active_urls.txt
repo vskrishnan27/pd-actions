@@ -6,6 +6,7 @@ http://blog.zomato.com
 http://book.zomato.com
 http://business-blog.zomato.com
 http://business.zomato.com
+http://cc.zomato.com
 http://cc2.zomato.com
 http://ccc.zomato.com
 http://cert1.zomato.com
@@ -47,6 +48,7 @@ https://blog.zomato.com
 https://book.zomato.com
 https://business-blog.zomato.com
 https://business.zomato.com
+https://cc.zomato.com
 https://cc2.zomato.com
 https://ccc.zomato.com
 https://cert1.zomato.com

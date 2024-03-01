@@ -172,8 +172,9 @@ jobs:
 
       - name: Notify CVE details 
         run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "CVE COUNT :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }}  : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/nuclei_output.txt | grep CVE-  | wc -l)"      
-
+          FILE_CONTENT=$(<"$GITHUB_WORKSPACE/${{ env.folder_path }}/nuclei_output.txt")
+          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "File Contents :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} ::: $FILE_CONTENT"
+          
       - name: Notify Status End
         run: |
           bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh end

@@ -20,10 +20,6 @@ cn.research.bitmex.com:443
 cn.research.bitmex.com:80
 devhk-static.bitmex.com:443
 devhk-static.bitmex.com:80
-devhk.bitmex.com:443
-devhk.bitmex.com:80
-devhk.bitmex.com:8080
-devhk.bitmex.com:8443
 documents.bitmex.com:443
 documents.bitmex.com:80
 documents.bitmex.com:8080
@@ -111,6 +107,10 @@ support.testnet.services.bitmex.com:443
 support.testnet.services.bitmex.com:80
 testnet-static.bitmex.com:443
 testnet-static.bitmex.com:80
+testnet.bitmex.com:443
+testnet.bitmex.com:80
+testnet.bitmex.com:8080
+testnet.bitmex.com:8443
 testnet2.bitmex.com:443
 testnet2.bitmex.com:80
 token.bitmex.com:443
@@ -161,6 +161,10 @@ ws.bitmex.com:443
 ws.bitmex.com:80
 ws.bitmex.com:8080
 ws.bitmex.com:8443
+ws.testnet.bitmex.com:443
+ws.testnet.bitmex.com:80
+ws.testnet.bitmex.com:8080
+ws.testnet.bitmex.com:8443
 www.bitmex.com:443
 www.bitmex.com:80
 www.bitmex.com:8080

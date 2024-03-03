@@ -45,7 +45,6 @@ http://enterpriseregistration.chime.com
 http://error-pages.chime.com
 http://flashpaper-dev1.chime.com
 http://flashpaper-dev1.chime.com:8080
-http://flashpaper-dev1.chime.com:8443
 http://flashpaper-qa.chime.com
 http://flashpaper-qa.chime.com:8080
 http://flashpaper-qa.chime.com:8443
@@ -67,7 +66,6 @@ http://inspector-qa.chime.com:8080
 http://inspector-qa.chime.com:8443
 http://inspector.chime.com
 http://inspector.chime.com:8080
-http://inspector.chime.com:8443
 http://interchange.chime.com
 http://links.account.chime.com
 http://links.account.chime.com:8080
@@ -83,7 +81,6 @@ http://locations.chime.com:8080
 http://locations.chime.com:8443
 http://member-dev1.chime.com
 http://member-dev1.chime.com:8080
-http://member-dev1.chime.com:8443
 http://member-qa.chime.com
 http://member-qa.chime.com:8080
 http://member-qa.chime.com:8443
@@ -177,6 +174,7 @@ https://enterpriseenrollment.chime.com
 https://enterpriseregistration.chime.com
 https://error-pages.chime.com
 https://flashpaper-dev1.chime.com
+https://flashpaper-dev1.chime.com:8443
 https://flashpaper-qa.chime.com
 https://flashpaper.chime.com
 https://handbooks.chime.com
@@ -185,12 +183,14 @@ https://help.chime.com
 https://inspector-dev1.chime.com
 https://inspector-qa.chime.com
 https://inspector.chime.com
+https://inspector.chime.com:8443
 https://interchange.chime.com
 https://links.account.chime.com
 https://links.notify.chime.com
 https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
+https://member-dev1.chime.com:8443
 https://member-qa.chime.com
 https://member.chime.com
 https://mobile-state.chime.com

@@ -48,6 +48,8 @@ api.dev.portal.hedera.com
 api.dev.portal.hedera.com
 api.dev.portal.hedera.com
 api.dev.portal.hedera.com
+api.dev.portal.hedera.com
+api.portal.hedera.com
 api.portal.hedera.com
 api.portal.hedera.com
 api.portal.hedera.com
@@ -148,6 +150,8 @@ api.sandbox.portal.hedera.com
 api.sandbox.portal.hedera.com
 api.sandbox.portal.hedera.com
 api.sandbox.portal.hedera.com
+api.sandbox.portal.hedera.com
+artifacts.hedera.com
 artifacts.hedera.com
 artifacts.hedera.com
 artifacts.hedera.com
@@ -236,6 +240,8 @@ brand.hedera.com
 brand.hedera.com
 brand.hedera.com
 brand.hedera.com
+brand.hedera.com
+builds.hedera.com
 builds.hedera.com
 builds.hedera.com
 builds.hedera.com
@@ -336,6 +342,8 @@ cop-28.hedera.com
 cop-28.hedera.com
 cop-28.hedera.com
 cop-28.hedera.com
+cop-28.hedera.com
+dao.hedera.com
 dao.hedera.com
 dao.hedera.com
 dao.hedera.com
@@ -436,6 +444,8 @@ defi-ui-components.hedera.com
 defi-ui-components.hedera.com
 defi-ui-components.hedera.com
 defi-ui-components.hedera.com
+defi-ui-components.hedera.com
+defi-ui.hedera.com
 defi-ui.hedera.com
 defi-ui.hedera.com
 defi-ui.hedera.com
@@ -536,6 +546,8 @@ dev.portal.hedera.com
 dev.portal.hedera.com
 dev.portal.hedera.com
 dev.portal.hedera.com
+dev.portal.hedera.com
+docs.hedera.com
 docs.hedera.com
 docs.hedera.com
 docs.hedera.com
@@ -636,6 +648,8 @@ docsnew.hedera.com
 docsnew.hedera.com
 docsnew.hedera.com
 docsnew.hedera.com
+docsnew.hedera.com
+estimator.hedera.com
 estimator.hedera.com
 estimator.hedera.com
 estimator.hedera.com
@@ -736,6 +750,8 @@ faq.hedera.com
 faq.hedera.com
 faq.hedera.com
 faq.hedera.com
+faq.hedera.com
+fee-sandbox.hedera.com
 fee-sandbox.hedera.com
 fee-sandbox.hedera.com
 fee-sandbox.hedera.com
@@ -836,6 +852,7 @@ files.hedera.com
 files.hedera.com
 files.hedera.com
 files.hedera.com
+files.hedera.com
 golang.hedera.com
 golang.hedera.com
 golang.hedera.com
@@ -886,6 +903,8 @@ golang.hedera.com
 golang.hedera.com
 golang.hedera.com
 golang.hedera.com
+golang.hedera.com
+hcs.mainnet.mirrornode.hedera.com
 hcs.mainnet.mirrornode.hedera.com
 hcs.mainnet.mirrornode.hedera.com
 hcs.mainnet.mirrornode.hedera.com
@@ -985,6 +1004,8 @@ hcs.testnet.mirrornode.hedera.com
 hcs.testnet.mirrornode.hedera.com
 hcs.testnet.mirrornode.hedera.com
 hcs.testnet.mirrornode.hedera.com
+hcs.testnet.mirrornode.hedera.com
+hedera.com
 hedera.com
 hedera.com
 hedera.com
@@ -1085,6 +1106,8 @@ help.hedera.com
 help.hedera.com
 help.hedera.com
 help.hedera.com
+help.hedera.com
+hips.hedera.com
 hips.hedera.com
 hips.hedera.com
 hips.hedera.com
@@ -1185,6 +1208,8 @@ images.hedera.com
 images.hedera.com
 images.hedera.com
 images.hedera.com
+images.hedera.com
+info.hedera.com
 info.hedera.com
 info.hedera.com
 info.hedera.com
@@ -1285,6 +1310,8 @@ learn.hedera.com
 learn.hedera.com
 learn.hedera.com
 learn.hedera.com
+learn.hedera.com
+mainnet-private.mirrornode.hedera.com
 mainnet-private.mirrornode.hedera.com
 mainnet-private.mirrornode.hedera.com
 mainnet-private.mirrornode.hedera.com
@@ -1385,6 +1412,8 @@ mainnet-public.mirrornode.hedera.com
 mainnet-public.mirrornode.hedera.com
 mainnet-public.mirrornode.hedera.com
 mainnet-public.mirrornode.hedera.com
+mainnet-public.mirrornode.hedera.com
+mainnet.mirrornode.hedera.com
 mainnet.mirrornode.hedera.com
 mainnet.mirrornode.hedera.com
 mainnet.mirrornode.hedera.com
@@ -1485,6 +1514,8 @@ members.hedera.com
 members.hedera.com
 members.hedera.com
 members.hedera.com
+members.hedera.com
+mirrornode.hedera.com
 mirrornode.hedera.com
 mirrornode.hedera.com
 mirrornode.hedera.com
@@ -1585,6 +1616,8 @@ netki.hedera.com
 netki.hedera.com
 netki.hedera.com
 netki.hedera.com
+netki.hedera.com
+portal.hedera.com
 portal.hedera.com
 portal.hedera.com
 portal.hedera.com
@@ -1685,6 +1718,8 @@ previewnet-kube.mirrornode.hedera.com
 previewnet-kube.mirrornode.hedera.com
 previewnet-kube.mirrornode.hedera.com
 previewnet-kube.mirrornode.hedera.com
+previewnet-kube.mirrornode.hedera.com
+previewnet.mirrornode.hedera.com
 previewnet.mirrornode.hedera.com
 previewnet.mirrornode.hedera.com
 previewnet.mirrornode.hedera.com
@@ -1785,6 +1820,8 @@ sandbox.portal.hedera.com
 sandbox.portal.hedera.com
 sandbox.portal.hedera.com
 sandbox.portal.hedera.com
+sandbox.portal.hedera.com
+shop.hedera.com
 shop.hedera.com
 shop.hedera.com
 shop.hedera.com
@@ -1845,6 +1882,8 @@ staging.hedera.com
 staging.hedera.com
 staging.hedera.com
 staging.hedera.com
+staging.hedera.com
+status.hedera.com
 status.hedera.com
 status.hedera.com
 status.hedera.com
@@ -1945,6 +1984,8 @@ support.hedera.com
 support.hedera.com
 support.hedera.com
 support.hedera.com
+support.hedera.com
+testnet.mirrornode.hedera.com
 testnet.mirrornode.hedera.com
 testnet.mirrornode.hedera.com
 testnet.mirrornode.hedera.com
@@ -2045,6 +2086,8 @@ www-staging.hedera.com
 www-staging.hedera.com
 www-staging.hedera.com
 www-staging.hedera.com
+www-staging.hedera.com
+www-testing.hedera.com
 www-testing.hedera.com
 www-testing.hedera.com
 www-testing.hedera.com
@@ -2145,6 +2188,8 @@ www.hedera.com
 www.hedera.com
 www.hedera.com
 www.hedera.com
+www.hedera.com
+www.members.hedera.com
 www.members.hedera.com
 www.members.hedera.com
 www.members.hedera.com

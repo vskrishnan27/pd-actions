@@ -32,6 +32,7 @@ http://members.hedera.com
 http://netki.hedera.com
 http://netki.hedera.com:8080
 http://portal.hedera.com
+http://portal.hedera.com:8080
 http://previewnet.mirrornode.hedera.com
 http://sandbox.portal.hedera.com
 http://shop.hedera.com
@@ -43,6 +44,7 @@ http://support.hedera.com
 http://support.hedera.com:8080
 http://testnet.mirrornode.hedera.com
 http://www.hedera.com
+http://www.hedera.com:8080
 https://api.portal.hedera.com
 https://api.sandbox.portal.hedera.com
 https://brand.hedera.com
@@ -73,6 +75,7 @@ https://members.hedera.com
 https://netki.hedera.com
 https://netki.hedera.com:8443
 https://portal.hedera.com
+https://portal.hedera.com:8443
 https://previewnet.mirrornode.hedera.com
 https://sandbox.portal.hedera.com
 https://shop.hedera.com
@@ -84,3 +87,4 @@ https://support.hedera.com
 https://support.hedera.com:8443
 https://testnet.mirrornode.hedera.com
 https://www.hedera.com
+https://www.hedera.com:8443

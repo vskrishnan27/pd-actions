@@ -17,7 +17,6 @@ http://ic.indrive.com
 http://id.indrive.com
 http://inapps.indrive.com
 http://inapps2.indrive.com
-http://indrive.com
 http://injob.indrive.com
 http://intercity.indrive.com
 http://internal.delivery.indrive.com
@@ -35,7 +34,6 @@ http://ref.indrive.com
 http://rideshare.indrive.com
 http://s.indrive.com
 http://services.indrive.com
-http://servicos.indrive.com
 http://servicos.indrive.com:443
 http://sgtm.indrive.com
 http://share.indrive.com
@@ -78,7 +76,6 @@ https://ic.indrive.com
 https://id.indrive.com
 https://inapps.indrive.com
 https://inapps2.indrive.com
-https://indrive.com
 https://injob.indrive.com
 https://intercity.indrive.com
 https://internal.delivery.indrive.com

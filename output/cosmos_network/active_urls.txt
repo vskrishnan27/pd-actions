@@ -32,10 +32,6 @@ http://api.atlas.cosmos.network
 http://api.atlas.cosmos.network:443
 http://api.atlas.cosmos.network:8080
 http://api.atlas.cosmos.network:8443
-http://api.bigbang.cosmos.network
-http://api.bigbang.cosmos.network:443
-http://api.bigbang.cosmos.network:8080
-http://api.bigbang.cosmos.network:8443
 http://api.brasil.bigbang.cosmos.network
 http://api.brasil.bigbang.cosmos.network:443
 http://api.brasil.bigbang.cosmos.network:8080
@@ -319,6 +315,9 @@ http://rpc.bigbang.cosmos.network
 http://rpc.bigbang.cosmos.network:443
 http://rpc.bigbang.cosmos.network:8080
 http://rpc.bigbang.cosmos.network:8443
+http://rpc.cosmos.network
+http://rpc.cosmos.network:8080
+http://rpc.cosmos.network:8443
 http://rpc.irisnet.cosmos.network
 http://rpc.irisnet.cosmos.network:443
 http://rpc.irisnet.cosmos.network:8080
@@ -343,6 +342,9 @@ http://shop.cosmos.network
 http://shop.cosmos.network:8080
 http://shop.cosmos.network:8443
 http://signups.cosmos.network
+http://simulations.cosmos.network
+http://simulations.cosmos.network:8080
+http://simulations.cosmos.network:8443
 http://slack.cosmos.network
 http://slack.cosmos.network:8080
 http://slack.cosmos.network:8443
@@ -422,8 +424,10 @@ https://rpc-testnet-eu.cosmos.network
 https://rpc-testnet-jpn.cosmos.network
 https://rpc-testnet-sgp.cosmos.network
 https://rpc-testnet-us.cosmos.network
+https://rpc.cosmos.network
 https://shop.cosmos.network
 https://signups.cosmos.network
+https://simulations.cosmos.network
 https://slack.cosmos.network
 https://stargate.cosmos.network
 https://store.cosmos.network

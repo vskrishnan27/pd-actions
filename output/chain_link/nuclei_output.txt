@@ -6,4 +6,4 @@
 [vercel-takeover] [http] [high] https://apps.chain.link
 [vercel-takeover] [http] [high] https://kovan.chain.link
 [vercel-takeover] [http] [high] https://rinkeby.chain.link
-[wp-user-enum:usernames] [http] [low] https://blog.chain.link/wp-json/wp/v2/users/ [harry-papacharissiou,Alex Coventry,Chainlink,Cuong Lam Thanh,Harry Papacharissiou,Andrej Rakic,Chainlink Labs Research,ChainLinkGod,alex-coventry,andrej-rakic,chainlink-labs,chainlink-labs-research,chainlinkgod,Ari Juels,Dahlia Malkhi,ari-juels,chainlink,cuongltyounetgroup-com,dahlia-malkhi,Chainlink Labs]
+[wp-user-enum:usernames] [http] [low] https://blog.chain.link/wp-json/wp/v2/users/ [Cuong Lam Thanh,Dahlia Malkhi,Harry Papacharissiou,ari-juels,chainlink-labs-research,cuongltyounetgroup-com,Alex Coventry,Chainlink Labs,andrej-rakic,chainlink-labs,Andrej Rakic,alex-coventry,dahlia-malkhi,harry-papacharissiou,Chainlink Labs Research,chainlink,chainlinkgod,Ari Juels,Chainlink,ChainLinkGod]

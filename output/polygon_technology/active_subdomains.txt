@@ -1,6 +1,7 @@
 academy.polygon.technology
 agglayer-dev.polygon.technology
 agglayer-test.polygon.technology
+agglayer.polygon.technology
 ai.polygon.technology
 analytics-dashboard.polygon.technology
 analytics.polygon.technology

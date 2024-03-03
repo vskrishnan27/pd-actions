@@ -4,6 +4,8 @@ http://agglayer-dev.polygon.technology
 http://agglayer-dev.polygon.technology:8080
 http://agglayer-test.polygon.technology
 http://agglayer-test.polygon.technology:8080
+http://agglayer.polygon.technology
+http://agglayer.polygon.technology:8080
 http://ai.polygon.technology
 http://analytics-dashboard.polygon.technology
 http://analytics-dashboard.polygon.technology:8080
@@ -126,6 +128,8 @@ https://agglayer-dev.polygon.technology
 https://agglayer-dev.polygon.technology:8443
 https://agglayer-test.polygon.technology
 https://agglayer-test.polygon.technology:8443
+https://agglayer.polygon.technology
+https://agglayer.polygon.technology:8443
 https://ai.polygon.technology
 https://analytics-dashboard.polygon.technology
 https://analytics-dashboard.polygon.technology:8443

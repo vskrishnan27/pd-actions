@@ -10,6 +10,10 @@ agglayer-test.polygon.technology:443
 agglayer-test.polygon.technology:80
 agglayer-test.polygon.technology:8080
 agglayer-test.polygon.technology:8443
+agglayer.polygon.technology:443
+agglayer.polygon.technology:80
+agglayer.polygon.technology:8080
+agglayer.polygon.technology:8443
 ai.polygon.technology:443
 ai.polygon.technology:80
 analytics-dashboard.polygon.technology:443

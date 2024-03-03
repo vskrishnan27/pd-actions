@@ -15,6 +15,10 @@ cdn.enjin.io:443
 cdn.enjin.io:80
 cdn.enjin.io:8080
 cdn.enjin.io:8443
+cloud.enjin.io:443
+cloud.enjin.io:80
+cloud.enjin.io:8080
+cloud.enjin.io:8443
 console.enjin.io:443
 console.enjin.io:80
 console.enjin.io:8080

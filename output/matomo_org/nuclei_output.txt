@@ -1,0 +1,2 @@
+[zip-backup-files] [http] [medium] https://builds.matomo.org/matomo.tar.gz [FILENAME="matomo",EXT="tar.gz"]
+[zip-backup-files] [http] [medium] https://builds.matomo.org/matomo.zip [FILENAME="matomo",EXT="zip"]

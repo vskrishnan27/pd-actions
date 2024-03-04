@@ -14,6 +14,8 @@ http://faq.hedera.com:8080
 http://files.hedera.com
 http://files.hedera.com:8080
 http://golang.hedera.com
+http://hedera.com
+http://hedera.com:8080
 http://help.hedera.com
 http://help.hedera.com:8080
 http://help.hedera.com:8443
@@ -61,6 +63,8 @@ https://faq.hedera.com:8443
 https://files.hedera.com
 https://files.hedera.com:8443
 https://golang.hedera.com
+https://hedera.com
+https://hedera.com:8443
 https://help.hedera.com
 https://hips.hedera.com
 https://hips.hedera.com:8443

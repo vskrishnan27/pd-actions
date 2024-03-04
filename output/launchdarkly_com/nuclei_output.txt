@@ -1,0 +1,5 @@
+[credentials-disclosure] [http] [unknown] https://app.launchdarkly.com [ApiKey: '4f037bf8628a8b24100632c79d8a2992',algoliaApiKey: '4f037bf8628a8b24100632c79d8a2992']
+[credentials-disclosure] [http] [unknown] https://app.launchdarkly.com/ [ApiKey: '4f037bf8628a8b24100632c79d8a2992',algoliaApiKey: '4f037bf8628a8b24100632c79d8a2992']
+[credentials-disclosure] [http] [unknown] https://gonfalon.prod.launchdarkly.com [ApiKey: '4f037bf8628a8b24100632c79d8a2992',algoliaApiKey: '4f037bf8628a8b24100632c79d8a2992']
+[credentials-disclosure] [http] [unknown] https://pubnubtest.launchdarkly.com [ApiKey: '4f037bf8628a8b24100632c79d8a2992',algoliaApiKey: '4f037bf8628a8b24100632c79d8a2992']
+[credentials-disclosure] [http] [unknown] https://pubnubtest.launchdarkly.com/ [ApiKey: '4f037bf8628a8b24100632c79d8a2992',algoliaApiKey: '4f037bf8628a8b24100632c79d8a2992']

@@ -868,8 +868,6 @@ smp-dev.api.search.sc-corp.net:443
 smp-dev.api.search.sc-corp.net:80
 smp-prod.api.search.sc-corp.net:443
 smp-prod.api.search.sc-corp.net:80
-snap-lion.gae.sc-corp.net:443
-snap-lion.gae.sc-corp.net:80
 snap-lion.sc-corp.net:443
 snap-lion.sc-corp.net:80
 snap-sre.gae.sc-corp.net:443

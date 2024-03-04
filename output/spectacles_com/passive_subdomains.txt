@@ -48,6 +48,8 @@ cad-en.orders.spectacles.com
 cad-en.orders.spectacles.com
 cad-en.orders.spectacles.com
 cad-en.orders.spectacles.com
+cad-en.orders.spectacles.com
+cad-fr.orders.spectacles.com
 cad-fr.orders.spectacles.com
 cad-fr.orders.spectacles.com
 cad-fr.orders.spectacles.com
@@ -148,6 +150,8 @@ chf-de.orders.spectacles.com
 chf-de.orders.spectacles.com
 chf-de.orders.spectacles.com
 chf-de.orders.spectacles.com
+chf-de.orders.spectacles.com
+chf-fr.orders.spectacles.com
 chf-fr.orders.spectacles.com
 chf-fr.orders.spectacles.com
 chf-fr.orders.spectacles.com
@@ -248,6 +252,8 @@ eur-de.orders.spectacles.com
 eur-de.orders.spectacles.com
 eur-de.orders.spectacles.com
 eur-de.orders.spectacles.com
+eur-de.orders.spectacles.com
+eur-en.orders.spectacles.com
 eur-en.orders.spectacles.com
 eur-en.orders.spectacles.com
 eur-en.orders.spectacles.com
@@ -348,6 +354,8 @@ eur-es.orders.spectacles.com
 eur-es.orders.spectacles.com
 eur-es.orders.spectacles.com
 eur-es.orders.spectacles.com
+eur-es.orders.spectacles.com
+eur-fr.orders.spectacles.com
 eur-fr.orders.spectacles.com
 eur-fr.orders.spectacles.com
 eur-fr.orders.spectacles.com
@@ -448,6 +456,8 @@ eur-it.orders.spectacles.com
 eur-it.orders.spectacles.com
 eur-it.orders.spectacles.com
 eur-it.orders.spectacles.com
+eur-it.orders.spectacles.com
+eur-nl.orders.spectacles.com
 eur-nl.orders.spectacles.com
 eur-nl.orders.spectacles.com
 eur-nl.orders.spectacles.com
@@ -548,6 +558,8 @@ gbp-en.orders.spectacles.com
 gbp-en.orders.spectacles.com
 gbp-en.orders.spectacles.com
 gbp-en.orders.spectacles.com
+gbp-en.orders.spectacles.com
+ksa-en.orders.spectacles.com
 ksa-en.orders.spectacles.com
 ksa-en.orders.spectacles.com
 ksa-en.orders.spectacles.com
@@ -648,6 +660,8 @@ o8.mail.spectacles.com
 o8.mail.spectacles.com
 o8.mail.spectacles.com
 o8.mail.spectacles.com
+o8.mail.spectacles.com
+orders.spectacles.com
 orders.spectacles.com
 orders.spectacles.com
 orders.spectacles.com
@@ -748,6 +762,8 @@ pln-pl.orders.spectacles.com
 pln-pl.orders.spectacles.com
 pln-pl.orders.spectacles.com
 pln-pl.orders.spectacles.com
+pln-pl.orders.spectacles.com
+returns.spectacles.com
 returns.spectacles.com
 returns.spectacles.com
 returns.spectacles.com
@@ -845,6 +861,7 @@ spectacles.com
 spectacles.com
 spectacles.com
 spectacles.com
+spectacles.com
 support.spectacles.com
 support.spectacles.com
 support.spectacles.com
@@ -895,6 +912,8 @@ support.spectacles.com
 support.spectacles.com
 support.spectacles.com
 support.spectacles.com
+support.spectacles.com
+uae-en.orders.spectacles.com
 uae-en.orders.spectacles.com
 uae-en.orders.spectacles.com
 uae-en.orders.spectacles.com
@@ -992,6 +1011,7 @@ us-dev.orders.spectacles.com
 us-dev.orders.spectacles.com
 us-dev.orders.spectacles.com
 us-dev.orders.spectacles.com
+us-dev.orders.spectacles.com
 www.returns.spectacles.com
 www.returns.spectacles.com
 www.returns.spectacles.com
@@ -1042,6 +1062,8 @@ www.returns.spectacles.com
 www.returns.spectacles.com
 www.returns.spectacles.com
 www.returns.spectacles.com
+www.returns.spectacles.com
+www.spectacles.com
 www.spectacles.com
 www.spectacles.com
 www.spectacles.com

@@ -168,6 +168,10 @@ ui.krisp.ai:443
 ui.krisp.ai:80
 ui.krisp.ai:8080
 ui.krisp.ai:8443
+upld.krisp.ai:443
+upld.krisp.ai:80
+upld.krisp.ai:8080
+upld.krisp.ai:8443
 upload.krisp.ai:443
 upload.krisp.ai:80
 url5145.krisp.ai:443

@@ -15,14 +15,12 @@ http://bom.corp.stripe.com:443
 http://book.stripe.com
 http://button.stripe.com
 http://buy-tree.stripe.com
-http://buy-tree.stripe.com:443
 http://buy.stripe.com
 http://calendar.stripe.com
 http://cdg.corp.stripe.com:443
 http://cgk.corp.stripe.com:443
 http://checkout-cookies.stripe.com
 http://checkout.stripe.com
-http://climate.stripe.com
 http://cmh.corp.stripe.com:443
 http://code.stripe.com
 http://community.stripe.com
@@ -32,7 +30,6 @@ http://connections-auth.stripe.com
 http://connections-barclays.stripe.com
 http://connections-sandbox.stripe.com
 http://crypto-js.stripe.com
-http://dashboard-admin.stripe.com
 http://dashboard-canary-1-percent.stripe.com
 http://dashboard-canary-25-percent.stripe.com
 http://dashboard-canary-5-percent.stripe.com
@@ -48,11 +45,10 @@ http://edge-book.stripe.com
 http://edge-buy.stripe.com
 http://edge-checkout-tree.stripe.com
 http://edge-checkout.stripe.com
-http://edge-dashboard-admin.stripe.com
+http://edge-dashboard.stripe.com
 http://edge-donate.stripe.com
 http://edge-invoice.stripe.com
 http://edge-js-tree.stripe.com
-http://edge-js-tree.stripe.com:443
 http://edge-js.stripe.com
 http://edge-manage.stripe.com
 http://edge.stripe.com
@@ -99,7 +95,6 @@ http://jira.corp.stripe.com:443
 http://js.stripe.com
 http://jss.prod.corp.stripe.com:443
 http://lists.stripe.com
-http://local.corp.stripe.com:443
 http://lokalise-hooks.stripe.com
 http://mail.stripe.com
 http://manage.stripe.com
@@ -111,7 +106,6 @@ http://not-a-git.corp.stripe.com:443
 http://npm-registry.local.corp.stripe.com:443
 http://ops-docs.corp.stripe.com:443
 http://pay.stripe.com
-http://payments.stripe.com
 http://pdx.corp.stripe.com:443
 http://pm-hooks.stripe.com
 http://pm-redirects.stripe.com
@@ -123,13 +117,10 @@ http://preprod-crypto-js.stripe.com
 http://preprod-pdx.corp.stripe.com:443
 http://preprod.corp.stripe.com:443
 http://press.stripe.com
-http://prod-files-flow.stripe.com
 http://prod-frontend-flow.stripe.com
 http://prod-js-tree.stripe.com
-http://prod-js-tree.stripe.com:443
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
-http://public.stripe.com
 http://q.stripe.com
 http://qa-api-global-bluegreen.stripe.com
 http://qa-api.stripe.com
@@ -161,7 +152,6 @@ http://stripe-cli.stripe.com
 http://stripecli-ws-nw.stripe.com
 http://support-conversations.stripe.com
 http://support.stripe.com
-http://t.stripe.com
 http://terminal-simulator.stripe.com
 http://terminal.stripe.com
 http://uploads.stripe.com
@@ -187,6 +177,7 @@ https://blik-hooks.stripe.com
 https://blog.stripe.com
 https://book.stripe.com
 https://button.stripe.com
+https://buy-tree.stripe.com
 https://buy.stripe.com
 https://calendar.stripe.com
 https://checkout-cookies.stripe.com
@@ -218,6 +209,7 @@ https://edge-dashboard-admin.stripe.com
 https://edge-dashboard.stripe.com
 https://edge-donate.stripe.com
 https://edge-invoice.stripe.com
+https://edge-js-tree.stripe.com
 https://edge-js.stripe.com
 https://edge-manage.stripe.com
 https://edge-pay.stripe.com
@@ -283,9 +275,9 @@ https://preprod-crypto-js.stripe.com
 https://press.stripe.com
 https://prod-files-flow.stripe.com
 https://prod-frontend-flow.stripe.com
+https://prod-js-tree.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
-https://public.stripe.com
 https://q.stripe.com
 https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com
@@ -309,7 +301,6 @@ https://stripe-cli.stripe.com
 https://stripecli-ws-nw.stripe.com
 https://support-conversations.stripe.com
 https://support.stripe.com
-https://t.stripe.com
 https://terminal-simulator.stripe.com
 https://terminal.stripe.com
 https://uploads.stripe.com

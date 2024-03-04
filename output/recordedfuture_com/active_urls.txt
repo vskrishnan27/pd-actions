@@ -57,8 +57,10 @@ http://support.recordedfuture.com:8443
 http://university.recordedfuture.com
 http://url5653.recordedfuture.com
 http://url5653.recordedfuture.com:8080
+http://url5653.recordedfuture.com:8443
 http://ww.recordedfuture.com
 http://ww.recordedfuture.com:8080
+http://ww.recordedfuture.com:8443
 http://www.cms.recordedfuture.com
 http://www.preprod.cms.recordedfuture.com
 http://www.preprod.recordedfuture.com
@@ -99,9 +101,7 @@ https://status.recordedfuture.com
 https://support.recordedfuture.com
 https://university.recordedfuture.com
 https://url5653.recordedfuture.com
-https://url5653.recordedfuture.com:8443
 https://ww.recordedfuture.com
-https://ww.recordedfuture.com:8443
 https://www.cms.recordedfuture.com
 https://www.preprod.cms.recordedfuture.com
 https://www.recordedfuture.com

@@ -148,6 +148,9 @@ http://conversations.cosmos.network
 http://cors.cosmos.network
 http://cors.cosmos.network:8080
 http://cors.cosmos.network:8443
+http://cosmos.network
+http://cosmos.network:8080
+http://cosmos.network:8443
 http://dev.rest.bigbang.cosmos.network
 http://dev.rest.bigbang.cosmos.network:443
 http://dev.rest.bigbang.cosmos.network:8080
@@ -322,10 +325,6 @@ http://rpc.irisnet.cosmos.network
 http://rpc.irisnet.cosmos.network:443
 http://rpc.irisnet.cosmos.network:8080
 http://rpc.irisnet.cosmos.network:8443
-http://rpc.testnet.cosmos.network
-http://rpc.testnet.cosmos.network:443
-http://rpc.testnet.cosmos.network:8080
-http://rpc.testnet.cosmos.network:8443
 http://s3-rest.bigbang.cosmos.network
 http://s3-rest.bigbang.cosmos.network:443
 http://s3-rest.bigbang.cosmos.network:8080
@@ -395,6 +394,7 @@ https://cli-testnet-us.cosmos.network
 https://contribute.cosmos.network
 https://conversations.cosmos.network
 https://cors.cosmos.network
+https://cosmos.network
 https://developers.cosmos.network
 https://developers.cosmos.network:8443
 https://docs.cosmos.network

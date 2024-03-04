@@ -2,7 +2,6 @@ http://accounts.zomato.com
 http://api.zomato.com
 http://apibeta.zomato.com
 http://apimail.zomato.com
-http://blog.zomato.com
 http://book.zomato.com
 http://business-blog.zomato.com
 http://business.zomato.com
@@ -44,7 +43,6 @@ https://accounts.zomato.com
 https://api.zomato.com
 https://apibeta.zomato.com
 https://apimail.zomato.com
-https://blog.zomato.com
 https://book.zomato.com
 https://business-blog.zomato.com
 https://business.zomato.com
@@ -64,7 +62,6 @@ https://jumbo.zomato.com
 https://link.zomato.com
 https://link.zomato.com:8443
 https://m.zomato.com
-https://maps.zomato.com
 https://mobile.zomato.com
 https://payments-preprod.zomato.com
 https://reviews.zomato.com

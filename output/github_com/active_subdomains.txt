@@ -9,7 +9,6 @@ andrew-ironforge.github.com
 androxyde.github.com
 api.github.com
 api.security.github.com
-api.stars.github.com
 artblaster.github.com
 ask.github.com
 atom-installer.github.com
@@ -306,12 +305,12 @@ web3395.github.com
 web3421.github.com
 web5622.github.com
 web6014.github.com
+workspaces-dev.github.com
 ws.support.github.com
 www.api.security.github.com
 www.api.stars.github.com
 www.github.com
 www.graphql-stage.github.com
-www.graphql.github.com
 www.jira.github.com
 www.networkx.github.com
 www.partnerportal.github.com

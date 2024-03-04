@@ -20,8 +20,6 @@ api.github.com:443
 api.github.com:80
 api.security.github.com:443
 api.security.github.com:80
-api.stars.github.com:443
-api.stars.github.com:80
 artblaster.github.com:443
 artblaster.github.com:80
 ask.github.com:443
@@ -484,6 +482,8 @@ rodzen.github.com:443
 rodzen.github.com:80
 rosarior.github.com:443
 rosarior.github.com:80
+rs.github.com:443
+rs.github.com:80
 schrauger.github.com:443
 schrauger.github.com:80
 sebastianbergmann.github.com:443
@@ -495,6 +495,7 @@ skyline.github.com:443
 skyline.github.com:80
 slack.github.com:443
 slack.github.com:80
+smtp.github.com:25
 ssh.github.com:22
 ssh.github.com:443
 ssh.github.com:80
@@ -538,10 +539,10 @@ web5622.github.com:443
 web5622.github.com:80
 web6014.github.com:443
 web6014.github.com:80
+workspaces-dev.github.com:443
+workspaces-dev.github.com:80
 ws.support.github.com:443
 ws.support.github.com:80
-www.api.security.github.com:443
-www.api.security.github.com:80
 www.api.stars.github.com:443
 www.api.stars.github.com:80
 www.github.com:22
@@ -549,8 +550,6 @@ www.github.com:443
 www.github.com:80
 www.graphql-stage.github.com:443
 www.graphql-stage.github.com:80
-www.graphql.github.com:443
-www.graphql.github.com:80
 www.jira.github.com:443
 www.jira.github.com:80
 www.networkx.github.com:443

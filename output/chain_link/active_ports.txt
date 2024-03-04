@@ -157,10 +157,6 @@ security.chain.link:443
 security.chain.link:80
 security.chain.link:8080
 security.chain.link:8443
-smartcon.chain.link:443
-smartcon.chain.link:80
-smartcon.chain.link:8080
-smartcon.chain.link:8443
 staking.chain.link:443
 staking.chain.link:80
 staking.chain.link:8080

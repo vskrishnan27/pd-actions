@@ -34,6 +34,7 @@ http://faucet.chain.link:8443
 http://faucets-ui-preview.chain.link
 http://faucets-ui-preview.chain.link:8443
 http://faucets.chain.link
+http://faucets.chain.link:8443
 http://fms-rpc.chain.link
 http://fms-rpc.chain.link:8081
 http://functions.chain.link
@@ -61,6 +62,7 @@ http://mercury-arbitrum-mainnet.chain.link:8443
 http://mercury-arbitrum-testnet.chain.link
 http://mercury-arbitrum-testnet.chain.link:8443
 http://mercury-arbitrum-testnet.stage.chain.link
+http://mercury-arbitrum-testnet.stage.chain.link:8080
 http://mercury-arbitrum-testnet.stage.chain.link:8443
 http://mercury-srv.chain.link
 http://mercury-srv.chain.link:8080
@@ -77,8 +79,6 @@ http://ropsten.chain.link
 http://ropsten.chain.link:8080
 http://security.chain.link
 http://security.chain.link:8080
-http://smartcon.chain.link
-http://smartcon.chain.link:8443
 http://staking.chain.link
 http://staking.chain.link:8443
 http://supply.chain.link
@@ -121,7 +121,6 @@ https://events.chain.link
 https://faucet.chain.link
 https://faucets-ui-preview.chain.link
 https://faucets.chain.link
-https://faucets.chain.link:8443
 https://fms-rpc.chain.link
 https://functions.chain.link
 https://go.chain.link
@@ -151,7 +150,6 @@ https://ropsten.chain.link
 https://ropsten.chain.link:8443
 https://security.chain.link
 https://security.chain.link:8443
-https://smartcon.chain.link
 https://staking.chain.link
 https://supply.chain.link
 https://supply.chain.link:8443

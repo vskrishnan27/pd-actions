@@ -99,9 +99,6 @@ http://teams.krisp.ai:8080
 http://teams.krisp.ai:8443
 http://ui.krisp.ai
 http://ui.krisp.ai:8080
-http://upld.krisp.ai
-http://upld.krisp.ai:8080
-http://upld.krisp.ai:8443
 http://upload.krisp.ai
 http://url5145.krisp.ai
 http://url5145.krisp.ai:8080
@@ -183,7 +180,6 @@ https://syn-bt2ywgclz3.api.krisp.ai
 https://teams.krisp.ai
 https://ui.krisp.ai
 https://ui.krisp.ai:8443
-https://upld.krisp.ai
 https://upload.krisp.ai
 https://url5145.krisp.ai
 https://voice-ai-newsletter.krisp.ai

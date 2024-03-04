@@ -33,10 +33,6 @@ docs.enjin.io:443
 docs.enjin.io:80
 docs.enjin.io:8080
 docs.enjin.io:8443
-enjin.io:443
-enjin.io:80
-enjin.io:8080
-enjin.io:8443
 feedback.enjin.io:443
 feedback.enjin.io:80
 feedback.enjin.io:8080

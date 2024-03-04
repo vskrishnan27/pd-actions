@@ -14,6 +14,10 @@ advertising.crypto.com:443
 advertising.crypto.com:80
 advertising.crypto.com:8080
 advertising.crypto.com:8443
+api.crypto.com:443
+api.crypto.com:80
+api.crypto.com:8080
+api.crypto.com:8443
 app-api.nft.crypto.com:443
 app-api.nft.crypto.com:80
 app-api.nft.crypto.com:8080
@@ -22,6 +26,10 @@ auth-x.crypto.com:443
 auth-x.crypto.com:80
 auth-x.crypto.com:8080
 auth-x.crypto.com:8443
+auth.crypto.com:443
+auth.crypto.com:80
+auth.crypto.com:8080
+auth.crypto.com:8443
 auth.tax.crypto.com:443
 auth.tax.crypto.com:80
 auth.tax.crypto.com:8080
@@ -223,10 +231,6 @@ stream.crypto.com:443
 stream.crypto.com:80
 stream.crypto.com:8080
 stream.crypto.com:8443
-tax.crypto.com:443
-tax.crypto.com:80
-tax.crypto.com:8080
-tax.crypto.com:8443
 tpp-tmp.crypto.com:443
 tpp-tmp.crypto.com:80
 tpp-tmp.crypto.com:8080

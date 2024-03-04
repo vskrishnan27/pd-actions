@@ -1,4 +1,3 @@
 [credentials-disclosure] [http] [unknown] https://bridge.base.org/deposit [ApiKey":"8f7b6e984693922aac5021ee82d0bb8f"]
-[credentials-disclosure] [http] [unknown] https://bridge.base.org/deposit [ApiKey":"8f7b6e984693922aac5021ee82d0bb8f"]
 [credentials-disclosure] [http] [unknown] https://www.base.org ["nodeEnv":"production"]
 [credentials-disclosure] [http] [unknown] https://www.base.org/ ["nodeEnv":"production"]

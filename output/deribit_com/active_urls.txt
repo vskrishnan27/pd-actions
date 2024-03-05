@@ -23,17 +23,12 @@ http://deribit.com
 http://docs.deribit.com
 http://docs.deribit.com:8080
 http://docs.deribit.com:8443
-http://echop.deribit.com
-http://echop.deribit.com:8080
 http://gateway.deribit.com
-http://his.deribit.com
 http://history.deribit.com
 http://insights.deribit.com
 http://insights.deribit.com:8080
 http://insights.deribit.com:8443
-http://legacy.deribit.com
 http://metrics.deribit.com
-http://new.deribit.com
 http://office.deribit.com
 http://pb.deribit.com
 http://positionbuilder.deribit.com
@@ -54,7 +49,6 @@ http://tools.deribit.com
 http://upload.chat.deribit.com
 http://upload.chattest.deribit.com
 http://www.deribit.com
-http://zh4-test.deribit.com
 https://alt.deribit.com
 https://apt.deribit.com
 https://asia.deribit.com
@@ -70,15 +64,10 @@ https://conference.chat.deribit.com
 https://conference.chattest.deribit.com
 https://deribit.com
 https://docs.deribit.com
-https://echop.deribit.com
-https://echop.deribit.com:8443
 https://gateway.deribit.com
-https://his.deribit.com
 https://history.deribit.com
 https://insights.deribit.com
-https://legacy.deribit.com
 https://metrics.deribit.com
-https://new.deribit.com
 https://office.deribit.com
 https://pb.deribit.com
 https://positionbuilder.deribit.com
@@ -100,4 +89,3 @@ https://upload.chat.deribit.com
 https://upload.chattest.deribit.com
 https://vpn.deribit.com
 https://www.deribit.com
-https://zh4-test.deribit.com

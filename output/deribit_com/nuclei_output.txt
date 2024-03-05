@@ -1,6 +1,2 @@
-[credentials-disclosure] [http] [unknown] https://docs.deribit.com [index_name=btc_usd,index_name=ada_usd",ClientSecret=AMANDASECRECT,client_secret=W0H6FJW4IRPZ1MOQ8FP6KMC5RZDUUKXS,refresh_token=1568800656974]
-[credentials-disclosure] [http] [unknown] https://docs.deribit.com/ [client_secret=W0H6FJW4IRPZ1MOQ8FP6KMC5RZDUUKXS,refresh_token=1568800656974,index_name=btc_usd,index_name=ada_usd",ClientSecret=AMANDASECRECT]
-[generic-tokens] [http] [unknown] http://echop.deribit.com [token":"618305ac0f28446d9ba372cbd8a747ed"]
-[generic-tokens] [http] [unknown] http://echop.deribit.com:8080 [token":"618305ac0f28446d9ba372cbd8a747ed"]
-[generic-tokens] [http] [unknown] https://echop.deribit.com [token":"618305ac0f28446d9ba372cbd8a747ed"]
-[generic-tokens] [http] [unknown] https://echop.deribit.com:8443 [token":"618305ac0f28446d9ba372cbd8a747ed"]
+[credentials-disclosure] [http] [unknown] https://docs.deribit.com [refresh_token=1568800656974,index_name=btc_usd,index_name=ada_usd",ClientSecret=AMANDASECRECT,client_secret=W0H6FJW4IRPZ1MOQ8FP6KMC5RZDUUKXS]
+[credentials-disclosure] [http] [unknown] https://docs.deribit.com/ [refresh_token=1568800656974,index_name=btc_usd,index_name=ada_usd",ClientSecret=AMANDASECRECT,client_secret=W0H6FJW4IRPZ1MOQ8FP6KMC5RZDUUKXS]

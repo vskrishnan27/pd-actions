@@ -66,10 +66,6 @@ lib.academy.bitmex.com:443
 lib.academy.bitmex.com:80
 lib.academy.bitmex.com:8080
 lib.academy.bitmex.com:8443
-onfido.bitmex.com:443
-onfido.bitmex.com:80
-onfido.bitmex.com:8080
-onfido.bitmex.com:8443
 onfido.devhk.bitmex.com:443
 onfido.devhk.bitmex.com:80
 onfido.devhk.bitmex.com:8080

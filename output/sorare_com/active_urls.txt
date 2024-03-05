@@ -5,7 +5,6 @@ http://api.sorare.com:8080
 http://api.sorare.com:8443
 http://assets.sorare.com
 http://assets.sorare.com:8080
-http://assets.sorare.com:8443
 http://blog.sorare.com
 http://frontend-assets.sorare.com
 http://frontend-assets.sorare.com:8080
@@ -22,6 +21,9 @@ http://mlbguide.sorare.com
 http://mlbguide.sorare.com:8080
 http://nbaguide.sorare.com
 http://nbaguide.sorare.com:8080
+http://sorare.com
+http://sorare.com:8080
+http://sorare.com:8443
 http://status.sorare.com
 http://status.sorare.com:8080
 http://status.sorare.com:8443
@@ -36,6 +38,7 @@ https://admin.sorare.com
 https://admin.sorare.com:8443
 https://api.sorare.com
 https://assets.sorare.com
+https://assets.sorare.com:8443
 https://blog.sorare.com
 https://frontend-assets.sorare.com
 https://go.sorare.com
@@ -46,6 +49,7 @@ https://mlbguide.sorare.com
 https://mlbguide.sorare.com:8443
 https://nbaguide.sorare.com
 https://nbaguide.sorare.com:8443
+https://sorare.com
 https://status.sorare.com
 https://wallet.sorare.com
 https://ws.sorare.com

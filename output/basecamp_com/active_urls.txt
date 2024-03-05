@@ -7,13 +7,10 @@ http://asset1.basecamp.com:8443
 http://basecamp.com
 http://basecamp.com:8080
 http://basecamp.com:8443
-http://beta.3.basecamp.com
 http://beta.basecamp.com
-http://beta1.3.basecamp.com
 http://beta1.basecamp.com
 http://beta1.basecamp.com:8080
 http://beta1.basecamp.com:8443
-http://beta2.3.basecamp.com
 http://brasil.basecamp.com
 http://chat.3.basecamp.com
 http://chat.3.basecamp.com:8080
@@ -67,9 +64,7 @@ https://3.basecamp.com
 https://asset1.basecamp.com
 https://basecamp.com
 https://beta.basecamp.com
-https://beta1.3.basecamp.com
 https://beta1.basecamp.com
-https://beta2.3.basecamp.com
 https://brasil.basecamp.com
 https://chat.3.basecamp.com
 https://clients.3.basecamp.com

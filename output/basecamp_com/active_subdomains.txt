@@ -1,11 +1,8 @@
 3.basecamp.com
 asset1.basecamp.com
 basecamp.com
-beta.3.basecamp.com
 beta.basecamp.com
-beta1.3.basecamp.com
 beta1.basecamp.com
-beta2.3.basecamp.com
 brasil.basecamp.com
 chat.3.basecamp.com
 clients.3.basecamp.com

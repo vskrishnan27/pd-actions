@@ -29,6 +29,7 @@ http://lps.superbet.ro
 http://playground.superbet.ro
 http://promo.superbet.ro
 http://promo02.superbet.ro
+http://promotii.superbet.ro
 http://qa.superbet.ro
 http://quizanglia.superbet.ro
 http://retail.offer-display.live.stage.superbet.ro
@@ -94,6 +95,7 @@ https://playground.superbet.ro
 https://prod.incubator.superbet.ro
 https://promo.superbet.ro
 https://promo02.superbet.ro
+https://promotii.superbet.ro
 https://qa.incubator.superbet.ro
 https://qa.superbet.ro
 https://quizanglia.superbet.ro

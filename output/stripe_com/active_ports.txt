@@ -184,6 +184,7 @@ ip-54-187-119-242.stripe.com:443
 ip-54-187-119-242.stripe.com:80
 ip-54-187-159-182.stripe.com:443
 ip-54-187-159-182.stripe.com:80
+ipaddr-3ds.stripe.com:443
 issuing-hooks-public.stripe.com:443
 issuing-key.stripe.com:443
 issuing-key.stripe.com:80
@@ -196,6 +197,7 @@ jss.prod.corp.stripe.com:443
 jss.qa.corp.stripe.com:443
 lists.stripe.com:443
 lists.stripe.com:80
+local.corp.stripe.com:443
 lokalise-hooks.stripe.com:443
 lokalise-hooks.stripe.com:80
 m.stripe.com:443

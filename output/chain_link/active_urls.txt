@@ -3,6 +3,7 @@ http://api.dataengine.chain.link:8080
 http://api.testnet-dataengine.chain.link
 http://api.testnet-dataengine.chain.link:8080
 http://apps.chain.link
+http://apps.chain.link:8080
 http://apps.chain.link:8443
 http://archive.docs.chain.link
 http://archive.docs.chain.link:8080
@@ -18,6 +19,8 @@ http://ccip.chain.link:8443
 http://chain.link
 http://data.chain.link
 http://data.chain.link:8443
+http://dataengine.chain.link
+http://dataengine.chain.link:8080
 http://defi.chain.link
 http://defi.chain.link:8080
 http://dev.chain.link
@@ -36,6 +39,7 @@ http://faucets-ui-preview.chain.link:8443
 http://faucets.chain.link
 http://faucets.chain.link:8443
 http://fms-rpc.chain.link
+http://fms-rpc.chain.link:443
 http://fms-rpc.chain.link:8081
 http://functions.chain.link
 http://functions.chain.link:8443
@@ -43,7 +47,6 @@ http://go.chain.link
 http://hack.chain.link
 http://hack.chain.link:8080
 http://imx.chain.link
-http://imx.chain.link:8443
 http://jwh.chain.link
 http://keeper.chain.link
 http://keeper.chain.link:8443
@@ -56,13 +59,11 @@ http://ko.chain.link:8080
 http://kovan.chain.link
 http://kovan.chain.link:8443
 http://lambda.chain.link
-http://lambda.chain.link:8443
 http://mercury-arbitrum-mainnet.chain.link
 http://mercury-arbitrum-mainnet.chain.link:8443
 http://mercury-arbitrum-testnet.chain.link
 http://mercury-arbitrum-testnet.chain.link:8443
 http://mercury-arbitrum-testnet.stage.chain.link
-http://mercury-arbitrum-testnet.stage.chain.link:8080
 http://mercury-arbitrum-testnet.stage.chain.link:8443
 http://mercury-srv.chain.link
 http://mercury-srv.chain.link:8080
@@ -110,6 +111,8 @@ https://careers.chain.link:8443
 https://ccip.chain.link
 https://chain.link
 https://data.chain.link
+https://dataengine.chain.link
+https://dataengine.chain.link:8443
 https://defi.chain.link
 https://defi.chain.link:8443
 https://dev.chain.link
@@ -121,12 +124,12 @@ https://events.chain.link
 https://faucet.chain.link
 https://faucets-ui-preview.chain.link
 https://faucets.chain.link
-https://fms-rpc.chain.link
 https://functions.chain.link
 https://go.chain.link
 https://hack.chain.link
 https://hack.chain.link:8443
 https://imx.chain.link
+https://imx.chain.link:8443
 https://jwh.chain.link
 https://keeper.chain.link
 https://keepers-beta.chain.link
@@ -135,6 +138,7 @@ https://ko.chain.link
 https://ko.chain.link:8443
 https://kovan.chain.link
 https://lambda.chain.link
+https://lambda.chain.link:8443
 https://mercury-arbitrum-mainnet.chain.link
 https://mercury-arbitrum-testnet.chain.link
 https://mercury-arbitrum-testnet.stage.chain.link

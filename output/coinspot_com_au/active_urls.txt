@@ -2,7 +2,7 @@ http://coinspot.com.au
 http://coinspot.com.au:8080
 http://www.coinspot.com.au
 http://www.coinspot.com.au:8080
-http://www.coinspot.com.au:8443
 https://coinspot.com.au
 https://coinspot.com.au:8443
 https://www.coinspot.com.au
+https://www.coinspot.com.au:8443

@@ -1,0 +1,1 @@
+[aws-object-listing] [http] [low] https://zwstatic.zomato.com [zweb.zomato.com]

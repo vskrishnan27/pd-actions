@@ -6,6 +6,8 @@ apibeta.zomato.com:443
 apibeta.zomato.com:80
 apimail.zomato.com:443
 apimail.zomato.com:80
+blog.zomato.com:443
+blog.zomato.com:80
 book.zomato.com:443
 book.zomato.com:80
 business-blog.zomato.com:443
@@ -76,8 +78,6 @@ www.techblog.zomato.com:443
 www.techblog.zomato.com:80
 www.zomato.com:443
 www.zomato.com:80
-zomato.com:443
-zomato.com:80
 zpay.zomato.com:443
 zpay.zomato.com:80
 zwstatic.zomato.com:443

@@ -1,2 +1,0 @@
-[generic-tokens] [http] [unknown] https://ns3.enjin.io [token":"90b9898d975549fc99f35b663f8cf1e4"]
-[generic-tokens] [http] [unknown] https://ns5.enjin.io:8443 [token":"90b9898d975549fc99f35b663f8cf1e4"]

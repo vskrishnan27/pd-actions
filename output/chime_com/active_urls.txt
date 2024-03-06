@@ -12,10 +12,8 @@ http://attachments.chime.com:8080
 http://attachments.chime.com:8443
 http://autobots-dev1.chime.com
 http://autobots-dev1.chime.com:8080
-http://autobots-dev1.chime.com:8443
 http://autobots-qa.chime.com
 http://autobots-qa.chime.com:8080
-http://autobots-qa.chime.com:8443
 http://autobots.chime.com
 http://autobots.chime.com:8080
 http://autobots.chime.com:8443
@@ -83,7 +81,6 @@ http://locations.chime.com:8080
 http://locations.chime.com:8443
 http://member-dev1.chime.com
 http://member-dev1.chime.com:8080
-http://member-dev1.chime.com:8443
 http://member-qa.chime.com
 http://member-qa.chime.com:8080
 http://member-qa.chime.com:8443
@@ -143,6 +140,7 @@ http://wp-dev4.chime.com:8080
 http://wp-dev4.chime.com:8443
 http://wp-dev5.chime.com
 http://wp-dev5.chime.com:8080
+http://wp-dev5.chime.com:8443
 http://wp-integ.chime.com
 http://wp-integ.chime.com:8080
 http://wp-integ.chime.com:8443
@@ -155,7 +153,9 @@ https://16002407.notify.chime.com
 https://app.chime.com
 https://attachments.chime.com
 https://autobots-dev1.chime.com
+https://autobots-dev1.chime.com:8443
 https://autobots-qa.chime.com
+https://autobots-qa.chime.com:8443
 https://autobots.chime.com
 https://careers.chime.com
 https://chat.chime.com
@@ -190,6 +190,7 @@ https://links.notify.chime.com
 https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
+https://member-dev1.chime.com:8443
 https://member-qa.chime.com
 https://member.chime.com
 https://mobile-state.chime.com
@@ -213,7 +214,6 @@ https://wp-dev2.chime.com
 https://wp-dev3.chime.com
 https://wp-dev4.chime.com
 https://wp-dev5.chime.com
-https://wp-dev5.chime.com:8443
 https://wp-integ.chime.com
 https://wp-qa.chime.com
 https://www.chime.com

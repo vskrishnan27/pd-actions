@@ -10,6 +10,8 @@ http://eur-en.orders.spectacles.com
 http://eur-en.orders.spectacles.com:8080
 http://gbp-en.orders.spectacles.com
 http://gbp-en.orders.spectacles.com:8080
+http://orders.spectacles.com
+http://orders.spectacles.com:8080
 http://pln-pl.orders.spectacles.com
 http://pln-pl.orders.spectacles.com:8080
 http://returns.spectacles.com
@@ -32,6 +34,8 @@ https://eur-en.orders.spectacles.com
 https://eur-en.orders.spectacles.com:8443
 https://gbp-en.orders.spectacles.com
 https://gbp-en.orders.spectacles.com:8443
+https://orders.spectacles.com
+https://orders.spectacles.com:8443
 https://pln-pl.orders.spectacles.com
 https://pln-pl.orders.spectacles.com:8443
 https://returns.spectacles.com

@@ -96,7 +96,6 @@ https://prod.incubator.superbet.ro
 https://promo.superbet.ro
 https://promo02.superbet.ro
 https://promotii.superbet.ro
-https://qa.incubator.superbet.ro
 https://qa.superbet.ro
 https://quizanglia.superbet.ro
 https://redrock-bloombergmarketingaccess.prometheus.vna.dev.incubator.superbet.ro

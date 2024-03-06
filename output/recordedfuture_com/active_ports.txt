@@ -10,8 +10,6 @@ blog.recordedfuture.com:443
 blog.recordedfuture.com:80
 blog.recordedfuture.com:8080
 blog.recordedfuture.com:8443
-cms.recordedfuture.com:443
-cms.recordedfuture.com:80
 community.recordedfuture.com:443
 community.recordedfuture.com:80
 community.recordedfuture.com:8080
@@ -90,10 +88,6 @@ url5653.recordedfuture.com:443
 url5653.recordedfuture.com:80
 url5653.recordedfuture.com:8080
 url5653.recordedfuture.com:8443
-ww.recordedfuture.com:443
-ww.recordedfuture.com:80
-ww.recordedfuture.com:8080
-ww.recordedfuture.com:8443
 www.cms.recordedfuture.com:443
 www.cms.recordedfuture.com:80
 www.preprod.cms.recordedfuture.com:443

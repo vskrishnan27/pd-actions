@@ -20,8 +20,8 @@ jobs:
           chmod +x $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh
           chmod +x $GITHUB_WORKSPACE/scripts/domainRotator.sh
 
-      - name: Run DomainRotator
-        run : bash $GITHUB_WORKSPACE/scripts/domainRotator.sh  
+      # - name: Run DomainRotator
+      #   run : bash $GITHUB_WORKSPACE/scripts/domainRotator.sh  
 
       - name: Notify Start Status
         run: |
@@ -110,23 +110,23 @@ jobs:
           pwd
         shell: bash
 
-      - name: Running SubFinder for passive DNS enumeration
-        run: |
-          subfinder -dL input/domains.txt -config config/subfinder-config.yaml -o ${{ env.folder_path }}/passive_subdomains.txt
-        shell: bash
+      # - name: Running SubFinder for passive DNS enumeration
+      #   run: |
+      #     subfinder -dL input/domains.txt -config config/subfinder-config.yaml -o ${{ env.folder_path }}/passive_subdomains.txt
+      #   shell: bash
 
-      - name: Notify Passive Domains Count  
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Passive Subdomains :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/passive_subdomains.txt | wc -l)"
+      # - name: Notify Passive Domains Count  
+      #   run: |
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Passive Subdomains :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/passive_subdomains.txt | wc -l)"
 
-      - name: Running dnsx for valid DNS filtering 
-        run: |
-          dnsx -l ${{ env.folder_path }}/passive_subdomains.txt -t 50 | tee ${{ env.folder_path }}/active_subdomains.txt
-        shell: bash
+      # - name: Running dnsx for valid DNS filtering 
+      #   run: |
+      #     dnsx -l ${{ env.folder_path }}/passive_subdomains.txt -t 50 | tee ${{ env.folder_path }}/active_subdomains.txt
+      #   shell: bash
         
-      - name: Notify Active Sub Domains Count  
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Subdomains :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_subdomains.txt |wc -l)"  
+      # - name: Notify Active Sub Domains Count  
+      #   run: |
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Subdomains :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_subdomains.txt |wc -l)"  
       
       - name: List output directry
         run: |
@@ -139,21 +139,21 @@ jobs:
 
       - name: Running naabu to check top 100 ports
         run: |
-          naabu -l ${{ env.folder_path }}/active_subdomains.txt -rate 10000 | tee ${{ env.folder_path }}/active_ports.txt
+          naabu -l $GITHUB_WORKSPACE/input/nextDomain.txt -rate 10000 | tee $GITHUB_WORKSPACE/output/zzz/active_ports.txt
         shell: bash
 
-      - name: Notify Active Ports Count  
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Ports :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }}  : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_ports.txt |wc -l)"      
+      # - name: Notify Active Ports Count  
+      #   run: |
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Ports :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }}  : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_ports.txt |wc -l)"      
 
       - name: Running httpx for HTTP webservers probbing
         run: |
-          httpx -l ${{ env.folder_path }}/active_ports.txt | tee ${{ env.folder_path }}/active_urls.txt
+          httpx -l $GITHUB_WORKSPACE/output/zzz/active_ports.txt | tee $GITHUB_WORKSPACE/output/zzz/active_urls.txt
         shell: bash
 
-      - name: Notify Active urls Count  
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Urls :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_urls.txt |wc -l)"      
+      # - name: Notify Active urls Count  
+      #   run: |
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Urls :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_urls.txt |wc -l)"      
     
       - name: Downloading Nuclei Templates
         run: |
@@ -167,23 +167,23 @@ jobs:
 
       - name: Running Nuclei for vulnerability assessment
         run: |
-          nuclei -config /home/runner/nuclei-templates/config/bugbounty.yml -l ${{ env.folder_path }}/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee ${{ env.folder_path }}/nuclei_output.txt
+          nuclei -t /home/runner/nuclei-templates/ -l $GITHUB_WORKSPACE/output/zzz/active_urls.txt -bs 100 -c 50 -rl 100 -nc | tee $GITHUB_WORKSPACE/output/zzz/nuclei_output.txt
         shell: bash
 
-      - name: Notify CVE details 
-        run: |
-          FILE_CONTENT=$(<"$GITHUB_WORKSPACE/${{ env.folder_path }}/nuclei_output.txt")
-          echo "$FILE_CONTENT" 
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "File Contents :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} ::: $FILE_CONTENT"
+      # - name: Notify CVE details 
+      #   run: |
+      #     FILE_CONTENT=$(<"$GITHUB_WORKSPACE/${{ env.folder_path }}/nuclei_output.txt")
+      #     echo "$FILE_CONTENT" 
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "File Contents :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} ::: $FILE_CONTENT"
 
-      - name: Notify Status End
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh end
+      # - name: Notify Status End
+      #   run: |
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh end
 
-      - name: Sorting the output results
-        run: |
-          find output -type f -exec sort {} -o {} \;
-        shell: bash
+      # - name: Sorting the output results
+      #   run: |
+      #     find output -type f -exec sort {} -o {} \;
+      #   shell: bash
 
           # git add output/passive_subdomains.txt
           # git add output/active_subdomains.txt
@@ -206,7 +206,7 @@ jobs:
         with:
           github_token: ${{ secrets.P_A_T }}
           branch: ${{ github.ref }}
-
-      - name : Trigger next workflow
+      
+      - name: Notify end Status
         run: |
-          bash $GITHUB_WORKSPACE/scripts/TriggerWorkFlowDispatch.sh "${{ secrets.P_A_T }}"
+            bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh start

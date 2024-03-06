@@ -26,10 +26,6 @@ auth-x.crypto.com:443
 auth-x.crypto.com:80
 auth-x.crypto.com:8080
 auth-x.crypto.com:8443
-auth.crypto.com:443
-auth.crypto.com:80
-auth.crypto.com:8080
-auth.crypto.com:8443
 auth.tax.crypto.com:443
 auth.tax.crypto.com:80
 auth.tax.crypto.com:8080
@@ -157,6 +153,10 @@ opening-night.crypto.com:443
 opening-night.crypto.com:80
 opening-night.crypto.com:8080
 opening-night.crypto.com:8443
+p.crypto.com:443
+p.crypto.com:80
+p.crypto.com:8080
+p.crypto.com:8443
 pay-api.crypto.com:443
 pay-api.crypto.com:80
 pay-api.crypto.com:8080
@@ -221,6 +221,10 @@ shop.crypto.com:443
 shop.crypto.com:80
 shop.crypto.com:8080
 shop.crypto.com:8443
+static.crypto.com:443
+static.crypto.com:80
+static.crypto.com:8080
+static.crypto.com:8443
 static2.crypto.com:443
 static2.crypto.com:80
 static2.crypto.com:8080
@@ -231,6 +235,10 @@ stream.crypto.com:443
 stream.crypto.com:80
 stream.crypto.com:8080
 stream.crypto.com:8443
+tax.crypto.com:443
+tax.crypto.com:80
+tax.crypto.com:8080
+tax.crypto.com:8443
 tpp-tmp.crypto.com:443
 tpp-tmp.crypto.com:80
 tpp-tmp.crypto.com:8080

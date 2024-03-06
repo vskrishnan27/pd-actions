@@ -413,7 +413,6 @@ http://university.gitlab.com:8443
 http://version.gitlab.com
 http://www.about.gitlab.com
 http://www.about.gitlab.com:8080
-http://www.gitlab.com
 http://www.shop.gitlab.com
 http://www.shop.gitlab.com:8080
 https://4456656-review-1107-add-e-53243j.design-staging.gitlab.com
@@ -806,6 +805,5 @@ https://university.gitlab.com
 https://version.gitlab.com
 https://www.about.gitlab.com
 https://www.about.gitlab.com:8443
-https://www.gitlab.com
 https://www.shop.gitlab.com
 https://www.shop.gitlab.com:8443

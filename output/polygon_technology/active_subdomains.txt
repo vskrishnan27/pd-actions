@@ -9,6 +9,8 @@ api-polygon-tokens.polygon.technology
 argocd.polygon.technology
 beta.polygon.technology
 blog.polygon.technology
+bridge-explorer.polygon.technology
+burn.polygon.technology
 cdk-agglayer-dev.polygon.technology
 community.polygon.technology
 developersupport-zkevm.polygon.technology
@@ -43,6 +45,7 @@ mainnet-rpc-node-001.polygon.technology
 mainnet-rpc-node-002.polygon.technology
 mainnet-rpc-node-003.polygon.technology
 mainnet-rpc-node-004.polygon.technology
+mapper.polygon.technology
 open-api-staging.polygon.technology
 partnersupport.polygon.technology
 polygon.technology

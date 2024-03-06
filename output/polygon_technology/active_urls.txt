@@ -18,6 +18,10 @@ http://argocd.polygon.technology:8080
 http://beta.polygon.technology
 http://blog.polygon.technology
 http://blog.polygon.technology:8080
+http://bridge-explorer.polygon.technology
+http://bridge-explorer.polygon.technology:8080
+http://burn.polygon.technology
+http://burn.polygon.technology:8080
 http://community.polygon.technology
 http://community.polygon.technology:8080
 http://developersupport-zkevm.polygon.technology
@@ -77,6 +81,8 @@ http://mainnet-rpc-node-003.polygon.technology
 http://mainnet-rpc-node-003.polygon.technology:8080
 http://mainnet-rpc-node-004.polygon.technology
 http://mainnet-rpc-node-004.polygon.technology:8080
+http://mapper.polygon.technology
+http://mapper.polygon.technology:8080
 http://open-api-staging.polygon.technology
 http://open-api-staging.polygon.technology:8080
 http://partnersupport.polygon.technology
@@ -97,7 +103,6 @@ http://rpc-edgenet.polygon.technology:8080
 http://rpc-mumbai.polygon.technology
 http://rpc-mumbai.polygon.technology:8080
 http://sdk-docs.polygon.technology
-http://sdk-docs.polygon.technology:443
 http://sdk-docs.polygon.technology:8080
 http://snapshot-download.polygon.technology
 http://snapshot-download.polygon.technology:8080
@@ -142,6 +147,10 @@ https://argocd.polygon.technology:8443
 https://beta.polygon.technology
 https://blog.polygon.technology
 https://blog.polygon.technology:8443
+https://bridge-explorer.polygon.technology
+https://bridge-explorer.polygon.technology:8443
+https://burn.polygon.technology
+https://burn.polygon.technology:8443
 https://community.polygon.technology
 https://community.polygon.technology:8443
 https://developersupport-zkevm.polygon.technology
@@ -199,6 +208,8 @@ https://mainnet-rpc-node-003.polygon.technology
 https://mainnet-rpc-node-003.polygon.technology:8443
 https://mainnet-rpc-node-004.polygon.technology
 https://mainnet-rpc-node-004.polygon.technology:8443
+https://mapper.polygon.technology
+https://mapper.polygon.technology:8443
 https://open-api-staging.polygon.technology
 https://open-api-staging.polygon.technology:8443
 https://partnersupport.polygon.technology
@@ -219,6 +230,7 @@ https://rpc-edgenet.polygon.technology:8443
 https://rpc-mumbai.polygon.technology
 https://rpc-mumbai.polygon.technology:8443
 https://scim-bridge-1pass.polygon.technology
+https://sdk-docs.polygon.technology
 https://sdk-docs.polygon.technology:8443
 https://snapshot-download.polygon.technology
 https://snapshot-download.polygon.technology:8443

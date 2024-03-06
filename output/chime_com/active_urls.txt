@@ -12,8 +12,10 @@ http://attachments.chime.com:8080
 http://attachments.chime.com:8443
 http://autobots-dev1.chime.com
 http://autobots-dev1.chime.com:8080
+http://autobots-dev1.chime.com:8443
 http://autobots-qa.chime.com
 http://autobots-qa.chime.com:8080
+http://autobots-qa.chime.com:8443
 http://autobots.chime.com
 http://autobots.chime.com:8080
 http://autobots.chime.com:8443
@@ -31,7 +33,6 @@ http://email.gh-mail.chime.com:8080
 http://email.gh-mail.chime.com:8443
 http://email.gh-mail.ext.chime.com
 http://email.gh-mail.ext.chime.com:8080
-http://email.gh-mail.ext.chime.com:8443
 http://email.mg.chime.com
 http://email.mg.chime.com:8080
 http://email.mg.chime.com:8443
@@ -43,7 +44,6 @@ http://enterpriseregistration.chime.com
 http://error-pages.chime.com
 http://flashpaper-dev1.chime.com
 http://flashpaper-dev1.chime.com:8080
-http://flashpaper-dev1.chime.com:8443
 http://flashpaper-qa.chime.com
 http://flashpaper-qa.chime.com:8080
 http://flashpaper-qa.chime.com:8443
@@ -81,6 +81,7 @@ http://locations.chime.com:8080
 http://locations.chime.com:8443
 http://member-dev1.chime.com
 http://member-dev1.chime.com:8080
+http://member-dev1.chime.com:8443
 http://member-qa.chime.com
 http://member-qa.chime.com:8080
 http://member-qa.chime.com:8443
@@ -105,7 +106,6 @@ http://penny-qa.chime.com:8080
 http://penny-qa.chime.com:8443
 http://penny.chime.com
 http://penny.chime.com:8080
-http://penny.chime.com:8443
 http://public-assets-dev1.chime.com
 http://public-assets-dev1.chime.com:8080
 http://public-assets-dev1.chime.com:8443
@@ -153,9 +153,7 @@ https://16002407.notify.chime.com
 https://app.chime.com
 https://attachments.chime.com
 https://autobots-dev1.chime.com
-https://autobots-dev1.chime.com:8443
 https://autobots-qa.chime.com
-https://autobots-qa.chime.com:8443
 https://autobots.chime.com
 https://careers.chime.com
 https://chat.chime.com
@@ -168,6 +166,7 @@ https://email.ethnio.chime.com
 https://email.ethnio.chime.com:80
 https://email.gh-mail.chime.com
 https://email.gh-mail.ext.chime.com
+https://email.gh-mail.ext.chime.com:8443
 https://email.mg.chime.com
 https://email.talent.chime.com
 https://email.talent.chime.com:80
@@ -176,6 +175,7 @@ https://enterpriseenrollment.chime.com
 https://enterpriseregistration.chime.com
 https://error-pages.chime.com
 https://flashpaper-dev1.chime.com
+https://flashpaper-dev1.chime.com:8443
 https://flashpaper-qa.chime.com
 https://flashpaper.chime.com
 https://handbooks.chime.com
@@ -190,7 +190,6 @@ https://links.notify.chime.com
 https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
-https://member-dev1.chime.com:8443
 https://member-qa.chime.com
 https://member.chime.com
 https://mobile-state.chime.com
@@ -201,6 +200,7 @@ https://nd.chime.com
 https://penny-dev1.chime.com
 https://penny-qa.chime.com
 https://penny.chime.com
+https://penny.chime.com:8443
 https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
 https://public-assets.chime.com

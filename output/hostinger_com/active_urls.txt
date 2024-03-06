@@ -22,9 +22,8 @@ http://autodiscover.mail.hostinger.com
 http://bekraeft.hostinger.com
 http://builder.hostinger.com
 http://builder.hostinger.com:8080
-http://builder.hostinger.com:8443
 http://cart.hostinger.com
-http://cart.hostinger.com:8443
+http://cart.hostinger.com:8080
 http://cdn.hostinger.com
 http://cdn.hostinger.com:8443
 http://confirmar.hostinger.com
@@ -154,7 +153,9 @@ https://autoconfig.mail.hostinger.com
 https://autodiscover.mail.hostinger.com
 https://bekraeft.hostinger.com
 https://builder.hostinger.com
+https://builder.hostinger.com:8443
 https://cart.hostinger.com
+https://cart.hostinger.com:8443
 https://cdn.hostinger.com
 https://confirmar.hostinger.com
 https://connect.hostinger.com

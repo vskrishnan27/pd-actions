@@ -448,6 +448,7 @@ it.airbnb.com
 it.next.airbnb.com
 it.trend.next.airbnb.com
 ivr-next.airbnb.com
+ivr.airbnb.com
 ivr.next.airbnb.com
 ja.admin.airbnb.com
 ja.airbnb.com
@@ -778,7 +779,6 @@ optustvnow.next.airbnb.com
 order.next.airbnb.com
 orders.next.airbnb.com
 origin-api-cn.airbnb.com
-origin-api-cnprod.airbnb.com
 origin-api.airbnb.com
 origin-events.airbnb.com
 origin-images.airbnb.com
@@ -998,6 +998,7 @@ survey.dev.next.airbnb.com
 sv.airbnb.com
 sv.next.airbnb.com
 sw.airbnb.com
+sw.next.airbnb.com
 swapnil.optustvnow.next.airbnb.com
 syn.evd.next.airbnb.com
 tablo.1.next.airbnb.com
@@ -1033,6 +1034,7 @@ tpe.id-covid19-service.next.airbnb.com
 tpe.idprofile-covid19.next.airbnb.com
 tpe.jinx-covid19-id.next.airbnb.com
 tr.airbnb.com
+tr.next.airbnb.com
 tracker2.pictures.next.airbnb.com
 transparency.airbnb.com
 trauma1.uk.next.airbnb.com
@@ -1074,6 +1076,7 @@ vendor-api.next.airbnb.com
 vendor.next.airbnb.com
 vendors.next.airbnb.com
 vi.airbnb.com
+vi.next.airbnb.com
 video.airbnb.com
 video.next.airbnb.com
 videos.next.airbnb.com
@@ -1129,9 +1132,11 @@ www1.next.airbnb.com
 www2.next.airbnb.com
 x86.moodle.next.airbnb.com
 xh.airbnb.com
+xh.next.airbnb.com
 xx.airbnb.com
 xx.next.airbnb.com
 xxkey.airbnb.com
+xxkey.next.airbnb.com
 xxlong.airbnb.com
 xxlong.next.airbnb.com
 xxmix.next.airbnb.com
@@ -1142,6 +1147,7 @@ yangju.evd.next.airbnb.com
 yellowpages.moodle.next.airbnb.com
 ytuu.rkai.next.airbnb.com
 zh-cn.airbnb.com
+zh-cn.next.airbnb.com
 zh-profile-covid19.next.airbnb.com
 zh-t-apicovid19.next.airbnb.com
 zh-t-covid19-billing.next.airbnb.com
@@ -1151,6 +1157,7 @@ zh.airbnb.com
 zh.next.airbnb.com
 zimbra.evd.next.airbnb.com
 zu.airbnb.com
+zu.next.airbnb.com
 zubin.dev.next.airbnb.com
 zuul-ws.canary.airbnb.com
 zxx.express.next.airbnb.com

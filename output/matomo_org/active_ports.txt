@@ -351,6 +351,17 @@ ru.matomo.org:587
 ru.matomo.org:80
 ru.matomo.org:993
 ru.matomo.org:995
+shop.matomo.org:110
+shop.matomo.org:143
+shop.matomo.org:21
+shop.matomo.org:22
+shop.matomo.org:25
+shop.matomo.org:443
+shop.matomo.org:465
+shop.matomo.org:587
+shop.matomo.org:80
+shop.matomo.org:993
+shop.matomo.org:995
 staging-plugins.matomo.org:110
 staging-plugins.matomo.org:143
 staging-plugins.matomo.org:21

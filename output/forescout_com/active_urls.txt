@@ -19,6 +19,7 @@ http://autodiscover.forescout.com
 http://click.forescout.com
 http://click.forescout.com:8443
 http://community.forescout.com
+http://community.forescout.com:8443
 http://compatibility.forescout.com
 http://dc0-secure.forescout.com
 http://dc0-secure.forescout.com:8080
@@ -43,6 +44,7 @@ http://trainingsurvey.forescout.com:8443
 http://updates.forescout.com
 http://updates.forescout.com:8080
 http://www.forescout.com
+http://www.forescout.com:8080
 http://www.forescout.com:8443
 http://zh.forescout.com
 http://zh.forescout.com:8443
@@ -63,7 +65,6 @@ https://api.forescout.com
 https://api.forescout.com:8443
 https://click.forescout.com
 https://community.forescout.com
-https://community.forescout.com:8443
 https://compatibility.forescout.com
 https://dc0-secure.forescout.com
 https://dc0-secure.forescout.com:8443

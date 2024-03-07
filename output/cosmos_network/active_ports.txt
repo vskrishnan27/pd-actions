@@ -34,10 +34,6 @@ api.atlas.cosmos.network:443
 api.atlas.cosmos.network:80
 api.atlas.cosmos.network:8080
 api.atlas.cosmos.network:8443
-api.bigbang.cosmos.network:443
-api.bigbang.cosmos.network:80
-api.bigbang.cosmos.network:8080
-api.bigbang.cosmos.network:8443
 api.brasil.bigbang.cosmos.network:443
 api.brasil.bigbang.cosmos.network:80
 api.brasil.bigbang.cosmos.network:8080
@@ -94,10 +90,6 @@ apiredirector.bigbang.cosmos.network:443
 apiredirector.bigbang.cosmos.network:80
 apiredirector.bigbang.cosmos.network:8080
 apiredirector.bigbang.cosmos.network:8443
-atlas.cosmos.network:443
-atlas.cosmos.network:80
-atlas.cosmos.network:8080
-atlas.cosmos.network:8443
 atlas.demo.cosmos.network:443
 atlas.demo.cosmos.network:80
 atlas.demo.cosmos.network:8080
@@ -374,6 +366,10 @@ rpc.irisnet.cosmos.network:443
 rpc.irisnet.cosmos.network:80
 rpc.irisnet.cosmos.network:8080
 rpc.irisnet.cosmos.network:8443
+rpc.testnet.cosmos.network:443
+rpc.testnet.cosmos.network:80
+rpc.testnet.cosmos.network:8080
+rpc.testnet.cosmos.network:8443
 s3-rest.bigbang.cosmos.network:443
 s3-rest.bigbang.cosmos.network:80
 s3-rest.bigbang.cosmos.network:8080

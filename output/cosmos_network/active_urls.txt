@@ -32,10 +32,6 @@ http://api.atlas.cosmos.network
 http://api.atlas.cosmos.network:443
 http://api.atlas.cosmos.network:8080
 http://api.atlas.cosmos.network:8443
-http://api.bigbang.cosmos.network
-http://api.bigbang.cosmos.network:443
-http://api.bigbang.cosmos.network:8080
-http://api.bigbang.cosmos.network:8443
 http://api.brasil.bigbang.cosmos.network
 http://api.brasil.bigbang.cosmos.network:443
 http://api.brasil.bigbang.cosmos.network:8080
@@ -90,9 +86,6 @@ http://apiredirector.bigbang.cosmos.network
 http://apiredirector.bigbang.cosmos.network:443
 http://apiredirector.bigbang.cosmos.network:8080
 http://apiredirector.bigbang.cosmos.network:8443
-http://atlas.cosmos.network
-http://atlas.cosmos.network:8080
-http://atlas.cosmos.network:8443
 http://atlas.demo.cosmos.network
 http://atlas.demo.cosmos.network:443
 http://atlas.demo.cosmos.network:8080
@@ -326,6 +319,10 @@ http://rpc.irisnet.cosmos.network
 http://rpc.irisnet.cosmos.network:443
 http://rpc.irisnet.cosmos.network:8080
 http://rpc.irisnet.cosmos.network:8443
+http://rpc.testnet.cosmos.network
+http://rpc.testnet.cosmos.network:443
+http://rpc.testnet.cosmos.network:8080
+http://rpc.testnet.cosmos.network:8443
 http://s3-rest.bigbang.cosmos.network
 http://s3-rest.bigbang.cosmos.network:443
 http://s3-rest.bigbang.cosmos.network:8080
@@ -384,7 +381,6 @@ https://academy.cosmos.network
 https://academy.cosmos.network:8443
 https://api.cosmos.network
 https://api.cosmos.network:8443
-https://atlas.cosmos.network
 https://backend.cosmos.network
 https://beta.cosmos.network
 https://bigbang.cosmos.network

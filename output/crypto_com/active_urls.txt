@@ -6,8 +6,6 @@ http://ablink.serviceinfo.crypto.com
 http://ablink.serviceinfo.crypto.com:8080
 http://advertising.crypto.com
 http://advertising.crypto.com:8080
-http://api.crypto.com
-http://api.crypto.com:8080
 http://app-api.nft.crypto.com
 http://app-api.nft.crypto.com:8080
 http://auth-x.crypto.com
@@ -37,6 +35,8 @@ http://crypto-coin-info-api.crypto.com
 http://crypto-coin-info-api.crypto.com:8080
 http://crypto-nft-bridge-api.crypto.com
 http://crypto-nft-bridge-api.crypto.com:8080
+http://crypto.com
+http://crypto.com:8080
 http://deriv-api.crypto.com
 http://deriv-api.crypto.com:8080
 http://exchange-docs.crypto.com
@@ -111,8 +111,6 @@ http://static2.crypto.com:8080
 http://status.crypto.com
 http://stream.crypto.com
 http://stream.crypto.com:8080
-http://tax.crypto.com
-http://tax.crypto.com:8080
 http://tpp-tmp.crypto.com
 http://tpp-tmp.crypto.com:8080
 http://uat-content-hub.crypto.com
@@ -139,8 +137,6 @@ https://ablink.serviceinfo.crypto.com
 https://ablink.serviceinfo.crypto.com:8443
 https://advertising.crypto.com
 https://advertising.crypto.com:8443
-https://api.crypto.com
-https://api.crypto.com:8443
 https://app-api.nft.crypto.com
 https://app-api.nft.crypto.com:8443
 https://auth-x.crypto.com
@@ -170,6 +166,8 @@ https://crypto-coin-info-api.crypto.com
 https://crypto-coin-info-api.crypto.com:8443
 https://crypto-nft-bridge-api.crypto.com
 https://crypto-nft-bridge-api.crypto.com:8443
+https://crypto.com
+https://crypto.com:8443
 https://deriv-api.crypto.com
 https://deriv-api.crypto.com:8443
 https://exchange-docs.crypto.com
@@ -242,8 +240,6 @@ https://static2.crypto.com:8443
 https://status.crypto.com
 https://stream.crypto.com
 https://stream.crypto.com:8443
-https://tax.crypto.com
-https://tax.crypto.com:8443
 https://tpp-tmp.crypto.com
 https://tpp-tmp.crypto.com:8443
 https://uat-content-hub.crypto.com

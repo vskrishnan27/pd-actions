@@ -14,10 +14,6 @@ advertising.crypto.com:443
 advertising.crypto.com:80
 advertising.crypto.com:8080
 advertising.crypto.com:8443
-api.crypto.com:443
-api.crypto.com:80
-api.crypto.com:8080
-api.crypto.com:8443
 app-api.nft.crypto.com:443
 app-api.nft.crypto.com:80
 app-api.nft.crypto.com:8080
@@ -77,6 +73,10 @@ crypto-nft-bridge-api.crypto.com:443
 crypto-nft-bridge-api.crypto.com:80
 crypto-nft-bridge-api.crypto.com:8080
 crypto-nft-bridge-api.crypto.com:8443
+crypto.com:443
+crypto.com:80
+crypto.com:8080
+crypto.com:8443
 deriv-api.crypto.com:443
 deriv-api.crypto.com:80
 deriv-api.crypto.com:8080
@@ -223,10 +223,6 @@ stream.crypto.com:443
 stream.crypto.com:80
 stream.crypto.com:8080
 stream.crypto.com:8443
-tax.crypto.com:443
-tax.crypto.com:80
-tax.crypto.com:8080
-tax.crypto.com:8443
 tpp-tmp.crypto.com:443
 tpp-tmp.crypto.com:80
 tpp-tmp.crypto.com:8080

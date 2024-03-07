@@ -22,8 +22,6 @@ api.github.com:443
 api.github.com:80
 api.security.github.com:443
 api.security.github.com:80
-api.stars.github.com:443
-api.stars.github.com:80
 artblaster.github.com:443
 artblaster.github.com:80
 ask.github.com:443
@@ -451,8 +449,6 @@ posidron.github.com:443
 posidron.github.com:80
 primercuervo.github.com:443
 primercuervo.github.com:80
-proxima-review-lab.github.com:443
-proxima-review-lab.github.com:80
 rainmeter.github.com:443
 rainmeter.github.com:80
 raw.github.com:443
@@ -474,8 +470,6 @@ res.communication.github.com:443
 res.communication.github.com:80
 resources.github.com:443
 resources.github.com:80
-review-lab.github.com:443
-review-lab.github.com:80
 rjhansen.github.com:443
 rjhansen.github.com:80
 robey.github.com:443
@@ -486,6 +480,8 @@ rodzen.github.com:443
 rodzen.github.com:80
 rosarior.github.com:443
 rosarior.github.com:80
+rs.github.com:443
+rs.github.com:80
 schrauger.github.com:443
 schrauger.github.com:80
 sebastianbergmann.github.com:443
@@ -541,8 +537,6 @@ web5622.github.com:443
 web5622.github.com:80
 web6014.github.com:443
 web6014.github.com:80
-workspaces-ppe.github.com:443
-workspaces-ppe.github.com:80
 ws.support.github.com:443
 ws.support.github.com:80
 www.api.security.github.com:443
@@ -558,8 +552,6 @@ www.graphql.github.com:443
 www.graphql.github.com:80
 www.jira.github.com:443
 www.jira.github.com:80
-www.maintainers.github.com:443
-www.maintainers.github.com:80
 www.networkx.github.com:443
 www.networkx.github.com:80
 www.partnerportal.github.com:443
@@ -568,10 +560,6 @@ www.render-lab.github.com:443
 www.render-lab.github.com:80
 www.skyline.github.com:443
 www.skyline.github.com:80
-www.smtp.github.com:443
-www.smtp.github.com:80
-www.support.enterprise.github.com:443
-www.support.enterprise.github.com:80
 www.visualstudio.github.com:443
 www.visualstudio.github.com:80
 www.ws.support.github.com:443

@@ -1,0 +1,1325 @@
+[aws-bucket-service] [http] [info] https://status.basecamp.com
+[aws-cloudfront-service] [http] [info] https://status.basecamp.com
+[aws-cloudfront-service] [http] [info] https://statuspage.basecamp.com
+[aws-detect:aws-cloudfront] [http] [info] http://status.basecamp.com
+[aws-detect:aws-cloudfront] [http] [info] http://statuspage.basecamp.com
+[aws-detect:aws-cloudfront] [http] [info] https://status.basecamp.com
+[aws-detect:aws-cloudfront] [http] [info] https://status.basecamp.com/
+[aws-detect:aws-cloudfront] [http] [info] https://statuspage.basecamp.com
+[aws-detect:aws-cloudfront] [http] [info] https://statuspage.basecamp.com/
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/basecamp.com/v2.0/.well-known/openid-configuration [a2b852c6-0d56-4650-ba77-40ce9ef7c292]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/basecamp.com/v2.0/.well-known/openid-configuration [a2b852c6-0d56-4650-ba77-40ce9ef7c292]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/basecamp.com/v2.0/.well-known/openid-configuration [a2b852c6-0d56-4650-ba77-40ce9ef7c292]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/basecamp.com/v2.0/.well-known/openid-configuration [a2b852c6-0d56-4650-ba77-40ce9ef7c292]
+[caa-fingerprint] [dns] [info] asset1.basecamp.com
+[caa-fingerprint] [dns] [info] asset1.basecamp.com
+[caa-fingerprint] [dns] [info] asset1.basecamp.com
+[caa-fingerprint] [dns] [info] asset1.basecamp.com
+[caa-fingerprint] [dns] [info] basecamp.com
+[caa-fingerprint] [dns] [info] basecamp.com
+[caa-fingerprint] [dns] [info] basecamp.com
+[caa-fingerprint] [dns] [info] basecamp.com
+[caa-fingerprint] [dns] [info] beta.basecamp.com
+[caa-fingerprint] [dns] [info] beta.basecamp.com
+[caa-fingerprint] [dns] [info] beta1.basecamp.com
+[caa-fingerprint] [dns] [info] beta1.basecamp.com
+[caa-fingerprint] [dns] [info] beta1.basecamp.com
+[caa-fingerprint] [dns] [info] beta1.basecamp.com
+[caa-fingerprint] [dns] [info] brasil.basecamp.com
+[caa-fingerprint] [dns] [info] brasil.basecamp.com
+[caa-fingerprint] [dns] [info] chat.3.basecamp.com
+[caa-fingerprint] [dns] [info] chat.3.basecamp.com
+[caa-fingerprint] [dns] [info] chat.3.basecamp.com
+[caa-fingerprint] [dns] [info] chat.3.basecamp.com
+[caa-fingerprint] [dns] [info] clients.3.basecamp.com
+[caa-fingerprint] [dns] [info] clients.3.basecamp.com
+[caa-fingerprint] [dns] [info] clients.3.basecamp.com
+[caa-fingerprint] [dns] [info] clients.3.basecamp.com
+[caa-fingerprint] [dns] [info] help.basecamp.com
+[caa-fingerprint] [dns] [info] help.basecamp.com
+[caa-fingerprint] [dns] [info] help.basecamp.com
+[caa-fingerprint] [dns] [info] help.basecamp.com
+[caa-fingerprint] [dns] [info] marketing-staging.basecamp.com [amazon.com,comodoca.com,digicert.com; cansignhttpexchanges=yes,letsencrypt.org,pki.goog; cansignhttpexchanges=yes,sectigo.com,mailto:sysadmins@37signals.com]
+[caa-fingerprint] [dns] [info] marketing-staging.basecamp.com [comodoca.com,digicert.com; cansignhttpexchanges=yes,letsencrypt.org,pki.goog; cansignhttpexchanges=yes,sectigo.com,mailto:sysadmins@37signals.com,amazon.com]
+[caa-fingerprint] [dns] [info] marketing-staging.basecamp.com [digicert.com; cansignhttpexchanges=yes,letsencrypt.org,pki.goog; cansignhttpexchanges=yes,sectigo.com,mailto:sysadmins@37signals.com,amazon.com,comodoca.com]
+[caa-fingerprint] [dns] [info] marketing-staging.basecamp.com [letsencrypt.org,pki.goog; cansignhttpexchanges=yes,sectigo.com,mailto:sysadmins@37signals.com,amazon.com,comodoca.com,digicert.com; cansignhttpexchanges=yes]
+[caa-fingerprint] [dns] [info] preview.3.basecamp.com
+[caa-fingerprint] [dns] [info] preview.3.basecamp.com
+[caa-fingerprint] [dns] [info] preview.3.basecamp.com
+[caa-fingerprint] [dns] [info] preview.3.basecamp.com
+[caa-fingerprint] [dns] [info] progress.basecamp.com
+[caa-fingerprint] [dns] [info] progress.basecamp.com
+[caa-fingerprint] [dns] [info] progress.basecamp.com
+[caa-fingerprint] [dns] [info] progress.basecamp.com
+[caa-fingerprint] [dns] [info] public.3.basecamp.com
+[caa-fingerprint] [dns] [info] public.3.basecamp.com
+[caa-fingerprint] [dns] [info] public.3.basecamp.com
+[caa-fingerprint] [dns] [info] public.3.basecamp.com
+[caa-fingerprint] [dns] [info] public.basecamp.com
+[caa-fingerprint] [dns] [info] public.basecamp.com
+[caa-fingerprint] [dns] [info] public.basecamp.com
+[caa-fingerprint] [dns] [info] public.basecamp.com
+[caa-fingerprint] [dns] [info] rollout-assets-rw-ash.basecamp.com
+[caa-fingerprint] [dns] [info] rollout-assets.basecamp.com
+[caa-fingerprint] [dns] [info] rollout-assets.basecamp.com
+[caa-fingerprint] [dns] [info] rw-ash-assets.basecamp.com
+[caa-fingerprint] [dns] [info] rw-ash-assets.basecamp.com
+[caa-fingerprint] [dns] [info] rw-ash.basecamp.com
+[caa-fingerprint] [dns] [info] rw-ash.basecamp.com
+[caa-fingerprint] [dns] [info] sc-chi.basecamp.com
+[caa-fingerprint] [dns] [info] sc-chi.basecamp.com
+[caa-fingerprint] [dns] [info] search.basecamp.com
+[caa-fingerprint] [dns] [info] search.basecamp.com
+[caa-fingerprint] [dns] [info] search.basecamp.com
+[caa-fingerprint] [dns] [info] search.basecamp.com
+[caa-fingerprint] [dns] [info] status.basecamp.com
+[caa-fingerprint] [dns] [info] status.basecamp.com
+[caa-fingerprint] [dns] [info] statuspage.basecamp.com [globalsign.com,letsencrypt.org]
+[caa-fingerprint] [dns] [info] statuspage.basecamp.com [globalsign.com,letsencrypt.org]
+[caa-fingerprint] [dns] [info] storage.3.basecamp.com
+[caa-fingerprint] [dns] [info] storage.3.basecamp.com
+[caa-fingerprint] [dns] [info] storage.3.basecamp.com
+[caa-fingerprint] [dns] [info] storage.3.basecamp.com
+[caa-fingerprint] [dns] [info] thedistance.basecamp.com
+[caa-fingerprint] [dns] [info] thedistance.basecamp.com
+[caa-fingerprint] [dns] [info] updates.basecamp.com
+[caa-fingerprint] [dns] [info] updates.basecamp.com
+[caa-fingerprint] [dns] [info] upload.3.basecamp.com
+[caa-fingerprint] [dns] [info] upload.3.basecamp.com
+[caa-fingerprint] [dns] [info] upload.3.basecamp.com
+[caa-fingerprint] [dns] [info] upload.3.basecamp.com
+[caa-fingerprint] [dns] [info] upload.basecamp.com
+[caa-fingerprint] [dns] [info] upload.basecamp.com
+[caa-fingerprint] [dns] [info] upload.basecamp.com
+[caa-fingerprint] [dns] [info] upload.basecamp.com
+[caa-fingerprint] [dns] [info] www.basecamp.com
+[caa-fingerprint] [dns] [info] www.basecamp.com
+[caa-fingerprint] [dns] [info] www.basecamp.com
+[caa-fingerprint] [dns] [info] www.basecamp.com
+[caa-fingerprint] [dns] [info] www.updates.basecamp.com
+[caa-fingerprint] [dns] [info] www.updates.basecamp.com
+[deprecated-tls] [ssl] [info] status.basecamp.com:443 [tls11]
+[deprecated-tls] [ssl] [info] status.basecamp.com:443 [tls11]
+[dmarc-detect] [dns] [info] _dmarc.basecamp.com ["v=DMARC1; p=quarantine; rua=mailto:rua@basecamp.com,mailto:re+rltzvjjc4dc@inbound.dmarcdigests.com; ruf=mailto:ruf@basecamp.com; adkim=r; aspf=r; ri=3600; sp=quarantine; fo=1;"]
+[dmarc-detect] [dns] [info] _dmarc.basecamp.com ["v=DMARC1; p=quarantine; rua=mailto:rua@basecamp.com,mailto:re+rltzvjjc4dc@inbound.dmarcdigests.com; ruf=mailto:ruf@basecamp.com; adkim=r; aspf=r; ri=3600; sp=quarantine; fo=1;"]
+[dmarc-detect] [dns] [info] _dmarc.basecamp.com ["v=DMARC1; p=quarantine; rua=mailto:rua@basecamp.com,mailto:re+rltzvjjc4dc@inbound.dmarcdigests.com; ruf=mailto:ruf@basecamp.com; adkim=r; aspf=r; ri=3600; sp=quarantine; fo=1;"]
+[dmarc-detect] [dns] [info] _dmarc.basecamp.com ["v=DMARC1; p=quarantine; rua=mailto:rua@basecamp.com,mailto:re+rltzvjjc4dc@inbound.dmarcdigests.com; ruf=mailto:ruf@basecamp.com; adkim=r; aspf=r; ri=3600; sp=quarantine; fo=1;"]
+[dns-saas-service-detection:amazon-cloudfront] [dns] [info] status.basecamp.com [d2ta1qxlofnrsr.cloudfront.net.]
+[dns-saas-service-detection:amazon-cloudfront] [dns] [info] status.basecamp.com [d2ta1qxlofnrsr.cloudfront.net.]
+[dns-saas-service-detection:webflow] [dns] [info] brasil.basecamp.com [proxy-ssl.webflow.com.]
+[dns-saas-service-detection:webflow] [dns] [info] brasil.basecamp.com [proxy-ssl.webflow.com.]
+[dns-saas-service-detection] [dns] [info] help.basecamp.com [37help-static.pages.dev.]
+[dns-saas-service-detection] [dns] [info] help.basecamp.com [37help-static.pages.dev.]
+[dns-saas-service-detection] [dns] [info] help.basecamp.com [37help-static.pages.dev.]
+[dns-saas-service-detection] [dns] [info] help.basecamp.com [37help-static.pages.dev.]
+[dns-saas-service-detection] [dns] [info] marketing-staging.basecamp.com [bcx-staging.com.]
+[dns-saas-service-detection] [dns] [info] marketing-staging.basecamp.com [bcx-staging.com.]
+[dns-saas-service-detection] [dns] [info] marketing-staging.basecamp.com [bcx-staging.com.]
+[dns-saas-service-detection] [dns] [info] marketing-staging.basecamp.com [bcx-staging.com.]
+[dns-saas-service-detection] [dns] [info] rollout-assets-rw-ash.basecamp.com [rw-ash-assets.basecamp.com.]
+[dns-saas-service-detection] [dns] [info] rollout-assets.basecamp.com [beta.basecamp.com.]
+[dns-saas-service-detection] [dns] [info] rollout-assets.basecamp.com [beta.basecamp.com.]
+[dns-saas-service-detection] [dns] [info] statuspage.basecamp.com [thc30769z1m9.stspg-customer.com.]
+[dns-saas-service-detection] [dns] [info] statuspage.basecamp.com [thc30769z1m9.stspg-customer.com.]
+[dns-saas-service-detection] [dns] [info] updates.basecamp.com [ext-cust.squarespace.com.]
+[dns-saas-service-detection] [dns] [info] updates.basecamp.com [ext-cust.squarespace.com.]
+[dns-saas-service-detection] [dns] [info] www.updates.basecamp.com [ext-cust.squarespace.com.]
+[dns-saas-service-detection] [dns] [info] www.updates.basecamp.com [ext-cust.squarespace.com.]
+[dns-waf-detect:cloudflare] [dns] [info] beta1.basecamp.com
+[dns-waf-detect:cloudflare] [dns] [info] beta1.basecamp.com
+[dns-waf-detect:cloudflare] [dns] [info] beta1.basecamp.com
+[dns-waf-detect:cloudflare] [dns] [info] beta1.basecamp.com
+[dns-waf-detect:cloudflare] [dns] [info] help.basecamp.com
+[dns-waf-detect:cloudflare] [dns] [info] help.basecamp.com
+[dns-waf-detect:cloudflare] [dns] [info] help.basecamp.com
+[dns-waf-detect:cloudflare] [dns] [info] help.basecamp.com
+[dns-waf-detect:cloudflare] [dns] [info] marketing-staging.basecamp.com
+[dns-waf-detect:cloudflare] [dns] [info] marketing-staging.basecamp.com
+[dns-waf-detect:cloudflare] [dns] [info] marketing-staging.basecamp.com
+[dns-waf-detect:cloudflare] [dns] [info] marketing-staging.basecamp.com
+[email-extractor] [http] [info] http://asset1.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://asset1.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://beta1.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://beta1.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://chat.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://chat.3.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://clients.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://clients.3.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://help.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://help.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://marketing-staging.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://marketing-staging.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://preview.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://preview.3.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://progress.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://progress.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://public.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://public.3.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://public.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://public.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://search.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://search.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://storage.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://storage.3.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://upload.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://upload.3.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://upload.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://upload.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] http://www.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] http://www.basecamp.com:8080 [support@basecamp.com]
+[email-extractor] [http] [info] https://asset1.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://beta1.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://brasil.basecamp.com [jason@basecamp.com,lucas@basecamp.com]
+[email-extractor] [http] [info] https://chat.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://clients.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://help.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://help.basecamp.com:8443 [support@basecamp.com]
+[email-extractor] [http] [info] https://marketing-staging.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://preview.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://progress.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://public.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://public.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://search.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://storage.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://upload.3.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://upload.basecamp.com [support@basecamp.com]
+[email-extractor] [http] [info] https://www.basecamp.com [support@basecamp.com]
+[external-service-interaction] [http] [info] http://brasil.basecamp.com
+[external-service-interaction] [http] [info] https://cnkkinlji32bp1pjdnf0n9pfmowr8so31.oast.me/
+[http-missing-security-headers:clear-site-data] [http] [info] http://asset1.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://asset1.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://asset1.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://beta1.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://beta1.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://beta1.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://chat.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://chat.3.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://chat.3.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://clients.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://clients.3.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://clients.3.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://help.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://help.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://marketing-staging.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://marketing-staging.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://marketing-staging.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://preview.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://preview.3.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://preview.3.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://progress.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://progress.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://progress.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://public.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://public.3.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://public.3.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://public.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://public.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://public.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://search.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://search.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://search.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://storage.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://storage.3.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://storage.3.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://updates.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://upload.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://upload.3.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://upload.3.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://upload.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://upload.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://upload.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://www.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://www.basecamp.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://www.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://www.updates.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://asset1.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://beta1.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://brasil.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://brasil.basecamp.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://chat.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://clients.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://help.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://help.basecamp.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://marketing-staging.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://preview.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://progress.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://public.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://public.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://search.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://storage.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://updates.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://upload.3.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://upload.basecamp.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://asset1.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://asset1.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://asset1.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://beta1.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://beta1.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://beta1.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://chat.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://chat.3.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://chat.3.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://clients.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://clients.3.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://clients.3.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://help.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://help.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://marketing-staging.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://marketing-staging.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://marketing-staging.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://preview.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://preview.3.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://preview.3.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://progress.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://progress.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://progress.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://public.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://public.3.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://public.3.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://public.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://public.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://public.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://search.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://search.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://search.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://storage.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://storage.3.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://storage.3.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://updates.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://upload.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://upload.3.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://upload.3.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://upload.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://upload.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://upload.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://www.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://www.basecamp.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://www.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://www.updates.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://asset1.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://beta1.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://chat.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://clients.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://help.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://help.basecamp.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://marketing-staging.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://preview.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://progress.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://public.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://public.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://search.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://storage.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://updates.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://upload.3.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://upload.basecamp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://asset1.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://asset1.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://asset1.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://beta1.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://beta1.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://beta1.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://chat.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://chat.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://chat.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://clients.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://clients.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://clients.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://help.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://help.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://marketing-staging.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://marketing-staging.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://marketing-staging.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://preview.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://preview.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://preview.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://progress.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://progress.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://progress.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://public.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://public.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://public.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://public.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://public.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://public.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://search.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://search.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://search.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://storage.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://storage.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://storage.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://updates.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://upload.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://upload.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://upload.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://upload.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://upload.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://upload.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://www.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://www.basecamp.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://www.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://www.updates.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://asset1.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://beta1.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://brasil.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://brasil.basecamp.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://chat.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://clients.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://help.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://help.basecamp.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://marketing-staging.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://preview.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://progress.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://public.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://public.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://search.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://storage.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://updates.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://upload.3.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://upload.basecamp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://asset1.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://asset1.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://asset1.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://beta1.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://beta1.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://beta1.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://chat.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://chat.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://chat.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://clients.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://clients.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://clients.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://help.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://help.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://marketing-staging.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://marketing-staging.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://marketing-staging.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://preview.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://preview.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://preview.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://progress.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://progress.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://progress.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://public.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://public.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://public.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://public.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://public.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://public.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://search.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://search.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://search.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://storage.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://storage.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://storage.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://updates.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://upload.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://upload.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://upload.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://upload.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://upload.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://upload.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://www.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://www.basecamp.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://www.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://www.updates.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://asset1.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://beta1.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://brasil.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://brasil.basecamp.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://chat.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://clients.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://help.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://help.basecamp.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://marketing-staging.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://preview.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://progress.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://public.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://public.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://search.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://storage.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://updates.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://upload.3.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://upload.basecamp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://asset1.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://asset1.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://asset1.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://beta1.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://beta1.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://beta1.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://chat.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://chat.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://chat.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://clients.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://clients.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://clients.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://help.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://help.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://marketing-staging.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://marketing-staging.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://marketing-staging.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://preview.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://preview.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://preview.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://progress.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://progress.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://progress.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://public.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://public.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://public.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://public.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://public.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://public.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://search.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://search.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://search.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://storage.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://storage.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://storage.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://updates.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://upload.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://upload.3.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://upload.3.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://upload.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://upload.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://upload.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://www.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://www.basecamp.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://www.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://www.updates.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://asset1.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://beta1.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://brasil.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://brasil.basecamp.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://chat.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://clients.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://help.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://help.basecamp.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://marketing-staging.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://preview.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://progress.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://public.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://public.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://search.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://storage.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://updates.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://upload.3.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://upload.basecamp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://asset1.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://asset1.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://asset1.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://beta1.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://beta1.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://beta1.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://chat.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://chat.3.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://chat.3.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://clients.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://clients.3.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://clients.3.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://help.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://help.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://marketing-staging.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://marketing-staging.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://marketing-staging.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://preview.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://preview.3.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://preview.3.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://progress.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://progress.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://progress.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://public.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://public.3.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://public.3.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://public.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://public.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://public.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://search.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://search.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://search.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://storage.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://storage.3.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://storage.3.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://updates.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://upload.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://upload.3.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://upload.3.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://upload.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://upload.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://upload.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://www.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://www.basecamp.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://www.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://www.updates.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://asset1.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://beta1.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://brasil.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://brasil.basecamp.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://chat.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://clients.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://help.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://help.basecamp.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://marketing-staging.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://preview.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://progress.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://public.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://public.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://search.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://storage.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://updates.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://upload.3.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://upload.basecamp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.basecamp.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://asset1.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://beta1.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://chat.3.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://clients.3.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://marketing-staging.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://preview.3.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://progress.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://public.3.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://public.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://search.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://storage.3.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://updates.basecamp.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://upload.3.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://upload.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://www.basecamp.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://www.updates.basecamp.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://brasil.basecamp.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://brasil.basecamp.com/
+[http-missing-security-headers:referrer-policy] [http] [info] https://updates.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://asset1.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://asset1.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://asset1.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://beta1.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://beta1.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://beta1.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://chat.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://chat.3.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://chat.3.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://clients.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://clients.3.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://clients.3.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://help.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://help.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://marketing-staging.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://marketing-staging.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://marketing-staging.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://preview.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://preview.3.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://preview.3.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://progress.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://progress.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://progress.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://public.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://public.3.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://public.3.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://public.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://public.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://public.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://search.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://search.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://search.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://storage.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://storage.3.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://storage.3.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://updates.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://upload.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://upload.3.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://upload.3.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://upload.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://upload.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://upload.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://www.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://www.basecamp.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://www.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://www.updates.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://asset1.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://beta1.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://brasil.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://brasil.basecamp.com/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://chat.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://clients.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://help.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://help.basecamp.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://marketing-staging.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://preview.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://progress.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://public.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://public.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://search.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://storage.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://updates.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://upload.3.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://upload.basecamp.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://asset1.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://asset1.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://asset1.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://beta1.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://beta1.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://beta1.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://chat.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://chat.3.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://chat.3.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://clients.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://clients.3.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://clients.3.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://help.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://help.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://marketing-staging.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://marketing-staging.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://marketing-staging.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://preview.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://preview.3.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://preview.3.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://progress.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://progress.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://progress.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://public.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://public.3.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://public.3.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://public.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://public.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://public.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://search.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://search.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://search.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://storage.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://storage.3.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://storage.3.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://updates.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://upload.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://upload.3.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://upload.3.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://upload.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://upload.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://upload.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://www.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://www.basecamp.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://www.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://www.updates.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://asset1.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://beta1.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://brasil.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://brasil.basecamp.com/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://chat.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://clients.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://help.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://help.basecamp.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://marketing-staging.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://preview.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://progress.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://public.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://public.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://search.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://storage.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://updates.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://upload.3.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://upload.basecamp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.basecamp.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://asset1.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://beta1.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://chat.3.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://clients.3.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://marketing-staging.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://preview.3.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://progress.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://public.3.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://public.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://search.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://storage.3.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://updates.basecamp.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://upload.3.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://upload.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://www.basecamp.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://www.updates.basecamp.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://updates.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://asset1.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://asset1.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://asset1.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://beta1.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://beta1.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://beta1.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://chat.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://chat.3.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://chat.3.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://clients.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://clients.3.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://clients.3.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://help.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://help.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://marketing-staging.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://marketing-staging.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://marketing-staging.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://preview.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://preview.3.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://preview.3.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://progress.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://progress.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://progress.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://public.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://public.3.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://public.3.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://public.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://public.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://public.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://search.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://search.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://search.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://storage.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://storage.3.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://storage.3.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://updates.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://upload.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://upload.3.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://upload.3.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://upload.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://upload.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://upload.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://www.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://www.basecamp.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://www.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://www.updates.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://asset1.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://beta1.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://brasil.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://brasil.basecamp.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://chat.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://clients.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://help.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://help.basecamp.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://marketing-staging.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://preview.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://progress.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://public.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://public.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://search.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://storage.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://updates.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://upload.3.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://upload.basecamp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.basecamp.com
+[missing-sri] [http] [info] https://brasil.basecamp.com/ [https://plausible.io/js/script.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6577b950d3e376c4d500c340,https://assets-global.website-files.com/6577b950d3e376c4d500c340/js/webflow.6aec41335.js]
+[missing-sri] [http] [info] https://brasil.basecamp.com/ [https://plausible.io/js/script.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6577b950d3e376c4d500c340,https://assets-global.website-files.com/6577b950d3e376c4d500c340/js/webflow.6aec41335.js]
+[missing-sri] [http] [info] https://www.37status.com/ [https://dka575ofm4ao0.cloudfront.net/assets/status_common-c1b99d73ee7ab0fea796bd170723c1daac1381095a7dd7501a38ce6f333d86b3.js,https://www.recaptcha.net/recaptcha/enterprise.js?onload=onloadCallback&render=explicit,https://dka575ofm4ao0.cloudfront.net/packs/common-c3ca024b93f2e64d6f01.chunk.js,https://dka575ofm4ao0.cloudfront.net/packs/globals-3e964b59fb236dbfabd1.chunk.js,https://dka575ofm4ao0.cloudfront.net/packs/runtime-845beefc293f0b2f3a9a.js,https://dka575ofm4ao0.cloudfront.net/assets/jquery-3.5.1.min-729e416557a365062a8a20f0562f18aa171da57298005d392312670c706c68de.js,https://polyfill.io/v3/polyfill.min.js?features=default,https://dka575ofm4ao0.cloudfront.net/assets/register_subscription_form-589b657fec607087fc5c740c568270907310bc4f6aaa20256e70f01b103025ca.js,https://dka575ofm4ao0.cloudfront.net/assets/vendor/bowser-1643ca34a6d589b2d4d42163a891e4512d5d7657125e09bb5f3d44288114e6bd.js,https://dka575ofm4ao0.cloudfront.net/assets/status_manifest-64fb5687d71f873d27a1c3416b1bca684775b3e6b440b314056936b10bf9555d.js]
+[missing-sri] [http] [info] https://www.37status.com/ [https://dka575ofm4ao0.cloudfront.net/assets/status_common-c1b99d73ee7ab0fea796bd170723c1daac1381095a7dd7501a38ce6f333d86b3.js,https://www.recaptcha.net/recaptcha/enterprise.js?onload=onloadCallback&render=explicit,https://dka575ofm4ao0.cloudfront.net/packs/globals-3e964b59fb236dbfabd1.chunk.js,https://dka575ofm4ao0.cloudfront.net/packs/runtime-845beefc293f0b2f3a9a.js,https://dka575ofm4ao0.cloudfront.net/assets/vendor/bowser-1643ca34a6d589b2d4d42163a891e4512d5d7657125e09bb5f3d44288114e6bd.js,https://polyfill.io/v3/polyfill.min.js?features=default,https://dka575ofm4ao0.cloudfront.net/assets/status_manifest-64fb5687d71f873d27a1c3416b1bca684775b3e6b440b314056936b10bf9555d.js,https://dka575ofm4ao0.cloudfront.net/assets/register_subscription_form-589b657fec607087fc5c740c568270907310bc4f6aaa20256e70f01b103025ca.js,https://dka575ofm4ao0.cloudfront.net/packs/common-c3ca024b93f2e64d6f01.chunk.js,https://dka575ofm4ao0.cloudfront.net/assets/jquery-3.5.1.min-729e416557a365062a8a20f0562f18aa171da57298005d392312670c706c68de.js]
+[missing-sri] [http] [info] https://www.37status.com/index.html [https://dka575ofm4ao0.cloudfront.net/assets/status_manifest-64fb5687d71f873d27a1c3416b1bca684775b3e6b440b314056936b10bf9555d.js,https://dka575ofm4ao0.cloudfront.net/assets/register_subscription_form-589b657fec607087fc5c740c568270907310bc4f6aaa20256e70f01b103025ca.js,https://www.recaptcha.net/recaptcha/enterprise.js?onload=onloadCallback&render=explicit,https://dka575ofm4ao0.cloudfront.net/packs/runtime-845beefc293f0b2f3a9a.js,https://dka575ofm4ao0.cloudfront.net/assets/jquery-3.5.1.min-729e416557a365062a8a20f0562f18aa171da57298005d392312670c706c68de.js,https://polyfill.io/v3/polyfill.min.js?features=default,https://dka575ofm4ao0.cloudfront.net/assets/vendor/bowser-1643ca34a6d589b2d4d42163a891e4512d5d7657125e09bb5f3d44288114e6bd.js,https://dka575ofm4ao0.cloudfront.net/assets/status_common-c1b99d73ee7ab0fea796bd170723c1daac1381095a7dd7501a38ce6f333d86b3.js,https://dka575ofm4ao0.cloudfront.net/packs/common-c3ca024b93f2e64d6f01.chunk.js,https://dka575ofm4ao0.cloudfront.net/packs/globals-3e964b59fb236dbfabd1.chunk.js]
+[missing-sri] [http] [info] https://www.37status.com/index.html [https://dka575ofm4ao0.cloudfront.net/assets/vendor/bowser-1643ca34a6d589b2d4d42163a891e4512d5d7657125e09bb5f3d44288114e6bd.js,https://dka575ofm4ao0.cloudfront.net/assets/status_manifest-64fb5687d71f873d27a1c3416b1bca684775b3e6b440b314056936b10bf9555d.js,https://dka575ofm4ao0.cloudfront.net/assets/status_common-c1b99d73ee7ab0fea796bd170723c1daac1381095a7dd7501a38ce6f333d86b3.js,https://www.recaptcha.net/recaptcha/enterprise.js?onload=onloadCallback&render=explicit,https://dka575ofm4ao0.cloudfront.net/packs/common-c3ca024b93f2e64d6f01.chunk.js,https://dka575ofm4ao0.cloudfront.net/packs/globals-3e964b59fb236dbfabd1.chunk.js,https://dka575ofm4ao0.cloudfront.net/packs/runtime-845beefc293f0b2f3a9a.js,https://dka575ofm4ao0.cloudfront.net/assets/jquery-3.5.1.min-729e416557a365062a8a20f0562f18aa171da57298005d392312670c706c68de.js,https://polyfill.io/v3/polyfill.min.js?features=default,https://dka575ofm4ao0.cloudfront.net/assets/register_subscription_form-589b657fec607087fc5c740c568270907310bc4f6aaa20256e70f01b103025ca.js]
+[mx-fingerprint] [dns] [info] basecamp.com [10 mx.basecamp.com.]
+[mx-fingerprint] [dns] [info] basecamp.com [10 mx.basecamp.com.]
+[mx-fingerprint] [dns] [info] basecamp.com [10 mx.basecamp.com.]
+[mx-fingerprint] [dns] [info] basecamp.com [10 mx.basecamp.com.]
+[mx-fingerprint] [dns] [info] marketing-staging.basecamp.com [10 mx.bcx-staging.com.]
+[mx-fingerprint] [dns] [info] marketing-staging.basecamp.com [10 mx.bcx-staging.com.]
+[mx-fingerprint] [dns] [info] marketing-staging.basecamp.com [10 mx.bcx-staging.com.]
+[mx-fingerprint] [dns] [info] marketing-staging.basecamp.com [10 mx.bcx-staging.com.]
+[mx-fingerprint] [dns] [info] rw-ash.basecamp.com [10 app-mx-rw-ash.37signals.com.]
+[mx-fingerprint] [dns] [info] rw-ash.basecamp.com [10 app-mx-rw-ash.37signals.com.]
+[mx-fingerprint] [dns] [info] sc-chi.basecamp.com [10 app-mx-sc-chi.37signals.com.]
+[mx-fingerprint] [dns] [info] sc-chi.basecamp.com [10 app-mx-sc-chi.37signals.com.]
+[nameserver-fingerprint] [dns] [info] basecamp.com [dns1.p01.nsone.net.,dns2.p01.nsone.net.,dns3.p01.nsone.net.,dns4.p01.nsone.net.,ns-124.awsdns-15.com.,ns-1369.awsdns-43.org.,ns-1809.awsdns-34.co.uk.,ns-901.awsdns-48.net.]
+[nameserver-fingerprint] [dns] [info] basecamp.com [dns1.p01.nsone.net.,dns2.p01.nsone.net.,dns3.p01.nsone.net.,dns4.p01.nsone.net.,ns-124.awsdns-15.com.,ns-1369.awsdns-43.org.,ns-1809.awsdns-34.co.uk.,ns-901.awsdns-48.net.]
+[nameserver-fingerprint] [dns] [info] basecamp.com [dns4.p01.nsone.net.,ns-124.awsdns-15.com.,ns-1369.awsdns-43.org.,ns-1809.awsdns-34.co.uk.,ns-901.awsdns-48.net.,dns1.p01.nsone.net.,dns2.p01.nsone.net.,dns3.p01.nsone.net.]
+[nameserver-fingerprint] [dns] [info] basecamp.com [ns-901.awsdns-48.net.,dns1.p01.nsone.net.,dns2.p01.nsone.net.,dns3.p01.nsone.net.,dns4.p01.nsone.net.,ns-124.awsdns-15.com.,ns-1369.awsdns-43.org.,ns-1809.awsdns-34.co.uk.]
+[nameserver-fingerprint] [dns] [info] beta1.basecamp.com [merlin.ns.cloudflare.com.,serena.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] beta1.basecamp.com [merlin.ns.cloudflare.com.,serena.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] beta1.basecamp.com [merlin.ns.cloudflare.com.,serena.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] beta1.basecamp.com [merlin.ns.cloudflare.com.,serena.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] help.basecamp.com [merlin.ns.cloudflare.com.,serena.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] help.basecamp.com [merlin.ns.cloudflare.com.,serena.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] help.basecamp.com [merlin.ns.cloudflare.com.,serena.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] help.basecamp.com [merlin.ns.cloudflare.com.,serena.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] marketing-staging.basecamp.com [merlin.ns.cloudflare.com.,serena.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] marketing-staging.basecamp.com [merlin.ns.cloudflare.com.,serena.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] marketing-staging.basecamp.com [merlin.ns.cloudflare.com.,serena.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] marketing-staging.basecamp.com [serena.ns.cloudflare.com.,merlin.ns.cloudflare.com.]
+[nameserver-fingerprint] [dns] [info] status.basecamp.com [ns-1270.awsdns-30.org.,ns-1814.awsdns-34.co.uk.,ns-283.awsdns-35.com.,ns-814.awsdns-37.net.]
+[nameserver-fingerprint] [dns] [info] status.basecamp.com [ns-814.awsdns-37.net.,ns-1270.awsdns-30.org.,ns-1814.awsdns-34.co.uk.,ns-283.awsdns-35.com.]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [2024-07-29T04:00:00Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [2024-07-29T04:00:00Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [2024-07-29T04:00:00Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [2024-07-29T04:00:00Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [2023-04-30T11:00:03Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [2023-04-30T11:00:03Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [2023-04-30T11:00:03Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [2023-04-30T11:00:03Z]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [DNS3.P01.NSONE.NET,DNS4.P01.NSONE.NET,NS-124.AWSDNS-15.COM,NS-1369.AWSDNS-43.ORG,NS-1809.AWSDNS-34.CO.UK,NS-901.AWSDNS-48.NET,DNS1.P01.NSONE.NET,DNS2.P01.NSONE.NET]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [DNS3.P01.NSONE.NET,DNS4.P01.NSONE.NET,NS-124.AWSDNS-15.COM,NS-1369.AWSDNS-43.ORG,NS-1809.AWSDNS-34.CO.UK,NS-901.AWSDNS-48.NET,DNS1.P01.NSONE.NET,DNS2.P01.NSONE.NET]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [NS-1369.AWSDNS-43.ORG,NS-1809.AWSDNS-34.CO.UK,NS-901.AWSDNS-48.NET,DNS1.P01.NSONE.NET,DNS2.P01.NSONE.NET,DNS3.P01.NSONE.NET,DNS4.P01.NSONE.NET,NS-124.AWSDNS-15.COM]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [NS-901.AWSDNS-48.NET,DNS1.P01.NSONE.NET,DNS2.P01.NSONE.NET,DNS3.P01.NSONE.NET,DNS4.P01.NSONE.NET,NS-124.AWSDNS-15.COM,NS-1369.AWSDNS-43.ORG,NS-1809.AWSDNS-34.CO.UK]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [1994-07-30T04:00:00Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [1994-07-30T04:00:00Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [1994-07-30T04:00:00Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [1994-07-30T04:00:00Z]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [false]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [false]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [false]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [false]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [client delete prohibited,client transfer prohibited,client update prohibited,server delete prohibited,server transfer prohibited,server update prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [client transfer prohibited,client update prohibited,server delete prohibited,server transfer prohibited,server update prohibited,client delete prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [server delete prohibited,server transfer prohibited,server update prohibited,client delete prohibited,client transfer prohibited,client update prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/basecamp.com [server update prohibited,client delete prohibited,client transfer prohibited,client update prohibited,server delete prohibited,server transfer prohibited]
+[robots-txt-endpoint] [http] [info] https://updates.basecamp.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://www.updates.basecamp.com/robots.txt
+[robots-txt] [http] [info] https://updates.basecamp.com/robots.txt
+[robots-txt] [http] [info] https://updates.basecamp.com/robots.txt
+[robots-txt] [http] [info] https://www.updates.basecamp.com/robots.txt
+[robots-txt] [http] [info] https://www.updates.basecamp.com/robots.txt
+[s3-detect] [http] [info] https://status.basecamp.com/%c0
+[security-txt] [http] [info] https://statuspage.basecamp.com/.well-known/security.txt [ https://www.atlassian.com/trust/security/report-a-vulnerability, mailto:security@atlassian.com]
+[security-txt] [http] [info] https://statuspage.basecamp.com/.well-known/security.txt [ mailto:security@atlassian.com, https://www.atlassian.com/trust/security/report-a-vulnerability]
+[security-txt] [http] [info] https://www.37status.com/.well-known/security.txt [ https://www.atlassian.com/trust/security/report-a-vulnerability, mailto:security@atlassian.com]
+[security-txt] [http] [info] https://www.37status.com/.well-known/security.txt [ https://www.atlassian.com/trust/security/report-a-vulnerability, mailto:security@atlassian.com]
+[ssl-dns-names] [ssl] [info] asset1.basecamp.com:443 [asset1.basecamp.com]
+[ssl-dns-names] [ssl] [info] asset1.basecamp.com:443 [asset1.basecamp.com]
+[ssl-dns-names] [ssl] [info] asset1.basecamp.com:8443 [asset1.basecamp.com]
+[ssl-dns-names] [ssl] [info] basecamp.com:443 [*.basecamp.com,basecamp.com]
+[ssl-dns-names] [ssl] [info] basecamp.com:443 [*.basecamp.com,basecamp.com]
+[ssl-dns-names] [ssl] [info] basecamp.com:8443 [*.basecamp.com,basecamp.com]
+[ssl-dns-names] [ssl] [info] beta1.basecamp.com:443 [beta1.basecamp.com,*.beta1.basecamp.com]
+[ssl-dns-names] [ssl] [info] beta1.basecamp.com:443 [beta1.basecamp.com,*.beta1.basecamp.com]
+[ssl-dns-names] [ssl] [info] beta1.basecamp.com:8443 [beta1.basecamp.com,*.beta1.basecamp.com]
+[ssl-dns-names] [ssl] [info] brasil.basecamp.com:443 [brasil.basecamp.com]
+[ssl-dns-names] [ssl] [info] brasil.basecamp.com:443 [brasil.basecamp.com]
+[ssl-dns-names] [ssl] [info] chat.3.basecamp.com:443 [chat.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] chat.3.basecamp.com:443 [chat.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] chat.3.basecamp.com:8443 [chat.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] clients.3.basecamp.com:443 [clients.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] clients.3.basecamp.com:443 [clients.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] clients.3.basecamp.com:8443 [clients.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] help.basecamp.com:443 [help.basecamp.com]
+[ssl-dns-names] [ssl] [info] help.basecamp.com:443 [help.basecamp.com]
+[ssl-dns-names] [ssl] [info] help.basecamp.com:8443 [help.basecamp.com]
+[ssl-dns-names] [ssl] [info] marketing-staging.basecamp.com:443 [marketing-staging.basecamp.com]
+[ssl-dns-names] [ssl] [info] marketing-staging.basecamp.com:443 [marketing-staging.basecamp.com]
+[ssl-dns-names] [ssl] [info] marketing-staging.basecamp.com:8443 [marketing-staging.basecamp.com]
+[ssl-dns-names] [ssl] [info] preview.3.basecamp.com:443 [preview.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] preview.3.basecamp.com:443 [preview.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] preview.3.basecamp.com:8443 [preview.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] progress.basecamp.com:443 [progress.basecamp.com]
+[ssl-dns-names] [ssl] [info] progress.basecamp.com:443 [progress.basecamp.com]
+[ssl-dns-names] [ssl] [info] progress.basecamp.com:8443 [progress.basecamp.com]
+[ssl-dns-names] [ssl] [info] public.3.basecamp.com:443 [public.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] public.3.basecamp.com:443 [public.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] public.3.basecamp.com:8443 [public.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] public.basecamp.com:443 [public.basecamp.com]
+[ssl-dns-names] [ssl] [info] public.basecamp.com:443 [public.basecamp.com]
+[ssl-dns-names] [ssl] [info] public.basecamp.com:8443 [public.basecamp.com]
+[ssl-dns-names] [ssl] [info] search.basecamp.com:443 [search.basecamp.com]
+[ssl-dns-names] [ssl] [info] search.basecamp.com:443 [search.basecamp.com]
+[ssl-dns-names] [ssl] [info] search.basecamp.com:8443 [search.basecamp.com]
+[ssl-dns-names] [ssl] [info] status.basecamp.com:443 [37status.com,status.37signals.com,basecampstatus.com,status.basecamp.com]
+[ssl-dns-names] [ssl] [info] status.basecamp.com:443 [37status.com,status.37signals.com,basecampstatus.com,status.basecamp.com]
+[ssl-dns-names] [ssl] [info] statuspage.basecamp.com:443 [status.bitstarz.com,status.cambly.com,status.digitalpharmacist.com,status.insurity.com,status.workos.com,status.payfactors.com,status.teamdynamix.com,status.tevera.com,status.mynewsdesk.com,status.mywallst.com,status.rdc.com,status.awesomedrives.com,status.bigpanda.io,status.cerego.com,status.clockwisemd.com,status.geniussis.com,status.restaurant365.com,status.trustmi.ai,systems.linktr.ee,dnstest.dreadlezz.com,status.evenito.com,status.iugu.com,status.nearpod.com,statuspage.basecamp.com,status.empatica.com,status.geodynamics.be,status.prospect365.com,phone-status.docplanner.com,status.fulfil.io,status.quip.com,status.umbrella-digital.io,platformstatus.hudl.com,status.es.cimpress.io,status.keli.io,status.orionlabs.io,status.semtex.net,status.beaconsoftco.com,status.showbie.com,status.trifacta.com]
+[ssl-dns-names] [ssl] [info] statuspage.basecamp.com:443 [status.tevera.com,status.umbrella-digital.io,status.awesomedrives.com,status.clockwisemd.com,status.empatica.com,status.quip.com,status.teamdynamix.com,status.semtex.net,status.workos.com,dnstest.dreadlezz.com,platformstatus.hudl.com,status.iugu.com,status.nearpod.com,status.rdc.com,phone-status.docplanner.com,status.beaconsoftco.com,status.es.cimpress.io,status.orionlabs.io,status.payfactors.com,status.digitalpharmacist.com,status.fulfil.io,status.trifacta.com,status.trustmi.ai,statuspage.basecamp.com,status.bigpanda.io,status.cerego.com,status.evenito.com,status.mynewsdesk.com,status.restaurant365.com,systems.linktr.ee,status.bitstarz.com,status.cambly.com,status.insurity.com,status.keli.io,status.mywallst.com,status.geniussis.com,status.geodynamics.be,status.prospect365.com,status.showbie.com]
+[ssl-dns-names] [ssl] [info] storage.3.basecamp.com:443 [storage.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] storage.3.basecamp.com:443 [storage.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] storage.3.basecamp.com:8443 [storage.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] updates.basecamp.com:443 [updates.basecamp.com]
+[ssl-dns-names] [ssl] [info] updates.basecamp.com:443 [updates.basecamp.com]
+[ssl-dns-names] [ssl] [info] upload.3.basecamp.com:443 [upload.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] upload.3.basecamp.com:443 [upload.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] upload.3.basecamp.com:8443 [upload.3.basecamp.com]
+[ssl-dns-names] [ssl] [info] upload.basecamp.com:443 [upload.basecamp.com]
+[ssl-dns-names] [ssl] [info] upload.basecamp.com:443 [upload.basecamp.com]
+[ssl-dns-names] [ssl] [info] upload.basecamp.com:8443 [upload.basecamp.com]
+[ssl-dns-names] [ssl] [info] www.basecamp.com:443 [www.basecamp.com]
+[ssl-dns-names] [ssl] [info] www.basecamp.com:443 [www.basecamp.com]
+[ssl-dns-names] [ssl] [info] www.basecamp.com:8443 [www.basecamp.com]
+[ssl-dns-names] [ssl] [info] www.updates.basecamp.com:443 [www.updates.basecamp.com]
+[ssl-dns-names] [ssl] [info] www.updates.basecamp.com:443 [www.updates.basecamp.com]
+[ssl-issuer] [ssl] [info] asset1.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] asset1.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] asset1.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] basecamp.com:443 [DigiCert Inc]
+[ssl-issuer] [ssl] [info] basecamp.com:443 [DigiCert Inc]
+[ssl-issuer] [ssl] [info] basecamp.com:8443 [DigiCert Inc]
+[ssl-issuer] [ssl] [info] beta1.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] beta1.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] beta1.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] brasil.basecamp.com:443 [Let's Encrypt]
+[ssl-issuer] [ssl] [info] brasil.basecamp.com:443 [Let's Encrypt]
+[ssl-issuer] [ssl] [info] chat.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] chat.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] chat.3.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] clients.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] clients.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] clients.3.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] help.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] help.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] help.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] marketing-staging.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] marketing-staging.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] marketing-staging.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] preview.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] preview.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] preview.3.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] progress.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] progress.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] progress.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] public.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] public.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] public.3.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] public.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] public.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] public.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] search.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] search.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] search.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] status.basecamp.com:443 [Amazon]
+[ssl-issuer] [ssl] [info] status.basecamp.com:443 [Amazon]
+[ssl-issuer] [ssl] [info] statuspage.basecamp.com:443 [Let's Encrypt]
+[ssl-issuer] [ssl] [info] statuspage.basecamp.com:443 [Let's Encrypt]
+[ssl-issuer] [ssl] [info] storage.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] storage.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] storage.3.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] updates.basecamp.com:443 [Let's Encrypt]
+[ssl-issuer] [ssl] [info] updates.basecamp.com:443 [Let's Encrypt]
+[ssl-issuer] [ssl] [info] upload.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] upload.3.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] upload.3.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] upload.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] upload.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] upload.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] www.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] www.basecamp.com:443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] www.basecamp.com:8443 [Google Trust Services LLC]
+[ssl-issuer] [ssl] [info] www.updates.basecamp.com:443 [Let's Encrypt]
+[ssl-issuer] [ssl] [info] www.updates.basecamp.com:443 [Let's Encrypt]
+[tech-detect:cloudflare] [http] [info] http://asset1.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://asset1.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://asset1.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://basecamp.com
+[tech-detect:cloudflare] [http] [info] http://basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://beta1.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://beta1.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://beta1.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://chat.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://chat.3.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://chat.3.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://clients.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://clients.3.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://clients.3.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://help.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://help.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://marketing-staging.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://marketing-staging.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://marketing-staging.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://preview.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://preview.3.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://preview.3.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://progress.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://progress.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://progress.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://public.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://public.3.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://public.3.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://public.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://public.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://public.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://search.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://search.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://search.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://storage.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://storage.3.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://storage.3.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://upload.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://upload.3.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://upload.3.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://upload.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://upload.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://upload.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] http://www.basecamp.com
+[tech-detect:cloudflare] [http] [info] http://www.basecamp.com:8080
+[tech-detect:cloudflare] [http] [info] http://www.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] https://asset1.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://basecamp.com
+[tech-detect:cloudflare] [http] [info] https://beta1.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://chat.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://clients.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://help.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://help.basecamp.com:8443
+[tech-detect:cloudflare] [http] [info] https://marketing-staging.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://preview.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://progress.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://public.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://public.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://search.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://storage.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://upload.3.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://upload.basecamp.com
+[tech-detect:cloudflare] [http] [info] https://www.basecamp.com
+[tech-detect:webflow] [http] [info] https://brasil.basecamp.com
+[tech-detect:webflow] [http] [info] https://brasil.basecamp.com/
+[tls-version] [ssl] [info] asset1.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] asset1.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] asset1.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] asset1.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] asset1.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] asset1.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] beta1.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] beta1.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] beta1.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] beta1.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] beta1.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] beta1.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] brasil.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] brasil.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] brasil.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] brasil.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] chat.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] chat.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] chat.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] chat.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] chat.3.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] chat.3.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] clients.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] clients.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] clients.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] clients.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] clients.3.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] clients.3.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] help.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] help.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] help.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] help.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] help.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] help.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] marketing-staging.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] marketing-staging.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] marketing-staging.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] marketing-staging.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] marketing-staging.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] marketing-staging.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] preview.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] preview.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] preview.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] preview.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] preview.3.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] preview.3.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] progress.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] progress.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] progress.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] progress.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] progress.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] progress.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] public.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] public.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] public.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] public.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] public.3.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] public.3.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] public.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] public.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] public.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] public.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] public.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] public.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] search.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] search.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] search.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] search.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] search.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] search.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] status.basecamp.com:443 [tls11]
+[tls-version] [ssl] [info] status.basecamp.com:443 [tls11]
+[tls-version] [ssl] [info] status.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] status.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] status.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] status.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] statuspage.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] statuspage.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] statuspage.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] statuspage.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] storage.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] storage.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] storage.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] storage.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] storage.3.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] storage.3.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] updates.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] updates.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] updates.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] updates.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] upload.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] upload.3.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] upload.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] upload.3.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] upload.3.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] upload.3.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] upload.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] upload.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] upload.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] upload.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] upload.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] upload.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] www.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] www.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] www.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] www.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] www.basecamp.com:8443 [tls12]
+[tls-version] [ssl] [info] www.basecamp.com:8443 [tls13]
+[tls-version] [ssl] [info] www.updates.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] www.updates.basecamp.com:443 [tls12]
+[tls-version] [ssl] [info] www.updates.basecamp.com:443 [tls13]
+[tls-version] [ssl] [info] www.updates.basecamp.com:443 [tls13]
+[txt-fingerprint] [dns] [info] basecamp.com ["MS=3DB9BFF0E232F4C87086BE490FC2D6A8337B46C8","ZOOM_verify_m3iG61YFQ6WjpVxQFErO5w","atlassian-domain-verification=jDcnbDUp4Eqr8vcG6rwzJC/AiL4ryyQCoTDiAKjKnP7rzlvnA4akV4QxvGnUaMS8","google-site-verification=hpEwalR-8wi_nPf7uplZO5rjptEVj6gENHyy58ULIz4","google-site-verification=w-WUrrtkx2vDc--zrb0hxs4rDolhvqkW1Fj-muAr-YM","v=spf1 include:_spf.basecamp.com include:helpscoutemail.com include:servers.mcsv.net -all","1password-site-verification=KFPOHERRZBGW7L3YPQHGBWHYGA"]
+[txt-fingerprint] [dns] [info] basecamp.com ["atlassian-domain-verification=jDcnbDUp4Eqr8vcG6rwzJC/AiL4ryyQCoTDiAKjKnP7rzlvnA4akV4QxvGnUaMS8","google-site-verification=hpEwalR-8wi_nPf7uplZO5rjptEVj6gENHyy58ULIz4","google-site-verification=w-WUrrtkx2vDc--zrb0hxs4rDolhvqkW1Fj-muAr-YM","v=spf1 include:_spf.basecamp.com include:helpscoutemail.com include:servers.mcsv.net -all","1password-site-verification=KFPOHERRZBGW7L3YPQHGBWHYGA","MS=3DB9BFF0E232F4C87086BE490FC2D6A8337B46C8","ZOOM_verify_m3iG61YFQ6WjpVxQFErO5w"]
+[txt-fingerprint] [dns] [info] basecamp.com ["google-site-verification=w-WUrrtkx2vDc--zrb0hxs4rDolhvqkW1Fj-muAr-YM","v=spf1 include:_spf.basecamp.com include:helpscoutemail.com include:servers.mcsv.net -all","1password-site-verification=KFPOHERRZBGW7L3YPQHGBWHYGA","MS=3DB9BFF0E232F4C87086BE490FC2D6A8337B46C8","ZOOM_verify_m3iG61YFQ6WjpVxQFErO5w","atlassian-domain-verification=jDcnbDUp4Eqr8vcG6rwzJC/AiL4ryyQCoTDiAKjKnP7rzlvnA4akV4QxvGnUaMS8","google-site-verification=hpEwalR-8wi_nPf7uplZO5rjptEVj6gENHyy58ULIz4"]
+[txt-fingerprint] [dns] [info] basecamp.com ["google-site-verification=w-WUrrtkx2vDc--zrb0hxs4rDolhvqkW1Fj-muAr-YM","v=spf1 include:_spf.basecamp.com include:helpscoutemail.com include:servers.mcsv.net -all","1password-site-verification=KFPOHERRZBGW7L3YPQHGBWHYGA","MS=3DB9BFF0E232F4C87086BE490FC2D6A8337B46C8","ZOOM_verify_m3iG61YFQ6WjpVxQFErO5w","atlassian-domain-verification=jDcnbDUp4Eqr8vcG6rwzJC/AiL4ryyQCoTDiAKjKnP7rzlvnA4akV4QxvGnUaMS8","google-site-verification=hpEwalR-8wi_nPf7uplZO5rjptEVj6gENHyy58ULIz4"]
+[txt-fingerprint] [dns] [info] marketing-staging.basecamp.com ["7frgrn8gnm297809bzhwnkzn4rhhm3pz","8k83n2wj4y16yn4clz0qb2hktmbzsbqn","c0cx837wx2k21pdl391rv1dbl1vgfyp8","v=spf1 include:_spf.basecamp.com -all"]
+[txt-fingerprint] [dns] [info] marketing-staging.basecamp.com ["7frgrn8gnm297809bzhwnkzn4rhhm3pz","8k83n2wj4y16yn4clz0qb2hktmbzsbqn","c0cx837wx2k21pdl391rv1dbl1vgfyp8","v=spf1 include:_spf.basecamp.com -all"]
+[txt-fingerprint] [dns] [info] marketing-staging.basecamp.com ["7frgrn8gnm297809bzhwnkzn4rhhm3pz","8k83n2wj4y16yn4clz0qb2hktmbzsbqn","c0cx837wx2k21pdl391rv1dbl1vgfyp8","v=spf1 include:_spf.basecamp.com -all"]
+[txt-fingerprint] [dns] [info] marketing-staging.basecamp.com ["c0cx837wx2k21pdl391rv1dbl1vgfyp8","v=spf1 include:_spf.basecamp.com -all","7frgrn8gnm297809bzhwnkzn4rhhm3pz","8k83n2wj4y16yn4clz0qb2hktmbzsbqn"]
+[txt-fingerprint] [dns] [info] rw-ash.basecamp.com ["v=spf1 include:_spf.basecamp.com -all"]
+[txt-fingerprint] [dns] [info] rw-ash.basecamp.com ["v=spf1 include:_spf.basecamp.com -all"]
+[txt-fingerprint] [dns] [info] sc-chi.basecamp.com ["v=spf1 include:_spf.basecamp.com -all"]
+[txt-fingerprint] [dns] [info] sc-chi.basecamp.com ["v=spf1 include:_spf.basecamp.com -all"]
+[waf-detect:apachegeneric] [http] [info] http://updates.basecamp.com/
+[waf-detect:apachegeneric] [http] [info] http://www.updates.basecamp.com/
+[waf-detect:apachegeneric] [http] [info] https://updates.basecamp.com/
+[waf-detect:apachegeneric] [http] [info] https://www.updates.basecamp.com/
+[waf-detect:ats] [http] [info] http://updates.basecamp.com/
+[waf-detect:ats] [http] [info] http://www.updates.basecamp.com/
+[waf-detect:ats] [http] [info] https://updates.basecamp.com/
+[waf-detect:ats] [http] [info] https://www.updates.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://asset1.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://asset1.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://asset1.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://beta1.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://beta1.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://beta1.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://chat.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://chat.3.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://chat.3.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://clients.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://clients.3.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://clients.3.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://help.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://help.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://marketing-staging.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://marketing-staging.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://marketing-staging.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://preview.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://preview.3.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://preview.3.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://progress.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://progress.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://progress.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://public.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://public.3.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://public.3.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://public.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://public.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://public.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://search.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://search.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://search.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://storage.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://storage.3.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://storage.3.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://upload.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://upload.3.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://upload.3.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://upload.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://upload.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://upload.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] http://www.basecamp.com/
+[waf-detect:cloudflare] [http] [info] http://www.basecamp.com:8080/
+[waf-detect:cloudflare] [http] [info] http://www.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] https://asset1.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://beta1.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://chat.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://clients.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://help.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://help.basecamp.com:8443/
+[waf-detect:cloudflare] [http] [info] https://marketing-staging.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://preview.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://progress.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://public.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://public.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://search.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://storage.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://upload.3.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://upload.basecamp.com/
+[waf-detect:cloudflare] [http] [info] https://www.basecamp.com/
+[waf-detect:cloudfront] [http] [info] http://status.basecamp.com/
+[waf-detect:cloudfront] [http] [info] http://statuspage.basecamp.com/
+[waf-detect:cloudfront] [http] [info] https://status.basecamp.com/
+[waf-detect:cloudfront] [http] [info] https://statuspage.basecamp.com/
+[waf-detect:modsecurity] [http] [info] http://updates.basecamp.com/
+[waf-detect:modsecurity] [http] [info] http://www.updates.basecamp.com/
+[waf-detect:modsecurity] [http] [info] https://updates.basecamp.com/
+[waf-detect:modsecurity] [http] [info] https://www.updates.basecamp.com/
+[waf-detect:modsecurityowasp] [http] [info] https://brasil.basecamp.com/
+[waf-detect:teros] [http] [info] http://updates.basecamp.com/
+[waf-detect:teros] [http] [info] http://www.updates.basecamp.com/
+[waf-detect:teros] [http] [info] https://updates.basecamp.com/
+[waf-detect:teros] [http] [info] https://www.updates.basecamp.com/
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.basecamp.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.basecamp.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[wildcard-tls] [ssl] [info] basecamp.com:443 [ SAN: [*.basecamp.com basecamp.com],CN: *.basecamp.com]
+[wildcard-tls] [ssl] [info] basecamp.com:443 [CN: *.basecamp.com, SAN: [*.basecamp.com basecamp.com]]
+[wildcard-tls] [ssl] [info] basecamp.com:8443 [CN: *.basecamp.com, SAN: [*.basecamp.com basecamp.com]]
+[wildcard-tls] [ssl] [info] beta1.basecamp.com:443 [CN: beta1.basecamp.com, SAN: [beta1.basecamp.com *.beta1.basecamp.com]]
+[wildcard-tls] [ssl] [info] beta1.basecamp.com:443 [CN: beta1.basecamp.com, SAN: [beta1.basecamp.com *.beta1.basecamp.com]]
+[wildcard-tls] [ssl] [info] beta1.basecamp.com:8443 [CN: beta1.basecamp.com, SAN: [beta1.basecamp.com *.beta1.basecamp.com]]
+[xss-deprecated-header] [http] [info] https://statuspage.basecamp.com [1; mode=block]

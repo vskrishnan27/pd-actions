@@ -1,7 +1,3 @@
-3.basecamp.com:443
-3.basecamp.com:80
-3.basecamp.com:8080
-3.basecamp.com:8443
 asset1.basecamp.com:443
 asset1.basecamp.com:80
 asset1.basecamp.com:8080

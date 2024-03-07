@@ -50,6 +50,8 @@ assets.yuga.com
 assets.yuga.com
 assets.yuga.com
 assets.yuga.com
+assets.yuga.com
+legal.yuga.com
 legal.yuga.com
 legal.yuga.com
 legal.yuga.com
@@ -154,6 +156,8 @@ madeby.yuga.com
 madeby.yuga.com
 madeby.yuga.com
 madeby.yuga.com
+madeby.yuga.com
+news.yuga.com
 news.yuga.com
 news.yuga.com
 news.yuga.com
@@ -258,6 +262,8 @@ privacy.yuga.com
 privacy.yuga.com
 privacy.yuga.com
 privacy.yuga.com
+privacy.yuga.com
+support.yuga.com
 support.yuga.com
 support.yuga.com
 support.yuga.com
@@ -362,6 +368,8 @@ survey.yuga.com
 survey.yuga.com
 survey.yuga.com
 survey.yuga.com
+survey.yuga.com
+warning.yuga.com
 warning.yuga.com
 warning.yuga.com
 warning.yuga.com
@@ -466,6 +474,8 @@ www.yuga.com
 www.yuga.com
 www.yuga.com
 www.yuga.com
+www.yuga.com
+yuga.com
 yuga.com
 yuga.com
 yuga.com

@@ -10,6 +10,8 @@ blog.recordedfuture.com:443
 blog.recordedfuture.com:80
 blog.recordedfuture.com:8080
 blog.recordedfuture.com:8443
+cms.recordedfuture.com:443
+cms.recordedfuture.com:80
 community.recordedfuture.com:443
 community.recordedfuture.com:80
 community.recordedfuture.com:8080

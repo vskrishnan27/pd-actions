@@ -6,7 +6,6 @@ http://blog.zomato.com
 http://book.zomato.com
 http://business-blog.zomato.com
 http://business.zomato.com
-http://cc.zomato.com
 http://cc2.zomato.com
 http://ccc.zomato.com
 http://cert1.zomato.com
@@ -37,6 +36,7 @@ http://winecellar.zomato.com
 http://ws-callcenter.zomato.com
 http://www.techblog.zomato.com
 http://www.zomato.com
+http://zomato.com
 http://zpay.zomato.com
 http://zwstatic.zomato.com
 https://accounts.zomato.com
@@ -47,7 +47,6 @@ https://blog.zomato.com
 https://book.zomato.com
 https://business-blog.zomato.com
 https://business.zomato.com
-https://cc.zomato.com
 https://cc2.zomato.com
 https://ccc.zomato.com
 https://cert1.zomato.com
@@ -78,5 +77,6 @@ https://winecellar.zomato.com
 https://ws-callcenter.zomato.com
 https://www.techblog.zomato.com
 https://www.zomato.com
+https://zomato.com
 https://zpay.zomato.com
 https://zwstatic.zomato.com

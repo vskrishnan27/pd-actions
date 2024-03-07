@@ -14,8 +14,6 @@ business-blog.zomato.com:443
 business-blog.zomato.com:80
 business.zomato.com:443
 business.zomato.com:80
-cc.zomato.com:443
-cc.zomato.com:80
 cc2.zomato.com:443
 cc2.zomato.com:80
 ccc.zomato.com:443
@@ -78,6 +76,8 @@ www.techblog.zomato.com:443
 www.techblog.zomato.com:80
 www.zomato.com:443
 www.zomato.com:80
+zomato.com:443
+zomato.com:80
 zpay.zomato.com:443
 zpay.zomato.com:80
 zwstatic.zomato.com:443

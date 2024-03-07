@@ -5,20 +5,24 @@ http://answers.stripe.com
 http://api-83wzadmhqo.stripe.com
 http://api.stripe.com
 http://armada.stripe.com
+http://atlas.stripe.com
 http://auth.stripe.com
 http://barclays-hooks.stripe.com
+http://billing.stripe.com
 http://blik-hooks.stripe.com
 http://blog.stripe.com
 http://bom.corp.stripe.com:443
 http://book.stripe.com
 http://button.stripe.com
 http://buy-tree.stripe.com
+http://buy-tree.stripe.com:443
 http://buy.stripe.com
 http://calendar.stripe.com
 http://cdg.corp.stripe.com:443
 http://cgk.corp.stripe.com:443
 http://checkout-cookies.stripe.com
 http://checkout.stripe.com
+http://climate.stripe.com
 http://cmh.corp.stripe.com:443
 http://code.stripe.com
 http://community.stripe.com
@@ -50,7 +54,6 @@ http://edge-dashboard.stripe.com
 http://edge-donate.stripe.com
 http://edge-invoice.stripe.com
 http://edge-js-tree.stripe.com
-http://edge-js-tree.stripe.com:443
 http://edge-js.stripe.com
 http://edge-manage.stripe.com
 http://edge-pay.stripe.com
@@ -127,7 +130,6 @@ http://prod-frontend-flow.stripe.com
 http://prod-js-tree.stripe.com
 http://prod-webhooks-flow.stripe.com
 http://products.stripe.com
-http://public.stripe.com
 http://q.stripe.com
 http://qa-api-global-bluegreen.stripe.com
 http://qa-api.stripe.com
@@ -143,10 +145,8 @@ http://qa-east.corp.stripe.com:443
 http://qa-northwest.corp.stripe.com:443
 http://qa-pdx.corp.stripe.com:443
 http://qa-status.stripe.com
-http://qa-support-conversations.stripe.com
 http://qa.corp.stripe.com:443
 http://qr.stripe.com
-http://r.stripe.com
 http://sales-live-chat.stripe.com
 http://sessions.stripe.com
 http://shop.stripe.com
@@ -159,6 +159,7 @@ http://stripe-cli.stripe.com
 http://stripecli-ws-nw.stripe.com
 http://support-conversations.stripe.com
 http://support.stripe.com
+http://t.stripe.com
 http://terminal-simulator.stripe.com
 http://terminal.stripe.com
 http://uploads.stripe.com
@@ -184,7 +185,6 @@ https://blik-hooks.stripe.com
 https://blog.stripe.com
 https://book.stripe.com
 https://button.stripe.com
-https://buy-tree.stripe.com
 https://buy.stripe.com
 https://calendar.stripe.com
 https://checkout-cookies.stripe.com
@@ -215,6 +215,7 @@ https://edge-dashboard-admin.stripe.com
 https://edge-dashboard.stripe.com
 https://edge-donate.stripe.com
 https://edge-invoice.stripe.com
+https://edge-js-tree.stripe.com
 https://edge-js.stripe.com
 https://edge-manage.stripe.com
 https://edge-pay.stripe.com
@@ -284,7 +285,6 @@ https://prod-frontend-flow.stripe.com
 https://prod-js-tree.stripe.com
 https://prod-webhooks-flow.stripe.com
 https://products.stripe.com
-https://public.stripe.com
 https://q.stripe.com
 https://qa-api-global-bluegreen.stripe.com
 https://qa-api.stripe.com
@@ -295,7 +295,6 @@ https://qa-ipaddr-3ds.stripe.com
 https://qa-status.stripe.com
 https://qa-support-conversations.stripe.com
 https://qr.stripe.com
-https://r.stripe.com
 https://sales-live-chat.stripe.com
 https://sessions.stripe.com
 https://shop.stripe.com
@@ -308,6 +307,7 @@ https://stripe-cli.stripe.com
 https://stripecli-ws-nw.stripe.com
 https://support-conversations.stripe.com
 https://support.stripe.com
+https://t.stripe.com
 https://terminal-simulator.stripe.com
 https://terminal.stripe.com
 https://uploads.stripe.com

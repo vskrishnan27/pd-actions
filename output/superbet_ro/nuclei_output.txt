@@ -1,7 +1,0 @@
-[credentials-disclosure] [http] [unknown] https://suport.superbet.ro/hc/ro [ApiKey = 'eu1-2a99cd1268bb184eb46862140bf4221d',api_key":"AIzaSyBQrz0gzJc0Ov-P5PXP8F4NWWQXVBNKkV0",ApiKey = false,ApiKey = 'eu1-d23da9a4d061e54cb1c910876c171545',ApiKey = 'eu1-2ef67c20e23fc14b8665bbf179c30f6a']
-[unauthenticated-varnish-cache-purge] [http] [low] http://legacy-web-stage.superbet.ro
-[unauthenticated-varnish-cache-purge] [http] [low] http://legacy-web.superbet.ro
-[unauthenticated-varnish-cache-purge] [http] [low] https://jocuri.superbet.ro
-[unauthenticated-varnish-cache-purge] [http] [low] https://legacy-web-stage.superbet.ro
-[unauthenticated-varnish-cache-purge] [http] [low] https://legacy-web.superbet.ro
-[unauthenticated-varnish-cache-purge] [http] [low] https://sport.superbet.ro

@@ -1,7 +1,6 @@
 http://api.dataengine.chain.link
 http://api.dataengine.chain.link:8080
 http://api.testnet-dataengine.chain.link
-http://api.testnet-dataengine.chain.link:8443
 http://apps.chain.link
 http://apps.chain.link:8443
 http://archive.docs.chain.link
@@ -105,6 +104,7 @@ http://zh.chain.link:8080
 https://api.dataengine.chain.link
 https://api.dataengine.chain.link:8443
 https://api.testnet-dataengine.chain.link
+https://api.testnet-dataengine.chain.link:8443
 https://apps.chain.link
 https://archive.docs.chain.link
 https://archive.docs.chain.link:8443

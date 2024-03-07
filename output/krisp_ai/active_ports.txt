@@ -82,10 +82,6 @@ new.account.krisp.ai:443
 new.account.krisp.ai:80
 new.account.krisp.ai:8080
 new.account.krisp.ai:8443
-old.account.krisp.ai:443
-old.account.krisp.ai:80
-old.account.krisp.ai:8080
-old.account.krisp.ai:8443
 plive.account.krisp.ai:443
 plive.account.krisp.ai:80
 plive.account.krisp.ai:8080

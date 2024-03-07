@@ -50,9 +50,6 @@ http://metabase.krisp.ai:8443
 http://new.account.krisp.ai
 http://new.account.krisp.ai:8080
 http://new.account.krisp.ai:8443
-http://old.account.krisp.ai
-http://old.account.krisp.ai:8080
-http://old.account.krisp.ai:8443
 http://plive.account.krisp.ai
 http://plive.account.krisp.ai:8080
 http://plive.analytics.krisp.ai
@@ -143,7 +140,6 @@ https://krisp-blog-dev.krisp.ai
 https://krisp-dev.krisp.ai
 https://metabase.krisp.ai
 https://new.account.krisp.ai
-https://old.account.krisp.ai
 https://plive.account.krisp.ai
 https://plive.account.krisp.ai:8443
 https://plive.analytics.krisp.ai

@@ -33,6 +33,7 @@ http://email.gh-mail.chime.com:8080
 http://email.gh-mail.chime.com:8443
 http://email.gh-mail.ext.chime.com
 http://email.gh-mail.ext.chime.com:8080
+http://email.gh-mail.ext.chime.com:8443
 http://email.mg.chime.com
 http://email.mg.chime.com:8080
 http://email.mg.chime.com:8443
@@ -44,6 +45,7 @@ http://enterpriseregistration.chime.com
 http://error-pages.chime.com
 http://flashpaper-dev1.chime.com
 http://flashpaper-dev1.chime.com:8080
+http://flashpaper-dev1.chime.com:8443
 http://flashpaper-qa.chime.com
 http://flashpaper-qa.chime.com:8080
 http://flashpaper-qa.chime.com:8443
@@ -106,6 +108,7 @@ http://penny-qa.chime.com:8080
 http://penny-qa.chime.com:8443
 http://penny.chime.com
 http://penny.chime.com:8080
+http://penny.chime.com:8443
 http://public-assets-dev1.chime.com
 http://public-assets-dev1.chime.com:8080
 http://public-assets-dev1.chime.com:8443
@@ -166,7 +169,6 @@ https://email.ethnio.chime.com
 https://email.ethnio.chime.com:80
 https://email.gh-mail.chime.com
 https://email.gh-mail.ext.chime.com
-https://email.gh-mail.ext.chime.com:8443
 https://email.mg.chime.com
 https://email.talent.chime.com
 https://email.talent.chime.com:80
@@ -175,7 +177,6 @@ https://enterpriseenrollment.chime.com
 https://enterpriseregistration.chime.com
 https://error-pages.chime.com
 https://flashpaper-dev1.chime.com
-https://flashpaper-dev1.chime.com:8443
 https://flashpaper-qa.chime.com
 https://flashpaper.chime.com
 https://handbooks.chime.com
@@ -200,7 +201,6 @@ https://nd.chime.com
 https://penny-dev1.chime.com
 https://penny-qa.chime.com
 https://penny.chime.com
-https://penny.chime.com:8443
 https://public-assets-dev1.chime.com
 https://public-assets-qa.chime.com
 https://public-assets.chime.com

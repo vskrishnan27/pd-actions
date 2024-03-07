@@ -41,10 +41,10 @@ http://d.email.hostinger.com:8443
 http://design.hostinger.com
 http://dogrula.hostinger.com
 http://domains.hostinger.com
+http://domains.hostinger.com:8080
 http://domains.hostinger.com:8443
 http://e.account.hostinger.com
 http://e.account.hostinger.com:8080
-http://e.account.hostinger.com:8443
 http://e.email.hostinger.com
 http://e.email.hostinger.com:8080
 http://e.email.hostinger.com:8443
@@ -63,6 +63,8 @@ http://mail.hostinger.com
 http://mail.hostinger.com:8443
 http://marketing.hostinger.com
 http://mobileconfig.mail.hostinger.com
+http://nl-files.hostinger.com
+http://nl-files.hostinger.com:443
 http://ovjeriti.hostinger.com
 http://patvirtinti.hostinger.com
 http://payments.hostinger.com
@@ -168,6 +170,7 @@ https://design.hostinger.com
 https://dogrula.hostinger.com
 https://domains.hostinger.com
 https://e.account.hostinger.com
+https://e.account.hostinger.com:8443
 https://e.email.hostinger.com
 https://epikurwsi.hostinger.com
 https://flockcalendar.hostinger.com

@@ -520,6 +520,8 @@ mx2.hostinger.com:990
 mx2.hostinger.com:993
 mx2.hostinger.com:995
 mx2.hostinger.com:9999
+nl-files.hostinger.com:443
+nl-files.hostinger.com:80
 ns2.hostinger.com:53
 ns4.hostinger.com:53
 ovjeriti.hostinger.com:443

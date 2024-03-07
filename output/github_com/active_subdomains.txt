@@ -265,7 +265,6 @@ rainmeter.github.com
 raw.github.com
 realwds.github.com
 redirect.github.com
-registry.github.com
 remeniuk.github.com
 remy.github.com
 render-lab.github.com
@@ -309,7 +308,7 @@ web3421.github.com
 web5622.github.com
 web6014.github.com
 workspaces-dev.github.com
-workspaces.github.com
+workspaces-ppe.github.com
 ws.support.github.com
 www.api.security.github.com
 www.api.stars.github.com
@@ -325,6 +324,7 @@ www.skyline.github.com
 www.smtp.github.com
 www.support.enterprise.github.com
 www.visualstudio.github.com
+www.ws.support.github.com
 xlcteam.github.com
 yanjingcheng.github.com
 ymt2.github.com

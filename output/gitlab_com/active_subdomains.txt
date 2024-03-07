@@ -383,4 +383,5 @@ triage-ops.gitlab.com
 university.gitlab.com
 version.gitlab.com
 www.about.gitlab.com
+www.gitlab.com
 www.shop.gitlab.com

@@ -1,4 +1,3 @@
-okx.com
 matomo.org
 fireblocks.com
 nintendo.com
@@ -80,3 +79,4 @@ miro.com
 zoho.in
 malwarebytes.com
 recargapay.com.br
+okx.com

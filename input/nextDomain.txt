@@ -1,4 +1,3 @@
-chain.link
 playcanvas.com
 zoho.eu
 bitstrips.com
@@ -80,3 +79,4 @@ nintendolife.com
 devkit-ecomm.noa.nintendo.com
 shopify.com
 iovlabs.org
+chain.link

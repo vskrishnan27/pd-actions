@@ -1,4 +1,3 @@
-moonactive.com
 eero.com
 ring.com
 yuga.com
@@ -80,3 +79,4 @@ sc-core.net
 sc-corp.net
 lululemon.com
 moonactive.net
+moonactive.com

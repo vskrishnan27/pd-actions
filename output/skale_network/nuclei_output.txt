@@ -1,2 +1,0 @@
-[credentials-disclosure] [http] [unknown] http://docs.skale.network [apiKey: 'de64c80d75860742098abd5f41878c57']
-[credentials-disclosure] [http] [unknown] https://docs.skale.network [apiKey: 'de64c80d75860742098abd5f41878c57']

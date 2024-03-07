@@ -120,8 +120,6 @@ lubo.miro.com:443
 lubo.miro.com:80
 meet.miro.com:443
 meet.miro.com:80
-miro.com:443
-miro.com:80
 miroherocommunity.miro.com:443
 miroherocommunity.miro.com:80
 miroherocommunity.miro.com:8080

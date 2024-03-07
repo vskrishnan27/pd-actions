@@ -60,7 +60,6 @@ http://links.m.miro.com
 http://links.m.miro.com:8443
 http://lubo.miro.com
 http://meet.miro.com
-http://miro.com
 http://miroherocommunity.miro.com
 http://miroherocommunity.miro.com:8080
 http://mobile.miro.com
@@ -162,7 +161,6 @@ https://learns.miro.com
 https://links.m.miro.com
 https://lubo.miro.com
 https://meet.miro.com
-https://miro.com
 https://miroherocommunity.miro.com
 https://miroherocommunity.miro.com:8443
 https://mobile.miro.com

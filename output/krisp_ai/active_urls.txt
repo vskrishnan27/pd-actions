@@ -1,9 +1,13 @@
+http://account.krisp.ai
+http://account.krisp.ai:8080
 http://analytics.krisp.ai
 http://analytics.krisp.ai:8080
 http://analytics.krisp.ai:8443
 http://api.krisp.ai
 http://api.krisp.ai:8080
 http://api.krisp.ai:8443
+http://app.krisp.ai
+http://app.krisp.ai:8080
 http://bid47kc.4042051m.krisp.ai
 http://cdn.krisp.ai
 http://cdn.krisp.ai:8080
@@ -108,9 +112,13 @@ http://whatsnew.krisp.ai
 http://www.krisp.ai
 http://www.krisp.ai:8080
 http://www.krisp.ai:8443
+https://account.krisp.ai
+https://account.krisp.ai:8443
 https://analytics.krisp.ai
 https://api.krisp.ai
 https://api.prelive.krisp.ai
+https://app.krisp.ai
+https://app.krisp.ai:8443
 https://cdn.krisp.ai
 https://cdn.krisp.ai:8443
 https://contact.krisp.ai

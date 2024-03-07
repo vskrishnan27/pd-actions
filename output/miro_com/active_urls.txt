@@ -22,10 +22,8 @@ http://cloud.e.miro.com
 http://community.miro.com
 http://communitygroups.miro.com
 http://communitygroups.miro.com:8080
-http://communitygroups.miro.com:8443
 http://consultantcommunity.miro.com
 http://consultantcommunity.miro.com:8080
-http://consultantcommunity.miro.com:8443
 http://dam.miro.com
 http://desktop.miro.com
 http://developers.miro.com
@@ -37,7 +35,6 @@ http://email.miro.com
 http://engineering.miro.com
 http://enterpriseadvocates.miro.com
 http://enterpriseadvocates.miro.com:8080
-http://enterpriseadvocates.miro.com:8443
 http://eu01.miro.com
 http://eventhub.eu01.miro.com
 http://eventhub.us01.miro.com
@@ -63,6 +60,9 @@ http://links.m.miro.com
 http://links.m.miro.com:8443
 http://lubo.miro.com
 http://meet.miro.com
+http://miro.com
+http://miroherocommunity.miro.com
+http://miroherocommunity.miro.com:8080
 http://mobile.miro.com
 http://mwww.miro.com
 http://notifications-overlay.svc.miro.com
@@ -100,6 +100,7 @@ http://us.miro.com
 http://us01.miro.com
 http://view.account.miro.com
 http://view.e.miro.com
+http://ww.miro.com
 http://www.events.miro.com
 http://www.jira-cards.miro.com
 http://www.miro.com
@@ -125,7 +126,9 @@ https://cloud.account.miro.com
 https://cloud.e.miro.com
 https://community.miro.com
 https://communitygroups.miro.com
+https://communitygroups.miro.com:8443
 https://consultantcommunity.miro.com
+https://consultantcommunity.miro.com:8443
 https://dam.miro.com
 https://desktop.miro.com
 https://developers.miro.com
@@ -136,6 +139,7 @@ https://email.info.miro.com
 https://email.miro.com
 https://engineering.miro.com
 https://enterpriseadvocates.miro.com
+https://enterpriseadvocates.miro.com:8443
 https://eu01.miro.com
 https://eventhub.eu01.miro.com
 https://eventhub.us01.miro.com
@@ -158,6 +162,9 @@ https://learns.miro.com
 https://links.m.miro.com
 https://lubo.miro.com
 https://meet.miro.com
+https://miro.com
+https://miroherocommunity.miro.com
+https://miroherocommunity.miro.com:8443
 https://mobile.miro.com
 https://mwww.miro.com
 https://notifications-overlay.svc.miro.com
@@ -195,6 +202,7 @@ https://us.miro.com
 https://us01.miro.com
 https://view.account.miro.com
 https://view.e.miro.com
+https://ww.miro.com
 https://www.events.miro.com
 https://www.jira-cards.miro.com
 https://www.miro.com

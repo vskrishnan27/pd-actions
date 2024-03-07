@@ -6,12 +6,12 @@ http://ablink.serviceinfo.crypto.com
 http://ablink.serviceinfo.crypto.com:8080
 http://advertising.crypto.com
 http://advertising.crypto.com:8080
+http://api.crypto.com
+http://api.crypto.com:8080
 http://app-api.nft.crypto.com
 http://app-api.nft.crypto.com:8080
 http://auth-x.crypto.com
 http://auth-x.crypto.com:8080
-http://auth.crypto.com
-http://auth.crypto.com:8080
 http://auth.tax.crypto.com
 http://auth.tax.crypto.com:8080
 http://black-cat.crypto.com
@@ -35,6 +35,8 @@ http://crypto-coin-info-api.crypto.com
 http://crypto-coin-info-api.crypto.com:8080
 http://crypto-nft-bridge-api.crypto.com
 http://crypto-nft-bridge-api.crypto.com:8080
+http://crypto.com
+http://crypto.com:8080
 http://deriv-api.crypto.com
 http://deriv-api.crypto.com:8080
 http://exchange-docs.crypto.com
@@ -69,6 +71,8 @@ http://missions.crypto.com
 http://missions.crypto.com:8080
 http://mpro-content-hub.crypto.com
 http://mpro-content-hub.crypto.com:8080
+http://nft.crypto.com
+http://nft.crypto.com:8080
 http://opening-night.crypto.com
 http://opening-night.crypto.com:8080
 http://p.crypto.com
@@ -81,6 +85,7 @@ http://pay-node.crypto.com
 http://pay-node.crypto.com:8080
 http://pay.crypto.com
 http://pay.crypto.com:8080
+http://pay.crypto.com:8443
 http://payid.crypto.com
 http://payid.crypto.com:8080
 http://paystring.crypto.com
@@ -112,6 +117,8 @@ http://static2.crypto.com:8080
 http://status.crypto.com
 http://stream.crypto.com
 http://stream.crypto.com:8080
+http://tax.crypto.com
+http://tax.crypto.com:8080
 http://tpp-tmp.crypto.com
 http://tpp-tmp.crypto.com:8080
 http://uat-content-hub.crypto.com
@@ -138,12 +145,12 @@ https://ablink.serviceinfo.crypto.com
 https://ablink.serviceinfo.crypto.com:8443
 https://advertising.crypto.com
 https://advertising.crypto.com:8443
+https://api.crypto.com
+https://api.crypto.com:8443
 https://app-api.nft.crypto.com
 https://app-api.nft.crypto.com:8443
 https://auth-x.crypto.com
 https://auth-x.crypto.com:8443
-https://auth.crypto.com
-https://auth.crypto.com:8443
 https://auth.tax.crypto.com
 https://auth.tax.crypto.com:8443
 https://black-cat.crypto.com
@@ -167,6 +174,8 @@ https://crypto-coin-info-api.crypto.com
 https://crypto-coin-info-api.crypto.com:8443
 https://crypto-nft-bridge-api.crypto.com
 https://crypto-nft-bridge-api.crypto.com:8443
+https://crypto.com
+https://crypto.com:8443
 https://deriv-api.crypto.com
 https://deriv-api.crypto.com:8443
 https://exchange-docs.crypto.com
@@ -201,6 +210,8 @@ https://missions.crypto.com
 https://missions.crypto.com:8443
 https://mpro-content-hub.crypto.com
 https://mpro-content-hub.crypto.com:8443
+https://nft.crypto.com
+https://nft.crypto.com:8443
 https://opening-night.crypto.com
 https://opening-night.crypto.com:8443
 https://p.crypto.com
@@ -212,7 +223,6 @@ https://pay-docs.crypto.com:8443
 https://pay-node.crypto.com
 https://pay-node.crypto.com:8443
 https://pay.crypto.com
-https://pay.crypto.com:8443
 https://payid.crypto.com
 https://payid.crypto.com:8443
 https://paystring.crypto.com
@@ -244,6 +254,8 @@ https://static2.crypto.com:8443
 https://status.crypto.com
 https://stream.crypto.com
 https://stream.crypto.com:8443
+https://tax.crypto.com
+https://tax.crypto.com:8443
 https://tpp-tmp.crypto.com
 https://tpp-tmp.crypto.com:8443
 https://uat-content-hub.crypto.com

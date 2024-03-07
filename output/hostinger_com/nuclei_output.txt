@@ -1,0 +1,2 @@
+[netrc] [http] [high] https://roadmap.hostinger.com/.netrc [machine learning]
+[netrc] [http] [high] https://roadmap.hostinger.com/_netrc [machine learning]

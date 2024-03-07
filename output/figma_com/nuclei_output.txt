@@ -1,2 +1,5 @@
-[CVE-2015-8813] [http] [high] https://cors-image-proxy.figma.com/Umbraco/feedproxy.aspx?url=http://cnfd6ih1p8eboao96s70hig1zkkbyujdj.oast.pro
-[CVE-2017-18638] [http] [high] https://cors-image-proxy.figma.com/composer/send_email?to=vySd@qVzY&url=http://cnfd6ih1p8eboao96s70zbzg43f8qcbs8.oast.pro
+[CVE-2015-8813] [http] [high] https://cors-image-proxy.figma.com/Umbraco/feedproxy.aspx?url=http://cnkain5ji32bprqkagogapg81hr9tzqgx.oast.site
+[CVE-2017-18638] [http] [high] https://cors-image-proxy.figma.com/composer/send_email?to=KHOH@LlgM&url=http://cnkain5ji32bprqkagogbjuhfs4w5he93.oast.site
+[credentials-disclosure] [http] [unknown] https://friends.figma.com [accessToken: '13e06d7235134bec85e7b7396ce709d6']
+[credentials-disclosure] [http] [unknown] https://friends.figma.com/ [accessToken: '13e06d7235134bec85e7b7396ce709d6']
+[unauthenticated-varnish-cache-purge] [http] [low] https://events.figma.com

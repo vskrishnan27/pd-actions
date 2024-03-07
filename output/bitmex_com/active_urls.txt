@@ -7,9 +7,10 @@ http://auth.devhk.bitmex.com
 http://auth.devhk.bitmex.com:8080
 http://bitmex.com
 http://blog.bitmex.com
-http://blog.bitmex.com:8443
 http://cn.research.bitmex.com
 http://devhk-static.bitmex.com
+http://devhk.bitmex.com
+http://devhk.bitmex.com:8080
 http://documents.bitmex.com
 http://documents.bitmex.com:8080
 http://documents.devhk.bitmex.com
@@ -19,7 +20,6 @@ http://documents.devsf3.bitmex.com:8080
 http://documents.testnet.bitmex.com
 http://documents.testnet.bitmex.com:8080
 http://eu.onfido.bitmex.com
-http://eu.onfido.bitmex.com:443
 http://eu.onfido.bitmex.com:8080
 http://eu.onfido.devhk.bitmex.com
 http://eu.onfido.devhk.bitmex.com:8080
@@ -89,8 +89,11 @@ https://auth.devhk.bitmex.com
 https://auth.devhk.bitmex.com:8443
 https://bitmex.com
 https://blog.bitmex.com
+https://blog.bitmex.com:8443
 https://cn.research.bitmex.com
 https://devhk-static.bitmex.com
+https://devhk.bitmex.com
+https://devhk.bitmex.com:8443
 https://documents.bitmex.com
 https://documents.bitmex.com:8443
 https://documents.devhk.bitmex.com
@@ -101,6 +104,7 @@ https://documents.testnet.bitmex.com
 https://documents.testnet.bitmex.com:8443
 https://email.mg.bitmex.com
 https://email.mg.bitmex.com:80
+https://eu.onfido.bitmex.com
 https://eu.onfido.bitmex.com:8443
 https://eu.onfido.devhk.bitmex.com
 https://eu.onfido.devhk.bitmex.com:8443

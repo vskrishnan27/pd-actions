@@ -20,6 +20,10 @@ cn.research.bitmex.com:443
 cn.research.bitmex.com:80
 devhk-static.bitmex.com:443
 devhk-static.bitmex.com:80
+devhk.bitmex.com:443
+devhk.bitmex.com:80
+devhk.bitmex.com:8080
+devhk.bitmex.com:8443
 documents.bitmex.com:443
 documents.bitmex.com:80
 documents.bitmex.com:8080

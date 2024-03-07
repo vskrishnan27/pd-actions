@@ -13,14 +13,10 @@ conference.chat.deribit.com
 conference.chattest.deribit.com
 deribit.com
 docs.deribit.com
-echop.deribit.com
 gateway.deribit.com
-his.deribit.com
 history.deribit.com
 insights.deribit.com
-legacy.deribit.com
 metrics.deribit.com
-new.deribit.com
 office.deribit.com
 pb.deribit.com
 positionbuilder.deribit.com
@@ -40,8 +36,5 @@ test.tools.deribit.com
 tools.deribit.com
 upload.chat.deribit.com
 upload.chattest.deribit.com
-veriscope.deribit.com
 vpn.deribit.com
-wordpress.deribit.com
 www.deribit.com
-zh4-test.deribit.com

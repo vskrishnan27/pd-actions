@@ -120,6 +120,12 @@ lubo.miro.com:443
 lubo.miro.com:80
 meet.miro.com:443
 meet.miro.com:80
+miro.com:443
+miro.com:80
+miroherocommunity.miro.com:443
+miroherocommunity.miro.com:80
+miroherocommunity.miro.com:8080
+miroherocommunity.miro.com:8443
 mobile.miro.com:443
 mobile.miro.com:80
 mwww.miro.com:443
@@ -194,6 +200,8 @@ view.account.miro.com:443
 view.account.miro.com:80
 view.e.miro.com:443
 view.e.miro.com:80
+ww.miro.com:443
+ww.miro.com:80
 www.events.miro.com:443
 www.events.miro.com:80
 www.jira-cards.miro.com:443

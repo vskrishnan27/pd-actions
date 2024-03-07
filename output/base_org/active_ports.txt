@@ -18,6 +18,10 @@ goerli.base.org:443
 goerli.base.org:80
 goerli.base.org:8080
 goerli.base.org:8443
+mainnet-full-snapshots.base.org:443
+mainnet-full-snapshots.base.org:80
+mainnet-full-snapshots.base.org:8080
+mainnet-full-snapshots.base.org:8443
 mainnet.base.org:443
 mainnet.base.org:80
 mainnet.base.org:8080

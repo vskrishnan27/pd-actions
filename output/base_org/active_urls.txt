@@ -10,6 +10,8 @@ http://docs.base.org:8080
 http://docs.base.org:8443
 http://goerli.base.org
 http://goerli.base.org:8080
+http://mainnet-full-snapshots.base.org
+http://mainnet-full-snapshots.base.org:8080
 http://mainnet.base.org
 http://mainnet.base.org:8080
 http://mint.base.org
@@ -35,6 +37,8 @@ https://developer-access-mainnet.base.org:8443
 https://docs.base.org
 https://goerli.base.org
 https://goerli.base.org:8443
+https://mainnet-full-snapshots.base.org
+https://mainnet-full-snapshots.base.org:8443
 https://mainnet.base.org
 https://mainnet.base.org:8443
 https://mint.base.org

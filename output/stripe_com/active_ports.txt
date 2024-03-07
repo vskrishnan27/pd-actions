@@ -31,6 +31,8 @@ bounce.e.stripe.com:25
 bounce.info.stripe.com:25
 button.stripe.com:443
 button.stripe.com:80
+buy-tree.stripe.com:443
+buy-tree.stripe.com:80
 buy.stripe.com:443
 buy.stripe.com:80
 calendar.stripe.com:443
@@ -189,10 +191,13 @@ issuing-key.stripe.com:80
 jira.corp.stripe.com:443
 js.stripe.com:443
 js.stripe.com:80
+jss-nw-public.stripe.com:443
+jss.corp.stripe.com:443
 jss.prod.corp.stripe.com:443
 jss.qa.corp.stripe.com:443
 lists.stripe.com:443
 lists.stripe.com:80
+local.corp.stripe.com:443
 lokalise-hooks.stripe.com:443
 lokalise-hooks.stripe.com:80
 m.stripe.com:443

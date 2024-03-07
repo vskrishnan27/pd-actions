@@ -1,6 +1,6 @@
 [credentials-disclosure] [http] [unknown] https://next-dev.magic.link [SEGMENT_API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI",API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI"]
-[credentials-disclosure] [http] [unknown] https://next-dev.magic.link/ [SEGMENT_API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI",API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI"]
-[credentials-disclosure] [http] [unknown] https://next-stage.magic.link [SEGMENT_API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI",API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI"]
+[credentials-disclosure] [http] [unknown] https://next-dev.magic.link/ [API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI",SEGMENT_API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI"]
+[credentials-disclosure] [http] [unknown] https://next-stage.magic.link [API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI",SEGMENT_API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI"]
 [credentials-disclosure] [http] [unknown] https://next-stage.magic.link/ [SEGMENT_API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI",API_KEY":"aDcoOAVYkvjfI2BGBqTaKNkhCnWwsLyI"]
 [credentials-disclosure] [http] [unknown] https://next.magic.link [SEGMENT_API_KEY":"2UCmaFfkV6Q2BtKCHle4z0UyGs7AYl1L",API_KEY":"2UCmaFfkV6Q2BtKCHle4z0UyGs7AYl1L"]
 [credentials-disclosure] [http] [unknown] https://next.magic.link/ [SEGMENT_API_KEY":"2UCmaFfkV6Q2BtKCHle4z0UyGs7AYl1L",API_KEY":"2UCmaFfkV6Q2BtKCHle4z0UyGs7AYl1L"]

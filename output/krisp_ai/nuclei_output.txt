@@ -1,0 +1,2 @@
+[wp-debug-log] [http] [low] https://krisp-blog-dev.krisp.ai/wp-content/debug.log [174998 bytes] [paths="wp-content"]
+[wp-debug-log] [http] [low] https://krisp-blog-dev.krisp.ai/wp-content/debug.log [174998 bytes] [paths="wp-content"]

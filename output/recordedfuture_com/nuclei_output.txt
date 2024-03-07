@@ -1,4 +1,3 @@
-[unauthenticated-varnish-cache-purge] [http] [low] https://cms.recordedfuture.com
 [unauthenticated-varnish-cache-purge] [http] [low] https://preprod.cms.recordedfuture.com
 [unauthenticated-varnish-cache-purge] [http] [low] https://www.cms.recordedfuture.com
 [unauthenticated-varnish-cache-purge] [http] [low] https://www.preprod.cms.recordedfuture.com

@@ -23,6 +23,7 @@ book.stripe.com
 bounce.e.stripe.com
 bounce.info.stripe.com
 button.stripe.com
+buy-tree.stripe.com
 buy.stripe.com
 calendar.stripe.com
 cdg.corp.stripe.com

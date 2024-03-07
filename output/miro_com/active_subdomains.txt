@@ -53,6 +53,7 @@ links.m.miro.com
 lubo.miro.com
 meet.miro.com
 miro.com
+miroherocommunity.miro.com
 mobile.miro.com
 mta.e.miro.com
 mta2.account.miro.com

@@ -1,0 +1,2 @@
+[credentials-disclosure] [http] [unknown] https://academy.miro.com [AppToken: '6edac779d2b6e90c7f4d93f2a22910fe']
+[credentials-disclosure] [http] [unknown] https://academy.miro.com/ [AppToken: '6edac779d2b6e90c7f4d93f2a22910fe']

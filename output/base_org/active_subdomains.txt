@@ -3,6 +3,7 @@ bridge.base.org
 developer-access-mainnet.base.org
 docs.base.org
 goerli.base.org
+mainnet-full-snapshots.base.org
 mainnet.base.org
 mint.base.org
 quests.base.org

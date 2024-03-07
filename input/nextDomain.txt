@@ -1,8 +1,10 @@
+zoho.com
 basecamp.com
 forescout.com
 trustpilot.com
 magic.link
 miro.com
+zoho.in
 malwarebytes.com
 recargapay.com.br
 okx.com
@@ -15,6 +17,7 @@ shopify.com
 iovlabs.org
 chain.link
 playcanvas.com
+zoho.eu
 bitstrips.com
 spectacles.com
 playcanv.as

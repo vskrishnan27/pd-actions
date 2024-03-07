@@ -1,1 +1,0 @@
-[credentials-disclosure] [http] [unknown] https://api.hackerone.com [indexName: 'hackerone_api',apiKey: '24f206a5ddce3f977613c86f005076a5']

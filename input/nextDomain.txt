@@ -1,4 +1,3 @@
-exodus.com
 zoho.com
 basecamp.com
 forescout.com
@@ -80,3 +79,4 @@ flickr.com
 bitmex.com
 freshworks.com
 zoho.com
+exodus.com

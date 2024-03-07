@@ -39,6 +39,8 @@ http://alliancerelations.freshworks.com
 http://aloha.freshworks.com
 http://americloud.freshworks.com
 http://analytics.freshworks.com
+http://appgallery-euw.freshworks.com
+http://appgallery-mec.freshworks.com
 http://apps.freshworks.com
 http://aramex.freshworks.com
 http://arcconsultants.freshworks.com
@@ -72,6 +74,7 @@ http://ciss.freshworks.com
 http://cityofcolumbia.freshworks.com
 http://cityofmenifee.freshworks.com
 http://claritywebhosting.freshworks.com
+http://cntro.freshworks.com
 http://communited.freshworks.com
 http://community.developer.freshworks.com
 http://community.developers.freshworks.com
@@ -185,7 +188,6 @@ http://huboo.freshworks.com
 http://iemanet.freshworks.com
 http://imperativechemicalshelp.freshworks.com
 http://in.accounts.freshworks.com
-http://in.freshworks.com
 http://ind-widget.freshworks.com
 http://indexer.freshworks.com
 http://ingeniacommunities.freshworks.com
@@ -308,6 +310,7 @@ http://trust.internal.freshworks.com
 http://ubx-au.freshworks.com
 http://ubx-in.freshworks.com
 http://ubx-mec.freshworks.com
+http://ubx.freshworks.com
 http://uecelectronics.freshworks.com
 http://umt1.freshworks.com
 http://unacademy-team.freshworks.com
@@ -399,7 +402,9 @@ https://americloud.freshworks.com
 https://analytics.freshworks.com
 https://appgallery-aus.freshworks.com
 https://appgallery-euc.freshworks.com
+https://appgallery-euw.freshworks.com
 https://appgallery-ind.freshworks.com
+https://appgallery-mec.freshworks.com
 https://appgallery.freshworks.com
 https://apps.freshworks.com
 https://aramex.freshworks.com
@@ -434,6 +439,7 @@ https://ciss.freshworks.com
 https://cityofcolumbia.freshworks.com
 https://cityofmenifee.freshworks.com
 https://claritywebhosting.freshworks.com
+https://cntro.freshworks.com
 https://communited.freshworks.com
 https://community.developer.freshworks.com
 https://community.developers.freshworks.com
@@ -548,7 +554,6 @@ https://huboo.freshworks.com
 https://iemanet.freshworks.com
 https://imperativechemicalshelp.freshworks.com
 https://in.accounts.freshworks.com
-https://in.freshworks.com
 https://ind-widget.freshworks.com
 https://indexer.freshworks.com
 https://ingeniacommunities.freshworks.com
@@ -557,7 +562,6 @@ https://intango.freshworks.com
 https://integrations.freshworks.com
 https://internalreferral.freshworks.com
 https://intuitionpublishingltd.freshworks.com
-https://investor.freshworks.com
 https://invohealthcare.freshworks.com
 https://istonline.freshworks.com
 https://jacoinchelp.freshworks.com
@@ -669,6 +673,7 @@ https://trust.internal.freshworks.com
 https://ubx-au.freshworks.com
 https://ubx-in.freshworks.com
 https://ubx-mec.freshworks.com
+https://ubx.freshworks.com
 https://uecelectronics.freshworks.com
 https://umt1.freshworks.com
 https://unacademy-team.freshworks.com

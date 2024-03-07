@@ -35,7 +35,9 @@ americloud.freshworks.com
 analytics.freshworks.com
 appgallery-aus.freshworks.com
 appgallery-euc.freshworks.com
+appgallery-euw.freshworks.com
 appgallery-ind.freshworks.com
+appgallery-mec.freshworks.com
 appgallery.freshworks.com
 apps.freshworks.com
 aramex.freshworks.com
@@ -73,6 +75,7 @@ ciss.freshworks.com
 cityofcolumbia.freshworks.com
 cityofmenifee.freshworks.com
 claritywebhosting.freshworks.com
+cntro.freshworks.com
 communited.freshworks.com
 community.developer.freshworks.com
 community.developers.freshworks.com

@@ -82,7 +82,11 @@ analytics.freshworks.com:443
 analytics.freshworks.com:80
 appgallery-aus.freshworks.com:443
 appgallery-euc.freshworks.com:443
+appgallery-euw.freshworks.com:443
+appgallery-euw.freshworks.com:80
 appgallery-ind.freshworks.com:443
+appgallery-mec.freshworks.com:443
+appgallery-mec.freshworks.com:80
 appgallery.freshworks.com:443
 apps.freshworks.com:443
 apps.freshworks.com:80
@@ -250,6 +254,8 @@ cityofmenifee.freshworks.com:443
 cityofmenifee.freshworks.com:80
 claritywebhosting.freshworks.com:443
 claritywebhosting.freshworks.com:80
+cntro.freshworks.com:443
+cntro.freshworks.com:80
 communited.freshworks.com:443
 communited.freshworks.com:80
 community.developer.freshworks.com:443
@@ -477,8 +483,6 @@ imperativechemicalshelp.freshworks.com:443
 imperativechemicalshelp.freshworks.com:80
 in.accounts.freshworks.com:443
 in.accounts.freshworks.com:80
-in.freshworks.com:443
-in.freshworks.com:80
 ind-widget.freshworks.com:443
 ind-widget.freshworks.com:80
 indexer.freshworks.com:443
@@ -724,6 +728,8 @@ ubx-in.freshworks.com:443
 ubx-in.freshworks.com:80
 ubx-mec.freshworks.com:443
 ubx-mec.freshworks.com:80
+ubx.freshworks.com:443
+ubx.freshworks.com:80
 uecelectronics.freshworks.com:443
 uecelectronics.freshworks.com:80
 umt1.freshworks.com:443

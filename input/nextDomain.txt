@@ -1,4 +1,3 @@
-malwarebytes.com
 recargapay.com.br
 okx.com
 matomo.org
@@ -80,3 +79,4 @@ trustpilot.com
 magic.link
 miro.com
 zoho.in
+malwarebytes.com

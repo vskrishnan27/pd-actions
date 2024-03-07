@@ -516,7 +516,5 @@ www.metamask.io:8080
 www.metamask.io:8443
 www.portfolio.metamask.io:443
 www.portfolio.metamask.io:80
-www.static.cx.metamask.io:443
-www.static.cx.metamask.io:80
 www.uat-static.cx.metamask.io:443
 www.uat-static.cx.metamask.io:80

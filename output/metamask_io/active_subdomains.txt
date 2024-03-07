@@ -142,5 +142,4 @@ www.dev.portfolio.metamask.io
 www.home.metamask.io
 www.metamask.io
 www.portfolio.metamask.io
-www.static.cx.metamask.io
 www.uat-static.cx.metamask.io

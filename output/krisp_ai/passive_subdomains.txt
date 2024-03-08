@@ -52,6 +52,8 @@ account.feature-test.env.krisp.ai
 account.feature-test.env.krisp.ai
 account.feature-test.env.krisp.ai
 account.feature-test.env.krisp.ai
+account.feature-test.env.krisp.ai
+account.krisp.ai
 account.krisp.ai
 account.krisp.ai
 account.krisp.ai
@@ -160,6 +162,8 @@ account.plive.env.krisp.ai
 account.plive.env.krisp.ai
 account.plive.env.krisp.ai
 account.plive.env.krisp.ai
+account.plive.env.krisp.ai
+account.prelive.krisp.ai
 account.prelive.krisp.ai
 account.prelive.krisp.ai
 account.prelive.krisp.ai
@@ -268,6 +272,8 @@ analytics.krisp.ai
 analytics.krisp.ai
 analytics.krisp.ai
 analytics.krisp.ai
+analytics.krisp.ai
+api.feature-test.env.krisp.ai
 api.feature-test.env.krisp.ai
 api.feature-test.env.krisp.ai
 api.feature-test.env.krisp.ai
@@ -376,6 +382,8 @@ api.krisp.ai
 api.krisp.ai
 api.krisp.ai
 api.krisp.ai
+api.krisp.ai
+api.plive.env.krisp.ai
 api.plive.env.krisp.ai
 api.plive.env.krisp.ai
 api.plive.env.krisp.ai
@@ -484,6 +492,8 @@ api.prelive.krisp.ai
 api.prelive.krisp.ai
 api.prelive.krisp.ai
 api.prelive.krisp.ai
+api.prelive.krisp.ai
+app.krisp.ai
 app.krisp.ai
 app.krisp.ai
 app.krisp.ai
@@ -592,6 +602,8 @@ bid47kc.4042051m.krisp.ai
 bid47kc.4042051m.krisp.ai
 bid47kc.4042051m.krisp.ai
 bid47kc.4042051m.krisp.ai
+bid47kc.4042051m.krisp.ai
+blog.krisp.ai
 blog.krisp.ai
 blog.krisp.ai
 blog.krisp.ai
@@ -700,6 +712,8 @@ cdn.krisp.ai
 cdn.krisp.ai
 cdn.krisp.ai
 cdn.krisp.ai
+cdn.krisp.ai
+ci.krisp.ai
 ci.krisp.ai
 ci.krisp.ai
 ci.krisp.ai
@@ -808,6 +822,8 @@ contact.krisp.ai
 contact.krisp.ai
 contact.krisp.ai
 contact.krisp.ai
+contact.krisp.ai
+dev.account.krisp.ai
 dev.account.krisp.ai
 dev.account.krisp.ai
 dev.account.krisp.ai
@@ -916,6 +932,8 @@ dev.api.krisp.ai
 dev.api.krisp.ai
 dev.api.krisp.ai
 dev.api.krisp.ai
+dev.api.krisp.ai
+dev.app.krisp.ai
 dev.app.krisp.ai
 dev.app.krisp.ai
 dev.app.krisp.ai
@@ -1024,6 +1042,8 @@ dev.new.account.krisp.ai
 dev.new.account.krisp.ai
 dev.new.account.krisp.ai
 dev.new.account.krisp.ai
+dev.new.account.krisp.ai
+dev.r.krisp.ai
 dev.r.krisp.ai
 dev.r.krisp.ai
 dev.r.krisp.ai
@@ -1132,6 +1152,8 @@ dev.upld.krisp.ai
 dev.upld.krisp.ai
 dev.upld.krisp.ai
 dev.upld.krisp.ai
+dev.upld.krisp.ai
+docs.krisp.ai
 docs.krisp.ai
 docs.krisp.ai
 docs.krisp.ai
@@ -1240,6 +1262,8 @@ download.feature-test.env.krisp.ai
 download.feature-test.env.krisp.ai
 download.feature-test.env.krisp.ai
 download.feature-test.env.krisp.ai
+download.feature-test.env.krisp.ai
+download.krisp.ai
 download.krisp.ai
 download.krisp.ai
 download.krisp.ai
@@ -1348,6 +1372,8 @@ download.plive.env.krisp.ai
 download.plive.env.krisp.ai
 download.plive.env.krisp.ai
 download.plive.env.krisp.ai
+download.plive.env.krisp.ai
+download.prelive.krisp.ai
 download.prelive.krisp.ai
 download.prelive.krisp.ai
 download.prelive.krisp.ai
@@ -1456,6 +1482,8 @@ files.feature-test.env.krisp.ai
 files.feature-test.env.krisp.ai
 files.feature-test.env.krisp.ai
 files.feature-test.env.krisp.ai
+files.feature-test.env.krisp.ai
+files.krisp.ai
 files.krisp.ai
 files.krisp.ai
 files.krisp.ai
@@ -1564,6 +1592,8 @@ files.mdev.krisp.ai
 files.mdev.krisp.ai
 files.mdev.krisp.ai
 files.mdev.krisp.ai
+files.mdev.krisp.ai
+files.plive.env.krisp.ai
 files.plive.env.krisp.ai
 files.plive.env.krisp.ai
 files.plive.env.krisp.ai
@@ -1672,6 +1702,8 @@ files.prelive.krisp.ai
 files.prelive.krisp.ai
 files.prelive.krisp.ai
 files.prelive.krisp.ai
+files.prelive.krisp.ai
+help-jp.krisp.ai
 help-jp.krisp.ai
 help-jp.krisp.ai
 help-jp.krisp.ai
@@ -1780,6 +1812,8 @@ help.krisp.ai
 help.krisp.ai
 help.krisp.ai
 help.krisp.ai
+help.krisp.ai
+help1.krisp.ai
 help1.krisp.ai
 help1.krisp.ai
 help1.krisp.ai
@@ -1888,6 +1922,8 @@ jobs.krisp.ai
 jobs.krisp.ai
 jobs.krisp.ai
 jobs.krisp.ai
+jobs.krisp.ai
+jpmchase-uat.krisp.ai
 jpmchase-uat.krisp.ai
 jpmchase-uat.krisp.ai
 jpmchase-uat.krisp.ai
@@ -1996,6 +2032,8 @@ jpmchase.krisp.ai
 jpmchase.krisp.ai
 jpmchase.krisp.ai
 jpmchase.krisp.ai
+jpmchase.krisp.ai
+kond.feature-test.env.krisp.ai
 kond.feature-test.env.krisp.ai
 kond.feature-test.env.krisp.ai
 kond.feature-test.env.krisp.ai
@@ -2104,6 +2142,8 @@ kond.krisp.ai
 kond.krisp.ai
 kond.krisp.ai
 kond.krisp.ai
+kond.krisp.ai
+kond.plive.env.krisp.ai
 kond.plive.env.krisp.ai
 kond.plive.env.krisp.ai
 kond.plive.env.krisp.ai
@@ -2212,6 +2252,7 @@ kond.prelive.krisp.ai
 kond.prelive.krisp.ai
 kond.prelive.krisp.ai
 kond.prelive.krisp.ai
+kond.prelive.krisp.ai
 krisp-blog-dev.krisp.ai
 krisp-blog-dev.krisp.ai
 krisp-blog-dev.krisp.ai
@@ -2266,6 +2307,8 @@ krisp-blog-dev.krisp.ai
 krisp-blog-dev.krisp.ai
 krisp-blog-dev.krisp.ai
 krisp-blog-dev.krisp.ai
+krisp-blog-dev.krisp.ai
+krisp-dev.krisp.ai
 krisp-dev.krisp.ai
 krisp-dev.krisp.ai
 krisp-dev.krisp.ai
@@ -2426,6 +2469,8 @@ krstage.analytics.krisp.ai
 krstage.analytics.krisp.ai
 krstage.analytics.krisp.ai
 krstage.analytics.krisp.ai
+krstage.analytics.krisp.ai
+krytics.krisp.ai
 krytics.krisp.ai
 krytics.krisp.ai
 krytics.krisp.ai
@@ -2534,6 +2579,8 @@ landing.krisp.ai
 landing.krisp.ai
 landing.krisp.ai
 landing.krisp.ai
+landing.krisp.ai
+mdev.krisp.ai
 mdev.krisp.ai
 mdev.krisp.ai
 mdev.krisp.ai
@@ -2642,6 +2689,8 @@ metabase.krisp.ai
 metabase.krisp.ai
 metabase.krisp.ai
 metabase.krisp.ai
+metabase.krisp.ai
+new.account.env.krisp.ai
 new.account.env.krisp.ai
 new.account.env.krisp.ai
 new.account.env.krisp.ai
@@ -2750,6 +2799,8 @@ new.account.krisp.ai
 new.account.krisp.ai
 new.account.krisp.ai
 new.account.krisp.ai
+new.account.krisp.ai
+new.account.prelive.krisp.ai
 new.account.prelive.krisp.ai
 new.account.prelive.krisp.ai
 new.account.prelive.krisp.ai
@@ -2910,6 +2961,8 @@ o1.ptr4412.mail.krisp.ai
 o1.ptr4412.mail.krisp.ai
 o1.ptr4412.mail.krisp.ai
 o1.ptr4412.mail.krisp.ai
+o1.ptr4412.mail.krisp.ai
+o1.ptr7818.krisp.ai
 o1.ptr7818.krisp.ai
 o1.ptr7818.krisp.ai
 o1.ptr7818.krisp.ai
@@ -3018,6 +3071,8 @@ o2.ptr1215.krisp.ai
 o2.ptr1215.krisp.ai
 o2.ptr1215.krisp.ai
 o2.ptr1215.krisp.ai
+o2.ptr1215.krisp.ai
+o3.ptr4616.krisp.ai
 o3.ptr4616.krisp.ai
 o3.ptr4616.krisp.ai
 o3.ptr4616.krisp.ai
@@ -3126,6 +3181,8 @@ old.account.krisp.ai
 old.account.krisp.ai
 old.account.krisp.ai
 old.account.krisp.ai
+old.account.krisp.ai
+ops.krisp.ai
 ops.krisp.ai
 ops.krisp.ai
 ops.krisp.ai
@@ -3234,6 +3291,8 @@ pages.account.krisp.ai
 pages.account.krisp.ai
 pages.account.krisp.ai
 pages.account.krisp.ai
+pages.account.krisp.ai
+plive.account.krisp.ai
 plive.account.krisp.ai
 plive.account.krisp.ai
 plive.account.krisp.ai
@@ -3342,6 +3401,8 @@ plive.analytics.krisp.ai
 plive.analytics.krisp.ai
 plive.analytics.krisp.ai
 plive.analytics.krisp.ai
+plive.analytics.krisp.ai
+plive.api.krisp.ai
 plive.api.krisp.ai
 plive.api.krisp.ai
 plive.api.krisp.ai
@@ -3450,6 +3511,8 @@ plive.app.krisp.ai
 plive.app.krisp.ai
 plive.app.krisp.ai
 plive.app.krisp.ai
+plive.app.krisp.ai
+plive.download.krisp.ai
 plive.download.krisp.ai
 plive.download.krisp.ai
 plive.download.krisp.ai
@@ -3558,6 +3621,8 @@ plive.es.krisp.ai
 plive.es.krisp.ai
 plive.es.krisp.ai
 plive.es.krisp.ai
+plive.es.krisp.ai
+plive.kond.krisp.ai
 plive.kond.krisp.ai
 plive.kond.krisp.ai
 plive.kond.krisp.ai
@@ -3666,6 +3731,8 @@ plive.old.account.krisp.ai
 plive.old.account.krisp.ai
 plive.old.account.krisp.ai
 plive.old.account.krisp.ai
+plive.old.account.krisp.ai
+plive.r.krisp.ai
 plive.r.krisp.ai
 plive.r.krisp.ai
 plive.r.krisp.ai
@@ -3774,6 +3841,8 @@ plive.ref.krisp.ai
 plive.ref.krisp.ai
 plive.ref.krisp.ai
 plive.ref.krisp.ai
+plive.ref.krisp.ai
+plive.upld.krisp.ai
 plive.upld.krisp.ai
 plive.upld.krisp.ai
 plive.upld.krisp.ai
@@ -3934,6 +4003,8 @@ pre-prod.analytics.krisp.ai
 pre-prod.analytics.krisp.ai
 pre-prod.analytics.krisp.ai
 pre-prod.analytics.krisp.ai
+pre-prod.analytics.krisp.ai
+prelive.api.krisp.ai
 prelive.api.krisp.ai
 prelive.api.krisp.ai
 prelive.api.krisp.ai
@@ -4042,6 +4113,8 @@ prod.es.krisp.ai
 prod.es.krisp.ai
 prod.es.krisp.ai
 prod.es.krisp.ai
+prod.es.krisp.ai
+r.krisp.ai
 r.krisp.ai
 r.krisp.ai
 r.krisp.ai
@@ -4150,6 +4223,8 @@ r.prelive.krisp.ai
 r.prelive.krisp.ai
 r.prelive.krisp.ai
 r.prelive.krisp.ai
+r.prelive.krisp.ai
+ref.feature-test.env.krisp.ai
 ref.feature-test.env.krisp.ai
 ref.feature-test.env.krisp.ai
 ref.feature-test.env.krisp.ai
@@ -4258,6 +4333,8 @@ ref.krisp.ai
 ref.krisp.ai
 ref.krisp.ai
 ref.krisp.ai
+ref.krisp.ai
+ref.plive.env.krisp.ai
 ref.plive.env.krisp.ai
 ref.plive.env.krisp.ai
 ref.plive.env.krisp.ai
@@ -4366,6 +4443,8 @@ ref.prelive.krisp.ai
 ref.prelive.krisp.ai
 ref.prelive.krisp.ai
 ref.prelive.krisp.ai
+ref.prelive.krisp.ai
+regression.krisp.ai
 regression.krisp.ai
 regression.krisp.ai
 regression.krisp.ai
@@ -4474,6 +4553,8 @@ releasenotes.krisp.ai
 releasenotes.krisp.ai
 releasenotes.krisp.ai
 releasenotes.krisp.ai
+releasenotes.krisp.ai
+resources.krisp.ai
 resources.krisp.ai
 resources.krisp.ai
 resources.krisp.ai
@@ -4582,6 +4663,8 @@ sales.krisp.ai
 sales.krisp.ai
 sales.krisp.ai
 sales.krisp.ai
+sales.krisp.ai
+sdk-docs.krisp.ai
 sdk-docs.krisp.ai
 sdk-docs.krisp.ai
 sdk-docs.krisp.ai
@@ -4690,6 +4773,8 @@ sdk.krisp.ai
 sdk.krisp.ai
 sdk.krisp.ai
 sdk.krisp.ai
+sdk.krisp.ai
+security-report.krisp.ai
 security-report.krisp.ai
 security-report.krisp.ai
 security-report.krisp.ai
@@ -4798,6 +4883,8 @@ service.krisp.ai
 service.krisp.ai
 service.krisp.ai
 service.krisp.ai
+service.krisp.ai
+sso.dev.api.krisp.ai
 sso.dev.api.krisp.ai
 sso.dev.api.krisp.ai
 sso.dev.api.krisp.ai
@@ -4906,6 +4993,8 @@ stage.account.krisp.ai
 stage.account.krisp.ai
 stage.account.krisp.ai
 stage.account.krisp.ai
+stage.account.krisp.ai
+stage.analytics.krisp.ai
 stage.analytics.krisp.ai
 stage.analytics.krisp.ai
 stage.analytics.krisp.ai
@@ -5014,6 +5103,8 @@ stage.api.krisp.ai
 stage.api.krisp.ai
 stage.api.krisp.ai
 stage.api.krisp.ai
+stage.api.krisp.ai
+stage.app.krisp.ai
 stage.app.krisp.ai
 stage.app.krisp.ai
 stage.app.krisp.ai
@@ -5122,6 +5213,8 @@ stage.es.krisp.ai
 stage.es.krisp.ai
 stage.es.krisp.ai
 stage.es.krisp.ai
+stage.es.krisp.ai
+stage.krisp.ai
 stage.krisp.ai
 stage.krisp.ai
 stage.krisp.ai
@@ -5230,6 +5323,8 @@ stage.krytics.krisp.ai
 stage.krytics.krisp.ai
 stage.krytics.krisp.ai
 stage.krytics.krisp.ai
+stage.krytics.krisp.ai
+stage.new.account.krisp.ai
 stage.new.account.krisp.ai
 stage.new.account.krisp.ai
 stage.new.account.krisp.ai
@@ -5338,6 +5433,7 @@ stage.r.krisp.ai
 stage.r.krisp.ai
 stage.r.krisp.ai
 stage.r.krisp.ai
+stage.r.krisp.ai
 stage.sdk.krisp.ai
 stage.sdk.krisp.ai
 stage.sdk.krisp.ai
@@ -5392,6 +5488,8 @@ stage.sdk.krisp.ai
 stage.sdk.krisp.ai
 stage.sdk.krisp.ai
 stage.sdk.krisp.ai
+stage.sdk.krisp.ai
+stage.upld.krisp.ai
 stage.upld.krisp.ai
 stage.upld.krisp.ai
 stage.upld.krisp.ai
@@ -5552,6 +5650,8 @@ syn-bt2ywgclz3.api.krisp.ai
 syn-bt2ywgclz3.api.krisp.ai
 syn-bt2ywgclz3.api.krisp.ai
 syn-bt2ywgclz3.api.krisp.ai
+syn-bt2ywgclz3.api.krisp.ai
+teams.krisp.ai
 teams.krisp.ai
 teams.krisp.ai
 teams.krisp.ai
@@ -5660,6 +5760,8 @@ ui.krisp.ai
 ui.krisp.ai
 ui.krisp.ai
 ui.krisp.ai
+ui.krisp.ai
+upld.feature-test.env.krisp.ai
 upld.feature-test.env.krisp.ai
 upld.feature-test.env.krisp.ai
 upld.feature-test.env.krisp.ai
@@ -5768,6 +5870,8 @@ upld.krisp.ai
 upld.krisp.ai
 upld.krisp.ai
 upld.krisp.ai
+upld.krisp.ai
+upld.plive.env.krisp.ai
 upld.plive.env.krisp.ai
 upld.plive.env.krisp.ai
 upld.plive.env.krisp.ai
@@ -5876,6 +5980,7 @@ upld.prelive.krisp.ai
 upld.prelive.krisp.ai
 upld.prelive.krisp.ai
 upld.prelive.krisp.ai
+upld.prelive.krisp.ai
 upload.krisp.ai
 upload.krisp.ai
 upload.krisp.ai
@@ -5930,6 +6035,8 @@ upload.krisp.ai
 upload.krisp.ai
 upload.krisp.ai
 upload.krisp.ai
+upload.krisp.ai
+url5145.krisp.ai
 url5145.krisp.ai
 url5145.krisp.ai
 url5145.krisp.ai
@@ -6090,6 +6197,7 @@ webcdn.krisp.ai
 webcdn.krisp.ai
 webcdn.krisp.ai
 webcdn.krisp.ai
+webcdn.krisp.ai
 websocket.krisp.ai
 websocket.krisp.ai
 websocket.krisp.ai
@@ -6196,6 +6304,8 @@ whatsnew.krisp.ai
 whatsnew.krisp.ai
 whatsnew.krisp.ai
 whatsnew.krisp.ai
+whatsnew.krisp.ai
+www.krisp.ai
 www.krisp.ai
 www.krisp.ai
 www.krisp.ai

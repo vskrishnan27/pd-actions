@@ -1,5 +1,3 @@
-http://account.krisp.ai
-http://account.krisp.ai:8080
 http://analytics.krisp.ai
 http://analytics.krisp.ai:8080
 http://analytics.krisp.ai:8443
@@ -50,6 +48,9 @@ http://metabase.krisp.ai:8443
 http://new.account.krisp.ai
 http://new.account.krisp.ai:8080
 http://new.account.krisp.ai:8443
+http://old.account.krisp.ai
+http://old.account.krisp.ai:8080
+http://old.account.krisp.ai:8443
 http://plive.account.krisp.ai
 http://plive.account.krisp.ai:8080
 http://plive.analytics.krisp.ai
@@ -109,8 +110,6 @@ http://whatsnew.krisp.ai
 http://www.krisp.ai
 http://www.krisp.ai:8080
 http://www.krisp.ai:8443
-https://account.krisp.ai
-https://account.krisp.ai:8443
 https://analytics.krisp.ai
 https://api.krisp.ai
 https://api.prelive.krisp.ai
@@ -140,6 +139,7 @@ https://krisp-blog-dev.krisp.ai
 https://krisp-dev.krisp.ai
 https://metabase.krisp.ai
 https://new.account.krisp.ai
+https://old.account.krisp.ai
 https://plive.account.krisp.ai
 https://plive.account.krisp.ai:8443
 https://plive.analytics.krisp.ai

@@ -71,6 +71,7 @@ jobs:
           fi
           # Expose the folder name for later steps
           echo "folder_path=output/$folder_name" >> $GITHUB_ENV
+          echo "domain_name=$folder_name" >> $GITHUB_ENV
         shell: bash          
       
       - name: Notify Input Commit Status
@@ -167,7 +168,7 @@ jobs:
 
       - name: Running Nuclei for vulnerability assessment
         run: |
-          nuclei -t /http -t cves/ -l ${{ env.folder_path }}/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee ${{ env.folder_path }}/nuclei_output.txt
+          nuclei -t /http -t cves/ -l ${{ env.folder_path }}/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee /output/nuclei/${{ env.domain_name }}.txt
         shell: bash
 
       - name: Notify CVE details 

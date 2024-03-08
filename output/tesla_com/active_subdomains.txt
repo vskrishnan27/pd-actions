@@ -152,6 +152,7 @@ fleetview.fn.tesla.com
 fleetview.prd.america.fn.tesla.com
 fleetview.prd.europe.fn.tesla.com
 fra05-gpgw1.tesla.com
+gigabier.tesla.com
 gpv.tesla.com
 grid.tesla.com
 gridlogic.energy.tesla.com
@@ -197,6 +198,7 @@ mobile-ops-links.prd.vn.cloud.tesla.com
 mobile.kronos.tesla.com
 mobile.tesla.com
 model3.tesla.com
+monitoring.tesla.com
 mrsproxy06.tesla.com
 mta.email.tesla.com
 mta.emails.tesla.com

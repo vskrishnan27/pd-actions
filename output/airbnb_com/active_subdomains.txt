@@ -447,8 +447,6 @@ isit.admin.airbnb.com
 it.airbnb.com
 it.next.airbnb.com
 it.trend.next.airbnb.com
-ivr-next.airbnb.com
-ivr.airbnb.com
 ivr.next.airbnb.com
 ja.admin.airbnb.com
 ja.airbnb.com
@@ -779,6 +777,7 @@ optustvnow.next.airbnb.com
 order.next.airbnb.com
 orders.next.airbnb.com
 origin-api-cn.airbnb.com
+origin-api-cnprod.airbnb.com
 origin-api.airbnb.com
 origin-events.airbnb.com
 origin-images.airbnb.com

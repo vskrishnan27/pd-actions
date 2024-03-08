@@ -1,5 +1,3 @@
-marriot.com
-flickr.com
 bitmex.com
 freshworks.com
 zoho.com
@@ -80,3 +78,5 @@ figma.com
 indrive.com
 apple.com
 line.me
+marriot.com
+flickr.com

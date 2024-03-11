@@ -23,6 +23,10 @@ http://us.okx.com
 http://us.okx.com:8443
 http://ustest.okx.com
 http://ustest.okx.com:8443
+http://uswspap.okx.com
+http://uswspap.okx.com:8080
+http://uswspripap.okx.com
+http://uswspripap.okx.com:8080
 http://wallet.okx.com
 http://www.okx.com
 http://www.okx.com:8443
@@ -64,8 +68,12 @@ https://wsdexpre.okx.com
 https://wsdexpre.okx.com:8443
 https://wsdexpri.okx.com
 https://wsdexpri.okx.com:8443
+https://wspap.okx.com
+https://wspap.okx.com:8443
 https://wspri.okx.com
 https://wspri.okx.com:8443
+https://wspripap.okx.com
+https://wspripap.okx.com:8443
 https://wssfp.okx.com
 https://wssfp.okx.com:8443
 https://wssfppap.okx.com

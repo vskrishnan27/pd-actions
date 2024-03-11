@@ -163,7 +163,7 @@ jobs:
 
       - name: List Nuclei Templates
         run: |
-          ls -lt /home/runner/nuclei-templates/config
+          ls -lt /home/runner/nuclei-templates
         shell: bash
 
       - name: Running Nuclei for vulnerability assessment

@@ -78,10 +78,6 @@ onfido.devsf3.bitmex.com:443
 onfido.devsf3.bitmex.com:80
 onfido.devsf3.bitmex.com:8080
 onfido.devsf3.bitmex.com:8443
-onfido.testnet.bitmex.com:443
-onfido.testnet.bitmex.com:80
-onfido.testnet.bitmex.com:8080
-onfido.testnet.bitmex.com:8443
 podcasts.academy.bitmex.com:443
 podcasts.academy.bitmex.com:80
 podcasts.academy.bitmex.com:8080
@@ -161,10 +157,6 @@ web-ws.testnet.bitmex.com:443
 web-ws.testnet.bitmex.com:80
 web-ws.testnet.bitmex.com:8080
 web-ws.testnet.bitmex.com:8443
-ws.bitmex.com:443
-ws.bitmex.com:80
-ws.bitmex.com:8080
-ws.bitmex.com:8443
 ws.devhk.bitmex.com:443
 ws.devhk.bitmex.com:80
 ws.devhk.bitmex.com:8080

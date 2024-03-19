@@ -1,0 +1,438 @@
+[akamai-cache-detect] [http] [info] http://returns.spectacles.com
+[akamai-cache-detect] [http] [info] https://returns.spectacles.com
+[akamai-detect] [http] [info] http://returns.spectacles.com
+[akamai-detect] [http] [info] https://returns.spectacles.com
+[email-extractor] [http] [info] https://spectacles.com [example@email.com]
+[email-extractor] [http] [info] https://www.spectacles.com [example@email.com]
+[external-service-interaction] [http] [info] http://returns.spectacles.com
+[external-service-interaction] [http] [info] http://spectacles.com
+[external-service-interaction] [http] [info] http://www.spectacles.com
+[external-service-interaction] [http] [info] https://cnsp5ov2ff5bpptqg7ig1jcwpcfofe1et.oast.online:443/
+[external-service-interaction] [http] [info] https://cnsp5ov2ff5bpptqg7ig97npppo1zb4ya.oast.online:443/
+[google-floc-disabled] [http] [info] http://support.spectacles.com
+[google-floc-disabled] [http] [info] http://support.spectacles.com:8080
+[google-floc-disabled] [http] [info] https://support.spectacles.com
+[google-frontend-httpserver] [http] [info] https://spectacles.com
+[google-frontend-httpserver] [http] [info] https://www.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://cad-en.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://cad-en.orders.spectacles.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://cad-fr.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://cad-fr.orders.spectacles.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://chf-de.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://chf-de.orders.spectacles.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://chf-fr.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://chf-fr.orders.spectacles.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://eur-en.orders.spectacles.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://gbp-en.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://gbp-en.orders.spectacles.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://orders.spectacles.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://pln-pl.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://pln-pl.orders.spectacles.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://support.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://support.spectacles.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://support.spectacles.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://us-dev.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://us-dev.orders.spectacles.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] https://cad-en.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://cad-en.orders.spectacles.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://cad-fr.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://cad-fr.orders.spectacles.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://chf-de.orders.spectacles.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://chf-fr.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://eur-en.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://gbp-en.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://gbp-en.orders.spectacles.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://orders.spectacles.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://pln-pl.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://pln-pl.orders.spectacles.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://support.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://us-dev.orders.spectacles.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://us-dev.orders.spectacles.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://cad-en.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://cad-en.orders.spectacles.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://cad-fr.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://cad-fr.orders.spectacles.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://chf-de.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://chf-de.orders.spectacles.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://chf-fr.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://chf-fr.orders.spectacles.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://eur-en.orders.spectacles.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://gbp-en.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://gbp-en.orders.spectacles.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://orders.spectacles.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://pln-pl.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://pln-pl.orders.spectacles.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://support.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://support.spectacles.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://support.spectacles.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://us-dev.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://us-dev.orders.spectacles.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] https://cad-en.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://cad-en.orders.spectacles.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://cad-fr.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://cad-fr.orders.spectacles.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://chf-de.orders.spectacles.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://chf-fr.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://eur-en.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://gbp-en.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://gbp-en.orders.spectacles.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://orders.spectacles.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://pln-pl.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://pln-pl.orders.spectacles.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://support.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://us-dev.orders.spectacles.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://us-dev.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://cad-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://cad-en.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://cad-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://cad-fr.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://chf-de.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://chf-de.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://chf-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://chf-fr.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://eur-en.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://gbp-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://gbp-en.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://pln-pl.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://pln-pl.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://support.spectacles.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://us-dev.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://us-dev.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cad-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cad-en.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cad-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cad-fr.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://chf-de.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://chf-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://eur-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://gbp-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://gbp-en.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://pln-pl.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://pln-pl.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://us-dev.orders.spectacles.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://us-dev.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://cad-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://cad-en.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://cad-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://cad-fr.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://chf-de.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://chf-de.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://chf-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://chf-fr.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://eur-en.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://gbp-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://gbp-en.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://pln-pl.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://pln-pl.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://support.spectacles.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://us-dev.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://us-dev.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cad-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cad-en.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cad-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cad-fr.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://chf-de.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://chf-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://eur-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://gbp-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://gbp-en.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://pln-pl.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://pln-pl.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://us-dev.orders.spectacles.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://us-dev.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://cad-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://cad-en.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://cad-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://cad-fr.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://chf-de.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://chf-de.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://chf-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://chf-fr.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://eur-en.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://gbp-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://gbp-en.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://pln-pl.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://pln-pl.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://support.spectacles.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://us-dev.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://us-dev.orders.spectacles.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cad-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cad-en.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cad-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cad-fr.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://chf-de.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://chf-fr.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://eur-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://gbp-en.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://gbp-en.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://pln-pl.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://pln-pl.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://us-dev.orders.spectacles.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://us-dev.orders.spectacles.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://cad-en.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://cad-en.orders.spectacles.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://cad-fr.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://cad-fr.orders.spectacles.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://chf-de.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://chf-de.orders.spectacles.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://chf-fr.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://chf-fr.orders.spectacles.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://eur-en.orders.spectacles.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://gbp-en.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://gbp-en.orders.spectacles.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://orders.spectacles.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://pln-pl.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://pln-pl.orders.spectacles.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://support.spectacles.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://us-dev.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://us-dev.orders.spectacles.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] https://cad-en.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://cad-en.orders.spectacles.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://cad-fr.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://cad-fr.orders.spectacles.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://chf-de.orders.spectacles.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://chf-fr.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://eur-en.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://gbp-en.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://gbp-en.orders.spectacles.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://orders.spectacles.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://pln-pl.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://pln-pl.orders.spectacles.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://us-dev.orders.spectacles.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://us-dev.orders.spectacles.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://cad-en.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://cad-fr.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://chf-de.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://chf-fr.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://gbp-en.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://pln-pl.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://support.spectacles.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://us-dev.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://cad-en.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://cad-fr.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://chf-fr.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://eur-en.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://gbp-en.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://pln-pl.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://us-dev.orders.spectacles.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://cad-en.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://cad-en.orders.spectacles.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://cad-fr.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://cad-fr.orders.spectacles.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://chf-de.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://chf-de.orders.spectacles.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://chf-fr.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://chf-fr.orders.spectacles.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://eur-en.orders.spectacles.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://gbp-en.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://gbp-en.orders.spectacles.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://orders.spectacles.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://pln-pl.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://pln-pl.orders.spectacles.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://support.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://support.spectacles.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://support.spectacles.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://us-dev.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://us-dev.orders.spectacles.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] https://cad-en.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://cad-en.orders.spectacles.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://cad-fr.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://cad-fr.orders.spectacles.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://chf-de.orders.spectacles.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://chf-fr.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://eur-en.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://gbp-en.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://gbp-en.orders.spectacles.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://orders.spectacles.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://pln-pl.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://pln-pl.orders.spectacles.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://support.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://us-dev.orders.spectacles.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://us-dev.orders.spectacles.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://support.spectacles.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://support.spectacles.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://support.spectacles.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://spectacles.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://support.spectacles.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://cad-en.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://cad-fr.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://chf-de.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://chf-fr.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://gbp-en.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://pln-pl.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://support.spectacles.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://us-dev.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://cad-en.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://cad-fr.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://chf-fr.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://eur-en.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://gbp-en.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://pln-pl.orders.spectacles.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://us-dev.orders.spectacles.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://support.spectacles.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://support.spectacles.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://support.spectacles.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://spectacles.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://support.spectacles.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.spectacles.com
+[internal-ip-disclosure] [http] [info] http://spectacles.com/ [34.120.54.238]
+[internal-ip-disclosure] [http] [info] http://www.spectacles.com/ [34.120.54.238]
+[options-method] [http] [info] https://spectacles.com [GET]
+[options-method] [http] [info] https://www.spectacles.com [GET]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [2026-03-02T05:00:00Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [2026-03-02T05:00:00Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [2024-01-30T10:38:09Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [2024-01-30T10:38:09Z]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [NS-1235.AWSDNS-26.ORG,NS-1685.AWSDNS-18.CO.UK,NS-476.AWSDNS-59.COM,NS-561.AWSDNS-06.NET]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [NS-1685.AWSDNS-18.CO.UK,NS-476.AWSDNS-59.COM,NS-561.AWSDNS-06.NET,NS-1235.AWSDNS-26.ORG]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [1996-02-29T05:00:00Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [1996-02-29T05:00:00Z]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [false]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [false]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [client delete prohibited,client transfer prohibited,client update prohibited,server delete prohibited,server transfer prohibited,server update prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/spectacles.com [client delete prohibited,client transfer prohibited,client update prohibited,server delete prohibited,server transfer prohibited,server update prohibited]
+[request-based-interaction:dns] [http] [info] http://returns.spectacles.com/
+[robots-txt-endpoint] [http] [info] https://returns.spectacles.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://spectacles.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://support.spectacles.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://www.spectacles.com/robots.txt
+[robots-txt] [http] [info] https://support.spectacles.com/robots.txt
+[robots-txt] [http] [info] https://support.spectacles.com/robots.txt
+[tech-detect:akamai] [http] [info] http://returns.spectacles.com
+[tech-detect:cloudflare] [http] [info] http://cad-fr.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] http://cad-fr.orders.spectacles.com:8080
+[tech-detect:cloudflare] [http] [info] http://chf-de.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] http://chf-de.orders.spectacles.com:8080
+[tech-detect:cloudflare] [http] [info] http://chf-fr.orders.spectacles.com:8080
+[tech-detect:cloudflare] [http] [info] http://eur-en.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] http://eur-en.orders.spectacles.com:8080
+[tech-detect:cloudflare] [http] [info] http://gbp-en.orders.spectacles.com:8080
+[tech-detect:cloudflare] [http] [info] http://orders.spectacles.com:8080
+[tech-detect:cloudflare] [http] [info] http://pln-pl.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] http://support.spectacles.com
+[tech-detect:cloudflare] [http] [info] http://support.spectacles.com:8080
+[tech-detect:cloudflare] [http] [info] http://support.spectacles.com:8443
+[tech-detect:cloudflare] [http] [info] http://us-dev.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] https://cad-en.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] https://cad-en.orders.spectacles.com:8443
+[tech-detect:cloudflare] [http] [info] https://cad-fr.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] https://cad-fr.orders.spectacles.com:8443
+[tech-detect:cloudflare] [http] [info] https://chf-de.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] https://chf-de.orders.spectacles.com:8443
+[tech-detect:cloudflare] [http] [info] https://chf-fr.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] https://chf-fr.orders.spectacles.com:8443
+[tech-detect:cloudflare] [http] [info] https://eur-en.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] https://eur-en.orders.spectacles.com:8443
+[tech-detect:cloudflare] [http] [info] https://gbp-en.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] https://gbp-en.orders.spectacles.com:8443
+[tech-detect:cloudflare] [http] [info] https://orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] https://orders.spectacles.com:8443
+[tech-detect:cloudflare] [http] [info] https://pln-pl.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] https://pln-pl.orders.spectacles.com:8443
+[tech-detect:cloudflare] [http] [info] https://support.spectacles.com
+[tech-detect:cloudflare] [http] [info] https://support.spectacles.com/
+[tech-detect:cloudflare] [http] [info] https://support.spectacles.com/hc
+[tech-detect:cloudflare] [http] [info] https://support.spectacles.com/hc
+[tech-detect:cloudflare] [http] [info] https://support.spectacles.com/hc/en-us
+[tech-detect:cloudflare] [http] [info] https://us-dev.orders.spectacles.com
+[tech-detect:cloudflare] [http] [info] https://us-dev.orders.spectacles.com:8443
+[tech-detect:react] [http] [info] https://spectacles.com
+[tech-detect:react] [http] [info] https://www.spectacles.com
+[waf-detect:akamai] [http] [info] http://returns.spectacles.com/
+[waf-detect:cloudflare] [http] [info] http://cad-en.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] http://cad-en.orders.spectacles.com:8080/
+[waf-detect:cloudflare] [http] [info] http://cad-fr.orders.spectacles.com:8080/
+[waf-detect:cloudflare] [http] [info] http://chf-de.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] http://chf-de.orders.spectacles.com:8080/
+[waf-detect:cloudflare] [http] [info] http://chf-fr.orders.spectacles.com:8080/
+[waf-detect:cloudflare] [http] [info] http://eur-en.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] http://eur-en.orders.spectacles.com:8080/
+[waf-detect:cloudflare] [http] [info] http://gbp-en.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] http://gbp-en.orders.spectacles.com:8080/
+[waf-detect:cloudflare] [http] [info] http://orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] http://pln-pl.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] http://pln-pl.orders.spectacles.com:8080/
+[waf-detect:cloudflare] [http] [info] http://support.spectacles.com/
+[waf-detect:cloudflare] [http] [info] http://support.spectacles.com:8080/
+[waf-detect:cloudflare] [http] [info] http://support.spectacles.com:8443/
+[waf-detect:cloudflare] [http] [info] http://us-dev.orders.spectacles.com:8080/
+[waf-detect:cloudflare] [http] [info] https://cad-en.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] https://cad-en.orders.spectacles.com:8443/
+[waf-detect:cloudflare] [http] [info] https://cad-fr.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] https://cad-fr.orders.spectacles.com:8443/
+[waf-detect:cloudflare] [http] [info] https://chf-de.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] https://chf-de.orders.spectacles.com:8443/
+[waf-detect:cloudflare] [http] [info] https://chf-fr.orders.spectacles.com:8443/
+[waf-detect:cloudflare] [http] [info] https://eur-en.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] https://eur-en.orders.spectacles.com:8443/
+[waf-detect:cloudflare] [http] [info] https://gbp-en.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] https://orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] https://orders.spectacles.com:8443/
+[waf-detect:cloudflare] [http] [info] https://pln-pl.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] https://pln-pl.orders.spectacles.com:8443/
+[waf-detect:cloudflare] [http] [info] https://support.spectacles.com/
+[waf-detect:cloudflare] [http] [info] https://us-dev.orders.spectacles.com/
+[waf-detect:cloudflare] [http] [info] https://us-dev.orders.spectacles.com:8443/
+[xss-deprecated-header] [http] [info] http://cad-en.orders.spectacles.com:8080 [1; mode=block]
+[xss-deprecated-header] [http] [info] http://cad-fr.orders.spectacles.com:8080 [1; mode=block]
+[xss-deprecated-header] [http] [info] http://chf-de.orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] http://gbp-en.orders.spectacles.com:8080 [1; mode=block]
+[xss-deprecated-header] [http] [info] http://pln-pl.orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] http://us-dev.orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://cad-en.orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://cad-en.orders.spectacles.com:8443 [1; mode=block]
+[xss-deprecated-header] [http] [info] https://cad-fr.orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://cad-fr.orders.spectacles.com:8443 [1; mode=block]
+[xss-deprecated-header] [http] [info] https://chf-de.orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://chf-de.orders.spectacles.com:8443 [1; mode=block]
+[xss-deprecated-header] [http] [info] https://chf-fr.orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://chf-fr.orders.spectacles.com:8443 [1; mode=block]
+[xss-deprecated-header] [http] [info] https://eur-en.orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://eur-en.orders.spectacles.com:8443 [1; mode=block]
+[xss-deprecated-header] [http] [info] https://gbp-en.orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://gbp-en.orders.spectacles.com:8443 [1; mode=block]
+[xss-deprecated-header] [http] [info] https://orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://orders.spectacles.com:8443 [1; mode=block]
+[xss-deprecated-header] [http] [info] https://pln-pl.orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://pln-pl.orders.spectacles.com:8443 [1; mode=block]
+[xss-deprecated-header] [http] [info] https://spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://us-dev.orders.spectacles.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://us-dev.orders.spectacles.com:8443 [1; mode=block]
+[xss-deprecated-header] [http] [info] https://www.spectacles.com [1; mode=block]

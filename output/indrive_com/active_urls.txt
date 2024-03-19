@@ -36,13 +36,13 @@ http://ref.indrive.com
 http://rideshare.indrive.com
 http://s.indrive.com
 http://services.indrive.com
+http://servicos.indrive.com
 http://sgtm.indrive.com
 http://share.indrive.com
 http://share.indrive.com:8080
 http://sharetrip.indrive.com
 http://sparklab.indrive.com
 http://supernovas.indrive.com
-http://updrive.indrive.com
 http://url-checker.indrive.com
 http://us.indrive.com
 http://ventures.indrive.com
@@ -103,7 +103,6 @@ https://share.indrive.com:8443
 https://sharetrip.indrive.com
 https://sparklab.indrive.com
 https://supernovas.indrive.com
-https://updrive.indrive.com
 https://url-checker.indrive.com
 https://us.indrive.com
 https://ventures.indrive.com

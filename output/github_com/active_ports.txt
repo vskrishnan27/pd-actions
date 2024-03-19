@@ -22,6 +22,8 @@ api.github.com:443
 api.github.com:80
 api.security.github.com:443
 api.security.github.com:80
+api.stars.github.com:443
+api.stars.github.com:80
 artblaster.github.com:443
 artblaster.github.com:80
 ask.github.com:443
@@ -418,6 +420,7 @@ osrg.github.com:443
 osrg.github.com:80
 osxfuse.github.com:443
 osxfuse.github.com:80
+out-17.smtp.github.com:25
 out-18.smtp.github.com:25
 out-19.smtp.github.com:25
 out-20.smtp.github.com:25
@@ -457,6 +460,8 @@ realwds.github.com:443
 realwds.github.com:80
 redirect.github.com:443
 redirect.github.com:80
+registry.github.com:443
+registry.github.com:80
 remeniuk.github.com:443
 remeniuk.github.com:80
 remy.github.com:443
@@ -560,10 +565,8 @@ www.render-lab.github.com:443
 www.render-lab.github.com:80
 www.skyline.github.com:443
 www.skyline.github.com:80
-www.visualstudio.github.com:443
-www.visualstudio.github.com:80
-www.ws.support.github.com:443
-www.ws.support.github.com:80
+www.smtp.github.com:443
+www.smtp.github.com:80
 xlcteam.github.com:443
 xlcteam.github.com:80
 yanjingcheng.github.com:443

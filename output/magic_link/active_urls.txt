@@ -67,6 +67,8 @@ http://kbw.magic.link
 http://landing.magic.link
 http://landing.magic.link:8080
 http://links.magic.link
+http://magic.link
+http://magic.link:8080
 http://next-dev.magic.link
 http://next-stage.magic.link
 http://next.dev.magic.link
@@ -145,6 +147,8 @@ https://kbw.magic.link
 https://landing.magic.link
 https://landing.magic.link:8443
 https://links.magic.link
+https://magic.link
+https://magic.link:8443
 https://next-dev.magic.link
 https://next-stage.magic.link
 https://next.dev.magic.link

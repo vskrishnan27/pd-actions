@@ -1,0 +1,296 @@
+[addeventlistener-detect] [http] [info] https://forum.matomo.org
+[addeventlistener-detect] [http] [info] https://matomo.org
+[apache-detect] [http] [info] https://fr.matomo.org [Apache]
+[apache-detect] [http] [info] https://matomo.org [Apache]
+[aws-bucket-service] [http] [info] http://video.matomo.org
+[aws-bucket-service] [http] [info] https://video.matomo.org
+[aws-cloudfront-service] [http] [info] http://fr-staging.matomo.org
+[aws-cloudfront-service] [http] [info] http://fr-staging.matomo.org:443
+[aws-cloudfront-service] [http] [info] http://video.matomo.org
+[aws-cloudfront-service] [http] [info] https://fr.matomo.org
+[aws-cloudfront-service] [http] [info] https://fr.staging.matomo.org
+[aws-cloudfront-service] [http] [info] https://matomo.org
+[aws-cloudfront-service] [http] [info] https://staging.matomo.org
+[aws-cloudfront-service] [http] [info] https://video.matomo.org
+[aws-detect:aws-alb] [http] [info] http://demo-web.matomo.org
+[aws-detect:aws-cloudfront] [http] [info] http://fr-staging.matomo.org
+[aws-detect:aws-cloudfront] [http] [info] http://fr-staging.matomo.org:443
+[aws-detect:aws-cloudfront] [http] [info] http://fr.matomo.org
+[aws-detect:aws-cloudfront] [http] [info] http://fr.staging.matomo.org
+[aws-detect:aws-cloudfront] [http] [info] http://matomo.org
+[aws-detect:aws-cloudfront] [http] [info] http://staging.matomo.org
+[aws-detect:aws-cloudfront] [http] [info] http://video.matomo.org
+[aws-detect:aws-cloudfront] [http] [info] https://fr.matomo.org
+[aws-detect:aws-cloudfront] [http] [info] https://fr.matomo.org/
+[aws-detect:aws-cloudfront] [http] [info] https://fr.staging.matomo.org
+[aws-detect:aws-cloudfront] [http] [info] https://fr.staging.matomo.org/
+[aws-detect:aws-cloudfront] [http] [info] https://matomo.org
+[aws-detect:aws-cloudfront] [http] [info] https://matomo.org/
+[aws-detect:aws-cloudfront] [http] [info] https://staging.matomo.org
+[aws-detect:aws-cloudfront] [http] [info] https://staging.matomo.org/
+[aws-detect:aws-cloudfront] [http] [info] https://video.matomo.org
+[email-extractor] [http] [info] https://matomo.org [email@example.com]
+[external-service-interaction] [http] [info] http://demo-web.matomo.org
+[external-service-interaction] [http] [info] http://forum.matomo.org
+[external-service-interaction] [http] [info] http://survey.matomo.org
+[external-service-interaction] [http] [info] https://cnsoq6n2ff5bovgvhh30a5dqe61ym58qe.oast.site:443/
+[http-missing-security-headers:clear-site-data] [http] [info] http://fr-staging.matomo.org
+[http-missing-security-headers:clear-site-data] [http] [info] http://fr-staging.matomo.org:443
+[http-missing-security-headers:clear-site-data] [http] [info] http://video.matomo.org
+[http-missing-security-headers:clear-site-data] [http] [info] https://demo-web.matomo.org
+[http-missing-security-headers:clear-site-data] [http] [info] https://forum.matomo.org
+[http-missing-security-headers:clear-site-data] [http] [info] https://forum.matomo.org/
+[http-missing-security-headers:clear-site-data] [http] [info] https://fr.matomo.org
+[http-missing-security-headers:clear-site-data] [http] [info] https://fr.matomo.org/
+[http-missing-security-headers:clear-site-data] [http] [info] https://fr.staging.matomo.org
+[http-missing-security-headers:clear-site-data] [http] [info] https://fr.staging.matomo.org/
+[http-missing-security-headers:clear-site-data] [http] [info] https://matomo.org
+[http-missing-security-headers:clear-site-data] [http] [info] https://matomo.org/
+[http-missing-security-headers:clear-site-data] [http] [info] https://staging.matomo.org
+[http-missing-security-headers:clear-site-data] [http] [info] https://staging.matomo.org/
+[http-missing-security-headers:clear-site-data] [http] [info] https://video.matomo.org
+[http-missing-security-headers:content-security-policy] [http] [info] http://fr-staging.matomo.org
+[http-missing-security-headers:content-security-policy] [http] [info] http://fr-staging.matomo.org:443
+[http-missing-security-headers:content-security-policy] [http] [info] http://video.matomo.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://demo-web.matomo.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://fr.staging.matomo.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://fr.staging.matomo.org/
+[http-missing-security-headers:content-security-policy] [http] [info] https://staging.matomo.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://staging.matomo.org/
+[http-missing-security-headers:content-security-policy] [http] [info] https://video.matomo.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://fr-staging.matomo.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://fr-staging.matomo.org:443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://video.matomo.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://demo-web.matomo.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://forum.matomo.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://forum.matomo.org/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://fr.matomo.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://fr.matomo.org/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://fr.staging.matomo.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://fr.staging.matomo.org/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://matomo.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://matomo.org/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://staging.matomo.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://staging.matomo.org/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://video.matomo.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://fr-staging.matomo.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://fr-staging.matomo.org:443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://video.matomo.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://demo-web.matomo.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://fr.matomo.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://fr.matomo.org/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://fr.staging.matomo.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://fr.staging.matomo.org/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://matomo.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://matomo.org/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://staging.matomo.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://staging.matomo.org/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://video.matomo.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://fr-staging.matomo.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://fr-staging.matomo.org:443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://video.matomo.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://demo-web.matomo.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://forum.matomo.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://forum.matomo.org/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://fr.matomo.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://fr.matomo.org/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://fr.staging.matomo.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://fr.staging.matomo.org/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://matomo.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://matomo.org/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://staging.matomo.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://staging.matomo.org/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://video.matomo.org
+[http-missing-security-headers:permissions-policy] [http] [info] http://fr-staging.matomo.org
+[http-missing-security-headers:permissions-policy] [http] [info] http://fr-staging.matomo.org:443
+[http-missing-security-headers:permissions-policy] [http] [info] http://video.matomo.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://demo-web.matomo.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://forum.matomo.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://forum.matomo.org/
+[http-missing-security-headers:permissions-policy] [http] [info] https://fr.staging.matomo.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://fr.staging.matomo.org/
+[http-missing-security-headers:permissions-policy] [http] [info] https://staging.matomo.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://staging.matomo.org/
+[http-missing-security-headers:permissions-policy] [http] [info] https://video.matomo.org
+[http-missing-security-headers:referrer-policy] [http] [info] http://fr-staging.matomo.org
+[http-missing-security-headers:referrer-policy] [http] [info] http://fr-staging.matomo.org:443
+[http-missing-security-headers:referrer-policy] [http] [info] http://video.matomo.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://demo-web.matomo.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://fr.matomo.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://fr.matomo.org/
+[http-missing-security-headers:referrer-policy] [http] [info] https://fr.staging.matomo.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://fr.staging.matomo.org/
+[http-missing-security-headers:referrer-policy] [http] [info] https://matomo.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://matomo.org/
+[http-missing-security-headers:referrer-policy] [http] [info] https://staging.matomo.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://staging.matomo.org/
+[http-missing-security-headers:referrer-policy] [http] [info] https://video.matomo.org
+[http-missing-security-headers:strict-transport-security] [http] [info] http://fr-staging.matomo.org
+[http-missing-security-headers:strict-transport-security] [http] [info] http://fr-staging.matomo.org:443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://video.matomo.org
+[http-missing-security-headers:strict-transport-security] [http] [info] https://demo-web.matomo.org
+[http-missing-security-headers:strict-transport-security] [http] [info] https://forum.matomo.org
+[http-missing-security-headers:strict-transport-security] [http] [info] https://forum.matomo.org/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://fr.staging.matomo.org
+[http-missing-security-headers:strict-transport-security] [http] [info] https://fr.staging.matomo.org/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://staging.matomo.org
+[http-missing-security-headers:strict-transport-security] [http] [info] https://staging.matomo.org/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://video.matomo.org
+[http-missing-security-headers:x-content-type-options] [http] [info] http://fr-staging.matomo.org
+[http-missing-security-headers:x-content-type-options] [http] [info] http://fr-staging.matomo.org:443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://video.matomo.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://demo-web.matomo.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://fr.staging.matomo.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://fr.staging.matomo.org/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://staging.matomo.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://staging.matomo.org/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://video.matomo.org
+[http-missing-security-headers:x-frame-options] [http] [info] http://fr-staging.matomo.org
+[http-missing-security-headers:x-frame-options] [http] [info] http://fr-staging.matomo.org:443
+[http-missing-security-headers:x-frame-options] [http] [info] http://video.matomo.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://demo-web.matomo.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://fr.matomo.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://fr.matomo.org/
+[http-missing-security-headers:x-frame-options] [http] [info] https://fr.staging.matomo.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://fr.staging.matomo.org/
+[http-missing-security-headers:x-frame-options] [http] [info] https://matomo.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://matomo.org/
+[http-missing-security-headers:x-frame-options] [http] [info] https://staging.matomo.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://staging.matomo.org/
+[http-missing-security-headers:x-frame-options] [http] [info] https://video.matomo.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://fr-staging.matomo.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://fr-staging.matomo.org:443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://video.matomo.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://demo-web.matomo.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://fr.matomo.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://fr.matomo.org/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://fr.staging.matomo.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://fr.staging.matomo.org/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://matomo.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://matomo.org/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://staging.matomo.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://staging.matomo.org/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://video.matomo.org
+[matomo-login-portal] [http] [info] https://demo-web.matomo.org
+[metatag-cms] [http] [info] https://fr.matomo.org [WPML ver:4.6.9 stt:1,4;,Elementor 3.19.0; features: e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-internal, google_font-disabled, font_display-auto]
+[metatag-cms] [http] [info] https://fr.matomo.org/ [WPML ver:4.6.9 stt:1,4;,Elementor 3.19.0; features: e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-internal, google_font-disabled, font_display-auto]
+[metatag-cms] [http] [info] https://matomo.org [WPML ver:4.6.9 stt:1,4;,Elementor 3.19.0; features: e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-internal, google_font-disabled, font_display-auto]
+[metatag-cms] [http] [info] https://matomo.org/ [WPML ver:4.6.9 stt:1,4;,Elementor 3.19.0; features: e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-internal, google_font-disabled, font_display-auto]
+[missing-sri] [http] [info] https://fr.matomo.org/ [https://fr.matomo.org/wp-content/cache/min/1/a0bdb7c2789f4967a8ead1744eeaf083.js,https://fr.matomo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://fr.matomo.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://fr.matomo.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1,https://fr.matomo.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef]
+[missing-sri] [http] [info] https://fr.matomo.org/ [https://fr.matomo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://fr.matomo.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://fr.matomo.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1,https://fr.matomo.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef,https://fr.matomo.org/wp-content/cache/min/1/a0bdb7c2789f4967a8ead1744eeaf083.js]
+[missing-sri] [http] [info] https://matomo.org/ [https://matomo.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef,https://matomo.org/wp-content/cache/min/1/7c707397525f1439ffc0811ed3494c92.js,https://matomo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://matomo.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.2,https://matomo.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://matomo.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1]
+[missing-sri] [http] [info] https://matomo.org/ [https://matomo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://matomo.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.2,https://matomo.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://matomo.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1,https://matomo.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef,https://matomo.org/wp-content/cache/min/1/7c707397525f1439ffc0811ed3494c92.js]
+[missing-sri] [http] [info] https://www.zoho.com/survey/ [//www.zohowebstatic.com/sites/zweb/js/common/zohocustom.js,//www.zohowebstatic.com/sites/zweb/js/product/survey.js,//www.zohowebstatic.com/sites/zweb/js/translation/survey/2870.js,//www.zohowebstatic.com/sites/zweb/js/common/var_init.js,//www.zohowebstatic.com/sites/zweb/js/common/zcms.js,//www.zohowebstatic.com/sites/zweb/js/common/slick-plugin.js]
+[missing-sri] [http] [info] https://www.zoho.com/survey/ [//www.zohowebstatic.com/sites/zweb/js/product/survey.js,//www.zohowebstatic.com/sites/zweb/js/translation/survey/2870.js,//www.zohowebstatic.com/sites/zweb/js/common/var_init.js,//www.zohowebstatic.com/sites/zweb/js/common/zcms.js,//www.zohowebstatic.com/sites/zweb/js/common/slick-plugin.js,//www.zohowebstatic.com/sites/zweb/js/common/zohocustom.js]
+[openresty-detect] [http] [info] http://forum.matomo.org [openresty/1.19.9.1]
+[openresty-detect] [http] [info] https://forum.matomo.org
+[options-method] [http] [info] https://survey.matomo.org [GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS]
+[rdap-whois:expirationDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [2026-09-08T02:04:14.81Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [2026-09-08T02:04:14.81Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [2019-09-02T17:30:20.178Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [2019-09-02T17:30:20.178Z]
+[rdap-whois:nameServers] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [ns-516.awsdns-00.net,ns-85.awsdns-10.com,ns-1081.awsdns-07.org,ns-1635.awsdns-12.co.uk]
+[rdap-whois:nameServers] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [ns-85.awsdns-10.com,ns-1081.awsdns-07.org,ns-1635.awsdns-12.co.uk,ns-516.awsdns-00.net]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [FR]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [FR]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [FR]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [FR]
+[rdap-whois:registrationDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [2017-09-08T02:04:14.81Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [2017-09-08T02:04:14.81Z]
+[rdap-whois:secureDNS] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [false]
+[rdap-whois:secureDNS] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [false]
+[rdap-whois:status] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [client delete prohibited,client transfer prohibited]
+[rdap-whois:status] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [client delete prohibited,client transfer prohibited]
+[robots-txt-endpoint] [http] [info] https://demo-web.matomo.org/robots.txt
+[robots-txt-endpoint] [http] [info] https://forum.matomo.org/robots.txt
+[robots-txt-endpoint] [http] [info] https://fr.matomo.org/robots.txt
+[robots-txt-endpoint] [http] [info] https://matomo.org/robots.txt
+[robots-txt-endpoint] [http] [info] https://survey.matomo.org/robots.txt
+[robots-txt] [http] [info] https://demo-web.matomo.org/robots.txt
+[robots-txt] [http] [info] https://forum.matomo.org/robots.txt
+[robots-txt] [http] [info] https://forum.matomo.org/robots.txt
+[robots-txt] [http] [info] https://fr.matomo.org/robots.txt
+[robots-txt] [http] [info] https://fr.matomo.org/robots.txt
+[robots-txt] [http] [info] https://matomo.org/robots.txt
+[robots-txt] [http] [info] https://matomo.org/robots.txt
+[robots-txt] [http] [info] https://survey.matomo.org/robots.txt
+[robots-txt] [http] [info] https://survey.matomo.org/robots.txt
+[s3-detect] [http] [info] http://video.matomo.org/%c0
+[s3-detect] [http] [info] https://video.matomo.org/%c0
+[sitemap-detect] [http] [info] https://forum.matomo.org/sitemap.xml
+[tech-detect:awselb] [http] [info] http://demo-web.matomo.org
+[tech-detect:cloudflare] [http] [info] https://fr.matomo.org
+[tech-detect:cloudflare] [http] [info] https://fr.matomo.org/
+[tech-detect:cloudflare] [http] [info] https://matomo.org
+[tech-detect:cloudflare] [http] [info] https://matomo.org/
+[tech-detect:elementor] [http] [info] https://fr.matomo.org
+[tech-detect:elementor] [http] [info] https://fr.matomo.org/
+[tech-detect:elementor] [http] [info] https://matomo.org
+[tech-detect:elementor] [http] [info] https://matomo.org/
+[tech-detect:font-awesome] [http] [info] https://fr.matomo.org
+[tech-detect:font-awesome] [http] [info] https://fr.matomo.org/
+[tech-detect:font-awesome] [http] [info] https://matomo.org
+[tech-detect:font-awesome] [http] [info] https://matomo.org/
+[tech-detect:gravity-forms] [http] [info] https://matomo.org
+[tech-detect:gravity-forms] [http] [info] https://matomo.org/
+[waf-detect:apachegeneric] [http] [info] https://demo-web.matomo.org/
+[waf-detect:apachegeneric] [http] [info] https://fr.matomo.org/
+[waf-detect:apachegeneric] [http] [info] https://matomo.org/
+[waf-detect:ats] [http] [info] https://forum.matomo.org/
+[waf-detect:ats] [http] [info] https://fr.matomo.org/
+[waf-detect:ats] [http] [info] https://matomo.org/
+[waf-detect:cloudfront] [http] [info] http://fr-staging.matomo.org/
+[waf-detect:cloudfront] [http] [info] http://fr-staging.matomo.org:443/
+[waf-detect:cloudfront] [http] [info] http://fr.matomo.org/
+[waf-detect:cloudfront] [http] [info] http://fr.staging.matomo.org/
+[waf-detect:cloudfront] [http] [info] http://matomo.org/
+[waf-detect:cloudfront] [http] [info] http://staging.matomo.org/
+[waf-detect:cloudfront] [http] [info] http://video.matomo.org/
+[waf-detect:cloudfront] [http] [info] https://fr.matomo.org/
+[waf-detect:cloudfront] [http] [info] https://fr.staging.matomo.org/
+[waf-detect:cloudfront] [http] [info] https://matomo.org/
+[waf-detect:cloudfront] [http] [info] https://staging.matomo.org/
+[waf-detect:cloudfront] [http] [info] https://video.matomo.org/
+[wordpress-advanced-custom-fields:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/advanced-custom-fields/readme.txt [6.2.5] [last_version="6.2.4"]
+[wordpress-advanced-custom-fields:detected_version] [http] [info] https://matomo.org/wp-content/plugins/advanced-custom-fields/readme.txt [6.2.5] [last_version="6.2.4"]
+[wordpress-better-wp-security:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/better-wp-security/readme.txt [9.3.0] [last_version="9.1.0"]
+[wordpress-better-wp-security:detected_version] [http] [info] https://matomo.org/wp-content/plugins/better-wp-security/readme.txt [9.3.0] [last_version="9.1.0"]
+[wordpress-detect] [http] [info] https://fr.matomo.org
+[wordpress-detect] [http] [info] https://fr.matomo.org/
+[wordpress-detect] [http] [info] https://matomo.org
+[wordpress-detect] [http] [info] https://matomo.org/
+[wordpress-duplicate-page:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/duplicate-page/readme.txt [4.5.3] [last_version="4.5.3"]
+[wordpress-duplicate-page:detected_version] [http] [info] https://matomo.org/wp-content/plugins/duplicate-page/readme.txt [4.5.3] [last_version="4.5.3"]
+[wordpress-elementor:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/elementor/readme.txt [3.19.0]
+[wordpress-elementor:detected_version] [http] [info] https://matomo.org/wp-content/plugins/elementor/readme.txt [3.19.0]
+[wordpress-enable-media-replace:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/enable-media-replace/readme.txt [4.1.5] [last_version="4.1.4"]
+[wordpress-enable-media-replace:detected_version] [http] [info] https://matomo.org/wp-content/plugins/enable-media-replace/readme.txt [4.1.5] [last_version="4.1.4"]
+[wordpress-login] [http] [info] https://fr.matomo.org/wp-login.php
+[wordpress-login] [http] [info] https://matomo.org/wp-login.php
+[wordpress-megamenu:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/megamenu/readme.txt [3.2.4] [last_version="3.2.4"]
+[wordpress-megamenu:detected_version] [http] [info] https://matomo.org/wp-content/plugins/megamenu/readme.txt [3.2.4] [last_version="3.2.4"]
+[wordpress-popup-maker:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/popup-maker/readme.txt [1.18.2] [last_version="1.18.2"]
+[wordpress-popup-maker:detected_version] [http] [info] https://matomo.org/wp-content/plugins/popup-maker/readme.txt [1.18.2] [last_version="1.18.2"]
+[wordpress-rdf-user-enum] [http] [info] https://fr.matomo.org/feed/rdf/ [Erin]
+[wordpress-rdf-user-enum] [http] [info] https://fr.matomo.org/feed/rdf/ [Erin]
+[wordpress-rdf-user-enum] [http] [info] https://matomo.org/feed/rdf/ [Erin]
+[wordpress-rdf-user-enum] [http] [info] https://matomo.org/feed/rdf/ [Erin]
+[wordpress-shortpixel-image-optimiser:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/shortpixel-image-optimiser/readme.txt [5.5.4] [last_version="5.5.2"]
+[wordpress-shortpixel-image-optimiser:detected_version] [http] [info] https://matomo.org/wp-content/plugins/shortpixel-image-optimiser/readme.txt [5.5.4] [last_version="5.5.2"]
+[wordpress-ssl-insecure-content-fixer:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/ssl-insecure-content-fixer/readme.txt [2.7.2] [last_version="2.7.2"]
+[wordpress-ssl-insecure-content-fixer:detected_version] [http] [info] https://matomo.org/wp-content/plugins/ssl-insecure-content-fixer/readme.txt [2.7.2] [last_version="2.7.2"]
+[wordpress-sucuri-scanner:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/sucuri-scanner/readme.txt [1.8.41] [last_version="1.8.39"]
+[wordpress-sucuri-scanner:detected_version] [http] [info] https://matomo.org/wp-content/plugins/sucuri-scanner/readme.txt [1.8.41] [last_version="1.8.39"]
+[wordpress-tablepress:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/tablepress/readme.txt [2.2.5] [last_version="2.2.3"]
+[wordpress-tablepress:detected_version] [http] [info] https://matomo.org/wp-content/plugins/tablepress/readme.txt [2.2.5] [last_version="2.2.3"]
+[wordpress-user-role-editor:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/user-role-editor/readme.txt [4.64.1] [last_version="4.64.1"]
+[wordpress-user-role-editor:detected_version] [http] [info] https://matomo.org/wp-content/plugins/user-role-editor/readme.txt [4.64.1] [last_version="4.64.1"]
+[wordpress-wordfence:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/wordfence/readme.txt [7.11.1] [last_version="7.10.7"]
+[wordpress-wordfence:detected_version] [http] [info] https://matomo.org/wp-content/plugins/wordfence/readme.txt [7.11.1] [last_version="7.10.7"]
+[wordpress-wordpress-seo:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/wordpress-seo/readme.txt [21.9.1] [last_version="21.5"]
+[wordpress-wordpress-seo:detected_version] [http] [info] https://matomo.org/wp-content/plugins/wordpress-seo/readme.txt [21.9.1] [last_version="21.5"]
+[wordpress-wp-mail-smtp:detected_version] [http] [info] https://fr.matomo.org/wp-content/plugins/wp-mail-smtp/readme.txt [3.11.1] [last_version="3.10.0"]
+[wordpress-wp-mail-smtp:detected_version] [http] [info] https://matomo.org/wp-content/plugins/wp-mail-smtp/readme.txt [3.11.1] [last_version="3.10.0"]
+[wp-license-file] [http] [info] https://fr.matomo.org/license.txt
+[wp-license-file] [http] [info] https://matomo.org/license.txt
+[xss-deprecated-header] [http] [info] https://survey.matomo.org [1]

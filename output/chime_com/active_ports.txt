@@ -213,7 +213,5 @@ wp-integ.chime.com:8080
 wp-integ.chime.com:8443
 wp-qa.chime.com:443
 wp-qa.chime.com:80
-wp-qa.chime.com:8080
-wp-qa.chime.com:8443
 www.chime.com:443
 www.chime.com:80

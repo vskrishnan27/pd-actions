@@ -22,6 +22,7 @@ http://autobots.chime.com:8443
 http://careers.chime.com
 http://chat.chime.com
 http://chat.chime.com:8080
+http://chat.chime.com:8443
 http://chime.com
 http://datadog-forwarder-nonprod.chime.com
 http://datadog-forwarder.chime.com
@@ -73,6 +74,7 @@ http://links.account.chime.com:8080
 http://links.account.chime.com:8443
 http://links.notify.chime.com
 http://links.notify.chime.com:8080
+http://links.notify.chime.com:8443
 http://locations-qa.chime.com
 http://locations-qa.chime.com:8080
 http://locations-qa.chime.com:8443
@@ -94,6 +96,7 @@ http://monocle-dev1.chime.com:8080
 http://monocle-dev1.chime.com:8443
 http://monocle-qa.chime.com
 http://monocle-qa.chime.com:8080
+http://monocle-qa.chime.com:8443
 http://monocle.chime.com
 http://monocle.chime.com:8080
 http://monocle.chime.com:8443
@@ -137,14 +140,14 @@ http://wp-dev3.chime.com:8080
 http://wp-dev3.chime.com:8443
 http://wp-dev4.chime.com
 http://wp-dev4.chime.com:8080
+http://wp-dev4.chime.com:8443
 http://wp-dev5.chime.com
 http://wp-dev5.chime.com:8080
 http://wp-dev5.chime.com:8443
 http://wp-integ.chime.com
 http://wp-integ.chime.com:8080
+http://wp-integ.chime.com:8443
 http://wp-qa.chime.com
-http://wp-qa.chime.com:8080
-http://wp-qa.chime.com:8443
 http://www.chime.com
 https://16002407.account.chime.com
 https://16002407.notify.chime.com
@@ -155,7 +158,6 @@ https://autobots-qa.chime.com
 https://autobots.chime.com
 https://careers.chime.com
 https://chat.chime.com
-https://chat.chime.com:8443
 https://chime.com
 https://datadog-forwarder-nonprod.chime.com
 https://datadog-forwarder.chime.com
@@ -184,7 +186,6 @@ https://inspector.chime.com
 https://interchange.chime.com
 https://links.account.chime.com
 https://links.notify.chime.com
-https://links.notify.chime.com:8443
 https://locations-qa.chime.com
 https://locations.chime.com
 https://member-dev1.chime.com
@@ -193,7 +194,6 @@ https://member.chime.com
 https://mobile-state.chime.com
 https://monocle-dev1.chime.com
 https://monocle-qa.chime.com
-https://monocle-qa.chime.com:8443
 https://monocle.chime.com
 https://nd.chime.com
 https://penny-dev1.chime.com
@@ -211,9 +211,7 @@ https://wp-dev1.chime.com
 https://wp-dev2.chime.com
 https://wp-dev3.chime.com
 https://wp-dev4.chime.com
-https://wp-dev4.chime.com:8443
 https://wp-dev5.chime.com
 https://wp-integ.chime.com
-https://wp-integ.chime.com:8443
 https://wp-qa.chime.com
 https://www.chime.com

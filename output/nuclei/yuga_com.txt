@@ -1,0 +1,372 @@
+[addeventlistener-detect] [http] [info] http://survey.yuga.com:8080
+[addeventlistener-detect] [http] [info] https://survey.yuga.com:8443
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/yuga.com/v2.0/.well-known/openid-configuration [99cc35a7-6ae5-4fa3-94ed-ddb7b44f3021]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/yuga.com/v2.0/.well-known/openid-configuration [99cc35a7-6ae5-4fa3-94ed-ddb7b44f3021]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/yuga.com/v2.0/.well-known/openid-configuration [99cc35a7-6ae5-4fa3-94ed-ddb7b44f3021]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/yuga.com/v2.0/.well-known/openid-configuration [99cc35a7-6ae5-4fa3-94ed-ddb7b44f3021]
+[email-extractor] [http] [info] https://news.yuga.com [merchsupport@yugalabs.io,support@yugalabs.io,punks@yugalabs.io,helpmeeb@yugalabs.io]
+[email-extractor] [http] [info] https://news.yuga.com:8443 [merchsupport@yugalabs.io,support@yugalabs.io,punks@yugalabs.io,helpmeeb@yugalabs.io]
+[fingerprinthub-web-fingerprints:gitbook] [http] [info] https://news.yuga.com
+[fingerprinthub-web-fingerprints:gitbook] [http] [info] https://news.yuga.com:8443
+[google-floc-disabled] [http] [info] http://support.yuga.com
+[google-floc-disabled] [http] [info] http://support.yuga.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://madeby.yuga.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://support.yuga.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://survey.yuga.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://warning.yuga.com:443
+[http-missing-security-headers:clear-site-data] [http] [info] http://warning.yuga.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://assets.yuga.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://assets.yuga.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://assets.yuga.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://legal.yuga.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://legal.yuga.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://madeby.yuga.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://madeby.yuga.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://news.yuga.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://news.yuga.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://privacy.yuga.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://support.yuga.com/hc/en-us
+[http-missing-security-headers:clear-site-data] [http] [info] https://support.yuga.com/hc/en-us
+[http-missing-security-headers:clear-site-data] [http] [info] https://survey.yuga.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.yuga.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.yuga.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.yuga.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://yuga.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://yuga.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://yuga.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://madeby.yuga.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://support.yuga.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://survey.yuga.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://warning.yuga.com:443
+[http-missing-security-headers:content-security-policy] [http] [info] http://warning.yuga.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://assets.yuga.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://assets.yuga.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://assets.yuga.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://legal.yuga.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://legal.yuga.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://madeby.yuga.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://madeby.yuga.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://news.yuga.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://news.yuga.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://privacy.yuga.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://support.yuga.com/hc/en-us
+[http-missing-security-headers:content-security-policy] [http] [info] https://support.yuga.com/hc/en-us
+[http-missing-security-headers:content-security-policy] [http] [info] https://survey.yuga.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.yuga.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.yuga.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.yuga.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://yuga.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://yuga.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://yuga.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://madeby.yuga.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://support.yuga.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://survey.yuga.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://warning.yuga.com:443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://warning.yuga.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://assets.yuga.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://assets.yuga.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://assets.yuga.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://legal.yuga.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://legal.yuga.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://madeby.yuga.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://madeby.yuga.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://news.yuga.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://news.yuga.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://privacy.yuga.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://survey.yuga.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.yuga.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.yuga.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.yuga.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://yuga.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://yuga.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://yuga.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://madeby.yuga.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://support.yuga.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://survey.yuga.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://warning.yuga.com:443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://warning.yuga.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://assets.yuga.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://assets.yuga.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://assets.yuga.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://legal.yuga.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://legal.yuga.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://madeby.yuga.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://madeby.yuga.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://news.yuga.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://news.yuga.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://privacy.yuga.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://survey.yuga.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.yuga.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.yuga.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.yuga.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://yuga.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://yuga.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://yuga.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://madeby.yuga.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://support.yuga.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://survey.yuga.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://warning.yuga.com:443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://warning.yuga.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://assets.yuga.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://assets.yuga.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://assets.yuga.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://legal.yuga.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://legal.yuga.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://madeby.yuga.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://madeby.yuga.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://news.yuga.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://news.yuga.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://privacy.yuga.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://survey.yuga.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.yuga.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.yuga.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.yuga.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://yuga.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://yuga.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://yuga.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://madeby.yuga.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://support.yuga.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://survey.yuga.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://warning.yuga.com:443
+[http-missing-security-headers:permissions-policy] [http] [info] http://warning.yuga.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://assets.yuga.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://assets.yuga.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://assets.yuga.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://legal.yuga.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://legal.yuga.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://madeby.yuga.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://madeby.yuga.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://news.yuga.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://news.yuga.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://privacy.yuga.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://survey.yuga.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.yuga.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.yuga.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.yuga.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://yuga.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://yuga.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://yuga.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://madeby.yuga.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://support.yuga.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://warning.yuga.com:443
+[http-missing-security-headers:referrer-policy] [http] [info] http://warning.yuga.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] https://assets.yuga.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://assets.yuga.com/
+[http-missing-security-headers:referrer-policy] [http] [info] https://assets.yuga.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] https://madeby.yuga.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://madeby.yuga.com/
+[http-missing-security-headers:strict-transport-security] [http] [info] http://madeby.yuga.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://support.yuga.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://survey.yuga.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://warning.yuga.com:443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://warning.yuga.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://assets.yuga.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://assets.yuga.com/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://assets.yuga.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://legal.yuga.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://legal.yuga.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://madeby.yuga.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://madeby.yuga.com/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://news.yuga.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://news.yuga.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://privacy.yuga.com/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://support.yuga.com/hc/en-us
+[http-missing-security-headers:strict-transport-security] [http] [info] https://support.yuga.com/hc/en-us
+[http-missing-security-headers:strict-transport-security] [http] [info] https://survey.yuga.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.yuga.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.yuga.com/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.yuga.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://yuga.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://yuga.com/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://yuga.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://madeby.yuga.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://support.yuga.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://survey.yuga.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://warning.yuga.com:443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://warning.yuga.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://assets.yuga.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://assets.yuga.com/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://assets.yuga.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://legal.yuga.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://legal.yuga.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://madeby.yuga.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://madeby.yuga.com/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://privacy.yuga.com/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://support.yuga.com/hc/en-us
+[http-missing-security-headers:x-content-type-options] [http] [info] https://support.yuga.com/hc/en-us
+[http-missing-security-headers:x-content-type-options] [http] [info] https://survey.yuga.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://madeby.yuga.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://support.yuga.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://warning.yuga.com:443
+[http-missing-security-headers:x-frame-options] [http] [info] http://warning.yuga.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] https://assets.yuga.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://assets.yuga.com/
+[http-missing-security-headers:x-frame-options] [http] [info] https://assets.yuga.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] https://legal.yuga.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://legal.yuga.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] https://privacy.yuga.com/
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.yuga.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.yuga.com/
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.yuga.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] https://yuga.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://yuga.com/
+[http-missing-security-headers:x-frame-options] [http] [info] https://yuga.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://madeby.yuga.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://support.yuga.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://survey.yuga.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://warning.yuga.com:443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://warning.yuga.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://assets.yuga.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://assets.yuga.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://assets.yuga.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://legal.yuga.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://legal.yuga.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://madeby.yuga.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://madeby.yuga.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://news.yuga.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://news.yuga.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://privacy.yuga.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://support.yuga.com/hc/en-us
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://support.yuga.com/hc/en-us
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://survey.yuga.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.yuga.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.yuga.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.yuga.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://yuga.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://yuga.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://yuga.com:8443
+[missing-sri] [http] [info] https://news.yuga.com/ [https://static.cloudflareinsights.com/beacon.min.js]
+[missing-sri] [http] [info] https://news.yuga.com/ [https://static.cloudflareinsights.com/beacon.min.js]
+[missing-sri] [http] [info] https://news.yuga.com/ [https://static.cloudflareinsights.com/beacon.min.js]
+[missing-sri] [http] [info] https://news.yuga.com:8443/ [https://static.cloudflareinsights.com/beacon.min.js]
+[missing-sri] [http] [info] https://www.yuga.com/ [https://plausible.io/js/plausible.js,https://privacy.yuga.com/nudge.js,https://static.cloudflareinsights.com/beacon.min.js]
+[missing-sri] [http] [info] https://www.yuga.com/ [https://plausible.io/js/plausible.js,https://privacy.yuga.com/nudge.js,https://static.cloudflareinsights.com/beacon.min.js]
+[missing-sri] [http] [info] https://www.yuga.com/ [https://plausible.io/js/plausible.js,https://privacy.yuga.com/nudge.js,https://static.cloudflareinsights.com/beacon.min.js]
+[missing-sri] [http] [info] https://www.yuga.com:8443/ [https://plausible.io/js/plausible.js,https://privacy.yuga.com/nudge.js,https://static.cloudflareinsights.com/beacon.min.js]
+[missing-sri] [http] [info] https://yuga.com/ [https://plausible.io/js/plausible.js,https://privacy.yuga.com/nudge.js,https://static.cloudflareinsights.com/beacon.min.js]
+[missing-sri] [http] [info] https://yuga.com/ [https://static.cloudflareinsights.com/beacon.min.js,https://plausible.io/js/plausible.js,https://privacy.yuga.com/nudge.js]
+[missing-sri] [http] [info] https://yuga.com:8443/ [https://plausible.io/js/plausible.js,https://privacy.yuga.com/nudge.js,https://static.cloudflareinsights.com/beacon.min.js]
+[options-method] [http] [info] https://assets.yuga.com [GET]
+[options-method] [http] [info] https://assets.yuga.com:8443 [GET]
+[options-method] [http] [info] https://madeby.yuga.com [GET, HEAD]
+[options-method] [http] [info] https://survey.yuga.com [GET,HEAD]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2025-02-28T01:29:54Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2025-02-28T01:29:54Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2025-02-28T01:29:54Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2025-02-28T01:29:54Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2023-08-29T04:20:46Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2023-08-29T04:20:46Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2023-08-29T04:20:46Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2023-08-29T04:20:46Z]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [POPPY.NS.CLOUDFLARE.COM,RAJEEV.NS.CLOUDFLARE.COM]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [POPPY.NS.CLOUDFLARE.COM,RAJEEV.NS.CLOUDFLARE.COM]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [POPPY.NS.CLOUDFLARE.COM,RAJEEV.NS.CLOUDFLARE.COM]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [POPPY.NS.CLOUDFLARE.COM,RAJEEV.NS.CLOUDFLARE.COM]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2000-02-28T01:29:54Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2000-02-28T01:29:54Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2000-02-28T01:29:54Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [2000-02-28T01:29:54Z]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [true]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [true]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [true]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [true]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [client delete prohibited,client transfer prohibited,client update prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [client delete prohibited,client transfer prohibited,client update prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [client delete prohibited,client transfer prohibited,client update prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/yuga.com [client update prohibited,client delete prohibited,client transfer prohibited]
+[readme-md] [http] [info] https://www.yuga.com/README.md
+[readme-md] [http] [info] https://www.yuga.com:8443/README.md
+[readme-md] [http] [info] https://yuga.com:8443/README.md
+[robots-txt-endpoint] [http] [info] https://madeby.yuga.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://support.yuga.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://www.yuga.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://www.yuga.com:8443/robots.txt
+[robots-txt-endpoint] [http] [info] https://yuga.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://yuga.com:8443/robots.txt
+[robots-txt] [http] [info] https://support.yuga.com/robots.txt
+[robots-txt] [http] [info] https://support.yuga.com/robots.txt
+[tech-detect:cloudflare] [http] [info] http://assets.yuga.com
+[tech-detect:cloudflare] [http] [info] http://assets.yuga.com:8080
+[tech-detect:cloudflare] [http] [info] http://legal.yuga.com:8080
+[tech-detect:cloudflare] [http] [info] http://madeby.yuga.com:8080
+[tech-detect:cloudflare] [http] [info] http://madeby.yuga.com:8443
+[tech-detect:cloudflare] [http] [info] http://news.yuga.com:8080
+[tech-detect:cloudflare] [http] [info] http://privacy.yuga.com:8080
+[tech-detect:cloudflare] [http] [info] http://support.yuga.com
+[tech-detect:cloudflare] [http] [info] http://support.yuga.com:8080
+[tech-detect:cloudflare] [http] [info] http://support.yuga.com:8443
+[tech-detect:cloudflare] [http] [info] http://survey.yuga.com
+[tech-detect:cloudflare] [http] [info] http://survey.yuga.com:8080
+[tech-detect:cloudflare] [http] [info] http://warning.yuga.com:443
+[tech-detect:cloudflare] [http] [info] http://warning.yuga.com:8080
+[tech-detect:cloudflare] [http] [info] http://warning.yuga.com:8443
+[tech-detect:cloudflare] [http] [info] http://www.yuga.com
+[tech-detect:cloudflare] [http] [info] http://www.yuga.com:8080
+[tech-detect:cloudflare] [http] [info] http://yuga.com
+[tech-detect:cloudflare] [http] [info] http://yuga.com:8080
+[tech-detect:cloudflare] [http] [info] https://assets.yuga.com
+[tech-detect:cloudflare] [http] [info] https://assets.yuga.com/
+[tech-detect:cloudflare] [http] [info] https://assets.yuga.com:8443
+[tech-detect:cloudflare] [http] [info] https://legal.yuga.com
+[tech-detect:cloudflare] [http] [info] https://madeby.yuga.com
+[tech-detect:cloudflare] [http] [info] https://news.yuga.com
+[tech-detect:cloudflare] [http] [info] https://news.yuga.com:8443
+[tech-detect:cloudflare] [http] [info] https://privacy.yuga.com
+[tech-detect:cloudflare] [http] [info] https://support.yuga.com
+[tech-detect:cloudflare] [http] [info] https://support.yuga.com/
+[tech-detect:cloudflare] [http] [info] https://support.yuga.com/hc
+[tech-detect:cloudflare] [http] [info] https://support.yuga.com/hc
+[tech-detect:cloudflare] [http] [info] https://support.yuga.com/hc/en-us
+[tech-detect:cloudflare] [http] [info] https://survey.yuga.com
+[tech-detect:cloudflare] [http] [info] https://survey.yuga.com/
+[tech-detect:cloudflare] [http] [info] https://survey.yuga.com:8443
+[tech-detect:cloudflare] [http] [info] https://www.yuga.com
+[tech-detect:cloudflare] [http] [info] https://www.yuga.com/
+[tech-detect:cloudflare] [http] [info] https://www.yuga.com:8443
+[tech-detect:cloudflare] [http] [info] https://yuga.com
+[tech-detect:cloudflare] [http] [info] https://yuga.com/
+[tech-detect:cloudflare] [http] [info] https://yuga.com:8443
+[tech-detect:next.js] [http] [info] https://madeby.yuga.com
+[tech-detect:next.js] [http] [info] https://news.yuga.com
+[tech-detect:next.js] [http] [info] https://news.yuga.com:8443
+[tech-detect:nuxt.js] [http] [info] https://www.yuga.com
+[tech-detect:nuxt.js] [http] [info] https://www.yuga.com/
+[tech-detect:nuxt.js] [http] [info] https://www.yuga.com:8443
+[tech-detect:nuxt.js] [http] [info] https://yuga.com
+[tech-detect:nuxt.js] [http] [info] https://yuga.com/
+[tech-detect:nuxt.js] [http] [info] https://yuga.com:8443
+[waf-detect:cloudflare] [http] [info] http://assets.yuga.com:8080/
+[waf-detect:cloudflare] [http] [info] http://legal.yuga.com/
+[waf-detect:cloudflare] [http] [info] http://madeby.yuga.com/
+[waf-detect:cloudflare] [http] [info] http://madeby.yuga.com:8080/
+[waf-detect:cloudflare] [http] [info] http://news.yuga.com/
+[waf-detect:cloudflare] [http] [info] http://news.yuga.com:8080/
+[waf-detect:cloudflare] [http] [info] http://privacy.yuga.com/
+[waf-detect:cloudflare] [http] [info] http://privacy.yuga.com:8080/
+[waf-detect:cloudflare] [http] [info] http://support.yuga.com/
+[waf-detect:cloudflare] [http] [info] http://support.yuga.com:8080/
+[waf-detect:cloudflare] [http] [info] http://support.yuga.com:8443/
+[waf-detect:cloudflare] [http] [info] http://survey.yuga.com/
+[waf-detect:cloudflare] [http] [info] http://survey.yuga.com:8080/
+[waf-detect:cloudflare] [http] [info] http://warning.yuga.com/
+[waf-detect:cloudflare] [http] [info] http://warning.yuga.com:443/
+[waf-detect:cloudflare] [http] [info] http://warning.yuga.com:8080/
+[waf-detect:cloudflare] [http] [info] http://www.yuga.com/
+[waf-detect:cloudflare] [http] [info] http://www.yuga.com:8080/
+[waf-detect:cloudflare] [http] [info] http://yuga.com/
+[waf-detect:cloudflare] [http] [info] http://yuga.com:8080/
+[waf-detect:cloudflare] [http] [info] https://assets.yuga.com/
+[waf-detect:cloudflare] [http] [info] https://legal.yuga.com/
+[waf-detect:cloudflare] [http] [info] https://legal.yuga.com:8443/
+[waf-detect:cloudflare] [http] [info] https://madeby.yuga.com/
+[waf-detect:cloudflare] [http] [info] https://news.yuga.com/
+[waf-detect:cloudflare] [http] [info] https://privacy.yuga.com:8443/
+[waf-detect:cloudflare] [http] [info] https://support.yuga.com/
+[waf-detect:cloudflare] [http] [info] https://survey.yuga.com/
+[waf-detect:cloudflare] [http] [info] https://survey.yuga.com:8443/
+[waf-detect:cloudflare] [http] [info] https://www.yuga.com/
+[waf-detect:cloudflare] [http] [info] https://www.yuga.com:8443/
+[waf-detect:cloudflare] [http] [info] https://yuga.com/
+[waf-detect:cloudflare] [http] [info] https://yuga.com:8443/
+[waf-detect:securesphere] [http] [info] https://survey.yuga.com/
+[xss-deprecated-header] [http] [info] https://survey.yuga.com [1; mode=block]

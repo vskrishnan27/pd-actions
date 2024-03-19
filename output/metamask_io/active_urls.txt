@@ -73,7 +73,6 @@ http://bridge.uat-api.cx.metamask.io:8080
 http://bridge.uat-api.cx.metamask.io:8443
 http://community.metamask.io
 http://dev-static.cx.metamask.io
-http://dev.data.snaps.metamask.io
 http://dev.execution.metamask.io
 http://dev.portfolio.metamask.io
 http://docs.cx.metamask.io
@@ -101,6 +100,7 @@ http://gas-us-east-2.uat-api.cx.metamask.io:8080
 http://gas-us-east-2.uat-api.cx.metamask.io:8443
 http://gas.api.cx.metamask.io
 http://gas.api.cx.metamask.io:8080
+http://gas.api.cx.metamask.io:8443
 http://gas.dev-api.cx.metamask.io
 http://gas.dev-api.cx.metamask.io:8080
 http://gas.dev-api.cx.metamask.io:8443
@@ -121,7 +121,6 @@ http://learn.metamask.io
 http://metabase.activity.metamask.io
 http://metabase.activity.metamask.io:8080
 http://metabase.activity.metamask.io:8443
-http://metamask.io
 http://mobile.metamask.io
 http://mobile.metamask.io:8080
 http://my-sample-api2-us-east-2.dev-api.cx.metamask.io
@@ -346,6 +345,7 @@ http://trigger.uat-api.cx.metamask.io:8443
 http://uat-static.cx.metamask.io
 http://user-storage-us-east-2.api.cx.metamask.io
 http://user-storage-us-east-2.api.cx.metamask.io:8080
+http://user-storage-us-east-2.api.cx.metamask.io:8443
 http://user-storage-us-east-2.dev-api.cx.metamask.io
 http://user-storage-us-east-2.dev-api.cx.metamask.io:8080
 http://user-storage-us-east-2.dev-api.cx.metamask.io:8443
@@ -397,7 +397,6 @@ https://bridge.dev-api.cx.metamask.io
 https://bridge.uat-api.cx.metamask.io
 https://community.metamask.io
 https://dev-static.cx.metamask.io
-https://dev.data.snaps.metamask.io
 https://dev.execution.metamask.io
 https://dev.portfolio.metamask.io
 https://docs.cx.metamask.io
@@ -412,7 +411,6 @@ https://gas-us-east-2.api.cx.metamask.io
 https://gas-us-east-2.dev-api.cx.metamask.io
 https://gas-us-east-2.uat-api.cx.metamask.io
 https://gas.api.cx.metamask.io
-https://gas.api.cx.metamask.io:8443
 https://gas.dev-api.cx.metamask.io
 https://gas.uat-api.cx.metamask.io
 https://get.metamask.io
@@ -422,7 +420,6 @@ https://labels-us-east-2.dev-api.cx.metamask.io
 https://labels.dev-api.cx.metamask.io
 https://learn.metamask.io
 https://metabase.activity.metamask.io
-https://metamask.io
 https://mobile.metamask.io
 https://mobile.metamask.io:8443
 https://my-sample-api2-us-east-2.dev-api.cx.metamask.io
@@ -506,7 +503,6 @@ https://trigger.dev-api.cx.metamask.io
 https://trigger.uat-api.cx.metamask.io
 https://uat-static.cx.metamask.io
 https://user-storage-us-east-2.api.cx.metamask.io
-https://user-storage-us-east-2.api.cx.metamask.io:8443
 https://user-storage-us-east-2.dev-api.cx.metamask.io
 https://user-storage-us-east-2.uat-api.cx.metamask.io
 https://user-storage.api.cx.metamask.io

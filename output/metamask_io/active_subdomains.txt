@@ -26,7 +26,6 @@ bridge.dev-api.cx.metamask.io
 bridge.uat-api.cx.metamask.io
 community.metamask.io
 dev-static.cx.metamask.io
-dev.data.snaps.metamask.io
 dev.execution.metamask.io
 dev.portfolio.metamask.io
 dnssec-test.metamask.io

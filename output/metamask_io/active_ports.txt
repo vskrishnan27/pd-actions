@@ -102,8 +102,6 @@ community.metamask.io:443
 community.metamask.io:80
 dev-static.cx.metamask.io:443
 dev-static.cx.metamask.io:80
-dev.data.snaps.metamask.io:443
-dev.data.snaps.metamask.io:80
 dev.execution.metamask.io:443
 dev.execution.metamask.io:80
 dev.portfolio.metamask.io:443
@@ -176,8 +174,6 @@ metabase.activity.metamask.io:443
 metabase.activity.metamask.io:80
 metabase.activity.metamask.io:8080
 metabase.activity.metamask.io:8443
-metamask.io:443
-metamask.io:80
 mobile.metamask.io:443
 mobile.metamask.io:80
 mobile.metamask.io:8080

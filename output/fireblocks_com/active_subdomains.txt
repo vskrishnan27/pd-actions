@@ -19,5 +19,4 @@ status.fireblocks.com
 survey.fireblocks.com
 tabsrvprod.fireblocks.com
 tabsrvtst.fireblocks.com
-tracking.fireblocks.com
 www.fireblocks.com

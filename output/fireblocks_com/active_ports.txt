@@ -41,8 +41,6 @@ status.fireblocks.com:443
 status.fireblocks.com:80
 survey.fireblocks.com:443
 survey.fireblocks.com:80
-tracking.fireblocks.com:443
-tracking.fireblocks.com:80
 www.fireblocks.com:443
 www.fireblocks.com:80
 www.fireblocks.com:8080

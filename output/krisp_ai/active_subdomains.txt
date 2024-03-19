@@ -6,7 +6,6 @@ api.prelive.krisp.ai
 app.krisp.ai
 bid47kc.4042051m.krisp.ai
 cdn.krisp.ai
-contact.krisp.ai
 dev.account.krisp.ai
 dev.api.krisp.ai
 dev.app.krisp.ai

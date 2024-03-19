@@ -1,4 +1,3 @@
-nintendolife.com
 devkit-ecomm.noa.nintendo.com
 shopify.com
 iovlabs.org
@@ -80,3 +79,4 @@ okx.com
 matomo.org
 fireblocks.com
 nintendo.com
+nintendolife.com

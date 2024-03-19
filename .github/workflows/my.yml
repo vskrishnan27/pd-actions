@@ -168,7 +168,7 @@ jobs:
 
       - name: Running Nuclei for vulnerability assessment
         run: | 
-          nuclei -t /http -t cves/ -l ${{ env.folder_path }}/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee output/nuclei/${{ env.domain_name }}.txt
+          nuclei -t http/ -l ${{ env.folder_path }}/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee output/nuclei/${{ env.domain_name }}.txt
         shell: bash
 
       - name: Notify CVE details 

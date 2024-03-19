@@ -1,0 +1,49 @@
+[google-floc-disabled] [http] [info] http://www.coinspot.com.au
+[google-floc-disabled] [http] [info] http://www.coinspot.com.au:8080
+[google-floc-disabled] [http] [info] https://www.coinspot.com.au
+[http-missing-security-headers:clear-site-data] [http] [info] http://www.coinspot.com.au
+[http-missing-security-headers:clear-site-data] [http] [info] http://www.coinspot.com.au:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.coinspot.com.au
+[http-missing-security-headers:content-security-policy] [http] [info] http://www.coinspot.com.au
+[http-missing-security-headers:content-security-policy] [http] [info] http://www.coinspot.com.au:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.coinspot.com.au
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://www.coinspot.com.au:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://www.coinspot.com.au:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://www.coinspot.com.au:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://www.coinspot.com.au:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://www.coinspot.com.au:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://www.coinspot.com.au
+[http-missing-security-headers:strict-transport-security] [http] [info] http://www.coinspot.com.au:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.coinspot.com.au
+[http-missing-security-headers:x-content-type-options] [http] [info] http://www.coinspot.com.au
+[http-missing-security-headers:x-content-type-options] [http] [info] http://www.coinspot.com.au:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.coinspot.com.au
+[http-missing-security-headers:x-frame-options] [http] [info] http://www.coinspot.com.au:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://www.coinspot.com.au
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://www.coinspot.com.au:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.coinspot.com.au
+[robots-txt-endpoint] [http] [info] https://www.coinspot.com.au/robots.txt
+[security-txt] [http] [info] https://www.coinspot.com.au/.well-known/security.txt [ https://hackerone.com/coinspot, mailto:support@coinspot.com.au]
+[security-txt] [http] [info] https://www.coinspot.com.au/.well-known/security.txt [ mailto:support@coinspot.com.au, https://hackerone.com/coinspot]
+[security-txt] [http] [info] https://www.coinspot.com.au/.well-known/security.txt [ mailto:support@coinspot.com.au, https://hackerone.com/coinspot]
+[security-txt] [http] [info] https://www.coinspot.com.au/.well-known/security.txt [ mailto:support@coinspot.com.au, https://hackerone.com/coinspot]
+[security-txt] [http] [info] https://www.coinspot.com.au/.well-known/security.txt [ mailto:support@coinspot.com.au, https://hackerone.com/coinspot]
+[security-txt] [http] [info] https://www.coinspot.com.au/.well-known/security.txt [ mailto:support@coinspot.com.au, https://hackerone.com/coinspot]
+[security-txt] [http] [info] https://www.coinspot.com.au/.well-known/security.txt [ mailto:support@coinspot.com.au, https://hackerone.com/coinspot]
+[tech-detect:cloudflare] [http] [info] http://coinspot.com.au
+[tech-detect:cloudflare] [http] [info] http://coinspot.com.au:8080
+[tech-detect:cloudflare] [http] [info] http://www.coinspot.com.au
+[tech-detect:cloudflare] [http] [info] http://www.coinspot.com.au:8080
+[tech-detect:cloudflare] [http] [info] http://www.coinspot.com.au:8443
+[tech-detect:cloudflare] [http] [info] https://coinspot.com.au
+[tech-detect:cloudflare] [http] [info] https://coinspot.com.au/
+[tech-detect:cloudflare] [http] [info] https://coinspot.com.au:8443
+[tech-detect:cloudflare] [http] [info] https://www.coinspot.com.au
+[waf-detect:cloudflare] [http] [info] http://coinspot.com.au/
+[waf-detect:cloudflare] [http] [info] http://coinspot.com.au:8080/
+[waf-detect:cloudflare] [http] [info] http://www.coinspot.com.au/
+[waf-detect:cloudflare] [http] [info] http://www.coinspot.com.au:8080/
+[waf-detect:cloudflare] [http] [info] http://www.coinspot.com.au:8443/
+[waf-detect:cloudflare] [http] [info] https://coinspot.com.au/
+[waf-detect:cloudflare] [http] [info] https://coinspot.com.au:8443/
+[waf-detect:cloudflare] [http] [info] https://www.coinspot.com.au/

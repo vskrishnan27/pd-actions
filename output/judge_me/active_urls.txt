@@ -11,6 +11,7 @@ http://checkout.judge.me:8443
 http://events.judge.me
 http://feedback.judge.me
 http://feedback.judge.me:8080
+http://feedback.judge.me:8443
 http://help.judge.me
 http://help.judge.me:8080
 http://help.judge.me:8443
@@ -36,7 +37,6 @@ https://cdn1.judge.me
 https://checkout.judge.me
 https://events.judge.me
 https://feedback.judge.me
-https://feedback.judge.me:8443
 https://help.judge.me
 https://images.judge.me
 https://judge.me

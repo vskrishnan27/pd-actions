@@ -242,6 +242,8 @@ carvir.freshworks.com:443
 carvir.freshworks.com:80
 cayan.freshworks.com:443
 cayan.freshworks.com:80
+centrixone.freshworks.com:443
+centrixone.freshworks.com:80
 ceressolutionscoop.freshworks.com:443
 ceressolutionscoop.freshworks.com:80
 changemakers.freshworks.com:443
@@ -390,6 +392,8 @@ freshbilling.ubx-au.freshworks.com:443
 freshbilling.ubx-au.freshworks.com:80
 freshbilling.ubx-eu.freshworks.com:443
 freshbilling.ubx-eu.freshworks.com:80
+freshbilling.ubx-euw.freshworks.com:443
+freshbilling.ubx-euw.freshworks.com:80
 freshbilling.ubx-in.freshworks.com:443
 freshbilling.ubx-in.freshworks.com:80
 freshbilling.ubx-mec.freshworks.com:443
@@ -400,6 +404,8 @@ freshsales.ubx-au.freshworks.com:443
 freshsales.ubx-au.freshworks.com:80
 freshsales.ubx-eu.freshworks.com:443
 freshsales.ubx-eu.freshworks.com:80
+freshsales.ubx-euw.freshworks.com:443
+freshsales.ubx-euw.freshworks.com:80
 freshsales.ubx-in.freshworks.com:443
 freshsales.ubx-in.freshworks.com:80
 freshsales.ubx-mec.freshworks.com:443
@@ -483,6 +489,8 @@ imperativechemicalshelp.freshworks.com:443
 imperativechemicalshelp.freshworks.com:80
 in.accounts.freshworks.com:443
 in.accounts.freshworks.com:80
+in.freshworks.com:443
+in.freshworks.com:80
 ind-widget.freshworks.com:443
 ind-widget.freshworks.com:80
 indexer.freshworks.com:443
@@ -526,6 +534,10 @@ lighthouse.freshworks.com:443
 lighthouse.freshworks.com:80
 loupentecnologia.freshworks.com:443
 loupentecnologia.freshworks.com:80
+lovys-org.freshworks.com:443
+lovys-org.freshworks.com:80
+lowassociates.freshworks.com:443
+lowassociates.freshworks.com:80
 lucida.freshworks.com:443
 lucida.freshworks.com:80
 lumapix.freshworks.com:443
@@ -686,6 +698,8 @@ supremeone.ubx-au.freshworks.com:443
 supremeone.ubx-au.freshworks.com:80
 supremeone.ubx-eu.freshworks.com:443
 supremeone.ubx-eu.freshworks.com:80
+supremeone.ubx-euw.freshworks.com:443
+supremeone.ubx-euw.freshworks.com:80
 supremeone.ubx-in.freshworks.com:443
 supremeone.ubx-in.freshworks.com:80
 supremeone.ubx-mec.freshworks.com:443
@@ -724,6 +738,8 @@ trust.internal.freshworks.com:443
 trust.internal.freshworks.com:80
 ubx-au.freshworks.com:443
 ubx-au.freshworks.com:80
+ubx-euw.freshworks.com:443
+ubx-euw.freshworks.com:80
 ubx-in.freshworks.com:443
 ubx-in.freshworks.com:80
 ubx-mec.freshworks.com:443

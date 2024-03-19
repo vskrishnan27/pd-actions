@@ -69,6 +69,7 @@ careers.freshworks.com
 carltononeengagement.freshworks.com
 carvir.freshworks.com
 cayan.freshworks.com
+centrixone.freshworks.com
 ceressolutionscoop.freshworks.com
 changemakers.freshworks.com
 ciss.freshworks.com
@@ -220,6 +221,8 @@ lampemesterendk.freshworks.com
 learning.freshworks.com
 lighthouse.freshworks.com
 loupentecnologia.freshworks.com
+lovys-org.freshworks.com
+lowassociates.freshworks.com
 lucida.freshworks.com
 lumapix.freshworks.com
 macombcountygovernment-org.freshworks.com

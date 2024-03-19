@@ -68,6 +68,7 @@ http://careers.freshworks.com
 http://carltononeengagement.freshworks.com
 http://carvir.freshworks.com
 http://cayan.freshworks.com
+http://centrixone.freshworks.com
 http://ceressolutionscoop.freshworks.com
 http://changemakers.freshworks.com
 http://ciss.freshworks.com
@@ -142,11 +143,13 @@ http://fortepayments.freshworks.com
 http://foursquare.freshworks.com
 http://freshbilling.ubx-au.freshworks.com
 http://freshbilling.ubx-eu.freshworks.com
+http://freshbilling.ubx-euw.freshworks.com
 http://freshbilling.ubx-in.freshworks.com
 http://freshbilling.ubx-mec.freshworks.com
 http://freshbilling.ubx.freshworks.com
 http://freshsales.ubx-au.freshworks.com
 http://freshsales.ubx-eu.freshworks.com
+http://freshsales.ubx-euw.freshworks.com
 http://freshsales.ubx-in.freshworks.com
 http://freshsales.ubx-mec.freshworks.com
 http://freshsales.ubx.freshworks.com
@@ -188,6 +191,7 @@ http://huboo.freshworks.com
 http://iemanet.freshworks.com
 http://imperativechemicalshelp.freshworks.com
 http://in.accounts.freshworks.com
+http://in.freshworks.com
 http://ind-widget.freshworks.com
 http://indexer.freshworks.com
 http://ingeniacommunities.freshworks.com
@@ -195,7 +199,6 @@ http://inloox.freshworks.com
 http://intango.freshworks.com
 http://internalreferral.freshworks.com
 http://intuitionpublishingltd.freshworks.com
-http://investor.freshworks.com
 http://invohealthcare.freshworks.com
 http://istonline.freshworks.com
 http://jacoinchelp.freshworks.com
@@ -209,6 +212,8 @@ http://learning.freshworks.com
 http://learning.freshworks.com:443
 http://lighthouse.freshworks.com
 http://loupentecnologia.freshworks.com
+http://lovys-org.freshworks.com
+http://lowassociates.freshworks.com
 http://lucida.freshworks.com
 http://lucida.freshworks.com:443
 http://lumapix.freshworks.com
@@ -289,6 +294,7 @@ http://studios-team.freshworks.com
 http://support.freshworks.com
 http://supremeone.ubx-au.freshworks.com
 http://supremeone.ubx-eu.freshworks.com
+http://supremeone.ubx-euw.freshworks.com
 http://supremeone.ubx-in.freshworks.com
 http://supremeone.ubx-mec.freshworks.com
 http://supremeone.ubx.freshworks.com
@@ -308,6 +314,7 @@ http://toyotacf.freshworks.com
 http://trust.freshworks.com
 http://trust.internal.freshworks.com
 http://ubx-au.freshworks.com
+http://ubx-euw.freshworks.com
 http://ubx-in.freshworks.com
 http://ubx-mec.freshworks.com
 http://ubx.freshworks.com
@@ -433,6 +440,7 @@ https://careers.freshworks.com
 https://carltononeengagement.freshworks.com
 https://carvir.freshworks.com
 https://cayan.freshworks.com
+https://centrixone.freshworks.com
 https://ceressolutionscoop.freshworks.com
 https://changemakers.freshworks.com
 https://ciss.freshworks.com
@@ -507,11 +515,13 @@ https://fortepayments.freshworks.com
 https://foursquare.freshworks.com
 https://freshbilling.ubx-au.freshworks.com
 https://freshbilling.ubx-eu.freshworks.com
+https://freshbilling.ubx-euw.freshworks.com
 https://freshbilling.ubx-in.freshworks.com
 https://freshbilling.ubx-mec.freshworks.com
 https://freshbilling.ubx.freshworks.com
 https://freshsales.ubx-au.freshworks.com
 https://freshsales.ubx-eu.freshworks.com
+https://freshsales.ubx-euw.freshworks.com
 https://freshsales.ubx-in.freshworks.com
 https://freshsales.ubx-mec.freshworks.com
 https://freshsales.ubx.freshworks.com
@@ -554,6 +564,7 @@ https://huboo.freshworks.com
 https://iemanet.freshworks.com
 https://imperativechemicalshelp.freshworks.com
 https://in.accounts.freshworks.com
+https://in.freshworks.com
 https://ind-widget.freshworks.com
 https://indexer.freshworks.com
 https://ingeniacommunities.freshworks.com
@@ -573,6 +584,8 @@ https://kusd.freshworks.com
 https://lampemesterendk.freshworks.com
 https://lighthouse.freshworks.com
 https://loupentecnologia.freshworks.com
+https://lovys-org.freshworks.com
+https://lowassociates.freshworks.com
 https://lumapix.freshworks.com
 https://macombcountygovernment-org.freshworks.com
 https://mancosa.freshworks.com
@@ -652,6 +665,7 @@ https://studios-team.freshworks.com
 https://support.freshworks.com
 https://supremeone.ubx-au.freshworks.com
 https://supremeone.ubx-eu.freshworks.com
+https://supremeone.ubx-euw.freshworks.com
 https://supremeone.ubx-in.freshworks.com
 https://supremeone.ubx-mec.freshworks.com
 https://supremeone.ubx.freshworks.com
@@ -671,6 +685,7 @@ https://toyotacf.freshworks.com
 https://trust.freshworks.com
 https://trust.internal.freshworks.com
 https://ubx-au.freshworks.com
+https://ubx-euw.freshworks.com
 https://ubx-in.freshworks.com
 https://ubx-mec.freshworks.com
 https://ubx.freshworks.com

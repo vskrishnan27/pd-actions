@@ -46,7 +46,6 @@ expense.zoho.in:80
 forms.zoho.in:443
 forms.zoho.in:80
 imap.zoho.in:993
-imappro.zoho.in:25
 imappro.zoho.in:465
 imappro.zoho.in:587
 imappro.zoho.in:993

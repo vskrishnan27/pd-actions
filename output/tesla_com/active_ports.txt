@@ -171,6 +171,8 @@ bi.tesla.com:443
 bi.tesla.com:80
 billing.tesla.com:443
 billing.tesla.com:80
+bolt.tesla.com:443
+bolt.tesla.com:80
 business-ui-ownership.tesla.com:443
 business-ui-ownership.tesla.com:80
 cdn-design.tesla.com:443
@@ -216,8 +218,8 @@ eaa-setup.tesla.com:443
 eaa-setup.tesla.com:80
 edr.tesla.com:443
 edr.tesla.com:80
-einvoicing.tesla.com:443
-einvoicing.tesla.com:80
+ehs.tesla.com:443
+ehs.tesla.com:80
 email1.tesla.com:25
 emails.tesla.com:25
 employeefeedback.tesla.com:443
@@ -251,7 +253,6 @@ feedback.tesla.com:443
 feedback.tesla.com:80
 financial-gw-stg.tesla.com:443
 financial-gw-stg.tesla.com:80
-financial-gw.tesla.com:80
 finops.tesla.com:443
 finops.tesla.com:80
 fleet-api.prd.eu.vn.cloud.tesla.com:443
@@ -290,16 +291,11 @@ ion.tesla.com:443
 ion.tesla.com:80
 ir.tesla.com:443
 ir.tesla.com:80
-itanswers.tesla.com:49153
-itanswers.tesla.com:5101
-itanswers.tesla.com:6646
 itanswers.tesla.com:80
-itanswers.tesla.com:81
 kronos-dev.tesla.com:443
 kronos-dev.tesla.com:80
 kronos.tesla.com:443
 kronos.tesla.com:80
-lax32-gpgw1.tesla.com:443
 link.qa.tesla.com:443
 link.qa.tesla.com:80
 link.tesla.com:443
@@ -326,6 +322,8 @@ mfa.tesla.com:443
 mfa.tesla.com:80
 mfs-supplier-uat.tesla.com:443
 mfs-supplier-uat.tesla.com:80
+mfs-supplier.tesla.com:443
+mfs-supplier.tesla.com:80
 mobile-links-cdn.eng.vn.cloud.tesla.com:443
 mobile-links-cdn.eng.vn.cloud.tesla.com:80
 mobile-links-cdn.prd.vn.cloud.tesla.com:443
@@ -335,6 +333,8 @@ mobile-links.prd.vn.cloud.tesla.com:443
 mobile-ops-links.prd.vn.cloud.tesla.com:443
 mobile.tesla.com:443
 mobile.tesla.com:80
+monitoring.tesla.com:443
+monitoring.tesla.com:80
 myapps.tesla.com:443
 myapps.tesla.com:80
 npuv-prd.usw2.vn.cloud.tesla.com:443
@@ -344,8 +344,6 @@ origin-apps.tesla.com:443
 origin-apps.tesla.com:80
 origin-mobile.tesla.com:443
 origin-mobile.tesla.com:80
-ownership.tesla.com:443
-ownership.tesla.com:80
 pages.email.tesla.com:443
 pages.email.tesla.com:80
 pages.emails.tesla.com:443
@@ -407,8 +405,6 @@ static-assets-pay.tesla.com:443
 static-assets-pay.tesla.com:80
 static-assets-teslaaccount.tesla.com:443
 static-assets-teslaaccount.tesla.com:80
-static-assets.tesla.com:443
-static-assets.tesla.com:80
 static-map.tesla.com:443
 static-map.tesla.com:80
 static.tesla.com:443
@@ -416,7 +412,6 @@ static.tesla.com:80
 stg-uc-twilio-bpm-webhook.tesla.com:443
 stg-uc-twilio-bpm-webhook.tesla.com:80
 syd14-gpgw1.tesla.com:443
-syd14-gpgw1.tesla.com:80
 tcc-graph-stg.tesla.com:443
 tcc-graph-stg.tesla.com:80
 tcc-graph.tesla.com:443
@@ -491,15 +486,7 @@ www-static-stage.tesla.com:80
 www-uat.tesla.com:80
 www.tesla.com:443
 www.tesla.com:80
-xapps.tesla.com:49153
-xapps.tesla.com:5101
-xapps.tesla.com:6646
 xapps.tesla.com:80
-xapps.tesla.com:81
-xmail.tesla.com:49153
-xmail.tesla.com:5101
-xmail.tesla.com:6646
 xmail.tesla.com:80
-xmail.tesla.com:81
 zta-setup.tesla.com:443
 zta-setup.tesla.com:80

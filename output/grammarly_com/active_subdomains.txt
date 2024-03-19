@@ -123,6 +123,7 @@ sentinel-private.grammarly.com
 sentinel.grammarly.com
 sentinel.private.grammarly.com
 skills.grammarly.com
+sombra.sombra-transcend.grammarly.com
 sso.grammarly.com
 sso.private.grammarly.com
 static-id.grammarly.com

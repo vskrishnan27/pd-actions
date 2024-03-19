@@ -1,4 +1,3 @@
-advisors.moderntreasury.com
 app.moderntreasury.com
 auth.moderntreasury.com
 cdn.demo.moderntreasury.com
@@ -13,7 +12,6 @@ link.moderntreasury.com
 mta-sts.moderntreasury.com
 payments.demo.moderntreasury.com
 payments.moderntreasury.com
-privacy.moderntreasury.com
 sales.moderntreasury.com
 staging.moderntreasury.com
 status.moderntreasury.com

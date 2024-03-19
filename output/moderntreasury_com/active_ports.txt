@@ -1,5 +1,3 @@
-advisors.moderntreasury.com:443
-advisors.moderntreasury.com:80
 app.moderntreasury.com:443
 app.moderntreasury.com:80
 auth.moderntreasury.com:443
@@ -10,6 +8,8 @@ cdn.demo.moderntreasury.com:443
 cdn.demo.moderntreasury.com:80
 cdn.moderntreasury.com:443
 cdn.moderntreasury.com:80
+demo.moderntreasury.com:443
+demo.moderntreasury.com:80
 docs.moderntreasury.com:443
 docs.moderntreasury.com:80
 docs.moderntreasury.com:8080
@@ -32,8 +32,6 @@ payments.demo.moderntreasury.com:443
 payments.demo.moderntreasury.com:80
 payments.moderntreasury.com:443
 payments.moderntreasury.com:80
-privacy.moderntreasury.com:443
-privacy.moderntreasury.com:80
 sales.moderntreasury.com:443
 sales.moderntreasury.com:80
 staging.moderntreasury.com:443

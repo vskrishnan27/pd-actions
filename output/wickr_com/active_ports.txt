@@ -15,7 +15,6 @@ me-download.wickr.com:443
 me-download.wickr.com:80
 messaging-pro-prod.wickr.com:443
 messaging-pro-prod.wickr.com:80
-niap.wickr.com:443
 pro-download.wickr.com:443
 pro-download.wickr.com:80
 register.wickr.com:443

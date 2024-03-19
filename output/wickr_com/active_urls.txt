@@ -22,7 +22,6 @@ https://enterprise.wickr.com
 https://gov-cloud-download.wickr.com
 https://gw-pro-prod.wickr.com
 https://messaging-pro-prod.wickr.com
-https://niap.wickr.com
 https://pro-download.wickr.com
 https://register.wickr.com
 https://status.wickr.com

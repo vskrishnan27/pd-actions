@@ -10,6 +10,8 @@ http://beta.developers.miro.com
 http://betaapi.developers.miro.com
 http://bid46k4.3782705m.miro.com
 http://bid46k4.marketing.miro.com
+http://board-export.eu01.miro.com
+http://board-export.us01.miro.com
 http://board-recording-storage.miro.com
 http://board-recording-storage.us.miro.com
 http://brand.miro.com
@@ -24,6 +26,8 @@ http://communitygroups.miro.com
 http://communitygroups.miro.com:8080
 http://consultantcommunity.miro.com
 http://consultantcommunity.miro.com:8080
+http://cutoff.eu01.miro.com
+http://cutoff.us01.miro.com
 http://dam.miro.com
 http://desktop.miro.com
 http://developers.miro.com
@@ -88,6 +92,7 @@ http://svg-convert.us01.miro.com
 http://team.miro.com
 http://template-metadata-service-public.svc.miro.com
 http://template-metadata-service-static.miro.com
+http://template-metadata-service-static.us.miro.com
 http://template-social-service-public.svc.miro.com
 http://templates.miro.com
 http://track.miro.com
@@ -99,6 +104,7 @@ http://us.miro.com
 http://us01.miro.com
 http://view.account.miro.com
 http://view.e.miro.com
+http://ww.miro.com
 http://www.events.miro.com
 http://www.jira-cards.miro.com
 http://www.miro.com
@@ -113,6 +119,8 @@ https://beta.developers.miro.com
 https://betaapi.developers.miro.com
 https://bid46k4.3782705m.miro.com
 https://bid46k4.marketing.miro.com
+https://board-export.eu01.miro.com
+https://board-export.us01.miro.com
 https://board-recording-storage.miro.com
 https://board-recording-storage.us.miro.com
 https://brand.miro.com
@@ -127,6 +135,8 @@ https://communitygroups.miro.com
 https://communitygroups.miro.com:8443
 https://consultantcommunity.miro.com
 https://consultantcommunity.miro.com:8443
+https://cutoff.eu01.miro.com
+https://cutoff.us01.miro.com
 https://dam.miro.com
 https://desktop.miro.com
 https://developers.miro.com
@@ -188,6 +198,7 @@ https://svg-convert.us01.miro.com
 https://team.miro.com
 https://template-metadata-service-public.svc.miro.com
 https://template-metadata-service-static.miro.com
+https://template-metadata-service-static.us.miro.com
 https://template-social-service-public.svc.miro.com
 https://templates.miro.com
 https://track.miro.com
@@ -199,6 +210,7 @@ https://us.miro.com
 https://us01.miro.com
 https://view.account.miro.com
 https://view.e.miro.com
+https://ww.miro.com
 https://www.events.miro.com
 https://www.jira-cards.miro.com
 https://www.miro.com

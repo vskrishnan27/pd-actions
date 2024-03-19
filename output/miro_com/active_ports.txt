@@ -21,6 +21,10 @@ bid46k4.3782705m.miro.com:443
 bid46k4.3782705m.miro.com:80
 bid46k4.marketing.miro.com:443
 bid46k4.marketing.miro.com:80
+board-export.eu01.miro.com:443
+board-export.eu01.miro.com:80
+board-export.us01.miro.com:443
+board-export.us01.miro.com:80
 board-recording-storage.miro.com:443
 board-recording-storage.miro.com:80
 board-recording-storage.us.miro.com:443
@@ -49,6 +53,10 @@ consultantcommunity.miro.com:443
 consultantcommunity.miro.com:80
 consultantcommunity.miro.com:8080
 consultantcommunity.miro.com:8443
+cutoff.eu01.miro.com:443
+cutoff.eu01.miro.com:80
+cutoff.us01.miro.com:443
+cutoff.us01.miro.com:80
 dam.miro.com:443
 dam.miro.com:80
 desktop.miro.com:443
@@ -176,6 +184,8 @@ template-metadata-service-public.svc.miro.com:443
 template-metadata-service-public.svc.miro.com:80
 template-metadata-service-static.miro.com:443
 template-metadata-service-static.miro.com:80
+template-metadata-service-static.us.miro.com:443
+template-metadata-service-static.us.miro.com:80
 template-social-service-public.svc.miro.com:443
 template-social-service-public.svc.miro.com:80
 templates.miro.com:443
@@ -198,6 +208,8 @@ view.account.miro.com:443
 view.account.miro.com:80
 view.e.miro.com:443
 view.e.miro.com:80
+ww.miro.com:443
+ww.miro.com:80
 www.events.miro.com:443
 www.events.miro.com:80
 www.jira-cards.miro.com:443

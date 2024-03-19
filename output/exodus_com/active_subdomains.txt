@@ -10,6 +10,7 @@ help.exodus.com
 metadata.exodus.com
 pm-bounces.exodus.com
 referrals.exodus.com
+sunflower.ot.exodus.com
 support-lt.exodus.com
 support.exodus.com
 updates.exodus.com

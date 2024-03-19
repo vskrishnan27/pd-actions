@@ -6,8 +6,6 @@ http://crypto-pill-playground.exodus.com
 http://crypto-pill-playground.exodus.com:8080
 http://downloads.exodus.com
 http://downloads.exodus.com:8080
-http://exodus.com
-http://exodus.com:8080
 http://exokit.ot.exodus.com
 http://exokit.ot.exodus.com:8080
 http://extension.exodus.com
@@ -20,6 +18,8 @@ http://metadata.exodus.com:8080
 http://pm-bounces.exodus.com
 http://referrals.exodus.com
 http://referrals.exodus.com:8080
+http://sunflower.ot.exodus.com
+http://sunflower.ot.exodus.com:8080
 http://support-lt.exodus.com
 http://support-lt.exodus.com:8080
 http://support.exodus.com
@@ -36,8 +36,6 @@ https://crypto-pill-playground.exodus.com
 https://crypto-pill-playground.exodus.com:8443
 https://downloads.exodus.com
 https://downloads.exodus.com:8443
-https://exodus.com
-https://exodus.com:8443
 https://exokit.ot.exodus.com
 https://exokit.ot.exodus.com:8443
 https://extension.exodus.com
@@ -49,6 +47,8 @@ https://metadata.exodus.com
 https://metadata.exodus.com:8443
 https://referrals.exodus.com
 https://referrals.exodus.com:8443
+https://sunflower.ot.exodus.com
+https://sunflower.ot.exodus.com:8443
 https://support-lt.exodus.com
 https://support-lt.exodus.com:8443
 https://support.exodus.com

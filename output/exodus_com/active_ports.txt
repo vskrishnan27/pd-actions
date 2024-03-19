@@ -14,10 +14,6 @@ downloads.exodus.com:443
 downloads.exodus.com:80
 downloads.exodus.com:8080
 downloads.exodus.com:8443
-exodus.com:443
-exodus.com:80
-exodus.com:8080
-exodus.com:8443
 exokit.ot.exodus.com:443
 exokit.ot.exodus.com:80
 exokit.ot.exodus.com:8080
@@ -41,6 +37,10 @@ referrals.exodus.com:443
 referrals.exodus.com:80
 referrals.exodus.com:8080
 referrals.exodus.com:8443
+sunflower.ot.exodus.com:443
+sunflower.ot.exodus.com:80
+sunflower.ot.exodus.com:8080
+sunflower.ot.exodus.com:8443
 support-lt.exodus.com:443
 support-lt.exodus.com:80
 support-lt.exodus.com:8080

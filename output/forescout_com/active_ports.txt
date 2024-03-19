@@ -49,10 +49,6 @@ docs.forescout.com:443
 docs.forescout.com:80
 docs.forescout.com:8080
 docs.forescout.com:8443
-forescout.com:443
-forescout.com:80
-forescout.com:8080
-forescout.com:8443
 groove.forescout.com:443
 groove.forescout.com:80
 kb.forescout.com:443

@@ -76,6 +76,9 @@ static.nintendolife.com:8443
 support.nintendolife.com:22
 support.nintendolife.com:443
 support.nintendolife.com:80
+vc.nintendolife.com:22
+vc.nintendolife.com:443
+vc.nintendolife.com:80
 wii.nintendolife.com:22
 wii.nintendolife.com:443
 wii.nintendolife.com:80

@@ -33,6 +33,7 @@ http://static.nintendolife.com
 http://static.nintendolife.com:8080
 http://static.nintendolife.com:8443
 http://support.nintendolife.com
+http://vc.nintendolife.com
 http://wii.nintendolife.com
 http://wii2.nintendolife.com
 http://wiiu.nintendolife.com
@@ -66,6 +67,7 @@ https://snes.nintendolife.com
 https://sp.nintendolife.com
 https://static.nintendolife.com
 https://support.nintendolife.com
+https://vc.nintendolife.com
 https://wii.nintendolife.com
 https://wii2.nintendolife.com
 https://wiiu.nintendolife.com

@@ -68,8 +68,6 @@ https://wsdexpre.okx.com
 https://wsdexpre.okx.com:8443
 https://wsdexpri.okx.com
 https://wsdexpri.okx.com:8443
-https://wspap.okx.com
-https://wspap.okx.com:8443
 https://wspri.okx.com
 https://wspri.okx.com:8443
 https://wspripap.okx.com

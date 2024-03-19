@@ -77,7 +77,6 @@ fr.legal.trustpilot.com
 fr.trustpilot.com
 gr.business.trustpilot.com
 gwintuit.preview.trustpilot.com
-home.trustpilot.com
 httpredirect-blogredirector.trustpilot.com
 httpredirect-legalredirector.trustpilot.com
 ie.business.trustpilot.com

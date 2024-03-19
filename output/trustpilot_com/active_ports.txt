@@ -143,8 +143,6 @@ gr.business.trustpilot.com:443
 gr.business.trustpilot.com:80
 gwintuit.preview.trustpilot.com:443
 gwintuit.preview.trustpilot.com:80
-home.trustpilot.com:443
-home.trustpilot.com:80
 httpredirect-blogredirector.trustpilot.com:443
 httpredirect-blogredirector.trustpilot.com:80
 httpredirect-legalredirector.trustpilot.com:443
@@ -183,6 +181,8 @@ la.business.trustpilot.com:443
 la.business.trustpilot.com:80
 legal-preview.trustpilot.com:443
 legal-preview.trustpilot.com:80
+legal.trustpilot.com:443
+legal.trustpilot.com:80
 link.trustpilot.com:443
 link.trustpilot.com:80
 links.trustpilot.com:443
@@ -300,8 +300,6 @@ uk.legal.trustpilot.com:443
 uk.legal.trustpilot.com:80
 uk.trustpilot.com:443
 uk.trustpilot.com:80
-us.business.trustpilot.com:443
-us.business.trustpilot.com:80
 user-images.trustpilot.com:443
 user-images.trustpilot.com:80
 widget.trustpilot.com:443

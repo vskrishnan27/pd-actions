@@ -1,4 +1,6 @@
 base.org
+blobs-mainnet.base.org
+blobs-sepolia.base.org
 bridge.base.org
 developer-access-mainnet.base.org
 docs.base.org

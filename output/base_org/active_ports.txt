@@ -1,3 +1,15 @@
+base.org:443
+base.org:80
+base.org:8080
+base.org:8443
+blobs-mainnet.base.org:443
+blobs-mainnet.base.org:80
+blobs-mainnet.base.org:8080
+blobs-mainnet.base.org:8443
+blobs-sepolia.base.org:443
+blobs-sepolia.base.org:80
+blobs-sepolia.base.org:8080
+blobs-sepolia.base.org:8443
 bridge.base.org:443
 bridge.base.org:80
 bridge.base.org:8080

@@ -80,7 +80,6 @@ www.club.dev.superbet.ro
 www.club.stage.superbet.ro
 www.dev.superbet.ro
 www.pariurinoi.superbet.ro
-www.promo.superbet.ro
 www.promotii.superbet.ro
 www.silent.superbet.ro
 www.stage.superbet.ro

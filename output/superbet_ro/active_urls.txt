@@ -61,7 +61,6 @@ http://tricousuperliga.superbet.ro
 http://www.club.dev.superbet.ro
 http://www.club.stage.superbet.ro
 http://www.dev.superbet.ro
-http://www.promo.superbet.ro
 http://www.promotii.superbet.ro
 http://www.silent.superbet.ro
 http://www.stage.superbet.ro
@@ -128,7 +127,6 @@ https://tricousuperliga.superbet.ro
 https://www.club.dev.superbet.ro
 https://www.club.stage.superbet.ro
 https://www.dev.superbet.ro
-https://www.promo.superbet.ro
 https://www.promotii.superbet.ro
 https://www.silent.superbet.ro
 https://www.stage.superbet.ro

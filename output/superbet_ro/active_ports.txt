@@ -170,17 +170,6 @@ www.club.stage.superbet.ro:443
 www.club.stage.superbet.ro:80
 www.dev.superbet.ro:443
 www.dev.superbet.ro:80
-www.promo.superbet.ro:110
-www.promo.superbet.ro:143
-www.promo.superbet.ro:21
-www.promo.superbet.ro:25
-www.promo.superbet.ro:443
-www.promo.superbet.ro:465
-www.promo.superbet.ro:53
-www.promo.superbet.ro:587
-www.promo.superbet.ro:80
-www.promo.superbet.ro:993
-www.promo.superbet.ro:995
 www.promotii.superbet.ro:110
 www.promotii.superbet.ro:143
 www.promotii.superbet.ro:21

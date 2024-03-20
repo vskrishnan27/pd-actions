@@ -26,6 +26,7 @@ http://communitygroups.miro.com
 http://communitygroups.miro.com:8080
 http://consultantcommunity.miro.com
 http://consultantcommunity.miro.com:8080
+http://consultantcommunity.miro.com:8443
 http://cutoff.eu01.miro.com
 http://cutoff.us01.miro.com
 http://dam.miro.com
@@ -134,7 +135,6 @@ https://community.miro.com
 https://communitygroups.miro.com
 https://communitygroups.miro.com:8443
 https://consultantcommunity.miro.com
-https://consultantcommunity.miro.com:8443
 https://cutoff.eu01.miro.com
 https://cutoff.us01.miro.com
 https://dam.miro.com

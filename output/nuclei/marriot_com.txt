@@ -1,0 +1,17 @@
+[external-service-interaction] [http] [info] http://www.marriot.com
+[external-service-interaction] [http] [info] https://www.marriot.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://www.marriot.com:3128
+[http-missing-security-headers:content-security-policy] [http] [info] http://www.marriot.com:3128
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://www.marriot.com:3128
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://www.marriot.com:3128
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://www.marriot.com:3128
+[http-missing-security-headers:permissions-policy] [http] [info] http://www.marriot.com:3128
+[http-missing-security-headers:referrer-policy] [http] [info] http://www.marriot.com:3128
+[http-missing-security-headers:strict-transport-security] [http] [info] http://www.marriot.com:3128
+[http-missing-security-headers:x-content-type-options] [http] [info] http://www.marriot.com:3128
+[http-missing-security-headers:x-frame-options] [http] [info] http://www.marriot.com:3128
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://www.marriot.com:3128
+[security-txt] [http] [info] https://www.marriott.com/security.txt [ mailto:security@marriott.com]
+[waf-detect:apachegeneric] [http] [info] http://www.marriot.com/
+[waf-detect:apachegeneric] [http] [info] https://www.marriot.com/
+[waf-detect:squid] [http] [info] http://www.marriot.com:3128/

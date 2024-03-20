@@ -320,10 +320,6 @@ mfa-stage.tesla.com:443
 mfa-stage.tesla.com:80
 mfa.tesla.com:443
 mfa.tesla.com:80
-mfs-supplier-uat.tesla.com:443
-mfs-supplier-uat.tesla.com:80
-mfs-supplier.tesla.com:443
-mfs-supplier.tesla.com:80
 mobile-links-cdn.eng.vn.cloud.tesla.com:443
 mobile-links-cdn.eng.vn.cloud.tesla.com:80
 mobile-links-cdn.prd.vn.cloud.tesla.com:443
@@ -344,6 +340,8 @@ origin-apps.tesla.com:443
 origin-apps.tesla.com:80
 origin-mobile.tesla.com:443
 origin-mobile.tesla.com:80
+ownership.tesla.com:443
+ownership.tesla.com:80
 pages.email.tesla.com:443
 pages.email.tesla.com:80
 pages.emails.tesla.com:443
@@ -354,8 +352,6 @@ pay.tesla.com:443
 pay.tesla.com:80
 payment-public-stg.tesla.com:443
 pm-bounces.tesla.com:80
-powerhub.energy.tesla.com:443
-powerhub.energy.tesla.com:80
 profile.tesla.com:443
 profile.tesla.com:80
 pub.email.tesla.com:443

@@ -1,7 +1,5 @@
 http://api.dev.magic.link
 http://api.dev.magic.link:8080
-http://api.magic.link
-http://api.magic.link:8080
 http://api.stagef.magic.link
 http://api.stagef.magic.link:8080
 http://assets.auth.dev.magic.link
@@ -27,8 +25,6 @@ http://auth-sx-bet.partner-auth.magic.link:8080
 http://auth-sx-bet.partner-auth.magic.link:8443
 http://auth.dev.magic.link
 http://auth.dev.magic.link:8080
-http://auth.magic.link
-http://auth.magic.link:8080
 http://auth.stagef.magic.link
 http://auth.stagef.magic.link:8080
 http://box.magic.link
@@ -67,8 +63,6 @@ http://kbw.magic.link
 http://landing.magic.link
 http://landing.magic.link:8080
 http://links.magic.link
-http://magic.link
-http://magic.link:8080
 http://next-dev.magic.link
 http://next-stage.magic.link
 http://next.dev.magic.link
@@ -96,8 +90,6 @@ http://walletconnect-ftmt-xyz.partner-auth.magic.link:8443
 http://www.magic.link
 https://api.dev.magic.link
 https://api.dev.magic.link:8443
-https://api.magic.link
-https://api.magic.link:8443
 https://api.stagef.magic.link
 https://api.stagef.magic.link:8443
 https://assets.auth.dev.magic.link
@@ -107,8 +99,6 @@ https://assets.auth.stagef.magic.link
 https://assets.auth.stagef.magic.link:8443
 https://auth.dev.magic.link
 https://auth.dev.magic.link:8443
-https://auth.magic.link
-https://auth.magic.link:8443
 https://auth.stagef.magic.link
 https://auth.stagef.magic.link:8443
 https://box.magic.link
@@ -147,8 +137,6 @@ https://kbw.magic.link
 https://landing.magic.link
 https://landing.magic.link:8443
 https://links.magic.link
-https://magic.link
-https://magic.link:8443
 https://next-dev.magic.link
 https://next-stage.magic.link
 https://next.dev.magic.link

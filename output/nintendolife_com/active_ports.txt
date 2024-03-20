@@ -58,6 +58,10 @@ m.nintendolife.com:80
 maliaeroports.comwww.nintendolife.com:22
 maliaeroports.comwww.nintendolife.com:443
 maliaeroports.comwww.nintendolife.com:80
+nintendolife.com:443
+nintendolife.com:80
+nintendolife.com:8080
+nintendolife.com:8443
 pfadev.dijgtal.comwww.nintendolife.com:22
 pfadev.dijgtal.comwww.nintendolife.com:443
 pfadev.dijgtal.comwww.nintendolife.com:80

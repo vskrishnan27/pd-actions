@@ -1,4 +1,3 @@
-recargapay.com.br
 okx.com
 matomo.org
 fireblocks.com
@@ -80,3 +79,4 @@ magic.link
 miro.com
 zoho.in
 malwarebytes.com
+recargapay.com.br

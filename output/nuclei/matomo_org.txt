@@ -33,7 +33,6 @@
 [external-service-interaction] [http] [info] http://demo-web.matomo.org
 [external-service-interaction] [http] [info] http://forum.matomo.org
 [external-service-interaction] [http] [info] http://survey.matomo.org
-[external-service-interaction] [http] [info] https://cnsoq6n2ff5bovgvhh30a5dqe61ym58qe.oast.site:443/
 [http-missing-security-headers:clear-site-data] [http] [info] http://fr-staging.matomo.org
 [http-missing-security-headers:clear-site-data] [http] [info] http://fr-staging.matomo.org:443
 [http-missing-security-headers:clear-site-data] [http] [info] http://video.matomo.org
@@ -171,17 +170,18 @@
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://staging.matomo.org
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://staging.matomo.org/
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://video.matomo.org
-[matomo-login-portal] [http] [info] https://demo-web.matomo.org
-[metatag-cms] [http] [info] https://fr.matomo.org [WPML ver:4.6.9 stt:1,4;,Elementor 3.19.0; features: e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-internal, google_font-disabled, font_display-auto]
+[metatag-cms] [http] [info] https://forum.matomo.org [Discourse 3.2.1 - https://github.com/discourse/discourse version 6a0aa03aa285306560af679c84903be0d58a4203]
+[metatag-cms] [http] [info] https://forum.matomo.org/ [Discourse 3.2.1 - https://github.com/discourse/discourse version 6a0aa03aa285306560af679c84903be0d58a4203]
+[metatag-cms] [http] [info] https://fr.matomo.org [Elementor 3.19.0; features: e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-internal, google_font-disabled, font_display-auto,WPML ver:4.6.9 stt:1,4;]
 [metatag-cms] [http] [info] https://fr.matomo.org/ [WPML ver:4.6.9 stt:1,4;,Elementor 3.19.0; features: e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-internal, google_font-disabled, font_display-auto]
 [metatag-cms] [http] [info] https://matomo.org [WPML ver:4.6.9 stt:1,4;,Elementor 3.19.0; features: e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-internal, google_font-disabled, font_display-auto]
 [metatag-cms] [http] [info] https://matomo.org/ [WPML ver:4.6.9 stt:1,4;,Elementor 3.19.0; features: e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-internal, google_font-disabled, font_display-auto]
-[missing-sri] [http] [info] https://fr.matomo.org/ [https://fr.matomo.org/wp-content/cache/min/1/a0bdb7c2789f4967a8ead1744eeaf083.js,https://fr.matomo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://fr.matomo.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://fr.matomo.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1,https://fr.matomo.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef]
-[missing-sri] [http] [info] https://fr.matomo.org/ [https://fr.matomo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://fr.matomo.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://fr.matomo.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1,https://fr.matomo.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef,https://fr.matomo.org/wp-content/cache/min/1/a0bdb7c2789f4967a8ead1744eeaf083.js]
-[missing-sri] [http] [info] https://matomo.org/ [https://matomo.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef,https://matomo.org/wp-content/cache/min/1/7c707397525f1439ffc0811ed3494c92.js,https://matomo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://matomo.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.2,https://matomo.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://matomo.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1]
+[missing-sri] [http] [info] https://fr.matomo.org/ [https://fr.matomo.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1,https://fr.matomo.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef,https://fr.matomo.org/wp-content/cache/min/1/a0bdb7c2789f4967a8ead1744eeaf083.js,https://fr.matomo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://fr.matomo.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0]
+[missing-sri] [http] [info] https://fr.matomo.org/ [https://fr.matomo.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef,https://fr.matomo.org/wp-content/cache/min/1/a0bdb7c2789f4967a8ead1744eeaf083.js,https://fr.matomo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://fr.matomo.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://fr.matomo.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1]
+[missing-sri] [http] [info] https://matomo.org/ [https://matomo.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.2,https://matomo.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://matomo.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1,https://matomo.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef,https://matomo.org/wp-content/cache/min/1/7c707397525f1439ffc0811ed3494c92.js,https://matomo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1]
 [missing-sri] [http] [info] https://matomo.org/ [https://matomo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://matomo.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.2,https://matomo.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://matomo.org/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1,https://matomo.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef,https://matomo.org/wp-content/cache/min/1/7c707397525f1439ffc0811ed3494c92.js]
-[missing-sri] [http] [info] https://www.zoho.com/survey/ [//www.zohowebstatic.com/sites/zweb/js/common/zohocustom.js,//www.zohowebstatic.com/sites/zweb/js/product/survey.js,//www.zohowebstatic.com/sites/zweb/js/translation/survey/2870.js,//www.zohowebstatic.com/sites/zweb/js/common/var_init.js,//www.zohowebstatic.com/sites/zweb/js/common/zcms.js,//www.zohowebstatic.com/sites/zweb/js/common/slick-plugin.js]
-[missing-sri] [http] [info] https://www.zoho.com/survey/ [//www.zohowebstatic.com/sites/zweb/js/product/survey.js,//www.zohowebstatic.com/sites/zweb/js/translation/survey/2870.js,//www.zohowebstatic.com/sites/zweb/js/common/var_init.js,//www.zohowebstatic.com/sites/zweb/js/common/zcms.js,//www.zohowebstatic.com/sites/zweb/js/common/slick-plugin.js,//www.zohowebstatic.com/sites/zweb/js/common/zohocustom.js]
+[missing-sri] [http] [info] https://www.zoho.com/survey/ [//www.zohowebstatic.com/sites/zweb/js/common/slick-plugin.js,//www.zohowebstatic.com/sites/zweb/js/common/zohocustom.js,//www.zohowebstatic.com/sites/zweb/js/product/survey.js,//www.zohowebstatic.com/sites/zweb/js/translation/survey/2870.js,//www.zohowebstatic.com/sites/zweb/js/common/var_init.js,//www.zohowebstatic.com/sites/zweb/js/common/zcms.js]
+[missing-sri] [http] [info] https://www.zoho.com/survey/ [//www.zohowebstatic.com/sites/zweb/js/translation/survey/2870.js,//www.zohowebstatic.com/sites/zweb/js/common/var_init.js,//www.zohowebstatic.com/sites/zweb/js/common/zcms.js,//www.zohowebstatic.com/sites/zweb/js/common/slick-plugin.js,//www.zohowebstatic.com/sites/zweb/js/common/zohocustom.js,//www.zohowebstatic.com/sites/zweb/js/product/survey.js]
 [openresty-detect] [http] [info] http://forum.matomo.org [openresty/1.19.9.1]
 [openresty-detect] [http] [info] https://forum.matomo.org
 [options-method] [http] [info] https://survey.matomo.org [GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS]
@@ -189,8 +189,8 @@
 [rdap-whois:expirationDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [2026-09-08T02:04:14.81Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [2019-09-02T17:30:20.178Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [2019-09-02T17:30:20.178Z]
+[rdap-whois:nameServers] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [ns-1081.awsdns-07.org,ns-1635.awsdns-12.co.uk,ns-516.awsdns-00.net,ns-85.awsdns-10.com]
 [rdap-whois:nameServers] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [ns-516.awsdns-00.net,ns-85.awsdns-10.com,ns-1081.awsdns-07.org,ns-1635.awsdns-12.co.uk]
-[rdap-whois:nameServers] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [ns-85.awsdns-10.com,ns-1081.awsdns-07.org,ns-1635.awsdns-12.co.uk,ns-516.awsdns-00.net]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [FR]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [FR]
 [rdap-whois:registrantCountry] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/matomo.org [FR]
@@ -223,6 +223,8 @@
 [tech-detect:cloudflare] [http] [info] https://fr.matomo.org/
 [tech-detect:cloudflare] [http] [info] https://matomo.org
 [tech-detect:cloudflare] [http] [info] https://matomo.org/
+[tech-detect:discourse] [http] [info] https://forum.matomo.org
+[tech-detect:discourse] [http] [info] https://forum.matomo.org/
 [tech-detect:elementor] [http] [info] https://fr.matomo.org
 [tech-detect:elementor] [http] [info] https://fr.matomo.org/
 [tech-detect:elementor] [http] [info] https://matomo.org

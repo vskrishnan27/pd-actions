@@ -1,4 +1,6 @@
 [addeventlistener-detect] [http] [info] https://blocked.eero.com
+[addeventlistener-detect] [http] [info] https://blog.eero.com
+[addeventlistener-detect] [http] [info] https://store.eero.com
 [akamai-cache-detect] [http] [info] http://image.email.eero.com
 [akamai-cache-detect] [http] [info] https://image.email.eero.com
 [akamai-detect] [http] [info] http://image.email.eero.com
@@ -24,6 +26,7 @@
 [aws-detect:aws-alb] [http] [info] https://dsar-stage.eero.com
 [aws-detect:aws-alb] [http] [info] https://dsar.eero.com
 [aws-detect:aws-alb] [http] [info] https://eero.com
+[aws-detect:aws-alb] [http] [info] https://prod.eero.com
 [aws-detect:aws-alb] [http] [info] https://tour.eero.com
 [aws-detect:aws-alb] [http] [info] https://www.eero.com
 [aws-detect:aws-api-gateway] [http] [info] https://bizops.eero.com
@@ -57,12 +60,18 @@
 [aws-detect:aws-kms] [http] [info] https://pro.eero.com/
 [aws-detect:aws-waf-captcha] [http] [info] http://eero.com
 [aws-detect:aws-waf-captcha] [http] [info] http://prod.eero.com
+[aws-detect:aws-waf-captcha] [http] [info] http://tour.eero.com
+[aws-detect:aws-waf-captcha] [http] [info] http://www.eero.com
 [aws-detect:aws-waf-captcha] [http] [info] https://eero.com
+[aws-detect:aws-waf-captcha] [http] [info] https://prod.eero.com
 [aws-detect:aws-waf-captcha] [http] [info] https://tour.eero.com
 [aws-detect:aws-waf-captcha] [http] [info] https://www.eero.com
 [azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/eero.com/v2.0/.well-known/openid-configuration [dbf9b0c7-cadf-4ed5-a489-d9e2002dbda7]
 [azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/eero.com/v2.0/.well-known/openid-configuration [dbf9b0c7-cadf-4ed5-a489-d9e2002dbda7]
+[credentials-disclosure] [http] [unknown] https://store.eero.com [api_key:  "P1R2GRKPZ886L72G","accessToken":"bcf9c9fdb02055cb2477e6a5e65eaf9d"]
+[credentials-disclosure] [http] [unknown] https://store.eero.com/ [api_key:  "P1R2GRKPZ886L72G","accessToken":"bcf9c9fdb02055cb2477e6a5e65eaf9d"]
 [email-extractor] [http] [info] https://blocked.eero.com [blocked@eero.com]
+[email-extractor] [http] [info] https://store.eero.com [support@eero.com]
 [external-service-interaction] [http] [info] http://account.eero.com
 [external-service-interaction] [http] [info] http://accounts.eero.com
 [external-service-interaction] [http] [info] http://ap.account.eero.com
@@ -79,6 +88,8 @@
 [http-missing-security-headers:clear-site-data] [http] [info] http://store.eero.com
 [http-missing-security-headers:clear-site-data] [http] [info] http://store.eero.com:8080
 [http-missing-security-headers:clear-site-data] [http] [info] http://support.eero.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] http://tour.eero.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://www.eero.com
 [http-missing-security-headers:clear-site-data] [http] [info] https://account.eero.com/login
 [http-missing-security-headers:clear-site-data] [http] [info] https://ap.account.eero.com
 [http-missing-security-headers:clear-site-data] [http] [info] https://ap.account.eero.com/
@@ -128,6 +139,8 @@
 [http-missing-security-headers:content-security-policy] [http] [info] http://store.eero.com
 [http-missing-security-headers:content-security-policy] [http] [info] http://store.eero.com:8080
 [http-missing-security-headers:content-security-policy] [http] [info] http://support.eero.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://tour.eero.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://www.eero.com
 [http-missing-security-headers:content-security-policy] [http] [info] https://ap.account.eero.com
 [http-missing-security-headers:content-security-policy] [http] [info] https://ap.account.eero.com/
 [http-missing-security-headers:content-security-policy] [http] [info] https://ap.test-accounts.eero.com
@@ -175,6 +188,8 @@
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://store.eero.com
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://store.eero.com:8080
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://support.eero.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://tour.eero.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://www.eero.com
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://account.eero.com/login
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ap.account.eero.com
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ap.account.eero.com/
@@ -222,6 +237,8 @@
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://store.eero.com
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://store.eero.com:8080
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://support.eero.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://tour.eero.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://www.eero.com
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://account.eero.com/login
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ap.account.eero.com
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ap.account.eero.com/
@@ -269,6 +286,8 @@
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://store.eero.com
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://store.eero.com:8080
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://support.eero.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://tour.eero.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://www.eero.com
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://account.eero.com/login
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ap.account.eero.com
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ap.account.eero.com/
@@ -316,6 +335,8 @@
 [http-missing-security-headers:permissions-policy] [http] [info] http://store.eero.com
 [http-missing-security-headers:permissions-policy] [http] [info] http://store.eero.com:8080
 [http-missing-security-headers:permissions-policy] [http] [info] http://support.eero.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://tour.eero.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://www.eero.com
 [http-missing-security-headers:permissions-policy] [http] [info] https://account.eero.com/login
 [http-missing-security-headers:permissions-policy] [http] [info] https://ap.account.eero.com
 [http-missing-security-headers:permissions-policy] [http] [info] https://ap.account.eero.com/
@@ -362,6 +383,8 @@
 [http-missing-security-headers:referrer-policy] [http] [info] http://prod.eero.com
 [http-missing-security-headers:referrer-policy] [http] [info] http://store.eero.com
 [http-missing-security-headers:referrer-policy] [http] [info] http://support.eero.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://tour.eero.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://www.eero.com
 [http-missing-security-headers:referrer-policy] [http] [info] https://account.eero.com/login
 [http-missing-security-headers:referrer-policy] [http] [info] https://ap.account.eero.com
 [http-missing-security-headers:referrer-policy] [http] [info] https://ap.account.eero.com/
@@ -407,6 +430,8 @@
 [http-missing-security-headers:strict-transport-security] [http] [info] http://store.eero.com
 [http-missing-security-headers:strict-transport-security] [http] [info] http://store.eero.com:8080
 [http-missing-security-headers:strict-transport-security] [http] [info] http://support.eero.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] http://tour.eero.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://www.eero.com
 [http-missing-security-headers:strict-transport-security] [http] [info] https://assets.marketing-test.eero.com
 [http-missing-security-headers:strict-transport-security] [http] [info] https://assets.marketing-test.eero.com/
 [http-missing-security-headers:strict-transport-security] [http] [info] https://assets.marketing.eero.com
@@ -446,6 +471,8 @@
 [http-missing-security-headers:x-content-type-options] [http] [info] http://pause.eero.com
 [http-missing-security-headers:x-content-type-options] [http] [info] http://prod.eero.com
 [http-missing-security-headers:x-content-type-options] [http] [info] http://support.eero.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://tour.eero.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://www.eero.com
 [http-missing-security-headers:x-content-type-options] [http] [info] https://ap.account.eero.com
 [http-missing-security-headers:x-content-type-options] [http] [info] https://ap.account.eero.com/
 [http-missing-security-headers:x-content-type-options] [http] [info] https://ap.test-accounts.eero.com
@@ -490,6 +517,8 @@
 [http-missing-security-headers:x-frame-options] [http] [info] http://prod.eero.com
 [http-missing-security-headers:x-frame-options] [http] [info] http://store.eero.com
 [http-missing-security-headers:x-frame-options] [http] [info] http://support.eero.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://tour.eero.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://www.eero.com
 [http-missing-security-headers:x-frame-options] [http] [info] https://ap.account.eero.com
 [http-missing-security-headers:x-frame-options] [http] [info] https://ap.account.eero.com/
 [http-missing-security-headers:x-frame-options] [http] [info] https://ap.test-accounts.eero.com
@@ -532,6 +561,8 @@
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://pause.eero.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://prod.eero.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://support.eero.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://tour.eero.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://www.eero.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://account.eero.com/login
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ap.account.eero.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ap.account.eero.com/
@@ -571,15 +602,14 @@
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.eero.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://zapier.bizops.eero.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://zapier.bizops.staging.eero.com
-[missing-sri] [http] [info] https://account.eero.com/login [https://browser.sentry-cdn.com/6.19.4/bundle.min.js,https://d3dkywcwu7ojfa.cloudfront.net/klaro.min.js,https://js.stripe.com/v3/]
+[missing-sri] [http] [info] https://account.eero.com/login [https://js.stripe.com/v3/,https://browser.sentry-cdn.com/6.19.4/bundle.min.js,https://d3dkywcwu7ojfa.cloudfront.net/klaro.min.js]
 [missing-sri] [http] [info] https://account.eero.com:443/login [https://js.stripe.com/v3/,https://browser.sentry-cdn.com/6.19.4/bundle.min.js,https://d3dkywcwu7ojfa.cloudfront.net/klaro.min.js]
 [missing-sri] [http] [info] https://account.eero.com:443/login [https://js.stripe.com/v3/,https://browser.sentry-cdn.com/6.19.4/bundle.min.js,https://d3dkywcwu7ojfa.cloudfront.net/klaro.min.js]
 [missing-sri] [http] [info] https://account.eero.com:443/login [https://js.stripe.com/v3/,https://browser.sentry-cdn.com/6.19.4/bundle.min.js,https://d3dkywcwu7ojfa.cloudfront.net/klaro.min.js]
 [missing-sri] [http] [info] https://blocked.eero.com/ [https://code.jquery.com/jquery-3.2.1.min.js]
 [missing-sri] [http] [info] https://blocked.eero.com/ [https://code.jquery.com/jquery-3.2.1.min.js]
-[missing-sri] [http] [info] https://blog.eero.com/ [https://blog.eero.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1,https://blog.eero.com/wp-content/themes/arcane-pro/js/modernizr.js?ver=2.8.3,https://blog.eero.com/wp-content/themes/arcane-pro/js/owl-carousel.js?ver=2.0,https://blog.eero.com/wp-content/themes/arcane-pro/js/superfish.js?ver=1.7.5,https://blog.eero.com/wp-content/themes/arcane-pro/js/custom.js?ver=1.0,https://consent.cookiebot.com/uc.js,//js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js,https://blog.eero.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://blog.eero.com/wp-content/themes/arcane-pro/js/imagesloaded.js?ver=3.1.8,https://blog.eero.com/wp-content/themes/arcane-pro/js/scrollup.js?ver=2.4.0,https://blog.eero.com/wp-content/themes/arcane-pro/js/enquire.js?ver=2.1.2,https://blog.eero.com/wp-content/themes/arcane-pro/js/featured-carousel.js?ver=1.0,https://blog.eero.com/wp-content/themes/arcane-pro-child/js/social-share.js?ver=6.4.3,https://blog.eero.com/wp-content/themes/arcane-pro-child/js/search-toggle.js?ver=6.4.3,https://blog.eero.com/wp-content/themes/arcane-pro/js/hover-intent.js?ver=r7,https://stats.wp.com/e-202412.js]
-[missing-sri] [http] [info] https://eero.okta.com/login/login.htm?fromURI=%2Fapp%2Feeroinc_dsarprod_1%2Fexk1g0oytqeUCLTIH1d8%2Fsso%2Fsaml%3FSAMLRequest%3DfVK7bsIwFN37FZF3J7FJW7BIEKKqSkUXCh1YIpNcwILYwdfpg6%252BvE9qqLIy%252BOi%252Bd4%252BHoszoE72BRGZ0SFsYkAF2YUultSpaLR9ono%252BxmiLI68FqMG7fTczg2gC4YI4J1njcxGpsK7CvYd1XAcj5Lyc65GkUUAVhDS5SW1taUofQCYYP0wwtQHspKnoy322rlTFiYKuqMIlXWFrD2ukCCB49VWrou4X%252Fd0Oyd7FiyrruL0kXemrVeOYvgc8%252B2sflyR1hOZovpEyv7EaLpXEgwfUhJnvRkeVcMGOWst6bJgPWpLO45Xd%252FDJpabMoljn2GK2MBUo5PapYTHPKFxj7LBgiWCcRH3Qp7crkjw9tskb5v03WoU5%252B5S0lgtjESFQssKULhCvI5fZsJDhQ%252FsTGEOJDtXLTpDGzwaW0l3ndteVEk3HVSAdsp9XXhfp8vfGUnWws6TiJ9NBNbib678afdyXK%252BeT5th9D9l9vO8%252FB%252FZNw%253D%253D%26RelayState%3DH4sIAAAAAAAAAD2SWXOiQBSF_wuvEW2WZrEqD4ngAgomGIJMpizobrYgjazq1Pz3afMwb-fW_frUqdvnDxdxc65v-ZG0HS-e1tnuEofWPeEmXMw2iDY1T7-7iM2IzYLS4BQNoKYgGtQUQbFqCzkdMGQAZkDWdXU7n81wGzVTQho6RfQ8o1HfZeIsx3VD2ppWLWE4-fHHD5kw6b3stkym3PwXR2tS5Zj7PeEytgm8yzHRiReGqUqIKe6X6YeZW4N6vw1LhVJJGGi86W80hQOAumPbfuaM--Lra7YeDpZU-Hl1KCU_KfTtWbQ_38dYXhZa6HrYhsdIYtzrxbJLkgdw0aVuiRf9MjbrFqv-Ea5RaapE1IWjWLvbwhbu6mtQ14J5NVoamrt3x4g6V9zmm5XpJa9yew-2rpU-DTXdQO3qHtbtp1k_HUvpCENbWAwZSNfqyliufXIbN6C54eTtXOxKiNAbi0KS9JEozORdjDZG-vzMrvLNznAdeO3g3LDBry7BtvzoQTVKge9d7EYtsiI1lX1KSCeHmSl4B_9FW2Se_-3g1Bh1qwLyrblS1393xlzEb4rpZ5erjVzXqVbLD9ksjps88O-GeCJwB4ZaObunonLPbUJtadRrUYay0VqF6bq9A5r9i5RVd8VAWY_14BADqxsasu41AAeJssQlS_z4f_7RBL5uKJ4-SjD937VpdI7utEI0rfLupybs1ZmbC6oANKhCUZpwNTdPorIlE65hdgDrUInimEeyJPCyqim8JuuQ16CYyCKKdS3WmEfH0JMsRVhBusCLghTzsi5ofIRUkY9VkoAowTIAhPv7D6ti5oL_AgAA.H4sIAAAAAAAAAJP2EpfLvCIoJXxl7bH8qG2hT5MzlIpu3tXp46iQiAzrswAAhjvZOSAAAAA.3 [https://eero.okta.com/assets/js/sdk/okta-signin-widget/7.16.1/js/okta-sign-in.min.js]
-[missing-sri] [http] [info] https://eero.okta.com/login/login.htm?fromURI=%2Fapp%2Feeroinc_dsartoolstage_1%2Fexk1figryc8pQZ0Cq1d8%2Fsso%2Fsaml%3FSAMLRequest%3DfZLNTsMwEITvPEXku5PYVNRYTVAFQkKCA%252BXnwKUyybaYNl7jdaDw9LgpoPbC0auZ%252BVaznpxtunX2DoEsuoqJvGQZuAZb65YVe7i%252F5Iqd1UcTMt1aej3t44ubwVsPFLMpEYSYfOfoqO8g3EF4tw08zK4r9hKjJ10UAAF5SyZwimYJuUkJeU%252F8IyVwmZvOfGHiLZ2NmDfYFQOpsK0PQD4FA8suktY6E4cV94NzXEUzuIz3w8S6Zr6lRcT1AJyLAjYrsbDL8Nkof%252FtUnr%252BJVhVEOKBYdnVRsblohHgGdcLNGAQfqWfFlVqM%252BUjIUqgT046lTFKiHq5cCnaxYrKUI14ec3F6L0ZaSF0e50KVTyx7%252FO1TbvtMDTvSuwYr1gen0ZAl7UwHpGOj76Y31zpJtQ8YscE1q3eF6wEYsksMnYn%252Fe7cT2%252FLFINXgoo2fB%252Bz%252F7eb3mKzeynZ30T%252BH0eT1383m4nUzfdzgbDUp9resf56Hv6T%252BBg%253D%253D%26RelayState%3DH4sIAAAAAAAAAE1S2W7iQBD8F78Gg8f4RMqD42DABxAbiMNmhcb3hceMxwes9t93kpVWK_VDtaqqu9WqXwxkFkzXskPcEpa_gGLUTiNyS2bCBJQJEW5YVBJI-5D2QaBy-BYFV1yjGvBFBNSUVBISKB9RPiOkaRezWdRCzLYEpvE0jjGahug6Q7AjGT_LowbHbYPqNqam-HtJ9AUTCj3NsSlMmcUPBjVxnUfMzwmTUcaWS845SUmfZd5GMfPU0zjzbKcrp4FkjF66t4-3zWrsyvQ88sKpFkXDH-p8hx1e0yuwyjaP4fNztlwRTod9X8j3qhgMgrfXGt24-6BZplNSwd9a1rmpNbgN1d1gGdtHsj-uIHjKXpe49jqC-bA958gRbF3S84Rz8NrTUgiid1-tvFqyYll2JdVGhWxi19f4A7x1AbR3BShW69Hbe2krm9d7Y9uylJ3cJV3pJC-DsU8p6i0k-4IUbDv3XTnY4qumo6eH9vxMP1PSV-yKYW3IFWQ5c3_AFTSPRbr8GJXD8SO6-SroLPNQhuaolZecq4DvEX3upwKGW4vt9sTS39LbQblCXub2QuJeLp1ijMZetYhemcFjftytMgz79PJw2bBv76O17MDaInaF7L6U1-2gEu603t139snZEMs3NsfodnNFEXjRdsSUic-n6twnG3pxRS_-ygD7Xya-kjD9l7opvMIHqkOU1jn5zgq1XZkFkAGniLLIzydMwywSWLXxhMF0XqQIkjjnJZYDqswKCheyKh8qbKBGQJKgJKqAozMIlV5ACEAQKxIL5RhQbaCwipJQF-A5oEgwknme-f0HwFkXXAkDAAA.H4sIAAAAAAAAAAEgAN__D-XRfjx4EM616NHZQTmH0YyEtSduKOORFsniDUBZ3a0C4VRgIAAAAA.3 [https://eero.okta.com/assets/js/sdk/okta-signin-widget/7.16.1/js/okta-sign-in.min.js]
+[missing-sri] [http] [info] https://eero.okta.com/login/login.htm?fromURI=%2Fapp%2Feeroinc_dsarprod_1%2Fexk1g0oytqeUCLTIH1d8%2Fsso%2Fsaml%3FSAMLRequest%3DfVJNT4MwGL77K0jvhYKo0AzMojGbmZd9ePCyFHjZGkfL%252Bpap%252B%252FUWpma7eOyb5yvP09H9Z7PzDmBQapWR0GfEA1XqSqpNRlbLJ5qQ%252B%252FxqhKLZRS0fd3ar5rDvAK03RgRjHe9BK%252BwaMAswB1nCaj7LyNbaFnkQABhNKxSGtkZXvnACfof0wwnQyBeNOGpnt1HSar%252FUTTAYBbJqDWDrdIF4jw4rlbBDwnNdX79bMbBE2w4Xqcp1b9Z7rcMAPt%252FDDdNfdg%252Brh9lyOgmrJEDUgwvxpo8ZWadxkaRxGtM7USU0LgugCaR3lEU1K8LbtGYidFDEDqYKrVA2IxGLYsquacSWYcJZwuPQv05v3oj3%252Bttk1DfpulXIT91lpDOKa4ESuRINILclX4xfZtxBuQtsdal3JD9VzQdD4z1p0wj7P7e%252FyIrWA5SDstJ%252BXXj%252FTxe%252FM5K8h50m4T%252BbcGz531zryfZlX7w9H%252BtRcJ4y%252F3le%252Fo%252F8Gw%253D%253D%26RelayState%3DH4sIAAAAAAAAAD1S23KiQBT8F16TUe4Xq_JAJCAiQUWBuNmyhjsqzHBXtvbfd8zDvnXX6dPVdU7_oSC1oPoWjEnbAfa8yu06PK2nlHqlQjKJUIMBunaQ8IhwRmziLBpojGg4SFkksFV74bMhFoggJoK863C7mM_jFjazJGnQLELlHMG-y9l5EeMmaTGq2oTIkx__-AlTAl3V3hCYUYtfFMJJVcTU71cqJ5Nkqzq9vkW1Nx7VU2PD3H7Ua7tXk0jn7O_vucge9KsFaz4oJk3YT3hz8pEX6Duu3XkXTnLfQ49xvoZw1Le6pSo8Jx9rOXE2cfx523l03guVEuDs8OlB3OtdtpRGNz0-sBjsq2nQL0VPd-v3L4xpeGC2pf21U8dl6cq6I1mBPtT6u7kxD9OyeTFCGY0i8kmqWvMjtVyJVYP4QatWbr_atdicoOVqkT6k0qYIDN8fou5Iv4wc3OVOisK-vl2K9U2we4tT397IRa7kBMsqK0DE4supHFfY3zfMcgO3fFdU5ZWlxVEevbG-Cj60zgy6f5iGf9vKnJEGlyN2DxvePd9lxVUU4yR8IK9arcFmaXquMcbIgKhgOK2-11o1HoPAuYR2N1lr2tTU_YB5W4dX9jYYADsmpz32MeROlZHmxR2V-_7RP6zbcQUh0HnRMc2lSRLfnk8jvwfPFgDcoHj2LMDsf89msIQTqiKUVUX3UxGyVVILRmJoRZAZlnmlMLVI4a1NXqmG2IlMGNICVACfQg7wSiqBME5oEAkpFzNJyKQsRzw6Ij0rfCgrvMIDCcYy4KMwAXKiSIBmUzpkRCWlIUP9_QduIVz0-wIAAA.H4sIAAAAAAAAAAEgAN__lHt8yc2qdqCnixFIllS4qCKzUuqb_LbBU-0zh4ZCJ4a4dalmIAAAAA.3 [https://eero.okta.com/assets/js/sdk/okta-signin-widget/7.16.1/js/okta-sign-in.min.js]
+[missing-sri] [http] [info] https://eero.okta.com/login/login.htm?fromURI=%2Fapp%2Feeroinc_dsartoolstage_1%2Fexk1figryc8pQZ0Cq1d8%2Fsso%2Fsaml%3FSAMLRequest%3DfZLNTsMwEITvPEXkuxPbjUJqNakqEBISHCg%252FBy6VSTbFtLGN14HC0%252BOmgODSo1cz861mPZvv%252Bm3yBh61NRXhKSMJmMa22qwrcn93QUsyr09mqPqtcHIxhGezhNcBMCQLRPAh%252Bs6swaEHfwv%252BTTdwv7yqyHMIDmWWAXhLW1SeYlBrSFVMSAek7zGBilT16tNG3troYNPG9tlIynTrPKCLwUCS86jVRoVxxb%252FBqd0ENbqUc%252BNEm2a1pwVrtyNwxTPYbXin1%252F6jKd3NIzt75W2ZIdoRRZLL84qs8qLIC%252BieaAnTguZdkdOpUB2dcNZMJ6LgjLdRijjApYnBJlREMJFTNqGC3fFSslLmLD09FY8kefjpU%252Bz7jA0blIcGKzJ4I61CjdKoHlCGRt4urq9klErnbbCN3ZL6ULgcgT65sL5X4bh3P9Et7UapBBN0%252BPjHPm5XP8ck9V52uIv8PoxEJ39vtuIvu8XDzi43s%252BzvlvX38%252F8vqb8A%26RelayState%3DH4sIAAAAAAAAAE2S2ZKiMBSG34VbOwphjVV9IQJ2o7gAgjoz1RUgIAiyxVaZmnefdF9Mzd1_8p-tTr7fHOam3K0Hd9JTAD-E4jELHrV74V64iDlx3TWgvlDM4pjFUYT4rk2iqrvWVwEWiYAyWiq1xPyE-WdKm346mSQ97kBPcUbGhHT1OK6rSY1v9AwnedJ0pG_qa09YEfkeknzJlElv5qyYzLjpD65uyDVPuF8v3Jk5gS2lP39OVt6a1_TryCeehCXvUqrYW-jDxjb2bTVr0UhqvSWC71RQBcOpRF-PM97FYZyg-CQW-cymi3A001Yn1eVNT6SDIkCqqIuys7u3BU3v2XW4Pf18NsRCYi2WbCYxdyq6l_azVItm3t_o4aBE7L3pVvFmwA2T4c781N05tGzRc5ZHJcPW7kBCZy_a94bmm203GJjlHcQz7Yf73r85eWxn7yo_eKPMKvxl8NzBajht3cHWL9py1aZycNqVAjIrtd2OstdXdpcLO0QVmpHbKvJ5fnQlegDnvGjufZWYLVxX2Jd5IOX5Efl7TbZUKxdlRza6KHA2mbWmRm2C6G2-fU8etnp-huvqQIOHEQhO42w_-yp7eH1xg26_6KRFR-Ih1I-2LzUF1MMmPeVF5Rm6-TFH7vAG1DwYjDnMnvjC77b1Q4Vo789rz94ZFlS2pGcbl2zjLwLAf0R8cTD-x9wYV3ior3GdXXP6TQorq7gp-0AeyZoA-Reu4aYpLnvywnWsn5yIURTxCkAiiYGENAQ0UYuAjIRUgkqcRiRmPShL_ZAURVJIGgGNIAVIqSIBBHEKRIGPkQgVgRcS7s9fN0UmkQcDAAA.H4sIAAAAAAAAAAEgAN___Q5evAK1yJ0TRui7-b40LKDEJAiduqZfVxGlFmufI0WCg6hCIAAAAA.3 [https://eero.okta.com/assets/js/sdk/okta-signin-widget/7.16.1/js/okta-sign-in.min.js]
 [mixed-active-content] [http] [info] https://mail.eero.com/login/?referrer=%2F [http://html5shim.googlecode.com/svn/trunk/html5.js]
 [nginx-version] [http] [info] http://pause-stage.eero.com [nginx/1.25.1]
 [nginx-version] [http] [info] http://pause.eero.com [nginx/1.25.1]
@@ -590,20 +620,20 @@
 [old-copyright] [http] [info] https://pro.eero.com [© 2023 ]
 [old-copyright] [http] [info] https://pro.eero.com/ [© 2023 ]
 [options-method] [http] [info] https://account.eero.com [GET,HEAD]
-[options-method] [http] [info] https://ap.account.eero.com [OPTIONS,HEAD,GET,POST]
-[options-method] [http] [info] https://ap.test-accounts.eero.com [GET,POST,OPTIONS,HEAD]
+[options-method] [http] [info] https://ap.account.eero.com [GET,POST,OPTIONS,HEAD]
+[options-method] [http] [info] https://ap.test-accounts.eero.com [OPTIONS,HEAD,GET,POST]
 [rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [2024-11-26T05:00:00Z]
 [rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [2024-11-26T05:00:00Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [2023-10-22T23:41:49Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [2023-10-22T23:41:49Z]
 [rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [NS-1104.AWSDNS-10.ORG,NS-2045.AWSDNS-63.CO.UK,NS-246.AWSDNS-30.COM,NS-888.AWSDNS-47.NET]
-[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [NS-888.AWSDNS-47.NET,NS-1104.AWSDNS-10.ORG,NS-2045.AWSDNS-63.CO.UK,NS-246.AWSDNS-30.COM]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [NS-1104.AWSDNS-10.ORG,NS-2045.AWSDNS-63.CO.UK,NS-246.AWSDNS-30.COM,NS-888.AWSDNS-47.NET]
 [rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [1998-11-27T05:00:00Z]
 [rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [1998-11-27T05:00:00Z]
 [rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [false]
 [rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [false]
 [rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [client delete prohibited,client transfer prohibited,client update prohibited]
-[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [client transfer prohibited,client update prohibited,client delete prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/eero.com [client delete prohibited,client transfer prohibited,client update prohibited]
 [request-based-interaction:dns] [http] [info] http://image.email.eero.com/
 [request-based-interaction:dns] [http] [info] https://image.email.eero.com/
 [robots-txt-endpoint] [http] [info] http://image.email.eero.com/robots.txt
@@ -620,6 +650,7 @@
 [s3-detect] [http] [info] https://pro.eero.com/%c0
 [tech-detect:akamai] [http] [info] http://image.email.eero.com
 [tech-detect:akamai] [http] [info] https://image.email.eero.com
+[tech-detect:angularjs] [http] [info] https://community.eero.com
 [tech-detect:awselb] [http] [info] http://account.eero.com
 [tech-detect:awselb] [http] [info] http://accounts.eero.com
 [tech-detect:awselb] [http] [info] http://dashboard.eero.com
@@ -642,12 +673,23 @@
 [tech-detect:cloudflare] [http] [info] http://support.eero.com:8080
 [tech-detect:cloudflare] [http] [info] http://support.eero.com:8443
 [tech-detect:cloudflare] [http] [info] https://store.eero.com
+[tech-detect:cloudflare] [http] [info] https://store.eero.com/
 [tech-detect:cloudflare] [http] [info] https://store.eero.com:8443
 [tech-detect:cloudflare] [http] [info] https://support.eero.com
 [tech-detect:cloudflare] [http] [info] https://support.eero.com/
+[tech-detect:cloudflare] [http] [info] https://support.eero.com/hc
+[tech-detect:cloudflare] [http] [info] https://support.eero.com/hc
+[tech-detect:cloudflare] [http] [info] https://support.eero.com/hc/en-us
+[tech-detect:google-font-api] [http] [info] https://store.eero.com
+[tech-detect:google-font-api] [http] [info] https://store.eero.com/
+[tech-detect:google-tag-manager] [http] [info] https://store.eero.com
+[tech-detect:google-tag-manager] [http] [info] https://store.eero.com/
+[tech-detect:nginx] [http] [info] http://community.eero.com
 [tech-detect:nginx] [http] [info] http://mail.eero.com
 [tech-detect:nginx] [http] [info] http://pause-stage.eero.com
 [tech-detect:nginx] [http] [info] http://pause.eero.com
+[tech-detect:nginx] [http] [info] https://community.eero.com
+[tech-detect:nginx] [http] [info] https://community.eero.com/
 [tech-detect:nginx] [http] [info] https://mail.eero.com
 [tech-detect:nginx] [http] [info] https://mail.eero.com/
 [tech-detect:nginx] [http] [info] https://mail.eero.com/login/?referrer=%2F
@@ -663,7 +705,6 @@
 [waf-detect:akamai] [http] [info] http://image.email.eero.com/
 [waf-detect:akamai] [http] [info] https://image.email.eero.com/
 [waf-detect:ats] [http] [info] https://account.eero.com/
-[waf-detect:ats] [http] [info] https://blog.eero.com/
 [waf-detect:cloudflare] [http] [info] http://store.eero.com/
 [waf-detect:cloudflare] [http] [info] http://store.eero.com:8080/
 [waf-detect:cloudflare] [http] [info] http://support.eero.com/
@@ -682,23 +723,14 @@
 [waf-detect:cloudfront] [http] [info] https://assets.marketing.eero.com/
 [waf-detect:cloudfront] [http] [info] https://assets.prod.eero.com/
 [waf-detect:cloudfront] [http] [info] https://blocked.eero.com/
-[waf-detect:cloudfront] [http] [info] https://blog.eero.com/
 [waf-detect:cloudfront] [http] [info] https://pro.eero.com/
-[waf-detect:nginxgeneric] [http] [info] http://blog.eero.com/
-[waf-detect:nginxgeneric] [http] [info] http://mail.eero.com/
+[waf-detect:modsecurityowasp] [http] [info] http://mail.eero.com/
 [waf-detect:nginxgeneric] [http] [info] http://pause-stage.eero.com/
 [waf-detect:nginxgeneric] [http] [info] http://pause.eero.com/
-[waf-detect:nginxgeneric] [http] [info] https://blog.eero.com/
-[waf-detect:nginxgeneric] [http] [info] https://community.eero.com/
 [waf-detect:nginxgeneric] [http] [info] https://mail.eero.com/
 [waf-detect:nginxgeneric] [http] [info] https://pause-stage.eero.com/
 [waf-detect:nginxgeneric] [http] [info] https://pause.eero.com/
 [waf-detect:securesphere] [http] [info] https://dashboard.eero.com/
-[wordpress-akismet:detected_version] [http] [info] http://blog.eero.com/wp-content/plugins/akismet/readme.txt [5.3.1] [last_version="5.3"]
-[wordpress-detect:version_by_generator] [http] [info] http://blog.eero.com/feed/ [6.4.3]
-[wordpress-jetpack:detected_version] [http] [info] https://blog.eero.com/wp-content/plugins/jetpack/readme.txt [13.2.1] [last_version="12.8.1"]
-[wordpress-login] [http] [info] https://blog.eero.com/wp-login.php
-[wordpress-ssl-insecure-content-fixer:detected_version] [http] [info] https://blog.eero.com/wp-content/plugins/ssl-insecure-content-fixer/readme.txt [2.7.2] [last_version="2.7.2"]
 [xss-deprecated-header] [http] [info] http://store.eero.com [1; mode=block]
 [xss-deprecated-header] [http] [info] http://store.eero.com:8080 [1; mode=block]
 [xss-deprecated-header] [http] [info] https://account.eero.com [1; mode=block]

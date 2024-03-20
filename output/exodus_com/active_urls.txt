@@ -6,6 +6,8 @@ http://crypto-pill-playground.exodus.com
 http://crypto-pill-playground.exodus.com:8080
 http://downloads.exodus.com
 http://downloads.exodus.com:8080
+http://exodus.com
+http://exodus.com:8080
 http://exokit.ot.exodus.com
 http://exokit.ot.exodus.com:8080
 http://extension.exodus.com
@@ -36,6 +38,8 @@ https://crypto-pill-playground.exodus.com
 https://crypto-pill-playground.exodus.com:8443
 https://downloads.exodus.com
 https://downloads.exodus.com:8443
+https://exodus.com
+https://exodus.com:8443
 https://exokit.ot.exodus.com
 https://exokit.ot.exodus.com:8443
 https://extension.exodus.com

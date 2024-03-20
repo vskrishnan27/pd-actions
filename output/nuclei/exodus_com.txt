@@ -1,0 +1,482 @@
+[addeventlistener-detect] [http] [info] http://blog.exodus.com:8080
+[addeventlistener-detect] [http] [info] http://crypto-pill-playground-d.exodus.com:8080
+[addeventlistener-detect] [http] [info] http://crypto-pill-playground.exodus.com:8080
+[addeventlistener-detect] [http] [info] http://downloads.exodus.com:8080
+[addeventlistener-detect] [http] [info] http://exokit.ot.exodus.com
+[addeventlistener-detect] [http] [info] http://exokit.ot.exodus.com:8080
+[addeventlistener-detect] [http] [info] http://extension.exodus.com:8080
+[addeventlistener-detect] [http] [info] http://metadata.exodus.com:8080
+[addeventlistener-detect] [http] [info] http://referrals.exodus.com:8080
+[addeventlistener-detect] [http] [info] http://sunflower.ot.exodus.com
+[addeventlistener-detect] [http] [info] http://sunflower.ot.exodus.com:8080
+[addeventlistener-detect] [http] [info] http://support-lt.exodus.com:8080
+[addeventlistener-detect] [http] [info] http://support.exodus.com:8080
+[addeventlistener-detect] [http] [info] https://blog.exodus.com:8443
+[addeventlistener-detect] [http] [info] https://crypto-pill-playground-d.exodus.com:8443
+[addeventlistener-detect] [http] [info] https://downloads.exodus.com:8443
+[addeventlistener-detect] [http] [info] https://exokit.ot.exodus.com
+[addeventlistener-detect] [http] [info] https://exokit.ot.exodus.com:8443
+[addeventlistener-detect] [http] [info] https://help.exodus.com:8443
+[addeventlistener-detect] [http] [info] https://metadata.exodus.com:8443
+[addeventlistener-detect] [http] [info] https://referrals.exodus.com:8443
+[addeventlistener-detect] [http] [info] https://sunflower.ot.exodus.com
+[addeventlistener-detect] [http] [info] https://sunflower.ot.exodus.com:8443
+[addeventlistener-detect] [http] [info] https://support-lt.exodus.com:8443
+[addeventlistener-detect] [http] [info] https://support.exodus.com:8443
+[addeventlistener-detect] [http] [info] https://www.exodus.com
+[apple-app-site-association] [http] [info] https://www.exodus.com/.well-known/apple-app-site-association [VK5Q293EVL.exodus-movement.exodus,VK5Q293EVL.exodus-movement.genesis,VK5Q293EVL.exodus-movement.creative]
+[cors-misconfig:arbitrary-origin] [http] [info] https://crypto-pill-playground-d.exodus.com [cors_origin="https://vq1me.com"]
+[cors-misconfig:arbitrary-origin] [http] [info] https://crypto-pill-playground.exodus.com [cors_origin="https://qjpe6exodus.com"]
+[email-extractor] [http] [info] http://blog.exodus.com:8080 [support@exodus.com]
+[email-extractor] [http] [info] http://crypto-pill-playground-d.exodus.com:8080 [support@exodus.com]
+[email-extractor] [http] [info] http://crypto-pill-playground.exodus.com:8080 [support@exodus.com]
+[email-extractor] [http] [info] http://downloads.exodus.com:8080 [support@exodus.com]
+[email-extractor] [http] [info] http://extension.exodus.com:8080 [support@exodus.com]
+[email-extractor] [http] [info] http://metadata.exodus.com:8080 [support@exodus.com]
+[email-extractor] [http] [info] http://pm-bounces.exodus.com [support@postmarkapp.com,abuse@postmarkapp.com]
+[email-extractor] [http] [info] http://referrals.exodus.com:8080 [support@exodus.com]
+[email-extractor] [http] [info] http://support-lt.exodus.com:8080 [support@exodus.com]
+[email-extractor] [http] [info] http://support.exodus.com:8080 [support@exodus.com]
+[email-extractor] [http] [info] https://blog.exodus.com:8443 [support@exodus.com]
+[email-extractor] [http] [info] https://crypto-pill-playground-d.exodus.com:8443 [support@exodus.com]
+[email-extractor] [http] [info] https://downloads.exodus.com:8443 [support@exodus.com]
+[email-extractor] [http] [info] https://help.exodus.com:8443 [support@exodus.com]
+[email-extractor] [http] [info] https://metadata.exodus.com:8443 [support@exodus.com]
+[email-extractor] [http] [info] https://referrals.exodus.com:8443 [support@exodus.com]
+[email-extractor] [http] [info] https://support-lt.exodus.com:8443 [support@exodus.com]
+[email-extractor] [http] [info] https://support.exodus.com:8443 [support@exodus.com]
+[http-missing-security-headers:clear-site-data] [http] [info] http://crypto-pill-playground-d.exodus.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://crypto-pill-playground.exodus.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://downloads.exodus.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://exodus.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://exokit.ot.exodus.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://exokit.ot.exodus.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://help.exodus.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://metadata.exodus.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://pm-bounces.exodus.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://sunflower.ot.exodus.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://sunflower.ot.exodus.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://support-lt.exodus.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] http://updates.exodus.com:8080
+[http-missing-security-headers:clear-site-data] [http] [info] https://blog.exodus.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://crypto-pill-playground-d.exodus.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://downloads.exodus.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://exodus.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://exokit.ot.exodus.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://exokit.ot.exodus.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://get.exodus.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://get.exodus.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://metadata.exodus.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://metadata.exodus.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://referrals.exodus.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://sunflower.ot.exodus.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://sunflower.ot.exodus.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://support-lt.exodus.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://support-lt.exodus.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://support-lt.exodus.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://support.exodus.com:8443
+[http-missing-security-headers:clear-site-data] [http] [info] https://updates.exodus.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.exodus.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.exodus.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.exodus.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] http://crypto-pill-playground-d.exodus.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://crypto-pill-playground.exodus.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://downloads.exodus.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://exodus.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://exokit.ot.exodus.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://exokit.ot.exodus.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://help.exodus.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://metadata.exodus.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://pm-bounces.exodus.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://sunflower.ot.exodus.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://sunflower.ot.exodus.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://support-lt.exodus.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] http://updates.exodus.com:8080
+[http-missing-security-headers:content-security-policy] [http] [info] https://blog.exodus.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://crypto-pill-playground-d.exodus.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://downloads.exodus.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://exodus.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://exokit.ot.exodus.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://exokit.ot.exodus.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://get.exodus.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://get.exodus.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://metadata.exodus.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://metadata.exodus.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://referrals.exodus.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://sunflower.ot.exodus.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://sunflower.ot.exodus.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://support-lt.exodus.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://support-lt.exodus.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://support-lt.exodus.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://support.exodus.com:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://updates.exodus.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.exodus.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://crypto-pill-playground-d.exodus.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://crypto-pill-playground.exodus.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://downloads.exodus.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://exodus.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://exokit.ot.exodus.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://exokit.ot.exodus.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://help.exodus.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://metadata.exodus.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://pm-bounces.exodus.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://sunflower.ot.exodus.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://sunflower.ot.exodus.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://support-lt.exodus.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://updates.exodus.com:8080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://blog.exodus.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://crypto-pill-playground-d.exodus.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://downloads.exodus.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://exodus.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://exokit.ot.exodus.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://exokit.ot.exodus.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://get.exodus.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://get.exodus.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://metadata.exodus.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://metadata.exodus.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://referrals.exodus.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sunflower.ot.exodus.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sunflower.ot.exodus.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://support-lt.exodus.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://support-lt.exodus.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://support-lt.exodus.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://support.exodus.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://updates.exodus.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.exodus.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.exodus.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.exodus.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://crypto-pill-playground-d.exodus.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://crypto-pill-playground.exodus.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://downloads.exodus.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://exodus.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://exokit.ot.exodus.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://exokit.ot.exodus.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://help.exodus.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://metadata.exodus.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://pm-bounces.exodus.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://sunflower.ot.exodus.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://sunflower.ot.exodus.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://support-lt.exodus.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://updates.exodus.com:8080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://blog.exodus.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://crypto-pill-playground-d.exodus.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://downloads.exodus.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://exodus.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://exokit.ot.exodus.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://exokit.ot.exodus.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://get.exodus.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://get.exodus.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://metadata.exodus.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://metadata.exodus.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://referrals.exodus.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sunflower.ot.exodus.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sunflower.ot.exodus.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://support-lt.exodus.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://support-lt.exodus.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://support-lt.exodus.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://support.exodus.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://updates.exodus.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.exodus.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.exodus.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.exodus.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://crypto-pill-playground-d.exodus.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://crypto-pill-playground.exodus.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://downloads.exodus.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://exodus.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://exokit.ot.exodus.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://exokit.ot.exodus.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://help.exodus.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://metadata.exodus.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://pm-bounces.exodus.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://sunflower.ot.exodus.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://sunflower.ot.exodus.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://support-lt.exodus.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://updates.exodus.com:8080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://blog.exodus.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://crypto-pill-playground-d.exodus.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://downloads.exodus.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://exodus.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://exokit.ot.exodus.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://exokit.ot.exodus.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://get.exodus.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://get.exodus.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://metadata.exodus.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://metadata.exodus.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://referrals.exodus.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sunflower.ot.exodus.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sunflower.ot.exodus.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://support-lt.exodus.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://support-lt.exodus.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://support-lt.exodus.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://support.exodus.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://updates.exodus.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.exodus.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.exodus.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.exodus.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] http://crypto-pill-playground-d.exodus.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://crypto-pill-playground.exodus.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://downloads.exodus.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://exodus.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://exokit.ot.exodus.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://exokit.ot.exodus.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://help.exodus.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://metadata.exodus.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://pm-bounces.exodus.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://sunflower.ot.exodus.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://sunflower.ot.exodus.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://support-lt.exodus.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] http://updates.exodus.com:8080
+[http-missing-security-headers:permissions-policy] [http] [info] https://blog.exodus.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://crypto-pill-playground-d.exodus.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://downloads.exodus.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://exodus.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://exokit.ot.exodus.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://exokit.ot.exodus.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://get.exodus.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://get.exodus.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://metadata.exodus.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://metadata.exodus.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://referrals.exodus.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://sunflower.ot.exodus.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://sunflower.ot.exodus.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://support-lt.exodus.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://support-lt.exodus.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://support-lt.exodus.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://support.exodus.com:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://updates.exodus.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.exodus.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.exodus.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.exodus.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] http://pm-bounces.exodus.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://get.exodus.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://get.exodus.com/
+[http-missing-security-headers:referrer-policy] [http] [info] https://metadata.exodus.com/
+[http-missing-security-headers:referrer-policy] [http] [info] https://support-lt.exodus.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://support-lt.exodus.com/
+[http-missing-security-headers:referrer-policy] [http] [info] https://updates.exodus.com/
+[http-missing-security-headers:strict-transport-security] [http] [info] http://crypto-pill-playground-d.exodus.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://crypto-pill-playground.exodus.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://downloads.exodus.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://exodus.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://exokit.ot.exodus.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://exokit.ot.exodus.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://help.exodus.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://metadata.exodus.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://pm-bounces.exodus.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://sunflower.ot.exodus.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://sunflower.ot.exodus.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://support-lt.exodus.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] http://updates.exodus.com:8080
+[http-missing-security-headers:strict-transport-security] [http] [info] https://exokit.ot.exodus.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://exokit.ot.exodus.com:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://get.exodus.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://get.exodus.com/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sunflower.ot.exodus.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sunflower.ot.exodus.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://exokit.ot.exodus.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://exokit.ot.exodus.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] http://pm-bounces.exodus.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://sunflower.ot.exodus.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://sunflower.ot.exodus.com:8080
+[http-missing-security-headers:x-content-type-options] [http] [info] https://exokit.ot.exodus.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://exokit.ot.exodus.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://get.exodus.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://get.exodus.com/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://sunflower.ot.exodus.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://sunflower.ot.exodus.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] http://pm-bounces.exodus.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://metadata.exodus.com/
+[http-missing-security-headers:x-frame-options] [http] [info] https://support-lt.exodus.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://support-lt.exodus.com/
+[http-missing-security-headers:x-frame-options] [http] [info] https://updates.exodus.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://crypto-pill-playground-d.exodus.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://crypto-pill-playground.exodus.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://downloads.exodus.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://exodus.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://exokit.ot.exodus.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://exokit.ot.exodus.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://help.exodus.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://metadata.exodus.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://pm-bounces.exodus.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://sunflower.ot.exodus.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://sunflower.ot.exodus.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://support-lt.exodus.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://updates.exodus.com:8080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://blog.exodus.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://crypto-pill-playground-d.exodus.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://downloads.exodus.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://exodus.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://exokit.ot.exodus.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://exokit.ot.exodus.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://get.exodus.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://get.exodus.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://metadata.exodus.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://metadata.exodus.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://referrals.exodus.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sunflower.ot.exodus.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sunflower.ot.exodus.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://support-lt.exodus.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://support-lt.exodus.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://support-lt.exodus.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://support.exodus.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://updates.exodus.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.exodus.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.exodus.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.exodus.com:8443
+[intercom] [http] [info] https://www.exodus.com
+[intercom] [http] [info] https://www.exodus.com/
+[internal-ip-disclosure] [http] [info] http://get.exodus.com/ [67.199.248.13]
+[internal-ip-disclosure] [http] [info] https://get.exodus.com/ [127.0.0.1]
+[missing-sri] [http] [info] https://referrals.exodus.com/ [https://static.cloudflareinsights.com/beacon.min.js]
+[missing-sri] [http] [info] https://referrals.exodus.com/ [https://static.cloudflareinsights.com/beacon.min.js]
+[missing-sri] [http] [info] https://www.exodus.com/ [https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js]
+[missing-sri] [http] [info] https://www.exodus.com/ [https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js]
+[missing-sri] [http] [info] https://www.exodus.com/download [https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js]
+[missing-sri] [http] [info] https://www.exodus.com/download [https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js]
+[missing-sri] [http] [info] https://www.exodus.com/download/ [https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js]
+[missing-sri] [http] [info] https://www.exodus.com/download/ [https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js]
+[missing-sri] [http] [info] https://www.exodus.com/news/ [https://www.exodus.com/plugins/js/analytics.js]
+[missing-sri] [http] [info] https://www.exodus.com/support/ [https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/landing-5c01e02cfbd1875a.js,https://static.intercomassets.com/_next/static/HqLENr5F5FvqLBUk0BOkP/_buildManifest.js,https://static.intercomassets.com/_next/static/HqLENr5F5FvqLBUk0BOkP/_ssgManifest.js,https://static.intercomassets.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js,https://static.intercomassets.com/_next/static/chunks/webpack-1a486ab106023d50.js,https://static.intercomassets.com/_next/static/chunks/framework-5666885447fdc3cc.js,https://static.intercomassets.com/_next/static/chunks/main-3130cf96069fd667.js,https://static.intercomassets.com/_next/static/chunks/pages/_app-26fe769526018d80.js,https://static.intercomassets.com/_next/static/chunks/2532-55fffda1d4c0058d.js,https://static.intercomassets.com/_next/static/chunks/9339-17fb5ae9e91c0895.js,https://static.intercomassets.com/_next/static/chunks/8425.068096163e181339.js]
+[missing-sri] [http] [info] https://www.exodus.com/support/ [https://static.intercomassets.com/_next/static/chunks/pages/_app-26fe769526018d80.js,https://static.intercomassets.com/_next/static/chunks/9339-17fb5ae9e91c0895.js,https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/landing-5c01e02cfbd1875a.js,https://static.intercomassets.com/_next/static/HqLENr5F5FvqLBUk0BOkP/_ssgManifest.js,https://static.intercomassets.com/_next/static/chunks/8425.068096163e181339.js,https://static.intercomassets.com/_next/static/chunks/webpack-1a486ab106023d50.js,https://static.intercomassets.com/_next/static/chunks/main-3130cf96069fd667.js,https://static.intercomassets.com/_next/static/chunks/2532-55fffda1d4c0058d.js,https://static.intercomassets.com/_next/static/HqLENr5F5FvqLBUk0BOkP/_buildManifest.js,https://static.intercomassets.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js,https://static.intercomassets.com/_next/static/chunks/framework-5666885447fdc3cc.js]
+[missing-sri] [http] [info] https://www.exodus.com/support/ [https://static.intercomassets.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js,https://static.intercomassets.com/_next/static/chunks/8425.068096163e181339.js,https://static.intercomassets.com/_next/static/chunks/framework-5666885447fdc3cc.js,https://static.intercomassets.com/_next/static/chunks/pages/_app-26fe769526018d80.js,https://static.intercomassets.com/_next/static/chunks/2532-55fffda1d4c0058d.js,https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/landing-5c01e02cfbd1875a.js,https://static.intercomassets.com/_next/static/HqLENr5F5FvqLBUk0BOkP/_ssgManifest.js,https://static.intercomassets.com/_next/static/chunks/webpack-1a486ab106023d50.js,https://static.intercomassets.com/_next/static/chunks/main-3130cf96069fd667.js,https://static.intercomassets.com/_next/static/chunks/9339-17fb5ae9e91c0895.js,https://static.intercomassets.com/_next/static/HqLENr5F5FvqLBUk0BOkP/_buildManifest.js]
+[missing-sri] [http] [info] https://www.exodus.com/support/ [https://static.intercomassets.com/_next/static/chunks/webpack-1a486ab106023d50.js,https://static.intercomassets.com/_next/static/chunks/framework-5666885447fdc3cc.js,https://static.intercomassets.com/_next/static/chunks/pages/_app-26fe769526018d80.js,https://static.intercomassets.com/_next/static/chunks/2532-55fffda1d4c0058d.js,https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/landing-5c01e02cfbd1875a.js,https://static.intercomassets.com/_next/static/HqLENr5F5FvqLBUk0BOkP/_buildManifest.js,https://static.intercomassets.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js,https://static.intercomassets.com/_next/static/chunks/8425.068096163e181339.js,https://static.intercomassets.com/_next/static/chunks/main-3130cf96069fd667.js,https://static.intercomassets.com/_next/static/chunks/9339-17fb5ae9e91c0895.js,https://static.intercomassets.com/_next/static/HqLENr5F5FvqLBUk0BOkP/_ssgManifest.js]
+[nginx-version] [http] [info] http://pm-bounces.exodus.com [nginx/1.25.4]
+[options-method] [http] [info] https://support-lt.exodus.com [DELETE, GET, HEAD, OPTIONS, POST, PUT]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [2031-12-14T05:00:00Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [2031-12-14T05:00:00Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [2031-12-14T05:00:00Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [2031-12-14T05:00:00Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [2022-10-26T17:26:15Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [2022-10-26T17:26:15Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [2022-10-26T17:26:15Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [2022-10-26T17:26:15Z]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [FRANK.NS.CLOUDFLARE.COM,JESSICA.NS.CLOUDFLARE.COM]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [FRANK.NS.CLOUDFLARE.COM,JESSICA.NS.CLOUDFLARE.COM]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [FRANK.NS.CLOUDFLARE.COM,JESSICA.NS.CLOUDFLARE.COM]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [FRANK.NS.CLOUDFLARE.COM,JESSICA.NS.CLOUDFLARE.COM]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [1994-12-15T05:00:00Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [1994-12-15T05:00:00Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [1994-12-15T05:00:00Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [1994-12-15T05:00:00Z]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [true]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [true]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [true]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [true]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [client delete prohibited,client transfer prohibited,client update prohibited,server delete prohibited,server transfer prohibited,server update prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [client delete prohibited,client transfer prohibited,client update prohibited,server delete prohibited,server transfer prohibited,server update prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [client transfer prohibited,client update prohibited,server delete prohibited,server transfer prohibited,server update prohibited,client delete prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/exodus.com [server update prohibited,client delete prohibited,client transfer prohibited,client update prohibited,server delete prohibited,server transfer prohibited]
+[robots-txt-endpoint] [http] [info] http://get.exodus.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://get.exodus.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://support.exodus.com/robots.txt
+[security-txt] [http] [info] http://get.exodus.com/security.txt [ security@bitly.com]
+[security-txt] [http] [info] https://get.exodus.com/security.txt [ security@bitly.com]
+[security-txt] [http] [info] https://support.exodus.com/.well-known/security.txt [ https://bugcrowd.com/intercom, mailto:security@intercom.com]
+[tech-detect:cloudflare] [http] [info] http://blog.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://crypto-pill-playground-d.exodus.com
+[tech-detect:cloudflare] [http] [info] http://crypto-pill-playground-d.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://crypto-pill-playground.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://downloads.exodus.com
+[tech-detect:cloudflare] [http] [info] http://downloads.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://exokit.ot.exodus.com
+[tech-detect:cloudflare] [http] [info] http://exokit.ot.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://extension.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://help.exodus.com
+[tech-detect:cloudflare] [http] [info] http://help.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://metadata.exodus.com
+[tech-detect:cloudflare] [http] [info] http://metadata.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://referrals.exodus.com
+[tech-detect:cloudflare] [http] [info] http://referrals.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://sunflower.ot.exodus.com
+[tech-detect:cloudflare] [http] [info] http://sunflower.ot.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://support-lt.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://support.exodus.com
+[tech-detect:cloudflare] [http] [info] http://support.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://updates.exodus.com
+[tech-detect:cloudflare] [http] [info] http://updates.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] http://www.exodus.com:8080
+[tech-detect:cloudflare] [http] [info] https://crypto-pill-playground-d.exodus.com
+[tech-detect:cloudflare] [http] [info] https://crypto-pill-playground-d.exodus.com/
+[tech-detect:cloudflare] [http] [info] https://crypto-pill-playground.exodus.com
+[tech-detect:cloudflare] [http] [info] https://crypto-pill-playground.exodus.com:8443
+[tech-detect:cloudflare] [http] [info] https://downloads.exodus.com
+[tech-detect:cloudflare] [http] [info] https://downloads.exodus.com:8443
+[tech-detect:cloudflare] [http] [info] https://exodus.com
+[tech-detect:cloudflare] [http] [info] https://exokit.ot.exodus.com
+[tech-detect:cloudflare] [http] [info] https://exokit.ot.exodus.com:8443
+[tech-detect:cloudflare] [http] [info] https://extension.exodus.com:8443
+[tech-detect:cloudflare] [http] [info] https://help.exodus.com
+[tech-detect:cloudflare] [http] [info] https://help.exodus.com:8443
+[tech-detect:cloudflare] [http] [info] https://metadata.exodus.com
+[tech-detect:cloudflare] [http] [info] https://metadata.exodus.com/
+[tech-detect:cloudflare] [http] [info] https://metadata.exodus.com:8443
+[tech-detect:cloudflare] [http] [info] https://referrals.exodus.com/
+[tech-detect:cloudflare] [http] [info] https://referrals.exodus.com:8443
+[tech-detect:cloudflare] [http] [info] https://sunflower.ot.exodus.com
+[tech-detect:cloudflare] [http] [info] https://sunflower.ot.exodus.com:8443
+[tech-detect:cloudflare] [http] [info] https://support-lt.exodus.com
+[tech-detect:cloudflare] [http] [info] https://support-lt.exodus.com:8443
+[tech-detect:cloudflare] [http] [info] https://support.exodus.com/
+[tech-detect:cloudflare] [http] [info] https://updates.exodus.com
+[tech-detect:cloudflare] [http] [info] https://updates.exodus.com/
+[tech-detect:nginx] [http] [info] http://get.exodus.com
+[tech-detect:nginx] [http] [info] http://pm-bounces.exodus.com
+[tech-detect:nginx] [http] [info] https://get.exodus.com
+[tech-detect:nginx] [http] [info] https://get.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://blog.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://blog.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://crypto-pill-playground-d.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://crypto-pill-playground-d.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://crypto-pill-playground.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://crypto-pill-playground.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://downloads.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://downloads.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://exodus.com/
+[waf-detect:cloudflare] [http] [info] http://exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://exokit.ot.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://exokit.ot.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://extension.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://extension.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://help.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://help.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://metadata.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://referrals.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://referrals.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://sunflower.ot.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://sunflower.ot.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://support-lt.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://support-lt.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://support.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://support.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://updates.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://updates.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] http://www.exodus.com/
+[waf-detect:cloudflare] [http] [info] http://www.exodus.com:8080/
+[waf-detect:cloudflare] [http] [info] https://crypto-pill-playground-d.exodus.com/
+[waf-detect:cloudflare] [http] [info] https://crypto-pill-playground-d.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://crypto-pill-playground.exodus.com/
+[waf-detect:cloudflare] [http] [info] https://crypto-pill-playground.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://downloads.exodus.com/
+[waf-detect:cloudflare] [http] [info] https://downloads.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://exodus.com/
+[waf-detect:cloudflare] [http] [info] https://exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://exokit.ot.exodus.com/
+[waf-detect:cloudflare] [http] [info] https://exokit.ot.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://extension.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://help.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://metadata.exodus.com/
+[waf-detect:cloudflare] [http] [info] https://metadata.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://referrals.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://sunflower.ot.exodus.com/
+[waf-detect:cloudflare] [http] [info] https://sunflower.ot.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://support-lt.exodus.com/
+[waf-detect:cloudflare] [http] [info] https://support-lt.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://support.exodus.com/
+[waf-detect:cloudflare] [http] [info] https://support.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://updates.exodus.com:8443/
+[waf-detect:cloudflare] [http] [info] https://www.exodus.com:8443/
+[waf-detect:nginxgeneric] [http] [info] http://get.exodus.com/
+[waf-detect:nginxgeneric] [http] [info] http://pm-bounces.exodus.com/
+[waf-detect:nginxgeneric] [http] [info] https://get.exodus.com/
+[xss-deprecated-header] [http] [info] https://www.exodus.com [1; mode=block]

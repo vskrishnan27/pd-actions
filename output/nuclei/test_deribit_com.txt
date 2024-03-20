@@ -1,0 +1,34 @@
+[addeventlistener-detect] [http] [info] https://test.deribit.com
+[email-extractor] [http] [info] https://test.deribit.com [compliance@deribit.com,support@deribit.com,u003esupport@deribit.com,u003ecompliance@deribit.com]
+[external-service-interaction] [http] [info] http://test.deribit.com
+[external-service-interaction] [http] [info] https://cnt7cjn2ff5bot9l2fs0xeggrymgmribu.oast.me/
+[http-missing-security-headers:clear-site-data] [http] [info] https://test.deribit.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://test.deribit.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://test.deribit.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://test.deribit.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://test.deribit.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://test.deribit.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://test.deribit.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://test.deribit.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://test.deribit.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://test.deribit.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://test.deribit.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://test.deribit.com/
+[http-missing-security-headers:referrer-policy] [http] [info] https://test.deribit.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://test.deribit.com/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://test.deribit.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://test.deribit.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://test.deribit.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://test.deribit.com/
+[missing-sri] [http] [info] https://test.deribit.com/ [https://assets-test.deribit.com/_next/static/chunks/pages/index-267bf89312c27757.js,https://assets-test.deribit.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js,https://assets-test.deribit.com/_next/static/chunks/webpack-5023f5c03a2673d5.js,https://assets-test.deribit.com/_next/static/chunks/framework-2c79e2a64abdb08b.js,https://assets-test.deribit.com/_next/static/chunks/main-c7a626df5cdbbb69.js,https://assets-test.deribit.com/_next/static/chunks/pages/_app-d6b6a68fa58f3246.js,https://assets-test.deribit.com/_next/static/chunks/204-5da4d25b16f38668.js,https://assets-test.deribit.com/_next/static/chunks/392-748dbc7f6937fa99.js,https://assets-test.deribit.com/_next/static/1cCcO2VL7JSgBKgKLdlIB/_ssgManifest.js,https://assets-test.deribit.com/_next/static/1cCcO2VL7JSgBKgKLdlIB/_buildManifest.js]
+[missing-sri] [http] [info] https://test.deribit.com/ [https://assets-test.deribit.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js,https://assets-test.deribit.com/_next/static/chunks/webpack-5023f5c03a2673d5.js,https://assets-test.deribit.com/_next/static/chunks/framework-2c79e2a64abdb08b.js,https://assets-test.deribit.com/_next/static/chunks/main-c7a626df5cdbbb69.js,https://assets-test.deribit.com/_next/static/chunks/pages/_app-d6b6a68fa58f3246.js,https://assets-test.deribit.com/_next/static/chunks/204-5da4d25b16f38668.js,https://assets-test.deribit.com/_next/static/chunks/392-748dbc7f6937fa99.js,https://assets-test.deribit.com/_next/static/chunks/pages/index-267bf89312c27757.js,https://assets-test.deribit.com/_next/static/1cCcO2VL7JSgBKgKLdlIB/_buildManifest.js,https://assets-test.deribit.com/_next/static/1cCcO2VL7JSgBKgKLdlIB/_ssgManifest.js]
+[nginx-version] [http] [info] https://test.deribit.com [nginx/1.21.3]
+[tech-detect:google-tag-manager] [http] [info] https://test.deribit.com
+[tech-detect:google-tag-manager] [http] [info] https://test.deribit.com/
+[tech-detect:next.js] [http] [info] https://test.deribit.com
+[tech-detect:next.js] [http] [info] https://test.deribit.com/
+[tech-detect:nginx] [http] [info] http://test.deribit.com
+[tech-detect:nginx] [http] [info] https://test.deribit.com
+[tech-detect:nginx] [http] [info] https://test.deribit.com/
+[waf-detect:nginxgeneric] [http] [info] http://test.deribit.com/
+[waf-detect:nginxgeneric] [http] [info] https://test.deribit.com/

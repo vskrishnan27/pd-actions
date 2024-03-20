@@ -48,8 +48,6 @@ defi.chain.link:8080
 defi.chain.link:8443
 dev.chain.link:443
 dev.chain.link:80
-dev.chain.link:8080
-dev.chain.link:8443
 docs.chain.link:443
 docs.chain.link:80
 docs.chain.link:8080
@@ -135,10 +133,6 @@ mercury-srv.chain.link:443
 mercury-srv.chain.link:80
 mercury-srv.chain.link:8080
 mercury-srv.chain.link:8443
-on.chain.link:443
-on.chain.link:80
-on.chain.link:8080
-on.chain.link:8443
 pages.chain.link:443
 pages.chain.link:80
 pages.chain.link:8080

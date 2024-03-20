@@ -2,6 +2,7 @@ accounts.zoho.eu
 allblogs.wiki.zoho.eu
 analytics.zoho.eu
 analyticsapi.zoho.eu
+api.marketplace.zoho.eu
 as.zoho.eu
 assist.zoho.eu
 attend.zoho.eu
@@ -32,7 +33,6 @@ customer-creator.zoho.eu
 customer-recruit.zoho.eu
 customer-reports.zoho.eu
 customer-sites.zoho.eu
-customer-support.zoho.eu
 customer-survey.zoho.eu
 customer-wms.zoho.eu
 desk.zoho.eu

@@ -132,7 +132,7 @@
 [rdap-whois:expirationDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [2025-01-23T15:56:52.043Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [2024-02-23T12:49:29.718Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [2024-02-23T12:49:29.718Z]
-[rdap-whois:nameServers] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [ns-1468.awsdns-55.org,ns-1671.awsdns-16.co.uk,ns-318.awsdns-39.com,ns-948.awsdns-54.net]
+[rdap-whois:nameServers] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [ns-318.awsdns-39.com,ns-948.awsdns-54.net,ns-1468.awsdns-55.org,ns-1671.awsdns-16.co.uk]
 [rdap-whois:nameServers] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [ns-948.awsdns-54.net,ns-1468.awsdns-55.org,ns-1671.awsdns-16.co.uk,ns-318.awsdns-39.com]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [Middlesex,GB]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [Middlesex,GB]
@@ -145,15 +145,9 @@
 [rdap-whois:secureDNS] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [true]
 [rdap-whois:secureDNS] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [true]
 [rdap-whois:status] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [client transfer prohibited,client update prohibited,client delete prohibited]
-[rdap-whois:status] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [client update prohibited,client delete prohibited,client transfer prohibited]
-[robots-txt-endpoint] [http] [info] https://www.iovlabs.org/robots.txt
-[robots-txt] [http] [info] https://www.iovlabs.org/robots.txt
-[robots-txt] [http] [info] https://www.iovlabs.org/robots.txt
+[rdap-whois:status] [http] [info] https://rdap.publicinterestregistry.org/rdap/domain/iovlabs.org [client transfer prohibited,client update prohibited,client delete prohibited]
 [s3-detect] [http] [info] https://cdn.iovlabs.org/%c0
 [s3-detect] [http] [info] https://mta-sts.iovlabs.org/%c0
-[security-txt] [http] [info] https://www.iovlabs.org/.well-known/security.txt [ mailto:security@iovlabs.org]
-[security-txt] [http] [info] https://www.iovlabs.org/.well-known/security.txt [ mailto:security@iovlabs.org]
-[security-txt] [http] [info] https://www.iovlabs.org/.well-known/security.txt [ mailto:security@iovlabs.org]
 [tech-detect:bootstrap] [http] [info] https://cdn.iovlabs.org
 [tech-detect:bootstrap] [http] [info] https://cdn.iovlabs.org/
 [waf-detect:cloudfront] [http] [info] http://cdn.iovlabs.org/

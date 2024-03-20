@@ -310,13 +310,13 @@
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [2023-03-22T10:50:46Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [2023-03-22T10:50:46Z]
 [rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [NS-1137.AWSDNS-14.ORG,NS-1560.AWSDNS-03.CO.UK,NS-69.AWSDNS-08.COM,NS-941.AWSDNS-53.NET]
-[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [NS-69.AWSDNS-08.COM,NS-941.AWSDNS-53.NET,NS-1137.AWSDNS-14.ORG,NS-1560.AWSDNS-03.CO.UK]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [NS-1560.AWSDNS-03.CO.UK,NS-69.AWSDNS-08.COM,NS-941.AWSDNS-53.NET,NS-1137.AWSDNS-14.ORG]
 [rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [2007-04-23T03:57:26Z]
 [rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [2007-04-23T03:57:26Z]
 [rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [false]
 [rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [false]
 [rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [client delete prohibited,client transfer prohibited,client update prohibited]
-[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [client transfer prohibited,client update prohibited,client delete prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/bitstrips.com [client delete prohibited,client transfer prohibited,client update prohibited]
 [s3-detect] [http] [info] http://assets.bitstrips.com/%c0
 [s3-detect] [http] [info] http://bitchat.bitstrips.com/%c0
 [s3-detect] [http] [info] http://cassets.bitstrips.com/%c0

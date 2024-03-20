@@ -30,10 +30,6 @@ mainnet-full-snapshots.base.org:443
 mainnet-full-snapshots.base.org:80
 mainnet-full-snapshots.base.org:8080
 mainnet-full-snapshots.base.org:8443
-mainnet.base.org:443
-mainnet.base.org:80
-mainnet.base.org:8080
-mainnet.base.org:8443
 mint.base.org:443
 mint.base.org:80
 mint.base.org:8080

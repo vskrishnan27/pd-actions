@@ -16,8 +16,6 @@ http://goerli.base.org
 http://goerli.base.org:8080
 http://mainnet-full-snapshots.base.org
 http://mainnet-full-snapshots.base.org:8080
-http://mainnet.base.org
-http://mainnet.base.org:8080
 http://mint.base.org
 http://mint.base.org:8080
 http://quests.base.org
@@ -47,8 +45,6 @@ https://goerli.base.org
 https://goerli.base.org:8443
 https://mainnet-full-snapshots.base.org
 https://mainnet-full-snapshots.base.org:8443
-https://mainnet.base.org
-https://mainnet.base.org:8443
 https://mint.base.org
 https://mint.base.org:8443
 https://quests.base.org

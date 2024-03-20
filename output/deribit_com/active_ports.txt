@@ -24,9 +24,6 @@ blog.deribit.com:443
 blog.deribit.com:80
 blog.deribit.com:8080
 blog.deribit.com:8443
-chat.deribit.com:22
-chat.deribit.com:443
-chat.deribit.com:80
 chattest.deribit.com:22
 chattest.deribit.com:443
 chattest.deribit.com:80

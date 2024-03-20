@@ -156,6 +156,7 @@ webinar.zoho.in:443
 webinar.zoho.in:80
 wiki.zoho.in:443
 wiki.zoho.in:80
+wms4.zoho.in:443
 workdrive.zoho.in:443
 workdrive.zoho.in:80
 www.zoho.in:443

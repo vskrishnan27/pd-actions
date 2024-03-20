@@ -78,6 +78,8 @@ www.techblog.zomato.com:443
 www.techblog.zomato.com:80
 www.zomato.com:443
 www.zomato.com:80
+zomato.com:443
+zomato.com:80
 zpay.zomato.com:443
 zpay.zomato.com:80
 zwstatic.zomato.com:443

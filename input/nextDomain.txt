@@ -1,4 +1,3 @@
-coinbase.com
 base.org
 sorare.com
 krisp.ai
@@ -80,3 +79,4 @@ grammarly.com
 superbet.ro
 test.deribit.com
 deribit.com
+coinbase.com

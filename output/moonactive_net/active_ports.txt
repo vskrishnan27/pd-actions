@@ -8,10 +8,6 @@ cm-gs-analytics.moonactive.net:443
 cm-gs-analytics.moonactive.net:80
 cm-minigames.moonactive.net:443
 cm-minigames.moonactive.net:80
-moonactive.net:443
-moonactive.net:80
-moonactive.net:8080
-moonactive.net:8443
 social-images.moonactive.net:443
 social-images.moonactive.net:80
 social-images.moonactive.net:8080

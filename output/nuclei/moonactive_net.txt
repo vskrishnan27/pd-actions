@@ -216,35 +216,7 @@
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://vik-analytics.moonactive.net
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://vik-ca.moonactive.net
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://vik-game.moonactive.net
-[missing-sri] [http] [info] https://www.moonactive.com [https://www.moonactive.com/wp-content/plugins/wp-file-upload/js/wordpress_file_upload_functions.js?ver=6.4.3,https://www.moonactive.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1,https://www.moonactive.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9,https://www.moonactive.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9,https://www.moonactive.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2,https://www.moonactive.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2,https://www.moonactive.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0,https://www.moonactive.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://www.moonactive.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://www.moonactive.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2,https://www.moonactive.com/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.js?ver=6.4.3,https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js,https://www.moonactive.com/wp-content/themes/moonactive/js/promo.js?ver=230809-82402,https://www.moonactive.com/wp-content/themes/moonactive/assets/slick/slick.js?ver=6.4.3,https://www.google.com/recaptcha/api.js?render=6LfYzr8aAAAAADwtMluUl6ffbY_UCdDUfWyhyR--&ver=3.0,https://www.moonactive.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2,https://www.moonactive.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2,https://www.moonactive.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9]
-[missing-sri] [http] [info] https://www.moonactive.com [https://www.moonactive.com/wp-content/plugins/wp-file-upload/js/wordpress_file_upload_functions.js?ver=6.4.3,https://www.moonactive.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2,https://www.moonactive.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0,https://www.moonactive.com/wp-content/themes/moonactive/assets/slick/slick.js?ver=6.4.3,https://www.moonactive.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2,https://www.moonactive.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9,https://www.moonactive.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2,https://www.moonactive.com/wp-content/themes/moonactive/js/promo.js?ver=230809-82402,https://www.moonactive.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9,https://www.google.com/recaptcha/api.js?render=6LfYzr8aAAAAADwtMluUl6ffbY_UCdDUfWyhyR--&ver=3.0,https://www.moonactive.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://www.moonactive.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1,https://www.moonactive.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2,https://www.moonactive.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://www.moonactive.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9,https://www.moonactive.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2,https://www.moonactive.com/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.js?ver=6.4.3,https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js]
-[missing-sri] [http] [info] https://www.moonactive.com [https://www.moonactive.com/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.js?ver=6.4.3,https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js,https://www.moonactive.com/wp-content/themes/moonactive/assets/slick/slick.js?ver=6.4.3,https://www.moonactive.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0,https://www.moonactive.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://www.moonactive.com/wp-content/plugins/wp-file-upload/js/wordpress_file_upload_functions.js?ver=6.4.3,https://www.moonactive.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2,https://www.moonactive.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9,https://www.moonactive.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2,https://www.moonactive.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9,https://www.moonactive.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://www.moonactive.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1,https://www.moonactive.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9,https://www.google.com/recaptcha/api.js?render=6LfYzr8aAAAAADwtMluUl6ffbY_UCdDUfWyhyR--&ver=3.0,https://www.moonactive.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2,https://www.moonactive.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2,https://www.moonactive.com/wp-content/themes/moonactive/js/promo.js?ver=230809-82402,https://www.moonactive.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2]
-[missing-sri] [http] [info] https://www.moonactive.com [https://www.moonactive.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2,https://www.moonactive.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9,https://www.moonactive.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://www.moonactive.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2,https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js,https://www.moonactive.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9,https://www.google.com/recaptcha/api.js?render=6LfYzr8aAAAAADwtMluUl6ffbY_UCdDUfWyhyR--&ver=3.0,https://www.moonactive.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0,https://www.moonactive.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1,https://www.moonactive.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9,https://www.moonactive.com/wp-content/themes/moonactive/assets/slick/slick.js?ver=6.4.3,https://www.moonactive.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2,https://www.moonactive.com/wp-content/themes/moonactive/js/promo.js?ver=230809-82402,https://www.moonactive.com/wp-content/plugins/wp-file-upload/js/wordpress_file_upload_functions.js?ver=6.4.3,https://www.moonactive.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://www.moonactive.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2,https://www.moonactive.com/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.js?ver=6.4.3,https://www.moonactive.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2]
 [options-method] [http] [info] https://client-metrics.moonactive.net [OPTIONS, POST]
-[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2028-03-25T10:59:38Z]
-[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2028-03-25T10:59:38Z]
-[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2028-03-25T10:59:38Z]
-[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2028-03-25T10:59:38Z]
-[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2023-03-24T21:13:41Z]
-[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2023-03-24T21:13:41Z]
-[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2023-03-24T21:13:41Z]
-[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2023-03-24T21:13:41Z]
-[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [FAY.NS.CLOUDFLARE.COM,JOEL.NS.CLOUDFLARE.COM]
-[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [FAY.NS.CLOUDFLARE.COM,JOEL.NS.CLOUDFLARE.COM]
-[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [JOEL.NS.CLOUDFLARE.COM,FAY.NS.CLOUDFLARE.COM]
-[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [JOEL.NS.CLOUDFLARE.COM,FAY.NS.CLOUDFLARE.COM]
-[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2013-03-25T10:59:38Z]
-[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2013-03-25T10:59:38Z]
-[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2013-03-25T10:59:38Z]
-[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [2013-03-25T10:59:38Z]
-[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [false]
-[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [false]
-[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [false]
-[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [false]
-[rdap-whois:status] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [client delete prohibited,client renew prohibited,client transfer prohibited,client update prohibited]
-[rdap-whois:status] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [client renew prohibited,client transfer prohibited,client update prohibited,client delete prohibited]
-[rdap-whois:status] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [client renew prohibited,client transfer prohibited,client update prohibited,client delete prohibited]
-[rdap-whois:status] [http] [info] https://rdap.verisign.com/net/v1/domain/moonactive.net [client transfer prohibited,client update prohibited,client delete prohibited,client renew prohibited]
 [s3-detect] [http] [info] http://static.moonactive.net/%c0
 [s3-detect] [http] [info] https://cm-minigames.moonactive.net/%c0
 [s3-detect] [http] [info] https://social-images.moonactive.net/%c0
@@ -252,39 +224,28 @@
 [springboot-actuator:available-endpoints] [http] [info] https://cm-analytics.moonactive.net/actuator [health,health-path,self]
 [springboot-actuator:available-endpoints] [http] [info] https://cm-gs-analytics.moonactive.net/actuator [health,health-path,self]
 [springboot-actuator:available-endpoints] [http] [info] https://vik-analytics-gke.moonactive.net/actuator [health,health-path,self]
-[springboot-actuator:available-endpoints] [http] [info] https://vik-analytics.moonactive.net/actuator [health,health-path,self]
-[springboot-actuator:available-endpoints] [http] [info] https://vik-ca.moonactive.net/actuator [self,health,health-path]
+[springboot-actuator:available-endpoints] [http] [info] https://vik-analytics.moonactive.net/actuator [health-path,self,health]
+[springboot-actuator:available-endpoints] [http] [info] https://vik-ca.moonactive.net/actuator [health,health-path,self]
 [tech-detect:cloudflare] [http] [info] http://client-metrics.moonactive.net
 [tech-detect:cloudflare] [http] [info] http://client-metrics.moonactive.net:8443
-[tech-detect:cloudflare] [http] [info] http://moonactive.net
-[tech-detect:cloudflare] [http] [info] http://moonactive.net:8080
 [tech-detect:cloudflare] [http] [info] http://social-images.moonactive.net
 [tech-detect:cloudflare] [http] [info] http://social-images.moonactive.net:8443
+[tech-detect:cloudflare] [http] [info] http://vik-game.moonactive.net
 [tech-detect:cloudflare] [http] [info] http://vik-game.moonactive.net:8443
 [tech-detect:cloudflare] [http] [info] https://client-metrics.moonactive.net
-[tech-detect:cloudflare] [http] [info] https://moonactive.net
-[tech-detect:cloudflare] [http] [info] https://moonactive.net:8443
 [tech-detect:cloudflare] [http] [info] https://social-images.moonactive.net
 [tech-detect:cloudflare] [http] [info] https://social-images.moonactive.net/
 [tech-detect:cloudflare] [http] [info] https://vik-game.moonactive.net
 [waf-detect:cloudflare] [http] [info] http://client-metrics.moonactive.net/
 [waf-detect:cloudflare] [http] [info] http://client-metrics.moonactive.net:8443/
-[waf-detect:cloudflare] [http] [info] http://moonactive.net/
-[waf-detect:cloudflare] [http] [info] http://moonactive.net:8080/
 [waf-detect:cloudflare] [http] [info] http://social-images.moonactive.net/
 [waf-detect:cloudflare] [http] [info] http://social-images.moonactive.net:8443/
 [waf-detect:cloudflare] [http] [info] http://vik-game.moonactive.net/
 [waf-detect:cloudflare] [http] [info] http://vik-game.moonactive.net:8443/
 [waf-detect:cloudflare] [http] [info] https://client-metrics.moonactive.net/
-[waf-detect:cloudflare] [http] [info] https://moonactive.net/
-[waf-detect:cloudflare] [http] [info] https://moonactive.net:8443/
 [waf-detect:cloudflare] [http] [info] https://social-images.moonactive.net/
 [waf-detect:cloudflare] [http] [info] https://vik-game.moonactive.net/
 [waf-detect:cloudfront] [http] [info] http://cm-minigames.moonactive.net/
 [waf-detect:cloudfront] [http] [info] http://static.moonactive.net/
 [waf-detect:cloudfront] [http] [info] https://cm-minigames.moonactive.net/
 [waf-detect:cloudfront] [http] [info] https://static.moonactive.net/
-[wordpress-detect:version_by_js] [http] [info] https://www.moonactive.com [6.4.3]
-[wordpress-detect:version_by_js] [http] [info] https://www.moonactive.com [6.4.3]
-[wordpress-detect:version_by_js] [http] [info] https://www.moonactive.com [6.4.3]
-[wordpress-detect:version_by_js] [http] [info] https://www.moonactive.com [6.4.3]

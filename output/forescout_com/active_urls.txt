@@ -26,6 +26,8 @@ http://dc0-secure.forescout.com:8080
 http://docs.forescout.com
 http://docs.forescout.com:8080
 http://docs.forescout.com:8443
+http://forescout.com
+http://forescout.com:8443
 http://groove.forescout.com
 http://kb.forescout.com
 http://kb.forescout.com:8443
@@ -66,6 +68,7 @@ https://compatibility.forescout.com
 https://dc0-secure.forescout.com
 https://dc0-secure.forescout.com:8443
 https://docs.forescout.com
+https://forescout.com
 https://groove.forescout.com
 https://kb.forescout.com
 https://license2.forescout.com

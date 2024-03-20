@@ -24,7 +24,6 @@
 [google-floc-disabled] [http] [info] http://itsm.recargapay.com.br:8080
 [google-floc-disabled] [http] [info] https://faq.recargapay.com.br
 [google-floc-disabled] [http] [info] https://itsm.recargapay.com.br
-[http-missing-security-headers:clear-site-data] [http] [info] http://dapi.of.recargapay.com.br
 [http-missing-security-headers:clear-site-data] [http] [info] http://faq.recargapay.com.br
 [http-missing-security-headers:clear-site-data] [http] [info] http://faq.recargapay.com.br:8080
 [http-missing-security-headers:clear-site-data] [http] [info] http://faq.recargapay.com.br:8443
@@ -35,6 +34,7 @@
 [http-missing-security-headers:clear-site-data] [http] [info] https://api.of.recargapay.com.br
 [http-missing-security-headers:clear-site-data] [http] [info] https://api.of.recargapay.com.br/
 [http-missing-security-headers:clear-site-data] [http] [info] https://dapi.of.recargapay.com.br
+[http-missing-security-headers:clear-site-data] [http] [info] https://dapi.of.recargapay.com.br/
 [http-missing-security-headers:clear-site-data] [http] [info] https://faq.recargapay.com.br
 [http-missing-security-headers:clear-site-data] [http] [info] https://itsm.recargapay.com.br
 [http-missing-security-headers:clear-site-data] [http] [info] https://link.recargapay.com.br
@@ -44,7 +44,6 @@
 [http-missing-security-headers:clear-site-data] [http] [info] https://recargapay.com.br/
 [http-missing-security-headers:clear-site-data] [http] [info] https://www.recargapay.com.br
 [http-missing-security-headers:clear-site-data] [http] [info] https://www.recargapay.com.br/
-[http-missing-security-headers:content-security-policy] [http] [info] http://dapi.of.recargapay.com.br
 [http-missing-security-headers:content-security-policy] [http] [info] http://faq.recargapay.com.br
 [http-missing-security-headers:content-security-policy] [http] [info] http://faq.recargapay.com.br:8080
 [http-missing-security-headers:content-security-policy] [http] [info] http://faq.recargapay.com.br:8443
@@ -55,6 +54,7 @@
 [http-missing-security-headers:content-security-policy] [http] [info] https://api.of.recargapay.com.br
 [http-missing-security-headers:content-security-policy] [http] [info] https://api.of.recargapay.com.br/
 [http-missing-security-headers:content-security-policy] [http] [info] https://dapi.of.recargapay.com.br
+[http-missing-security-headers:content-security-policy] [http] [info] https://dapi.of.recargapay.com.br/
 [http-missing-security-headers:content-security-policy] [http] [info] https://faq.recargapay.com.br
 [http-missing-security-headers:content-security-policy] [http] [info] https://itsm.recargapay.com.br
 [http-missing-security-headers:content-security-policy] [http] [info] https://link.recargapay.com.br
@@ -64,13 +64,13 @@
 [http-missing-security-headers:content-security-policy] [http] [info] https://recargapay.com.br/
 [http-missing-security-headers:content-security-policy] [http] [info] https://www.recargapay.com.br
 [http-missing-security-headers:content-security-policy] [http] [info] https://www.recargapay.com.br/
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://dapi.of.recargapay.com.br
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://faq.recargapay.com.br:8443
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://itsm.recargapay.com.br:8443
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://mtls-dapi.of.recargapay.com.br
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://api.of.recargapay.com.br
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://api.of.recargapay.com.br/
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://dapi.of.recargapay.com.br
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://dapi.of.recargapay.com.br/
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://link.recargapay.com.br
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://link.recargapay.com.br/
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://mtls-dapi.of.recargapay.com.br
@@ -78,13 +78,13 @@
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://recargapay.com.br/
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.recargapay.com.br
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.recargapay.com.br/
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://dapi.of.recargapay.com.br
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://faq.recargapay.com.br:8443
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://itsm.recargapay.com.br:8443
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://mtls-dapi.of.recargapay.com.br
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://api.of.recargapay.com.br
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://api.of.recargapay.com.br/
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://dapi.of.recargapay.com.br
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://dapi.of.recargapay.com.br/
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://link.recargapay.com.br
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://link.recargapay.com.br/
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://mtls-dapi.of.recargapay.com.br
@@ -92,13 +92,13 @@
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://recargapay.com.br/
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.recargapay.com.br
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.recargapay.com.br/
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://dapi.of.recargapay.com.br
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://faq.recargapay.com.br:8443
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://itsm.recargapay.com.br:8443
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://mtls-dapi.of.recargapay.com.br
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://api.of.recargapay.com.br
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://api.of.recargapay.com.br/
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://dapi.of.recargapay.com.br
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://dapi.of.recargapay.com.br/
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://link.recargapay.com.br
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://link.recargapay.com.br/
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://mtls-dapi.of.recargapay.com.br
@@ -106,13 +106,13 @@
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://recargapay.com.br/
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.recargapay.com.br
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.recargapay.com.br/
-[http-missing-security-headers:permissions-policy] [http] [info] http://dapi.of.recargapay.com.br
 [http-missing-security-headers:permissions-policy] [http] [info] http://faq.recargapay.com.br:8443
 [http-missing-security-headers:permissions-policy] [http] [info] http://itsm.recargapay.com.br:8443
 [http-missing-security-headers:permissions-policy] [http] [info] http://mtls-dapi.of.recargapay.com.br
 [http-missing-security-headers:permissions-policy] [http] [info] https://api.of.recargapay.com.br
 [http-missing-security-headers:permissions-policy] [http] [info] https://api.of.recargapay.com.br/
 [http-missing-security-headers:permissions-policy] [http] [info] https://dapi.of.recargapay.com.br
+[http-missing-security-headers:permissions-policy] [http] [info] https://dapi.of.recargapay.com.br/
 [http-missing-security-headers:permissions-policy] [http] [info] https://link.recargapay.com.br
 [http-missing-security-headers:permissions-policy] [http] [info] https://link.recargapay.com.br/
 [http-missing-security-headers:permissions-policy] [http] [info] https://mtls-dapi.of.recargapay.com.br
@@ -120,13 +120,13 @@
 [http-missing-security-headers:permissions-policy] [http] [info] https://recargapay.com.br/
 [http-missing-security-headers:permissions-policy] [http] [info] https://www.recargapay.com.br
 [http-missing-security-headers:permissions-policy] [http] [info] https://www.recargapay.com.br/
-[http-missing-security-headers:referrer-policy] [http] [info] http://dapi.of.recargapay.com.br
 [http-missing-security-headers:referrer-policy] [http] [info] http://faq.recargapay.com.br:8443
 [http-missing-security-headers:referrer-policy] [http] [info] http://itsm.recargapay.com.br:8443
 [http-missing-security-headers:referrer-policy] [http] [info] http://mtls-dapi.of.recargapay.com.br
 [http-missing-security-headers:referrer-policy] [http] [info] https://api.of.recargapay.com.br
 [http-missing-security-headers:referrer-policy] [http] [info] https://api.of.recargapay.com.br/
 [http-missing-security-headers:referrer-policy] [http] [info] https://dapi.of.recargapay.com.br
+[http-missing-security-headers:referrer-policy] [http] [info] https://dapi.of.recargapay.com.br/
 [http-missing-security-headers:referrer-policy] [http] [info] https://link.recargapay.com.br
 [http-missing-security-headers:referrer-policy] [http] [info] https://link.recargapay.com.br/
 [http-missing-security-headers:referrer-policy] [http] [info] https://mtls-dapi.of.recargapay.com.br
@@ -134,7 +134,6 @@
 [http-missing-security-headers:referrer-policy] [http] [info] https://recargapay.com.br/
 [http-missing-security-headers:referrer-policy] [http] [info] https://www.recargapay.com.br
 [http-missing-security-headers:referrer-policy] [http] [info] https://www.recargapay.com.br/
-[http-missing-security-headers:strict-transport-security] [http] [info] http://dapi.of.recargapay.com.br
 [http-missing-security-headers:strict-transport-security] [http] [info] http://faq.recargapay.com.br
 [http-missing-security-headers:strict-transport-security] [http] [info] http://faq.recargapay.com.br:8080
 [http-missing-security-headers:strict-transport-security] [http] [info] http://faq.recargapay.com.br:8443
@@ -145,6 +144,7 @@
 [http-missing-security-headers:strict-transport-security] [http] [info] https://api.of.recargapay.com.br
 [http-missing-security-headers:strict-transport-security] [http] [info] https://api.of.recargapay.com.br/
 [http-missing-security-headers:strict-transport-security] [http] [info] https://dapi.of.recargapay.com.br
+[http-missing-security-headers:strict-transport-security] [http] [info] https://dapi.of.recargapay.com.br/
 [http-missing-security-headers:strict-transport-security] [http] [info] https://faq.recargapay.com.br
 [http-missing-security-headers:strict-transport-security] [http] [info] https://itsm.recargapay.com.br
 [http-missing-security-headers:strict-transport-security] [http] [info] https://link.recargapay.com.br
@@ -154,7 +154,6 @@
 [http-missing-security-headers:strict-transport-security] [http] [info] https://recargapay.com.br/
 [http-missing-security-headers:strict-transport-security] [http] [info] https://www.recargapay.com.br
 [http-missing-security-headers:strict-transport-security] [http] [info] https://www.recargapay.com.br/
-[http-missing-security-headers:x-content-type-options] [http] [info] http://dapi.of.recargapay.com.br
 [http-missing-security-headers:x-content-type-options] [http] [info] http://faq.recargapay.com.br
 [http-missing-security-headers:x-content-type-options] [http] [info] http://faq.recargapay.com.br:8080
 [http-missing-security-headers:x-content-type-options] [http] [info] http://faq.recargapay.com.br:8443
@@ -165,6 +164,7 @@
 [http-missing-security-headers:x-content-type-options] [http] [info] https://api.of.recargapay.com.br
 [http-missing-security-headers:x-content-type-options] [http] [info] https://api.of.recargapay.com.br/
 [http-missing-security-headers:x-content-type-options] [http] [info] https://dapi.of.recargapay.com.br
+[http-missing-security-headers:x-content-type-options] [http] [info] https://dapi.of.recargapay.com.br/
 [http-missing-security-headers:x-content-type-options] [http] [info] https://faq.recargapay.com.br
 [http-missing-security-headers:x-content-type-options] [http] [info] https://itsm.recargapay.com.br
 [http-missing-security-headers:x-content-type-options] [http] [info] https://link.recargapay.com.br
@@ -174,13 +174,13 @@
 [http-missing-security-headers:x-content-type-options] [http] [info] https://recargapay.com.br/
 [http-missing-security-headers:x-content-type-options] [http] [info] https://www.recargapay.com.br
 [http-missing-security-headers:x-content-type-options] [http] [info] https://www.recargapay.com.br/
-[http-missing-security-headers:x-frame-options] [http] [info] http://dapi.of.recargapay.com.br
 [http-missing-security-headers:x-frame-options] [http] [info] http://faq.recargapay.com.br:8443
 [http-missing-security-headers:x-frame-options] [http] [info] http://itsm.recargapay.com.br:8443
 [http-missing-security-headers:x-frame-options] [http] [info] http://mtls-dapi.of.recargapay.com.br
 [http-missing-security-headers:x-frame-options] [http] [info] https://api.of.recargapay.com.br
 [http-missing-security-headers:x-frame-options] [http] [info] https://api.of.recargapay.com.br/
 [http-missing-security-headers:x-frame-options] [http] [info] https://dapi.of.recargapay.com.br
+[http-missing-security-headers:x-frame-options] [http] [info] https://dapi.of.recargapay.com.br/
 [http-missing-security-headers:x-frame-options] [http] [info] https://link.recargapay.com.br
 [http-missing-security-headers:x-frame-options] [http] [info] https://link.recargapay.com.br/
 [http-missing-security-headers:x-frame-options] [http] [info] https://mtls-dapi.of.recargapay.com.br
@@ -188,7 +188,6 @@
 [http-missing-security-headers:x-frame-options] [http] [info] https://recargapay.com.br/
 [http-missing-security-headers:x-frame-options] [http] [info] https://www.recargapay.com.br
 [http-missing-security-headers:x-frame-options] [http] [info] https://www.recargapay.com.br/
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://dapi.of.recargapay.com.br
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://faq.recargapay.com.br
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://faq.recargapay.com.br:8080
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://faq.recargapay.com.br:8443
@@ -199,6 +198,7 @@
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://api.of.recargapay.com.br
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://api.of.recargapay.com.br/
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://dapi.of.recargapay.com.br
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://dapi.of.recargapay.com.br/
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://faq.recargapay.com.br
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://itsm.recargapay.com.br
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://link.recargapay.com.br
@@ -209,14 +209,18 @@
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.recargapay.com.br
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.recargapay.com.br/
 [kong-detect] [http] [info] https://api.of.recargapay.com.br
+[kong-detect] [http] [info] https://dapi.of.recargapay.com.br
+[missing-sri] [http] [info] https://blog.recargapay.com.br/ [https://blog.recargapay.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://blog.recargapay.com.br/wp-includes/js/underscore.min.js?ver=1.13.4,https://stats.wp.com/e-202412.js,https://www.googletagmanager.com/gtag/js?id=UA-818016-16,https://blog.recargapay.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1,https://blog.recargapay.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2,https://blog.recargapay.com.br/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2,https://blog.recargapay.com.br/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2,https://blog.recargapay.com.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.2,https://blog.recargapay.com.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.2,https://blog.recargapay.com.br/wp-content/themes/readable/assets/js/main.min.js?ver=2.3.1]
 [oauth2-detect] [http] [info] http://mtls-dapi.of.recargapay.com.br/oauth/token
 [oauth2-detect] [http] [info] https://mtls-dapi.of.recargapay.com.br/oauth/token
+[options-method] [http] [info] https://recargapay.com.br [GET,HEAD]
 [rdap-whois:expirationDate] [http] [info] https://rdap.registro.br/domain/api.of.recargapay.com.br [2026-06-02T18:03:47Z]
 [rdap-whois:expirationDate] [http] [info] https://rdap.registro.br/domain/api.of.recargapay.com.br [2026-06-02T18:03:47Z]
 [rdap-whois:expirationDate] [http] [info] https://rdap.registro.br/domain/blog.recargapay.com.br [2026-06-02T18:03:47Z]
 [rdap-whois:expirationDate] [http] [info] https://rdap.registro.br/domain/blog.recargapay.com.br [2026-06-02T18:03:47Z]
 [rdap-whois:expirationDate] [http] [info] https://rdap.registro.br/domain/dapi.of.recargapay.com.br [2026-06-02T18:03:47Z]
 [rdap-whois:expirationDate] [http] [info] https://rdap.registro.br/domain/dapi.of.recargapay.com.br [2026-06-02T18:03:47Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2026-06-02T18:03:47Z]
 [rdap-whois:expirationDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2026-06-02T18:03:47Z]
 [rdap-whois:expirationDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2026-06-02T18:03:47Z]
 [rdap-whois:expirationDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2026-06-02T18:03:47Z]
@@ -241,6 +245,7 @@
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2023-11-17T09:21:05Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2023-11-17T09:21:05Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2023-11-17T09:21:05Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2023-11-17T09:21:05Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [2023-11-17T09:21:05Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [2023-11-17T09:21:05Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [2023-11-17T09:21:05Z]
@@ -253,33 +258,35 @@
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.registro.br/domain/recargapay.com.br [2023-11-17T09:21:05Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.registro.br/domain/www.recargapay.com.br [2023-11-17T09:21:05Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.registro.br/domain/www.recargapay.com.br [2023-11-17T09:21:05Z]
-[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/api.of.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
-[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/api.of.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
-[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/blog.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
+[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/api.of.recargapay.com.br [ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org]
+[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/api.of.recargapay.com.br [ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org,ns-16.awsdns-02.com]
+[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/blog.recargapay.com.br [ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org,ns-16.awsdns-02.com]
 [rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/blog.recargapay.com.br [ns-791.awsdns-34.net,ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk]
 [rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/dapi.of.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
-[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/dapi.of.recargapay.com.br [ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org]
+[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/dapi.of.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
 [rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
-[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org,ns-16.awsdns-02.com]
-[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org,ns-16.awsdns-02.com]
+[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
+[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
+[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [ns-791.awsdns-34.net,ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk]
 [rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
 [rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
-[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org]
 [rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org,ns-16.awsdns-02.com]
+[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [ns-791.awsdns-34.net,ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk]
 [rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/link.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
-[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/link.recargapay.com.br [ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org]
+[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/link.recargapay.com.br [ns-791.awsdns-34.net,ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk]
 [rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/mtls-dapi.of.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
 [rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/mtls-dapi.of.recargapay.com.br [ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org]
 [rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
-[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
+[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/recargapay.com.br [ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org]
 [rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/www.recargapay.com.br [ns-1427.awsdns-50.org,ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net]
-[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/www.recargapay.com.br [ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org,ns-16.awsdns-02.com]
+[rdap-whois:nameServers] [http] [info] https://rdap.registro.br/domain/www.recargapay.com.br [ns-16.awsdns-02.com,ns-1738.awsdns-25.co.uk,ns-791.awsdns-34.net,ns-1427.awsdns-50.org]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.registro.br/domain/api.of.recargapay.com.br [BR]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.registro.br/domain/api.of.recargapay.com.br [BR]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.registro.br/domain/blog.recargapay.com.br [BR]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.registro.br/domain/blog.recargapay.com.br [BR]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.registro.br/domain/dapi.of.recargapay.com.br [BR]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.registro.br/domain/dapi.of.recargapay.com.br [BR]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [BR]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [BR]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [BR]
 [rdap-whois:registrantAddress] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [BR]
@@ -304,6 +311,7 @@
 [rdap-whois:registrantCountry] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [BR]
 [rdap-whois:registrantCountry] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [BR]
 [rdap-whois:registrantCountry] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [BR]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [BR]
 [rdap-whois:registrantCountry] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [BR]
 [rdap-whois:registrantCountry] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [BR]
 [rdap-whois:registrantCountry] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [BR]
@@ -322,6 +330,7 @@
 [rdap-whois:registrantName] [http] [info] https://rdap.registro.br/domain/blog.recargapay.com.br [RECARGAPAY DO BRASIL SERVICOS DE INFORMATICA LTDA]
 [rdap-whois:registrantName] [http] [info] https://rdap.registro.br/domain/dapi.of.recargapay.com.br [RECARGAPAY DO BRASIL SERVICOS DE INFORMATICA LTDA]
 [rdap-whois:registrantName] [http] [info] https://rdap.registro.br/domain/dapi.of.recargapay.com.br [RECARGAPAY DO BRASIL SERVICOS DE INFORMATICA LTDA]
+[rdap-whois:registrantName] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [RECARGAPAY DO BRASIL SERVICOS DE INFORMATICA LTDA]
 [rdap-whois:registrantName] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [RECARGAPAY DO BRASIL SERVICOS DE INFORMATICA LTDA]
 [rdap-whois:registrantName] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [RECARGAPAY DO BRASIL SERVICOS DE INFORMATICA LTDA]
 [rdap-whois:registrantName] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [RECARGAPAY DO BRASIL SERVICOS DE INFORMATICA LTDA]
@@ -346,6 +355,7 @@
 [rdap-whois:registrationDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2015-06-02T18:03:47Z]
 [rdap-whois:registrationDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2015-06-02T18:03:47Z]
 [rdap-whois:registrationDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2015-06-02T18:03:47Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [2015-06-02T18:03:47Z]
 [rdap-whois:registrationDate] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [2015-06-02T18:03:47Z]
 [rdap-whois:registrationDate] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [2015-06-02T18:03:47Z]
 [rdap-whois:registrationDate] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [2015-06-02T18:03:47Z]
@@ -367,6 +377,7 @@
 [rdap-whois:secureDNS] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [false]
 [rdap-whois:secureDNS] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [false]
 [rdap-whois:secureDNS] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [false]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [false]
 [rdap-whois:secureDNS] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [false]
 [rdap-whois:secureDNS] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [false]
 [rdap-whois:secureDNS] [http] [info] https://rdap.registro.br/domain/itsm.recargapay.com.br [false]
@@ -385,6 +396,7 @@
 [rdap-whois:status] [http] [info] https://rdap.registro.br/domain/blog.recargapay.com.br [active]
 [rdap-whois:status] [http] [info] https://rdap.registro.br/domain/dapi.of.recargapay.com.br [active]
 [rdap-whois:status] [http] [info] https://rdap.registro.br/domain/dapi.of.recargapay.com.br [active]
+[rdap-whois:status] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [active]
 [rdap-whois:status] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [active]
 [rdap-whois:status] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [active]
 [rdap-whois:status] [http] [info] https://rdap.registro.br/domain/faq.recargapay.com.br [active]
@@ -403,8 +415,11 @@
 [request-based-interaction:dns] [http] [info] http://api.of.recargapay.com.br/
 [request-based-interaction:dns] [http] [info] http://dapi.of.recargapay.com.br/
 [request-based-interaction:dns] [http] [info] http://mtls-dapi.of.recargapay.com.br/
+[robots-txt-endpoint] [http] [info] http://blog.recargapay.com.br/robots.txt
+[robots-txt-endpoint] [http] [info] https://blog.recargapay.com.br/robots.txt
 [robots-txt-endpoint] [http] [info] https://faq.recargapay.com.br/robots.txt
 [robots-txt-endpoint] [http] [info] https://itsm.recargapay.com.br/robots.txt
+[robots-txt] [http] [info] http://blog.recargapay.com.br/robots.txt
 [robots-txt] [http] [info] https://faq.recargapay.com.br/robots.txt
 [robots-txt] [http] [info] https://faq.recargapay.com.br/robots.txt
 [robots-txt] [http] [info] https://itsm.recargapay.com.br/robots.txt
@@ -435,5 +450,9 @@
 [waf-detect:cloudfront] [http] [info] https://link.recargapay.com.br/
 [waf-detect:cloudfront] [http] [info] https://recargapay.com.br/
 [waf-detect:cloudfront] [http] [info] https://www.recargapay.com.br/
-[wordpress-contact-form-7:detected_version] [http] [info] http://blog.recargapay.com.br/wp-content/plugins/contact-form-7/readme.txt [5.9.2]
-[wordpress-contact-form-7:detected_version] [http] [info] https://blog.recargapay.com.br/wp-content/plugins/contact-form-7/readme.txt [5.9.2]
+[wordpress-all-in-one-seo-pack:detected_version] [http] [info] https://blog.recargapay.com.br/wp-content/plugins/all-in-one-seo-pack/readme.txt [4.5.8] [last_version="4.5.4"]
+[wordpress-loco-translate:detected_version] [http] [info] http://blog.recargapay.com.br/wp-content/plugins/loco-translate/readme.txt [2.6.7] [last_version="2.6.6"]
+[wordpress-rdf-user-enum] [http] [info] http://blog.recargapay.com.br/feed/rdf/ [Thais Cardinali Tejeda]
+[wordpress-rdf-user-enum] [http] [info] https://blog.recargapay.com.br/feed/rdf/ [Thais Cardinali Tejeda]
+[wordpress-siteorigin-panels:detected_version] [http] [info] http://blog.recargapay.com.br/wp-content/plugins/siteorigin-panels/readme.txt [2.29.8] [last_version="2.28.0"]
+[wp-license-file] [http] [info] https://blog.recargapay.com.br/license.txt

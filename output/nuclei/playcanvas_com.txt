@@ -1,6 +1,7 @@
 [addeventlistener-detect] [http] [info] http://phone.playcanvas.com
 [addeventlistener-detect] [http] [info] http://seemore.playcanvas.com
 [addeventlistener-detect] [http] [info] https://developer.playcanvas.com
+[addeventlistener-detect] [http] [info] https://forum.playcanvas.com
 [aws-bucket-service] [http] [info] http://casino.playcanvas.com
 [aws-bucket-service] [http] [info] http://dungeonfury.playcanvas.com
 [aws-bucket-service] [http] [info] http://mmx.playcanvas.com
@@ -113,7 +114,7 @@
 [http-missing-security-headers:content-security-policy] [http] [info] https://code.playcanvas.com/
 [http-missing-security-headers:content-security-policy] [http] [info] https://developer.playcanvas.com
 [http-missing-security-headers:content-security-policy] [http] [info] https://developer.playcanvas.com/
-[http-missing-security-headers:content-security-policy] [http] [info] https://forum.playcanvas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://forum.playcanvas.com/
 [http-missing-security-headers:content-security-policy] [http] [info] https://mmx.playcanvas.com
 [http-missing-security-headers:content-security-policy] [http] [info] https://store.playcanvas.com
 [http-missing-security-headers:content-security-policy] [http] [info] https://store.playcanvas.com/
@@ -242,7 +243,7 @@
 [http-missing-security-headers:referrer-policy] [http] [info] https://code.playcanvas.com/
 [http-missing-security-headers:referrer-policy] [http] [info] https://developer.playcanvas.com
 [http-missing-security-headers:referrer-policy] [http] [info] https://developer.playcanvas.com/
-[http-missing-security-headers:referrer-policy] [http] [info] https://forum.playcanvas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://forum.playcanvas.com/
 [http-missing-security-headers:referrer-policy] [http] [info] https://mmx.playcanvas.com
 [http-missing-security-headers:strict-transport-security] [http] [info] http://mmx.playcanvas.com
 [http-missing-security-headers:strict-transport-security] [http] [info] http://phone.playcanvas.com
@@ -257,7 +258,7 @@
 [http-missing-security-headers:strict-transport-security] [http] [info] https://code.playcanvas.com/
 [http-missing-security-headers:strict-transport-security] [http] [info] https://developer.playcanvas.com
 [http-missing-security-headers:strict-transport-security] [http] [info] https://developer.playcanvas.com/
-[http-missing-security-headers:strict-transport-security] [http] [info] https://forum.playcanvas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://forum.playcanvas.com/
 [http-missing-security-headers:strict-transport-security] [http] [info] https://launch.playcanvas.com
 [http-missing-security-headers:strict-transport-security] [http] [info] https://launch.playcanvas.com/
 [http-missing-security-headers:strict-transport-security] [http] [info] https://login.playcanvas.com
@@ -284,7 +285,7 @@
 [http-missing-security-headers:x-content-type-options] [http] [info] https://code.playcanvas.com/
 [http-missing-security-headers:x-content-type-options] [http] [info] https://developer.playcanvas.com
 [http-missing-security-headers:x-content-type-options] [http] [info] https://developer.playcanvas.com/
-[http-missing-security-headers:x-content-type-options] [http] [info] https://forum.playcanvas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://forum.playcanvas.com/
 [http-missing-security-headers:x-content-type-options] [http] [info] https://mmx.playcanvas.com
 [http-missing-security-headers:x-frame-options] [http] [info] http://mmx.playcanvas.com
 [http-missing-security-headers:x-frame-options] [http] [info] http://phone.playcanvas.com
@@ -299,7 +300,7 @@
 [http-missing-security-headers:x-frame-options] [http] [info] https://code.playcanvas.com/
 [http-missing-security-headers:x-frame-options] [http] [info] https://developer.playcanvas.com
 [http-missing-security-headers:x-frame-options] [http] [info] https://developer.playcanvas.com/
-[http-missing-security-headers:x-frame-options] [http] [info] https://forum.playcanvas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://forum.playcanvas.com/
 [http-missing-security-headers:x-frame-options] [http] [info] https://mmx.playcanvas.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://mmx.playcanvas.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://phone.playcanvas.com
@@ -314,7 +315,7 @@
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://code.playcanvas.com/
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://developer.playcanvas.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://developer.playcanvas.com/
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://forum.playcanvas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://forum.playcanvas.com/
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://launch.playcanvas.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://launch.playcanvas.com/
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://login.playcanvas.com
@@ -338,8 +339,6 @@
 [missing-sri] [http] [info] https://blog.playcanvas.com/ [https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD]
 [missing-sri] [http] [info] https://blog.playcanvas.com/ [https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD]
 [missing-sri] [http] [info] https://forum.playcanvas.com/ [https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD,https://playcanvas.com/static/platform/js/onetrust/consent.js]
-[missing-sri] [http] [info] https://forum.playcanvas.com/ [https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD,https://playcanvas.com/static/platform/js/onetrust/consent.js]
-[missing-sri] [http] [info] https://login.playcanvas.com/ [https://playcanvas.com/static/platform/js/onetrust/consent.js,https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD,https://apis.google.com/js/platform.js?onload=initGoogleLogin]
 [missing-sri] [http] [info] https://login.playcanvas.com/ [https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD,https://apis.google.com/js/platform.js?onload=initGoogleLogin,https://playcanvas.com/static/platform/js/onetrust/consent.js]
 [missing-sri] [http] [info] https://playcanv.as/p/2OlkUaxF/ [https://cdn.kik.com/kik/1.0.18/kik.js,https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD]
 [missing-sri] [http] [info] https://playcanv.as/p/2OlkUaxF/ [https://cdn.kik.com/kik/1.0.18/kik.js,https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD]
@@ -353,7 +352,7 @@
 [missing-sri] [http] [info] https://playcanv.as/p/y3ZFwtwW/ [https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD]
 [missing-sri] [http] [info] https://playcanvas.com/ [https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD,https://cdn.cookielaw.org/scripttemplates/otSDKStub.js]
 [missing-sri] [http] [info] https://playcanvas.com/ [https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD,https://cdn.cookielaw.org/scripttemplates/otSDKStub.js]
-[missing-sri] [http] [info] https://store.playcanvas.com/ [https://playcanvas.com/static/platform/js/onetrust/consent.js,https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD]
+[missing-sri] [http] [info] https://store.playcanvas.com/ [https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD,https://playcanvas.com/static/platform/js/onetrust/consent.js]
 [missing-sri] [http] [info] https://store.playcanvas.com/ [https://www.googletagmanager.com/gtag/js?id=G-NDG04ENSGD,https://playcanvas.com/static/platform/js/onetrust/consent.js]
 [options-method] [http] [info] https://rt.playcanvas.com [GET,HEAD]
 [rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [2025-01-16T18:26:12Z]
@@ -361,13 +360,13 @@
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [2022-12-15T09:33:20Z]
 [rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [2022-12-15T09:33:20Z]
 [rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [NS-1072.AWSDNS-06.ORG,NS-1858.AWSDNS-40.CO.UK,NS-284.AWSDNS-35.COM,NS-579.AWSDNS-08.NET]
-[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [NS-1072.AWSDNS-06.ORG,NS-1858.AWSDNS-40.CO.UK,NS-284.AWSDNS-35.COM,NS-579.AWSDNS-08.NET]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [NS-284.AWSDNS-35.COM,NS-579.AWSDNS-08.NET,NS-1072.AWSDNS-06.ORG,NS-1858.AWSDNS-40.CO.UK]
 [rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [2011-01-16T18:26:12Z]
 [rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [2011-01-16T18:26:12Z]
 [rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [false]
 [rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [false]
 [rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [client delete prohibited,client transfer prohibited,client update prohibited]
-[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [client update prohibited,client delete prohibited,client transfer prohibited]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/playcanvas.com [client transfer prohibited,client update prohibited,client delete prohibited]
 [s3-detect] [http] [info] http://casino.playcanvas.com/%c0
 [s3-detect] [http] [info] http://dungeonfury.playcanvas.com/%c0
 [s3-detect] [http] [info] http://mmx.playcanvas.com/%c0
@@ -379,7 +378,6 @@
 [s3-detect] [http] [info] http://webvr.playcanvas.com/%c0
 [s3-detect] [http] [info] https://code.playcanvas.com/%c0
 [s3-detect] [http] [info] https://mmx.playcanvas.com/%c0
-[sitemap-detect] [http] [info] https://forum.playcanvas.com/sitemap.xml
 [tech-detect:discourse] [http] [info] https://forum.playcanvas.com/
 [tech-detect:google-font-api] [http] [info] https://login.playcanvas.com
 [tech-detect:google-font-api] [http] [info] https://login.playcanvas.com/

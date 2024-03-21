@@ -965,10 +965,6 @@ sql111.hostinger.com:3306
 sql111.hostinger.com:443
 sql111.hostinger.com:80
 sql111.hostinger.com:8443
-sso.hostinger.com:443
-sso.hostinger.com:80
-sso.hostinger.com:8080
-sso.hostinger.com:8443
 statuspage.hostinger.com:443
 statuspage.hostinger.com:80
 statuspage.hostinger.com:8080

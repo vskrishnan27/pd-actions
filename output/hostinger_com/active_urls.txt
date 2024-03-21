@@ -41,10 +41,10 @@ http://d.email.hostinger.com:8443
 http://design.hostinger.com
 http://dogrula.hostinger.com
 http://domains.hostinger.com
-http://domains.hostinger.com:8080
 http://domains.hostinger.com:8443
 http://e.account.hostinger.com
 http://e.account.hostinger.com:8080
+http://e.account.hostinger.com:8443
 http://e.email.hostinger.com
 http://e.email.hostinger.com:8080
 http://e.email.hostinger.com:8443
@@ -86,8 +86,6 @@ http://se.email.hostinger.com:8080
 http://se.email.hostinger.com:8443
 http://sql111.hostinger.com
 http://sql111.hostinger.com:443
-http://sso.hostinger.com
-http://sso.hostinger.com:8443
 http://statuspage.hostinger.com
 http://statuspage.hostinger.com:8080
 http://statuspage.hostinger.com:8443
@@ -170,7 +168,6 @@ https://design.hostinger.com
 https://dogrula.hostinger.com
 https://domains.hostinger.com
 https://e.account.hostinger.com
-https://e.account.hostinger.com:8443
 https://e.email.hostinger.com
 https://epikurwsi.hostinger.com
 https://flockcalendar.hostinger.com
@@ -196,7 +193,6 @@ https://sahkan.hostinger.com
 https://se.account.hostinger.com
 https://se.email.hostinger.com
 https://sql111.hostinger.com:8443
-https://sso.hostinger.com
 https://statuspage.hostinger.com
 https://support.hostinger.com
 https://titancalendar.hostinger.com

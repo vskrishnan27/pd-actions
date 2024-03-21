@@ -73,7 +73,6 @@ sg-files.hostinger.com
 smtp-msa.hostinger.com
 smtp.hostinger.com
 sql111.hostinger.com
-sso.hostinger.com
 statuspage.hostinger.com
 support.hostinger.com
 titancalendar.hostinger.com

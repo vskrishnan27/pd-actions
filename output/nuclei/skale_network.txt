@@ -2,7 +2,6 @@
 [addeventlistener-detect] [http] [info] http://countdown.skale.network:8080
 [addeventlistener-detect] [http] [info] https://countdown.skale.network
 [addeventlistener-detect] [http] [info] https://countdown.skale.network:8443
-[addeventlistener-detect] [http] [info] https://forum.skale.network
 [cookies-without-httponly-secure] [http] [info] http://countdown.skale.network
 [cookies-without-httponly-secure] [http] [info] http://countdown.skale.network:8080
 [cookies-without-httponly-secure] [http] [info] https://countdown.skale.network
@@ -14,6 +13,8 @@
 [external-service-interaction] [http] [info] http://podcast.skale.network
 [external-service-interaction] [http] [info] http://skale.network
 [external-service-interaction] [http] [info] http://www.skale.network
+[external-service-interaction] [http] [info] https://cnuba3k3i9ebo7cugnjgw577m85wi1pqz.oast.live/
+[external-service-interaction] [http] [info] https://cnuba3k3i9ebo7cugnjgyxb53rejf4ifm.oast.live/
 [fingerprinthub-web-fingerprints:apilayer-caddy] [http] [info] http://link.skale.network
 [fingerprinthub-web-fingerprints:apilayer-caddy] [http] [info] http://podcast.skale.network
 [fingerprinthub-web-fingerprints:apilayer-caddy] [http] [info] https://link.skale.network
@@ -21,7 +22,13 @@
 [fingerprinthub-web-fingerprints:apilayer-caddy] [http] [info] https://podcast.skale.network
 [fingerprinthub-web-fingerprints:apilayer-caddy] [http] [info] https://podcast.skale.network/
 [google-floc-disabled] [http] [info] http://p2e.skale.network
+[google-floc-disabled] [http] [info] http://p2e.skale.network:8080
+[google-floc-disabled] [http] [info] http://skaleverse.skale.network
 [google-floc-disabled] [http] [info] http://skaleverse.skale.network:8080
+[google-floc-disabled] [http] [info] https://p2e.skale.network
+[google-floc-disabled] [http] [info] https://p2e.skale.network:8443
+[google-floc-disabled] [http] [info] https://skaleverse.skale.network
+[google-floc-disabled] [http] [info] https://skaleverse.skale.network:8443
 [http-missing-security-headers:clear-site-data] [http] [info] http://bridge.skale.network
 [http-missing-security-headers:clear-site-data] [http] [info] http://countdown.skale.network
 [http-missing-security-headers:clear-site-data] [http] [info] http://countdown.skale.network:8080
@@ -50,7 +57,7 @@
 [http-missing-security-headers:clear-site-data] [http] [info] https://faucet.skale.network
 [http-missing-security-headers:clear-site-data] [http] [info] https://forum.skale.network
 [http-missing-security-headers:clear-site-data] [http] [info] https://forum.skale.network/
-[http-missing-security-headers:clear-site-data] [http] [info] https://p2e.skale.network
+[http-missing-security-headers:clear-site-data] [http] [info] https://p2e.skale.network/mp
 [http-missing-security-headers:clear-site-data] [http] [info] https://p2e.skale.network:8443
 [http-missing-security-headers:clear-site-data] [http] [info] https://podcast.skale.network
 [http-missing-security-headers:clear-site-data] [http] [info] https://podcast.skale.network/
@@ -80,12 +87,10 @@
 [http-missing-security-headers:content-security-policy] [http] [info] https://docs.skale.network
 [http-missing-security-headers:content-security-policy] [http] [info] https://faucet.skale.network
 [http-missing-security-headers:content-security-policy] [http] [info] https://forum.skale.network
-[http-missing-security-headers:content-security-policy] [http] [info] https://forum.skale.network/
-[http-missing-security-headers:content-security-policy] [http] [info] https://p2e.skale.network
+[http-missing-security-headers:content-security-policy] [http] [info] https://p2e.skale.network/mp
 [http-missing-security-headers:content-security-policy] [http] [info] https://p2e.skale.network:8443
 [http-missing-security-headers:content-security-policy] [http] [info] https://podcast.skale.network
 [http-missing-security-headers:content-security-policy] [http] [info] https://podcast.skale.network/
-[http-missing-security-headers:content-security-policy] [http] [info] https://skaleverse.skale.network
 [http-missing-security-headers:content-security-policy] [http] [info] https://skaleverse.skale.network:8443
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://bridge.skale.network
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://countdown.skale.network
@@ -113,6 +118,7 @@
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://forum.skale.network/
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://podcast.skale.network
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://podcast.skale.network/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://skaleverse.skale.network
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://bridge.skale.network
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://countdown.skale.network
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://countdown.skale.network:8080
@@ -139,6 +145,7 @@
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://forum.skale.network/
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://podcast.skale.network
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://podcast.skale.network/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://skaleverse.skale.network
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://bridge.skale.network
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://countdown.skale.network
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://countdown.skale.network:8080
@@ -165,6 +172,7 @@
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://forum.skale.network/
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://podcast.skale.network
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://podcast.skale.network/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://skaleverse.skale.network
 [http-missing-security-headers:permissions-policy] [http] [info] http://bridge.skale.network
 [http-missing-security-headers:permissions-policy] [http] [info] http://countdown.skale.network
 [http-missing-security-headers:permissions-policy] [http] [info] http://countdown.skale.network:8080
@@ -191,6 +199,7 @@
 [http-missing-security-headers:permissions-policy] [http] [info] https://forum.skale.network/
 [http-missing-security-headers:permissions-policy] [http] [info] https://podcast.skale.network
 [http-missing-security-headers:permissions-policy] [http] [info] https://podcast.skale.network/
+[http-missing-security-headers:permissions-policy] [http] [info] https://skaleverse.skale.network
 [http-missing-security-headers:referrer-policy] [http] [info] http://bridge.skale.network
 [http-missing-security-headers:referrer-policy] [http] [info] http://delegations-helper.skale.network
 [http-missing-security-headers:referrer-policy] [http] [info] http://delegations-helper.skale.network:8443
@@ -210,9 +219,9 @@
 [http-missing-security-headers:referrer-policy] [http] [info] https://docs.skale.network
 [http-missing-security-headers:referrer-policy] [http] [info] https://faucet.skale.network
 [http-missing-security-headers:referrer-policy] [http] [info] https://forum.skale.network
-[http-missing-security-headers:referrer-policy] [http] [info] https://forum.skale.network/
 [http-missing-security-headers:referrer-policy] [http] [info] https://podcast.skale.network
 [http-missing-security-headers:referrer-policy] [http] [info] https://podcast.skale.network/
+[http-missing-security-headers:referrer-policy] [http] [info] https://skaleverse.skale.network
 [http-missing-security-headers:strict-transport-security] [http] [info] http://bridge.skale.network
 [http-missing-security-headers:strict-transport-security] [http] [info] http://countdown.skale.network
 [http-missing-security-headers:strict-transport-security] [http] [info] http://countdown.skale.network:8080
@@ -238,12 +247,10 @@
 [http-missing-security-headers:strict-transport-security] [http] [info] https://docs.skale.network
 [http-missing-security-headers:strict-transport-security] [http] [info] https://faucet.skale.network
 [http-missing-security-headers:strict-transport-security] [http] [info] https://forum.skale.network
-[http-missing-security-headers:strict-transport-security] [http] [info] https://forum.skale.network/
-[http-missing-security-headers:strict-transport-security] [http] [info] https://p2e.skale.network
+[http-missing-security-headers:strict-transport-security] [http] [info] https://p2e.skale.network/mp
 [http-missing-security-headers:strict-transport-security] [http] [info] https://p2e.skale.network:8443
 [http-missing-security-headers:strict-transport-security] [http] [info] https://podcast.skale.network
 [http-missing-security-headers:strict-transport-security] [http] [info] https://podcast.skale.network/
-[http-missing-security-headers:strict-transport-security] [http] [info] https://skaleverse.skale.network
 [http-missing-security-headers:strict-transport-security] [http] [info] https://skaleverse.skale.network:8443
 [http-missing-security-headers:x-content-type-options] [http] [info] http://bridge.skale.network
 [http-missing-security-headers:x-content-type-options] [http] [info] http://countdown.skale.network
@@ -269,12 +276,10 @@
 [http-missing-security-headers:x-content-type-options] [http] [info] https://docs.skale.network
 [http-missing-security-headers:x-content-type-options] [http] [info] https://faucet.skale.network
 [http-missing-security-headers:x-content-type-options] [http] [info] https://forum.skale.network
-[http-missing-security-headers:x-content-type-options] [http] [info] https://forum.skale.network/
-[http-missing-security-headers:x-content-type-options] [http] [info] https://p2e.skale.network
+[http-missing-security-headers:x-content-type-options] [http] [info] https://p2e.skale.network/mp
 [http-missing-security-headers:x-content-type-options] [http] [info] https://p2e.skale.network:8443
 [http-missing-security-headers:x-content-type-options] [http] [info] https://podcast.skale.network
 [http-missing-security-headers:x-content-type-options] [http] [info] https://podcast.skale.network/
-[http-missing-security-headers:x-content-type-options] [http] [info] https://skaleverse.skale.network
 [http-missing-security-headers:x-content-type-options] [http] [info] https://skaleverse.skale.network:8443
 [http-missing-security-headers:x-frame-options] [http] [info] http://bridge.skale.network
 [http-missing-security-headers:x-frame-options] [http] [info] http://delegations-helper.skale.network
@@ -294,9 +299,9 @@
 [http-missing-security-headers:x-frame-options] [http] [info] https://docs.skale.network
 [http-missing-security-headers:x-frame-options] [http] [info] https://faucet.skale.network
 [http-missing-security-headers:x-frame-options] [http] [info] https://forum.skale.network
-[http-missing-security-headers:x-frame-options] [http] [info] https://forum.skale.network/
 [http-missing-security-headers:x-frame-options] [http] [info] https://podcast.skale.network
 [http-missing-security-headers:x-frame-options] [http] [info] https://podcast.skale.network/
+[http-missing-security-headers:x-frame-options] [http] [info] https://skaleverse.skale.network
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://bridge.skale.network
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://countdown.skale.network
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://countdown.skale.network:8080
@@ -324,8 +329,7 @@
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://docs.skale.network
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://faucet.skale.network
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://forum.skale.network
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://forum.skale.network/
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://p2e.skale.network
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://p2e.skale.network/mp
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://p2e.skale.network:8443
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://podcast.skale.network
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://podcast.skale.network/
@@ -333,21 +337,20 @@
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://skaleverse.skale.network:8443
 [metatag-cms] [http] [info] http://docs.skale.network [Antora 3.1.7]
 [metatag-cms] [http] [info] https://docs.skale.network [Antora 3.1.7]
-[metatag-cms] [http] [info] https://forum.skale.network [Discourse 3.1.0.beta5 - https://github.com/discourse/discourse version be7d82d2b09a979c5c9660b00efbdb639d27c48c]
-[metatag-cms] [http] [info] https://forum.skale.network/ [Discourse 3.1.0.beta5 - https://github.com/discourse/discourse version be7d82d2b09a979c5c9660b00efbdb639d27c48c]
 [missing-sri] [http] [info] http://docs.skale.network/ [https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js,https://www.googletagmanager.com/gtag/js?id=G-0GD5VRL7PP]
 [missing-sri] [http] [info] https://bridge.skale.network/ [https://static.zdassets.com/ekr/snippet.js?key=3a800d63-155b-4add-9207-8562e05d29eb]
-[missing-sri] [http] [info] https://docs.skale.network/ [https://www.googletagmanager.com/gtag/js?id=G-0GD5VRL7PP,https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js]
-[missing-sri] [http] [info] https://podcast.skale.network/ [https://cdn.cookielaw.org/consent/93af0542-64e9-452c-a906-f2d384524b21/OtAutoBlock.js,https://cdn.cookielaw.org/scripttemplates/otSDKStub.js,https://image.simplecastcdn.com/customersites/1.0.9/js/manifest.1076d41426992a679da1.js,https://image.simplecastcdn.com/customersites/1.0.9/js/0.c9d1e5a51007d063b022.js,https://image.simplecastcdn.com/customersites/1.0.9/js/4.1175d376bd891a358fa3.js]
-[missing-sri] [http] [info] https://skale.space/ [https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EasePack.min.js,https://unpkg.com/smooth-scrollbar@latest/dist/smooth-scrollbar.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=625c39b93541414104a1d654,https://cdnjs.cloudflare.com/ajax/libs/axios/1.3.3/axios.min.js,//js.hsforms.net/forms/v2.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js,https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js,https://assets-global.website-files.com/625c39b93541414104a1d654/js/skaleverse.f3a54e11e.js,https://code.jquery.com/jquery-3.6.3.min.js,https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.8.2/countUp.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js]
-[missing-sri] [http] [info] https://skale.space/ [https://cdnjs.cloudflare.com/ajax/libs/axios/1.3.3/axios.min.js,//js.hsforms.net/forms/v2.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js,https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,https://code.jquery.com/jquery-3.6.3.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EasePack.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js,https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=625c39b93541414104a1d654,https://assets-global.website-files.com/625c39b93541414104a1d654/js/skaleverse.f3a54e11e.js,https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.8.2/countUp.min.js,https://unpkg.com/smooth-scrollbar@latest/dist/smooth-scrollbar.js]
-[missing-sri] [http] [info] https://skale.space/ [https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EasePack.min.js,https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.8.2/countUp.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js,https://cdnjs.cloudflare.com/ajax/libs/axios/1.3.3/axios.min.js,https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=625c39b93541414104a1d654,https://assets-global.website-files.com/625c39b93541414104a1d654/js/skaleverse.f3a54e11e.js,https://unpkg.com/smooth-scrollbar@latest/dist/smooth-scrollbar.js,https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://code.jquery.com/jquery-3.6.3.min.js,//js.hsforms.net/forms/v2.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js]
-[missing-sri] [http] [info] https://skale.space/ [https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EasePack.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js,https://unpkg.com/smooth-scrollbar@latest/dist/smooth-scrollbar.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=625c39b93541414104a1d654,https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.8.2/countUp.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js,https://cdnjs.cloudflare.com/ajax/libs/axios/1.3.3/axios.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js,https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js,https://assets-global.website-files.com/625c39b93541414104a1d654/js/skaleverse.f3a54e11e.js,https://code.jquery.com/jquery-3.6.3.min.js,//js.hsforms.net/forms/v2.js]
-[missing-sri] [http] [info] https://skale.space/404 [https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EasePack.min.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=625c39b93541414104a1d654,https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,//js.hsforms.net/forms/v2.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js,https://unpkg.com/smooth-scrollbar@latest/dist/smooth-scrollbar.js,https://assets-global.website-files.com/625c39b93541414104a1d654/js/skaleverse.f3a54e11e.js,https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ]
+[missing-sri] [http] [info] https://docs.skale.network/ [https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js,https://www.googletagmanager.com/gtag/js?id=G-0GD5VRL7PP]
+[missing-sri] [http] [info] https://podcast.skale.network/ [https://image.simplecastcdn.com/customersites/1.0.9/js/4.1175d376bd891a358fa3.js,https://cdn.cookielaw.org/consent/93af0542-64e9-452c-a906-f2d384524b21/OtAutoBlock.js,https://cdn.cookielaw.org/scripttemplates/otSDKStub.js,https://image.simplecastcdn.com/customersites/1.0.9/js/manifest.1076d41426992a679da1.js,https://image.simplecastcdn.com/customersites/1.0.9/js/0.c9d1e5a51007d063b022.js]
+[missing-sri] [http] [info] https://skale.space/ [//js.hsforms.net/forms/v2.js,https://assets-global.website-files.com/625c39b93541414104a1d654/js/skaleverse.d7f5260ce.js,https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.8.2/countUp.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js,https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js,https://cdnjs.cloudflare.com/ajax/libs/axios/1.3.3/axios.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EasePack.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js,https://unpkg.com/smooth-scrollbar@latest/dist/smooth-scrollbar.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=625c39b93541414104a1d654,https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://code.jquery.com/jquery-3.6.3.min.js]
+[missing-sri] [http] [info] https://skale.space/ [https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EasePack.min.js,https://unpkg.com/smooth-scrollbar@latest/dist/smooth-scrollbar.js,https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://cdnjs.cloudflare.com/ajax/libs/axios/1.3.3/axios.min.js,https://code.jquery.com/jquery-3.6.3.min.js,https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.8.2/countUp.min.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=625c39b93541414104a1d654,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js,https://assets-global.website-files.com/625c39b93541414104a1d654/js/skaleverse.d7f5260ce.js,//js.hsforms.net/forms/v2.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js,https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js]
+[missing-sri] [http] [info] https://skale.space/ [https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://assets-global.website-files.com/625c39b93541414104a1d654/js/skaleverse.d7f5260ce.js,https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.8.2/countUp.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js,https://unpkg.com/smooth-scrollbar@latest/dist/smooth-scrollbar.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=625c39b93541414104a1d654,https://cdnjs.cloudflare.com/ajax/libs/axios/1.3.3/axios.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EasePack.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js,https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,https://code.jquery.com/jquery-3.6.3.min.js,//js.hsforms.net/forms/v2.js,https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js]
+[missing-sri] [http] [info] https://skale.space/ [https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://code.jquery.com/jquery-3.6.3.min.js,https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.8.2/countUp.min.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=625c39b93541414104a1d654,https://unpkg.com/smooth-scrollbar@latest/dist/smooth-scrollbar.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EasePack.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js,https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js,https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,https://cdnjs.cloudflare.com/ajax/libs/axios/1.3.3/axios.min.js,//js.hsforms.net/forms/v2.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js,https://assets-global.website-files.com/625c39b93541414104a1d654/js/skaleverse.d7f5260ce.js]
+[missing-sri] [http] [info] https://skale.space/404 [//js.hsforms.net/forms/v2.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js,https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EasePack.min.js,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js,https://unpkg.com/smooth-scrollbar@latest/dist/smooth-scrollbar.js,https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=625c39b93541414104a1d654,https://assets-global.website-files.com/625c39b93541414104a1d654/js/skaleverse.d7f5260ce.js]
 [missing-sri] [http] [info] https://skale.space/whitepaper [https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ]
 [missing-sri] [http] [info] https://skale.space/whitepaper [https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ]
 [missing-sri] [http] [info] https://skale.space/whitepaper [https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js]
 [missing-sri] [http] [info] https://skale.space/whitepaper [https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js]
+[missing-sri] [http] [info] https://skaleverse.skale.network/ [https://www.googletagmanager.com/gtag/js?id=G-D6WB4RV7HQ,https://static.hsappstatic.net/content-cwv-embed/static-1.717/embed.js,//cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1709587119754/hubspot/session/js/main.min.js,https://cdn2.hubspot.net/hub/-1/hub_generated/module_assets/-25202732329/1709693257790/module_-25202732329_Menu.min.js]
 [nginx-version] [http] [info] https://deployer.skale.network [nginx/1.18.0]
 [nginx-version] [http] [info] https://podcast.skale.network [nginx/1.25.3]
 [old-copyright] [http] [info] http://docs.skale.network [© 2021-]
@@ -374,17 +377,14 @@
 [rdap-whois:secureDNS] [http] [info] https://rdap.identitydigital.services/rdap/domain/skale.network [false]
 [rdap-whois:secureDNS] [http] [info] https://rdap.identitydigital.services/rdap/domain/skale.network [false]
 [rdap-whois:status] [http] [info] https://rdap.identitydigital.services/rdap/domain/skale.network [client delete prohibited,client renew prohibited,client transfer prohibited,client update prohibited]
-[rdap-whois:status] [http] [info] https://rdap.identitydigital.services/rdap/domain/skale.network [client update prohibited,client delete prohibited,client renew prohibited,client transfer prohibited]
+[rdap-whois:status] [http] [info] https://rdap.identitydigital.services/rdap/domain/skale.network [client renew prohibited,client transfer prohibited,client update prohibited,client delete prohibited]
 [robots-txt-endpoint] [http] [info] http://docs.skale.network/robots.txt
 [robots-txt-endpoint] [http] [info] https://bridge.skale.network/robots.txt
 [robots-txt-endpoint] [http] [info] https://docs.skale.network/robots.txt
 [robots-txt-endpoint] [http] [info] https://forum.skale.network/robots.txt
-[robots-txt] [http] [info] https://forum.skale.network/robots.txt
-[robots-txt] [http] [info] https://forum.skale.network/robots.txt
 [security-txt] [http] [info] http://sfuel.skale.network/security.txt [ mailto:security@skalelabs.com]
 [sitemap-detect] [http] [info] http://docs.skale.network/sitemap.xml
 [sitemap-detect] [http] [info] https://docs.skale.network/sitemap.xml
-[sitemap-detect] [http] [info] https://forum.skale.network/sitemap.xml
 [tech-detect:caddy] [http] [info] http://link.skale.network
 [tech-detect:caddy] [http] [info] http://podcast.skale.network
 [tech-detect:caddy] [http] [info] https://link.skale.network
@@ -393,6 +393,7 @@
 [tech-detect:caddy] [http] [info] https://podcast.skale.network/
 [tech-detect:cloudflare] [http] [info] http://countdown.skale.network
 [tech-detect:cloudflare] [http] [info] http://countdown.skale.network:8080
+[tech-detect:cloudflare] [http] [info] http://delegations-helper.skale.network
 [tech-detect:cloudflare] [http] [info] http://delegations-helper.skale.network:8443
 [tech-detect:cloudflare] [http] [info] http://developers.skale.network
 [tech-detect:cloudflare] [http] [info] http://developers.skale.network:8080
@@ -422,12 +423,12 @@
 [tech-detect:cloudflare] [http] [info] https://sfuel.skale.network:8443
 [tech-detect:cloudflare] [http] [info] https://skaleverse.skale.network
 [tech-detect:cloudflare] [http] [info] https://skaleverse.skale.network:8443
-[tech-detect:discourse] [http] [info] https://forum.skale.network
-[tech-detect:discourse] [http] [info] https://forum.skale.network/
+[tech-detect:express] [http] [info] http://delegations-helper.skale.network
 [tech-detect:express] [http] [info] http://faucet.skale.network
 [tech-detect:express] [http] [info] https://delegations-helper.skale.network
 [tech-detect:express] [http] [info] https://deployer.skale.network
 [tech-detect:express] [http] [info] https://faucet.skale.network
+[tech-detect:google-font-api] [http] [info] http://delegations-helper.skale.network
 [tech-detect:google-font-api] [http] [info] http://faucet.skale.network
 [tech-detect:google-font-api] [http] [info] https://delegations-helper.skale.network
 [tech-detect:google-font-api] [http] [info] https://faucet.skale.network

@@ -121,6 +121,7 @@ http://learn.metamask.io
 http://metabase.activity.metamask.io
 http://metabase.activity.metamask.io:8080
 http://metabase.activity.metamask.io:8443
+http://metamask.io
 http://mobile.metamask.io
 http://mobile.metamask.io:8080
 http://my-sample-api2-us-east-2.dev-api.cx.metamask.io
@@ -420,6 +421,7 @@ https://labels-us-east-2.dev-api.cx.metamask.io
 https://labels.dev-api.cx.metamask.io
 https://learn.metamask.io
 https://metabase.activity.metamask.io
+https://metamask.io
 https://mobile.metamask.io
 https://mobile.metamask.io:8443
 https://my-sample-api2-us-east-2.dev-api.cx.metamask.io

@@ -1,4 +1,3 @@
-cosmos.network
 hostinger.com
 wickr.com
 crypto.com
@@ -80,3 +79,4 @@ polygon.technology
 xvideos.com
 chime.com
 stripe.com
+cosmos.network

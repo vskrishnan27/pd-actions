@@ -46,7 +46,6 @@ mainnet-rpc-node-002.polygon.technology
 mainnet-rpc-node-003.polygon.technology
 mainnet-rpc-node-004.polygon.technology
 mapper.polygon.technology
-open-api-staging.polygon.technology
 partnersupport.polygon.technology
 polygon.technology
 polytech-assets.polygon.technology

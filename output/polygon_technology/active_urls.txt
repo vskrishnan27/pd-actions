@@ -30,8 +30,6 @@ http://developersupport.polygon.technology:8080
 http://devnet-avail.polygon.technology
 http://devnet-avail.polygon.technology:443
 http://devnet-avail.polygon.technology:8080
-http://docs.polygon.technology
-http://docs.polygon.technology:8080
 http://ecosystem.polygon.technology
 http://ecosystem.polygon.technology:8080
 http://ecosystemjobs.polygon.technology
@@ -83,8 +81,6 @@ http://mainnet-rpc-node-004.polygon.technology
 http://mainnet-rpc-node-004.polygon.technology:8080
 http://mapper.polygon.technology
 http://mapper.polygon.technology:8080
-http://open-api-staging.polygon.technology
-http://open-api-staging.polygon.technology:8080
 http://partnersupport.polygon.technology
 http://partnersupport.polygon.technology:8080
 http://polygon.technology
@@ -110,6 +106,7 @@ http://snapshot-download.polygon.technology:8080
 http://snapshots.polygon.technology
 http://snapshots.polygon.technology:8080
 http://spotlight.polygon.technology
+http://spotlight.polygon.technology:8080
 http://staking.polygon.technology
 http://staking.polygon.technology:8080
 http://support.polygon.technology
@@ -158,8 +155,6 @@ https://developersupport-zkevm.polygon.technology
 https://developersupport.polygon.technology
 https://developersupport.polygon.technology:8443
 https://devnet-avail.polygon.technology:8443
-https://docs.polygon.technology
-https://docs.polygon.technology:8443
 https://ecosystem.polygon.technology
 https://ecosystem.polygon.technology:8443
 https://ecosystemjobs.polygon.technology
@@ -211,8 +206,6 @@ https://mainnet-rpc-node-004.polygon.technology
 https://mainnet-rpc-node-004.polygon.technology:8443
 https://mapper.polygon.technology
 https://mapper.polygon.technology:8443
-https://open-api-staging.polygon.technology
-https://open-api-staging.polygon.technology:8443
 https://partnersupport.polygon.technology
 https://partnersupport.polygon.technology:8443
 https://polygon.technology
@@ -237,6 +230,7 @@ https://snapshot-download.polygon.technology:8443
 https://snapshots.polygon.technology
 https://snapshots.polygon.technology:8443
 https://spotlight.polygon.technology
+https://spotlight.polygon.technology:8443
 https://staking.polygon.technology
 https://staking.polygon.technology:8443
 https://support.polygon.technology

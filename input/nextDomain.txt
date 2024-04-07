@@ -1,4 +1,3 @@
-figma.com
 indrive.com
 apple.com
 line.me
@@ -80,3 +79,4 @@ judge.me
 chime.com
 launchdarkly.com
 enjin.io
+figma.com

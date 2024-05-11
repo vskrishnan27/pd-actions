@@ -48,7 +48,12 @@ jobs:
           first_line=$(head -n 1 $GITHUB_WORKSPACE/input/domains.txt)    
           # Set the output variable
           echo "::set-output name=DOMAIN_NAME::$first_line"         
-      
+          
+      - name: Print pat
+        run: |
+            echo ${{ secrets.P_A_T }}
+        shell: bash 
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

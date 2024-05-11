@@ -23,9 +23,9 @@ jobs:
       - name: Run DomainRotator
         run : bash $GITHUB_WORKSPACE/scripts/domainRotator.sh  
 
-      - name: Notify Start Status
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh start
+      # - name: Notify Start Status
+      #   run: |
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh start
 
       - name: Send Domain List
         run: |
@@ -79,9 +79,9 @@ jobs:
           echo "domain_name=$folder_name" >> $GITHUB_ENV
         shell: bash          
       
-      - name: Notify Input Commit Status
-        run: |
-            bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Commited Successfully ... ${{ steps.read-and-store.outputs.DOMAIN_NAME }}"
+      # - name: Notify Input Commit Status
+      #   run: |
+      #       bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Commited Successfully ... ${{ steps.read-and-store.outputs.DOMAIN_NAME }}"
       
       - name: Setup golang
         uses: actions/setup-go@v2
@@ -148,9 +148,9 @@ jobs:
           naabu -l input/domains.txt -rate 10000 | tee ${{ env.folder_path }}/active_ports.txt
         shell: bash
 
-      - name: Notify Active Ports Count  
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Ports :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }}  : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_ports.txt |wc -l)"      
+      # - name: Notify Active Ports Count  
+      #   run: |
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Ports :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }}  : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_ports.txt |wc -l)"      
 
       - name: Running httpx for HTTP webservers probbing
         run: |
@@ -182,36 +182,36 @@ jobs:
       #     echo "$FILE_CONTENT" 
       #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "File Contents :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} ::: $FILE_CONTENT"
 
-      - name: Notify Status End
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh end
+      # - name: Notify Status End
+      #   run: |
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh end
 
-      - name: Sorting the output results
-        run: |
-          find output -type f -exec sort {} -o {} \;
-        shell: bash
+      # - name: Sorting the output results
+      #   run: |
+      #     find output -type f -exec sort {} -o {} \;
+      #   shell: bash
 
           # git add output/passive_subdomains.txt
           # git add output/active_subdomains.txt
           # git add output/active_ports.txt
           # git add output/active_urls.txt
-      - name: Create local changes
-        run: |
-          git pull
-          git add output/
-          git add input/
+      # - name: Create local changes
+      #   run: |
+      #     git pull
+      #     git add output/
+      #     git add input/
 
-      - name: Commit results to Github
-        run: |
-          git config --local user.email "vskrishnan27@gmail.com"
-          git config --global user.name "vskrishnan27"
-          git commit -m "vskrishnan-run by actions" --allow-empty
+      # - name: Commit results to Github
+      #   run: |
+      #     git config --local user.email "vskrishnan27@gmail.com"
+      #     git config --global user.name "vskrishnan27"
+      #     git commit -m "vskrishnan-run by actions" --allow-empty
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.P_A_T }}
-          branch: ${{ github.ref }}
+      # - name: Push changes
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: ${{ secrets.P_A_T }}
+      #     branch: ${{ github.ref }}
 
       - name : Trigger next workflow
         run: |

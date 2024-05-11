@@ -186,7 +186,7 @@ jobs:
             bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "github = ${{ env.domain_name }}"
           else
             echo "File is empty, skipping notification..."
-         
+          fi
 
       # - name: Notify CVE details 
       #   run: |

@@ -15,5 +15,3 @@ if echo "$response" | grep -i -q "bad cred"; then
 elif echo "$response" | grep -i -q "failed"; then
     Msg_to_send="Failed to trigger the workflow, please check your Github token. - failed" 
 fi
-
-bash "$GITHUB_WORKSPACE/scripts/notify/discordNotify.sh" "$Msg_to_send"

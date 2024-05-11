@@ -33,4 +33,4 @@ while IFS= read -r domain || [ -n "$domain" ]; do
 done < "$input_file"
 
 # Call discordNotify.sh script with all_domains as an argument
-"$GITHUB_WORKSPACE/scripts/notify/discordNotify.sh" "$all_domains"
+# "$GITHUB_WORKSPACE/scripts/notify/discordNotify.sh" "$all_domains"

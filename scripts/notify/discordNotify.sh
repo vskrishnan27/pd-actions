@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Define your webhook URL
-WEBHOOK_URL='https://discord.com/api/webhooks/1200740078440415283/QlEACf-o8vnK0pWJ8-METv1pQRAeB-8yZgVFxFDvpEqvxr4dNdlANdHyVt1a25uOgiTM?name=testvalue12'
+# WEBHOOK_URL='https://discord.com/api/webhooks/1200740078440415283/QlEACf-o8vnK0pWJ8-METv1pQRAeB-8yZgVFxFDvpEqvxr4dNdlANdHyVt1a25uOgiTM?name=testvalue12'
+WEBHOOK_URL="https://cliq.zoho.com/company/64396901/api/v2/channelsbyname/webhookq/message?zapikey=1001.84b664eb7a45c0bd43c3d12a0cf04d90.bef5722b3a27ef64b052122e4a151dd7"
 
 # Parse the argument (start or end)
 if [ "$1" == "start" ]; then
@@ -15,7 +16,7 @@ fi
 echo $MESSAGE
 
 # Define the JSON data using the parsed message
-JSON_DATA="{\"content\":\"$MESSAGE\"}"
+JSON_DATA="{\"text\":\"$MESSAGE\"}"
 
 echo $JSON_DATA
 
@@ -28,6 +29,5 @@ curl --request POST \
   --header 'Content-Type: application/json' \
   --cookie "$COOKIES" \
   --data "$JSON_DATA"
-
 
 echo "Notification sent to discord server"

@@ -157,9 +157,9 @@ jobs:
           httpx -l ${{ env.folder_path }}/active_ports.txt | tee ${{ env.folder_path }}/active_urls.txt
         shell: bash
 
-      - name: Notify Active urls Count  
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Urls :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_urls.txt |wc -l)"      
+      # - name: Notify Active urls Count  
+      #   run: |
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Urls :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_urls.txt |wc -l)"      
     
       - name: Downloading Nuclei Templates
         run: |
@@ -175,6 +175,18 @@ jobs:
         run: | 
           nuclei -t http/ -l ${{ env.folder_path }}/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee output/nuclei/${{ env.domain_name }}.txt
         shell: bash
+      
+      - name: Notify CVE details if file is not empty
+        run: |
+          FILE_PATH="$GITHUB_WORKSPACE/output/nuclei/${{ env.domain_name }}.txt"
+          FILE_CONTENT=$(cat "$FILE_PATH" | wc -l)
+          echo "File Content Lines: $FILE_CONTENT"
+          if [ $FILE_CONTENT -gt 0 ]; then
+            echo "File is not empty, sending notification..."
+            bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "github = ${{ env.domain_name }}"
+          else
+            echo "File is empty, skipping notification..."
+         
 
       # - name: Notify CVE details 
       #   run: |

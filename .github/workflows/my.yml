@@ -111,36 +111,36 @@ jobs:
           pwd
         shell: bash
 
-      - name: Running SubFinder for passive DNS enumeration
-        run: |
-          subfinder -dL input/domains.txt -config config/subfinder-config.yaml -o ${{ env.folder_path }}/passive_subdomains.txt
-        shell: bash
+      # - name: Running SubFinder for passive DNS enumeration
+      #   run: |
+      #     subfinder -dL input/domains.txt -config config/subfinder-config.yaml -o ${{ env.folder_path }}/passive_subdomains.txt
+      #   shell: bash
 
-      - name: Notify Passive Domains Count  
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Passive Subdomains :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/passive_subdomains.txt | wc -l)"
+      # - name: Notify Passive Domains Count  
+      #   run: |
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Passive Subdomains :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/passive_subdomains.txt | wc -l)"
 
-      - name: Running dnsx for valid DNS filtering 
-        run: |
-          dnsx -l ${{ env.folder_path }}/passive_subdomains.txt -t 50 | tee ${{ env.folder_path }}/active_subdomains.txt
-        shell: bash
+      # - name: Running dnsx for valid DNS filtering 
+      #   run: |
+      #     dnsx -l ${{ env.folder_path }}/passive_subdomains.txt -t 50 | tee ${{ env.folder_path }}/active_subdomains.txt
+      #   shell: bash
         
-      - name: Notify Active Sub Domains Count  
-        run: |
-          bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Subdomains :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_subdomains.txt |wc -l)"  
+      # - name: Notify Active Sub Domains Count  
+      #   run: |
+      #     bash $GITHUB_WORKSPACE/scripts/notify/discordNotify.sh "Active Subdomains :: ${{ steps.read-and-store.outputs.DOMAIN_NAME }} : $(cat $GITHUB_WORKSPACE/${{ env.folder_path }}/active_subdomains.txt |wc -l)"  
       
-      - name: List output directry
-        run: |
-          ls -lt output/
-        shell: bash  
-      - name: Log naabu version
-        run: |
-          naabu --version
-        shell: bash
+      # - name: List output directry
+      #   run: |
+      #     ls -lt output/
+      #   shell: bash  
+      # - name: Log naabu version
+      #   run: |
+      #     naabu --version
+      #   shell: bash
 
-      - name: Running naabu to check top 100 ports
+      - name: naabu scan
         run: |
-          naabu -l ${{ env.folder_path }}/active_subdomains.txt -rate 10000 | tee ${{ env.folder_path }}/active_ports.txt
+          naabu -l input/domains.txt -rate 10000 | tee ${{ env.folder_path }}/active_ports.txt
         shell: bash
 
       - name: Notify Active Ports Count  
